@@ -67,7 +67,7 @@ alégre (adj.),Tu alegre i yo kontente.,alegre,"happy, glad","neşeli, şen",Jen
 alevantár (v),El Dio solo alevanta i arrebasha.,levantar,lift,kaldırmak,Jeneral,69,,
 alevantárse (v),Se alevantaron los pipinos a harvar al bahchevan.,levantarse,get up,kalkmak,Jeneral,70,levantar-se,se lever
 álgo (pron.),Algo akontesio?,algo,something,birşey,Jeneral,71,,
-algún (adj.,"Si viene algun prove, dale a komer.","alguien, algo","someone, something","birisi, herhangi bir",Jeneral,72,,
+algún (adj.),"Si viene algun prove, dale a komer.","alguien, algo","someone, something","birisi, herhangi bir",Jeneral,72,,
 algúno (pron.),Alguno vino?,"alguien, alguno","someone, some, any","birisi, herhangi biri",Jeneral,73,,
 alhád (m),Shabat por la tadre es Noche de Alhad.,domingo,Sunday,pazar,Jeneral,1196,domingo,dimanche
 alimentár (v),Uzavamos maiz para alimentar a las gayinas.,alimentar,feed,beslemek,Jeneral,74,,alimenter
@@ -111,7 +111,7 @@ ansí (adv.),"Komo el sol aklara la tinievla, ansi el estudyo aklara a la inyore
 ansína (adv.),"Ansina topimos el mundo, ansina lo vamos a deshar.",así,so,böyle,Jeneral,1210,,
 ántes (prep.),Me demandates la alkunya ke teniya antes de kazarme.,antes,before,önce,Jeneral,96,,
 négro / négra (adj.),"Ken negro aze, negro topa.",malo / mala,bad,"kötü, fena",Jeneral,2746,,
-antíko / antíka (adj.,Este kal es antiko (500 anios).,antigua,antique,antika,Jeneral,1211,,
+antíko / antíka (adj.),Este kal es antiko (500 anios).,antigua,antique,antika,Jeneral,1211,,
 antiyér (adv.),Antiyer me estava muriendo de la dolor.,anteayer,day before yesterday,evveli gün,Jeneral,98,,
 antójos (m/p),"Es flako i alto, tiene antojos.",gafas,spectacles,gözlük,Jeneral,99,,lunettes
 anunsiár (v),Tengo el plazer de anunsiarvos ke ya salyo el livro de kurso de Ladino .,anunciar,"announce, proclaim","duyurmak, ilân etmek",Jeneral,1212,,annoncer
@@ -236,7 +236,7 @@ bira,,cerveza,beer,bira,Jeneral,179,,
 bisikleta,,bicicleta,bicycle,bisiklet,Jeneral,180,,
 bivir,,vivir,live,yaşamak,Jeneral,181,,
 "bízba, bézba (f)",Va avlando la mizma koza: Bizba detras de la oreja.,"avispa, abeja","wasp, bee","eşek arısı, arı",Jeneral,1255,,
-blánko / a (adj.,"El masapan, el dulse blanko lo aziyan en kaza.",blanco / a,white,beyaz,Jeneral,182,branco,blanc
+blánko / a (adj.),"El masapan, el dulse blanko lo aziyan en kaza.",blanco / a,white,beyaz,Jeneral,182,branco,blanc
 blondo/a,,rubio / a,blond,sarışın,Jeneral,183,,
 blu (adj.),Yehudi Menuhin era blondo kon ojos blu.,azul,blue,mavi,Jeneral,184,azul,bleu
 bodrum,,bodega,basement,bodrum,Jeneral,185,,
@@ -370,7 +370,7 @@ dublar,,doblar,"double, fold up","çiftlemek, katlamak",Jeneral,280,,
 dulse,,dulce,sweet,tatliı,Jeneral,281,,
 "dunke, alora",,"entonces, por lo tanto",therefore,öyleyse,Jeneral,282,,
 durasion,,duración,duration,süreç,Jeneral,283,,
-durmir v),"Durmir bueno es importante para la mente i el puerpo,",dormir,sleep,uyumak,Jeneral,284,dormir,dormir
+durmir (v),"Durmir bueno es importante para la mente i el puerpo,",dormir,sleep,uyumak,Jeneral,284,dormir,dormir
 dúro / dúra (adj.),"Para la karne dura, dyentes rezyos.",duro / dura,hard,"sert, zorlu",Jeneral,285,,dure
 ebreo,,hebreo,Hebrew,ıbranıce,Jeneral,1288,,
 echar,,"echar, arrojar",throw,atmak,Jeneral,286,,
@@ -526,7 +526,7 @@ fantastiko/a,,fantástico / a,fantastic,inanılmaz,Jeneral,402,,
 "fantazía, fantezíya (f)",Solo fueron fantazias.,fantasía,fantasy,fantezi,Jeneral,403,,fantaisie
 farmasiya,,farmacia,pharmacy,eczane,Jeneral,404,,
 fashisto/a,,fascista,fascist,faşist,Jeneral,405,,
-"fásil, koláy (adj.",Ke se les aga mas fasil i ke syerva a todos.,fácil,easy,kolay,Jeneral,406,fácil,facile
+"fásil, koláy (adj.)",Ke se les aga mas fasil i ke syerva a todos.,fácil,easy,kolay,Jeneral,406,fácil,facile
 fatigado/a,,fatigado / a,tired,yorgun,Jeneral,407,,
 fatigar,,fatigar,tire,yorulmak,Jeneral,408,,
 favor,,favor,favour,lütuf,Jeneral,409,,
@@ -540,7 +540,7 @@ ferír (v),Tantos muertos i feridos! Komo es pozivle esto?,herir,"hurt, injure",
 "fiérro, fyérro (m)","Ijo de kriar, fierro de mashkar.",hierro,iron,demir,Jeneral,415,ferro,fer
 fiesta,,fiesta,feast,bayram,Jeneral,416,,
 fiestar,,hacer fiesta,feast,kutlamak,Jeneral,1332,,
-fíkso / fíksa (adj.,La gramatika tiene reglas fiksas para el uzo de las palavras.,fijo,fixed,sabit,Jeneral,417,,
+fíkso / fíksa (adj.),La gramatika tiene reglas fiksas para el uzo de las palavras.,fijo,fixed,sabit,Jeneral,417,,
 fiksár (v),Devemos desidar i fiksar un program.,fijar,"fix, fasten, secure","saptamak, göz dıkmek",Jeneral,1333,,
 filmo,,película,"film, movie",film,Jeneral,418,,
 filozofia,,filosofía,philosophy,felsefe,Jeneral,419,,
@@ -2450,7 +2450,7 @@ tal (adj.),"Tal padre, tal ijo; tal arvol, tal fruto; tal nombre, tal ombre.",ta
 adá (f),"En Estanbol, ivamos a la Ada a pasar la enveranada.",isla,island,ada,Estanbol,2788,ilha,île
 "tánto, tánta (adv.)",Tanto me vino afuerte ke me saltaron las lagrimas.,"tanto, tanta","so much, so many",o kadar,Jeneral,2627,,
 kanyamázo (m),Las metiya en un kanyamazo limpio.,trapo,"rag, cloth",bez,Estanbol,2787,,"chiffon, torchon"
-adjektívo (m).,"La verdad i la sinseridad son los dos adjektivos ke resumen mi boletin.
+adjektívo (m),"La verdad i la sinseridad son los dos adjektivos ke resumen mi boletin.
 ",adjetivo,adjective,sıfat,Jeneral,2629,,
 tan (adv.),Es tan grande ke no kave por la puerta.,tan,so,"o kadar, o derece",Jeneral,2631,,
 te (pron.),"Yo te lo digo, tu ke lo sepas.",te,"you, to you, yourself","seni, sana",Jeneral,2632,,
@@ -2875,7 +2875,7 @@ akudír (v),Se kayo a la mar i no uvo ken lo akudiera.,acudir,"rush up, hurry to
 chapétas (f),CHAPETA es kuando ensupito las karas se azen koloradas seya de verguensa o de otra koza.,sofoco; enrojecimiento del rostro,hot flushes; reddening of the face,sıcak basması; yüz kızarıklığı,Jeneral,3059,,bouffées de chaleur; rougissement
 alhamóra; chapéta (f),Se namoro de su mustacho preto i de la ALHAMORA kolorada...  ,sofoco; enrojecimiento del rostro,hot flushes; reddening of the face,sıcak basması; yüz kızarıklığı,Jeneral,3060,,bouffées de chaleur; rougissement
 alhád (m),"Se kazan todos los djudios de Izmir, siempre en dia de alhad.",domingo,Sunday,Pazar günü,Jeneral,3061,domingo,dimanche
-Kanyúto (m); kanyúto de la naríz,azer kitar la alma por el kanyuto de la nariz,"caño, tubo; fosa nasal","pipe, tube; nostril","boru, tüp; burun deliği",Jeneral,3062,,"tuyau, tube; narine"
+Kanyúto (m), kanyúto de la naríz,azer kitar la alma por el kanyuto de la nariz,"caño, tubo; fosa nasal","pipe, tube; nostril","boru, tüp; burun deliği",Jeneral,3062,,"tuyau, tube; narine"
 "barabár, barabér (adv.)",Fazerse a barabar kon uno (familiar).,juntos,together,beraber,Balkanes,3063,,ensemble
 Dumalán (m),"Yo no konosko ""dumalan"", ma lo tiene el diksionaryo de Nehama.",apio; persona de mente estrecha,"celeriac, celery root; narrow-minded",kereviz; dar kafalı,Salonik,3064,,céleri; individu borné
 Dombalá (f),"En Izmir el ""yer elmasi"" turko ke es semejante a la patata, lo yamamos ""Dombala"" i la komida es muy savroza ",batata,Jerusalem artichoke,yer elması,Izmir,3065,,topinambour
