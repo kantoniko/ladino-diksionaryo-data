@@ -1,5 +1,8 @@
 import csv
 import re
+import sys
+import yaml
+
 
 signs = {
     r'\(f\)': "female",
@@ -12,6 +15,17 @@ signs = {
     r'\(prep\.\)': "preposition",
     r'\([pP]ron\.\)': "pronoun",
 }
+
+accents = {
+    'á': 'a',
+    'í': 'i',
+    'é': 'e',
+    'ó': 'o',
+    'ú': 'u',
+    'ü': 'u',
+}
+words_regex = f"^[ a-zA-Z{''.join(sorted(accents.keys()))}]+(\.\.\.|!|\?)?$"
+
 
 def remove_accent(ladino):
     ladino = re.sub(r'á', 'a', ladino)
@@ -38,10 +52,15 @@ def get_grammer_types():
             types[grammar_type] = True
             ladino = match.group(1)
 
+def _err(msg):
+    print(f"ERROR {msg}", file=sys.stderr)
+
 def main():
     filename = "diksionario_biervos_excel_corrected.csv"
     with open(filename) as fh:
         rd = csv.DictReader(fh, delimiter=',')
+
+        dictionary = {}
 
         for row in rd:
             ladino = row.get('Palavra')
@@ -51,15 +70,46 @@ def main():
             #print(ladino)
             #print(english)
             if ladino is None:
-                print(f"ERROR Ladino is None in {row}")
+                _err(f"Ladino is None in {row}")
                 continue
             if english is None:
-                print(f"ERROR English is None in {row}")
+                _err(f"English is None in {row}")
                 continue
 
-            match = re.search(r'^[^()]+(\(.*\))?$', ladino)
+            match = re.search(r'^(?P<words>[^()]+?)\s*(?P<grammar>\(.*\))?\s*$', ladino)
             if match is None:
-                print(f"ERROR in Ladino '{ladino}'")
+                _err(f"Ladino does not match it is '{ladino}'")
+                continue
+            grammar = match.group('grammar')
+            words_str = match.group('words') #.encode('utf-8').decode('utf-8')
+            #print(words_str)
+            words = re.split(r'\s*[/,]\s*', words_str)
+            for word in words:
+                match = re.search(words_regex, word)
+                if not match:
+                    _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
+                    continue
+                #print(word)
+                if len(english) < 2:
+                    continue
+                dictionary[english] = word # TODO allow for more words here
+
+    data = {
+        'Two-way-dictionary': dictionary,
+    }
+    filename = "ladinokomunita.yaml"
+    #print(data)
+    with open(filename, 'w') as fh:
+        fh.write("# This is a generated file. Do not edit manually!\n\n")
+        fh.write("Skill:\n")
+        fh.write("  Name: Ladinokomunita\n")
+        fh.write("  Id: 1000\n\n")
+        fh.write("New words: []\n")
+        fh.write("Phrases: []\n\n")
+        yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
+
+            #if grammar is None:
+            #    print(ladino)
 
             #grammer_types = get_grammer_types(ladino)
             #ladino = remove_accent(ladino)
