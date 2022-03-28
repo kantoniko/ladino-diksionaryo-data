@@ -118,7 +118,7 @@ anunsiár (v),Tengo el plazer de anunsiarvos ke ya salyo el livro de kurso de La
 anyáda (f),"Anyada (al lugar de anyo) se uza para auguros, kon el adjektivo ""buena"" despues. Esto kere dizir el periodo del anyo entero. Eg.: Anyada dulse kon alegriya i sanedad para todos.",año,year,"senelik, yıl",Jeneral,1,,
 ányo (m),"Mas vale sien anyos de galera, ke ir debasho de tierra. (Neh.)",año,year,sene,Jeneral,100,,an
 anyúdo (m),Mos burlamos ma siempre echamos un anyudo kuando pyedremos una koza!,nudo,knot,düğüm,Jeneral,101,,noeud
-"aparejár, aprontár, (v)",Apareji un dulse de mansana ke se izo muy savrozo.,preparar,prepare,hazırlamak,Jeneral,102,,préparer
+"aparejár, aprontár (v)",Apareji un dulse de mansana ke se izo muy savrozo.,preparar,prepare,hazırlamak,Jeneral,102,,préparer
 apénas (adv),"Apenas aboltas la kara, ya se izo tadre.",apenas,"scarcely, hardly","henüz, ancak, zar zor",Jeneral,103,apenas,à peine
 apozar,,posar,lay down,koymak,Jeneral,1214,,
 apresurarse,,darse prisa,hurry,telâş etmek,Jeneral,105,,
@@ -579,7 +579,8 @@ fuyir,,huir,"run away, escape",kaçmak,Jeneral,449,,
 gamba,,gamba,prawn,iri karides,Jeneral,450,,
 ganeden,,paraíso,"paradise, Garden of Eden",cennet,Jeneral,1546,,
 garganta,,cuello,neck,boyun,Jeneral,451,,
-garson - a,,camarero / a,waiter - waitress,garson,Jeneral,452,,
+garson,,camarero,waiter,garson,Jeneral,452,,
+garsona,,camarera,waitress,garson,Jeneral,452b,,
 gato,,gato,cat,kedi,Jeneral,453,,
 gayá (peshkado) (f),Los djudios de Estanbol gizan la gaya kon avramilas.,zarguela,forkbeard fish,gelincik/kaya balığı,Jeneral,454,,
 gayardiya,,gallardía,gracefulness,,Jeneral,1339,,
@@ -588,7 +589,8 @@ gayinero,,gallinero,henhouse,kümes,Jeneral,456,,
 gayo,,gallo,cock,horoz,Jeneral,457,,
 gazéta (f),Kreygo ke el Forward es la mas popular gazeta djudia en los Estados Unidos.,periódico,newspaper,gazete,Jeneral,458,jornal,journal
 gerra,,guerra,war,harp,Jeneral,459,,
-giador - a,,guía,guide,"rehber, lıder",Jeneral,1340,,
+giador,,guía,guide,"rehber, lıder",Jeneral,1340,,
+giadora,,guía,guide,"rehber, lıder",Jeneral,1340b,,
 gitara,,guitarra,guitar,gitar,Jeneral,460,,
 gizár (v),"El se lo giza, el se lo kome.","guisar, cocinar",cook,yemek pişirmek,Jeneral,1341,cozinhar,cuisiner
 godro/a,,gordo / a,fat,şişman,Jeneral,461,,
@@ -904,7 +906,7 @@ maraviyárse (v),No te maraviyes...,maravillarse,"marvel, wonder","hayran olmak,
 material,,material,material,madde,Jeneral,1410,,
 maydanoz,,perejil,parsley,maydanoz,Jeneral,1411,,
 maz,,más,more,daha çok,Jeneral,704,,
-"mazál, (m)","Kismet es byervo turko ke kere dizir mazal, o suerte.","suerte, destino","fate, destiny, sort, chance, lot","nasip, kısmet",Jeneral,705,sorte,"destinée, sort, chance"
+"mazál (m)","Kismet es byervo turko ke kere dizir mazal, o suerte.","suerte, destino","fate, destiny, sort, chance, lot","nasip, kısmet",Jeneral,705,sorte,"destinée, sort, chance"
 suerte,,suerte,"luck, fortune","şans, kader",Jeneral,706,,
 mazalózo / mazalóza (adj.),Sos muy mazaloza de tener esta vida ke tyenes.,afortunado / afortunada,fortunate,"şanslı, kısmetli",Jeneral,707,fortunoso,"chanceux,"
 medalya,,medalla,medal,madalya,Jeneral,708,,
@@ -1161,7 +1163,8 @@ problem,,problema (el),problem,problem,Jeneral,902,,
 prodjekto,,proyecto,project,proje,Jeneral,903,,
 profesar,,profesar,"profess, practice",mesleğini icra etmek,Jeneral,1466,,
 profesional,,profesional,professional,profesyonel,Jeneral,904,,
-profesor-a,,profesor-a,teacher,öğretmen,Jeneral,905,,
+profesor,,profesor,teacher,öğretmen,Jeneral,905,,
+profesora,,profesora,teacher,öğretmen,Jeneral,905,,
 profitar,,aprovechar,profit,istifade etmek,Jeneral,1467,,
 profundo,,profundo,"deep, profound",derin,Jeneral,1468,,
 "programa, program",,programa,program,program,Jeneral,906,,
@@ -1396,9 +1399,11 @@ topar,,"hallar, encontrar",find,bulmak,Jeneral,1089,,
 toparse,,meterse,to be present,bulunmak,Jeneral,1090,,
 tornar,,tornar,turn,dönmek,Jeneral,1091,,
 traduizir,,traducir,translate,tercüme etmek,Jeneral,1092,,
-traduktor - a,,traductor - a,translator,tercüman,Jeneral,1093,,
+traduktor,,traductor,translator,tercüman,Jeneral,1093,,
+traduktora,,traductora,translator,tercüman,Jeneral,1093b,,
 traer,,traer,bring,getirmek,Jeneral,1094,,
-traidor-a,,traidor-a,traitor,hain,Jeneral,1095,,
+traidor,,traidor,traitor,hain,Jeneral,1095,,
+traidora,,traidora,traitor,hain,Jeneral,1095b,,
 trajedia,,tragedia,tragedy,"facia, trajedi",Jeneral,1522,,
 tratar,,tratar,"treat, deal","davranmak, pazarlık etmek",Jeneral,1096,,
 travar,,tirar,"pull, shoot","çekmek, ates etmek",Jeneral,1097,,
@@ -1752,7 +1757,8 @@ Ke t'emporta?",importar,matter,önemli olmak,Jeneral,1857,,
 imprudensia,,imprudencia,imprudence,tedbirsizlik,Jeneral,1859,,
 infasio,,tedio,boredom,usanç,Jeneral,1862,,
 informasion,,información,information,malûmat,Jeneral,1863,,
-inisial - a,,inicial - a,initial,baştaki,Jeneral,1864,,
+inisial,,inicial,initial,baştaki,Jeneral,1864,,
+inisiala,,iniciala,initial,baştaki,Jeneral,1864b,,
 inkieto / a,,inquieto / a,"restless, worried",endişeli,Jeneral,1865,,
 inkonvenivle,,inconveniente,inconvenient,münasip olmayan,Jeneral,1867,,
 inseguridad,,inseguridad,insecurity,güvensizlik,Jeneral,1868,,
@@ -1793,7 +1799,8 @@ kon si mizmo,,consigo mismo,with himself / her/you,kendi kendine,Jeneral,1912,,
 kondanasion,,condenación,"condemnation, sentence",mahkûmiyet,Jeneral,1913,,
 kondision,,condición,condition,şart,Jeneral,1914,,
 kondukta,,conducta,conduct,davranış,Jeneral,1915,,
-konduktor - a,,conductor - a,conductor,sürücü,Jeneral,1916,,
+konduktor,,conductor,conductor,sürücü,Jeneral,1916,,
+konduktora,,conductora,conductor,sürücü,Jeneral,1916b,,
 konfidensia,,confidencia,"confidence, secret","sır, güven",Jeneral,1917,,
 konfirmar,,corroborar,corroborate,teyid etmek,Jeneral,1918,,
 konfonder,,confundir,"confuse, mix, mingle","karıştırmak, şaşırtmak",Jeneral,1919,,
@@ -2741,7 +2748,6 @@ bráza (f),Mos esta kemando komo braza.,brasa,live charcoal,kor,Jeneral,2923,,
 déyo / déya (m/f),Dizen ke se deve tener siempre dos deyos en la meza.,"de ello, de ella",piece (kuantos deyos? = how many?),tane,Jeneral,2924,,
 sólu (adj.),"La hakitiya es solu una otra variedad del
 djudio-espanyol.",solo,only,sadece,Sarayevo,2926,,
-*,*,*,*,*,*,2928,*,*
 dóbro / dóbra (adj.),Eya es una mujer dobra.,"bien, bueno","good, nice",iyi,Balkanes,2927,,
 por módo de (m),Te troki siertas palavras por modo de la ortografiya ke se uza en LK.,"a causa de, por causa de",because of,bundan ötürü,Jeneral,2929,,
 "Por módo de, por mor de (m)",Teniyan kaminos para ir por mor de salvarsen de la persekusion.,"para, para que",in order to,"için, diye",Izmir,2930,,
@@ -2873,7 +2879,7 @@ adjamí / adjamía (adj),No se komo se aze porke dainda so un adjami.,"novicio, 
 agranáda (f),Mi tiya morava en un moshav i teniyan arvoles de agranadas.,granada (fruta),pomegranate,nar,Jeneral,3057,romã,grenade (fruit)
 akudír (v),Se kayo a la mar i no uvo ken lo akudiera.,acudir,"rush up, hurry to help",yardıma koşmak,Jeneral,3058,,accourir au secours
 chapétas (f),CHAPETA es kuando ensupito las karas se azen koloradas seya de verguensa o de otra koza.,sofoco; enrojecimiento del rostro,hot flushes; reddening of the face,sıcak basması; yüz kızarıklığı,Jeneral,3059,,bouffées de chaleur; rougissement
-alhamóra; chapéta (f),Se namoro de su mustacho preto i de la ALHAMORA kolorada...  ,sofoco; enrojecimiento del rostro,hot flushes; reddening of the face,sıcak basması; yüz kızarıklığı,Jeneral,3060,,bouffées de chaleur; rougissement
+"alhamóra, chapéta (f)",Se namoro de su mustacho preto i de la ALHAMORA kolorada...  ,sofoco; enrojecimiento del rostro,hot flushes; reddening of the face,sıcak basması; yüz kızarıklığı,Jeneral,3060,,bouffées de chaleur; rougissement
 alhád (m),"Se kazan todos los djudios de Izmir, siempre en dia de alhad.",domingo,Sunday,Pazar günü,Jeneral,3061,domingo,dimanche
 Kanyúto (m), kanyúto de la naríz,azer kitar la alma por el kanyuto de la nariz,"caño, tubo; fosa nasal","pipe, tube; nostril","boru, tüp; burun deliği",Jeneral,3062,,"tuyau, tube; narine"
 "barabár, barabér (adv.)",Fazerse a barabar kon uno (familiar).,juntos,together,beraber,Balkanes,3063,,ensemble
