@@ -60,7 +60,7 @@ def main():
     with open(filename) as fh:
         rd = csv.DictReader(fh, delimiter=',')
 
-        dictionary = {}
+        dictionary = []
 
         for row in rd:
             ladino = row.get('Palavra')
@@ -92,7 +92,7 @@ def main():
                 #print(word)
                 if len(english) < 2:
                     continue
-                dictionary[english] = word # TODO allow for more words here
+                dictionary.append({english: word})
 
     data = {
         'Two-way-dictionary': dictionary,
@@ -103,7 +103,7 @@ def main():
         fh.write("# This is a generated file. Do not edit manually!\n\n")
         fh.write("Skill:\n")
         fh.write("  Name: Ladinokomunita\n")
-        fh.write("  Id: 1000\n\n")
+        fh.write("  Id: 10000\n\n")
         fh.write("New words: []\n")
         fh.write("Phrases: []\n\n")
         yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
