@@ -2,6 +2,7 @@ import csv
 import re
 import sys
 import yaml
+import copy
 
 
 signs = {
@@ -55,45 +56,7 @@ def get_grammer_types():
 def _err(msg):
     print(f"ERROR {msg}", file=sys.stderr)
 
-def main():
-    filename = "diksionario_biervos_excel_corrected.csv"
-    with open(filename) as fh:
-        rd = csv.DictReader(fh, delimiter=',')
-
-        dictionary = []
-
-        for row in rd:
-            ladino = row.get('Palavra')
-            english = row.get('English')
-            #examples = row.get('Eshemplos')
-            #Espanyol,Turkish,Origen,id,Portuguese,French
-            #print(ladino)
-            #print(english)
-            if ladino is None:
-                _err(f"Ladino is None in {row}")
-                continue
-            if english is None:
-                _err(f"English is None in {row}")
-                continue
-
-            match = re.search(r'^(?P<words>[^()]+?)\s*(?P<grammar>\(.*\))?\s*$', ladino)
-            if match is None:
-                _err(f"Ladino does not match it is '{ladino}'")
-                continue
-            grammar = match.group('grammar')
-            words_str = match.group('words') #.encode('utf-8').decode('utf-8')
-            #print(words_str)
-            words = re.split(r'\s*[/,]\s*', words_str)
-            for word in words:
-                match = re.search(words_regex, word)
-                if not match:
-                    _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
-                    continue
-                #print(word)
-                if len(english) < 2:
-                    continue
-                dictionary.append({english: word})
-
+def save_librelingo_format(dictionary):
     data = {
         'Two-way-dictionary': dictionary,
     }
@@ -108,11 +71,90 @@ def main():
         fh.write("Phrases: []\n\n")
         yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
 
+def save_yaml_format(full):
+    filename = "dictionary.yaml"
+    data = {
+        'words': full
+    }
+    with open(filename, 'w') as fh:
+        yaml.dump(full, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
+
+def main():
+    filename = "diksionario_biervos_excel_corrected.csv"
+    dictionary = []
+    full = []
+    with open(filename) as fh:
+        rd = csv.DictReader(fh, delimiter=',')
+
+
+        for row in rd:
+            ladino = row.get('Palavra')
+            eshemplos = row.get('Eshemplos')
+            examples = []
+            if eshemplos is not None and eshemplos != '':
+                examples = [eshemplos]
+            entry = {
+                'english'    : row.get('English'),
+                'examples'   : examples,
+                'spanish'    : row.get('Espanyol'),
+                'turkish'    : row.get('Turkish'),
+                'origen'     : row.get('Origen'),
+                'id'         : row.get('id'),
+                'portuguese' : row.get('Portuguese'),
+                'french'     : row.get('French'),
+            }
+            #print(ladino)
+            #print(english)
+            if ladino is None:
+                _err(f"Ladino is None in {row}")
+                continue
+            #if entry['english'] is None:
+            #    _err(f"English is None in {row}")
+            #    continue
+            #if len(entry['english']) < 2:
+            #    _err(f"English is too short in {row}")
+            #    continue
+
+            match = re.search(r'^(?P<words>[^()]+?)\s*(\((?P<grammar>.*)\))?\s*$', ladino)
+            if match is None:
+                _err(f"Ladino does not match it is '{ladino}'")
+                continue
+            grammar = match.group('grammar')
+            words_str = match.group('words') #.encode('utf-8').decode('utf-8')
+            #print(words_str)
+            words = re.split(r'\s*[/,]\s*', words_str)
+            for word in words:
+                match = re.search(words_regex, word)
+                if not match:
+                    _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
+                    continue
+                #print(word)
+                dictionary.append({entry['english']: word})
+                plain_word = remove_accent(word)
+                #if plain_word in full:
+                #    prev = copy.deepcopy(full[plain_word])
+                #    #prev_accented = prev.pop('accented')
+                #    _err(f"Ladino word '{plain_word}' already exists. (original '{word}' row: {row})")
+                #    print(prev, file=sys.stderr)
+                #    print(entry, file=sys.stderr)
+                #    print('-----', file=sys.stderr)
+                #    continue
+                #full[plain_word] = copy.deepcopy(entry)
+                data = copy.deepcopy(entry)
+                data['accented'] = word
+                data['ladino'] = plain_word
+                data['grammar'] = grammar
+                full.append(data)
+            #if len(list(full.keys())) > 500:
+            #    break
+
+    save_librelingo_format(dictionary)
+    #print(full)
+    save_yaml_format(sorted(full, key=lambda entry: entry['ladino']))
             #if grammar is None:
             #    print(ladino)
 
             #grammer_types = get_grammer_types(ladino)
-            #ladino = remove_accent(ladino)
 
             #ladino_words = [ladino]
             #if re.search(r'/', ladino):
