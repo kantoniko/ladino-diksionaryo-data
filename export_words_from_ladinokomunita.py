@@ -83,6 +83,7 @@ def main():
     filename = "diksionario_biervos_excel_corrected.csv"
     dictionary = []
     full = []
+    all_words = set()
     with open(filename) as fh:
         rd = csv.DictReader(fh, delimiter=',')
 
@@ -131,6 +132,7 @@ def main():
                 #print(word)
                 dictionary.append({entry['english']: word})
                 plain_word = remove_accent(word)
+                all_words.add(plain_word)
                 #if plain_word in full:
                 #    prev = copy.deepcopy(full[plain_word])
                 #    #prev_accented = prev.pop('accented')
@@ -151,6 +153,10 @@ def main():
     save_librelingo_format(dictionary)
     #print(full)
     save_yaml_format(sorted(full, key=lambda entry: entry['ladino']))
+    with open("words.txt", "w") as fh:
+        for word in all_words:
+            print(word, file=fh)
+
             #if grammar is None:
             #    print(ladino)
 
