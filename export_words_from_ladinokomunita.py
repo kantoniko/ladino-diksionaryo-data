@@ -25,7 +25,7 @@ accents = {
     'ú': 'u',
     'ü': 'u',
 }
-words_regex = f"^[ a-zA-Z{''.join(sorted(accents.keys()))}]+(\.\.\.|!|\?)?$"
+words_regex = f"^[ a-zA-Z{''.join(sorted(accents.keys()))}.-]+(\.\.\.|!|\?)?$"
 
 
 def remove_accent(ladino):
@@ -37,7 +37,7 @@ def remove_accent(ladino):
 
     return ladino
 
-def get_grammer_types():
+def get_grammar_types():
     types = {
         "female": False,
         "verb": False,
@@ -55,6 +55,11 @@ def get_grammer_types():
 
 def _err(msg):
     print(f"ERROR {msg}", file=sys.stderr)
+
+def save_words(all_words):
+    with open("words.txt", "w") as fh:
+        for word in all_words:
+            print(word, file=fh)
 
 def save_librelingo_format(dictionary):
     data = {
@@ -85,43 +90,40 @@ def main():
     full = []
     all_words = set()
     with open(filename) as fh:
+        # Palavra,Eshemplos,Espanyol,English,Turkish,Origen,id,Portuguese,French
         rd = csv.DictReader(fh, delimiter=',')
 
 
         for row in rd:
-            ladino = row.get('Palavra')
+            ladino = row['Palavra']
             eshemplos = row.get('Eshemplos')
             examples = []
             if eshemplos is not None and eshemplos != '':
-                examples = [eshemplos]
+                examples = [{
+                    'ladino': eshemplos,
+                }]
             entry = {
-                'english'    : row.get('English'),
+                'english'    : row['English'],
                 'examples'   : examples,
-                'spanish'    : row.get('Espanyol'),
-                'turkish'    : row.get('Turkish'),
-                'origen'     : row.get('Origen'),
-                'id'         : row.get('id'),
-                'portuguese' : row.get('Portuguese'),
-                'french'     : row.get('French'),
+                'spanish'    : row['Espanyol'],
+                'turkish'    : row['Turkish'],
+                'origen'     : row['Origen'],
+                'id'         : row['id'],
+                'portuguese' : row['Portuguese'],
+                'french'     : row['French'],
             }
             #print(ladino)
             #print(english)
             if ladino is None:
                 _err(f"Ladino is None in {row}")
                 continue
-            #if entry['english'] is None:
-            #    _err(f"English is None in {row}")
-            #    continue
-            #if len(entry['english']) < 2:
-            #    _err(f"English is too short in {row}")
-            #    continue
 
             match = re.search(r'^(?P<words>[^()]+?)\s*(\((?P<grammar>.*)\))?\s*$', ladino)
             if match is None:
                 _err(f"Ladino does not match it is '{ladino}'")
                 continue
             grammar = match.group('grammar')
-            words_str = match.group('words') #.encode('utf-8').decode('utf-8')
+            words_str = match.group('words')
             #print(words_str)
             words = re.split(r'\s*[/,]\s*', words_str)
             for word in words:
@@ -145,22 +147,20 @@ def main():
                 data = copy.deepcopy(entry)
                 data['accented'] = word
                 data['ladino'] = plain_word
+                grammar_types = get_grammar_types(grammar)
                 data['grammar'] = grammar
                 full.append(data)
             #if len(list(full.keys())) > 500:
             #    break
 
-    save_librelingo_format(dictionary)
-    #print(full)
+    #save_librelingo_format(dictionary)
     save_yaml_format(sorted(full, key=lambda entry: entry['ladino']))
-    with open("words.txt", "w") as fh:
-        for word in all_words:
-            print(word, file=fh)
+    #save_words(all_words)
+
 
             #if grammar is None:
             #    print(ladino)
 
-            #grammer_types = get_grammer_types(ladino)
 
             #ladino_words = [ladino]
             #if re.search(r'/', ladino):
