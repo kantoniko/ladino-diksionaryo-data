@@ -1,14 +1,19 @@
-ladino: andjinara
-accented: Andjinára
-spanish:
-  - alcaucil
-  - alcachofa
-english: artichoke
-turkish: enginar
+grammar: noun
 origin: Jeneral
 id: 3066
-french: artichaut
-grammar: noun
+gender: female
+
+ladino: andjinara
+accented: andjinára
 alternative-spelling:
-  ladino: endjinara
-  accented: endjinára
+  - ladino: endjinara
+    accented: endjinára
+
+translations:
+  english: artichoke
+  french: artichaut
+  hebrew: ארטישוק
+  spanish:
+    - alcaucil
+    - alcachofa
+  turkish: enginar

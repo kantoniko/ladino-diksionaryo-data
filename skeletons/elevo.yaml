@@ -1,6 +1,7 @@
 grammar: noun
 id: '309'
-origen: Jeneral
+origin: Jeneral
+
 male:
   ladino: elevo
   accented: elévo
