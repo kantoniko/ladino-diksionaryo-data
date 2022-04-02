@@ -1,0 +1,63 @@
+grammar: noun
+comments:
+  - In Spanish "claro" can be used as noun, adjective, or adverb.
+  - In English "clear" can be a verb that is "aklarar" in Ladino.
+origin: Jeneral
+id: '571'
+
+versions:
+  - ladino: klaro
+    accented: klaro
+    gender: masculine
+    number: singular
+
+    translations:
+      english: clear
+      french: ''
+      hebrew: ברור
+      portuguese: ''
+      spanish: claro
+      turkish: aydınlık
+
+  - ladino: klara
+    accented: klara
+    gender: feminine
+    number: singular
+
+    translations:
+      english: clear
+      french: ''
+      hebrew: ברורה
+      portuguese: ''
+      spanish: clara
+      turkish: aydınlık
+
+  - ladino: klaros
+    accented: klaros
+    gender: masculine
+    number: plural
+
+    translations:
+      english: clear
+      french: ''
+      hebrew: ברורים
+      portuguese: ''
+      spanish: claros
+      turkish: ''
+
+  - ladino: klaras
+    accented: klaras
+    gender: masculine
+    number: plural
+
+    translations:
+      english: clear
+      french: ''
+      hebrew: ברורות
+      portuguese: ''
+      spanish: claras
+      turkish: ''
+
+examples:
+  - ladino: Mersi muncho por tu repuesta muy klara.
+    english: Thank you very much for your clear response.

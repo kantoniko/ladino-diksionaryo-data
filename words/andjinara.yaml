@@ -1,19 +1,22 @@
 grammar: noun
 origin: Jeneral
 id: 3066
-gender: female
 
-ladino: andjinara
-accented: andjinára
-alternative-spelling:
-  - ladino: endjinara
-    accented: endjinára
+versions:
+  - ladino: andjinara
+    accented: andjinára
+    gender: feminine
+    number: singular
 
-translations:
-  english: artichoke
-  french: artichaut
-  hebrew: ארטישוק
-  spanish:
-    - alcaucil
-    - alcachofa
-  turkish: enginar
+    alternative-spelling:
+      - ladino: endjinara
+        accented: endjinára
+
+    translations:
+      english: artichoke
+      french: artichaut
+      hebrew: ארטישוק
+      spanish:
+        - alcaucil
+        - alcachofa
+      turkish: enginar
