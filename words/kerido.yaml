@@ -1,0 +1,53 @@
+grammar: null
+origen: Jeneral
+id: '560'
+
+versions:
+  - ladino: kerido
+    accented: kerido
+    gender: masculine
+    number: singular
+
+    translations:
+      english: dear
+      french: ''
+      portuguese: ''
+      spanish: querido
+      turkish: aziz, sevgili
+
+  - ladino: kerida
+    accented: kerida
+    gender: feminine
+    number: singular
+
+    translations:
+      english: dear
+      french: ''
+      portuguese: ''
+      spanish: querida
+      turkish: aziz, sevgili
+
+  - ladino: keridos
+    accented: keridos
+    gender: masculine
+    number: plural
+
+    translations:
+      english: dear
+      french: ''
+      portuguese: ''
+      spanish: queridos
+      turkish: ''
+
+  - ladino: keridas
+    accented: keridas
+    gender: feminine
+    number: plural
+
+    translations:
+      english: dear
+      french: ''
+      portuguese: ''
+      spanish: queridas
+      turkish: ''
+
