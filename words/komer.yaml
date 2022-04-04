@@ -1,0 +1,64 @@
+grammar: verb
+origen: Jeneral
+id: '580'
+
+versions:
+  - ladino: komer
+    accented: komér
+
+    translations:
+      english: eat
+      french: manger
+      portuguese: ''
+      spanish: comer
+      turkish: yemek yemek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: komo
+      translations:
+        spanish: como
+        english: eat
+    tu:
+      ladino: komes
+      translations:
+        spanish: comes
+        english: eat
+    el:
+      ladino: kome
+      translations:
+        spanish: come
+        english: eats
+    mozotros:
+      ladino: komemos
+      translations:
+        spanish: comemos
+        english: eat
+    vozotros:
+      ladino: komesh
+      translations:
+        spanish: comeis
+        english: eat
+    eyos:
+      ladino: komen
+      translations:
+        spanish: comen
+        english: eat
+
+
+examples:
+  - ladino: Me dava a komer lentejas kon kuchara en la boka.
+  - ladino: Yo komo pan
+    english: I eat bread
+  - ladino: tu komes poko
+    english: You eat a little
+  - ladino: tu deves komer mas
+    english: you have to eat more
+  - ladino: Yo komo pan kon poyo.
+    english: I eat bread with chicken.
+  - ladino: Me plaze komer mansana kon kezo
+    english: I like to eat apple with cheese
+
+
+
