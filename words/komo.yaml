@@ -1,0 +1,17 @@
+grammar: null
+origen: Jeneral
+id: '1376'
+
+versions:
+  - ladino: komo
+    accented: komo
+
+    translations:
+      english: how
+      french: ''
+      hebrew: איך
+      portuguese: ''
+      spanish: como
+      turkish: nasıl
+
+examples: []
