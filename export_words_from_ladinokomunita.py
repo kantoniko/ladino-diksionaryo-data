@@ -103,14 +103,16 @@ def main():
                     'ladino': eshemplos,
                 }]
             entry = {
-                'english'    : row['English'],
-                'examples'   : examples,
-                'spanish'    : row['Espanyol'],
-                'turkish'    : row['Turkish'],
                 'origen'     : row['Origen'],
                 'id'         : row['id'],
-                'portuguese' : row['Portuguese'],
-                'french'     : row['French'],
+                'examples'   : examples,
+                'versions': [{
+                    'english'    : row['English'],
+                    'spanish'    : row['Espanyol'],
+                    'turkish'    : row['Turkish'],
+                    'portuguese' : row['Portuguese'],
+                    'french'     : row['French'],
+                }]
             }
             #print(ladino)
             #print(english)
@@ -132,7 +134,7 @@ def main():
                     _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
                     continue
                 #print(word)
-                dictionary.append({entry['english']: word})
+                dictionary.append({entry['versions'][0]['english']: word})
                 plain_word = remove_accent(word)
                 all_words.add(plain_word)
                 #if plain_word in full:
@@ -145,16 +147,16 @@ def main():
                 #    continue
                 #full[plain_word] = copy.deepcopy(entry)
                 data = copy.deepcopy(entry)
-                data['accented'] = word
-                data['ladino'] = plain_word
-                grammar_types = get_grammar_types(grammar)
+                data['versions'][0]['accented'] = word
+                data['versions'][0]['ladino'] = plain_word
+                #grammar_types = get_grammar_types(grammar)
                 data['grammar'] = grammar
                 full.append(data)
             #if len(list(full.keys())) > 500:
             #    break
 
     #save_librelingo_format(dictionary)
-    save_yaml_format(sorted(full, key=lambda entry: entry['ladino']))
+    save_yaml_format(sorted(full, key=lambda this: this['versions'][0]['ladino']))
     #save_words(all_words)
 
 
