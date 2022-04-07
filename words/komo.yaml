@@ -14,4 +14,14 @@ versions:
       spanish: como
       turkish: nasıl
 
+  - ladino: komo
+    translations:
+      english: as
+      spanish: como
+
+  - ladino: komo
+    translations:
+      english: like
+      spanish: como
+
 examples: []
