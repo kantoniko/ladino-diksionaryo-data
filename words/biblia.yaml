@@ -1,0 +1,18 @@
+grammar: null
+id: '2409'
+origen: Jeneral
+
+versions:
+  - ladino: Biblia
+    accented: Bíblia
+
+    translations:
+      english: Bible
+      french: ''
+      portuguese: ''
+      spanish: Biblia
+      turkish: Kutsal Kitap
+
+examples:
+  - ladino: Meldo la "Biblia de Ferrara" en Ladino.
+

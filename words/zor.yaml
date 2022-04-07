@@ -1,0 +1,18 @@
+grammar: null
+id: '22'
+origen: Jeneral
+
+versions:
+  - ladino: zor
+    accented: zor
+
+    translations:
+        english: difficult
+        french: ''
+        portuguese: ''
+        spanish: difícil
+        turkish: zor
+
+examples:
+  - ladino: Mi echo, komo vos dishe, no es mas zor ke del vuestro!
+
