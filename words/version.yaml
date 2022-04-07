@@ -1,0 +1,32 @@
+grammar: noun
+id: '2644'
+origen: Jeneral
+
+versions:
+  - ladino: version
+    accented: versión
+    gender: feminine
+    number: singular
+
+    translations:
+        english: version
+        french: ''
+        portuguese: ''
+        spanish: versión
+        turkish: şekil
+
+  - ladino: versiones
+    accented: versiónes
+    gender: feminine
+    number: plural
+
+    translations:
+        english: versions
+        french: ''
+        portuguese: ''
+        spanish: versiones
+        turkish: ''
+
+examples:
+  - ladino: Judy Frankel kanto una version muncho mas larga.
+
