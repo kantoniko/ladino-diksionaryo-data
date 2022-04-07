@@ -1,10 +1,18 @@
-grammar: f
+grammar: noun
+comments:
+  - TODO - pruna should be stored as a separate word, not as an alternative spelling
+
 id: '2744'
 origen: Izmir
 
 versions:
   - ladino: zirguela
     accented: zirguéla
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: pruna
 
     translations:
         english: plum
@@ -26,3 +34,4 @@ versions:
 examples:
   - ladino:  la zirguela tiene kolor blu
     english: The plum is blue
+
