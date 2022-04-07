@@ -1,0 +1,28 @@
+grammar: null
+id: '1138'
+origen: Jeneral
+
+versions:
+  - ladino: vez
+    accented: vez
+    number: singular
+
+    translations:
+        english: time, instance
+        french: ''
+        portuguese: ''
+        spanish: vez
+        turkish: defa
+
+  - ladino: vezes
+    accented: vezes
+    number: plural
+
+    translations:
+        english: times, instances
+        french: ''
+        portuguese: ''
+        spanish: veces
+        turkish: ''
+
+examples: []
