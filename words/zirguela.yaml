@@ -23,6 +23,8 @@ versions:
 
   - ladino: zirguelas
     accented: zirguélas
+    gender: feminine
+    number: plural
 
     translations:
         english: plums
