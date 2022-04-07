@@ -85,7 +85,8 @@ def save_yaml_format(full):
         yaml.dump(full, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
 
 def main():
-    filename = "diksionario_biervos_excel_corrected.csv"
+    #filename = "diksionario_biervos_excel_corrected.csv"
+    filename = "biervos.csv"
     dictionary = []
     full = []
     all_words = set()
