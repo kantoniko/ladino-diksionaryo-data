@@ -1,0 +1,16 @@
+grammar: null
+id: '25'
+origen: Jeneral
+
+versions:
+  - ladino: turko
+    accented: turko
+
+    translations:
+        english: Turkish
+        french: ''
+        portuguese: ''
+        spanish: turco
+        turkish: Türkçe
+
+examples: []
