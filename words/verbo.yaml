@@ -1,0 +1,32 @@
+grammar: noun
+id: '2643'
+origen: Jeneral
+
+versions:
+  - ladino: verbo
+    accented: vérbo
+    gender: masculine
+    number: singular
+
+    translations:
+        english: verb
+        french: ''
+        portuguese: ''
+        spanish: verbo
+        turkish: fiil
+
+  - ladino: verbos
+    accented: vérbos
+    gender: masculine
+    number: singular
+
+    translations:
+        english: verbs
+        french: ''
+        portuguese: ''
+        spanish: verbos
+        turkish: ''
+
+examples:
+  - ladino: En el diksionario de Nehama el verbo es "Aneksar".
+
