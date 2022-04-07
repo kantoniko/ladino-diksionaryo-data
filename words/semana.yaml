@@ -1,0 +1,31 @@
+grammar: null
+id: '980'
+origen: Jeneral
+
+versions:
+  - ladino: semana
+    accented: semana
+    gender: feminine
+    number: singular
+
+    translations:
+        english: week
+        french: ''
+        portuguese: ''
+        spanish: semana
+        turkish: hafta
+
+  - ladino: semanas
+    accented: semanas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: weeks
+        french: ''
+        portuguese: ''
+        spanish: semanas
+        turkish: ''
+
+
+examples: []
