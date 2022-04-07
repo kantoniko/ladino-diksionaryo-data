@@ -1,0 +1,23 @@
+grammar: adverb
+id: '510'
+origen: Jeneral
+
+versions:
+  - ladino: kaji
+    accented: káji
+
+    alternative-spelling:
+      - ladino: kaje
+        accented: káje
+      - ladino: kuaje
+        accented: kuáje
+
+    translations:
+        english: almost
+        french: ''
+        portuguese: ''
+        spanish: casi
+        turkish: hemen hemen
+
+examples:
+  - ladino: Mora kaji enfrente de mi.
