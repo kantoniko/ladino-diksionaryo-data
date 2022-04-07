@@ -107,11 +107,13 @@ def main():
                 'id'         : row['id'],
                 'examples'   : examples,
                 'versions': [{
-                    'english'    : row['English'],
-                    'spanish'    : row['Espanyol'],
-                    'turkish'    : row['Turkish'],
-                    'portuguese' : row['Portuguese'],
-                    'french'     : row['French'],
+                    'translations': {
+                        'english'    : row['English'],
+                        'spanish'    : row['Espanyol'],
+                        'turkish'    : row['Turkish'],
+                        'portuguese' : row['Portuguese'],
+                        'french'     : row['French'],
+                    },
                 }]
             }
             #print(ladino)
@@ -134,7 +136,7 @@ def main():
                     _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
                     continue
                 #print(word)
-                dictionary.append({entry['versions'][0]['english']: word})
+                dictionary.append({entry['versions'][0]['translations']['english']: word})
                 plain_word = remove_accent(word)
                 all_words.add(plain_word)
                 #if plain_word in full:
