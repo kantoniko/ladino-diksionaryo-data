@@ -1,0 +1,52 @@
+grammar: verb
+id: '1161'
+origen: Jeneral
+
+versions:
+  - ladino: yorar
+    accented: yorar
+
+    translations:
+        english: cry
+        french: ''
+        portuguese: ''
+        spanish: llorar
+        turkish: ağlamak
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: yoro
+      translations:
+        spanish: lloro
+        english: cry
+    tu:
+      ladino: yoras
+      translations:
+        spanish: lloras
+        english: cry
+    el:
+      ladino: yora
+      translations:
+        spanish: llora
+        english: cries
+    mozotros:
+      ladino: yoramos
+      translations:
+        spanish: lloramos
+        english: cry
+    vozotros:
+      ladino: yoraish
+      translations:
+        spanish: llorais
+        english: cry
+    eyos:
+      ladino: yoran
+      translations:
+        spanish: lloran
+        english: cry
+
+
+examples:
+  - ladino: Me meti a yorar komo una kreatura chika.
+
