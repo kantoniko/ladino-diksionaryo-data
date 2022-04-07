@@ -1,0 +1,24 @@
+grammar: noun
+id: '2651'
+origen: Jeneral
+
+versions:
+  - ladino: yogurt
+    accented: yogúrt
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: yaurt
+        accented: yaúrt
+
+    translations:
+        english: yogurt
+        french: ''
+        portuguese: ''
+        spanish: yogurt
+        turkish: yuğurt
+
+examples:
+  - ladino: el ke se kema la lingua kon la sopa, asopla sovre el yogurt.
+
