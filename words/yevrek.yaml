@@ -1,0 +1,22 @@
+grammar: noun
+id: '2742'
+origen: Izmir
+
+versions:
+  - ladino: yevrek
+    accented: yevrék
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: simit
+        accented: simit
+
+    translations:
+        english: sesame-covered bread rings
+        french: ''
+        portuguese: ''
+        spanish: tostada con sésamo
+        turkish: simit, gevrek
+
+examples: []
