@@ -13,6 +13,10 @@ jobs:
     steps:
     - name: Checkout ladino-diksionaryo-code
       uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/ladino-diksionaryo-code'
+        path: .
+
 
     - name: Checkout ladino-diksionaryo-data
       uses: actions/checkout@v2
