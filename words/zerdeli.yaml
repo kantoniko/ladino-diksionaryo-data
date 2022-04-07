@@ -1,0 +1,18 @@
+grammar: noun
+id: '2743'
+origen: Estanbol
+
+versions:
+  - ladino: zerdeli
+    accented: zerdelí
+    gender: masculine
+    number: singular
+
+    translations:
+        english: small apricot
+        french: ''
+        portuguese: ''
+        spanish: albericoque pequeño
+        turkish: zerdeli
+
+examples: []
