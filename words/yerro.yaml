@@ -1,0 +1,30 @@
+grammar: noun
+id: '1158'
+origen: Jeneral
+
+versions:
+  - ladino: yerro
+    accented: yerro
+    gender: masculine
+    number: singular
+
+    translations:
+        english: mistake
+        french: ''
+        portuguese: ''
+        spanish: hierro (yerro)
+        turkish: hata
+
+  - ladino: yerros
+    accented: yerros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: mistakes
+        french: ''
+        portuguese: ''
+        spanish: hierros (yerros)
+        turkish: ''
+
+examples: []
