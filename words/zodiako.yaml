@@ -1,0 +1,16 @@
+grammar: null
+id: '1163'
+origen: Jeneral
+
+versions:
+  - ladino: zodiako
+    accented: zodiako
+
+    translations:
+        english: zodiac
+        french: ''
+        portuguese: ''
+        spanish: zodíaco
+        turkish: burç
+
+examples: []

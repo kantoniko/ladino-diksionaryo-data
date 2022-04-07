@@ -1,0 +1,28 @@
+grammar: f
+id: '2744'
+origen: Izmir
+
+versions:
+  - ladino: zirguela
+    accented: zirguéla
+
+    translations:
+        english: plum
+        french: ''
+        portuguese: ''
+        spanish: ciruela
+        turkish: erik
+
+  - ladino: zirguelas
+    accented: zirguélas
+
+    translations:
+        english: plums
+        french: ''
+        portuguese: ''
+        spanish: ciruelas
+        turkish: ''
+
+examples:
+  - ladino:  la zirguela tiene kolor blu
+    english: The plum is blue
