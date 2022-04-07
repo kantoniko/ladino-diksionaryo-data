@@ -17,7 +17,6 @@ jobs:
         repository: 'szabgab/ladino-diksionaryo-code'
         path: .
 
-
     - name: Checkout ladino-diksionaryo-data
       uses: actions/checkout@v2
       with:
@@ -41,9 +40,9 @@ jobs:
           pytest -sv test_generate.py
 
   generate:
-    needs: [test]
     runs-on: ubuntu-latest
     name: Generate HTML
+    needs: [test]
 
     steps:
     - name: Generate HTML
