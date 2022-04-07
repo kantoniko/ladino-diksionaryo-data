@@ -1,0 +1,24 @@
+grammar: noun
+id: '1162'
+origen: Estanbol
+
+versions:
+  - ladino: zerzevat
+    accented: zerzevát
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: zarzavat
+        accented: zarzavát
+
+    translations:
+        english: vegetables
+        french: légume
+        portuguese: verdura/vegetais
+        spanish: verdura, legumbre
+        turkish: sebze, zerzevat
+
+examples:
+  - ladino: Estas komidas de zarzavat (vegetables) son muy buenas para la salud.
+
