@@ -1,0 +1,19 @@
+grammar: verb
+id: '1186'
+origen: Jeneral
+
+versions:
+  - ladino: akostumbrar
+    accented: akostumbrár
+
+    translations:
+        english: accustom
+        french: ''
+        portuguese: ''
+        spanish: acostumbrar
+        turkish: alıştırmak
+
+conjugations: {}
+examples:
+  - ladino: La djente se akostumbra a la moda de vestirse.
+
