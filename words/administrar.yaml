@@ -1,0 +1,19 @@
+grammar: verb
+id: '38'
+origen: Jeneral
+
+versions:
+  - ladino: administrar
+    accented: administrár
+    translations:
+        english: administer
+        french: administrer
+        portuguese: administrar
+        spanish: administrar
+        turkish: yönetmek, idare etmek
+
+conjugations: {}
+
+examples:
+  - ladino: Teniya la responsabilidad de administrar el Reynado.
+
