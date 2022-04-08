@@ -1,0 +1,19 @@
+grammar: verb
+id: '2860'
+origen: Jeneral
+
+versions:
+  - ladino: luchar
+    accented: luchár
+
+    translations:
+        english: struggle
+        french: ''
+        portuguese: ''
+        spanish: luchar
+        turkish: mücadele etmek
+
+conjugations: {}
+examples:
+  - ladino: Estamos luchando por el futuro.
+
