@@ -1,0 +1,37 @@
+grammar: adjective
+id: '3056'
+origen: Jeneral
+comments:
+  - Is "adjamia" de feminine version of the word or alternate spelling?
+
+versions:
+  - ladino: adjami
+    accented: adjamí
+
+    alternative-spelling:
+      - ladino: adjamia
+        accented: adjamía
+
+    translations:
+        english:
+          - novice
+          - inexperienced
+        french:
+          - novice
+          - inexpérimenté
+        portuguese:
+          - novato
+          - inexperiente
+        spanish:
+          - novicio
+          - inexperto
+        turkish:
+          - acemi
+          - tecrübesiz
+
+    gender: feminine
+    number: singular
+
+examples:
+  - ladino: No se komo se aze porke dainda so un adjami.
+
