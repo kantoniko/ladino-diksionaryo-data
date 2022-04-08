@@ -1,0 +1,19 @@
+grammar: null
+id: '1244'
+origen: Jeneral
+
+versions:
+  - ladino: aynara
+    accented: aynara
+
+    translations:
+        english: evil eye
+        french: ''
+        portuguese: ''
+        spanish: mal de ojo
+        turkish:
+          - nazar
+          - kem göz
+
+examples: []
+
