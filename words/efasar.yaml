@@ -1,0 +1,21 @@
+grammar: verb
+id: '166'
+origen: Jeneral
+
+versions:
+  - ladino: efasar
+    accented: efasár
+
+    translations:
+        english:
+          - erase
+          - rub out
+        french: ''
+        portuguese: ''
+        spanish: borrar
+        turkish: silmek
+
+conjugations: {}
+examples:
+  - ladino: Yo perkuri, i finalmente lo efasi los de esta letra.
+
