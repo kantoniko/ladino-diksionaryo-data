@@ -1,0 +1,20 @@
+grammar: verb
+id: '2809'
+origen: Jeneral
+
+versions:
+  - ladino: gozar
+    accented: gozár
+
+    translations:
+        english: enjoy
+        french: ''
+        portuguese: ''
+        spanish: disfrutar
+        turkish:
+          - tadını çıkarmak
+          - zevk almak
+
+conjugations: {}
+examples:
+  - ladino: Gozaremos de todo lo bueno de este mundo.
