@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Paga a ken deves, saves lo ke tienes (Neh.)
+grammar: verb
+id: '252'
+origen: Jeneral
+versions:
+-   accented: devér
+    ladino: dever
+    translations:
+        english: owe
+        french: ''
+        portuguese: ''
+        spanish: deber
+        turkish: borçlu olmak, gerekmek
+
+
