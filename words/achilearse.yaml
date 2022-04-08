@@ -1,0 +1,25 @@
+grammar: verb
+id: '3055'
+origen: Estanbol
+
+versions:
+  - ladino: achilearse
+    accented: achileárse
+
+    translations:
+        english:
+          - to open
+          - to become emancipated
+        french:
+          - s'ouvrir
+          - s'émanciper
+        portuguese: ''
+        spanish:
+          - abrirse
+          - emanciparse
+        turkish: açılmak
+
+conjugations: {}
+examples:
+  - ladino: Meldo tus mesajes i me se achilea el korason.
+
