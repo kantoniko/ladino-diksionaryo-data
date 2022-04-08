@@ -1,0 +1,16 @@
+conjugations: {}
+examples:
+-   ladino: Da un plazer ke es difisil a deskrivir.
+grammar: verb
+id: '246'
+origen: Jeneral
+versions:
+-   accented: deskrivir
+    ladino: deskrivir
+    translations:
+        english: describe
+        french: decrire
+        portuguese: descrever
+        spanish: describir
+        turkish: tarif etmek
+
