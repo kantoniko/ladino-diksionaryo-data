@@ -1,0 +1,24 @@
+grammar: verb
+id: '2868'
+origen: Jeneral
+
+versions:
+  - ladino: abasteser
+    accented: abastesér
+
+    translations:
+        english: provide
+        french:
+          - subvenir
+          - pourvoir
+        portuguese: abastecer
+        spanish: abastecer
+        turkish:
+          - tedarik etmek
+          - temin etmek
+
+conjugations: {}
+examples:
+  - ladino: Lavora de diya i de noche para abasteser a su famiya.
+
+
