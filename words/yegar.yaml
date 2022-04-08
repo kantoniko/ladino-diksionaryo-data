@@ -1,0 +1,21 @@
+grammar: verb
+id: '2859'
+origen: Jeneral
+
+versions:
+  - ladino: yegar
+    accented: yegár
+
+    translations:
+        english: arrive
+        french: ''
+        portuguese: ''
+        spanish: llegar
+        turkish:
+          - erişmek
+          - vasıl olmak
+
+conjugations: {}
+examples:
+  - ladino: Yegar a no tener para pan. (Neh.)
+
