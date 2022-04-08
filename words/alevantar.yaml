@@ -1,0 +1,19 @@
+grammar: verb
+id: '69'
+origen: Jeneral
+
+versions:
+  - ladino: alevantar
+    accented: alevantár
+
+    translations:
+        english: lift
+        french: ''
+        portuguese: ''
+        spanish: levantar
+        turkish: kaldırmak
+
+conjugations: {}
+examples:
+  - ladino: El Dio solo alevanta i arrebasha.
+
