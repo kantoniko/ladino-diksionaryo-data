@@ -15,9 +15,15 @@ versions:
     translations:
         english: vegetables
         french: légume
-        portuguese: verdura/vegetais
-        spanish: verdura, legumbre
-        turkish: sebze, zerzevat
+        portuguese:
+          - verdura
+          - vegetais
+        spanish:
+          - verdura
+          - legumbre
+        turkish:
+          - sebze
+          - zerzevat
 
 examples:
   - ladino: Estas komidas de zarzavat (vegetables) son muy buenas para la salud.
