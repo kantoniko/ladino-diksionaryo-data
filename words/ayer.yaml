@@ -1,0 +1,17 @@
+grammar: null
+id: '147'
+origen: Jeneral
+
+versions:
+  - ladino: ayer
+    accented: ayer
+
+    translations:
+        english: yesterday
+        french: ''
+        portuguese: ''
+        spanish: ayer
+        turkish: dün
+
+examples: []
+
