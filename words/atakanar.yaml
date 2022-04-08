@@ -1,0 +1,23 @@
+grammar: verb
+id: '2864'
+origen: Jeneral
+
+versions:
+  - ladino: atakanar
+    accented: atakanár
+
+    translations:
+        english:
+          - arrange
+          - put in order
+        french: arranger
+        portuguese: ajeitar
+        spanish:
+          - areglar
+          - ajustar
+          - ordenar
+        turkish: düzeltmek
+
+conjugations: {}
+examples:
+  - ladino: Rachel me lo atakano todo.
