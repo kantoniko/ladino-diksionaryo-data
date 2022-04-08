@@ -1,0 +1,19 @@
+grammar: verb
+id: '143'
+origen: Jeneral
+
+versions:
+  - ladino: avlar
+    accented: avlar
+
+    translations:
+        english: speak
+        french: parler
+        portuguese: falar
+        spanish: hablar
+        turkish: konumak
+
+conjugations: {}
+examples:
+  - ladino: Sera posivle de avlar sovre alguna unika  kultura?
+
