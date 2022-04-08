@@ -1,0 +1,18 @@
+grammar: verb
+id: '3051'
+origen: Jeneral
+
+versions:
+  - ladino: brindar
+    accented: brindar
+    translations:
+        english: Toast; offer voluntarily
+        french: Trinquer; offrir volontairement
+        portuguese: ''
+        spanish: brindar
+        turkish: Kadeh tokuşturmak; gönüllü olarak vermek
+
+conjugations: {}
+examples:
+  - ladino: Entrava en las karseles , para brindar asistensia espiritual.
+
