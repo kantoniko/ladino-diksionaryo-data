@@ -1,0 +1,34 @@
+grammar: noun
+id: '3062'
+origen: Jeneral
+
+versions:
+  - ladino: kanyuto
+    accented: kanyúto
+    gender: masculine
+    number: singular
+
+    translations:
+        english:
+          - pipe
+          - tube
+          - nostril
+        french:
+          - tuyau
+          - tube
+          - narine
+        portuguese: ''
+        spanish:
+          - caño
+          - tubo
+          - fosa nasal
+        turkish:
+          - boru
+          - tüp
+          - burun deliği
+
+examples:
+  - ladino: kanyúto de la naríz
+  - ladino: azer kitar la alma por el kanyuto de la nariz
+
+
