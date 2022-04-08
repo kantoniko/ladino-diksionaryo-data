@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Durmir bueno es importante para la mente i el puerpo,
+grammar: verb
+id: '284'
+origen: Jeneral
+versions:
+-   accented: durmir
+    ladino: durmir
+    translations:
+        english: sleep
+        french: dormir
+        portuguese: dormir
+        spanish: dormir
+        turkish: uyumak
+
+
