@@ -1,0 +1,29 @@
+grammar: null
+id: '3002'
+origen: Jeneral
+
+versions:
+  - ladino: mabul
+    accented: mabúl
+    gender: masculine
+    number: singular
+
+    translations:
+        english:
+          - flood
+          - great quantity
+        french:
+          - déluge
+          - grande quantité
+        portuguese: diluvio
+        spanish:
+          - diluvio
+          - gran cantidad
+        turkish:
+          - tufan
+          - sel
+          - çok miktarda
+
+examples:
+  - ladino: Kosta un mabul de paras.
+
