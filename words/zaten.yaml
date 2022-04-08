@@ -7,10 +7,17 @@ versions:
     accented: zatén
 
     translations:
-        english: essentially, i any case, as a matter of fact
-        french: d'ailleurs, de toute façon
+        english:
+          - essentially
+          - i any case
+          - as a matter of fact
+        french:
+          - d'ailleurs
+          - de toute façon
         portuguese: de qualquer maneira
-        spanish: de toda manera,por otra parte
+        spanish:
+          - de toda manera
+          - por otra parte
         turkish: zaten
 
 examples:
