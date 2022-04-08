@@ -1,0 +1,19 @@
+grammar: verb
+id: '85'
+origen: Jeneral
+
+versions:
+  - ladino: ambezar
+    accented: ambezár
+
+    translations:
+        english: learn
+        french: ''
+        portuguese: ''
+        spanish: aprender
+        turkish: öğrenmek
+
+conjugations: {}
+examples:
+  - ladino: Ambeza el arte i metelo aparte. (Neh.)
+
