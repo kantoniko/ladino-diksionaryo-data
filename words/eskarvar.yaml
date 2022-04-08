@@ -1,0 +1,22 @@
+grammar: verb
+id: '2831'
+origen: Jeneral
+
+versions:
+  - ladino: eskarvar
+    accented: eskarvár
+
+    translations:
+        english:
+          - dig
+          - ransack
+        french: ''
+        portuguese: ''
+        spanish:
+          - cavar
+          - buscar en cada rincón
+        turkish: karıştırmak, aramak
+
+conjugations: {}
+examples: []
+
