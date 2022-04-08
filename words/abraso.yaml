@@ -1,0 +1,24 @@
+grammar: noun
+id: '2370'
+origen: Jeneral
+
+versions:
+  - ladino: abraso
+    accented: abráso
+    gender: masculine
+    number: singular
+
+    translations:
+        english:
+          - embrace
+          - hug
+        french: étreinte
+        portuguese: ''
+        spanish: abrazo
+        turkish:
+          - kucaklama
+          - sarılış
+
+examples:
+  - ladino: Mos arresivieron kon bezos i abrasos.
+
