@@ -1,0 +1,22 @@
+grammar: adverb
+id: '3063'
+origen: Balkanes
+
+versions:
+  - ladino: barabar
+    accented: barabár
+
+    alternative-spelling:
+      - ladino: baraber
+        accented: barabér
+
+    translations:
+        english: together
+        french: ensemble
+        portuguese: ''
+        spanish: juntos
+        turkish: beraber
+
+examples:
+  - ladino: Fazerse a barabar kon uno (familiar).
+
