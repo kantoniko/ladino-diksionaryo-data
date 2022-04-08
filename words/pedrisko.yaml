@@ -1,0 +1,31 @@
+grammar: noun
+id: '3087'
+origen: Jeneral
+versions:
+  - ladino: pedrisko
+    accented: pedrísko
+    gender: masculine
+    number: singular
+
+    translations:
+        english: hail
+        french: grêle
+        portuguese: granizo
+        spanish: pedrisco
+        turkish: dolu
+
+  - ladino: pedriskos
+    accented: pedrískos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hail
+        french: ''
+        portuguese: ''
+        spanish: pedriscos
+        turkish: ''
+
+examples:
+  - ladino: Abasha luvya komo una fuente i a las vezes pedriskos godros komo balikas de golf.
+
