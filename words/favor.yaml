@@ -1,0 +1,17 @@
+grammar: null
+id: '409'
+origen: Jeneral
+
+versions:
+  - ladino: favor
+    accented: favor
+
+    translations:
+        english: favour
+        french: ''
+        portuguese: ''
+        spanish: favor
+        turkish: lütuf
+
+examples: []
+
