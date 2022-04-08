@@ -1,0 +1,23 @@
+grammar: noun
+id: '582'
+origen: Jeneral
+versions:
+  - ladino: komida
+    accented: komída
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kumida
+        accented: kumída
+
+    translations:
+        english: food
+        french: ''
+        portuguese: ''
+        spanish: comida
+        turkish: yemek
+
+examples:
+  - ladino: 'Zevulun disho: "La mijor komida es avaz sekas kon arroz."'
+
