@@ -1,0 +1,19 @@
+grammar: noun
+id: '2278'
+origen: Jeneral
+
+versions:
+  - ladino: andjelo
+    accented: ándjelo
+    gender: masculine
+    number: singular
+
+    translations:
+        english: angel
+        french: ange
+        portuguese: anjo
+        spanish: ángel
+        turkish: melek
+
+examples:
+  - ladino: Segun la kreyensya Mormona, un andjelo yamado Moroni, avia abashado del syelo.
