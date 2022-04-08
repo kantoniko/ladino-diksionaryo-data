@@ -1,0 +1,27 @@
+grammar: null
+origen: NA
+
+versions:
+  - ladino: unos
+    accented: unos
+    gender: masculine
+    number: plural
+
+    translations:
+      english: some
+      french: ''
+      spanish: unos
+      turkish: ''
+
+  - ladino: unas
+    accented: unas
+    gender: feminine
+    number: plural
+
+    translations:
+      english: some
+      french: ''
+      spanish: unas
+      turkish: ''
+
+examples: []
