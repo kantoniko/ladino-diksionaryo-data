@@ -1,0 +1,23 @@
+grammar: verb
+id: '57'
+origen: Jeneral
+
+versions:
+  - ladino: akonteser
+    accented: akontesér
+
+    translations:
+        english: occur
+        french: ''
+        portuguese: ''
+        spanish:
+          - acontecer
+          - ocurrir
+        turkish:
+          - olmak
+          - vuku bulmak
+
+conjugations: {}
+examples:
+  - ladino: 'Ke akontesio? Le akontesio una desgrasia.'
+
