@@ -1,0 +1,19 @@
+grammar: verb
+id: '1215'
+origen: Jeneral
+
+versions:
+  - ladino: aprontar
+    accented: aprontár
+
+    translations:
+        english: prepare
+        french: préparer
+        portuguese: ''
+        spanish: preparar
+        turkish: hazırlamak
+
+conjugations: {}
+examples:
+  - ladino: Se aprontava todo de viernes para el Shabat .
+
