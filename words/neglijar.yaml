@@ -1,0 +1,19 @@
+grammar: verb
+id: '3052'
+origen: Jeneral
+
+versions:
+  - ladino: neglijar
+    accented: neglijar
+
+    translations:
+        english: neglect
+        french: négliger
+        portuguese: ''
+        spanish: descuidar
+        turkish: ihmal etmek
+
+conjugations: {}
+examples:
+  - ladino: En la China vide los Templos Budistos neglijados.
+
