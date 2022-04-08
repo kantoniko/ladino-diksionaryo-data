@@ -1,0 +1,25 @@
+grammar: verb
+id: '1172'
+origen: Jeneral
+
+versions:
+  - ladino: adjuntar
+    accented: adjuntár
+    translations:
+        english:
+          - join
+          - unite
+        french:
+          - joindre
+          - unir
+        portuguese: juntar
+        spanish:
+          - juntar
+          - unir
+        turkish: birleştirmek
+
+conjugations: {}
+
+examples:
+  - ladino: Espero ke otros amigos de LK, se van adjuntar a este evenimiento emportante.
+
