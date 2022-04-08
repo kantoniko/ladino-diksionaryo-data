@@ -1,0 +1,19 @@
+grammar: verb
+id: '3073'
+origen: Jeneral
+
+versions:
+  - ladino: ser
+    accented: ser
+
+    translations:
+        english: to be
+        french: être
+        portuguese: ser
+        spanish: ser
+        turkish: olmak
+
+conjugations: {}
+examples:
+  - ladino: Se retornarian a ser esklavos de Paro
+
