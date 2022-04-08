@@ -1,0 +1,35 @@
+grammar: null
+id: '583'
+origen: Jeneral
+
+versions:
+  - ladino: kompanyero
+    accented: kompanyero
+    gender: masculine
+    number: singular
+
+    translations:
+        english: companion
+        french: ''
+        portuguese: ''
+        spanish: compañero
+        turkish:
+          - eş
+          - yoldaş
+
+  - ladino: kompanyera
+    accented: kompanyera
+    gender: feminine
+    number: singular
+
+    translations:
+        english: companion
+        french: ''
+        portuguese: ''
+        spanish: compañera
+        turkish: ''
+
+
+examples: []
+
+
