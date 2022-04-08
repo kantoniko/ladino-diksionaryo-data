@@ -1,0 +1,18 @@
+grammar: null
+id: '1243'
+origen: Jeneral
+
+versions:
+  - ladino: ayi
+    accented: ayi
+
+    translations:
+        english:
+          - there
+          - just there
+        french: ''
+        portuguese: ''
+        spanish: ahí
+        turkish: şurada
+
+examples: []
