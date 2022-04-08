@@ -1,0 +1,27 @@
+grammar: verb
+id: '104'
+origen: Jeneral
+
+versions:
+  - ladino: arrimar
+    accented: arrimár
+
+    alternative-spelling:
+      - ladino: apoyar
+        accented: apoyár
+
+    translations:
+        english:
+          - lean
+          - support
+        french: ''
+        portuguese: ''
+        spanish:
+          - arrimar
+          - apoyar
+        turkish: dayamak
+
+conjugations: {}
+examples:
+  - ladino: Arrima este espejo a la pared.
+
