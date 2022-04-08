@@ -1,0 +1,19 @@
+grammar: verb
+id: '70'
+origen: Jeneral
+
+versions:
+  - ladino: alevantarse
+    accented: alevantárse
+
+    translations:
+        english: get up
+        french: se lever
+        portuguese: levantar-se
+        spanish: levantarse
+        turkish: kalkmak
+
+conjugations: {}
+examples:
+  - ladino: Se alevantaron los pipinos a harvar al bahchevan.
+
