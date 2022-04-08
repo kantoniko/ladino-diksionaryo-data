@@ -1,0 +1,19 @@
+grammar: noun
+id: '578'
+origen: Jeneral
+
+versions:
+  - ladino: kolor
+    accented: kolor
+    gender: feminine
+    number: singular
+
+    translations:
+        english: colour
+        french: ''
+        portuguese: ''
+        spanish: color (el)
+        turkish: renk
+
+examples: []
+
