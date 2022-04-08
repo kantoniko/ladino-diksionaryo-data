@@ -1,0 +1,24 @@
+grammar: verb
+id: '1167'
+origen: Jeneral
+versions:
+  - ladino: abastar
+    accented: abastár
+
+    alternative-spelling:
+      - ladino: bastar
+        accented: bastár
+
+    translations:
+        english:
+          - be sufficient
+          - be enough
+        french: ''
+        portuguese: ''
+        spanish: bastar
+        turkish: yetmek
+
+conjugations: {}
+examples:
+  - ladino: 'De esta ropa ya abasta 4 metros: esta ancha. Ya abasta i sovra.'
+  - ladino: Basta mi nombre, ke me yamo Abravanel.
