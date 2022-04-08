@@ -1,0 +1,20 @@
+grammar: verb
+id: '56'
+origen: Jeneral
+
+versions:
+  - ladino: akompanyar
+    accented: akompanyár
+
+    translations:
+        english: accompany
+        french: ''
+        portuguese: ''
+        spanish: acompañar
+        turkish: refakat etmek
+
+conjugations: {}
+examples:
+  - ladino: Kantaron kantikas ermozas, akompanyadas kon gitara.
+
+
