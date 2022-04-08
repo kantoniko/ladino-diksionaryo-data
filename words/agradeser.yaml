@@ -1,0 +1,19 @@
+grammar: verb
+id: '45'
+origen: Jeneral
+
+versions:
+  - ladino: agradeser
+    accented: agradesér
+
+    translations:
+        english: be thankful
+        french: ''
+        portuguese: ''
+        spanish: agradecer
+        turkish: müteşekkir olmak
+
+conjugations: {}
+examples:
+  - ladino: Azer i no agradeser, es amargo komo la fiel. (Neh.)
+
