@@ -1,0 +1,19 @@
+grammar: verb
+id: '49'
+origen: Jeneral
+
+versions:
+  - ladino: aharientarse
+    accented: aharientárse
+
+    translations:
+        english: get damaged
+        french: ''
+        portuguese: ''
+        spanish: averiarse
+        turkish: avaryalanmak
+
+conjugations: {}
+examples:
+  - ladino: La karga del kamion se ahariento.
+
