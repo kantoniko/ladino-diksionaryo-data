@@ -1,0 +1,19 @@
+grammar: verb
+id: '1181'
+origen: Jeneral
+
+versions:
+  - ladino: aharientar
+    accented: aharientár
+
+    translations:
+        english: damage
+        french: ''
+        portuguese: ''
+        spanish: averiar
+        turkish: bozmak
+
+conjugations: {}
+examples:
+  - ladino: Lavorando muncho, ahariento la makina.
+
