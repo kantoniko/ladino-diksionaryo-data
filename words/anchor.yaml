@@ -1,0 +1,20 @@
+grammar: noun
+id: '3042'
+origen: Jeneral
+
+versions:
+  - ladino: anchor
+    accented: anchór
+    gender: feminine
+    number: singular
+
+    translations:
+        english: width
+        french: largeur
+        portuguese: largura
+        spanish: anchor
+        turkish: genişlik
+
+examples:
+  - ladino: La kamareta tiene 3 metros de anchor.
+
