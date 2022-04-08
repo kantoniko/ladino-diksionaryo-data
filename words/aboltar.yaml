@@ -1,0 +1,20 @@
+grammar: verb
+id: '32'
+origen: Jeneral
+
+versions:
+  - ladino: aboltar
+    accented: aboltár
+
+    translations:
+        english: turn
+        french: ''
+        portuguese: ''
+        spanish: girar, volver
+        turkish: dönmek
+
+conjugations: {}
+examples:
+  - ladino: Yo ya abolti de mi viaje el viernes pasado.
+  - ladino: Ya aboltates la kara, ya paso el diya, la semana, el mez. (Neh.)
+
