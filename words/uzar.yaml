@@ -1,0 +1,19 @@
+grammar: verb
+id: '19'
+origen: Jeneral
+
+versions:
+  - ladino: uzar
+    accented: uzár
+
+    translations:
+        english: to use
+        french: ''
+        portuguese: ''
+        spanish: usar
+        turkish: kullanmak
+
+conjugations: {}
+examples:
+  - ladino: En esta fiesta, se aziya de almendra blankeyada, porke era mas klara de muez ke se uzava en el resto del anyo.
+
