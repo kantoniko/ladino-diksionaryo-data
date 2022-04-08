@@ -1,0 +1,18 @@
+grammar: verb
+id: '2842'
+origen: Izmir
+
+versions:
+  - ladino: eskuchar
+    accented: eskuchár
+
+    translations:
+        english: listen
+        french: ''
+        portuguese: ''
+        spanish: escuchar
+        turkish: dinlemek
+
+conjugations: {}
+examples:
+  - ladino: Ken no eskucha a la madre, escucha a la mala madrasta. (Neh.)
