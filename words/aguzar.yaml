@@ -1,0 +1,18 @@
+grammar: verb
+id: '48'
+origen: Jeneral
+
+versions:
+  - ladino: aguzar
+    accented: aguzár
+
+    translations:
+        english: sharpen
+        french: aiguiser
+        portuguese: afiar
+        spanish: afilar
+        turkish: bilemek
+
+conjugations: {}
+examples:
+  - ladino: Dame los kuchiyos para aguzar.
