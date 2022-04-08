@@ -1,0 +1,24 @@
+grammar: verb
+id: '1212'
+origen: Jeneral
+
+versions:
+  - ladino: anunsiar
+    accented: anunsiár
+
+    translations:
+        english:
+          - announce
+          - proclaim
+        french: annoncer
+        portuguese: ''
+        spanish: anunciar
+        turkish:
+          - duyurmak
+          - ilân etmek
+
+
+conjugations: {}
+examples:
+  - ladino: Tengo el plazer de anunsiarvos ke ya salyo el livro de kurso de Ladino.
+
