@@ -1,0 +1,20 @@
+grammar: noun
+id: '3083'
+origen: Jeneral
+
+versions:
+  - ladino: invyerno
+    accented: invyérno
+    gender: masculine
+    number: singular
+
+    translations:
+        english: winter
+        french: hiver
+        portuguese: inverno
+        spanish: invierno
+        turkish: kış
+
+examples:
+  - ladino: Mi mama mos emburujava bueno bueno en invyerno.
+
