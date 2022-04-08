@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import csv
 import re
 import sys
@@ -161,7 +163,7 @@ def main():
                 if grammar == 'verb':
                     with open(f"words/{data['versions'][0]['ladino'].lower()}.yaml", 'w') as fh:
                         yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
-                    #exit()
+                    exit()
             #if len(list(full.keys())) > 500:
             #    break
 
