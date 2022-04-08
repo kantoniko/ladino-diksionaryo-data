@@ -1,0 +1,20 @@
+grammar: noun
+id: '2366'
+origen: Jeneral
+
+versions:
+  - ladino: chuflete
+    accented: chufléte
+    gender: masculine
+    number: singular
+
+    translations:
+        english: whistle
+        french: ''
+        portuguese: ''
+        spanish: silbato
+        turkish: düdük
+
+examples:
+  - ladino: El chiko mos unflo la kavesa kon el chuflete ke le merko su padre.
+
