@@ -1,0 +1,31 @@
+grammar: verb
+id: '3068'
+origen: Jeneral
+versions:
+  - ladino: deskorchar
+    accented: deskorchar
+
+    alternative-spelling:
+      - ladino: eskorchar
+        accented: eskorchar
+
+    translations:
+        english:
+          - skin
+          - peel
+          - remove skin from
+        french:
+          - peler
+          - enlever la peau de
+        portuguese: ''
+        spanish:
+          - pelar
+          - quitar el cuero de
+        turkish:
+          - yüzmek
+          - soymak
+
+conjugations: {}
+examples:
+  - ladino: En metafora, deskorchar se uza para deskrivir vender en presios "salados" (karos).
+
