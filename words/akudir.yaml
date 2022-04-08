@@ -1,0 +1,21 @@
+grammar: verb
+id: '3058'
+origen: Jeneral
+
+versions:
+  - ladino: akudir
+    accented: akudír
+
+    translations:
+        english:
+          - rush up
+          - hurry to help
+        french: accourir au secours
+        portuguese: ''
+        spanish: acudir
+        turkish: yardıma koşmak
+
+conjugations: {}
+examples:
+  - ladino: Se kayo a la mar i no uvo ken lo akudiera.
+
