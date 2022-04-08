@@ -1,0 +1,21 @@
+grammar: verb
+id: '77'
+origen: Jeneral
+
+versions:
+  - ladino: alkilar
+    accented: alkilár
+
+    translations:
+        english:
+          - rent
+          - rent out
+        french: ''
+        portuguese: ''
+        spanish: alquilar
+        turkish: kiralamak
+
+conjugations: {}
+examples:
+  - ladino: Los tres estudiantes alkilaron un chiko apartamento.
+
