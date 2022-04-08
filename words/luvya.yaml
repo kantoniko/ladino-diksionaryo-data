@@ -1,0 +1,20 @@
+grammar: noun
+id: '150'
+origen: Jeneral
+
+versions:
+  - ladino: luvya
+    accented: lúvya
+    gender: feminine
+    number: singular
+
+    translations:
+        english: rain
+        french: pluie
+        portuguese: chuva
+        spanish: lluvia
+        turkish: yağmur
+
+examples:
+  - ladino: Los Metros se incheron de luvya i no lavoraron.
+
