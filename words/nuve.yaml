@@ -1,0 +1,20 @@
+grammar: noun
+id: '3086'
+origen: Jeneral
+
+versions:
+  - ladino: nuve
+    accented: núve
+    gender: feminine
+    number: singular
+
+    translations:
+        english: cloud
+        french: nuage
+        portuguese: nuvem
+        spanish: nube
+        turkish: bulut
+
+examples:
+  - ladino: 'El sol sale atraves de las nuves. '
+
