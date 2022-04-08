@@ -1,0 +1,16 @@
+conjugations: {}
+examples:
+-   ladino: Se kedo kon los mokos enkolgados.
+grammar: verb
+id: '326'
+origen: Jeneral
+versions:
+-   accented: enkolgár
+    ladino: enkolgar
+    translations:
+        english: hang
+        french: suspendre
+        portuguese: pendurar
+        spanish: colgar
+        turkish: asmak
+
