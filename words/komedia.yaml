@@ -1,0 +1,18 @@
+grammar: null
+id: '10'
+origen: Jeneral
+
+versions:
+  - ladino: komedia
+    accented: komedia
+
+    translations:
+        english: comedy
+        french: ''
+        portuguese: ''
+        spanish: comedia
+        turkish: komedi
+
+examples:
+  - ladino: Me pushó a eskrivir en djudeo-espanyol mi komedia muzikal.
+
