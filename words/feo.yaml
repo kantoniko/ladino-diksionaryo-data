@@ -1,0 +1,56 @@
+grammar: null
+id: '411'
+origen: Jeneral
+
+versions:
+  - ladino: feo
+    accented: feo
+    gender: masculine
+    number: singular
+
+    translations:
+        english: ugly
+        french: ''
+        portuguese: ''
+        spanish: feo
+        turkish: çirkin
+
+  - ladino: fea
+    accented: fea
+    gender: feminine
+    number: singular
+
+    translations:
+        english: ugly
+        french: ''
+        portuguese: ''
+        spanish: fea
+        turkish: çirkin
+
+  - ladino: feos
+    accented: feos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: ugly
+        french: ''
+        portuguese: ''
+        spanish: feos
+        turkish: ''
+
+  - ladino: feas
+    accented: feas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: ugly
+        french: ''
+        portuguese: ''
+        spanish: feas
+        turkish: ''
+
+
+examples: []
+
