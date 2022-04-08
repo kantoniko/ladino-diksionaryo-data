@@ -1,0 +1,19 @@
+grammar: verb
+id: '74'
+origen: Jeneral
+
+versions:
+  - ladino: alimentar
+    accented: alimentár
+
+    translations:
+        english: feed
+        french: alimenter
+        portuguese: ''
+        spanish: alimentar
+        turkish: beslemek
+
+conjugations: {}
+examples:
+  - ladino: Uzavamos maiz para alimentar a las gayinas.
+
