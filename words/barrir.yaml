@@ -1,0 +1,19 @@
+grammar: verb
+id: '167'
+origen: Jeneral
+
+versions:
+  - ladino: barrir
+    accented: barrír
+
+    translations:
+        english: sweep
+        french: balayer
+        portuguese: varrer
+        spanish: barrer
+        turkish: süpürmek
+
+conjugations: {}
+examples:
+  - ladino: La ermuera barrio lo ke ve la esfuegra.
+
