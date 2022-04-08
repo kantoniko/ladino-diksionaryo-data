@@ -1,1 +1,2 @@
-python ../ladino-diksionaryo-code/generate.py --dictionary words/ --log
+python ../ladino-diksionaryo-code/generate.py --dictionary words/ 
+#--log
