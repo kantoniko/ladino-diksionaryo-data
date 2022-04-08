@@ -1,0 +1,21 @@
+grammar: verb
+id: '1184'
+origen: Jeneral
+
+versions:
+  - ladino: akavar
+    accented: akavár
+
+    translations:
+        english: finish
+        french: ''
+        portuguese: ''
+        spanish: acabar
+        turkish:
+          - bitirmek
+          - son bulmak
+
+conjugations: {}
+examples:
+  - ladino: Akavimos de komer.
+
