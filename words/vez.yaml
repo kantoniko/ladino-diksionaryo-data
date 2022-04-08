@@ -8,7 +8,9 @@ versions:
     number: singular
 
     translations:
-        english: time, instance
+        english:
+          - time
+          - instance
         french: ''
         portuguese: ''
         spanish: vez
@@ -19,7 +21,9 @@ versions:
     number: plural
 
     translations:
-        english: times, instances
+        english:
+          - times
+          - instances
         french: ''
         portuguese: ''
         spanish: veces

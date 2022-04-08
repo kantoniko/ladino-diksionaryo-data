@@ -13,11 +13,16 @@ versions:
         accented: Inkizisyon
 
     translations:
-        english: inquisition, inquiry
+        english:
+          - inquisition
+          - inquiry
         french: ''
         portuguese: ''
         spanish: inquisición
-        turkish: tahkikat, araştırma, Enkizisyon
+        turkish:
+          - tahkikat
+          - araştırma
+          - Enkizisyon
 
 examples:
   - ladino: Los ke fuiyan de la Inkizision se aresentaron en munchas partes del mundo.
