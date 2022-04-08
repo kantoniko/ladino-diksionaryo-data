@@ -1,0 +1,18 @@
+grammar: verb
+id: '58'
+origen: Jeneral
+versions:
+  - ladino: akordarse
+    accented: akordárse
+
+    translations:
+        english: agree
+        french: ''
+        portuguese: ''
+        spanish: acordarse
+        turkish: mutabık kalmak
+
+conjugations: {}
+examples:
+  - ladino: Las mujeres se akordaron entre eyas para akseptarla.
+
