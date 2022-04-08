@@ -1,0 +1,23 @@
+grammar: verb
+id: '33'
+origen: Jeneral
+
+versions:
+  - ladino: aborreser
+    accented: aborresér
+
+    translations:
+        english:
+          - detest
+          - hate
+        french: détester
+        portuguese: odiar
+        spanish:
+          - aborrecer
+          - odiar
+        turkish: nefret etmek
+
+conjugations: {}
+examples:
+  - ladino: Todos los ke me aborresen aman la muerte.
+
