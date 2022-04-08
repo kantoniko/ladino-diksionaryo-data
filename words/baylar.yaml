@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Las ijas de este lugar (Shilo) uzavan a salir i baylar en las vinyas.
+grammar: verb
+id: '171'
+origen: Jeneral
+versions:
+-   accented: baylar
+    ladino: baylar
+    translations:
+        english: dance
+        french: danser
+        portuguese: dançar
+        spanish: bailar
+        turkish: dansetmek
+
+
