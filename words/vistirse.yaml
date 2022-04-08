@@ -1,0 +1,19 @@
+grammar: verb
+id: '1148'
+origen: Jeneral
+
+versions:
+  - ladino: vistirse
+    accented: vistírse
+
+    translations:
+        english: get dressed
+        french: s'habiller
+        portuguese: vestir-se
+        spanish: vestirse
+        turkish: giyinmek
+
+conjugations: {}
+examples:
+  - ladino: Estava vistido komo novyo.
+
