@@ -1,0 +1,19 @@
+grammar: verb
+id: '109'
+origen: Jeneral
+
+versions:
+  - ladino: arraskarse
+    accented: arraskárse
+
+    translations:
+        english: scratch
+        french: ''
+        portuguese: ''
+        spanish: rascarse
+        turkish: kaşınmak
+
+conjugations: {}
+examples:
+  - ladino: Kada uno se arraska onde le kome.
+
