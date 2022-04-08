@@ -1,0 +1,28 @@
+grammar: noun
+id: '50'
+origen: Jeneral
+
+versions:
+  - ladino: ayre
+    accented: áyre
+    gender: masculine
+    number: singular
+    translations:
+        english:
+          - air
+          - wind
+          - draught
+        french: air
+        portuguese: ar
+        spanish:
+          - aire
+          - viento
+        turkish:
+          - hava
+          - rüzgâr
+          - yel
+          - cereyan
+
+examples:
+  - ladino: Saldremos a tomar un poko de aire.
+
