@@ -1,0 +1,20 @@
+grammar: null
+id: '3053'
+origen: Estanbol
+
+versions:
+  - ladino: abistru
+    accented: abistrú
+    gender: masculine
+    number: singular
+
+    translations:
+        english: ostrich
+        french: autruche
+        portuguese: avestruz
+        spanish: avestruz
+        turkish: devekuşu
+
+examples:
+  - ladino: "Kara de abistru" kere dezir "uno ke no sonriye".
+
