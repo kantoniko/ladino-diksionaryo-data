@@ -1,0 +1,20 @@
+grammar: verb
+id: '61'
+origen: Jeneral
+versions:
+  - ladino: aksentuar
+    accented: aksentuar
+
+    translations:
+        english:
+          - accentuate
+          - stress
+        french: accentuer
+        portuguese: ''
+        spanish: acentuar
+        turkish: aksan koymak
+
+conjugations: {}
+examples:
+  - ladino: La palavra zingano se aksentua en la ultima silaba.
+
