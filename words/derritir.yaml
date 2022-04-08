@@ -1,0 +1,20 @@
+grammar: verb
+id: '2893'
+origen: Jeneral
+
+versions:
+  - ladino: derritir
+    accented: derritír
+    translations:
+        english: melt
+        french: ''
+        portuguese: ''
+        spanish: derretir
+        turkish: eritmek
+
+conjugations: {}
+examples:
+  - ladino: Se aziya kon plomo derritido.
+  - ladino: Mos derritimos en pies fina ke venites.
+
+
