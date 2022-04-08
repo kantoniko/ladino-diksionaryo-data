@@ -1,0 +1,21 @@
+grammar: verb
+id: '3046'
+origen: Jeneral
+
+versions:
+  - ladino: endevinar
+    accented: endevinár
+    translations:
+        english: guess
+        french: deviner
+        portuguese: adivinhar
+        spanish: adivinar
+        turkish:
+          - tahmin etmek
+          - bilmek
+
+conjugations: {}
+
+examples:
+  - ladino: Si endevinas lo ke tengo en la aldikera, te do un razimo.
+
