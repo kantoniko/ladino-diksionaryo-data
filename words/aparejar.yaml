@@ -1,0 +1,24 @@
+grammar: verb
+id: '102'
+origen: Jeneral
+
+versions:
+  - ladino: aparejar
+    accented: aparejár
+
+    alternative-spelling:
+      - ladino: aprontar
+        accented: aprontár
+
+    translations:
+        english: prepare
+        french: préparer
+        portuguese: ''
+        spanish: preparar
+        turkish: hazırlamak
+
+
+conjugations: {}
+examples:
+  - ladino: Apareji un dulse de mansana ke se izo muy savrozo.
+
