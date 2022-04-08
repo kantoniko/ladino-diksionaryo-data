@@ -1,0 +1,25 @@
+grammar: noun
+id: '3067'
+origen: Jeneral
+
+versions:
+  - ladino: tekia
+    accented: tekía
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: tikia
+        accented: tikía
+      - ladino: tikiya
+        accented: tikíya
+
+    translations:
+        english: tuberculosis
+        french: phtisie
+        portuguese: ''
+        spanish: tuberculosis
+        turkish: verem
+
+examples:
+  - ladino: Azno no muere de tikia.
