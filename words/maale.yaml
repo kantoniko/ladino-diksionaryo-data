@@ -1,0 +1,20 @@
+grammar: noun
+id: '3005'
+origen: Jeneral
+
+versions:
+  - ladino: maale
+    accented: maále
+    gender: feminine
+    number: singular
+
+    translations:
+        english: district
+        french: quartier
+        portuguese: bairo
+        spanish: barrio
+        turkish: mahalle
+
+examples:
+  - ladino: Biviyan en la maale de Balat en Estanbol.
+
