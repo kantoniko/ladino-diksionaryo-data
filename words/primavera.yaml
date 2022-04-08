@@ -1,0 +1,20 @@
+grammar: f
+id: '3082'
+origen: Jeneral
+
+versions:
+  - ladino: primavera
+    accented: primavéra
+    gender: feminine
+    number: singular
+
+    translations:
+        english: spring
+        french: printemps
+        portuguese: primavera
+        spanish: primavera
+        turkish: ilkbahar
+
+examples:
+  - ladino: La primavera en Israel empesa ofisialmente en el 21 de Marso.
+
