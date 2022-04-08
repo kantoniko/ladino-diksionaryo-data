@@ -1,0 +1,22 @@
+grammar: verb
+id: '2817'
+origen: Torah/Tanah
+
+versions:
+  - ladino: yazer
+    accented: yazér
+
+    translations:
+        english:
+          - to lie
+          - to be lying (dead)
+        french: ''
+        portuguese: ''
+        spanish: yacer
+        turkish:
+          - yatmak
+          - mezarda yatmak
+
+conjugations: {}
+examples:
+  - ladino: Yaze en paz...
