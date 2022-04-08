@@ -1,0 +1,22 @@
+grammar: verb
+id: '1170'
+origen: Jeneral
+
+versions:
+  - ladino: abrasar
+    accented: abrasár
+
+    translations:
+        english: embrace
+        french: étreindre
+        portuguese: ''
+        spanish: abrazar
+        turkish:
+          - sarılmak
+          - kucaklamak
+
+conjugations: {}
+examples:
+  - ladino: Las dos se abrasan i se meten a avlar.
+
+
