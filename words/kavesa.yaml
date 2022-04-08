@@ -1,0 +1,33 @@
+grammar: noun
+id: '540'
+origen: Jeneral
+
+versions:
+  - ladino: kavesa
+    accented: kavésa
+    gender: feminine
+    number: singular
+
+    translations:
+        english: head
+        french: tête
+        portuguese: cabeça
+        spanish: cabeza
+        turkish: baş
+
+  - ladino: kavesas
+    accented: kavésas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: heads
+        french: ''
+        portuguese: ''
+        spanish: cabezas
+        turkish: ''
+
+examples:
+  - ladino: Todos endjuntos diziyamos la Agada, porke todos ya la saviyamos de kavesa.
+  - ladino: Tiene kavesa dura.
+
