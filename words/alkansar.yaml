@@ -1,0 +1,18 @@
+grammar: verb
+id: '1199'
+origen: Jeneral
+versions:
+  - ladino: alkansar
+    accented: alkansár
+
+    translations:
+        english: reach
+        french: ''
+        portuguese: ''
+        spanish: alcanzar
+        turkish: ulaşmak
+
+conjugations: {}
+examples:
+  - ladino: Nada no se alkansa sin sudar.
+
