@@ -1,0 +1,19 @@
+grammar: m
+id: '3071'
+origen: Jeneral
+
+versions:
+  - ladino: flamur
+    accented: flamur
+    gender: masculine
+    number: singular
+
+    translations:
+        english: linden tea
+        french: tilleul
+        portuguese: tília
+        spanish: tila
+        turkish: ıhlamur
+
+examples:
+  - ladino: Si no me syento mijor, me kedare en kaza kon un buen flamur.
