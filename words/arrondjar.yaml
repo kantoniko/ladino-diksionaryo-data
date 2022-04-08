@@ -1,0 +1,26 @@
+grammar: verb
+id: '1224'
+origen: Jeneral
+
+versions:
+  - ladino: arrondjar
+    accented: arrondjár
+
+    translations:
+        english:
+          - push
+          - expel
+          - shove
+        french: ''
+        portuguese: ''
+        spanish:
+          - empujar
+          - expulsar
+        turkish:
+          - itmek
+          - iteklemek
+
+
+conjugations: {}
+examples: []
+
