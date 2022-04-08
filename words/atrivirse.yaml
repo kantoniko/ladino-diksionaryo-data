@@ -1,0 +1,25 @@
+grammar: verb
+id: '136'
+origen: Jeneral
+
+versions:
+  - ladino: atrivirse
+    accented: atrivírse
+
+    alternative-spelling:
+      - ladino: tener koraje
+        accented: tenér koráje
+
+    translations:
+        english: dare
+        french: ''
+        portuguese: ''
+        spanish:
+          - atreverse
+          - osar
+        turkish: cesaret etmek
+
+conjugations: {}
+examples:
+  - ladino: No, tia, aki no mos atrivimos a komer karne de vaka.
+
