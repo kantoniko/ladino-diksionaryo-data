@@ -1,0 +1,18 @@
+grammar: verb
+id: '2869'
+origen: Jeneral
+
+versions:
+  - ladino: abondar
+    accented: abondár
+    translations:
+        english: abound
+        french: abonder
+        portuguese: abundar
+        spanish: abundar
+        turkish: çok sayıda olmak
+
+conjugations: {}
+examples:
+  - ladino: Las frutas abondavan.
+
