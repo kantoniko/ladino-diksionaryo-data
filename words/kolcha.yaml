@@ -1,0 +1,32 @@
+grammar: noun
+id: '3081'
+origen: Jeneral
+
+versions:
+  - ladino: kolcha
+    accented: kólcha
+    gender: feminine
+    number: singular
+
+    translations:
+        english: quilt
+        french: couverture de lit
+        portuguese: colcha
+        spanish: colcha
+        turkish: yorgan
+
+  - ladino: kolchas
+    accented: kólchas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: quilts
+        french: ''
+        portuguese: ''
+        spanish: colchas
+        turkish: ''
+
+examples:
+  - ladino: Mi granmama batia la lana de las kolchas en el balkon de la kaza.
+
