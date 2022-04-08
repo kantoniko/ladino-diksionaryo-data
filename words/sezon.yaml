@@ -1,0 +1,20 @@
+grammar: noun
+id: '3084'
+origen: Jeneral
+
+versions:
+  - ladino: sezon
+    accented: sezón
+    gender: feminine
+    number: singular
+
+    translations:
+        english: season
+        french: saison
+        portuguese: estação
+        spanish: estación
+        turkish: mevsim
+
+examples:
+ - ladino: La sezon de la primavera en Erets Yisrael (en el mez de Nisan), es muy kurta.
+
