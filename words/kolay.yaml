@@ -1,0 +1,24 @@
+grammar: adjective
+id: '406'
+origen: Estanbol
+
+versions:
+  - ladino: kolay
+    accented: koláy
+
+    alternative-spelling:
+      - ladino: fasil
+        accented: fásil
+        origen: Jeneral
+
+    translations:
+        english: easy
+        french: facile
+        portuguese: fácil
+        spanish: fácil
+        turkish: kolay
+
+examples:
+  - ladino: Ke se les aga mas fasil i ke syerva a todos.
+  - ladino: Kolay i livyano ke te se aga.
+
