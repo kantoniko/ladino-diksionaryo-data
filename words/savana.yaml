@@ -1,0 +1,32 @@
+grammar: noun
+id: '3077'
+origen: Jeneral
+
+versions:
+  - ladino: savana
+    accented: savaná
+    gender: feminine
+    number: singular
+
+    translations:
+        english: sheet
+        french: drap
+        portuguese: lençol
+        spanish: sábana
+        turkish: çarşaf
+
+  - ladino: savanas
+    accented: savanás
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sheets
+        french: ''
+        portuguese: ''
+        spanish: sábanas
+        turkish: ''
+
+examples:
+  - ladino: Se metiya kola no solo en kamizas, ma tambien en bogos/manteles i afilu savanas.
+
