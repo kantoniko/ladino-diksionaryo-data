@@ -1,0 +1,19 @@
+grammar: noun
+id: '3065'
+origen: Izmir
+
+versions:
+  - ladino: Dombala
+    accented: Dombalá
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Jerusalem artichoke
+        french: topinambour
+        portuguese: ''
+        spanish: batata
+        turkish: yer elması
+
+examples:
+  - ladino: En Izmir el "yer elmasi" turko ke es semejante a la patata, lo yamamos "Dombala" i la komida es muy savroza
