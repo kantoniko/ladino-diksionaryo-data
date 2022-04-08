@@ -1,0 +1,17 @@
+grammar: null
+id: '1375'
+origen: Jeneral
+
+versions:
+  - ladino: kolonya
+    accented: kolonya
+
+    translations:
+        english: Cologne water
+        french: ''
+        portuguese: ''
+        spanish: colonia
+        turkish: kolonya
+
+examples: []
+
