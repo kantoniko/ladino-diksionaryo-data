@@ -1,0 +1,19 @@
+grammar: verb
+id: '39'
+origen: Jeneral
+
+versions:
+  - ladino: admirar
+    accented: admirár
+
+    translations:
+        english: admire
+        french: admirer
+        portuguese: admirar
+        spanish: admirar
+        turkish: hayran olmak
+
+conjugations: {}
+examples:
+  - ladino: Todos estos esfuersos son de admirar.
+
