@@ -1,0 +1,20 @@
+grammar: noun
+id: '2360'
+origen: Jeneral
+
+versions:
+  - ladino: antepasados
+    accented: antepasádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: forefathers
+        french: ''
+        portuguese: ''
+        spanish: antepasados
+        turkish: atalar
+
+examples:
+  - ladino: Mis avuelos i antepasados vinieron de Sefarad.
+
