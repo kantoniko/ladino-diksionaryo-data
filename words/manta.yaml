@@ -1,0 +1,31 @@
+grammar: noun
+id: '3076'
+origen: Jeneral
+
+versions:
+  - ladino: manta
+    accented: mánta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: blanket
+        french: couverture
+        portuguese: manta
+        spanish: manta
+        turkish: battaniye
+
+  - ladino: mantas
+    accented: mántas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: blankets
+        french: ''
+        portuguese: ''
+        spanish: mantas
+        turkish: ''
+
+examples:
+  - ladino: Echale una manta enriva.
