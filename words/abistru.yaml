@@ -16,5 +16,5 @@ versions:
         turkish: devekuşu
 
 examples:
-  - ladino: "Kara de abistru" kere dezir "uno ke no sonriye".
+  - ladino: '"Kara de abistru" kere dezir "uno ke no sonriye".'
 
