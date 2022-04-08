@@ -161,7 +161,9 @@ def main():
                 data['grammar'] = grammar
                 full.append(data)
                 if grammar == 'verb':
-                    with open(f"words/{data['versions'][0]['ladino'].lower()}.yaml", 'w') as fh:
+                    verb_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
+                    print(verb_file)
+                    with open(verb_file, 'w') as fh:
                         yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
                     exit()
             #if len(list(full.keys())) > 500:
