@@ -1,0 +1,29 @@
+grammar: null
+id: '3004'
+origen: Jeneral
+
+versions:
+  - ladino: barana
+    accented: baraná
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - uproar
+          - racket
+          - tumult
+        french:
+          - remue-ménage
+          - tumulte
+        portuguese: barulho
+        spanish:
+          - alboroto
+          - tumulto
+        turkish:
+          - gürültü
+          - patırdı
+
+examples:
+  - ladino: '"Ijika, no agas barana ke esta durmiendo tu padre".'
+
