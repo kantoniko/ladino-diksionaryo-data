@@ -1,0 +1,19 @@
+grammar: noun
+id: '3074'
+origen: Jeneral
+
+versions:
+  - ladino: kavesal
+    accented: kavesál
+    gender: masculine
+    number: singular
+
+    translations:
+        english: pillow
+        french: coussin
+        portuguese: travesseiro
+        spanish: almohada
+        turkish: yastık
+
+examples:
+  - ladino: Durmiremos djuntos en un kavesal.
