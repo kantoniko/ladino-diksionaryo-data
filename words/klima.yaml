@@ -1,0 +1,20 @@
+grammar: noun
+id: '3085'
+origen: Jeneral
+
+versions:
+  - ladino: klima
+    accented: klimá
+    gender: masculine
+    number: singular
+
+    translations:
+        english: climate
+        french: climat
+        portuguese: clima.
+        spanish: clima
+        turkish: hava durumu
+
+examples:
+  - ladino: Les plaze gozar i savorear el klima dulse i la mar kayente.
+
