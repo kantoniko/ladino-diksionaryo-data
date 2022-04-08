@@ -12,7 +12,9 @@ versions:
         english: mistake
         french: ''
         portuguese: ''
-        spanish: hierro (yerro)
+        spanish:
+          - hierro
+          - yerro
         turkish: hata
 
   - ladino: yerros
@@ -24,7 +26,9 @@ versions:
         english: mistakes
         french: ''
         portuguese: ''
-        spanish: hierros (yerros)
+        spanish:
+          - hierros
+          - yerros
         turkish: ''
 
 examples: []
