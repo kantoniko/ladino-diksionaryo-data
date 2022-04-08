@@ -1,0 +1,20 @@
+grammar: noun
+id: '3050'
+origen: Jeneral
+
+versions:
+  - ladino: katvan
+    accented: katván
+    gender: masculine
+    number: singular
+
+    translations:
+        english: scribe
+        french: scribe
+        portuguese: ''
+        spanish: escriba
+        turkish: yazıcı
+
+examples:
+  - ladino: El katvan empeso a eskrivir un amuleto en la forma de una Menora.
+
