@@ -1,0 +1,23 @@
+grammar: verb
+id: '2884'
+origen: Aki Yerushalayim
+
+versions:
+  - ladino: sovrar
+    accented: sovrár
+
+    translations:
+        english:
+          - be left over
+          - remain
+        french: ''
+        portuguese: ''
+        spanish: sobrar
+        turkish:
+          - artmak
+          - arta kalmak
+
+conjugations: {}
+examples:
+  - ladino: Lo ke sovra del ladrón, se lo yeva el endevino. (Neh.)
+
