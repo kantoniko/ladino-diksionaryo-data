@@ -1,0 +1,19 @@
+grammar: verb
+id: '37'
+origen: Jeneral
+versions:
+  - ladino: adjustar
+    accented: adjustár
+
+    translations:
+        english: add
+        french: ajouter
+        portuguese: acrescentar
+        spanish: añadir
+        turkish: eklemek
+
+conjugations: {}
+
+examples:
+  - ladino: Mesklar bien, adjustar la tomat ke fue esprimida un poko para kitarle el kaldo.
+
