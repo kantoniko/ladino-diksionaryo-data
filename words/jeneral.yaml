@@ -15,7 +15,9 @@ versions:
         french: ''
         portuguese: ''
         spanish: general
-        turkish: genel, general
+        turkish:
+          - genel
+          - general
 
 examples:
   - ladino: Va dar una vista jeneral de la aktividad de Ladinokomunita.
