@@ -1,0 +1,25 @@
+grammar: verb
+id: '3054'
+origen: Jeneral
+versions:
+-   accented: abrevár
+    ladino: abrevar
+    translations:
+        english:
+          - water (animal)
+          - give a drink
+        english: water
+        french: abreuver
+        portuguese: ''
+        spanish: abrevar
+        turkish:
+          - su içirmek
+          - su vermek
+          - sulamak
+
+conjugations: {}
+examples:
+  - ladino: El pastor abreva sus ovejas.
+  - ladino: Yaakov abrevó a las ovejas.
+
+
