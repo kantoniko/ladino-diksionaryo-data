@@ -153,6 +153,9 @@ def main():
                 data['versions'][0]['accented'] = word
                 data['versions'][0]['ladino'] = plain_word
                 #grammar_types = get_grammar_types(grammar)
+                if grammar == 'v':
+                    grammar = 'verb'
+                data['conjugations'] = {}
                 data['grammar'] = grammar
                 full.append(data)
             #if len(list(full.keys())) > 500:
