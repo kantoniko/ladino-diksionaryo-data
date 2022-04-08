@@ -1,0 +1,27 @@
+grammar: adverb
+id: '3049'
+origen: Jeneral
+
+versions:
+  - ladino: andjak
+    accented: ándjak
+
+    translations:
+        english:
+          - hardly
+          - however
+        french:
+          - à peine
+          - tout au plus
+          - cependant
+          - néanmoins
+        portuguese: ''
+        spanish:
+          - apenas
+          - sin embargo
+          - no obstante
+        turkish: ancak
+
+examples:
+  - ladino: Andjak, para el Ladino tenemos varias solusyones del problem.
+
