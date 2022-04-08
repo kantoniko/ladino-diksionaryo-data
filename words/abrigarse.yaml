@@ -1,0 +1,27 @@
+grammar: verb
+id: '34'
+origen: Jeneral
+
+versions:
+  - ladino: abrigarse
+    accented: abrigárse
+
+    translations:
+        english:
+          - take shelter
+          - protect oneself
+          - wrap oneself up
+        french:
+          - s'abriter
+          - se couvrir
+        portuguese: abrigar-se
+        spanish: abrigarse
+        turkish:
+          - barınmak
+          - örtünmek
+
+conjugations: {}
+examples:
+  - ladino: Eyos no tyenen ni pan para komer ni lugar para abrigarsen.
+
+
