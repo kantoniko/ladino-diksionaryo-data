@@ -1,0 +1,24 @@
+grammar: noun
+id: '3070'
+origen: Jeneral
+
+versions:
+  - ladino: antari
+    accented: antarí
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: entari
+        accented: entarí
+
+    translations:
+        english: dress worn by men and women
+        french: robe portée par hommes et femmes
+        portuguese: ''
+        spanish: toge para hombre y mujer
+        turkish: entari
+
+examples:
+  - ladino: Dezeo ser haham,  kon djuben de panyo, antari i kalpak.
+
