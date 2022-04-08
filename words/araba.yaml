@@ -1,0 +1,24 @@
+grammar: noun
+id: '2362'
+origen: Estanbol
+
+versions:
+  - ladino: araba
+    accented: arabá
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - carriage
+          - car
+        french: ''
+        portuguese: ''
+        spanish:
+          - coche
+          - carro
+        turkish: araba
+
+examples:
+  - ladino: Un tiempo tomavamos "karosas" (araba/payton).
+
