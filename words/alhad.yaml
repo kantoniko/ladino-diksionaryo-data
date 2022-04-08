@@ -1,0 +1,23 @@
+grammar: noun
+id: '1196'
+origen: Jeneral
+
+versions:
+  - ladino: alhad
+    accented: alhád
+    gender: masculine
+    number: singular
+
+    translations:
+        english: Sunday
+        french: dimanche
+        portuguese: domingo
+        spanish: domingo
+        turkish:
+          - pazar
+          - Pazar günü
+
+examples:
+  - ladino: Shabat por la tadre es Noche de Alhad.
+  - ladino: Se kazan todos los djudios de Izmir, siempre en dia de alhad.
+
