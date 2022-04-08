@@ -1,0 +1,19 @@
+grammar: verb
+id: '55'
+origen: Jeneral
+
+versions:
+  - ladino: akodrar
+    accented: akodrár
+
+    translations:
+        english: remember
+        french: ''
+        portuguese: ''
+        spanish: recordar
+        turkish: hatırlamak
+
+conjugations: {}
+examples:
+  - ladino: Vere agora si te vo azer akodrar de kozas alegres.
+
