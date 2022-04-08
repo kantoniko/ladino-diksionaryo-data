@@ -1,0 +1,21 @@
+grammar: noun
+id: '2361'
+origen: Jeneral
+
+versions:
+  - ladino: antisemitizmo
+    accented: antisemitízmo
+    gender: masculine
+    number: singular
+
+    translations:
+        english: anti-semitism
+        french: ''
+        portuguese: ''
+        spanish: antisemitismo
+        turkish: antisemitizm
+
+examples:
+  - ladino: Es otra forma de antisemitizmo.
+
+
