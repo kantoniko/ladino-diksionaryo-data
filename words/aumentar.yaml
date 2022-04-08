@@ -1,0 +1,28 @@
+grammar: verb
+id: '1236'
+origen: Jeneral
+
+versions:
+  - ladino: aumentar
+    accented: aumentár
+
+    alternative-spelling:
+      - ladino: augmentar
+        accented: augmentár
+
+    translations:
+        english:
+          - increase
+          - augment
+        french: ''
+        portuguese: ''
+        spanish: aumentar
+        turkish:
+          - artmak
+          - çoğalmak
+
+conjugations: {}
+examples:
+  - ladino: El número de mesajes aumenta dramátikamente.
+
+
