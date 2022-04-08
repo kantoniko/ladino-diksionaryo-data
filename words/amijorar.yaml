@@ -1,0 +1,24 @@
+grammar: verb
+id: '1552'
+origen: Jeneral
+
+versions:
+  - ladino: amijorar
+    accented: amijorar
+
+    alternative-spelling:
+      - ladino: amejorear
+        accented: amejorear
+
+    translations:
+        english: improve
+        french: améliorer
+        portuguese: ''
+        spanish: mejorar
+        turkish: ıslah etmek, iyileştirmek
+
+
+conjugations: {}
+examples:
+  - ladino: Mismo lo maraviyozo se puede amijorar.
+
