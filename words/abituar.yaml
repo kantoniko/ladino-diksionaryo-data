@@ -1,0 +1,18 @@
+grammar: verb
+id: '31'
+origen: Jeneral
+
+versions:
+  - ladino: abituar
+    accented: abituár
+
+    translations:
+        english: accustom
+        french: habituer
+        portuguese: habituar
+        spanish: habituar
+        turkish: alıştırmak
+
+conjugations: {}
+examples:
+  - ladino: Kale abituar a los mansevos ke avlen el Djudeo-Espanyol
