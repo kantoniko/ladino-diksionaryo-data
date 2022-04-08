@@ -1,0 +1,23 @@
+grammar: verb
+id: '76'
+origen: Jeneral
+versions:
+  - ladino: alimpiar
+    accented: alimpiár
+
+    alternative-spelling:
+      - ladino: alimpyar
+        accented: alimpyár
+
+    translations:
+        english: clean
+        french: nettoyer
+        portuguese: limpar
+        spanish: limpiar
+        turkish: temizlemek
+
+
+conjugations: {}
+examples:
+  - ladino: Las mujeres alimpiavan i deshavan arelumbrando.
+
