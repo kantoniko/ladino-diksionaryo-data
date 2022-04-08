@@ -33,11 +33,10 @@ jobs:
       run: |
           python -V
           pip install -r requirements.txt
-          pip install pytest
 
     - name: Run tests
       run: |
-          pytest -sv test_generate.py
+          pytest -sv --random-order test_generate.py
 
   generate:
     runs-on: ubuntu-latest
