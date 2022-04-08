@@ -1,0 +1,19 @@
+grammar: verb
+id: '44'
+origen: Jeneral
+
+versions:
+  - ladino: plazer
+    accented: plazér
+
+    translations:
+        english: like
+        french: ''
+        portuguese: ''
+        spanish: gustar
+        turkish: hoşlanmak
+
+conjugations: {}
+examples:
+  - ladino: A las kreaturas, les plaze la chikolata.
+

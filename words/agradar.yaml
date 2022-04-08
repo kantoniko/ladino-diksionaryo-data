@@ -1,0 +1,19 @@
+grammar: verb
+id: '44'
+origen: Jeneral
+
+versions:
+  - ladino: agradar
+    accented: agradár
+
+    translations:
+        english: like
+        french: ''
+        portuguese: ''
+        spanish: gustar
+        turkish: hoşlanmak
+
+conjugations: {}
+examples:
+  - ladino: Me agradan los pimientones.
+
