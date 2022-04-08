@@ -1,0 +1,20 @@
+grammar: verb
+id: '1175'
+origen: Jeneral
+
+versions:
+  - ladino: adovar
+    accented: adovár
+
+    translations:
+        english: repair, mend, fix
+        french: réparer, raccommoder
+        portuguese: concertar, reparar
+        spanish: reparar, remendar
+        turkish: tamir etmek
+
+conjugations: {}
+
+examples:
+  - ladino: Bushka de azer adovar esta makina.
+
