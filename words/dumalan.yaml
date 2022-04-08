@@ -1,0 +1,28 @@
+grammar: noun
+id: '3064'
+origen: Salonik
+
+versions:
+  - ladino: Dumalan
+    accented: Dumalán
+    gender: masculine
+    number: singular
+
+    translations:
+        english:
+          - celeriac
+          - celery root
+          - narrow-minded
+        french:
+          - céleri
+          - individu borné
+        portuguese: ''
+        spanish:
+          - apio
+          - persona de mente estrecha
+        turkish:
+          - kereviz
+          - dar kafalı
+
+examples:
+  - ladino: Yo no konosko "dumalan", ma lo tiene el diksionaryo de Nehama.
