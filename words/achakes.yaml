@@ -1,0 +1,25 @@
+examples:
+-   ladino: Vino tadre achakes de la luvia.
+grammar: null
+id: '35'
+origen: Jeneral
+versions:
+-   accented: achákes
+    gender: masculine
+    ladino: achakes
+    number: singular
+    translations:
+        english: because of
+        french: à cause de
+        portuguese:
+        - culpa de
+        - por conta de
+        spanish: culpa de
+        turkish:
+        - dolayı
+        - nedeniyle
+        - yüzünden
+
+comments:
+  - achákes de
+
