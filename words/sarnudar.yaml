@@ -1,0 +1,22 @@
+conjugations: {}
+examples:
+-   ladino: 'Hazino ke sarnuda está serka de estar bueno. (Neh.)
+
+        Kuando uno sarnuda: - Bivas, kreskas i engrandeskas!'
+grammar: verb
+id: '2659'
+origen: Jeneral
+versions:
+-   accented: sarnudár
+    alternative-spelling:
+    -   accented: estornudár
+        ladino: estornudar
+    ladino: sarnudar
+    translations:
+        english: sneeze
+        french: ''
+        portuguese: ''
+        spanish: estornudar
+        turkish:
+        - aksırmak
+        - hapşırmak
