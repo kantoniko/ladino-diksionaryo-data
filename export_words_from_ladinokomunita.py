@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import csv
+import os
 import re
 import sys
 import yaml
@@ -162,6 +163,8 @@ def main():
                 full.append(data)
                 if grammar == 'verb':
                     verb_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
+                    if os.path.exists(verb_file):
+                        exit(f"File {verb_file} already exists")
                     print(verb_file)
                     with open(verb_file, 'w') as fh:
                         yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
