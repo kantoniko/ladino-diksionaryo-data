@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+categories:
+  - lashon
+
+versions:
+  - ladino: Inglez
+    accented: Inglez
+    #gender: masculine feminine
+    number: singular
+
+    translations:
+      english: English
+      french: ''
+      hebrew: אנגלית
+      portuguese: ''
+      spanish: inglés
+      turkish: ''
+
+examples: []

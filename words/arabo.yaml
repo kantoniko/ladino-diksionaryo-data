@@ -1,13 +1,20 @@
-examples: []
-grammar: null
+grammar: noun
 id: '1216'
 origen: Jeneral
+categories:
+  - lashon
+
 versions:
--   accented: arabo
-    ladino: arabo
+  - ladino: arabo
+    accented: arabo
+    #gender: masculine feminine
+    number: singular
+
     translations:
         english: Arab
         french: ''
         portuguese: ''
         spanish: árabe
         turkish: arap
+
+examples: []
