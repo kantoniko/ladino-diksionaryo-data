@@ -1,0 +1,16 @@
+examples:
+-   ladino: Tuve un aksidente de oto.
+grammar: null
+id: '63'
+origen: Jeneral
+versions:
+-   accented: aksidénte
+    gender: masculine
+    ladino: aksidente
+    number: singular
+    translations:
+        english: accident
+        french: ''
+        portuguese: ''
+        spanish: accidente
+        turkish: kaza
