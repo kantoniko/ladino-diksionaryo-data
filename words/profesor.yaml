@@ -1,13 +1,56 @@
-examples: []
 grammar: null
 id: '905'
 origen: Jeneral
+categories:
+  - lavoro
+
 versions:
--   accented: profesor
-    ladino: profesor
+  - ladino: profesor
+    accented: profesor
+    gender: masculine
+    number: singular
+
     translations:
         english: teacher
         french: ''
         portuguese: ''
         spanish: profesor
         turkish: öğretmen
+
+  - ladino: profesora
+    accented: profesora
+    gender: feminine
+    number: singular
+
+    translations:
+        english: teacher
+        french: ''
+        portuguese: ''
+        spanish: profesora
+        turkish: öğretmen
+
+  - ladino: profesores
+    accented: profesores
+    gender: masculine
+    number: plural
+
+    translations:
+        english: teachers
+        french: ''
+        portuguese: ''
+        spanish: profesores
+        turkish: ''
+
+  - ladino: profesoras
+    accented: profesoras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: teachers
+        french: ''
+        portuguese: ''
+        spanish: profesoras
+        turkish: ''
+
+examples: []
