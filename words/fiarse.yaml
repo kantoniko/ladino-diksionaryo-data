@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: Te puedes fiar en eya.
+grammar: verb
+id: '2832'
+origen: Aki Yerushalayim
+versions:
+-   accented: fiárse
+    ladino: fiarse
+    translations:
+        english:
+        - rely
+        - trust
+        french: ''
+        portuguese: ''
+        spanish:
+        - fiarse
+        - hacer confianza
+        turkish: güvenmek
