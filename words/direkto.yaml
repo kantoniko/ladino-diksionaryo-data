@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1722'
+origen: Jeneral
+versions:
+-   accented: direkto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: direkto
+    translations:
+        english: direct
+        french: ''
+        portuguese: ''
+        spanish: directo / a
+        turkish: dosdoğru

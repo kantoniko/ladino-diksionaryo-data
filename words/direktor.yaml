@@ -1,0 +1,21 @@
+examples:
+-   ladino: Su padre era el direktor de un koro de kantar i de musika.
+grammar: null
+id: '1723'
+origen: Jeneral
+versions:
+-   accented: direktór
+    ladino: direktor
+    translations:
+        english:
+        - director
+        - manager
+        french: ''
+        portuguese: ''
+        spanish:
+        - director
+        - empresario
+        turkish:
+        - yönetici
+        - müdür
+        - direktör

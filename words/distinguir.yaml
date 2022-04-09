@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1724'
+origen: Jeneral
+versions:
+-   accented: distinguir
+    ladino: distinguir
+    translations:
+        english: distinguish
+        french: ''
+        portuguese: ''
+        spanish: distinguir
+        turkish: ayırdetmek
