@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '936'
+origen: Jeneral
+versions:
+-   accented: relijion
+    ladino: relijion
+    translations:
+        english: religion
+        french: ''
+        portuguese: ''
+        spanish: religión
+        turkish: din

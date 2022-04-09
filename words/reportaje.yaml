@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1486'
+origen: Jeneral
+versions:
+-   accented: reportaje
+    ladino: reportaje
+    translations:
+        english:
+        - article
+        - report
+        french: ''
+        portuguese: ''
+        spanish: reportaje
+        turkish: röportaj

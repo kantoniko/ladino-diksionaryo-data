@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1490'
+origen: Jeneral
+versions:
+-   accented: rezolver
+    ladino: rezolver
+    translations:
+        english: solve
+        french: ''
+        portuguese: ''
+        spanish: resolver
+        turkish:
+        - halletmek
+        - çözümlemek

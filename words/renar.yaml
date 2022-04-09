@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '937'
+origen: Jeneral
+versions:
+-   accented: renar
+    ladino: renar
+    translations:
+        english: fox
+        french: ''
+        portuguese: ''
+        spanish: zorro
+        turkish: tilki

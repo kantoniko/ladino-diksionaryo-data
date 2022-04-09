@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '939'
+origen: Jeneral
+versions:
+-   accented: repetar
+    ladino: repetar
+    translations:
+        english: repeat
+        french: ''
+        portuguese: ''
+        spanish: repetir
+        turkish: tekrarlamak

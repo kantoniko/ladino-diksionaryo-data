@@ -1,0 +1,23 @@
+examples:
+-   ladino: Esta arraviado kon mi.
+grammar: adjective
+id: '1475'
+origen: Jeneral
+versions:
+-   accented: arraviádo
+    alternative-spelling:
+    -   accented: arraviáda
+        ladino: arraviada
+    ladino: arraviado
+    translations:
+        english:
+        - on bad terms
+        - cross
+        french: ''
+        portuguese: ''
+        spanish:
+        - reñido / reñida
+        - enfadado / enfadada
+        turkish:
+        - dargın
+        - kızgın

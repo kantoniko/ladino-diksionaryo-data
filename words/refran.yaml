@@ -1,0 +1,24 @@
+examples:
+-   ladino: Arrekojí de 1979 asta oy en diya mas de 500 kuentos i mas de 60 reflanes,
+        sovre todo en Turkíya i en Israel.
+grammar: null
+id: '16'
+origen: Jeneral
+versions:
+-   accented: refrán
+    alternative-spelling:
+    -   accented: reflán
+        ladino: reflan
+    gender: masculine
+    ladino: refran
+    number: singular
+    translations:
+        english:
+        - proverb
+        - saying
+        french: ''
+        portuguese: ''
+        spanish: refrán
+        turkish:
+        - atasözü
+        - deyim

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '924'
+origen: Jeneral
+versions:
+-   accented: ramo
+    ladino: ramo
+    translations:
+        english: branch
+        french: ''
+        portuguese: ''
+        spanish: rama
+        turkish: dal

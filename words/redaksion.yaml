@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '931'
+origen: Jeneral
+versions:
+-   accented: redaksion
+    ladino: redaksion
+    translations:
+        english:
+        - writing
+        - redaction
+        french: ''
+        portuguese: ''
+        spanish: redacción
+        turkish: tahrir

@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '952'
+origen: Jeneral
+versions:
+-   accented: rezio
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: rezio
+    translations:
+        english:
+        - strong
+        - robust
+        french: ''
+        portuguese: ''
+        spanish: recio / a
+        turkish: sağlam

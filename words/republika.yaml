@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '941'
+origen: Jeneral
+versions:
+-   accented: republika
+    ladino: republika
+    translations:
+        english: republic
+        french: ''
+        portuguese: ''
+        spanish: república
+        turkish: cumhuriyet

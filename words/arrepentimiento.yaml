@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1485'
+origen: Jeneral
+versions:
+-   accented: arrepentimiento
+    ladino: arrepentimiento
+    translations:
+        english: repentance
+        french: ''
+        portuguese: ''
+        spanish: arrepentimiento
+        turkish:
+        - pişmanlık
+        - tövbe

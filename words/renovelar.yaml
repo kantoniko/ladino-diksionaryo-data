@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1484'
+origen: Jeneral
+versions:
+-   accented: renovelar
+    ladino: renovelar
+    translations:
+        english: renew
+        french: ''
+        portuguese: ''
+        spanish: renovar
+        turkish: yenilemek

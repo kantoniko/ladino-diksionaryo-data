@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1479'
+origen: Jeneral
+versions:
+-   accented: refujiarse
+    ladino: refujiarse
+    translations:
+        english: take refuge
+        french: ''
+        portuguese: ''
+        spanish: refugiarse
+        turkish:
+        - barınmak
+        - sığınmak

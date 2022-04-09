@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '950'
+origen: Jeneral
+versions:
+-   accented: revista
+    ladino: revista
+    translations:
+        english: magazine
+        french: ''
+        portuguese: ''
+        spanish: revista
+        turkish: dergi

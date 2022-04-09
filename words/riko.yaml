@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '953'
+origen: Jeneral
+versions:
+-   accented: riko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: riko
+    translations:
+        english: rich
+        french: ''
+        portuguese: ''
+        spanish: rico / a
+        turkish: zengin

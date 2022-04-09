@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '954'
+origen: Jeneral
+versions:
+-   accented: rio
+    ladino: rio
+    translations:
+        english: river
+        french: ''
+        portuguese: ''
+        spanish: río
+        turkish: nehir

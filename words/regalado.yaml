@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1559'
+origen: Jeneral
+versions:
+-   accented: regalado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: regalado
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: único
+        turkish: biricik

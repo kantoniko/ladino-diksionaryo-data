@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '926'
+origen: Jeneral
+versions:
+-   accented: rasa
+    ladino: rasa
+    translations:
+        english: race
+        french: ''
+        portuguese: ''
+        spanish: raza
+        turkish:
+        - soy
+        - ırk

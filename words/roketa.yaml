@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '956'
+origen: Jeneral
+versions:
+-   accented: roketa
+    ladino: roketa
+    translations:
+        english: rocket
+        french: ''
+        portuguese: ''
+        spanish: cohete
+        turkish:
+        - roket
+        - füze

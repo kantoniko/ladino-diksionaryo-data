@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '946'
+origen: Jeneral
+versions:
+-   accented: restorar
+    ladino: restorar
+    translations:
+        english: restore
+        french: ''
+        portuguese: ''
+        spanish: restaurar
+        turkish: onarmak

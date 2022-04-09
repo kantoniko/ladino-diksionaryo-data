@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '928'
+origen: Jeneral
+versions:
+-   accented: raton
+    ladino: raton
+    translations:
+        english: rat
+        french: ''
+        portuguese: ''
+        spanish: rata
+        turkish: fare

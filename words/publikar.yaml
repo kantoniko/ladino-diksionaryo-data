@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1472'
+origen: Jeneral
+versions:
+-   accented: publikar
+    ladino: publikar
+    translations:
+        english: publish
+        french: ''
+        portuguese: ''
+        spanish: publicar
+        turkish:
+        - neşretmek
+        - yayınlamak

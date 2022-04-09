@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '951'
+origen: Jeneral
+versions:
+-   accented: revolusion
+    ladino: revolusion
+    translations:
+        english: revolution
+        french: ''
+        portuguese: ''
+        spanish: revolución
+        turkish:
+        - devrim
+        - ihtilâl

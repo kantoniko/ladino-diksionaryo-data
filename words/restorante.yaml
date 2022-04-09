@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '945'
+origen: Jeneral
+versions:
+-   accented: restorante
+    ladino: restorante
+    translations:
+        english: restaurant
+        french: ''
+        portuguese: ''
+        spanish: restaurante
+        turkish: lokanta

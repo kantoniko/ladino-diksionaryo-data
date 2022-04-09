@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '921'
+origen: Jeneral
+versions:
+-   accented: punto
+    ladino: punto
+    translations:
+        english:
+        - moment
+        - minute
+        french: ''
+        portuguese: ''
+        spanish: punto
+        turkish:
+        - an
+        - dakika

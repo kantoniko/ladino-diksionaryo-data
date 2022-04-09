@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '930'
+origen: Jeneral
+versions:
+-   accented: rebelion
+    ladino: rebelion
+    translations:
+        english: rebellion
+        french: ''
+        portuguese: ''
+        spanish: rebelión
+        turkish: isyan

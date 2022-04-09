@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1473'
+origen: Jeneral
+versions:
+-   accented: piesa de teatro
+    ladino: piesa de teatro
+    translations:
+        english: play
+        french: ''
+        portuguese: ''
+        spanish: pieza dramática
+        turkish: oyun (tiyatro)

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '942'
+origen: Jeneral
+versions:
+-   accented: repuesta
+    ladino: repuesta
+    translations:
+        english: answer
+        french: ''
+        portuguese: ''
+        spanish: respuesta
+        turkish: cevap

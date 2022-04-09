@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '944'
+origen: Jeneral
+versions:
+-   accented: responsabilitad
+    ladino: responsabilitad
+    translations:
+        english: responsibility
+        french: ''
+        portuguese: ''
+        spanish: responsabilidad
+        turkish: mesuliyet

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '933'
+origen: Jeneral
+versions:
+-   accented: regla
+    ladino: regla
+    translations:
+        english: rule
+        french: ''
+        portuguese: ''
+        spanish: regla
+        turkish: kural

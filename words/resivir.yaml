@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '943'
+origen: Jeneral
+versions:
+-   accented: resivir
+    ladino: resivir
+    translations:
+        english: receive
+        french: ''
+        portuguese: ''
+        spanish: recibir
+        turkish:
+        - almak
+        - kabul etmek

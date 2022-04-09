@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '955'
+origen: Jeneral
+versions:
+-   accented: rogar
+    ladino: rogar
+    translations:
+        english: request
+        french: ''
+        portuguese: ''
+        spanish: pedir
+        turkish: rica etmek

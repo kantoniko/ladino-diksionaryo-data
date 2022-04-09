@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '923'
+origen: Jeneral
+versions:
+-   accented: puso
+    ladino: puso
+    translations:
+        english:
+        - wrist
+        - pulse
+        french: ''
+        portuguese: ''
+        spanish:
+        - muñeca
+        - pulso
+        turkish:
+        - el bileği
+        - nabız

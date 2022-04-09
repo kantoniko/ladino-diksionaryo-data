@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1488'
+origen: Jeneral
+versions:
+-   accented: revanada
+    ladino: revanada
+    translations:
+        english: slice
+        french: ''
+        portuguese: ''
+        spanish: tajada
+        turkish: dilim

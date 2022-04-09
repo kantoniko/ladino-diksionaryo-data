@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '932'
+origen: Jeneral
+versions:
+-   accented: refuzar
+    ladino: refuzar
+    translations:
+        english: refuse
+        french: ''
+        portuguese: ''
+        spanish: rehusar
+        turkish: reddetmek
