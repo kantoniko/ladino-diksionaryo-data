@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Nunka no mos van abandonar.
+grammar: verb
+id: '1566'
+origen: Jeneral
+versions:
+-   accented: abandonár
+    ladino: abandonar
+    translations:
+        english: abandon
+        french: abandonner
+        portuguese: abandonar
+        spanish: abandonar
+        turkish: terk etmek
