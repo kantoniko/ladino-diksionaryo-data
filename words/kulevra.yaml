@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '641'
+origen: Jeneral
+versions:
+-   accented: kulevra
+    ladino: kulevra
+    translations:
+        english: snake
+        french: ''
+        portuguese: ''
+        spanish: serpiente
+        turkish: yılan

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '632'
+origen: Jeneral
+versions:
+-   accented: kuando
+    ladino: kuando
+    translations:
+        english: when
+        french: ''
+        portuguese: ''
+        spanish: cuando
+        turkish: ne zaman

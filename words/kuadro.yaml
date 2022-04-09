@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1393'
+origen: Jeneral
+versions:
+-   accented: kuadro
+    ladino: kuadro
+    translations:
+        english: frame
+        french: ''
+        portuguese: ''
+        spanish: cuadro
+        turkish:
+        - kadro
+        - çerçeve

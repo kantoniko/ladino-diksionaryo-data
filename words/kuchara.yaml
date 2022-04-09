@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '634'
+origen: Jeneral
+versions:
+-   accented: kuchara
+    ladino: kuchara
+    translations:
+        english: spoon
+        french: ''
+        portuguese: ''
+        spanish: cuchara
+        turkish: kaşık

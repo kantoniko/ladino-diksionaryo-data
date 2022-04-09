@@ -1,0 +1,16 @@
+examples:
+-   ladino: Kuento arreglado es medio pagado. (Neh.)
+grammar: null
+id: '639'
+origen: Jeneral
+versions:
+-   accented: kuénto
+    ladino: kuento
+    translations:
+        english:
+        - account
+        - bill
+        french: ''
+        portuguese: ''
+        spanish: cuenta
+        turkish: hesap

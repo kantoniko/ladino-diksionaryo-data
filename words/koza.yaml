@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '623'
+origen: Jeneral
+versions:
+-   accented: koza
+    ladino: koza
+    translations:
+        english: thing
+        french: ''
+        portuguese: ''
+        spanish: cosa
+        turkish: şey

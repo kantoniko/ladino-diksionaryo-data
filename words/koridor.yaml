@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '612'
+origen: Jeneral
+versions:
+-   accented: koridor
+    ladino: koridor
+    translations:
+        english: corridor
+        french: ''
+        portuguese: ''
+        spanish: pasillo
+        turkish: koridor

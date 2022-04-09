@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '622'
+origen: Jeneral
+versions:
+-   accented: kovdo
+    ladino: kovdo
+    translations:
+        english: elbow
+        french: ''
+        portuguese: ''
+        spanish: codo
+        turkish: dirsek

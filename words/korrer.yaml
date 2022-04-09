@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '614'
+origen: Jeneral
+versions:
+-   accented: korrer
+    ladino: korrer
+    translations:
+        english: run
+        french: ''
+        portuguese: ''
+        spanish: correr
+        turkish: koşmak

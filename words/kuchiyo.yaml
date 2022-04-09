@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '635'
+origen: Jeneral
+versions:
+-   accented: kuchiyo
+    ladino: kuchiyo
+    translations:
+        english: knife
+        french: ''
+        portuguese: ''
+        spanish: cuchillo
+        turkish: bıçak

@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '636'
+origen: Jeneral
+versions:
+-   accented: kudiado
+    alternative-spelling:
+    -   accented: atension
+        ladino: atension
+    ladino: kudiado
+    translations:
+        english:
+        - worry
+        - attention
+        french: ''
+        portuguese: ''
+        spanish: cuidado
+        turkish:
+        - merak
+        - dikkat

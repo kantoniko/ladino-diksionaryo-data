@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '620'
+origen: Jeneral
+versions:
+-   accented: kostar
+    ladino: kostar
+    translations:
+        english: cost
+        french: ''
+        portuguese: ''
+        spanish: costar
+        turkish: mal olmak

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '617'
+origen: Jeneral
+versions:
+-   accented: kortina
+    ladino: kortina
+    translations:
+        english: curtain
+        french: ''
+        portuguese: ''
+        spanish: cortina
+        turkish: perde

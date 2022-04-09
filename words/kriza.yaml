@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '629'
+origen: Jeneral
+versions:
+-   accented: kriza
+    ladino: kriza
+    translations:
+        english: crisis
+        french: ''
+        portuguese: ''
+        spanish: crisis
+        turkish: kriz

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1394'
+origen: Jeneral
+versions:
+-   accented: kualidad
+    ladino: kualidad
+    translations:
+        english: quality
+        french: ''
+        portuguese: ''
+        spanish: cualidad
+        turkish:
+        - kalite
+        - meziyet

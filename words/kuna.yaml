@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '645'
+origen: Jeneral
+versions:
+-   accented: kuna
+    ladino: kuna
+    translations:
+        english:
+        - swing
+        - cradle
+        french: ''
+        portuguese: ''
+        spanish:
+        - columpio
+        - cuna
+        turkish:
+        - salıncak
+        - beşik

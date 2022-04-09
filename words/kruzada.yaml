@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '630'
+origen: Jeneral
+versions:
+-   accented: kruzada
+    ladino: kruzada
+    translations:
+        english: crusade
+        french: ''
+        portuguese: ''
+        spanish: cruzada
+        turkish: Haçlı Seferi

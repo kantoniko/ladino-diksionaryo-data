@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '628'
+origen: Jeneral
+versions:
+-   accented: kreyer
+    ladino: kreyer
+    translations:
+        english: believe
+        french: ''
+        portuguese: ''
+        spanish: creer
+        turkish:
+        - inanmak
+        - zannetmek

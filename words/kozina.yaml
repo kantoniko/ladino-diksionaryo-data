@@ -1,0 +1,19 @@
+examples:
+-   ladino: Avriya el armario de la kuzina de mi nona.
+grammar: null
+id: '625'
+origen: Jeneral
+versions:
+-   accented: kozína
+    alternative-spelling:
+    -   accented: kuzína
+        ladino: kuzina
+    -   accented: mutpák
+        ladino: mutpak
+    ladino: kozina
+    translations:
+        english: kitchen
+        french: ''
+        portuguese: ''
+        spanish: cocina
+        turkish: mutfak

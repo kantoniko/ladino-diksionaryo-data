@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '648'
+origen: Jeneral
+versions:
+-   accented: kura
+    ladino: kura
+    translations:
+        english:
+        - medicine
+        - drug
+        french: ''
+        portuguese: ''
+        spanish: medicamento
+        turkish: ilâç

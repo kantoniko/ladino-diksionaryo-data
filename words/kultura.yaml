@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '643'
+origen: Jeneral
+versions:
+-   accented: kultura
+    ladino: kultura
+    translations:
+        english: culture
+        french: ''
+        portuguese: ''
+        spanish: cultura
+        turkish: kültür

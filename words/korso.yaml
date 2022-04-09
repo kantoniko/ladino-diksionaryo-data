@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '615'
+origen: Jeneral
+versions:
+-   accented: korso
+    ladino: korso
+    translations:
+        english: course
+        french: ''
+        portuguese: ''
+        spanish: curso
+        turkish: kurs

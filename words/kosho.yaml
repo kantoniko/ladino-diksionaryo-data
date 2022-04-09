@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '619'
+origen: Jeneral
+versions:
+-   accented: kosho
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kosho
+    translations:
+        english:
+        - lame
+        - limping
+        french: ''
+        portuguese: ''
+        spanish: cojo / a
+        turkish: topal

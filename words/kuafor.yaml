@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '631'
+origen: Jeneral
+versions:
+-   accented: kuafor
+    alternative-spelling:
+    -   accented: berber
+        ladino: berber
+    ladino: kuafor
+    translations:
+        english:
+        - hairdresser
+        - barber
+        french: ''
+        portuguese: ''
+        spanish: peluquería
+        turkish:
+        - kuaför
+        - berber

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '647'
+origen: Jeneral
+versions:
+-   accented: kupa
+    ladino: kupa
+    translations:
+        english:
+        - glass
+        - tumbler
+        french: ''
+        portuguese: ''
+        spanish: vaso
+        turkish: bardak

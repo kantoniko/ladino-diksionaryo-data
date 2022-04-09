@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '609'
+origen: Jeneral
+versions:
+-   accented: kontuar
+    ladino: kontuar
+    translations:
+        english:
+        - counter
+        - stand
+        french: ''
+        portuguese: ''
+        spanish: puesto
+        turkish: tezgâh

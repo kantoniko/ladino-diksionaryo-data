@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1400'
+origen: Jeneral
+versions:
+-   accented: koraje
+    ladino: koraje
+    translations:
+        english: courage
+        french: ''
+        portuguese: ''
+        spanish: coraje
+        turkish: cesaret

@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '621'
+origen: Jeneral
+versions:
+-   accented: kotidiano
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kotidiano
+    translations:
+        english: daily
+        french: ''
+        portuguese: ''
+        spanish: cotidiano / a
+        turkish:
+        - gündelik
+        - günlük

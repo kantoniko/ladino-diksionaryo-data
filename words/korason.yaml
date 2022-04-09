@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '611'
+origen: Jeneral
+versions:
+-   accented: korason
+    ladino: korason
+    translations:
+        english: heart
+        french: ''
+        portuguese: ''
+        spanish: corazón
+        turkish: kalp

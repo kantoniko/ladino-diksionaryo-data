@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '638'
+origen: Jeneral
+versions:
+-   accented: kuedra
+    ladino: kuedra
+    translations:
+        english: rope
+        french: ''
+        portuguese: ''
+        spanish: cuerda
+        turkish: ip

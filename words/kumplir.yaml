@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '644'
+origen: Jeneral
+versions:
+-   accented: kumplir
+    ladino: kumplir
+    translations:
+        english: accomplish
+        french: ''
+        portuguese: ''
+        spanish: cumplir
+        turkish: tamamlamak

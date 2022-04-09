@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '637'
+origen: Jeneral
+versions:
+-   accented: kudiar
+    ladino: kudiar
+    translations:
+        english:
+        - take care
+        - worry
+        - look after
+        french: ''
+        portuguese: ''
+        spanish: cuidar
+        turkish:
+        - merak etmek
+        - dikkat etmek
+        - ilgilenmek

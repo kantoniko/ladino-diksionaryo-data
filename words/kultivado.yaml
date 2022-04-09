@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '642'
+origen: Jeneral
+versions:
+-   accented: kultivado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kultivado
+    translations:
+        english: cultivated
+        french: ''
+        portuguese: ''
+        spanish: cultivado / a
+        turkish: kültürlü

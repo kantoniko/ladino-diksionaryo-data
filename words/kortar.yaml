@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '616'
+origen: Jeneral
+versions:
+-   accented: kortar
+    ladino: kortar
+    translations:
+        english: cut
+        french: ''
+        portuguese: ''
+        spanish: cortar
+        turkish: kesmek

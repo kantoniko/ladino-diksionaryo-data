@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '610'
+origen: Jeneral
+versions:
+-   accented: korajozo
+    ladino: korajozo
+    translations:
+        english: brave
+        french: ''
+        portuguese: ''
+        spanish: valiente
+        turkish:
+        - cesur
+        - yiğit

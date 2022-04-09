@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '650'
+origen: Jeneral
+versions:
+-   accented: kuriozita
+    ladino: kuriozita
+    translations:
+        english: curiosity
+        french: ''
+        portuguese: ''
+        spanish: curiosidad
+        turkish: merak
