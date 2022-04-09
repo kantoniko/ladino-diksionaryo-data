@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Espero ke viendra a tiempo
+grammar: verb
+id: '375'
+origen: Jeneral
+versions:
+-   accented: esperár
+    ladino: esperar
+    translations:
+        english: hope
+        french: espérer
+        portuguese: ''
+        spanish: esperar
+        turkish: ümit etmek
