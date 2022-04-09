@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '200'
+origen: Jeneral
+versions:
+-   accented: bruido
+    ladino: bruido
+    translations:
+        english: noise
+        french: ''
+        portuguese: ''
+        spanish: ruido
+        turkish: gürültü

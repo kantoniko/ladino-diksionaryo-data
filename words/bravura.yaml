@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '198'
+origen: Jeneral
+versions:
+-   accented: bravura
+    ladino: bravura
+    translations:
+        english: bravery
+        french: ''
+        portuguese: ''
+        spanish: bravura
+        turkish:
+        - kahramanlık
+        - dehşet

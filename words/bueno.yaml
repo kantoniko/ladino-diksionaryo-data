@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '201'
+origen: Jeneral
+versions:
+-   accented: bueno
+    ladino: bueno
+    translations:
+        english:
+        - good
+        - OK
+        french: ''
+        portuguese: ''
+        spanish: bueno
+        turkish:
+        - peki
+        - iyi

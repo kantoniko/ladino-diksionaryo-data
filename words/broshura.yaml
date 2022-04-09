@@ -1,0 +1,18 @@
+examples:
+-   ladino: La broshura de la ANL me vino ayer.
+grammar: null
+id: '199'
+origen: Jeneral
+versions:
+-   accented: broshúra
+    gender: feminine
+    ladino: broshura
+    number: singular
+    translations:
+        english:
+        - brochure
+        - pamphlet
+        french: ''
+        portuguese: ''
+        spanish: folleto
+        turkish: broşür

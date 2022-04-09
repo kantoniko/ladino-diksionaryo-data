@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2281'
+origen: Jeneral
+versions:
+-   accented: boda
+    ladino: boda
+    translations:
+        english:
+        - wedding
+        - marriage
+        french: ''
+        portuguese: ''
+        spanish: boda
+        turkish: düğün
