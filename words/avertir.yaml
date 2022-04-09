@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Es para avertirvos ke vos mando este e-mail.
+grammar: verb
+id: '1652'
+origen: Jeneral
+versions:
+-   accented: avertír
+    ladino: avertir
+    translations:
+        english:
+        - advise
+        - warn
+        french: ''
+        portuguese: ''
+        spanish: advertir
+        turkish: ikaz etmek
