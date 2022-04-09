@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '283'
+origen: Jeneral
+versions:
+-   accented: durasion
+    ladino: durasion
+    translations:
+        english: duration
+        french: ''
+        portuguese: ''
+        spanish: duración
+        turkish: süreç

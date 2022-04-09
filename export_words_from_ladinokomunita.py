@@ -189,11 +189,9 @@ def main():
                 grammar = 'preposition'
             elif grammar in ['pron.', 'Pron.']:
                 grammar = 'pronoun'
-            #elif grammar in ['adj.+ m/f', 'm+pron.', 'n+adj.', 'm/p', 'm/f']: #, 'm), arabá (f', 'distribuir', 'la', 'en teatro']:
-            #    data['comments'] = [f'grammar: {grammar}']
-            #    grammar = None
-            else:
-                print(f"Unhandled grammar: {grammar} in row {ladino}")
+            else: #grammar in ['adj.+ m/f', 'm+pron.', 'n+adj.', 'm/p', 'm/f']: #, 'm), arabá (f', 'distribuir', 'la', 'en teatro']:
+                data['comments'] = [f'grammar: {grammar}']
+                grammar = None
             data['grammar'] = grammar
 
             if len(words) > 1:

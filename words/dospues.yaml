@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1286'
+origen: Jeneral
+versions:
+-   accented: dospues
+    ladino: dospues
+    translations:
+        english:
+        - after
+        - later
+        french: ''
+        portuguese: ''
+        spanish: después
+        turkish: sonra

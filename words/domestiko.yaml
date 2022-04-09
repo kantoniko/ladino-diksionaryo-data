@@ -1,0 +1,21 @@
+examples:
+-   ladino: 'Los programas inkluyen volos domestikos en Argentina. '
+grammar: adjective
+id: '276'
+origen: Jeneral
+versions:
+-   accented: doméstiko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    -   accented: de kaza
+        ladino: de kaza
+    ladino: domestiko
+    translations:
+        english: domestic
+        french: domestique
+        portuguese: ''
+        spanish: domestico / a
+        turkish:
+        - evle ilgili
+        - evcil

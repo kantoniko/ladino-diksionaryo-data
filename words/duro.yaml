@@ -1,0 +1,19 @@
+examples:
+-   ladino: Para la karne dura, dyentes rezyos.
+grammar: adjective
+id: '285'
+origen: Jeneral
+versions:
+-   accented: dúro
+    alternative-spelling:
+    -   accented: dúra
+        ladino: dura
+    ladino: duro
+    translations:
+        english: hard
+        french: dure
+        portuguese: ''
+        spanish: duro / dura
+        turkish:
+        - sert
+        - zorlu
