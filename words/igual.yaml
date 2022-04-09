@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '476'
+origen: Jeneral
+versions:
+-   accented: igual
+    ladino: igual
+    translations:
+        english:
+        - equal
+        - same
+        french: ''
+        portuguese: ''
+        spanish: igual
+        turkish:
+        - gibi
+        - eşit

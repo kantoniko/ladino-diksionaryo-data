@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '448'
+origen: Jeneral
+versions:
+-   accented: futbol
+    ladino: futbol
+    translations:
+        english: football
+        french: ''
+        portuguese: ''
+        spanish: fútbol
+        turkish: futbol

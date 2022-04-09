@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1340'
+origen: Jeneral
+versions:
+-   accented: giador
+    ladino: giador
+    translations:
+        english: guide
+        french: ''
+        portuguese: ''
+        spanish: guía
+        turkish:
+        - rehber
+        - lıder

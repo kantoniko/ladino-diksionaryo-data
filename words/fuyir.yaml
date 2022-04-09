@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '449'
+origen: Jeneral
+versions:
+-   accented: fuyir
+    ladino: fuyir
+    translations:
+        english:
+        - run away
+        - escape
+        french: ''
+        portuguese: ''
+        spanish: huir
+        turkish: kaçmak

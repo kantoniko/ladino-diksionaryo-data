@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '470'
+origen: Jeneral
+versions:
+-   accented: guevo
+    ladino: guevo
+    translations:
+        english: egg
+        french: ''
+        portuguese: ''
+        spanish: huevo
+        turkish: yumurta

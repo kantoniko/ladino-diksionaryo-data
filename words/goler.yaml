@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1343'
+origen: Jeneral
+versions:
+-   accented: goler
+    ladino: goler
+    translations:
+        english: smell
+        french: ''
+        portuguese: ''
+        spanish: oler
+        turkish: kokmak

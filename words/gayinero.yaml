@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '456'
+origen: Jeneral
+versions:
+-   accented: gayinero
+    ladino: gayinero
+    translations:
+        english: henhouse
+        french: ''
+        portuguese: ''
+        spanish: gallinero
+        turkish: kümes

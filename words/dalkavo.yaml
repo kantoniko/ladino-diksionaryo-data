@@ -1,0 +1,21 @@
+examples:
+-   ladino: 'Parese ke el mundo troko en los dalkavo 50 anyos.
+
+        Estuvo bien enteresante el dalkavo paragrafo ke eskrivites.'
+grammar: adjective
+id: '2283'
+origen: Jeneral
+versions:
+-   accented: dalkávo
+    ladino: dalkavo
+    translations:
+        english:
+        - last
+        - the last one
+        french: ''
+        portuguese: ''
+        spanish: de al cabo
+        turkish:
+        - sonuncu
+        - sondaki
+        - son

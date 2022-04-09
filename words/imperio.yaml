@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '481'
+origen: Jeneral
+versions:
+-   accented: imperio
+    ladino: imperio
+    translations:
+        english: empire
+        french: ''
+        portuguese: ''
+        spanish: imperio
+        turkish: imparatorluk

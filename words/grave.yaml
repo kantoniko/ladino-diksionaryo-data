@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '466'
+origen: Jeneral
+versions:
+-   accented: grave
+    ladino: grave
+    translations:
+        english:
+        - grave
+        - serious
+        french: ''
+        portuguese: ''
+        spanish: grave
+        turkish:
+        - vahim
+        - ciddî

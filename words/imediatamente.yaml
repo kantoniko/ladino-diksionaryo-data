@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '480'
+origen: Jeneral
+versions:
+-   accented: imediatamente
+    ladino: imediatamente
+    translations:
+        english: immediately
+        french: ''
+        portuguese: ''
+        spanish: inmediatamente
+        turkish:
+        - hemen
+        - derhal

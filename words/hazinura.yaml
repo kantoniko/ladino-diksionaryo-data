@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '473'
+origen: Jeneral
+versions:
+-   accented: hazinura
+    ladino: hazinura
+    translations:
+        english:
+        - illness
+        - sickness
+        french: ''
+        portuguese: ''
+        spanish: enfermedad
+        turkish: hastalık

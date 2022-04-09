@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '471'
+origen: Jeneral
+versions:
+-   accented: guzano
+    ladino: guzano
+    translations:
+        english: worm
+        french: ''
+        portuguese: ''
+        spanish: gusano
+        turkish: solucan

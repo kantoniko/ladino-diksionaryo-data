@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '463'
+origen: Jeneral
+versions:
+-   accented: gramer
+    ladino: gramer
+    translations:
+        english: grammar
+        french: ''
+        portuguese: ''
+        spanish: gramática
+        turkish: dilbilgisi

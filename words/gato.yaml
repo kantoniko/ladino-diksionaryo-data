@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '453'
+origen: Jeneral
+versions:
+-   accented: gato
+    ladino: gato
+    translations:
+        english: cat
+        french: ''
+        portuguese: ''
+        spanish: gato
+        turkish: kedi

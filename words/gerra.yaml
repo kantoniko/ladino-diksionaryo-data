@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '459'
+origen: Jeneral
+versions:
+-   accented: gerra
+    ladino: gerra
+    translations:
+        english: war
+        french: ''
+        portuguese: ''
+        spanish: guerra
+        turkish: harp

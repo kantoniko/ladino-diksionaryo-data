@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '479'
+origen: Jeneral
+versions:
+-   accented: imaje
+    ladino: imaje
+    translations:
+        english: image
+        french: ''
+        portuguese: ''
+        spanish: imagen
+        turkish:
+        - resim
+        - tasvir

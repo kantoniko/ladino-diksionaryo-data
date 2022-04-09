@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '450'
+origen: Jeneral
+versions:
+-   accented: gamba
+    ladino: gamba
+    translations:
+        english: prawn
+        french: ''
+        portuguese: ''
+        spanish: gamba
+        turkish: iri karides

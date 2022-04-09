@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '467'
+origen: Jeneral
+versions:
+-   accented: guadrar
+    ladino: guadrar
+    translations:
+        english:
+        - hide
+        - keep
+        french: ''
+        portuguese: ''
+        spanish: guardar
+        turkish: saklamak

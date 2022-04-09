@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '452'
+origen: Jeneral
+versions:
+-   accented: garson
+    ladino: garson
+    translations:
+        english: waiter
+        french: ''
+        portuguese: ''
+        spanish: camarero
+        turkish: garson

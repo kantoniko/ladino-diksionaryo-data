@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '451'
+origen: Jeneral
+versions:
+-   accented: garganta
+    ladino: garganta
+    translations:
+        english: neck
+        french: ''
+        portuguese: ''
+        spanish: cuello
+        turkish: boyun

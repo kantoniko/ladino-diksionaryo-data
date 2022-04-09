@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '462'
+origen: Jeneral
+versions:
+-   accented: grado
+    ladino: grado
+    translations:
+        english: grade
+        french: ''
+        portuguese: ''
+        spanish: escalafón
+        turkish:
+        - kadem
+        - rütbe

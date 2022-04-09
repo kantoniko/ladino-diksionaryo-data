@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '469'
+origen: Jeneral
+versions:
+-   accented: guertalano
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: guertalano
+    translations:
+        english: gardener
+        french: ''
+        portuguese: ''
+        spanish: hortelano / a
+        turkish:
+        - bostancı
+        - ziraatçi

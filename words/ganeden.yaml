@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1546'
+origen: Jeneral
+versions:
+-   accented: ganeden
+    ladino: ganeden
+    translations:
+        english:
+        - paradise
+        - Garden of Eden
+        french: ''
+        portuguese: ''
+        spanish: paraíso
+        turkish: cennet

@@ -1,0 +1,16 @@
+comments:
+- 'grammar: peshkado) (f'
+examples:
+-   ladino: Los djudios de Estanbol gizan la gaya kon avramilas.
+grammar: null
+id: '454'
+origen: Jeneral
+versions:
+-   accented: gayá
+    ladino: gaya
+    translations:
+        english: forkbeard fish
+        french: ''
+        portuguese: ''
+        spanish: zarguela
+        turkish: gelincik/kaya balığı

@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1342'
+origen: Jeneral
+versions:
+-   accented: godrura
+    alternative-spelling:
+    -   accented: gudrura
+        ladino: gudrura
+    ladino: godrura
+    translations:
+        english:
+        - fatness
+        - fat
+        french: ''
+        portuguese: ''
+        spanish: gordura
+        turkish:
+        - şişmanlık
+        - yağ

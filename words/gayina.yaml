@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '455'
+origen: Jeneral
+versions:
+-   accented: gayina
+    ladino: gayina
+    translations:
+        english: hen
+        french: ''
+        portuguese: ''
+        spanish: gallina
+        turkish: tavuk

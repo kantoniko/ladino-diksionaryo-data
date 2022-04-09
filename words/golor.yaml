@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1344'
+origen: Jeneral
+versions:
+-   accented: golor
+    ladino: golor
+    translations:
+        english:
+        - smell
+        - scent
+        french: ''
+        portuguese: ''
+        spanish: olor
+        turkish: koku

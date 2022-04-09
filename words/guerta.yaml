@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '468'
+origen: Jeneral
+versions:
+-   accented: guerta
+    ladino: guerta
+    translations:
+        english: small garden
+        french: ''
+        portuguese: ''
+        spanish: huerto
+        turkish: küçük bahçe

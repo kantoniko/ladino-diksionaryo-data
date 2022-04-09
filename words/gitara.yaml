@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '460'
+origen: Jeneral
+versions:
+-   accented: gitara
+    ladino: gitara
+    translations:
+        english: guitar
+        french: ''
+        portuguese: ''
+        spanish: guitarra
+        turkish: gitar

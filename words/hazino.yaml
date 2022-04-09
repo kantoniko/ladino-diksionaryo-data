@@ -1,0 +1,19 @@
+examples:
+-   ladino: El konosiya todos los hazinos i dava konsejos.
+grammar: null
+id: '472'
+origen: Jeneral
+versions:
+-   accented: hazino
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: hazino
+    translations:
+        english:
+        - ill
+        - sick
+        french: ''
+        portuguese: ''
+        spanish: enfermo / a
+        turkish: hasta

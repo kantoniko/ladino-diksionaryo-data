@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '461'
+origen: Jeneral
+versions:
+-   accented: godro
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: godro
+    translations:
+        english: fat
+        french: ''
+        portuguese: ''
+        spanish: gordo / a
+        turkish: şişman
