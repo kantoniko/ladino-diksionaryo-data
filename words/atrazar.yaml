@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1234'
+origen: Jeneral
+versions:
+-   accented: atrazar
+    ladino: atrazar
+    translations:
+        english:
+          - retard
+          - be slow (clock)
+        french: ''
+        portuguese: ''
+        spanish: atrasar
+        turkish:
+          - tehir etmek
+          - gerilemek (saat)
