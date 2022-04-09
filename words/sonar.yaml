@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Para Kipur, sonan el shofár.
+grammar: verb
+id: '2197'
+origen: Jeneral
+versions:
+-   accented: sonár
+    ladino: sonar
+    translations:
+        english: ring
+        french: sonner
+        portuguese: soar
+        spanish: sonar
+        turkish:
+        - zil
+        - çan çalmak
