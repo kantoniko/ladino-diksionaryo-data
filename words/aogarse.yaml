@@ -1,0 +1,20 @@
+conjugations: {}
+examples:
+-   ladino: Se aoga en una kupa de agua.
+grammar: verb
+id: '2806'
+origen: Jeneral
+versions:
+-   accented: aogárse
+    alternative-spelling:
+    -   accented: afogárse
+        ladino: afogarse
+    ladino: aogarse
+    translations:
+        english:
+        - drown o.s.
+        - suffocate
+        french: ''
+        portuguese: ''
+        spanish: ahogarse
+        turkish: boğulmak
