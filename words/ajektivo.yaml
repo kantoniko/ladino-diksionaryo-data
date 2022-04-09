@@ -1,0 +1,16 @@
+examples:
+-   ladino: '"Dezvelopado" siempre se uzo komo ajektivo.'
+grammar: null
+id: '1183'
+origen: Jeneral
+versions:
+-   accented: ajektívo
+    gender: masculine
+    ladino: ajektivo
+    number: singular
+    translations:
+        english: adjective
+        french: ''
+        portuguese: ''
+        spanish: adjetivo
+        turkish: sıfat
