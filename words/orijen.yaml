@@ -1,0 +1,23 @@
+examples:
+-   ladino: Esta es la orijin de la teoriya.
+grammar: null
+id: '2558'
+origen: Jeneral
+versions:
+-   accented: oríjen
+    alternative-spelling:
+    -   accented: orijín
+        ladino: orijin
+    gender: feminine
+    ladino: orijen
+    number: singular
+    translations:
+        english:
+        - origin
+        - source
+        french: ''
+        portuguese: ''
+        spanish: origen
+        turkish:
+        - menşe
+        - kaynak

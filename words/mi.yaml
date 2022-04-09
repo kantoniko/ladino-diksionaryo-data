@@ -1,0 +1,20 @@
+examples:
+-   ladino: El era mi ermano adoptado.
+grammar: null
+id: '2539'
+origen: Jeneral
+versions:
+-   accented: mi
+    ladino: mi
+    translations:
+        english:
+        - my
+        - me
+        french: ''
+        portuguese: ''
+        spanish:
+        - mi
+        - mí
+        turkish:
+        - benim
+        - ben

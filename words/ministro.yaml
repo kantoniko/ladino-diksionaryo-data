@@ -1,0 +1,16 @@
+examples:
+-   ladino: Me demando sovre el ministro de la edukasion.
+grammar: null
+id: '2540'
+origen: Jeneral
+versions:
+-   accented: minístro
+    ladino: ministro
+    translations:
+        english: minister
+        french: ''
+        portuguese: ''
+        spanish: ministro
+        turkish:
+        - bakan
+        - vekil

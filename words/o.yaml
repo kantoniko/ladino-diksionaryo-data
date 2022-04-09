@@ -1,0 +1,18 @@
+examples:
+-   ladino: Me vienen mesajes en Inglez o en espanyol.
+grammar: null
+id: '2553'
+origen: Jeneral
+versions:
+-   accented: o
+    ladino: o
+    translations:
+        english:
+        - or
+        - either... or
+        french: ''
+        portuguese: ''
+        spanish: o
+        turkish:
+        - veya
+        - yahut

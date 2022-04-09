@@ -1,0 +1,14 @@
+examples:
+-   ladino: Mersi muncho por tus esfuersos.
+grammar: null
+id: '2538'
+origen: Estanbol
+versions:
+-   accented: mersí
+    ladino: mersi
+    translations:
+        english: thanks
+        french: ''
+        portuguese: ''
+        spanish: gracias
+        turkish: teşekkür

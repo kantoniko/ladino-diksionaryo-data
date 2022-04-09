@@ -1,0 +1,19 @@
+examples:
+-   ladino: Me miró.
+grammar: null
+id: '2534'
+origen: Jeneral
+versions:
+-   accented: me
+    ladino: me
+    translations:
+        english:
+        - me
+        - to me
+        - myself
+        french: ''
+        portuguese: ''
+        spanish: me
+        turkish:
+        - beni
+        - bana

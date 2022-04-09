@@ -1,0 +1,21 @@
+examples:
+-   ladino: '... kon la ortografia rekomendada por AKI YERUSHALAYIM.'
+grammar: null
+id: '2560'
+origen: Jeneral
+versions:
+-   accented: ortografía
+    alternative-spelling:
+    -   accented: ortografíya
+        ladino: ortografiya
+    gender: feminine
+    ladino: ortografia
+    number: singular
+    translations:
+        english: spelling
+        french: ''
+        portuguese: ''
+        spanish: ortografía
+        turkish:
+        - imlâ
+        - yazım

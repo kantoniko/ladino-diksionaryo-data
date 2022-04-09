@@ -1,0 +1,14 @@
+examples:
+-   ladino: Mas tiene, mas kere.
+grammar: null
+id: '2544'
+origen: Jeneral
+versions:
+-   accented: mas
+    ladino: mas
+    translations:
+        english: more
+        french: ''
+        portuguese: ''
+        spanish: más
+        turkish: daha çok

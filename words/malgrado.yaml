@@ -1,0 +1,16 @@
+examples:
+-   ladino: Se metio en kamino malgrado el negro tiempo.
+grammar: null
+id: '2527'
+origen: Estanbol
+versions:
+-   accented: malgrádo
+    ladino: malgrado
+    translations:
+        english:
+        - although
+        - though
+        french: ''
+        portuguese: ''
+        spanish: aunque
+        turkish: rağmen

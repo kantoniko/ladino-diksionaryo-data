@@ -1,0 +1,18 @@
+examples:
+-   ladino: Yo ize el primer paso.
+grammar: null
+id: '2567'
+origen: Jeneral
+versions:
+-   accented: páso
+    gender: masculine
+    ladino: paso
+    number: singular
+    translations:
+        english:
+        - step
+        - pace
+        french: ''
+        portuguese: ''
+        spanish: paso
+        turkish: adım

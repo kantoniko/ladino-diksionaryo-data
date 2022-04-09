@@ -1,0 +1,16 @@
+comments:
+- 'grammar: m/pl'
+examples:
+-   ladino: En tiempo de muestros padres...
+grammar: null
+id: '2563'
+origen: Jeneral
+versions:
+-   accented: pádres
+    ladino: padres
+    translations:
+        english: parents
+        french: ''
+        portuguese: ''
+        spanish: padres
+        turkish: ebeveyn

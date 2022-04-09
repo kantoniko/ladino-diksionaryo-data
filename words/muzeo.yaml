@@ -1,0 +1,17 @@
+examples:
+-   ladino: Komo dize H.-V. Sephiha, somos un muzeo bivo.
+grammar: null
+id: '2549'
+origen: Jeneral
+versions:
+-   accented: muzéo
+    alternative-spelling:
+    -   accented: muséo
+        ladino: museo
+    ladino: muzeo
+    translations:
+        english: museum
+        french: ''
+        portuguese: ''
+        spanish: museo
+        turkish: müze

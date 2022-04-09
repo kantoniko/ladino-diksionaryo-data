@@ -1,0 +1,14 @@
+examples:
+-   ladino: Para azer boyikos, kale finyir muncho la masa.
+grammar: null
+id: '2532'
+origen: Jeneral
+versions:
+-   accented: mása
+    ladino: masa
+    translations:
+        english: dough
+        french: ''
+        portuguese: ''
+        spanish: masa
+        turkish: hamur

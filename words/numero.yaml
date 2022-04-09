@@ -1,0 +1,22 @@
+examples:
+-   ladino: El muevo numero de la revista AKI YERUSHALAYIM mos yego.
+grammar: null
+id: '2552'
+origen: Jeneral
+versions:
+-   accented: número
+    gender: masculine
+    ladino: numero
+    number: singular
+    translations:
+        english:
+        - number
+        - item
+        - turn
+        french: ''
+        portuguese: ''
+        spanish: número
+        turkish:
+        - numara
+        - rakkam
+        - sıra

@@ -1,0 +1,25 @@
+comments:
+- 'grammar: m/pl'
+examples:
+-   ladino: Mis parientes en Estambol no komiyan arroz en Pesah.
+grammar: null
+id: '2566'
+origen: Jeneral
+versions:
+-   accented: pariéntes
+    alternative-spelling:
+    -   accented: paryentes
+        ladino: paryentes
+    ladino: parientes
+    translations:
+        english:
+        - parents
+        - relatives
+        french: ''
+        portuguese: ''
+        spanish:
+        - parientes
+        - padres
+        turkish:
+        - ebeveyn
+        - akrabalar

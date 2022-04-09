@@ -1,0 +1,18 @@
+examples:
+-   ladino: So muy aktiva en muestra organizasion, Sephardi Federation.
+grammar: null
+id: '2556'
+origen: Jeneral
+versions:
+-   accented: organizasión
+    gender: feminine
+    ladino: organizasion
+    number: singular
+    translations:
+        english: organization
+        french: ''
+        portuguese: ''
+        spanish: organización
+        turkish:
+        - teşkilat
+        - kurum

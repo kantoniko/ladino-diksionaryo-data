@@ -1,0 +1,25 @@
+examples:
+-   ladino: Lo miyo miyo, i lo tuyo miyo.
+grammar: null
+id: '2545'
+origen: Jeneral
+versions:
+-   accented: mío
+    alternative-spelling:
+    -   accented: míyo
+        ladino: miyo
+    -   accented: mía
+        ladino: mia
+    -   accented: míya
+        ladino: miya
+    ladino: mio
+    translations:
+        english:
+        - mine
+        - my
+        french: ''
+        portuguese: ''
+        spanish:
+        - mio
+        - mia
+        turkish: benim

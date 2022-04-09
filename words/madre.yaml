@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mi madre i mi padre nasieron en Izmir.
+grammar: null
+id: '2526'
+origen: Jeneral
+versions:
+-   accented: mádre
+    ladino: madre
+    translations:
+        english: mother
+        french: ''
+        portuguese: ''
+        spanish: madre
+        turkish:
+        - anne
+        - ana

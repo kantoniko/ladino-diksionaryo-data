@@ -1,0 +1,19 @@
+examples:
+-   ladino: No toman parte en la vida moderna.
+grammar: null
+id: '2543'
+origen: Jeneral
+versions:
+-   accented: modérno
+    alternative-spelling:
+    -   accented: modérna
+        ladino: moderna
+    ladino: moderno
+    translations:
+        english: modern
+        french: ''
+        portuguese: ''
+        spanish:
+        - moderno
+        - moderna
+        turkish: modern

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Eskrito esta en la palma, lo ke va yevar la alma.
+grammar: null
+id: '2564'
+origen: Jeneral
+versions:
+-   accented: pálma
+    gender: feminine
+    ladino: palma
+    number: singular
+    translations:
+        english: palm
+        french: ''
+        portuguese: ''
+        spanish: palma
+        turkish: avuç içi

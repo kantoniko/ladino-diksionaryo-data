@@ -1,0 +1,19 @@
+examples:
+-   ladino: Vo estar en New York en Oktubre para prezentar una charla i un konsierto.
+grammar: null
+id: '2555'
+origen: Jeneral
+versions:
+-   accented: oktúbre
+    alternative-spelling:
+    -   accented: októbre
+        ladino: oktobre
+    gender: masculine
+    ladino: oktubre
+    number: singular
+    translations:
+        english: October
+        french: ''
+        portuguese: ''
+        spanish: octubre
+        turkish: Ekim

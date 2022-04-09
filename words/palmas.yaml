@@ -1,0 +1,16 @@
+comments:
+- 'grammar: f/pl'
+examples:
+-   ladino: Dar palmas.
+grammar: null
+id: '2565'
+origen: Jeneral
+versions:
+-   accented: pálmas
+    ladino: palmas
+    translations:
+        english: applause
+        french: ''
+        portuguese: ''
+        spanish: aplauso
+        turkish: alkış

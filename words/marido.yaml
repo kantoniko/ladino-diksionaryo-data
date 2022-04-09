@@ -1,0 +1,16 @@
+examples:
+-   ladino: Marido selozo no tiene repozo. (Neh.)
+grammar: null
+id: '2531'
+origen: Jeneral
+versions:
+-   accented: marído
+    ladino: marido
+    translations:
+        english: husband
+        french: ''
+        portuguese: ''
+        spanish: marido
+        turkish:
+        - koca
+        - eş
