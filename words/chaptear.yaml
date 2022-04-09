@@ -1,0 +1,27 @@
+conjugations: {}
+examples:
+  - ladino: Las ventanas estavan chafteando del aire.
+  - ladino: Dos personas se chafteyaron.
+grammar: verb
+id: '1675'
+origen: Jeneral
+versions:
+-   accented: chapteár
+    alternative-spelling:
+    -   accented: chafteár
+        ladino: chaftear
+    ladino: chaptear
+    translations:
+        english:
+          - clash
+          - knock
+          - bump into
+        french: ''
+        portuguese: ''
+        spanish:
+          - chocar
+          - topar con
+        turkish:
+          - çarpmak
+          - çarpışmak
+
