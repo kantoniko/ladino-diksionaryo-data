@@ -1,0 +1,19 @@
+examples:
+-   ladino: Las flores de akasia tienen una golor muy delikada.
+grammar: null
+id: '52'
+origen: Jeneral
+versions:
+-   accented: akásia
+    alternative-spelling:
+    -   accented: akásya
+        ladino: akasya
+    gender: feminine
+    ladino: akasia
+    number: singular
+    translations:
+        english: acacia
+        french: ''
+        portuguese: ''
+        spanish: acacia
+        turkish: akasya
