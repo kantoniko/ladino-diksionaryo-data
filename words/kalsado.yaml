@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '518'
+origen: Jeneral
+versions:
+-   accented: kalsado
+    alternative-spelling:
+    -   accented: sapato
+        ladino: sapato
+    ladino: kalsado
+    translations:
+        english: shoe
+        french: ''
+        portuguese: ''
+        spanish: zapato
+        turkish: ayakkabı

@@ -1,0 +1,19 @@
+comments:
+- 'grammar: f/m'
+examples:
+-   ladino: La dieron a los inyetos ke la guadren en kashon.
+grammar: null
+id: '1358'
+origen: Jeneral
+versions:
+-   accented: inyéto
+    alternative-spelling:
+    -   accented: inyéta
+        ladino: inyeta
+    ladino: inyeto
+    translations:
+        english: grandchild
+        french: ''
+        portuguese: ''
+        spanish: nieto / a
+        turkish: torun

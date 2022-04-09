@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1353'
+origen: Jeneral
+versions:
+-   accented: indemas
+    ladino: indemas
+    translations:
+        english:
+        - besides
+        - moreover
+        french: ''
+        portuguese: ''
+        spanish:
+        - además
+        - por ende
+        turkish:
+        - üstelik
+        - hele

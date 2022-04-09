@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '502'
+origen: Jeneral
+versions:
+-   accented: ir de mal en peor
+    ladino: ir de mal en peor
+    translations:
+        english: from bad to worse
+        french: ''
+        portuguese: ''
+        spanish: ir de mal en peor
+        turkish: beter olmak

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1362'
+origen: Jeneral
+versions:
+-   accented: jurnal
+    ladino: jurnal
+    translations:
+        english: newspaper
+        french: ''
+        portuguese: ''
+        spanish: periódico
+        turkish: gazete

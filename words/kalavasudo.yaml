@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '511'
+origen: Jeneral
+versions:
+-   accented: kalavasudo
+    alternative-spelling:
+    -   accented: kalvo
+        ladino: kalvo
+    ladino: kalavasudo
+    translations:
+        english: bald
+        french: ''
+        portuguese: ''
+        spanish: calvo
+        turkish: kel

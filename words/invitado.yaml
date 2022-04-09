@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '496'
+origen: Jeneral
+versions:
+-   accented: invitado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: invitado
+    translations:
+        english: guest
+        french: ''
+        portuguese: ''
+        spanish: invitado / a
+        turkish: davetli

@@ -1,0 +1,14 @@
+examples:
+-   ladino: '?'
+grammar: null
+id: '1354'
+origen: Jeneral
+versions:
+-   accented: inferno
+    ladino: inferno
+    translations:
+        english: hell
+        french: ''
+        portuguese: ''
+        spanish: infierno
+        turkish: cehennem

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '507'
+origen: Jeneral
+versions:
+-   accented: jenerozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: jenerozo
+    translations:
+        english: generous
+        french: ''
+        portuguese: ''
+        spanish: generoso / a
+        turkish: cömert

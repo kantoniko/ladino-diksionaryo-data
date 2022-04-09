@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '501'
+origen: Jeneral
+versions:
+-   accented: ir a komprar
+    alternative-spelling:
+    -   accented: emplear
+        ladino: emplear
+    ladino: ir a komprar
+    translations:
+        english: go shopping
+        french: ''
+        portuguese: ''
+        spanish: ir de compras
+        turkish: alışverişe gitmek

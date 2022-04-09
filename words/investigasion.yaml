@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '494'
+origen: Jeneral
+versions:
+-   accented: investigasion
+    ladino: investigasion
+    translations:
+        english: investigation
+        french: ''
+        portuguese: ''
+        spanish: investigación
+        turkish:
+        - araştırma
+        - tahkik

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '517'
+origen: Jeneral
+versions:
+-   accented: kalor
+    ladino: kalor
+    translations:
+        english: heat
+        french: ''
+        portuguese: ''
+        spanish: calor
+        turkish:
+        - hararet
+        - sıcaklık

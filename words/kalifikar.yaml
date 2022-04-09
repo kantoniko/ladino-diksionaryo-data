@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '514'
+origen: Jeneral
+versions:
+-   accented: kalifikar
+    ladino: kalifikar
+    translations:
+        english: qualify
+        french: ''
+        portuguese: ''
+        spanish: calificar
+        turkish: nitelemek

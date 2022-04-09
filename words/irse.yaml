@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '503'
+origen: Jeneral
+versions:
+-   accented: irse
+    ladino: irse
+    translations:
+        english: go
+        french: ''
+        portuguese: ''
+        spanish: andar
+        turkish: gitmek

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1355'
+origen: Jeneral
+versions:
+-   accented: inisiar
+    ladino: inisiar
+    translations:
+        english: initiate
+        french: ''
+        portuguese: ''
+        spanish: iniciar
+        turkish:
+        - başlatmak
+        - öğretmek

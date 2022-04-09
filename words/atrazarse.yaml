@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '504'
+origen: Jeneral
+versions:
+-   accented: atrazarse
+    ladino: atrazarse
+    translations:
+        english:
+        - retard
+        - back up
+        french: ''
+        portuguese: ''
+        spanish: atrasarse
+        turkish: gerilemek

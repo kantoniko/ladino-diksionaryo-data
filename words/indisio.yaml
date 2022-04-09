@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '483'
+origen: Jeneral
+versions:
+-   accented: indisio
+    ladino: indisio
+    translations:
+        english: clue
+        french: ''
+        portuguese: ''
+        spanish: pista
+        turkish: ipucu

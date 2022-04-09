@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '486'
+origen: Jeneral
+versions:
+-   accented: informar
+    ladino: informar
+    translations:
+        english: inform
+        french: ''
+        portuguese: ''
+        spanish: dar una noticia
+        turkish: haber vermek

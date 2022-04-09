@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '516'
+origen: Jeneral
+versions:
+-   accented: kalmo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kalmo
+    translations:
+        english: calm
+        french: ''
+        portuguese: ''
+        spanish: tranquilo
+        turkish:
+        - sakin
+        - rahat

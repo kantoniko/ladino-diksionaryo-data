@@ -1,0 +1,14 @@
+examples:
+-   ladino: Bivimos ayi una vida jeneralmente trankila.
+grammar: adverb
+id: '506'
+origen: Jeneral
+versions:
+-   accented: jenerálmente
+    ladino: jeneralmente
+    translations:
+        english: generally
+        french: ''
+        portuguese: ''
+        spanish: en general
+        turkish: genellikle

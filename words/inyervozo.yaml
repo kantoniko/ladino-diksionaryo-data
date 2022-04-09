@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '498'
+origen: Jeneral
+versions:
+-   accented: inyervozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: inyervozo
+    translations:
+        english: nervous
+        french: ''
+        portuguese: ''
+        spanish: nervioso / a
+        turkish: sinirli

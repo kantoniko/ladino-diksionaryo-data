@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '482'
+origen: Jeneral
+versions:
+-   accented: indechizo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: indechizo
+    translations:
+        english: undecided
+        french: ''
+        portuguese: ''
+        spanish: vago / a
+        turkish: kararsız

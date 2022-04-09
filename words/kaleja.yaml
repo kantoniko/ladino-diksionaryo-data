@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1363'
+origen: Jeneral
+versions:
+-   accented: kaleja
+    ladino: kaleja
+    translations:
+        english: street
+        french: ''
+        portuguese: ''
+        spanish: calleja
+        turkish: sokak

@@ -1,0 +1,14 @@
+examples:
+-   ladino: Mi korason de papu se dirrityo komo inyeve al sol.
+grammar: null
+id: '499'
+origen: Jeneral
+versions:
+-   accented: inyeve
+    ladino: inyeve
+    translations:
+        english: snow
+        french: neige
+        portuguese: neve
+        spanish: nieve
+        turkish: kar

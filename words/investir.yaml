@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '495'
+origen: Jeneral
+versions:
+-   accented: investir
+    ladino: investir
+    translations:
+        english: invest
+        french: ''
+        portuguese: ''
+        spanish: invertir
+        turkish: yatırım yapmak

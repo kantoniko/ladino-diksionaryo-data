@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1352'
+origen: Jeneral
+versions:
+-   accented: inchir
+    ladino: inchir
+    translations:
+        english:
+        - fill
+        - stuff
+        french: ''
+        portuguese: ''
+        spanish:
+        - llenar
+        - rellenar
+        turkish: doldurmak

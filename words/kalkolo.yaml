@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '515'
+origen: Jeneral
+versions:
+-   accented: kalkolo
+    ladino: kalkolo
+    translations:
+        english: calculation
+        french: ''
+        portuguese: ''
+        spanish: cálculo
+        turkish: hesap

@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '519'
+origen: Jeneral
+versions:
+-   accented: kam. de echar
+    alternative-spelling:
+    -   accented: dormitorio
+        ladino: dormitorio
+    ladino: kam. de echar
+    translations:
+        english:
+        - bedroom
+        - dormitory
+        french: ''
+        portuguese: ''
+        spanish: dormitorio
+        turkish:
+        - yatak odası
+        - yatakhane

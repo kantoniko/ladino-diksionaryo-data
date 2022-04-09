@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '491'
+origen: Jeneral
+versions:
+-   accented: intestino
+    ladino: intestino
+    translations:
+        english:
+        - intestine
+        - gut
+        french: ''
+        portuguese: ''
+        spanish: intestino
+        turkish: bağırsak

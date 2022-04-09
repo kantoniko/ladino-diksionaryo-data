@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '513'
+origen: Jeneral
+versions:
+-   accented: kalem
+    ladino: kalem
+    translations:
+        english: pencil
+        french: ''
+        portuguese: ''
+        spanish: lápiz
+        turkish: kurşun kalem

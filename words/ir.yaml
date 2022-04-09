@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '500'
+origen: Jeneral
+versions:
+-   accented: ir
+    ladino: ir
+    translations:
+        english:
+        - go
+        - march; suit
+        french: ''
+        portuguese: ''
+        spanish:
+        - ir
+        - marchar
+        turkish: gitmek; yakışmak
