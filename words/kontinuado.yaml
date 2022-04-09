@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '607'
+origen: Jeneral
+versions:
+-   accented: kontinuado
+    ladino: kontinuado
+    translations:
+        english: continuous
+        french: ''
+        portuguese: ''
+        spanish: continuado
+        turkish: devamlı

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '566'
+origen: Jeneral
+versions:
+-   accented: kilo
+    ladino: kilo
+    translations:
+        english: kilo
+        french: ''
+        portuguese: ''
+        spanish: kilo
+        turkish: kilo

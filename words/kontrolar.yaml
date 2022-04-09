@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '608'
+origen: Jeneral
+versions:
+-   accented: kontrolar
+    ladino: kontrolar
+    translations:
+        english: control
+        french: ''
+        portuguese: ''
+        spanish: controlar
+        turkish: kontrol etmek

@@ -1,0 +1,17 @@
+examples:
+-   ladino: Munchos amigos i konosidos no tienen komputadoras.
+grammar: null
+id: '585'
+origen: Jeneral
+versions:
+-   accented: komputadóra
+    alternative-spelling:
+    -   accented: kompúter
+        ladino: komputer
+    ladino: komputadora
+    translations:
+        english: computer
+        french: ''
+        portuguese: ''
+        spanish: ordenador
+        turkish: bilgisayar

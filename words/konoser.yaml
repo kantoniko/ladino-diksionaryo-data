@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '594'
+origen: Jeneral
+versions:
+-   accented: konoser
+    ladino: konoser
+    translations:
+        english:
+        - know
+        - recognize
+        french: ''
+        portuguese: ''
+        spanish: conocer
+        turkish: tanımak

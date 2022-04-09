@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1381'
+origen: Jeneral
+versions:
+-   accented: konsensia
+    alternative-spelling:
+    -   accented: konsensya
+        ladino: konsensya
+    ladino: konsensia
+    translations:
+        english: conscience
+        french: ''
+        portuguese: ''
+        spanish: conciencia
+        turkish:
+        - bilinç
+        - vicdan

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '602'
+origen: Jeneral
+versions:
+-   accented: konstruir
+    ladino: konstruir
+    translations:
+        english: build
+        french: ''
+        portuguese: ''
+        spanish: construir
+        turkish: inşa etmek

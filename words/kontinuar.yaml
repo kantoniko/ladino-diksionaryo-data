@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1386'
+origen: Jeneral
+versions:
+-   accented: kontinuar
+    ladino: kontinuar
+    translations:
+        english:
+        - continue
+        - proceed
+        french: ''
+        portuguese: ''
+        spanish:
+        - continuar
+        - proseguir
+        turkish: devam etmek

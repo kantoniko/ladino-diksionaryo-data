@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '603'
+origen: Jeneral
+versions:
+-   accented: kontar
+    ladino: kontar
+    translations:
+        english:
+        - count
+        - tell
+        french: ''
+        portuguese: ''
+        spanish: contar
+        turkish:
+        - saymak
+        - anlatmak

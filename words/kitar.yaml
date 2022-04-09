@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '570'
+origen: Jeneral
+versions:
+-   accented: kitar
+    ladino: kitar
+    translations:
+        english:
+        - take out
+        - remove
+        french: ''
+        portuguese: ''
+        spanish: quitar
+        turkish: çıkarmak

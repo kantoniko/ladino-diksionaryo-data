@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '589'
+origen: Jeneral
+versions:
+-   accented: kompuesto
+    ladino: kompuesto
+    translations:
+        english: compound
+        french: ''
+        portuguese: ''
+        spanish: compuesto
+        turkish: birleşik

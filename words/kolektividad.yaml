@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1374'
+origen: Jeneral
+versions:
+-   accented: kolektividad
+    ladino: kolektividad
+    translations:
+        english:
+        - whole
+        - group
+        french: ''
+        portuguese: ''
+        spanish: colectividad
+        turkish:
+        - cemiyet
+        - topluluk

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '576'
+origen: Jeneral
+versions:
+-   accented: koensidar
+    ladino: koensidar
+    translations:
+        english: coincide
+        french: ''
+        portuguese: ''
+        spanish: coincidir
+        turkish:
+        - uyuşmak
+        - uymak

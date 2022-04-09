@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1378'
+origen: Jeneral
+versions:
+-   accented: komunikar
+    ladino: komunikar
+    translations:
+        english: communicate
+        french: ''
+        portuguese: ''
+        spanish: comunicar
+        turkish:
+        - bildirmek
+        - iletmek

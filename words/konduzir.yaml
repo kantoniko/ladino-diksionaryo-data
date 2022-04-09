@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '592'
+origen: Jeneral
+versions:
+-   accented: konduzir
+    ladino: konduzir
+    translations:
+        english: drive
+        french: ''
+        portuguese: ''
+        spanish: conducir
+        turkish: sürmek

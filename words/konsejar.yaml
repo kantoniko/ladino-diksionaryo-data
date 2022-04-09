@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '597'
+origen: Jeneral
+versions:
+-   accented: konsejar
+    ladino: konsejar
+    translations:
+        english: advise
+        french: ''
+        portuguese: ''
+        spanish: aconsejar
+        turkish: nasihat etmek

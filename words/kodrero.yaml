@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '575'
+origen: Jeneral
+versions:
+-   accented: kodrero
+    ladino: kodrero
+    translations:
+        english: lamb
+        french: ''
+        portuguese: ''
+        spanish: cordero
+        turkish: kuzu

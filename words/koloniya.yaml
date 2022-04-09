@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '577'
+origen: Jeneral
+versions:
+-   accented: koloniya
+    ladino: koloniya
+    translations:
+        english: colony
+        french: ''
+        portuguese: ''
+        spanish: colonia
+        turkish: müstemleke

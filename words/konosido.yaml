@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '595'
+origen: Jeneral
+versions:
+-   accented: konosido
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: konosido
+    translations:
+        english:
+        - well-known
+        - familiar
+        french: ''
+        portuguese: ''
+        spanish: conocido / a
+        turkish:
+        - meihur
+        - tanıdık

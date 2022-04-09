@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '573'
+origen: Jeneral
+versions:
+-   accented: klasiko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: klasiko
+    translations:
+        english: classic
+        french: ''
+        portuguese: ''
+        spanish: clásico / a
+        turkish: klasik

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '574'
+origen: Jeneral
+versions:
+-   accented: kliente
+    ladino: kliente
+    translations:
+        english: client
+        french: ''
+        portuguese: ''
+        spanish: cliente
+        turkish: müşteri

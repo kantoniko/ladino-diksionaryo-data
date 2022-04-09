@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1379'
+origen: Jeneral
+versions:
+-   accented: konfiensa
+    ladino: konfiensa
+    translations:
+        english: confidence
+        french: ''
+        portuguese: ''
+        spanish: confianza
+        turkish: güven

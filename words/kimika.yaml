@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '567'
+origen: Jeneral
+versions:
+-   accented: kimika
+    ladino: kimika
+    translations:
+        english: chemistry
+        french: ''
+        portuguese: ''
+        spanish: química
+        turkish: kimya

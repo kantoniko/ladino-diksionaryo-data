@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '601'
+origen: Jeneral
+versions:
+-   accented: konsonante
+    ladino: konsonante
+    translations:
+        english: consonant
+        french: ''
+        portuguese: ''
+        spanish: consonante
+        turkish: sessiz harf

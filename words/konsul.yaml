@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1385'
+origen: Jeneral
+versions:
+-   accented: konsul
+    ladino: konsul
+    translations:
+        english: consulate
+        french: ''
+        portuguese: ''
+        spanish: cónsul
+        turkish: konsolos

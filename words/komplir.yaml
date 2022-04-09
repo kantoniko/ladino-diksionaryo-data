@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1377'
+origen: Jeneral
+versions:
+-   accented: komplir
+    ladino: komplir
+    translations:
+        english: fulfil
+        french: ''
+        portuguese: ''
+        spanish: cumplir
+        turkish:
+        - ikmal etmek
+        - gerçekleştirmek

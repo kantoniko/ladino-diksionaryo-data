@@ -1,0 +1,18 @@
+examples:
+-   ladino: Vinieron muchos a darmos konsolasion.
+grammar: null
+id: '600'
+origen: Jeneral
+versions:
+-   accented: konsolasión
+    gender: feminine
+    ladino: konsolasion
+    number: singular
+    translations:
+        english:
+        - consolation
+        - comfort
+        french: consolation
+        portuguese: conforto
+        spanish: consuelo
+        turkish: teselli

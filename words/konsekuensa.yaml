@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '598'
+origen: Jeneral
+versions:
+-   accented: konsekuensa
+    ladino: konsekuensa
+    translations:
+        english: consequence
+        french: ''
+        portuguese: ''
+        spanish: consecuencia
+        turkish: bir olayın sonucu

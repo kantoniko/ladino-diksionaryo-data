@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1382'
+origen: Jeneral
+versions:
+-   accented: konserto
+    ladino: konserto
+    translations:
+        english: concert
+        french: ''
+        portuguese: ''
+        spanish: concierto
+        turkish: konser

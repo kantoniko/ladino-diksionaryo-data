@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '569'
+origen: Jeneral
+versions:
+-   accented: kinezo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kinezo
+    translations:
+        english: Chinese
+        french: ''
+        portuguese: ''
+        spanish: chino / a
+        turkish: çinli

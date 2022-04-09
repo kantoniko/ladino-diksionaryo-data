@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1388'
+origen: Jeneral
+versions:
+-   accented: kontribusyon
+    ladino: kontribusyon
+    translations:
+        english: contribution
+        french: ''
+        portuguese: ''
+        spanish: contribución
+        turkish:
+        - iştirak
+        - katkı

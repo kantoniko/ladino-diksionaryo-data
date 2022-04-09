@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '584'
+origen: Jeneral
+versions:
+-   accented: kompetitivo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kompetitivo
+    translations:
+        english: competitive
+        french: ''
+        portuguese: ''
+        spanish: competitivo / a
+        turkish: rekabet edici

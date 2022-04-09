@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1384'
+origen: Jeneral
+versions:
+-   accented: konsolato
+    ladino: konsolato
+    translations:
+        english: consulate
+        french: ''
+        portuguese: ''
+        spanish: consulado
+        turkish: konsolosluk

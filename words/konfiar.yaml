@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '593'
+origen: Jeneral
+versions:
+-   accented: konfiar
+    ladino: konfiar
+    translations:
+        english: entrust
+        french: ''
+        portuguese: ''
+        spanish: confiar
+        turkish:
+        - emanet etmek
+        - güvenmek
