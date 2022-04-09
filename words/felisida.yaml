@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1331'
+origen: Jeneral
+versions:
+-   accented: felisida
+    ladino: felisida
+    translations:
+        english:
+        - happiness
+        - felicity
+        french: ''
+        portuguese: ''
+        spanish: felicidad
+        turkish: mutluluk

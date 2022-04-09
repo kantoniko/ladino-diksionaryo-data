@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '405'
+origen: Jeneral
+versions:
+-   accented: fashisto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: fashisto
+    translations:
+        english: fascist
+        french: ''
+        portuguese: ''
+        spanish: fascista
+        turkish: faşist

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '396'
+origen: Jeneral
+versions:
+-   accented: etaj
+    alternative-spelling:
+    -   accented: apartamento
+        ladino: apartamento
+    ladino: etaj
+    translations:
+        english: apartment
+        french: ''
+        portuguese: ''
+        spanish: piso
+        turkish: kat; daire

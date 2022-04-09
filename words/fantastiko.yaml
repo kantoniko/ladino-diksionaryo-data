@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '402'
+origen: Jeneral
+versions:
+-   accented: fantastiko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: fantastiko
+    translations:
+        english: fantastic
+        french: ''
+        portuguese: ''
+        spanish: fantástico / a
+        turkish: inanılmaz

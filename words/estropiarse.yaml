@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '392'
+origen: Jeneral
+versions:
+-   accented: estropiarse
+    ladino: estropiarse
+    translations:
+        english: get damaged
+        french: ''
+        portuguese: ''
+        spanish: estropearse
+        turkish:
+        - bozulmak
+        - çarpılmak

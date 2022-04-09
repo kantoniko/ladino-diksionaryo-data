@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '389'
+origen: Jeneral
+versions:
+-   accented: estranyo
+    ladino: estranyo
+    translations:
+        english: strange
+        french: ''
+        portuguese: ''
+        spanish: extraño
+        turkish: acayip

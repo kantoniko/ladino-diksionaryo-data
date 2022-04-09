@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '398'
+origen: Jeneral
+versions:
+-   accented: fadado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: fadado
+    translations:
+        english: fated
+        french: ''
+        portuguese: ''
+        spanish: hadado / a
+        turkish: nasip olan

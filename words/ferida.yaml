@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '412'
+origen: Jeneral
+versions:
+-   accented: ferida
+    ladino: ferida
+    translations:
+        english:
+        - injury
+        - wound
+        french: ''
+        portuguese: ''
+        spanish: herida
+        turkish: yara

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '393'
+origen: Jeneral
+versions:
+-   accented: estudiante
+    alternative-spelling:
+    -   accented: elevo
+        ladino: elevo
+    ladino: estudiante
+    translations:
+        english: student
+        french: ''
+        portuguese: ''
+        spanish: estudiante
+        turkish: öğrenci

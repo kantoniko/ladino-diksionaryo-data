@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '410'
+origen: Jeneral
+versions:
+-   accented: feliche
+    ladino: feliche
+    translations:
+        english: happy
+        french: ''
+        portuguese: ''
+        spanish: feliz
+        turkish: mutlu

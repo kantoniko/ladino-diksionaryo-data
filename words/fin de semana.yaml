@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '421'
+origen: Jeneral
+versions:
+-   accented: fin de semana
+    ladino: fin de semana
+    translations:
+        english: week-end
+        french: ''
+        portuguese: ''
+        spanish: fin de semana
+        turkish: hafta sonu

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '401'
+origen: Jeneral
+versions:
+-   accented: famozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: famozo
+    translations:
+        english: famous
+        french: ''
+        portuguese: ''
+        spanish: famoso / a
+        turkish: ünlü

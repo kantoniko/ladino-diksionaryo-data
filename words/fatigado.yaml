@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '407'
+origen: Jeneral
+versions:
+-   accented: fatigado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: fatigado
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: fatigado / a
+        turkish: yorgun

@@ -1,0 +1,19 @@
+comments:
+- 'grammar: la'
+examples: []
+grammar: null
+id: '420'
+origen: Jeneral
+versions:
+-   accented: fin
+    ladino: fin
+    translations:
+        english: end
+        french: ''
+        portuguese: ''
+        spanish: fin (el)
+        turkish: son
+
+# fin (la),,fin (el),end,son,Jeneral,420,,
+# "fin, asta",,hasta,till,kadar,Jeneral,422,,
+

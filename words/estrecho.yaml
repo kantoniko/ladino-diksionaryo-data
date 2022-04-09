@@ -1,0 +1,17 @@
+examples:
+-   ladino: Tuvimos oras estrechas.
+grammar: adjective
+id: '390'
+origen: Jeneral
+versions:
+-   accented: estrécho
+    alternative-spelling:
+    -   accented: estrécha
+        ladino: estrecha
+    ladino: estrecho
+    translations:
+        english: narrow
+        french: étroit / e
+        portuguese: estreito / estreita
+        spanish: estrecho / a
+        turkish: dar

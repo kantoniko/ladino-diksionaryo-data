@@ -1,0 +1,16 @@
+examples:
+-   ladino: Por seguro ke semos todos una famiya .
+grammar: null
+id: '1329'
+origen: Jeneral
+versions:
+-   accented: famíya
+    gender: feminine
+    ladino: famiya
+    number: singular
+    translations:
+        english: family
+        french: famille
+        portuguese: ''
+        spanish: familia
+        turkish: aile

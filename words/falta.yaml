@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '400'
+origen: Jeneral
+versions:
+-   accented: falta
+    ladino: falta
+    translations:
+        english:
+        - fault
+        - error
+        french: ''
+        portuguese: ''
+        spanish: error
+        turkish: hata

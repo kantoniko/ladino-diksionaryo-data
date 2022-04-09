@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '395'
+origen: Jeneral
+versions:
+-   accented: esfuenyo
+    ladino: esfuenyo
+    translations:
+        english: sleep
+        french: ''
+        portuguese: ''
+        spanish: sueño
+        turkish: uyku

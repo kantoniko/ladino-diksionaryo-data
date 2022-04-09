@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '418'
+origen: Jeneral
+versions:
+-   accented: filmo
+    ladino: filmo
+    translations:
+        english:
+        - film
+        - movie
+        french: ''
+        portuguese: ''
+        spanish: película
+        turkish: film

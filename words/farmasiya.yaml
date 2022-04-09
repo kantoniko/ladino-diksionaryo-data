@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '404'
+origen: Jeneral
+versions:
+-   accented: farmasiya
+    ladino: farmasiya
+    translations:
+        english: pharmacy
+        french: ''
+        portuguese: ''
+        spanish: farmacia
+        turkish: eczane

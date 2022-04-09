@@ -1,0 +1,17 @@
+examples:
+-   ladino: La gramatika tiene reglas fiksas para el uzo de las palavras.
+grammar: adjective
+id: '417'
+origen: Jeneral
+versions:
+-   accented: fíkso
+    alternative-spelling:
+    -   accented: fíksa
+        ladino: fiksa
+    ladino: fikso
+    translations:
+        english: fixed
+        french: ''
+        portuguese: ''
+        spanish: fijo
+        turkish: sabit

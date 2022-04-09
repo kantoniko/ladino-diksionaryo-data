@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '413'
+origen: Jeneral
+versions:
+-   accented: ferido
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: ferido
+    translations:
+        english: hurt
+        french: ''
+        portuguese: ''
+        spanish: herido / a
+        turkish:
+        - acı çeken
+        - yaralı

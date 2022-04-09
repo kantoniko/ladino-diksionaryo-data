@@ -1,0 +1,23 @@
+examples:
+-   ladino: 'El profesor mos avlava de la istoria de los sefaradim. '
+grammar: null
+id: '1326'
+origen: Jeneral
+versions:
+-   accented: estória
+    alternative-spelling:
+    -   accented: istória
+        ladino: istoria
+    -   accented: estórya
+        ladino: estorya
+    ladino: estoria
+    translations:
+        english:
+        - story
+        - history
+        french: ''
+        portuguese: ''
+        spanish: historia
+        turkish:
+        - hıkâye
+        - masal

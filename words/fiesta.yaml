@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '416'
+origen: Jeneral
+versions:
+-   accented: fiesta
+    ladino: fiesta
+    translations:
+        english: feast
+        french: ''
+        portuguese: ''
+        spanish: fiesta
+        turkish: bayram

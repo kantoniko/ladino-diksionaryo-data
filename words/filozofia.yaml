@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '419'
+origen: Jeneral
+versions:
+-   accented: filozofia
+    ladino: filozofia
+    translations:
+        english: philosophy
+        french: ''
+        portuguese: ''
+        spanish: filosofía
+        turkish: felsefe

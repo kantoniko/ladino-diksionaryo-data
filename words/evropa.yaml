@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1327'
+origen: Jeneral
+versions:
+-   accented: Evropa
+    ladino: Evropa
+    translations:
+        english: Europe
+        french: ''
+        portuguese: ''
+        spanish: Europa
+        turkish: Avrupa

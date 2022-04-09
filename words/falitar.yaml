@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '399'
+origen: Jeneral
+versions:
+-   accented: falitar
+    ladino: falitar
+    translations:
+        english:
+        - be ruined
+        - be bankrupt
+        french: ''
+        portuguese: ''
+        spanish: arruinarse
+        turkish: iflâs etmek
