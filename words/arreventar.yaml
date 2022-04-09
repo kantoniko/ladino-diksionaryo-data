@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: Me se arrevento la fiel.  Me espanti bueno.
+grammar: verb
+id: '1628'
+origen: Jeneral
+versions:
+-   accented: arreventár
+    ladino: arreventar
+    translations:
+        english:
+        - burst
+        - crush
+        - smash
+        french: ''
+        portuguese: ''
+        spanish: reventar
+        turkish: patlamak
