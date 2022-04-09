@@ -1,0 +1,23 @@
+conjugations: {}
+examples:
+-   ladino: Afalagar kon palavras vanas. (Katalán)
+grammar: verb
+id: '2804'
+origen: Otros
+versions:
+-   accented: afalagár
+    ladino: afalagar
+    translations:
+        english:
+        - console
+        - comfort
+        french:
+        - consoler
+        - réconforter
+        portuguese: ''
+        spanish:
+        - consolar
+        - reconfortar
+        turkish:
+        - avutmak
+        - teselli etmek
