@@ -1,0 +1,20 @@
+conjugations: {}
+examples:
+-   ladino: Arvole tuerto nunka se enderecha.
+grammar: verb
+id: '1769'
+origen: Jeneral
+versions:
+-   accented: enderechár
+    ladino: enderechar
+    translations:
+        english:
+        - put right
+        - straighten
+        french:
+        - résoudre
+        - réparer
+        - redresser
+        portuguese: ' endireitar'
+        spanish: subsanar
+        turkish: düzeltmek
