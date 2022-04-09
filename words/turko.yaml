@@ -1,6 +1,8 @@
 grammar: null
 id: '25'
 origen: Jeneral
+categories:
+  - lashon
 
 versions:
   - ladino: turko
@@ -9,6 +11,7 @@ versions:
     translations:
         english: Turkish
         french: ''
+        hebrew: טורקית
         portuguese: ''
         spanish: turco
         turkish: Türkçe
