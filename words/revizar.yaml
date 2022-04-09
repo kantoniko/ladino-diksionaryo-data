@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: No  es kolay revizar tekstos en haketiya.
+grammar: verb
+id: '2991'
+origen: Jeneral
+versions:
+-   accented: revizár
+    ladino: revizar
+    translations:
+        english:
+        - revise
+        - review
+        french: réviser
+        portuguese: rever
+        spanish: revisar
+        turkish: tekrar tetkik etmek
