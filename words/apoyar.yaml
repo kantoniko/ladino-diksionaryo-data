@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: Esto dispuesto a meter mano, a apoyar i kolavorar.
+grammar: verb
+id: '2387'
+origen: Jeneral
+versions:
+-   accented: apoyár
+    ladino: apoyar
+    translations:
+        english:
+        - prop against
+        - support
+        french: ''
+        portuguese: ''
+        spanish: apoyar
+        turkish:
+        - dayamak
+        - destek olmak
