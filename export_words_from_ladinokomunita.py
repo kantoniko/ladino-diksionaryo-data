@@ -87,6 +87,12 @@ def save_yaml_format(full):
     with open(filename, 'w') as fh:
         yaml.dump(full, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
 
+def _extract_words(word):
+    if ',' in word:
+        return re.split(r'\s*,\s*', word)
+    else:
+        return word
+
 def main():
     #filename = "diksionario_biervos_excel_corrected.csv"
     filename = "biervos.csv"
@@ -112,11 +118,11 @@ def main():
                 'examples'   : examples,
                 'versions': [{
                     'translations': {
-                        'english'    : row['English'],
-                        'spanish'    : row['Espanyol'],
-                        'turkish'    : row['Turkish'],
-                        'portuguese' : row['Portuguese'],
-                        'french'     : row['French'],
+                        'english'    : _extract_words(row['English']),
+                        'spanish'    : _extract_words(row['Espanyol']),
+                        'turkish'    : _extract_words(row['Turkish']),
+                        'portuguese' : _extract_words(row['Portuguese']),
+                        'french'     : _extract_words(row['French']),
                     },
                 }]
             }
@@ -135,12 +141,18 @@ def main():
             #print(words_str)
             words = re.split(r'\s*[/,]\s*', words_str)
             for word in words:
+                print(word)
                 match = re.search(words_regex, word)
                 if not match:
                     _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
                     continue
                 #print(word)
-                dictionary.append({entry['versions'][0]['translations']['english']: word})
+                if entry['versions'][0]['translations']['english'].__class__.__name__ == 'list':
+                    translated_words = entry['versions'][0]['translations']['english']
+                else:
+                    translated_words = [entry['versions'][0]['translations']['english']]
+                for translated_word in translated_words:
+                    dictionary.append({translated_word: word})
                 plain_word = remove_accent(word)
                 all_words.add(plain_word)
                 #if plain_word in full:
