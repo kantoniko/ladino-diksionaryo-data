@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Se embolvió en meldando este livro.
+grammar: verb
+id: '2814'
+origen: Jeneral
+versions:
+-   accented: embolvérse
+    ladino: embolverse
+    translations:
+        english: become absorbed
+        french: ''
+        portuguese: ''
+        spanish: absorbarse
+        turkish:
+        - tüm dikkatini vermek
+        - dalmak
