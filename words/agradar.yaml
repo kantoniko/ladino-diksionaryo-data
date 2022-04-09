@@ -13,7 +13,19 @@ versions:
         spanish: gustar
         turkish: hoşlanmak
 
+  - ladino: agradar a...
+    accented: agradár a...
+    alternative-spelling:
+      - ladino: plazer a...
+        accented: plazér a...
+    translations:
+        english: be pleasing to
+        french: ''
+        portuguese: ''
+        spanish: gustar a...
+        turkish: hoşuna gitmek
 conjugations: {}
 examples:
   - ladino: Me agradan los pimientones.
+  - ladino: Kreyo ke yo, le agrado solo a mi mama.  Les plazgo a los elevos, sovre todo kuando termino la klasa.
 
