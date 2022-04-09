@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1249'
+origen: Jeneral
+versions:
+-   accented: batalyon
+    ladino: batalyon
+    translations:
+        english: battalion
+        french: ''
+        portuguese: ''
+        spanish: batallón
+        turkish: tabur

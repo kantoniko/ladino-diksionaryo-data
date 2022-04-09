@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '173'
+origen: Jeneral
+versions:
+-   accented: benyarse
+    ladino: benyarse
+    translations:
+        english: bathe
+        french: ''
+        portuguese: ''
+        spanish: bañarse
+        turkish: banyo yapmak

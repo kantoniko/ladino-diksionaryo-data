@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1251'
+origen: Jeneral
+versions:
+-   accented: baza
+    ladino: baza
+    translations:
+        english: basis
+        french: ''
+        portuguese: ''
+        spanish: base
+        turkish:
+        - temel
+        - esas
+        - dayanak

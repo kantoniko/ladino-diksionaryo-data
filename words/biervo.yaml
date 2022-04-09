@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '176'
+origen: Jeneral
+versions:
+-   accented: biervo
+    alternative-spelling:
+    -   accented: palavra
+        ladino: palavra
+    ladino: biervo
+    translations:
+        english: word
+        french: ''
+        portuguese: ''
+        spanish: palabra
+        turkish: kelime

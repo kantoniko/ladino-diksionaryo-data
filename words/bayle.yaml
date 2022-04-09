@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '172'
+origen: Jeneral
+versions:
+-   accented: bayle
+    ladino: bayle
+    translations:
+        english: dance
+        french: ''
+        portuguese: ''
+        spanish: baile
+        turkish: dans

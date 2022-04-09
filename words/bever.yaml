@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '174'
+origen: Jeneral
+versions:
+-   accented: bever
+    ladino: bever
+    translations:
+        english: drink
+        french: ''
+        portuguese: ''
+        spanish: beber
+        turkish: içmek

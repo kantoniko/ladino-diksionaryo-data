@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '175'
+origen: Jeneral
+versions:
+-   accented: bezar
+    ladino: bezar
+    translations:
+        english: kiss
+        french: ''
+        portuguese: ''
+        spanish: besar
+        turkish: öpmek

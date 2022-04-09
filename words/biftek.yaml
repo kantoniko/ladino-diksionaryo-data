@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '177'
+origen: Jeneral
+versions:
+-   accented: biftek
+    ladino: biftek
+    translations:
+        english: steak
+        french: ''
+        portuguese: ''
+        spanish: bistec
+        turkish: biftek
