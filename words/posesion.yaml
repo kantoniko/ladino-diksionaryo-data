@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2086'
+origen: Jeneral
+versions:
+-   accented: posesion
+    ladino: posesion
+    translations:
+        english: possession
+        french: ''
+        portuguese: ''
+        spanish: posesión
+        turkish: mülkiyet

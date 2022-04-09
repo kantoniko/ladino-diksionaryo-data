@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2094'
+origen: Jeneral
+versions:
+-   accented: preokupado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: preokupado
+    translations:
+        english: preoccupied
+        french: ''
+        portuguese: ''
+        spanish: preocupado / a
+        turkish:
+        - endişeli
+        - kaygılı

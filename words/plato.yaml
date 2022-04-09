@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2073'
+origen: Jeneral
+versions:
+-   accented: plato
+    ladino: plato
+    translations:
+        english:
+        - plate
+        - dish
+        french: ''
+        portuguese: ''
+        spanish: plato
+        turkish: tabak

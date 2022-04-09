@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2082'
+origen: Jeneral
+versions:
+-   accented: portmone
+    ladino: portmone
+    translations:
+        english: purse
+        french: ''
+        portuguese: ''
+        spanish: monedero
+        turkish: kadın cüzdanı

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2104'
+origen: Jeneral
+versions:
+-   accented: primero
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: primero
+    translations:
+        english: first
+        french: ''
+        portuguese: ''
+        spanish: primero / a
+        turkish: birinci

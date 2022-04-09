@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2067'
+origen: Jeneral
+versions:
+-   accented: perpetual
+    ladino: perpetual
+    translations:
+        english: perpetual
+        french: ''
+        portuguese: ''
+        spanish: perpetua
+        turkish:
+        - sürekli
+        - daimí

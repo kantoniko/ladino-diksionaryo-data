@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2083'
+origen: Jeneral
+versions:
+-   accented: portofolio
+    ladino: portofolio
+    translations:
+        english:
+        - billfold
+        - wallet
+        french: ''
+        portuguese: ''
+        spanish: billetero
+        turkish: cüzdan

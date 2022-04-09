@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2101'
+origen: Jeneral
+versions:
+-   accented: pretend
+    alternative-spelling:
+    -   accented: claim
+        ladino: claim
+    ladino: pretend
+    translations:
+        english:
+        - pretend
+        - claim
+        french: ''
+        portuguese: ''
+        spanish: pretender
+        turkish: iddia etmek

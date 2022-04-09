@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2093'
+origen: Jeneral
+versions:
+-   accented: prekosion
+    ladino: prekosion
+    translations:
+        english:
+        - measure
+        - step
+        french: ''
+        portuguese: ''
+        spanish: medida
+        turkish: önlem

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2090'
+origen: Jeneral
+versions:
+-   accented: prasa
+    ladino: prasa
+    translations:
+        english: leek
+        french: ''
+        portuguese: ''
+        spanish: puerro
+        turkish: prasa

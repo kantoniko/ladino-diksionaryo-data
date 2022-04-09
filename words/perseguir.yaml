@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2068'
+origen: Jeneral
+versions:
+-   accented: perseguir
+    ladino: perseguir
+    translations:
+        english: pursue
+        french: ''
+        portuguese: ''
+        spanish: perseguir
+        turkish: takip etmek

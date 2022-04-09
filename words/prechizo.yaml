@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2092'
+origen: Jeneral
+versions:
+-   accented: prechizo
+    ladino: prechizo
+    translations:
+        english: precise
+        french: ''
+        portuguese: ''
+        spanish: preciso
+        turkish:
+        - belirli
+        - kesin

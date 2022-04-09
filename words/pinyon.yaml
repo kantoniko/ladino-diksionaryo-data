@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2072'
+origen: Jeneral
+versions:
+-   accented: pinyon
+    ladino: pinyon
+    translations:
+        english: pine-kernel
+        french: ''
+        portuguese: ''
+        spanish: piñón
+        turkish: çam fistığı

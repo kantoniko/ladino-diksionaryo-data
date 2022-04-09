@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2084'
+origen: Jeneral
+versions:
+-   accented: portofolio de dokumentos
+    ladino: portofolio de dokumentos
+    translations:
+        english: briefcase
+        french: ''
+        portuguese: ''
+        spanish: cartera
+        turkish: evrak çantası

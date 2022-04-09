@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2075'
+origen: Jeneral
+versions:
+-   accented: politeza
+    ladino: politeza
+    translations:
+        english: courtesy
+        french: ''
+        portuguese: ''
+        spanish: cortesía
+        turkish: nezaket

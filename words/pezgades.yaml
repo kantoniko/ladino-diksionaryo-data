@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2070'
+origen: Jeneral
+versions:
+-   accented: pezgades
+    ladino: pezgades
+    translations:
+        english:
+        - heaviness
+        - weight
+        french: ''
+        portuguese: ''
+        spanish: pesadez
+        turkish:
+        - ağırlık
+        - sırnaşıklık

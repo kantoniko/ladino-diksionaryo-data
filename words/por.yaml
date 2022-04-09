@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2077'
+origen: Jeneral
+versions:
+-   accented: por
+    ladino: por
+    translations:
+        english:
+        - by
+        - for
+        french: ''
+        portuguese: ''
+        spanish: por
+        turkish: için
