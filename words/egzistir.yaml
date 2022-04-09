@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1293'
+origen: Jeneral
+versions:
+-   accented: egzistir
+    ladino: egzistir
+    translations:
+        english: exist
+        french: ''
+        portuguese: ''
+        spanish: existir
+        turkish: var olmak

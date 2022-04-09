@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '294'
+origen: Jeneral
+versions:
+-   accented: egzempio
+    ladino: egzempio
+    translations:
+        english: example
+        french: ''
+        portuguese: ''
+        spanish: ejemplo
+        turkish: misâl

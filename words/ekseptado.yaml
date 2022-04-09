@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '296'
+origen: Jeneral
+versions:
+-   accented: ekseptado
+    ladino: ekseptado
+    translations:
+        english: except
+        french: ''
+        portuguese: ''
+        spanish: excepto
+        turkish: hariç

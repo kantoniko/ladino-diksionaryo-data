@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '298'
+origen: Jeneral
+versions:
+-   accented: eksperimentar
+    ladino: eksperimentar
+    translations:
+        english: experiment
+        french: ''
+        portuguese: ''
+        spanish: experimentar
+        turkish: denemek
