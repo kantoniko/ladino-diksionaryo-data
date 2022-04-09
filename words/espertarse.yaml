@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Durmir sin espertarse i ser aya ariva una estreya...
+grammar: verb
+id: '1804'
+origen: Jeneral
+versions:
+-   accented: espertárse
+    ladino: espertarse
+    translations:
+        english: awaken
+        french: se réveiller
+        portuguese: despertar-se
+        spanish: despertarse
+        turkish: uyanmak
