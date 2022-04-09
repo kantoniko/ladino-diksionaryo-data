@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Estamos trokando la ora para akomodar a todos.
+grammar: verb
+id: '1583'
+origen: Jeneral
+versions:
+-   accented: akomodár
+    ladino: akomodar
+    translations:
+        english: accommodate
+        french: ''
+        portuguese: ''
+        spanish: acomodar
+        turkish: uyum sağlamak
