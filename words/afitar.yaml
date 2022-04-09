@@ -1,0 +1,22 @@
+conjugations: {}
+examples:
+-   ladino: Ayer afito una koza muy agradavle
+grammar: verb
+id: '2270'
+origen: Jeneral
+versions:
+-   accented: afitár
+    ladino: afitar
+    translations:
+        english:
+        - happen
+        - occur
+        french: survenir
+        portuguese: ''
+        spanish:
+        - ocurrir
+        - acontecer
+        - suceder
+        turkish:
+        - meydana gelmek
+        - vuku bulmak
