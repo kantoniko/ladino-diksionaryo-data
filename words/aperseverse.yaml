@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: No me apersevi ke deshi la yave en kaza.
+grammar: verb
+id: '1614'
+origen: Jeneral
+versions:
+-   accented: apersevérse
+    ladino: aperseverse
+    translations:
+        english:
+        - notice
+        - become aware
+        french: ''
+        portuguese: ''
+        spanish:
+        - fijarse en..
+        - darse cuenta
+        turkish: farketmek
