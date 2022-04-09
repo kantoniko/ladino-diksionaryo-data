@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Poko avlar i muncho entender!
+grammar: verb
+id: '332'
+origen: Jeneral
+versions:
+-   accented: entendér
+    ladino: entender
+    translations:
+        english: understand
+        french: ''
+        portuguese: ''
+        spanish: comprender, entender
+        turkish: anlamak
+
+
