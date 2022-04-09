@@ -1,0 +1,14 @@
+conjugations: {}
+examples: []
+grammar: verb
+id: '1065'
+origen: Jeneral
+versions:
+-   accented: telefonar
+    ladino: telefonar
+    translations:
+        english: telephone
+        french: ''
+        portuguese: ''
+        spanish: telefonear
+        turkish: telefon etmek
