@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: De esta tyerra manan leche i myel.
+grammar: verb
+id: '2934'
+origen: Jeneral
+versions:
+-   accented: manár
+    ladino: manar
+    translations:
+        english:
+        - flow
+        - fig. abound
+        french: ''
+        portuguese: ''
+        spanish: manar
+        turkish: fışkırmak
