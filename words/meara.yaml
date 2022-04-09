@@ -1,0 +1,21 @@
+examples: []
+grammar: null
+id: '2849'
+origen: Torah/Tanah
+versions:
+-   accented: meará
+    gender: feminine
+    ladino: meara
+    number: singular
+    translations:
+        english:
+        - cave
+        - cavern
+        french: ''
+        portuguese: ''
+        spanish:
+        - cueva
+        - caverna
+        turkish:
+        - mağara
+        - in

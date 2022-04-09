@@ -1,0 +1,25 @@
+examples:
+-   ladino: 'Monsieur Galanti era chapinero (kunduradji) ma no ganava bastante.
+
+        El kunduryero tiene la sapateta rota.'
+grammar: null
+id: '2848'
+origen: Estanbol
+versions:
+-   accented: kunduradji
+    alternative-spelling:
+    -   accented: kunduryéro
+        ladino: kunduryero
+    gender: masculine
+    ladino: kunduradji
+    number: singular
+    translations:
+        english:
+        - cobbler
+        - shoe-maker
+        french: ''
+        portuguese: ''
+        spanish: zapatero
+        turkish:
+        - kunduracı
+        - ayakkabıcı

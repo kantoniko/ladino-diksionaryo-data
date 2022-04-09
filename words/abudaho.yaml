@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2843'
+origen: Izmir
+versions:
+-   accented: abudáho
+    gender: masculine
+    ladino: abudaho
+    number: singular
+    translations:
+        english: dried salted fish roe
+        french: oeufs de poisson salés secs
+        portuguese: ovas de peixe
+        spanish: hueva seca salada
+        turkish: balık yumurtası

@@ -1,0 +1,18 @@
+examples:
+-   ladino: No tiene kunduryas al pye.
+grammar: null
+id: '2841'
+origen: Estanbol
+versions:
+-   accented: kundúrya
+    gender: feminine
+    ladino: kundurya
+    number: singular
+    translations:
+        english: shoe
+        french: ''
+        portuguese: ''
+        spanish: zapato
+        turkish:
+        - ayakkabı
+        - kundura

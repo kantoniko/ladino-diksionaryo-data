@@ -1,0 +1,23 @@
+examples:
+-   ladino: '"Mansarda", es la kamareta ke esta debasho del techo.'
+grammar: null
+id: '2844'
+origen: Aki Yerushalayim
+versions:
+-   accented: musandará
+    alternative-spelling:
+    -   accented: mansárda
+        ladino: mansarda
+    gender: feminine
+    ladino: musandara
+    number: singular
+    translations:
+        english:
+        - attic
+        - garret
+        french: ''
+        portuguese: ''
+        spanish:
+        - mansarda
+        - buharda
+        turkish: tavan arası

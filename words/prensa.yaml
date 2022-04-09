@@ -1,0 +1,18 @@
+examples:
+-   ladino: Fue transmetido en la prensa i las publikasyones en Ladino.
+grammar: null
+id: '2846'
+origen: Jeneral
+versions:
+-   accented: prénsa
+    gender: feminine
+    ladino: prensa
+    number: singular
+    translations:
+        english: the press
+        french: ''
+        portuguese: ''
+        spanish:
+        - prensa
+        - imprenta
+        turkish: basın

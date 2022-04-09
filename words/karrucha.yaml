@@ -1,0 +1,16 @@
+examples:
+-   ladino: Travavan la barka kon una kuedra en una karrucha.
+grammar: null
+id: '2837'
+origen: Jeneral
+versions:
+-   accented: karrúcha
+    gender: feminine
+    ladino: karrucha
+    number: singular
+    translations:
+        english: reel; spool; pulley
+        french: ''
+        portuguese: ''
+        spanish: carrete; polea; garrucha
+        turkish: makara; palanga

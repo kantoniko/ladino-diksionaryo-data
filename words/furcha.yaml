@@ -1,0 +1,16 @@
+examples:
+-   ladino: Los tapetes de embasho, los lavavan kon furchas i agua.
+grammar: null
+id: '2851'
+origen: Estanbol
+versions:
+-   accented: fúrcha
+    gender: feminine
+    ladino: furcha
+    number: singular
+    translations:
+        english: brush
+        french: ''
+        portuguese: ''
+        spanish: brocha
+        turkish: fırça

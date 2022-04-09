@@ -1,0 +1,22 @@
+examples:
+-   ladino: 'Era titolado "Endechas sefardies (romances y coplas)" en un manuskrito...
+
+        Endechas de Tish''a BeAv.'
+grammar: null
+id: '2850'
+origen: Torah/Tanah
+versions:
+-   accented: endécha
+    gender: feminine
+    ladino: endecha
+    number: singular
+    translations:
+        english:
+        - lament
+        - elegy
+        french: ''
+        portuguese: ''
+        spanish:
+        - lamento
+        - elegía
+        turkish: ağıt

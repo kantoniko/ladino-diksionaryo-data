@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mos dio una recheta de mina de espinaka.
+grammar: null
+id: '2852'
+origen: Jeneral
+versions:
+-   accented: mína
+    gender: feminine
+    ladino: mina
+    number: singular
+    translations:
+        english: pastry
+        french: ''
+        portuguese: ''
+        spanish: empanada
+        turkish: börek
