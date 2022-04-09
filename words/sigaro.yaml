@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1009'
+origen: Jeneral
+versions:
+-   accented: sigaro
+    ladino: sigaro
+    translations:
+        english: cigarette
+        french: ''
+        portuguese: ''
+        spanish: cigarrillo
+        turkish: sigara

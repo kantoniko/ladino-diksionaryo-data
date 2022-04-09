@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1025'
+origen: Jeneral
+versions:
+-   accented: situasion
+    ladino: situasion
+    translations:
+        english: situation
+        french: ''
+        portuguese: ''
+        spanish: situación
+        turkish: vaziyet

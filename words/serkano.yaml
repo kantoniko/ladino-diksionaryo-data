@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '992'
+origen: Jeneral
+versions:
+-   accented: serkano
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: serkano
+    translations:
+        english:
+        - near
+        - close
+        french: ''
+        portuguese: ''
+        spanish: cercano / a
+        turkish: yakın

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '993'
+origen: Jeneral
+versions:
+-   accented: serradura
+    ladino: serradura
+    translations:
+        english: lock
+        french: ''
+        portuguese: ''
+        spanish: cerradura
+        turkish: kilit

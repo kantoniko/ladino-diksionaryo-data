@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1021'
+origen: Jeneral
+versions:
+-   accented: sirkulasion
+    ladino: sirkulasion
+    translations:
+        english:
+        - circulation
+        - traffic
+        french: ''
+        portuguese: ''
+        spanish: circulación
+        turkish: dolaşım; trafik

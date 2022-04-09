@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1017'
+origen: Jeneral
+versions:
+-   accented: sinken
+    ladino: sinken
+    translations:
+        english: fifth
+        french: ''
+        portuguese: ''
+        spanish: quinto / a
+        turkish: beşinci

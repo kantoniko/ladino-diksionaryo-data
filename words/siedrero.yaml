@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1006'
+origen: Jeneral
+versions:
+-   accented: siedrero
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: siedrero
+    translations:
+        english: left-handed
+        french: ''
+        portuguese: ''
+        spanish: zurdo / a
+        turkish: solak

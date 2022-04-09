@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1003'
+origen: Jeneral
+versions:
+-   accented: shavon
+    ladino: shavon
+    translations:
+        english: soap
+        french: ''
+        portuguese: ''
+        spanish: jabón
+        turkish: sabun

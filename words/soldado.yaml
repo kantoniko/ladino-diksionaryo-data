@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1031'
+origen: Jeneral
+versions:
+-   accented: soldado
+    ladino: soldado
+    translations:
+        english: soldier
+        french: ''
+        portuguese: ''
+        spanish: soldado
+        turkish: asker

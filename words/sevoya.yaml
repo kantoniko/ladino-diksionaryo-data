@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1500'
+origen: Jeneral
+versions:
+-   accented: sevoya
+    ladino: sevoya
+    translations:
+        english: onion
+        french: ''
+        portuguese: ''
+        spanish: cebolla
+        turkish: soğan

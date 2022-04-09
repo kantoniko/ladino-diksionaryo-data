@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1012'
+origen: Jeneral
+versions:
+-   accented: silaba
+    ladino: silaba
+    translations:
+        english: syllable
+        french: ''
+        portuguese: ''
+        spanish: sílaba
+        turkish: hece

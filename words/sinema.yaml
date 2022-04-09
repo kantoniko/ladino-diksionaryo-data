@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1016'
+origen: Jeneral
+versions:
+-   accented: sinema
+    ladino: sinema
+    translations:
+        english: cinema
+        french: ''
+        portuguese: ''
+        spanish: cine
+        turkish: sinema

@@ -1,0 +1,14 @@
+examples:
+-   ladino: Shukur al Dyo.
+grammar: null
+id: '23'
+origen: Jeneral
+versions:
+-   accented: shukur
+    ladino: shukur
+    translations:
+        english: thanks
+        french: ''
+        portuguese: ''
+        spanish: gracias
+        turkish: şükür

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '994'
+origen: Jeneral
+versions:
+-   accented: serrar
+    ladino: serrar
+    translations:
+        english: shut
+        french: ''
+        portuguese: ''
+        spanish: cerrar
+        turkish: kapamak

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1005'
+origen: Jeneral
+versions:
+-   accented: siedra
+    ladino: siedra
+    translations:
+        english: left
+        french: ''
+        portuguese: ''
+        spanish: izquierda
+        turkish: sol

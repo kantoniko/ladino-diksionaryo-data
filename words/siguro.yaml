@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1502'
+origen: Jeneral
+versions:
+-   accented: siguro
+    ladino: siguro
+    translations:
+        english:
+        - secure
+        - safe
+        french: ''
+        portuguese: ''
+        spanish: seguro
+        turkish: emin

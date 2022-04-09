@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '996'
+origen: Jeneral
+versions:
+-   accented: sesamo
+    ladino: sesamo
+    translations:
+        english: sesame
+        french: ''
+        portuguese: ''
+        spanish: sésamo
+        turkish: susam

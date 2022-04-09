@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1019'
+origen: Jeneral
+versions:
+-   accented: sinyo
+    ladino: sinyo
+    translations:
+        english: sign
+        french: ''
+        portuguese: ''
+        spanish: signo
+        turkish: işaret

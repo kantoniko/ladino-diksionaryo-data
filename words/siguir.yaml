@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1501'
+origen: Jeneral
+versions:
+-   accented: siguir
+    ladino: siguir
+    translations:
+        english: follow
+        french: ''
+        portuguese: ''
+        spanish: seguir
+        turkish: izlemek

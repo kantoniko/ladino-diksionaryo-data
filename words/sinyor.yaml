@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1020'
+origen: Jeneral
+versions:
+-   accented: sinyor
+    ladino: sinyor
+    translations:
+        english: gentleman
+        french: ''
+        portuguese: ''
+        spanish: caballero
+        turkish: beyefendi

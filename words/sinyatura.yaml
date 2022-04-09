@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1504'
+origen: Jeneral
+versions:
+-   accented: sinyatura
+    ladino: sinyatura
+    translations:
+        english: signature
+        french: ''
+        portuguese: ''
+        spanish: firma
+        turkish: imza

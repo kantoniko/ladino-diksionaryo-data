@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1010'
+origen: Jeneral
+versions:
+-   accented: sigonya
+    ladino: sigonya
+    translations:
+        english: stork
+        french: ''
+        portuguese: ''
+        spanish: cigüeña
+        turkish: leylek

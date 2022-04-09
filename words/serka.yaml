@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '990'
+origen: Jeneral
+versions:
+-   accented: serka
+    ladino: serka
+    translations:
+        english:
+        - near
+        - close
+        french: ''
+        portuguese: ''
+        spanish:
+        - cerca
+        - próxima
+        turkish: yakın

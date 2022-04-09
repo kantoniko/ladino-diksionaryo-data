@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1023'
+origen: Jeneral
+versions:
+-   accented: sitio
+    ladino: sitio
+    translations:
+        english: site
+        french: ''
+        portuguese: ''
+        spanish: sitio
+        turkish:
+        - yer
+        - mahal
+        - site
