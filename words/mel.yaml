@@ -1,0 +1,22 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: mel
+    #accented:
+    gender: masculine
+    number: singular
+
+    translations:
+      english: email
+      french: ''
+      portuguese: ''
+      spanish:
+        - correo electrónico
+        - email
+      turkish: ''
+
+examples:
+  - ladino: Espero ke este mel vos tope buenikos.
+    english: I hope this email reaches you well.
