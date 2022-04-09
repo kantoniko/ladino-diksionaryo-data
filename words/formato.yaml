@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: formato
+    gender: masculine
+    number: singular
+
+    translations:
+      english: format
+
+  - ladino: formatos
+    gender: masculine
+    number: plural
+
+    translations:
+      english: formats
+
+
+examples:
+  - ladino: Ay formatos diferentes de archivos en el komputador.
