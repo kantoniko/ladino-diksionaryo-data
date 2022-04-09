@@ -173,21 +173,20 @@ def main():
                 data['conjugations'] = {}
                 data['grammar'] = grammar
                 full.append(data)
-                if grammar == 'verb':
-                    if len(words) > 1:
-                        data['versions'][0]['alternative-spelling'] = []
-                        for alt_word in words[1:]:
-                            data['versions'][0]['alternative-spelling'].append({
-                                'ladino': remove_accent(alt_word),
-                                'accented': alt_word,
-                            })
-                    verb_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
-                    if os.path.exists(verb_file):
-                        exit(f"File {verb_file} already exists")
-                    print(f"{verb_file}   id: {data['id']}")
-                    with open(verb_file, 'w') as fh:
-                        yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
-                    exit()
+                if len(words) > 1:
+                    data['versions'][0]['alternative-spelling'] = []
+                    for alt_word in words[1:]:
+                        data['versions'][0]['alternative-spelling'].append({
+                            'ladino': remove_accent(alt_word),
+                            'accented': alt_word,
+                        })
+                word_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
+                if os.path.exists(word_file):
+                    exit(f"File {word_file} already exists")
+                print(f"{word_file}\nword: {data['versions'][0]['ladino'].lower()}\nid: {data['id']}")
+                with open(word_file, 'w') as fh:
+                    yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
+                exit()
             #if len(list(full.keys())) > 500:
             #    break
 
