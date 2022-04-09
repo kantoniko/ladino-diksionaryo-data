@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Ya se eskarinyo de mi i kere bolar i verme.
+grammar: verb
+id: '1790'
+origen: Jeneral
+versions:
+-   accented: eskarinyárse
+    ladino: eskarinyarse
+    translations:
+        english:
+        - long for
+        - miss
+        french: ''
+        portuguese: ''
+        spanish: añorar
+        turkish: özlemek
