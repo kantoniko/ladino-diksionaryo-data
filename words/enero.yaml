@@ -1,14 +1,18 @@
-examples:
--   ladino: Entre los dias 4 asta 9 de enero me vo topar en "Kings Point".
 grammar: null
 id: '2434'
 origen: Jeneral
+
 versions:
--   accented: enéro
-    ladino: enero
+  - ladino: enero
+    accented: enéro
+
     translations:
         english: January
         french: ''
         portuguese: ''
         spanish: enero
         turkish: Ocak ayı
+
+
+examples:
+  - ladino: Entre los dias 4 asta 9 de enero me vo topar en "Kings Point".

@@ -1,15 +1,16 @@
-examples: []
 grammar: null
 id: '1241'
 origen: Jeneral
+
 versions:
--   accented: avril
-    ladino: avril
+  - ladino: avril
+    accented: avril
+
     translations:
         english: April
         french: ''
         portuguese: ''
         spanish: abril
-        turkish: nisan
+        turkish: Nisan
 
-# avríl (m),,abril,April,Nisan,Jeneral,2665,,
+examples: []

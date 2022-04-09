@@ -1,14 +1,17 @@
-examples:
--   ladino: Van a tener (EL DIA DE DJOHA) el 20 de Junio.
 grammar: null
 id: '2481'
 origen: Jeneral
+
 versions:
--   accented: júnio
-    ladino: junio
+  - ladino: junio
+    accented: júnio
+
     translations:
         english: June
         french: ''
         portuguese: ''
         spanish: junio
         turkish: Haziran
+
+examples:
+  - ladino: Van a tener (EL DIA DE DJOHA) el 20 de Junio.

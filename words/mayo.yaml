@@ -1,14 +1,18 @@
-examples:
--   ladino: Esto sera el Alhad 5 de Mayo a las 3.
 grammar: null
 id: '2533'
 origen: Jeneral
+
 versions:
--   accented: máyo
-    ladino: mayo
+  - ladino: mayo
+    accented: máyo
+
     translations:
         english: May
         french: ''
         portuguese: ''
         spanish: mayo
         turkish: Mayıs
+
+examples:
+  - ladino: Esto sera el Alhad 5 de Mayo a las 3.
+

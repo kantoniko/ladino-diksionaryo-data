@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '2287'
 origen: Jeneral
+
 versions:
--   accented: djulio
-    ladino: djulio
+  - ladino: djulio
+    accented: djulio
+
     translations:
         english: July
         french: ''
         portuguese: ''
         spanish: julio
         turkish: Temmuz
+
+examples: []
