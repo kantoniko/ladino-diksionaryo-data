@@ -1,0 +1,19 @@
+examples:
+-   ladino: 'Parás para la aldikera. '
+grammar: null
+id: '67'
+origen: Jeneral
+versions:
+-   accented: aldikéra
+    alternative-spelling:
+    -   accented: faldukéra
+        ladino: faldukera
+    gender: feminine
+    ladino: aldikera
+    number: singular
+    translations:
+        english: pocket
+        french: ''
+        portuguese: ''
+        spanish: bolsillo
+        turkish: cep
