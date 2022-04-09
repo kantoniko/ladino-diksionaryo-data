@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Se abokó para arrekojer piedras d'enbasho.
+grammar: verb
+id: '2795'
+origen: Jeneral
+versions:
+-   accented: abokárse
+    ladino: abokarse
+    translations:
+        english: to lean forward
+        french: s'incliner
+        portuguese: ' inclinar-se'
+        spanish: inclinarse
+        turkish: eğilmek
