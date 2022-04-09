@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: 'Nada va bien: No preguntes ni demandes.'
+grammar: verb
+id: '2577'
+origen: Jeneral
+versions:
+-   accented: preguntár
+    ladino: preguntar
+    translations:
+        english: ask
+        french: ''
+        portuguese: ''
+        spanish: preguntar
+        turkish: sormak
