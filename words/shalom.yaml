@@ -1,0 +1,20 @@
+examples:
+-   ladino: Shalóm! - Berahá ve Tová!
+grammar: null
+id: '2612'
+origen: Jeneral
+versions:
+-   accented: shalóm
+    gender: masculine
+    ladino: shalom
+    number: singular
+    translations:
+        english:
+        - salute
+        - greetings
+        french: ''
+        portuguese: ''
+        spanish:
+        - saludo
+        - salutación
+        turkish: selâm

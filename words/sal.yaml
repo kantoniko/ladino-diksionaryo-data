@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mantenerse de pan kon sal. (Neh.)
+grammar: null
+id: '2600'
+origen: Jeneral
+versions:
+-   accented: sal
+    gender: feminine
+    ladino: sal
+    number: singular
+    translations:
+        english: salt
+        french: ''
+        portuguese: ''
+        spanish: sal
+        turkish: tuz

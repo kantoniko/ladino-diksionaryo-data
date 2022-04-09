@@ -1,0 +1,22 @@
+examples:
+-   ladino: Estas ermozas kantigas i romansas ke yevamos en el korason.
+grammar: null
+id: '2596'
+origen: Jeneral
+versions:
+-   accented: románsa
+    gender: feminine
+    ladino: romansa
+    number: singular
+    translations:
+        english:
+        - romance
+        - ballad
+        french: ''
+        portuguese: ''
+        spanish:
+        - romance
+        - balada
+        turkish:
+        - balad
+        - geleneksel öykü

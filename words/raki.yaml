@@ -1,0 +1,16 @@
+examples:
+-   ladino: El raki arrebive al peshe.
+grammar: null
+id: '2584'
+origen: Estanbol
+versions:
+-   accented: rakí
+    gender: masculine
+    ladino: raki
+    number: singular
+    translations:
+        english: Turkish anisette
+        french: ''
+        portuguese: ''
+        spanish: anisete turco
+        turkish: rakı

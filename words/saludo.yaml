@@ -1,0 +1,16 @@
+examples:
+-   ladino: Korto el saludo.
+grammar: null
+id: '2602'
+origen: Jeneral
+versions:
+-   accented: salúdo
+    gender: masculine
+    ladino: saludo
+    number: singular
+    translations:
+        english: greeting
+        french: salutation
+        portuguese: saudação
+        spanish: saludo
+        turkish: selâm (vermek)

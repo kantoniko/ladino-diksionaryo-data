@@ -1,0 +1,19 @@
+comments:
+- 'grammar: konj.'
+examples:
+-   ladino: Dubrovnik no es mas en Yugoslavia - pero en KROATIA.
+grammar: null
+id: '2571'
+origen: Jeneral
+versions:
+-   accented: péro
+    ladino: pero
+    translations:
+        english: but
+        french: ''
+        portuguese: ''
+        spanish: pero
+        turkish:
+        - fakat
+        - lâkin
+        - ama

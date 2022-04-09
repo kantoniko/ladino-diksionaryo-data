@@ -1,0 +1,17 @@
+examples:
+-   ladino: Va aver un konserto de muzika Sefarad.
+grammar: adjective
+id: '2608'
+origen: Jeneral
+versions:
+-   accented: sefarád
+    alternative-spelling:
+    -   accented: sefaradí
+        ladino: sefaradi
+    ladino: sefarad
+    translations:
+        english: sephardic
+        french: ''
+        portuguese: ''
+        spanish: sefardí
+        turkish: sefarat

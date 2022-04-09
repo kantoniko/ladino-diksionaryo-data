@@ -1,0 +1,16 @@
+examples:
+-   ladino: El imam, el papaz i los dos rabinos ya se eskriviyan.
+grammar: null
+id: '2583'
+origen: Aki Yerushalayim
+versions:
+-   accented: rabíno
+    gender: masculine
+    ladino: rabino
+    number: singular
+    translations:
+        english: rabbi
+        french: ''
+        portuguese: ''
+        spanish: rabino
+        turkish: haham

@@ -1,0 +1,25 @@
+examples:
+-   ladino: El primer mez del anyo.
+grammar: adjective
+id: '2580'
+origen: Jeneral
+versions:
+-   accented: primér
+    alternative-spelling:
+    -   accented: priméra
+        ladino: primera
+    ladino: primer
+    translations:
+        english:
+        - first
+        - foremost
+        - primary
+        french: ''
+        portuguese: ''
+        spanish:
+        - primer
+        - primera
+        turkish:
+        - birinci
+        - ilk
+        - ilk önce

@@ -1,0 +1,26 @@
+examples:
+-   ladino: No mo se vaya este senyor i mos venga otro peor. (Neh.)
+grammar: null
+id: '2610'
+origen: Jeneral
+versions:
+-   accented: senyór
+    alternative-spelling:
+    -   accented: sinyór
+        ladino: sinyor
+    gender: masculine
+    ladino: senyor
+    number: singular
+    translations:
+        english:
+        - master
+        - gentleman
+        - lord
+        french: ''
+        portuguese: ''
+        spanish:
+        - señor
+        - caballero
+        turkish:
+        - beyefendi
+        - efendi

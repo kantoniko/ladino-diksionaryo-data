@@ -1,0 +1,16 @@
+examples:
+-   ladino: Esto nesesita una aksion politika.
+grammar: null
+id: '2575'
+origen: Jeneral
+versions:
+-   accented: polítika
+    gender: feminine
+    ladino: politika
+    number: singular
+    translations:
+        english: politics
+        french: ''
+        portuguese: ''
+        spanish: política
+        turkish: politika

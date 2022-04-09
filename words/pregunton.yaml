@@ -1,0 +1,20 @@
+comments:
+- 'grammar: m), preguntóna (f'
+examples:
+-   ladino: Buen pregunton!
+grammar: null
+id: '2578'
+origen: Jeneral
+versions:
+-   accented: preguntón
+    ladino: pregunton
+    translations:
+        english: inquisitive
+        french: ''
+        portuguese: ''
+        spanish:
+        - preguntón
+        - preguntona
+        turkish:
+        - çok soru soran
+        - meraklı

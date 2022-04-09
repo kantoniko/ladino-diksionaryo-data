@@ -1,0 +1,16 @@
+examples:
+-   ladino: Las bizbas produsen la sera.
+grammar: null
+id: '2611'
+origen: Jeneral
+versions:
+-   accented: séra
+    gender: feminine
+    ladino: sera
+    number: singular
+    translations:
+        english: wax
+        french: ''
+        portuguese: ''
+        spanish: cera
+        turkish: balmumu

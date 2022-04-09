@@ -1,0 +1,19 @@
+comments:
+- 'grammar: pl'
+examples:
+-   ladino: Esto seguro ke algunos de estos Sefaradim saven meldar.
+grammar: null
+id: '2609'
+origen: Jeneral
+versions:
+-   accented: sefaradím
+    alternative-spelling:
+    -   accented: sefardím
+        ladino: sefardim
+    ladino: sefaradim
+    translations:
+        english: sephardic (pl)
+        french: ''
+        portuguese: ''
+        spanish: sefardies
+        turkish: sefaratlar

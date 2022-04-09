@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'El Sinyor Rav: El Gran Rabino.'
+grammar: null
+id: '2585'
+origen: Jeneral
+versions:
+-   accented: Rav
+    gender: masculine
+    ladino: Rav
+    number: singular
+    translations:
+        english: Rabbi (Chief)
+        french: ''
+        portuguese: ''
+        spanish: Rabino (Gran)
+        turkish: Hahambaşı

@@ -1,0 +1,22 @@
+comments:
+- 'grammar: m), saludóza (f'
+examples:
+-   ladino: Le demandi un emprestimo i me refuzo; saludozo m'esté!
+grammar: null
+id: '2603'
+origen: Jeneral
+versions:
+-   accented: saludózo
+    ladino: saludozo
+    translations:
+        english: healthy
+        french:
+        - sain
+        - en bonne santé
+        portuguese: são
+        spanish:
+        - sano
+        - saludable
+        turkish:
+        - sıhhatli
+        - sağlıklı

@@ -1,0 +1,14 @@
+examples:
+-   ladino: San Jorge, San Juan.
+grammar: null
+id: '2605'
+origen: Jeneral
+versions:
+-   accented: San
+    ladino: San
+    translations:
+        english: Saint
+        french: ''
+        portuguese: ''
+        spanish: San
+        turkish: Aziz

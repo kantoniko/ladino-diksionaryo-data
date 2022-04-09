@@ -1,0 +1,16 @@
+examples:
+-   ladino: Son liberos de meter en muzika los poemas de este livro.
+grammar: null
+id: '2573'
+origen: Jeneral
+versions:
+-   accented: poéma
+    gender: masculine
+    ladino: poema
+    number: singular
+    translations:
+        english: poem
+        french: ''
+        portuguese: ''
+        spanish: poema
+        turkish: şiir

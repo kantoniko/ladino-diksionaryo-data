@@ -1,0 +1,21 @@
+comments:
+- 'grammar: m+f'
+examples:
+-   ladino: Fue nominado presidente de la Asosiasion.
+grammar: null
+id: '2579'
+origen: Jeneral
+versions:
+-   accented: prezidénte
+    alternative-spelling:
+    -   accented: presidénte
+        ladino: presidente
+    ladino: prezidente
+    translations:
+        english: president
+        french: ''
+        portuguese: ''
+        spanish: presidente
+        turkish:
+        - başkan
+        - cumhurbaşkanı

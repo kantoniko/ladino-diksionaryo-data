@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'Estava en kudiado: Mando a su ijo por una pregunta.'
+grammar: null
+id: '2576'
+origen: Jeneral
+versions:
+-   accented: pregúnta
+    gender: feminine
+    ladino: pregunta
+    number: singular
+    translations:
+        english: question
+        french: ''
+        portuguese: ''
+        spanish: pregunta
+        turkish: soru

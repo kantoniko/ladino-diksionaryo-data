@@ -1,0 +1,16 @@
+comments:
+- 'grammar: f/pl'
+examples:
+-   ladino: Trusho saludes de los amigos.
+grammar: null
+id: '2601'
+origen: Jeneral
+versions:
+-   accented: salúdes
+    ladino: saludes
+    translations:
+        english: regards
+        french: compliments (passer des)
+        portuguese: ' lembranças'
+        spanish: recuerdos
+        turkish: selâm (söylemek)

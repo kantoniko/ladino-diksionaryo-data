@@ -1,0 +1,16 @@
+examples:
+-   ladino: Para el ke amostra su amistad nunka ay problema.
+grammar: null
+id: '2581'
+origen: Jeneral
+versions:
+-   accented: probléma
+    gender: masculine
+    ladino: problema
+    number: singular
+    translations:
+        english: problem
+        french: ''
+        portuguese: ''
+        spanish: problema
+        turkish: problem
