@@ -1,0 +1,23 @@
+examples: []
+grammar: null
+id: '2280'
+origen: Jeneral
+versions:
+-   accented: avuelo
+    alternative-spelling:
+    -   accented: avuela
+        ladino: avuela
+    ladino: avuelo
+    translations:
+        english:
+        - grandfather
+        - grandmother
+        french: ''
+        portuguese: ''
+        spanish:
+        - abuelo
+        - abuela
+        turkish:
+        - büyükbaba
+        - büyükanne
+        - ata

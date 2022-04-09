@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '117'
+origen: Jeneral
+versions:
+-   accented: armada
+    ladino: armada
+    translations:
+        english: army
+        french: ''
+        portuguese: ''
+        spanish: ejército
+        turkish: ordu

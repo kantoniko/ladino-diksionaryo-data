@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1218'
+origen: Jeneral
+versions:
+-   accented: ardor
+    ladino: ardor
+    translations:
+        english: ardour
+        french: ''
+        portuguese: ''
+        spanish: ardor
+        turkish:
+        - sevk
+        - istek

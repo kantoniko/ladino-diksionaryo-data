@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '116'
+origen: Jeneral
+versions:
+-   accented: arko
+    ladino: arko
+    translations:
+        english: arc
+        french: ''
+        portuguese: ''
+        spanish: arco
+        turkish: yay
