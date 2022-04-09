@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '146'
+origen: Jeneral
+versions:
+-   accented: ayegar
+    ladino: ayegar
+    translations:
+        english:
+        - reach
+        - arrive
+        french: ''
+        portuguese: ''
+        spanish: llegar
+        turkish:
+        - gelmek
+        - varmak

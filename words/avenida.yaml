@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '140'
+origen: Jeneral
+versions:
+-   accented: avenida
+    ladino: avenida
+    translations:
+        english: avenue
+        french: ''
+        portuguese: ''
+        spanish: rambla
+        turkish: bulvar

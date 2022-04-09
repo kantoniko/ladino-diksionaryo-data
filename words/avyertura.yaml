@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1242'
+origen: Jeneral
+versions:
+-   accented: avyertura
+    ladino: avyertura
+    translations:
+        english: opening
+        french: ''
+        portuguese: ''
+        spanish: apertura
+        turkish:
+        - açılış
+        - gedik

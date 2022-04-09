@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '144'
+origen: Jeneral
+versions:
+-   accented: avrir
+    ladino: avrir
+    translations:
+        english: open
+        french: ''
+        portuguese: ''
+        spanish: abrir
+        turkish: açmak

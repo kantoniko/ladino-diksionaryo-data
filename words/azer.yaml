@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '149'
+origen: Jeneral
+versions:
+-   accented: azer
+    ladino: azer
+    translations:
+        english: do
+        french: ''
+        portuguese: ''
+        spanish: hacer
+        turkish: yapmak

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '141'
+origen: Jeneral
+versions:
+-   accented: aver
+    ladino: aver
+    translations:
+        english: have
+        french: ''
+        portuguese: ''
+        spanish: haber
+        turkish: olmak

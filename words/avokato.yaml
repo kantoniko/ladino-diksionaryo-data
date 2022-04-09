@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1240'
+origen: Jeneral
+versions:
+-   accented: avokato
+    ladino: avokato
+    translations:
+        english: lawyer
+        french: ''
+        portuguese: ''
+        spanish: abogado
+        turkish: avukat
