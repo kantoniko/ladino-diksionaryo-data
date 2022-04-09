@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Esto es para reparar el tejado solo.
+grammar: verb
+id: '938'
+origen: Jeneral
+versions:
+-   accented: reparár
+    ladino: reparar
+    translations:
+        english: repair
+        french: réparer
+        portuguese: reparar
+        spanish: reparar
+        turkish: tamir etmek
