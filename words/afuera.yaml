@@ -1,0 +1,23 @@
+examples:
+-   ladino: Keriya djugar afuera kon los ijikos de la kaleja.
+grammar: adverb
+id: '41'
+origen: Jeneral
+versions:
+-   accented: afuéra
+    alternative-spelling:
+    -   accented: ahuéra
+        ladino: ahuera
+    -   accented: fuéra
+        ladino: fuera
+    ladino: afuera
+    translations:
+        english:
+        - out
+        - outside
+        french: ''
+        portuguese: ''
+        spanish:
+        - afuera
+        - fuera
+        turkish: dışarı
