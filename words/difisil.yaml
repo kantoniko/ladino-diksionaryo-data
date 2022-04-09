@@ -1,0 +1,14 @@
+examples:
+-   ladino: Es una koza muy difisil a dar a entender.
+grammar: null
+id: '2425'
+origen: Jeneral
+versions:
+-   accented: difísil
+    ladino: difisil
+    translations:
+        english: difficult
+        french: ''
+        portuguese: ''
+        spanish: difícil
+        turkish: zor

@@ -1,0 +1,23 @@
+examples:
+-   ladino: 'Ay muncha kalor, el sol esta fuego! (Neh.)
+
+        Flama sin fuego no ay.'
+grammar: null
+id: '2457'
+origen: Jeneral
+versions:
+-   accented: fuégo
+    alternative-spelling:
+    -   accented: huégo
+        ladino: huego
+    gender: masculine
+    ladino: fuego
+    number: singular
+    translations:
+        english: fire
+        french: ''
+        portuguese: ''
+        spanish: fuego
+        turkish:
+        - ateş
+        - yangın

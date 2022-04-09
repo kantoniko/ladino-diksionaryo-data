@@ -1,0 +1,16 @@
+examples:
+-   ladino: Rogamos ke en el futuro mos eskrivas en Ladino.
+grammar: null
+id: '2459'
+origen: Jeneral
+versions:
+-   accented: futúro
+    ladino: futuro
+    translations:
+        english: future
+        french: ''
+        portuguese: ''
+        spanish: futuro
+        turkish:
+        - gelecek zaman
+        - ati

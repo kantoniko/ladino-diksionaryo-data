@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'Eya era la mas chika de 19 kriaturas! '
+grammar: null
+id: '2452'
+origen: Jeneral
+versions:
+-   accented: éya
+    ladino: eya
+    translations:
+        english:
+        - she
+        - her
+        french: ''
+        portuguese: ''
+        spanish: ella
+        turkish: o (kadın için)

@@ -1,0 +1,18 @@
+examples:
+-   ladino: Todas las dichas ke te akodrates son las mismas ke i yo me akodro...
+grammar: null
+id: '2422'
+origen: Jeneral
+versions:
+-   accented: dícha
+    ladino: dicha
+    translations:
+        english: saying
+        french: ''
+        portuguese: ''
+        spanish: dicho
+        turkish: deyim
+
+# dícha,Todas las dichas ke te akodrates son las mismas ke i yo me akodro...,dicho,saying,deyim,Jeneral,2422,,
+# dícha,Ke negra tuvimos la dicha! (Neh.),dicha,good luck,şans,Jeneral,2423,,
+

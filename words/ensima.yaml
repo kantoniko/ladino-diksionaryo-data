@@ -1,0 +1,17 @@
+examples:
+-   ladino: Pasa el fregon por ensima el moble.
+grammar: null
+id: '2433'
+origen: Jeneral
+versions:
+-   accented: ensíma
+    ladino: ensima
+    translations:
+        english:
+        - above
+        - over
+        - on top
+        french: ''
+        portuguese: ''
+        spanish: encima
+        turkish: üstünde

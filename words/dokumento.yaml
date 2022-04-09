@@ -1,0 +1,24 @@
+examples:
+-   ladino: Meldar dokumentos en solitreo no es muy fasil, no es kolay.
+grammar: null
+id: '2429'
+origen: Jeneral
+versions:
+-   accented: dokuménto
+    gender: masculine
+    ladino: dokumento
+    number: singular
+    translations:
+        english:
+        - document
+        - certificate
+        french: ''
+        portuguese: ''
+        spanish:
+        - documento
+        - cédula
+        turkish:
+        - belge
+        - evrak
+        - vesika
+        - doküman

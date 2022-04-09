@@ -1,0 +1,24 @@
+examples:
+-   ladino: El lavoro era simple, ma lo izo kon hadras de franko. (Neh.)
+grammar: null
+id: '2456'
+origen: Jeneral
+versions:
+-   accented: fránko
+    alternative-spelling:
+    -   accented: fránka
+        ladino: franka
+    ladino: franko
+    translations:
+        english:
+        - frank
+        - open
+        - Frankish
+        french: ''
+        portuguese: ''
+        spanish:
+        - franco
+        - franca
+        turkish:
+        - samimi
+        - frenk

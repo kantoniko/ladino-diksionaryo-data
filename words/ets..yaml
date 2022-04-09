@@ -1,0 +1,24 @@
+examples:
+-   ladino: El espanyol, fransez, italiano, ets. son linguas latinas.
+grammar: null
+id: '2451'
+origen: Jeneral
+versions:
+-   accented: Ets.
+    alternative-spelling:
+    -   accented: etsétera
+        ladino: etsetera
+    ladino: Ets.
+    translations:
+        english:
+        - etc.
+        - et caetera
+        - and so on
+        french: ''
+        portuguese: ''
+        spanish:
+        - etc.
+        - etcétera
+        turkish:
+        - v.s.
+        - ve saire

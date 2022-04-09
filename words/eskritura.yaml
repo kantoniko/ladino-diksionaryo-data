@@ -1,0 +1,21 @@
+examples:
+-   ladino: Mi mama teniya una eskritura muy buena.
+grammar: null
+id: '2444'
+origen: Jeneral
+versions:
+-   accented: eskritúra
+    gender: feminine
+    ladino: eskritura
+    number: singular
+    translations:
+        english:
+        - writing
+        - script
+        - handwriting
+        french: ''
+        portuguese: ''
+        spanish: escritura
+        turkish:
+        - yazı
+        - elyazısı

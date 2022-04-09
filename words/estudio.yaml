@@ -1,0 +1,17 @@
+examples:
+-   ladino: El mas importante es el estudio del Gershom Scholem.
+grammar: null
+id: '2450'
+origen: Jeneral
+versions:
+-   accented: estúdio
+    ladino: estudio
+    translations:
+        english: study
+        french: ''
+        portuguese: ''
+        spanish: estudio
+        turkish:
+        - çalışma
+        - öğrenme
+        - araştırma

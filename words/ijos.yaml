@@ -1,0 +1,16 @@
+comments:
+- 'grammar: m/pl'
+examples:
+-   ladino: Todos somos ijos de las Mitzvot.
+grammar: null
+id: '2474'
+origen: Jeneral
+versions:
+-   accented: íjos
+    ladino: ijos
+    translations:
+        english: children
+        french: enfants
+        portuguese: ''
+        spanish: hijos
+        turkish: evlât

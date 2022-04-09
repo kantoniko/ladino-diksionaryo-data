@@ -1,0 +1,21 @@
+examples:
+-   ladino: Pagan djustos por pekadores. (Neh.)
+grammar: null
+id: '2428'
+origen: Jeneral
+versions:
+-   accented: djústo
+    ladino: djusto
+    translations:
+        english:
+        - just
+        - right
+        - fair
+        french: ''
+        portuguese: ''
+        spanish: justo
+        turkish:
+        - tam
+        - tamam
+        - doğru
+        - adil

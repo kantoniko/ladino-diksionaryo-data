@@ -1,0 +1,18 @@
+examples:
+-   ladino: Ke haber? - Todo bueno.
+grammar: null
+id: '2468'
+origen: Estanbol
+versions:
+-   accented: habér
+    ladino: haber
+    translations:
+        english:
+        - news
+        - information
+        french: ''
+        portuguese: ''
+        spanish:
+        - noticia
+        - información
+        turkish: haber

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Es orijinaryo de Sarayevo, i tiene el dialekto de los djudios.
+grammar: null
+id: '2421'
+origen: Jeneral
+versions:
+-   accented: dialékto
+    ladino: dialekto
+    translations:
+        english: dialect
+        french: ''
+        portuguese: ''
+        spanish: dialecto
+        turkish:
+        - lehçe
+        - diyalekt

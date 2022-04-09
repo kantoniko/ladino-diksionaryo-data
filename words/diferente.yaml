@@ -1,0 +1,18 @@
+examples:
+-   ladino: Teniyan unos kuantos biervos diferentes ke solo eyos uzavan.
+grammar: null
+id: '2424'
+origen: Jeneral
+versions:
+-   accented: diferénte
+    ladino: diferente
+    translations:
+        english:
+        - different
+        - un like
+        french: ''
+        portuguese: ''
+        spanish: diferente
+        turkish:
+        - değişik
+        - farklı

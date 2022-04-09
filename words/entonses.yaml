@@ -1,0 +1,19 @@
+examples:
+-   ladino: Estonses i agora no! (Todo lo bueno kedo en el pasado!) (Neh.)
+grammar: null
+id: '2437'
+origen: Jeneral
+versions:
+-   accented: entónses
+    alternative-spelling:
+    -   accented: estónses
+        ladino: estonses
+    ladino: entonses
+    translations:
+        english:
+        - then
+        - at that time
+        french: ''
+        portuguese: ''
+        spanish: entonces
+        turkish: o zaman

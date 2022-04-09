@@ -1,0 +1,20 @@
+examples:
+-   ladino: Kada uno es haham en su ofisio. (Neh.)
+grammar: null
+id: '2471'
+origen: Jeneral
+versions:
+-   accented: hahám
+    ladino: haham
+    translations:
+        english:
+        - rabbi
+        - expert
+        french: ''
+        portuguese: ''
+        spanish:
+        - rabino
+        - experto
+        turkish:
+        - haham
+        - usta

@@ -1,0 +1,21 @@
+examples:
+-   ladino: Una madre kere a su ijo afilu si es un bandido. (Neh.)
+grammar: adverb
+id: '2442'
+origen: Jeneral
+versions:
+-   accented: afilú
+    ladino: afilu
+    translations:
+        english: though
+        french:
+        - même
+        - bien que
+        - quoique
+        portuguese: ''
+        spanish:
+        - aunque
+        - mismo
+        turkish:
+        - bile
+        - hatta

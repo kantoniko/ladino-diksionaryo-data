@@ -1,0 +1,23 @@
+examples:
+-   ladino: Kerer bien por fuersa no ay. (Neh.)
+grammar: null
+id: '2458'
+origen: Jeneral
+versions:
+-   accented: fuérsa
+    alternative-spelling:
+    -   accented: huérsa
+        ladino: huersa
+    ladino: fuersa
+    translations:
+        english:
+        - force
+        - strength
+        french: ''
+        portuguese: ''
+        spanish: fuerza
+        turkish:
+        - güç
+        - kuvvet
+        - derman
+        - takat

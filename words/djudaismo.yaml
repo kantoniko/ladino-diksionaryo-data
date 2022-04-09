@@ -1,0 +1,16 @@
+examples:
+-   ladino: El es una de las figuras mas veneradas del djudaismo.
+grammar: null
+id: '2427'
+origen: Jeneral
+versions:
+-   accented: djudaísmo
+    ladino: djudaismo
+    translations:
+        english: judaism
+        french: ''
+        portuguese: ''
+        spanish: judaísmo
+        turkish:
+        - yahudilik
+        - Musevilik

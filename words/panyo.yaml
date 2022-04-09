@@ -1,0 +1,16 @@
+examples:
+-   ladino: Arremenda tu panyo, lo yevaras otro un anyo. (Neh.)
+grammar: null
+id: '2792'
+origen: Jeneral
+versions:
+-   accented: pányo
+    gender: masculine
+    ladino: panyo
+    number: singular
+    translations:
+        english: piece of cloth
+        french: ''
+        portuguese: ''
+        spanish: paño
+        turkish: bez

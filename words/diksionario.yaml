@@ -1,0 +1,19 @@
+examples:
+-   ladino: Ayer merki un diksionario inglez-ladino, ladino-inglez.
+grammar: null
+id: '2426'
+origen: Jeneral
+versions:
+-   accented: diksionário
+    alternative-spelling:
+    -   accented: diksionáryo
+        ladino: diksionaryo
+    ladino: diksionario
+    translations:
+        english: dictionary
+        french: ''
+        portuguese: ''
+        spanish: diccionario
+        turkish:
+        - lugat
+        - sözlük

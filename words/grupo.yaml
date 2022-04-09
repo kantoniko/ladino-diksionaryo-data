@@ -1,0 +1,16 @@
+examples:
+-   ladino: ' Tenemos un grupo ke yamomos ''Los Pregoneros'' (The Storytellers).'
+grammar: null
+id: '2463'
+origen: Jeneral
+versions:
+-   accented: grúpo
+    gender: masculine
+    ladino: grupo
+    number: singular
+    translations:
+        english: group
+        french: ''
+        portuguese: ''
+        spanish: grupo
+        turkish: grup

@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'Istanbullis: Vos keriya demandar si "el Kal de los Frankos" egziste oy. '
+grammar: null
+id: '2482'
+origen: Jeneral
+versions:
+-   accented: kal
+    ladino: kal
+    translations:
+        english: synagogue
+        french: ''
+        portuguese: ''
+        spanish: sinagoga
+        turkish:
+        - havra
+        - sinagog

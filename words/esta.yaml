@@ -1,0 +1,14 @@
+examples:
+-   ladino: Entre estas i estas, ya se izo de noche.
+grammar: null
+id: '2446'
+origen: Jeneral
+versions:
+-   accented: ésta
+    ladino: esta
+    translations:
+        english: this (fem.)
+        french: ''
+        portuguese: ''
+        spanish: esta
+        turkish: bu (dişi)

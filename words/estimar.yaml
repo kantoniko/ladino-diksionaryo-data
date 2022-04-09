@@ -1,0 +1,16 @@
+examples:
+-   ladino: Devemos de estimarmos orozos !!
+grammar: null
+id: '2448'
+origen: Jeneral
+versions:
+-   accented: estimár
+    ladino: estimar
+    translations:
+        english: esteem
+        french: ''
+        portuguese: ''
+        spanish: estimar
+        turkish:
+        - takdir etmek
+        - paha biçmek

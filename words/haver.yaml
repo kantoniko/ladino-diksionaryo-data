@@ -1,0 +1,16 @@
+comments:
+- 'grammar: haverím'
+examples:
+-   ladino: El ganar i el pedrer son haverim.
+grammar: null
+id: '2470'
+origen: Jeneral
+versions:
+-   accented: havér
+    ladino: haver
+    translations:
+        english: partner (partners)
+        french: ''
+        portuguese: ''
+        spanish: socio (socios)
+        turkish: ortak (ortaklar)

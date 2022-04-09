@@ -1,0 +1,20 @@
+comments:
+- 'grammar: epóka'
+examples:
+-   ladino: Esto todo se paso en la era Romana.
+grammar: null
+id: '2439'
+origen: Jeneral
+versions:
+-   accented: éra
+    ladino: era
+    translations:
+        english:
+        - era
+        - age
+        french: ''
+        portuguese: ''
+        spanish: era
+        turkish:
+        - devir
+        - çağ

@@ -1,0 +1,18 @@
+examples:
+-   ladino: Lo tengo todo por eskrito.
+grammar: null
+id: '2441'
+origen: Jeneral
+versions:
+-   accented: eskríto
+    ladino: eskrito
+    translations:
+        english:
+        - writing
+        - document
+        french: ''
+        portuguese: ''
+        spanish: escrito
+        turkish:
+        - yazı
+        - evrak

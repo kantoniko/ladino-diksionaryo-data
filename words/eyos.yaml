@@ -1,0 +1,21 @@
+examples:
+-   ladino: No ay nada de esperar de eyos.
+grammar: pronoun
+id: '2453'
+origen: Jeneral
+versions:
+-   accented: éyos
+    alternative-spelling:
+    -   accented: éyas
+        ladino: eyas
+    ladino: eyos
+    translations:
+        english:
+        - they
+        - them
+        french: ''
+        portuguese: ''
+        spanish:
+        - ellos
+        - ellas
+        turkish: onlar

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Es una prova de la ermozura i de la rikeza de muestra kultura.
+grammar: null
+id: '2440'
+origen: Jeneral
+versions:
+-   accented: ermozúra
+    ladino: ermozura
+    translations:
+        english:
+        - beauty
+        - loveliness
+        french: ''
+        portuguese: ''
+        spanish: hermosura
+        turkish: güzellik

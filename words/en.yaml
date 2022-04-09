@@ -1,0 +1,22 @@
+examples:
+-   ladino: Bivo muy leshos , en el kampo.
+grammar: null
+id: '2432'
+origen: Jeneral
+versions:
+-   accented: en
+    ladino: en
+    translations:
+        english:
+        - in
+        - into
+        - upon
+        - at
+        - by
+        french: ''
+        portuguese: ''
+        spanish: en
+        turkish:
+        - içinde
+        - da
+        - de

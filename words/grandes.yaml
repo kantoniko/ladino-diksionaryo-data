@@ -1,0 +1,16 @@
+examples:
+-   ladino: Kantikas espanyolas ke mos deshavan tresalidos a grandes i chikos...
+grammar: null
+id: '2461'
+origen: Jeneral
+versions:
+-   accented: grándes
+    ladino: grandes
+    translations:
+        english:
+        - the great
+        - the elder
+        french: ''
+        portuguese: ''
+        spanish: grandes
+        turkish: büyükler

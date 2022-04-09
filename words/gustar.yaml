@@ -1,0 +1,16 @@
+examples:
+-   ladino: Me va gustar muncho si un miembro los konose i me puede dar su adreso.
+grammar: null
+id: '2466'
+origen: Jeneral
+versions:
+-   accented: gustár
+    ladino: gustar
+    translations:
+        english:
+        - please
+        - be pleasing
+        french: ''
+        portuguese: ''
+        spanish: gustar
+        turkish: hoşuna gitmek

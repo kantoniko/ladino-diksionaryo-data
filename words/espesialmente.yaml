@@ -1,0 +1,14 @@
+examples:
+-   ladino: Por mozotros espesialmente, esto era i es muy importante.
+grammar: null
+id: '2445'
+origen: Jeneral
+versions:
+-   accented: espesialménte
+    ladino: espesialmente
+    translations:
+        english: especially
+        french: ''
+        portuguese: ''
+        spanish: especialmente
+        turkish: özellikle
