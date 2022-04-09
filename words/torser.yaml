@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: Tu dishites "tuertio", mozotros dizimos "torsyo".
+grammar: verb
+id: '2955'
+origen: Jeneral
+versions:
+-   accented: torsér
+    ladino: torser
+    translations:
+        english:
+        - distort
+        - twist
+        french:
+        - tordre
+        - fouler
+        portuguese: ''
+        spanish: retorcer
+        turkish: burkmak
