@@ -1,0 +1,33 @@
+grammar: verb
+id: '3021'
+origen: Jeneral
+versions:
+  - ladino: alfilar
+    accented: alfilár
+    translations:
+        english:
+        - string (beads, etc.)
+        french:
+        - enfiler (perles, etc.)
+        portuguese: enfiar
+        spanish: ensartar
+        turkish:
+        - dizmek (boncuk, v.s.)
+
+
+  - ladino: alfilar
+    accented: alfilár
+    gender: masculine
+
+    translations:
+        english: pin
+        french: épingle
+        portuguese: alfinete
+        spanish: alfiler
+        turkish: toplu iğne
+
+
+conjugations: {}
+examples:
+   - ladino: Rekoje un alfilar i lo apunta sovre su vistido.
+
