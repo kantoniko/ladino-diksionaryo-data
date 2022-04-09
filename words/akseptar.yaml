@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: No akseptamos mesajes en otras linguas.
+grammar: verb
+id: '1586'
+origen: Jeneral
+versions:
+-   accented: akseptár
+    ladino: akseptar
+    translations:
+        english: accept
+        french: ''
+        portuguese: ''
+        spanish: aceptar
+        turkish: kabul etmek
