@@ -1,0 +1,17 @@
+examples:
+-   ladino: Ninguno da lo ke no tiene.
+grammar: pronoun
+id: '260'
+origen: Jeneral
+versions:
+-   accented: dingúno
+    alternative-spelling:
+    -   accented: ningúno
+        ladino: ninguno
+    ladino: dinguno
+    translations:
+        english: nobody
+        french: ''
+        portuguese: ''
+        spanish: nadie
+        turkish: hiçkimse

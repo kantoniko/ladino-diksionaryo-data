@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '259'
+origen: Jeneral
+versions:
+-   accented: diferensia
+    ladino: diferensia
+    translations:
+        english:
+        - difference
+        - disparity
+        french: ''
+        portuguese: ''
+        spanish:
+        - diferencia
+        - disparidad
+        turkish:
+        - fark
+        - eşitsizlik

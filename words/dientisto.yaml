@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '258'
+origen: Jeneral
+versions:
+-   accented: dientisto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: dientisto
+    translations:
+        english: dentist
+        french: ''
+        portuguese: ''
+        spanish: dentista
+        turkish: dişçi

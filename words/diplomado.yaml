@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '262'
+origen: Jeneral
+versions:
+-   accented: diplomado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: diplomado
+    translations:
+        english: bachelor (degree)
+        french: ''
+        portuguese: ''
+        spanish: bachillerato / a
+        turkish: mezun
