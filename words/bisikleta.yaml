@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '180'
+origen: Jeneral
+versions:
+-   accented: bisikleta
+    ladino: bisikleta
+    translations:
+        english: bicycle
+        french: ''
+        portuguese: ''
+        spanish: bicicleta
+        turkish: bisiklet

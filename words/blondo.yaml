@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '183'
+origen: Jeneral
+versions:
+-   accented: blondo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: blondo
+    translations:
+        english: blond
+        french: ''
+        portuguese: ''
+        spanish: rubio / a
+        turkish: sarışın

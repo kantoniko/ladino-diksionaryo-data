@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '179'
+origen: Jeneral
+versions:
+-   accented: bira
+    ladino: bira
+    translations:
+        english: beer
+        french: ''
+        portuguese: ''
+        spanish: cerveza
+        turkish: bira

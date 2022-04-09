@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '178'
+origen: Jeneral
+versions:
+-   accented: bilieto
+    alternative-spelling:
+    -   accented: bilyeto
+        ladino: bilyeto
+    ladino: bilieto
+    translations:
+        english: ticket
+        french: ''
+        portuguese: ''
+        spanish: billete
+        turkish: bilet

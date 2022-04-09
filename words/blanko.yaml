@@ -1,0 +1,17 @@
+examples:
+-   ladino: El masapan, el dulse blanko lo aziyan en kaza.
+grammar: adjective
+id: '182'
+origen: Jeneral
+versions:
+-   accented: blánko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: blanko
+    translations:
+        english: white
+        french: blanc
+        portuguese: branco
+        spanish: blanco / a
+        turkish: beyaz
