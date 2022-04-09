@@ -1,0 +1,19 @@
+examples:
+-   ladino: Una ovra kompleta kon aranjamientos orkestrales i efektos teatrales...
+grammar: null
+id: '1750'
+origen: Jeneral
+versions:
+-   accented: eféto
+    alternative-spelling:
+    -   accented: efékto
+        ladino: efekto
+    gender: masculine
+    ladino: efeto
+    number: singular
+    translations:
+        english: effect
+        french: ''
+        portuguese: ''
+        spanish: efecto
+        turkish: etki

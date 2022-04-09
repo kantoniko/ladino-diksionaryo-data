@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1753'
+origen: Jeneral
+versions:
+-   accented: egzekutir
+    ladino: egzekutir
+    translations:
+        english: execute
+        french: ''
+        portuguese: ''
+        spanish: ejecutar
+        turkish: infaz etmek
