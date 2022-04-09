@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2291'
+origen: Jeneral
+versions:
+-   accented: emision
+    ladino: emision
+    translations:
+        english: emission
+        french: ''
+        portuguese: ''
+        spanish: emisión
+        turkish:
+        - yayın
+        - neşir

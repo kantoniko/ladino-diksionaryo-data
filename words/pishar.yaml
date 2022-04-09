@@ -1,0 +1,19 @@
+examples:
+-   ladino: Es probablemente del verbo "pisheti" de Serbo-Kroatyo. En mi famiya es
+        generalmente usado.
+grammar: null
+id: '2268'
+origen: Otros
+versions:
+-   accented: pishar
+    ladino: pishar
+    translations:
+        english: to piss
+        french: ''
+        portuguese: ''
+        spanish:
+        - mear
+        - orinar
+        turkish:
+        - çiş yapmak
+        - işemek

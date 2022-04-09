@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2299'
+origen: Gresia
+versions:
+-   accented: fazer
+    ladino: fazer
+    translations:
+        english:
+        - do
+        - make
+        french: ''
+        portuguese: ''
+        spanish: hacer
+        turkish: yapmak

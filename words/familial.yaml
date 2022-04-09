@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2297'
+origen: Jeneral
+versions:
+-   accented: familial
+    alternative-spelling:
+    -   accented: familyal
+        ladino: familyal
+    ladino: familial
+    translations:
+        english: family (adj.)
+        french: ''
+        portuguese: ''
+        spanish: de familia
+        turkish: ailevî

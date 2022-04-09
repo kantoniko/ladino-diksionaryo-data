@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2288'
+origen: Jeneral
+versions:
+-   accented: diskusion
+    ladino: diskusion
+    translations:
+        english:
+        - discussion
+        - argument
+        french: ''
+        portuguese: ''
+        spanish: discusión
+        turkish:
+        - münakaşa
+        - müzakere
+        - tartışma

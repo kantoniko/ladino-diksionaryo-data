@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2303'
+origen: Jeneral
+versions:
+-   accented: ekilibrar
+    ladino: ekilibrar
+    translations:
+        english: balance
+        french: ''
+        portuguese: ''
+        spanish: abalanzar
+        turkish: dengelemek

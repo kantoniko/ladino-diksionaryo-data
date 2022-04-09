@@ -1,0 +1,21 @@
+examples:
+-   ladino: No olvidaremos la emportansa de las palavras.
+grammar: null
+id: '2309'
+origen: Jeneral
+versions:
+-   accented: emportánsa
+    alternative-spelling:
+    -   accented: importánsa
+        ladino: importansa
+    gender: feminine
+    ladino: emportansa
+    number: singular
+    translations:
+        english: importance
+        french: ''
+        portuguese: ''
+        spanish: importancia
+        turkish:
+        - önem
+        - ehemmiyet

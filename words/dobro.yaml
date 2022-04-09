@@ -1,0 +1,20 @@
+examples:
+-   ladino: 'Eya es una mujer dobra.
+
+        (Un adjektivo d''orijina slava)'
+grammar: null
+id: '2269'
+origen: Otros
+versions:
+-   accented: dobro
+    ladino: dobro
+    translations:
+        english:
+        - good
+        - nice
+        french: ''
+        portuguese: ''
+        spanish:
+        - bien
+        - bueno
+        turkish: iyi

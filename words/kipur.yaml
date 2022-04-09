@@ -1,0 +1,16 @@
+examples:
+-   ladino: Todos ke tengash un Kipur livyano i PAS EN EL MUNDO
+grammar: null
+id: '2319'
+origen: Jeneral
+versions:
+-   accented: Kipur
+    ladino: Kipur
+    translations:
+        english: Jewish Grand Pardon and Fasting Day
+        french: ''
+        portuguese: ''
+        spanish:
+        - Kipur
+        - Día de Ayuno
+        turkish: Büyük Af ve Oruç Günü

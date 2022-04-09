@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '2293'
+origen: Jeneral
+versions:
+-   accented: enkomendar
+    ladino: enkomendar
+    translations:
+        english:
+        - recommend
+        - place an order
+        french: ''
+        portuguese: ''
+        spanish:
+        - recomendar
+        - encargar
+        turkish:
+        - tembih etmek
+        - sipariş etmek

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Yo so investigador de Ladino.
+grammar: null
+id: '2316'
+origen: Jeneral
+versions:
+-   accented: investigador
+    ladino: investigador
+    translations:
+        english: investigator
+        french: ''
+        portuguese: ''
+        spanish: investigador
+        turkish:
+        - araştırıcı
+        - müfettiş

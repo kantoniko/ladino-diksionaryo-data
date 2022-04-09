@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '2295'
+origen: Jeneral
+versions:
+-   accented: eskrita
+    ladino: eskrita
+    translations:
+        english:
+        - letter
+        - written document
+        french: ''
+        portuguese: ''
+        spanish:
+        - escrito
+        - manuscrito
+        turkish:
+        - belge
+        - el yazması
