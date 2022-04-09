@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '263'
+origen: Jeneral
+versions:
+-   accented: disko
+    ladino: disko
+    translations:
+        english: disk
+        french: ''
+        portuguese: ''
+        spanish: disco
+        turkish:
+        - plak
+        - disk

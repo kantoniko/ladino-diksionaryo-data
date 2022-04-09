@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '264'
+origen: Jeneral
+versions:
+-   accented: diskutir
+    ladino: diskutir
+    translations:
+        english:
+        - discuss
+        - argue
+        french: ''
+        portuguese: ''
+        spanish:
+        - discutir
+        - argüir
+        turkish: münakaşa etmek

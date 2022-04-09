@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '270'
+origen: Jeneral
+versions:
+-   accented: djenero
+    ladino: djenero
+    translations:
+        english: gender
+        french: ''
+        portuguese: ''
+        spanish: género
+        turkish:
+        - cins
+        - tür

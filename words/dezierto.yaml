@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1279'
+origen: Jeneral
+versions:
+-   accented: dezierto
+    ladino: dezierto
+    translations:
+        english: desert
+        french: ''
+        portuguese: ''
+        spanish: desierto
+        turkish: çöl

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '269'
+origen: Jeneral
+versions:
+-   accented: djaketa
+    ladino: djaketa
+    translations:
+        english: jacket
+        french: ''
+        portuguese: ''
+        spanish: chaqueta
+        turkish: ceket
