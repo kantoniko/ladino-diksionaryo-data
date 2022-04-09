@@ -171,11 +171,18 @@ def main():
                 if grammar == 'v':
                     grammar = 'verb'
                     data['conjugations'] = {}
-                if grammar == 'f':
+                elif grammar == 'f':
                     grammar = None
                     data['versions'][0]['gender'] = 'feminine'
                     data['versions'][0]['number'] = 'singular'
-                    #'masculine'
+                elif grammar == 'm':
+                    grammar = None
+                    data['versions'][0]['gender'] = 'masculine'
+                    data['versions'][0]['number'] = 'singular'
+                #elif grammar is None:
+                #    pass
+                else:
+                    exit(f"Unhandled grammar: {grammar}")
                 data['grammar'] = grammar
                 full.append(data)
                 if len(words) > 1:
