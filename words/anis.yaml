@@ -1,0 +1,19 @@
+examples:
+-   ladino: El raki se aze kon anito.
+grammar: null
+id: '1207'
+origen: Jeneral
+versions:
+-   accented: anís
+    alternative-spelling:
+    -   accented: aínito
+        ladino: ainito
+    gender: masculine
+    ladino: anis
+    number: singular
+    translations:
+        english: aniseed
+        french: ''
+        portuguese: ''
+        spanish: anís
+        turkish: anason

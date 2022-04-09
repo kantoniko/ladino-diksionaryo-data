@@ -1,0 +1,15 @@
+examples:
+-   ladino: Komo el sol aklara la tinievla, ansi el estudyo aklara a la inyorensa.
+        (Neh.)
+grammar: adverb
+id: '1209'
+origen: Jeneral
+versions:
+-   accented: ansí
+    ladino: ansi
+    translations:
+        english: so
+        french: ''
+        portuguese: ''
+        spanish: así
+        turkish: böyle

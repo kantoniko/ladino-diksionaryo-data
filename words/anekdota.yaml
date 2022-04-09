@@ -1,0 +1,20 @@
+examples:
+-   ladino: Mi mama siempre kontava anekdotas.
+grammar: null
+id: '92'
+origen: Jeneral
+versions:
+-   accented: anekdóta
+    gender: feminine
+    ladino: anekdota
+    number: singular
+    translations:
+        english:
+        - joke
+        - anecdote
+        french: ''
+        portuguese: ''
+        spanish:
+        - anécdota
+        - chiste
+        turkish: fıkra

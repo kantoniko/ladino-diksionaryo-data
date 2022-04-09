@@ -1,0 +1,17 @@
+examples:
+-   ladino: Tiene mano ancha (es jenerozo).
+grammar: adjective
+id: '89'
+origen: Jeneral
+versions:
+-   accented: áncho
+    alternative-spelling:
+    -   accented: áncha
+        ladino: ancha
+    ladino: ancho
+    translations:
+        english: wide
+        french: large
+        portuguese: ''
+        spanish: ancho / ancha
+        turkish: geniş

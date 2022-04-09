@@ -1,0 +1,18 @@
+examples:
+-   ladino: Oy es el aniversario del diya ke merkimos muestra kaza.
+grammar: null
+id: '94'
+origen: Jeneral
+versions:
+-   accented: aniversário
+    gender: masculine
+    ladino: aniversario
+    number: singular
+    translations:
+        english: birthday
+        french: ''
+        portuguese: ''
+        spanish:
+        - aniversario
+        - cumpleaños
+        turkish: doğum günü

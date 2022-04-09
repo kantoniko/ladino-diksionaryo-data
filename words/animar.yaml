@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '93'
+origen: Jeneral
+versions:
+-   accented: animar
+    ladino: animar
+    translations:
+        english: animate
+        french: ''
+        portuguese: ''
+        spanish: animar
+        turkish: canlandırmak
