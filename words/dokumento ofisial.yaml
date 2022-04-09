@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1737'
+origen: Jeneral
+versions:
+-   accented: dokumento ofisial
+    ladino: dokumento ofisial
+    translations:
+        english: official document
+        french: ''
+        portuguese: ''
+        spanish: albala
+        turkish: resmí evrak

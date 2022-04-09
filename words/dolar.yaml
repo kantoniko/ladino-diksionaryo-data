@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1738'
+origen: Jeneral
+versions:
+-   accented: dolar
+    ladino: dolar
+    translations:
+        english: dollar
+        french: ''
+        portuguese: ''
+        spanish: dólar
+        turkish: dolar

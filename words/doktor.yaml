@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1735'
+origen: Jeneral
+versions:
+-   accented: doktor
+    ladino: doktor
+    translations:
+        english: doctor
+        french: ''
+        portuguese: ''
+        spanish: doctor
+        turkish: doktor

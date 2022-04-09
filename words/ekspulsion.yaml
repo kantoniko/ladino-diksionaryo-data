@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '2289'
+origen: Jeneral
+versions:
+-   accented: ekspulsion
+    ladino: ekspulsion
+    translations:
+        english:
+        - ezpulsion
+        - ejection
+        french: ''
+        portuguese: ''
+        spanish: expulsión
+        turkish:
+        - kovma
+        - çıkarma
+        - tard
+        - def

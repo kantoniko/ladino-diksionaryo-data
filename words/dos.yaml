@@ -1,0 +1,14 @@
+examples:
+-   ladino: El i un azno, dos
+grammar: adjective
+id: '1741'
+origen: Jeneral
+versions:
+-   accented: dos
+    ladino: dos
+    translations:
+        english: two
+        french: deux
+        portuguese: ''
+        spanish: dos
+        turkish: iki

@@ -1,0 +1,19 @@
+examples:
+-   ladino: La Edad de Oro, en Espanya, por los Jidio, fue basho la dominasion del
+        paganizmo.
+grammar: null
+id: '1740'
+origen: Jeneral
+versions:
+-   accented: dominasión
+    gender: feminine
+    ladino: dominasion
+    number: singular
+    translations:
+        english:
+        - dominion
+        - power
+        french: domination
+        portuguese: ''
+        spanish: dominio
+        turkish: hakimiyet
