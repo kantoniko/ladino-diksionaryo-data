@@ -1,0 +1,17 @@
+examples:
+-   ladino: Los ajenos azen mas ke los serkanos. (Neh.)
+grammar: adj.+ m/f
+id: '51'
+origen: Jeneral
+versions:
+-   accented: ajéno
+    alternative-spelling:
+    -   accented: ajéna
+        ladino: ajena
+    ladino: ajeno
+    translations:
+        english: stranger
+        french: ''
+        portuguese: ''
+        spanish: extranjero / extranjera
+        turkish: yabancı
