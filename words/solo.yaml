@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1032'
+origen: Jeneral
+versions:
+-   accented: solo
+    ladino: solo
+    translations:
+        english: only
+        french: ''
+        portuguese: ''
+        spanish: sólo
+        turkish: sadece
+# solo,,sólo,only,sadece,Jeneral,1032,,
+# solo/a,,solo / a,alone,yalnız,Jeneral,1033,,
+
