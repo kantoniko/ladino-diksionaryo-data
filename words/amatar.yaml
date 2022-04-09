@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Amata la lampa.
+grammar: verb
+id: '1598'
+origen: Jeneral
+versions:
+-   accented: amatár
+    ladino: amatar
+    translations:
+        english: turn off
+        french: ''
+        portuguese: ''
+        spanish: apagar
+        turkish:
+        - kapatmak
+        - söndürmek
