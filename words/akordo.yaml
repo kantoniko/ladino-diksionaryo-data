@@ -1,0 +1,16 @@
+examples:
+-   ladino: De akordo! (D'akordo!)
+grammar: null
+id: '59'
+origen: Jeneral
+versions:
+-   accented: akórdo
+    gender: masculine
+    ladino: akordo
+    number: singular
+    translations:
+        english: agreement
+        french: ''
+        portuguese: ''
+        spanish: acuerdo
+        turkish: mutabakat
