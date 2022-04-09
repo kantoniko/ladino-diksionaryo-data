@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1103'
+origen: Jeneral
+versions:
+-   accented: trokar
+    ladino: trokar
+    translations:
+        english: change
+        french: ''
+        portuguese: ''
+        spanish: cambiar
+        turkish: değiştirmek

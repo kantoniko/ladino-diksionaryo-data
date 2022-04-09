@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1108'
+origen: Jeneral
+versions:
+-   accented: tubo
+    ladino: tubo
+    translations:
+        english: tube
+        french: ''
+        portuguese: ''
+        spanish: tubo
+        turkish: tüp

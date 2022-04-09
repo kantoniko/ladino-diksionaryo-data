@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1099'
+origen: Jeneral
+versions:
+-   accented: triko
+    alternative-spelling:
+    -   accented: sueter
+        ladino: sueter
+    ladino: triko
+    translations:
+        english:
+        - jersey
+        - sweater
+        french: ''
+        portuguese: ''
+        spanish: jersey
+        turkish: kazak

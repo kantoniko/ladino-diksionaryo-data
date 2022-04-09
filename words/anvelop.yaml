@@ -1,0 +1,19 @@
+examples:
+-   ladino: Lo mete en una anvelop i se lo manda al Dio por la posta!
+grammar: null
+id: '1113'
+origen: Jeneral
+versions:
+-   accented: anvelóp
+    alternative-spelling:
+    -   accented: envelóp
+        ladino: envelop
+    gender: feminine
+    ladino: anvelop
+    number: singular
+    translations:
+        english: envelope
+        french: envelope
+        portuguese: ''
+        spanish: sobre (un)
+        turkish: zarf

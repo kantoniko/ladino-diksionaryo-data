@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1523'
+origen: Jeneral
+versions:
+-   accented: tres
+    ladino: tres
+    translations:
+        english: three
+        french: ''
+        portuguese: ''
+        spanish: tres
+        turkish: üç

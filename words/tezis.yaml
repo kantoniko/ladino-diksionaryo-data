@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1077'
+origen: Jeneral
+versions:
+-   accented: tezis
+    ladino: tezis
+    translations:
+        english: thesis
+        french: ''
+        portuguese: ''
+        spanish: tesis
+        turkish: tez

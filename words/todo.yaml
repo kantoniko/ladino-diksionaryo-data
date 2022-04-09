@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1082'
+origen: Jeneral
+versions:
+-   accented: todo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: todo
+    translations:
+        english: all
+        french: ''
+        portuguese: ''
+        spanish: todo / a
+        turkish:
+        - hep
+        - hepsi

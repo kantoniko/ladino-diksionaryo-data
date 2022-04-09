@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1114'
+origen: Jeneral
+versions:
+-   accented: unidad
+    ladino: unidad
+    translations:
+        english: unity
+        french: ''
+        portuguese: ''
+        spanish: unidad
+        turkish: birlik

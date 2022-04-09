@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1089'
+origen: Jeneral
+versions:
+-   accented: topar
+    ladino: topar
+    translations:
+        english: find
+        french: ''
+        portuguese: ''
+        spanish:
+        - hallar
+        - encontrar
+        turkish: bulmak

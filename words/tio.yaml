@@ -1,0 +1,21 @@
+examples:
+-   ladino: Uno ke vino a darmos konsolasion era 'Tio Solomon'.
+grammar: null
+id: '1080'
+origen: Jeneral
+versions:
+-   accented: tío
+    alternative-spelling:
+    -   accented: tíyo
+        ladino: tiyo
+    gender: masculine
+    ladino: tio
+    number: singular
+    translations:
+        english: uncle
+        french: ''
+        portuguese: ''
+        spanish: tío
+        turkish:
+        - amca
+        - dayı

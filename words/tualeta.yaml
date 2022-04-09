@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1107'
+origen: Jeneral
+versions:
+-   accented: tualeta
+    ladino: tualeta
+    translations:
+        english: water closet
+        french: ''
+        portuguese: ''
+        spanish: wáter
+        turkish: tualet

@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1097'
+origen: Jeneral
+versions:
+-   accented: travar
+    ladino: travar
+    translations:
+        english:
+        - pull
+        - shoot
+        french: ''
+        portuguese: ''
+        spanish: tirar
+        turkish:
+        - çekmek
+        - ates etmek

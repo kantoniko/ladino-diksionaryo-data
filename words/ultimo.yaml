@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1111'
+origen: Jeneral
+versions:
+-   accented: ultimo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: ultimo
+    translations:
+        english:
+        - ultimate
+        - last
+        french: ''
+        portuguese: ''
+        spanish: último / a
+        turkish: sonuncu

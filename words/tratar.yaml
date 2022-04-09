@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1096'
+origen: Jeneral
+versions:
+-   accented: tratar
+    ladino: tratar
+    translations:
+        english:
+        - treat
+        - deal
+        french: ''
+        portuguese: ''
+        spanish: tratar
+        turkish:
+        - davranmak
+        - pazarlık etmek

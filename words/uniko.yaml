@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1116'
+origen: Jeneral
+versions:
+-   accented: uniko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: uniko
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: único / a
+        turkish: tek

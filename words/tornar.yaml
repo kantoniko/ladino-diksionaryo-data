@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1091'
+origen: Jeneral
+versions:
+-   accented: tornar
+    ladino: tornar
+    translations:
+        english: turn
+        french: ''
+        portuguese: ''
+        spanish: tornar
+        turkish: dönmek

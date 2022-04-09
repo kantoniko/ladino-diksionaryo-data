@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1092'
+origen: Jeneral
+versions:
+-   accented: traduizir
+    ladino: traduizir
+    translations:
+        english: translate
+        french: ''
+        portuguese: ''
+        spanish: traducir
+        turkish: tercüme etmek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1101'
+origen: Jeneral
+versions:
+-   accented: triste
+    ladino: triste
+    translations:
+        english: sad
+        french: ''
+        portuguese: ''
+        spanish: triste
+        turkish: hüzünlü

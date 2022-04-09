@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1086'
+origen: Jeneral
+versions:
+-   accented: tomar haber
+    alternative-spelling:
+    -   accented: informarse
+        ladino: informarse
+    ladino: tomar haber
+    translations:
+        english: find out
+        french: ''
+        portuguese: ''
+        spanish: enterarse
+        turkish:
+        - bilgi almak
+        - haber almak

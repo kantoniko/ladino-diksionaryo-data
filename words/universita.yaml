@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1118'
+origen: Jeneral
+versions:
+-   accented: universitá
+    alternative-spelling:
+    -   accented: universidad
+        ladino: universidad
+    gender: feminine
+    ladino: universita
+    number: singular
+    translations:
+        english: university
+        french: ''
+        portuguese: ''
+        spanish: universidad
+        turkish: üniversite

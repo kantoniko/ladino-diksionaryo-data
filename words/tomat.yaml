@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1088'
+origen: Jeneral
+versions:
+-   accented: tomat
+    ladino: tomat
+    translations:
+        english: tomato
+        french: ''
+        portuguese: ''
+        spanish: tomate
+        turkish: domates

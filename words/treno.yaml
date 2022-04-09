@@ -1,0 +1,16 @@
+examples:
+-   ladino: Tomimos el treno para vinir a Estanbol.
+grammar: null
+id: '18'
+origen: Jeneral
+versions:
+-   accented: tréno
+    gender: masculine
+    ladino: treno
+    number: singular
+    translations:
+        english: train
+        french: ''
+        portuguese: ''
+        spanish: tren
+        turkish: tren

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1094'
+origen: Jeneral
+versions:
+-   accented: traer
+    ladino: traer
+    translations:
+        english: bring
+        french: ''
+        portuguese: ''
+        spanish: traer
+        turkish: getirmek

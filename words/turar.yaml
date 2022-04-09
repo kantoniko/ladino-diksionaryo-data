@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1109'
+origen: Jeneral
+versions:
+-   accented: turar
+    ladino: turar
+    translations:
+        english:
+        - last
+        - endure
+        french: ''
+        portuguese: ''
+        spanish: durar
+        turkish:
+        - sürmek
+        - dayanmak

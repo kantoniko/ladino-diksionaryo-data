@@ -1,0 +1,23 @@
+examples:
+-   ladino: La tyerra se manea i no kae. (Neh.)
+grammar: null
+id: '1079'
+origen: Jeneral
+versions:
+-   accented: tiérra
+    alternative-spelling:
+    -   accented: tyérra
+        ladino: tyerra
+    gender: feminine
+    ladino: tierra
+    number: singular
+    translations:
+        english:
+        - earth
+        - world
+        french: terre
+        portuguese: terra
+        spanish: tierra
+        turkish:
+        - toprak
+        - yeryüzü

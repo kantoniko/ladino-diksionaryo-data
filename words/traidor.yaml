@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1095'
+origen: Jeneral
+versions:
+-   accented: traidor
+    ladino: traidor
+    translations:
+        english: traitor
+        french: ''
+        portuguese: ''
+        spanish: traidor
+        turkish: hain

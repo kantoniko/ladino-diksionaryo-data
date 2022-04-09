@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1100'
+origen: Jeneral
+versions:
+-   accented: tripa
+    ladino: tripa
+    translations:
+        english: belly
+        french: ''
+        portuguese: ''
+        spanish: vientre
+        turkish: karın

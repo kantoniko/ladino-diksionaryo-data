@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1104'
+origen: Jeneral
+versions:
+-   accented: tronko
+    ladino: tronko
+    translations:
+        english: trunk
+        french: ''
+        portuguese: ''
+        spanish: tronco
+        turkish: kütük
