@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '156'
+origen: Jeneral
+versions:
+-   accented: bagaje
+    ladino: bagaje
+    translations:
+        english: luggage
+        french: ''
+        portuguese: ''
+        spanish: equipaje
+        turkish: bagaj

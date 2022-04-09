@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '157'
+origen: Jeneral
+versions:
+-   accented: bakal
+    ladino: bakal
+    translations:
+        english: grocer
+        french: ''
+        portuguese: ''
+        spanish: colmado
+        turkish: bakkal
