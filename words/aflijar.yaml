@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: Mi hazinura lo aflijo.
+grammar: verb
+id: '1578'
+origen: Jeneral
+versions:
+-   accented: aflijár
+    ladino: aflijar
+    translations:
+        english:
+        - afflict
+        - distress
+        - grieve
+        french: ''
+        portuguese: ''
+        spanish: afligir
+        turkish: üzmek
