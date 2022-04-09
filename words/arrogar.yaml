@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '122'
+origen: Jeneral
+versions:
+-   accented: arrogar
+    ladino: arrogar
+    translations:
+        english: pray
+        french: ''
+        portuguese: ''
+        spanish: rezar
+        turkish:
+        - dua etmek
+        - niyaz etmek

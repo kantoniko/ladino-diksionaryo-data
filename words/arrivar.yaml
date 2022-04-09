@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1223'
+origen: Jeneral
+versions:
+-   accented: arrivar
+    ladino: arrivar
+    translations:
+        english: arrive
+        french: ''
+        portuguese: ''
+        spanish:
+        - arribar
+        - llegar
+        turkish: varmak

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '111'
+origen: Jeneral
+versions:
+-   accented: arrekojer
+    alternative-spelling:
+    -   accented: rekojer
+        ladino: rekojer
+    ladino: arrekojer
+    translations:
+        english: collect
+        french: ''
+        portuguese: ''
+        spanish: recoger
+        turkish: toplamak

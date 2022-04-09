@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '121'
+origen: Jeneral
+versions:
+-   accented: arrematar
+    ladino: arrematar
+    translations:
+        english: finish off
+        french: ''
+        portuguese: ''
+        spanish: rematar
+        turkish: bitirmek

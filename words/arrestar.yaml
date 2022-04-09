@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '112'
+origen: Jeneral
+versions:
+-   accented: arrestar
+    ladino: arrestar
+    translations:
+        english:
+        - arrest
+        - stop
+        french: ''
+        portuguese: ''
+        spanish:
+        - arrestar
+        - parar
+        turkish:
+        - tevkif etmek
+        - durdurmak

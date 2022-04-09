@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '113'
+origen: Jeneral
+versions:
+-   accented: arretarse
+    alternative-spelling:
+    -   accented: kedarse
+        ladino: kedarse
+    ladino: arretarse
+    translations:
+        english: stop
+        french: ''
+        portuguese: ''
+        spanish: pararse
+        turkish: durmak

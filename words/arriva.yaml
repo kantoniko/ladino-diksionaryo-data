@@ -1,0 +1,22 @@
+examples:
+-   ladino: Metyó todo de arriva abasho.
+grammar: adverb
+id: '115'
+origen: Jeneral
+versions:
+-   accented: arríva
+    ladino: arriva
+    translations:
+        english:
+        - up
+        - on the top
+        - upstairs
+        french:
+        - en haut
+        - au dessus
+        portuguese: ''
+        spanish: arriba
+        turkish:
+        - üst
+        - üstte
+        - yukarda

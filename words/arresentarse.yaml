@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1226'
+origen: Jeneral
+versions:
+-   accented: arresentarse
+    ladino: arresentarse
+    translations:
+        english:
+        - moderate oneself
+        - temper down
+        french: ''
+        portuguese: ''
+        spanish:
+        - moderarse
+        - templarse
+        turkish:
+        - uslanmak
+        - düzene girmek

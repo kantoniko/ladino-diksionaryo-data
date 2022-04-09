@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '119'
+origen: Jeneral
+versions:
+-   accented: arrelumbrar
+    alternative-spelling:
+    -   accented: asender
+        ladino: asender
+    ladino: arrelumbrar
+    translations:
+        english: illuminate
+        french: ''
+        portuguese: ''
+        spanish: alumbrar
+        turkish: aydınlatmak
