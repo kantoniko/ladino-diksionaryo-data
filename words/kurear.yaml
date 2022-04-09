@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Era un poko simple i los amigos lo kureavan.
+grammar: verb
+id: '2954'
+origen: Jeneral
+versions:
+-   accented: kuréar
+    ladino: kurear
+    translations:
+        english: set; cheat
+        french: remonter; tromper
+        portuguese: ''
+        spanish: regular; engañar
+        turkish: kurmak; aldatmak
