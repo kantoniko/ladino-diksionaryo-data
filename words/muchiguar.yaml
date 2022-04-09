@@ -1,0 +1,26 @@
+conjugations: {}
+examples:
+-   ladino: Muchiguar rikezas es muchiguar ansyas. (Neh.)
+grammar: verb
+id: '3012'
+origen: Jeneral
+versions:
+-   accented: muchiguár
+    ladino: muchiguar
+    translations:
+        english:
+        - increase
+        - multiply
+        - augment
+        french:
+        - accroître
+        - augmenter
+        - multiplier
+        portuguese: aumentar
+        spanish:
+        - incrementar
+        - aumentar
+        - multiplicar
+        turkish:
+        - çoğalmak
+        - artmak
