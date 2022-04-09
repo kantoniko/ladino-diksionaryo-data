@@ -1,13 +1,20 @@
-examples: []
-grammar: null
+grammar: noun
 id: '1336'
 origen: Jeneral
+categories:
+  - lashon
+
 versions:
--   accented: fransez
-    ladino: fransez
+  - ladino: fransez
+    accented: fransez
+    gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: French
         french: ''
         portuguese: ''
         spanish: francés
         turkish: fransız
+
+examples: []

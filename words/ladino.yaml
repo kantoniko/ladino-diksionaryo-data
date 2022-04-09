@@ -1,0 +1,28 @@
+grammar: noun
+origen: Jeneral
+categories:
+  - lashon
+
+versions:
+  - ladino: ladino
+    accented: ladino
+    gender: NA # masculine feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: djudeo-espanyol
+      - ladino: djudezmo
+      - ladino: haketia
+      - ladino: sepharadic
+      - ladino: spanyolit
+
+
+    translations:
+        english: Ladino
+        french: ''
+        hebrew: לאדינו
+        portuguese: ''
+        spanish: Ladino
+        turkish: ''
+
+examples: []

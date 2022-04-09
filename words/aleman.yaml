@@ -1,21 +1,28 @@
-examples:
--   ladino: Su livro fue publikado i en aleman.
-grammar: null
+grammar: noun
 id: '2380'
 origen: Jeneral
+categories:
+  - lashon
+
 versions:
--   accented: alemán
+  - ladino: aleman
+    accented: alemán
+    gender: masculine
+    number: singular
+
     alternative-spelling:
     -   accented: almán
         ladino: alman
-    gender: masculine
-    ladino: aleman
-    number: singular
+
     translations:
         english: German
         french: allemand
+        hebrew: גרמנית
         portuguese: alemão
         spanish: alemán
         turkish:
         - Alman
         - almanca
+
+examples:
+  - ladino: Su livro fue publikado i en aleman.
