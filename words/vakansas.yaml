@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1120'
+origen: Jeneral
+versions:
+-   accented: vakansas
+    ladino: vakansas
+    translations:
+        english: holiday
+        french: ''
+        portuguese: ''
+        spanish: vacaciones
+        turkish: tatil

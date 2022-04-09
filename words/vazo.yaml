@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1127'
+origen: Jeneral
+versions:
+-   accented: vazo
+    ladino: vazo
+    translations:
+        english: vase
+        french: ''
+        portuguese: ''
+        spanish: florero
+        turkish: vazo

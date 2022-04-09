@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1130'
+origen: Jeneral
+versions:
+-   accented: vendida
+    ladino: vendida
+    translations:
+        english: sale
+        french: ''
+        portuguese: ''
+        spanish: venta
+        turkish: satış

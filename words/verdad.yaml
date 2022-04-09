@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1134'
+origen: Jeneral
+versions:
+-   accented: verdad
+    ladino: verdad
+    translations:
+        english: truth
+        french: ''
+        portuguese: ''
+        spanish: verdad
+        turkish: hakikat

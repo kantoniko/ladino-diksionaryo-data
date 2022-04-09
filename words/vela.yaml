@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1128'
+origen: Jeneral
+versions:
+-   accented: vela
+    ladino: vela
+    translations:
+        english: sail
+        french: ''
+        portuguese: ''
+        spanish: vela
+        turkish: yelken

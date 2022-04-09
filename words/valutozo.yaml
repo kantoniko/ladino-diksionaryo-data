@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1531'
+origen: Jeneral
+versions:
+-   accented: valutozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: valutozo
+    translations:
+        english: valuable
+        french: ''
+        portuguese: ''
+        spanish: valioso
+        turkish: değerli

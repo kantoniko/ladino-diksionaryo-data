@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1125'
+origen: Jeneral
+versions:
+-   accented: vava
+    alternative-spelling:
+    -   accented: nona
+        ladino: nona
+    -   accented: granmama
+        ladino: granmama
+    ladino: vava
+    translations:
+        english: grandmother
+        french: ''
+        portuguese: ''
+        spanish: abuela
+        turkish: büyükanne

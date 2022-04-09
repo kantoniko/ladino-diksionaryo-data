@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1129'
+origen: Jeneral
+versions:
+-   accented: vender
+    ladino: vender
+    translations:
+        english: sell
+        french: ''
+        portuguese: ''
+        spanish: vender
+        turkish: satmak

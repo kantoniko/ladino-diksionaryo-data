@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1139'
+origen: Jeneral
+versions:
+-   accented: vezino
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: vezino
+    translations:
+        english: neighbour
+        french: ''
+        portuguese: ''
+        spanish: vecino / a
+        turkish: komşu

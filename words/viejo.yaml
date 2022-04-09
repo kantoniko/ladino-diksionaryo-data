@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1143'
+origen: Jeneral
+versions:
+-   accented: viejo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: viejo
+    translations:
+        english: old
+        french: ''
+        portuguese: ''
+        spanish: antiguo / a
+        turkish: eski
+
+# viejo / a,,antiguo / a,old,eski,Jeneral,1143,,
+# "viejo/a,aedado/a,nikochiri",,"viejo / a, anciano / a","old, aged","ihtiyar, yaşlı",Jeneral,1144,,

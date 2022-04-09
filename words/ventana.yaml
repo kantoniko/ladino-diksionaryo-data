@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1132'
+origen: Jeneral
+versions:
+-   accented: ventana
+    ladino: ventana
+    translations:
+        english: window
+        french: ''
+        portuguese: ''
+        spanish: ventana
+        turkish: pencere

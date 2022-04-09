@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1123'
+origen: Jeneral
+versions:
+-   accented: validja
+    ladino: validja
+    translations:
+        english: suitcase
+        french: ''
+        portuguese: ''
+        spanish: maleta
+        turkish: valiz

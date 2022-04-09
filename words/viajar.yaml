@@ -1,0 +1,15 @@
+comments:
+- 'grammar: kon'
+examples: []
+grammar: null
+id: '1140'
+origen: Jeneral
+versions:
+-   accented: viajar
+    ladino: viajar
+    translations:
+        english: travel
+        french: ''
+        portuguese: ''
+        spanish: viajar (en)
+        turkish: seyahat etmek

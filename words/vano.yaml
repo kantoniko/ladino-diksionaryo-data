@@ -1,0 +1,22 @@
+examples: []
+grammar: null
+id: '1124'
+origen: Jeneral
+versions:
+-   accented: vano
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    -   accented: vaziyo
+        ladino: vaziyo
+    -   accented: a
+        ladino: a
+    ladino: vano
+    translations:
+        english: vain
+        french: ''
+        portuguese: ''
+        spanish: vano / a
+        turkish:
+        - abes
+        - boş

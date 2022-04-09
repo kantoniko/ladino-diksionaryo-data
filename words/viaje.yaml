@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1141'
+origen: Jeneral
+versions:
+-   accented: viaje
+    ladino: viaje
+    translations:
+        english: travel
+        french: ''
+        portuguese: ''
+        spanish: viaje
+        turkish: seyahat
