@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2133'
+origen: Jeneral
+versions:
+-   accented: renderse
+    ladino: renderse
+    translations:
+        english: surrender
+        french: ''
+        portuguese: ''
+        spanish: rendirse
+        turkish: teslim olmak

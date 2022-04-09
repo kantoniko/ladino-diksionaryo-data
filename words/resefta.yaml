@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2139'
+origen: Jeneral
+versions:
+-   accented: resefta
+    ladino: resefta
+    translations:
+        english:
+        - recipe
+        - prescription
+        french: ''
+        portuguese: ''
+        spanish: receta
+        turkish: reçete

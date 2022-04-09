@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2158'
+origen: Jeneral
+versions:
+-   accented: salvar
+    ladino: salvar
+    translations:
+        english: save
+        french: ''
+        portuguese: ''
+        spanish: salvar
+        turkish: kurtarmak

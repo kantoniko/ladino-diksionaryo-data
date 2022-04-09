@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2146'
+origen: Jeneral
+versions:
+-   accented: retina
+    ladino: retina
+    translations:
+        english: retina
+        french: ''
+        portuguese: ''
+        spanish: retina
+        turkish: retina

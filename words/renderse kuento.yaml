@@ -1,0 +1,17 @@
+examples:
+-   ladino: Me di kuento ke devemos eskrivir en esta lingua para no olvidarla.
+grammar: null
+id: '2134'
+origen: Jeneral
+versions:
+-   accented: rendérse kuénto
+    alternative-spelling:
+    -   accented: dárse kuénto
+        ladino: darse kuento
+    ladino: renderse kuento
+    translations:
+        english: notice
+        french: ''
+        portuguese: ''
+        spanish: darse cuenta
+        turkish: idrak etmek

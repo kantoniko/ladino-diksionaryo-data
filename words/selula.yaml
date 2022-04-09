@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2170'
+origen: Jeneral
+versions:
+-   accented: selula
+    ladino: selula
+    translations:
+        english: cell
+        french: ''
+        portuguese: ''
+        spanish: calabozo
+        turkish: hücre

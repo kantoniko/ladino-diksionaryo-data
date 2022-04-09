@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2163'
+origen: Jeneral
+versions:
+-   accented: sedakero
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: sedakero
+    translations:
+        english: beggar
+        french: ''
+        portuguese: ''
+        spanish: mendigo / a
+        turkish: dilenci

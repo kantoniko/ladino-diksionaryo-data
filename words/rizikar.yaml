@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2152'
+origen: Jeneral
+versions:
+-   accented: rizikar
+    ladino: rizikar
+    translations:
+        english: risk
+        french: ''
+        portuguese: ''
+        spanish: arriesgarse
+        turkish: risketmek

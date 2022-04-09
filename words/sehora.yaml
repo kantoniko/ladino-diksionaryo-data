@@ -1,0 +1,26 @@
+examples:
+-   ladino: 'No te tomes sehora: una puerta se serra, otra se avre. (Neh.)
+
+        '
+grammar: null
+id: '2167'
+origen: Jeneral
+versions:
+-   accented: sehorá
+    gender: feminine
+    ladino: sehora
+    number: singular
+    translations:
+        english:
+        - annoyance
+        - grief
+        - trouble
+        french: ''
+        portuguese: ''
+        spanish:
+        - enojo
+        - aflicción
+        - molestía
+        turkish:
+        - can sıkıntısı
+        - dert

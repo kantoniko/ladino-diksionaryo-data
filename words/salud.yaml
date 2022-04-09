@@ -1,0 +1,18 @@
+examples:
+-   ladino: 'Kon salud ke vayas, kon salud ke vengas.
+
+        El fostan muevo, kon salud ke lo vistas.'
+grammar: null
+id: '2157'
+origen: Jeneral
+versions:
+-   accented: salúd
+    gender: feminine
+    ladino: salud
+    number: singular
+    translations:
+        english: health
+        french: ''
+        portuguese: ''
+        spanish: salud
+        turkish: sıhhat

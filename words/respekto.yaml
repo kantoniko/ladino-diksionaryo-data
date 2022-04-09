@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '2141'
+origen: Jeneral
+versions:
+-   accented: respekto
+    alternative-spelling:
+    -   accented: omenaje
+        ladino: omenaje
+    ladino: respekto
+    translations:
+        english:
+        - respect
+        - homage
+        french: ''
+        portuguese: ''
+        spanish:
+        - respeto
+        - homenaje
+        turkish: saygı

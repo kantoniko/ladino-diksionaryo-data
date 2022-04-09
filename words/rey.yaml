@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2148'
+origen: Jeneral
+versions:
+-   accented: Rey
+    ladino: Rey
+    translations:
+        english: King
+        french: ''
+        portuguese: ''
+        spanish: Rey
+        turkish: Kral

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2143'
+origen: Jeneral
+versions:
+-   accented: responder
+    ladino: responder
+    translations:
+        english:
+        - respond
+        - answer
+        french: ''
+        portuguese: ''
+        spanish: responder
+        turkish: cevap vermek

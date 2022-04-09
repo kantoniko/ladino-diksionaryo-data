@@ -1,0 +1,22 @@
+examples: []
+grammar: null
+id: '2137'
+origen: Jeneral
+versions:
+-   accented: replikar
+    alternative-spelling:
+    -   accented: kontestar
+        ladino: kontestar
+    ladino: replikar
+    translations:
+        english:
+        - answer back
+        - answer
+        french: ''
+        portuguese: ''
+        spanish:
+        - replicar
+        - contestar
+        turkish:
+        - mukabele etmek
+        - cevap vermek

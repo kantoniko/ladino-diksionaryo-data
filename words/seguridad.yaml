@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2166'
+origen: Jeneral
+versions:
+-   accented: seguridad
+    ladino: seguridad
+    translations:
+        english: security
+        french: ''
+        portuguese: ''
+        spanish: seguridad
+        turkish: güven

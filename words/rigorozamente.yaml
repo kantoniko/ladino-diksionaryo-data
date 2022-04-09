@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2151'
+origen: Jeneral
+versions:
+-   accented: rigorozamente
+    ladino: rigorozamente
+    translations:
+        english: rigorously
+        french: ''
+        portuguese: ''
+        spanish: rigurosamente
+        turkish:
+        - dikkatle
+        - inceden inceye

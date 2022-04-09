@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2159'
+origen: Jeneral
+versions:
+-   accented: sanar
+    ladino: sanar
+    translations:
+        english:
+        - heal
+        - cure
+        french: ''
+        portuguese: ''
+        spanish: sanar
+        turkish: iyileştirmek

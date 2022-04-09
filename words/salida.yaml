@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2156'
+origen: Jeneral
+versions:
+-   accented: salida
+    ladino: salida
+    translations:
+        english: exit
+        french: ''
+        portuguese: ''
+        spanish: salida
+        turkish: çıkış

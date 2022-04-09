@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2135'
+origen: Jeneral
+versions:
+-   accented: renkor
+    ladino: renkor
+    translations:
+        english: rancour
+        french: ''
+        portuguese: ''
+        spanish: rencor
+        turkish: garez

@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2162'
+origen: Jeneral
+versions:
+-   accented: satisfecho
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: satisfecho
+    translations:
+        english:
+        - satisfied
+        - pleased
+        french: ''
+        portuguese: ''
+        spanish: satisfecho / a
+        turkish: memnun

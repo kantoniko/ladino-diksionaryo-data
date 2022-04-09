@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2168'
+origen: Jeneral
+versions:
+-   accented: sekreto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: sekreto
+    translations:
+        english: secret
+        french: ''
+        portuguese: ''
+        spanish: secreto / a
+        turkish: gizli

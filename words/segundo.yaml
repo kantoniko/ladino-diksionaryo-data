@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2164'
+origen: Jeneral
+versions:
+-   accented: segundo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: segundo
+    translations:
+        english: second
+        french: ''
+        portuguese: ''
+        spanish: segundo / a
+        turkish: ikinci

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2132'
+origen: Jeneral
+versions:
+-   accented: render
+    ladino: render
+    translations:
+        english: yield
+        french: ''
+        portuguese: ''
+        spanish: rendir
+        turkish: vermek (ürün)

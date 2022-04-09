@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2145'
+origen: Jeneral
+versions:
+-   accented: retardo
+    ladino: retardo
+    translations:
+        english: delay
+        french: ''
+        portuguese: ''
+        spanish: retraso
+        turkish: gecikme
