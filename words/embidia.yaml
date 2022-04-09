@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1763'
+origen: Jeneral
+versions:
+-   accented: embidia
+    ladino: embidia
+    translations:
+        english:
+        - envy
+        - jealousy
+        french: ''
+        portuguese: ''
+        spanish: envidia
+        turkish: kıskançlık

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1760'
+origen: Jeneral
+versions:
+-   accented: elegante
+    ladino: elegante
+    translations:
+        english:
+        - neat
+        - stylish
+        french: ''
+        portuguese: ''
+        spanish: atildado / a
+        turkish: zarif

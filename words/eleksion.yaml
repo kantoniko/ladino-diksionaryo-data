@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1761'
+origen: Jeneral
+versions:
+-   accented: eleksion
+    ladino: eleksion
+    translations:
+        english: election
+        french: ''
+        portuguese: ''
+        spanish: elección
+        turkish: seçim

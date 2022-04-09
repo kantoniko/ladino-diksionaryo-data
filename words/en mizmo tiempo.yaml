@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1765'
+origen: Jeneral
+versions:
+-   accented: en mizmo tiempo
+    ladino: en mizmo tiempo
+    translations:
+        english: at a time
+        french: ''
+        portuguese: ''
+        spanish: a la vez
+        turkish:
+        - aynı zamanda
+        - birden

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1762'
+origen: Jeneral
+versions:
+-   accented: elijir
+    ladino: elijir
+    translations:
+        english: elect
+        french: ''
+        portuguese: ''
+        spanish: elegir
+        turkish: seçmek

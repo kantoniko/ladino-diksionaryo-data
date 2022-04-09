@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1776'
+origen: Jeneral
+versions:
+-   accented: enkontro
+    ladino: enkontro
+    translations:
+        english: meeting
+        french: ''
+        portuguese: ''
+        spanish: encuentro
+        turkish: karşilaşma
