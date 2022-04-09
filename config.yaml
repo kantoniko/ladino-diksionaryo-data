@@ -22,3 +22,9 @@ gramatika:
   - preposition
   - pronoun
   - null
+gender:
+  - feminine
+  - masculine
+numero:
+  - singular
+  - plural
