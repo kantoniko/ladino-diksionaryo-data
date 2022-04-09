@@ -1,0 +1,31 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: entrevista
+    gender: feminine
+    number: singular
+
+    translations:
+      english: interview
+      french: ''
+      hebrew: ראיון
+      portuguese: ''
+      spanish: entrevista
+      turkish: ''
+
+  - ladino: entrevistas
+    gender: feminine
+    number: plural
+
+    translations:
+      english: interviewes
+      french: ''
+      hebrew: ראיונית
+      portuguese: ''
+      spanish: entrevistas
+      turkish: ''
+
+
+examples: []
