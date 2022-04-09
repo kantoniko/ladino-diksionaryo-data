@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1227'
+origen: Jeneral
+versions:
+-   accented: artikolo
+    ladino: artikolo
+    translations:
+        english: article
+        french: ''
+        portuguese: ''
+        spanish: artículo
+        turkish:
+        - madde
+        - makale

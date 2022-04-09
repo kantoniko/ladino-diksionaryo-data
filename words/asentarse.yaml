@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '126'
+origen: Jeneral
+versions:
+-   accented: asentarse
+    ladino: asentarse
+    translations:
+        english: sit
+        french: ''
+        portuguese: ''
+        spanish: sentarse
+        turkish: oturmak

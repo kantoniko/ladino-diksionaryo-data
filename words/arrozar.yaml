@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1225'
+origen: Jeneral
+versions:
+-   accented: arrozar
+    ladino: arrozar
+    translations:
+        english:
+        - water
+        - irrigate
+        french: ''
+        portuguese: ''
+        spanish: regar
+        turkish: sulamak

@@ -1,0 +1,19 @@
+examples:
+-   ladino: Arvol sin solombra (persona egoista).
+grammar: null
+id: '125'
+origen: Jeneral
+versions:
+-   accented: arvolé
+    alternative-spelling:
+    -   accented: arvól
+        ladino: arvol
+    gender: masculine
+    ladino: arvole
+    number: singular
+    translations:
+        english: tree
+        french: ''
+        portuguese: ''
+        spanish: árbol
+        turkish: ağaç

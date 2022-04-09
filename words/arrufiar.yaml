@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '124'
+origen: Jeneral
+versions:
+-   accented: arrufiar
+    ladino: arrufiar
+    translations:
+        english:
+        - water
+        - sprinkle
+        french: ''
+        portuguese: ''
+        spanish:
+        - irrigar
+        - salpicar
+        turkish:
+        - sulamak
+        - püskürtmek

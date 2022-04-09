@@ -1,0 +1,16 @@
+examples:
+-   ladino: Despues del aksidente, lo yevaron kon una anda.
+grammar: null
+id: '2277'
+origen: Jeneral
+versions:
+-   accented: ánda
+    gender: feminine
+    ladino: anda
+    number: singular
+    translations:
+        english: stretcher
+        french: ''
+        portuguese: ''
+        spanish: camilla
+        turkish: sedye

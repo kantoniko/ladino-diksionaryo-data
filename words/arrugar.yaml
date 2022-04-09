@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '123'
+origen: Jeneral
+versions:
+-   accented: arrugar
+    ladino: arrugar
+    translations:
+        english: wrinkle
+        french: ''
+        portuguese: ''
+        spanish: arrugar
+        turkish: buruşturmak

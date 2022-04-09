@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1228'
+origen: Jeneral
+versions:
+-   accented: arrufyar
+    ladino: arrufyar
+    translations:
+        english: irrigate
+        french: ''
+        portuguese: ''
+        spanish:
+        - irrigar
+        - regar
+        turkish: sulamak

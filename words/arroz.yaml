@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ya me enfasyi de avikas i arroz.
+grammar: null
+id: '1556'
+origen: Jeneral
+versions:
+-   accented: arróz
+    gender: masculine
+    ladino: arroz
+    number: singular
+    translations:
+        english: rice
+        french: riz
+        portuguese: arroz
+        spanish: arroz
+        turkish: pirinç
