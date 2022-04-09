@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Este sitio no es el lugar para eskrivir toda una vida.
+grammar: verb
+id: '359'
+origen: Jeneral
+versions:
+-   accented: eskrivir
+    ladino: eskrivir
+    translations:
+        english: write
+        french: ecrire
+        portuguese: escrever
+        spanish: escribir
+        turkish: yazmak
