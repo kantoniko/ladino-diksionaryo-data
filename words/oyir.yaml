@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: El Dio ke te oyga!
+grammar: verb
+id: '818'
+origen: Jeneral
+versions:
+-   accented: oyír
+    ladino: oyir
+    alternative-spelling:
+      - ladino: oir
+        accented: oír
+    translations:
+        english: hear, listen
+        french: ''
+        portuguese: ''
+        spanish: escuchar
+        turkish: dinlemek, duymak
+
