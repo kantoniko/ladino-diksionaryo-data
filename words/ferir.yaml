@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Tantos muertos i feridos! Komo es pozivle esto?
+grammar: verb
+id: '414'
+origen: Jeneral
+versions:
+-   accented: ferír
+    ladino: ferir
+    translations:
+        english: hurt, injure
+        french: ''
+        portuguese: ''
+        spanish: herir
+        turkish: acıtmak, yaralamak
