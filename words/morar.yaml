@@ -1,0 +1,22 @@
+conjugations: {}
+examples:
+-   ladino: 'Morar ande se arrapa el guerko: Leshos de todo.'
+grammar: verb
+id: '2547'
+origen: Jeneral
+versions:
+-   accented: morár
+    ladino: morar
+    translations:
+        english:
+        - live
+        - dwell
+        - reside
+        french: ''
+        portuguese: ''
+        spanish:
+        - morar
+        - habitar
+        turkish:
+        - oturmak
+        - ikâmet etmek
