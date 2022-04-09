@@ -1,0 +1,16 @@
+examples:
+-   ladino: No desha el livro de la mano.
+grammar: null
+id: '675'
+origen: Jeneral
+versions:
+-   accented: lívro
+    gender: masculine
+    ladino: livro
+    number: singular
+    translations:
+        english: book
+        french: livre
+        portuguese: livro
+        spanish: libro
+        turkish: kitap

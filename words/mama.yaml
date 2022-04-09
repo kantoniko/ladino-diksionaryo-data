@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '693'
+origen: Jeneral
+versions:
+-   accented: mama
+    ladino: mama
+    translations:
+        english: mom
+        french: ''
+        portuguese: ''
+        spanish: mamá
+        turkish: anne

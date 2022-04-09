@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '651'
+origen: Jeneral
+versions:
+-   accented: kuriozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kuriozo
+    translations:
+        english: curious
+        french: ''
+        portuguese: ''
+        spanish: curioso / a
+        turkish: meraklı

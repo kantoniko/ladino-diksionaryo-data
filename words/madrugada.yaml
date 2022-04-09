@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '685'
+origen: Jeneral
+versions:
+-   accented: madrugada
+    ladino: madrugada
+    translations:
+        english: dawn
+        french: ''
+        portuguese: ''
+        spanish: madrugada
+        turkish: şafak

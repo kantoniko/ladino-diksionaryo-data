@@ -1,0 +1,25 @@
+examples:
+-   ladino: Ken lingua tiene, a Roma va.
+grammar: null
+id: '1403'
+origen: Jeneral
+versions:
+-   accented: língua
+    alternative-spelling:
+    -   accented: léngua
+        ladino: lengua
+    gender: feminine
+    ladino: lingua
+    number: singular
+    translations:
+        english:
+        - tongue
+        - language
+        french: ''
+        portuguese: ''
+        spanish:
+        - lengua
+        - lenguaje
+        turkish:
+        - dil
+        - lisan

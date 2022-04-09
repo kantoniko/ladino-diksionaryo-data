@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '666'
+origen: Jeneral
+versions:
+-   accented: lentamente
+    ladino: lentamente
+    translations:
+        english: slowly
+        french: ''
+        portuguese: ''
+        spanish: lentamente
+        turkish: yavaş

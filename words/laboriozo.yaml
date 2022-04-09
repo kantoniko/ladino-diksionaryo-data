@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '656'
+origen: Jeneral
+versions:
+-   accented: laboriozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: laboriozo
+    translations:
+        english:
+        - hard-working
+        - industrious
+        french: ''
+        portuguese: ''
+        spanish: trabajador
+        turkish: çalışkan

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '679'
+origen: Jeneral
+versions:
+-   accented: luksyozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: luksyozo
+    translations:
+        english: luxurious
+        french: ''
+        portuguese: ''
+        spanish: lujoso / a
+        turkish: lüks

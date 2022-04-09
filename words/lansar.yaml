@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '659'
+origen: Jeneral
+versions:
+-   accented: lansar
+    ladino: lansar
+    translations:
+        english:
+        - throw
+        - hurl
+        - launch
+        french: ''
+        portuguese: ''
+        spanish: lanzar
+        turkish:
+        - fırlatma
+        - piyasaya sürme

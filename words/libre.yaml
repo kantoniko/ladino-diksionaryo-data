@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '671'
+origen: Jeneral
+versions:
+-   accented: libre
+    alternative-spelling:
+    -   accented: libero
+        ladino: libero
+    ladino: libre
+    translations:
+        english: free
+        french: ''
+        portuguese: ''
+        spanish: libre
+        turkish: serbest

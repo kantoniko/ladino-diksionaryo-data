@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '667'
+origen: Jeneral
+versions:
+-   accented: leshano
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: leshano
+    translations:
+        english: far
+        french: ''
+        portuguese: ''
+        spanish: lejano / a
+        turkish: uzak

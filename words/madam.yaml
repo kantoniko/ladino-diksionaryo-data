@@ -1,0 +1,20 @@
+examples:
+-   ladino: 'Hanumika, vate ande Madam Viktorya, dile ke te de un poko de "oturburda" '
+grammar: null
+id: '684'
+origen: Jeneral
+versions:
+-   accented: madám
+    gender: feminine
+    ladino: madam
+    number: singular
+    translations:
+        english:
+        - Mrs.
+        - madam
+        french: ''
+        portuguese: ''
+        spanish:
+        - doña
+        - señora
+        turkish: bayan

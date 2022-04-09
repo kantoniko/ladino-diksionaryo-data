@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '676'
+origen: Jeneral
+versions:
+-   accented: lovo
+    ladino: lovo
+    translations:
+        english: wolf
+        french: ''
+        portuguese: ''
+        spanish: lobo
+        turkish: kurt

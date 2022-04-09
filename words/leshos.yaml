@@ -1,0 +1,14 @@
+examples:
+-   ladino: De leshos oyi una boz.
+grammar: adverb
+id: '668'
+origen: Jeneral
+versions:
+-   accented: léshos
+    ladino: leshos
+    translations:
+        english: far
+        french: loin
+        portuguese: longe
+        spanish: lejos
+        turkish: uzakta

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '674'
+origen: Jeneral
+versions:
+-   accented: lindo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: lindo
+    translations:
+        english: pretty
+        french: ''
+        portuguese: ''
+        spanish: lindo / a
+        turkish: güzel

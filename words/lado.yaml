@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '657'
+origen: Jeneral
+versions:
+-   accented: lado
+    ladino: lado
+    translations:
+        english: side
+        french: ''
+        portuguese: ''
+        spanish: lado
+        turkish: yan

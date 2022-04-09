@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '695'
+origen: Jeneral
+versions:
+-   accented: manifestar
+    ladino: manifestar
+    translations:
+        english: manifest
+        french: ''
+        portuguese: ''
+        spanish: manifestar
+        turkish:
+        - tezahürat yap.
+        - belirtmek

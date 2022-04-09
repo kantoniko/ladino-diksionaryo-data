@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '670'
+origen: Jeneral
+versions:
+-   accented: libertad
+    ladino: libertad
+    translations:
+        english: freedom
+        french: ''
+        portuguese: ''
+        spanish: libertad
+        turkish:
+        - hürriyet
+        - özgürlük

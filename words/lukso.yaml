@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '678'
+origen: Jeneral
+versions:
+-   accented: lukso
+    ladino: lukso
+    translations:
+        english: luxury
+        french: ''
+        portuguese: ''
+        spanish: lujo
+        turkish: lüks

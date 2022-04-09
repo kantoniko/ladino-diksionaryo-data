@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1406'
+origen: Jeneral
+versions:
+-   accented: majiskula
+    ladino: majiskula
+    translations:
+        english: capital letter
+        french: ''
+        portuguese: ''
+        spanish: mayúscula
+        turkish: büyük harf

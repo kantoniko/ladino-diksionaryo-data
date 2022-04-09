@@ -1,0 +1,21 @@
+examples:
+-   ladino: Se le kemo el ligado, de tanto bever alkol.
+grammar: null
+id: '672'
+origen: Jeneral
+versions:
+-   accented: lígado
+    alternative-spelling:
+    -   accented: fégado
+        ladino: fegado
+    gender: masculine
+    ladino: ligado
+    number: singular
+    translations:
+        english: liver
+        french: ''
+        portuguese: ''
+        spanish: hígado
+        turkish:
+        - ciğer
+        - karaciğer

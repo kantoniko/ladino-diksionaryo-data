@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '664'
+origen: Jeneral
+versions:
+-   accented: lavoro
+    ladino: lavoro
+    translations:
+        english: work
+        french: ''
+        portuguese: ''
+        spanish: labor
+        turkish:
+        - iş
+        - emek

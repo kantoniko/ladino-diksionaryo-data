@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '682'
+origen: Jeneral
+versions:
+-   accented: luzio
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: luzio
+    translations:
+        english:
+        - pretty
+        - nice
+        french: ''
+        portuguese: ''
+        spanish: bonito / a
+        turkish:
+        - güzel
+        - hoş

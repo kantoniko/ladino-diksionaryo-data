@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '663'
+origen: Jeneral
+versions:
+-   accented: lavorar
+    ladino: lavorar
+    translations:
+        english: work
+        french: ''
+        portuguese: ''
+        spanish: trabajar
+        turkish: çalışmak

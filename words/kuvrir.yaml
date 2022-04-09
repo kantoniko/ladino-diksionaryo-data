@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '654'
+origen: Jeneral
+versions:
+-   accented: kuvrir
+    alternative-spelling:
+    -   accented: kuvijar
+        ladino: kuvijar
+    ladino: kuvrir
+    translations:
+        english: cover
+        french: ''
+        portuguese: ''
+        spanish: cubrir
+        turkish: örtmek

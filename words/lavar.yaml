@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1402'
+origen: Jeneral
+versions:
+-   accented: lavar
+    ladino: lavar
+    translations:
+        english: wash
+        french: ''
+        portuguese: ''
+        spanish: lavar
+        turkish: yıkamak

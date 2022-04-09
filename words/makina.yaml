@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '688'
+origen: Jeneral
+versions:
+-   accented: makina
+    ladino: makina
+    translations:
+        english: machine
+        french: ''
+        portuguese: ''
+        spanish: máquina
+        turkish: makine

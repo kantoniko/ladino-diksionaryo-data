@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '687'
+origen: Jeneral
+versions:
+-   accented: majorita
+    ladino: majorita
+    translations:
+        english: majority
+        french: ''
+        portuguese: ''
+        spanish: mayoría
+        turkish: çoğunluk

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '683'
+origen: Jeneral
+versions:
+-   accented: ma
+    ladino: ma
+    translations:
+        english: but
+        french: ''
+        portuguese: ''
+        spanish: mas
+        turkish:
+        - fakat
+        - ama

@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '686'
+origen: Jeneral
+versions:
+-   accented: maestro
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: maestro
+    translations:
+        english:
+        - teacher
+        - master
+        french: ''
+        portuguese: ''
+        spanish: maestro / a
+        turkish:
+        - öğretmen
+        - usta

@@ -1,0 +1,14 @@
+examples:
+-   ladino: El kontenido de esta gazeta no atirava los lektores.
+grammar: null
+id: '11'
+origen: Jeneral
+versions:
+-   accented: lektor
+    ladino: lektor
+    translations:
+        english: reader
+        french: ''
+        portuguese: ''
+        spanish: lector
+        turkish: okur

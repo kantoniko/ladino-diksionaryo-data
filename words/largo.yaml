@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '661'
+origen: Jeneral
+versions:
+-   accented: largo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: largo
+    translations:
+        english: long
+        french: ''
+        portuguese: ''
+        spanish: largo / a
+        turkish: uzun
