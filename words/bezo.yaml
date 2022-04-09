@@ -1,0 +1,16 @@
+examples:
+-   ladino: Munchos bezos a todos i asperemos ke en serka mos eskrivan aki...
+grammar: null
+id: '2408'
+origen: Jeneral
+versions:
+-   accented: bézo
+    ladino: bezo
+    translations:
+        english: kiss
+        french: ''
+        portuguese: ''
+        spanish: beso
+        turkish:
+        - buse
+        - öpücük
