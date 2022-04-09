@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1456'
+origen: Jeneral
+versions:
+-   accented: posibilidad
+    ladino: posibilidad
+    translations:
+        english: possibility
+        french: ''
+        portuguese: ''
+        spanish: posibilidad
+        turkish: imkân

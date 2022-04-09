@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1454'
+origen: Jeneral
+versions:
+-   accented: poezia
+    ladino: poezia
+    translations:
+        english:
+        - poem
+        - poetry
+        french: ''
+        portuguese: ''
+        spanish:
+        - poema
+        - poesía
+        turkish:
+        - şiir
+        - şiirler

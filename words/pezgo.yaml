@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1451'
+origen: Jeneral
+versions:
+-   accented: pezgo
+    ladino: pezgo
+    translations:
+        english: weight
+        french: ''
+        portuguese: ''
+        spanish: peso
+        turkish: ağırlık

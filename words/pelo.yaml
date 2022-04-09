@@ -1,0 +1,22 @@
+examples:
+-   ladino: Se arrankó los pelos de la barva de inyervo.
+grammar: null
+id: '848'
+origen: Jeneral
+versions:
+-   accented: pélo
+    gender: masculine
+    ladino: pelo
+    number: singular
+    translations:
+        english:
+        - hair
+        - coat (animal)
+        - whiskers
+        - bristle
+        french: ''
+        portuguese: ''
+        spanish:
+        - pelo (de barba
+        - de animal)
+        turkish: kıl

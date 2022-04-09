@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '857'
+origen: Jeneral
+versions:
+-   accented: persona
+    ladino: persona
+    translations:
+        english: person
+        french: ''
+        portuguese: ''
+        spanish: persona
+        turkish:
+        - adam
+        - insan

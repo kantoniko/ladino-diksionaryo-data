@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '850'
+origen: Jeneral
+versions:
+-   accented: pena
+    ladino: pena
+    translations:
+        english:
+        - sorrow
+        - trouble
+        french: ''
+        portuguese: ''
+        spanish: pena
+        turkish:
+        - zahmet
+        - üzüntü

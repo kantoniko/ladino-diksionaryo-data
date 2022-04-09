@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '849'
+origen: Jeneral
+versions:
+-   accented: peltek
+    ladino: peltek
+    translations:
+        english: stuttering
+        french: ''
+        portuguese: ''
+        spanish: tartamudo / a
+        turkish: kekeme

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '887'
+origen: Jeneral
+versions:
+-   accented: portokal
+    ladino: portokal
+    translations:
+        english: orange
+        french: ''
+        portuguese: ''
+        spanish: naranja
+        turkish: portakal

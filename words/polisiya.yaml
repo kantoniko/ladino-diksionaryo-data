@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '877'
+origen: Jeneral
+versions:
+-   accented: polisiya
+    ladino: polisiya
+    translations:
+        english: police
+        french: ''
+        portuguese: ''
+        spanish: policía
+        turkish: polis

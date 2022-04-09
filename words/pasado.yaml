@@ -1,0 +1,18 @@
+examples:
+-   ladino: Para lo pasado no ay remedio.
+grammar: null
+id: '1446'
+origen: Jeneral
+versions:
+-   accented: pasádo
+    gender: masculine
+    ladino: pasado
+    number: singular
+    translations:
+        english: past
+        french: ''
+        portuguese: ''
+        spanish: pasado
+        turkish:
+        - geçmiş
+        - mazi

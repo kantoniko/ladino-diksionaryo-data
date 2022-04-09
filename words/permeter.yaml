@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '855'
+origen: Jeneral
+versions:
+-   accented: permeter
+    ladino: permeter
+    translations:
+        english: permit
+        french: ''
+        portuguese: ''
+        spanish: permitir
+        turkish: izin vermek

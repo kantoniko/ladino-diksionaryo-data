@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '865'
+origen: Jeneral
+versions:
+-   accented: pikante
+    ladino: pikante
+    translations:
+        english:
+        - hot
+        - peppery
+        french: ''
+        portuguese: ''
+        spanish: picante
+        turkish: biberli

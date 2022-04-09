@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '861'
+origen: Jeneral
+versions:
+-   accented: petrolio
+    ladino: petrolio
+    translations:
+        english:
+        - gas
+        - petrol
+        french: ''
+        portuguese: ''
+        spanish: petróleo
+        turkish:
+        - gaz
+        - petrol

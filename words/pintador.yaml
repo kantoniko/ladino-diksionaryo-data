@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '866'
+origen: Jeneral
+versions:
+-   accented: pintador
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: pintador
+    translations:
+        english: painter
+        french: ''
+        portuguese: ''
+        spanish: pintor - a
+        turkish: ressam

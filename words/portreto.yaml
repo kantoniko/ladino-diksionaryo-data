@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1455'
+origen: Jeneral
+versions:
+-   accented: portreto
+    ladino: portreto
+    translations:
+        english: portrait
+        french: ''
+        portuguese: ''
+        spanish: retrato
+        turkish: portre

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '882'
+origen: Jeneral
+versions:
+-   accented: por semana
+    ladino: por semana
+    translations:
+        english: weekly
+        french: ''
+        portuguese: ''
+        spanish: semanal
+        turkish: haftada

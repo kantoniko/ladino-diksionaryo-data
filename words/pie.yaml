@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '863'
+origen: Jeneral
+versions:
+-   accented: pie
+    ladino: pie
+    translations:
+        english: foot
+        french: ''
+        portuguese: ''
+        spanish: pié
+        turkish: ayak

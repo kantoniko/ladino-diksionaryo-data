@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '854'
+origen: Jeneral
+versions:
+-   accented: perikolozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: perikolozo
+    translations:
+        english:
+        - perilous
+        - risky
+        french: ''
+        portuguese: ''
+        spanish: peligroso / a
+        turkish: tehlikeli

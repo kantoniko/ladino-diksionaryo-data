@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '867'
+origen: Jeneral
+versions:
+-   accented: piron
+    ladino: piron
+    translations:
+        english: fork
+        french: ''
+        portuguese: ''
+        spanish: tenedor
+        turkish: çatal

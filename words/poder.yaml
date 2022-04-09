@@ -1,0 +1,25 @@
+examples:
+-   ladino: 'El direktor tiene poderes anchos.
+
+        Kada uno da segun su poder.'
+grammar: null
+id: '875'
+origen: Jeneral
+versions:
+-   accented: podér
+    gender: masculine
+    ladino: poder
+    number: singular
+    translations:
+        english:
+        - power
+        - authority
+        french: ''
+        portuguese: ''
+        spanish:
+        - poder
+        - potencia
+        turkish:
+        - güç
+        - iktidar
+        - kuvvet

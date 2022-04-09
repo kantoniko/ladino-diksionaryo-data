@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '856'
+origen: Jeneral
+versions:
+-   accented: perro
+    ladino: perro
+    translations:
+        english: dog
+        french: ''
+        portuguese: ''
+        spanish: perro
+        turkish: köpek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1445'
+origen: Jeneral
+versions:
+-   accented: payis
+    ladino: payis
+    translations:
+        english: country
+        french: ''
+        portuguese: ''
+        spanish: país
+        turkish: memleket

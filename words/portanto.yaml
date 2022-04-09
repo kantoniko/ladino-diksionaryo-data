@@ -1,0 +1,26 @@
+examples: []
+grammar: null
+id: '885'
+origen: Jeneral
+versions:
+-   accented: portanto
+    alternative-spelling:
+    -   accented: aser ke
+        ladino: aser ke
+    ladino: portanto
+    translations:
+        english:
+        - since
+        - then
+        - however
+        - nevertheless
+        french: ''
+        portuguese: ''
+        spanish:
+        - por tanto
+        - pues
+        - no obstante
+        turkish:
+        - zira
+        - halbuki
+        - oysa

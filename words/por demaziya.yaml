@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '881'
+origen: Jeneral
+versions:
+-   accented: por demaziya
+    alternative-spelling:
+    -   accented: indemas
+        ladino: indemas
+    ladino: por demaziya
+    translations:
+        english:
+        - besides
+        - moreover
+        french: ''
+        portuguese: ''
+        spanish: además
+        turkish:
+        - fazladan
+        - üstelik

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '876'
+origen: Jeneral
+versions:
+-   accented: poko
+    ladino: poko
+    translations:
+        english: a little
+        french: ''
+        portuguese: ''
+        spanish: poco
+        turkish: az

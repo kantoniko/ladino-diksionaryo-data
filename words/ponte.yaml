@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '879'
+origen: Jeneral
+versions:
+-   accented: ponte
+    ladino: ponte
+    translations:
+        english: bridge
+        french: ''
+        portuguese: ''
+        spanish: puente
+        turkish: köprü

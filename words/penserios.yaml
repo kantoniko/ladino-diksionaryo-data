@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1448'
+origen: Jeneral
+versions:
+-   accented: penserios
+    ladino: penserios
+    translations:
+        english:
+        - sorrow
+        - problems
+        french: ''
+        portuguese: ''
+        spanish:
+        - pena
+        - problemas
+        turkish: dert

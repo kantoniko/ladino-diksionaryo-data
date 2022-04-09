@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '845'
+origen: Jeneral
+versions:
+-   accented: pecho
+    ladino: pecho
+    translations:
+        english: chest
+        french: ''
+        portuguese: ''
+        spanish: pecho
+        turkish: göğüs
