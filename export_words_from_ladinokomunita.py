@@ -141,7 +141,7 @@ def main():
             #print(words_str)
             words = re.split(r'\s*[/,]\s*', words_str)
             for word in words:
-                print(word)
+                #print(word)
                 match = re.search(words_regex, word)
                 if not match:
                     _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
