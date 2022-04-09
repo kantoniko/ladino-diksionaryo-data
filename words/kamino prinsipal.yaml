@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '522'
+origen: Jeneral
+versions:
+-   accented: kamino prinsipal
+    ladino: kamino prinsipal
+    translations:
+        english:
+        - main street
+        - highway
+        french: ''
+        portuguese: ''
+        spanish:
+        - carretera
+        - calzada
+        turkish: anayol

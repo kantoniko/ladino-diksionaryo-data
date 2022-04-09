@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '554'
+origen: Jeneral
+versions:
+-   accented: kemar
+    ladino: kemar
+    translations:
+        english: burn
+        french: ''
+        portuguese: ''
+        spanish: quemar
+        turkish: yakmak

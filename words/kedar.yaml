@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '551'
+origen: Jeneral
+versions:
+-   accented: kedar
+    ladino: kedar
+    translations:
+        english:
+        - stay
+        - remain
+        french: ''
+        portuguese: ''
+        spanish:
+        - quedar
+        - permanecer
+        turkish: kalmak

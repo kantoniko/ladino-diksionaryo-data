@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '534'
+origen: Jeneral
+versions:
+-   accented: karo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: karo
+    translations:
+        english:
+        - dear
+        - expensive
+        french: ''
+        portuguese: ''
+        spanish: caro / a
+        turkish:
+        - değerli
+        - pahalı

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Izimos borekas de kezo i patata.
+grammar: null
+id: '565'
+origen: Jeneral
+versions:
+-   accented: kézo
+    gender: masculine
+    ladino: kezo
+    number: singular
+    translations:
+        english: cheese
+        french: fromage
+        portuguese: queijo
+        spanish: queso
+        turkish: peynir

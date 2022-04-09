@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '543'
+origen: Jeneral
+versions:
+-   accented: kayentura
+    ladino: kayentura
+    translations:
+        english: fever
+        french: ''
+        portuguese: ''
+        spanish: fiebre
+        turkish:
+        - ateş
+        - hararet

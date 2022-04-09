@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1367'
+origen: Jeneral
+versions:
+-   accented: karesar
+    ladino: karesar
+    translations:
+        english:
+        - caress
+        - pat
+        french: ''
+        portuguese: ''
+        spanish: acariciar
+        turkish: okşamak

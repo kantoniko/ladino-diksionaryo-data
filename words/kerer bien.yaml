@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '559'
+origen: Jeneral
+versions:
+-   accented: kerer bien
+    ladino: kerer bien
+    translations:
+        english:
+        - love
+        - like
+        french: ''
+        portuguese: ''
+        spanish: amar
+        turkish: sevmek

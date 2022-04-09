@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '552'
+origen: Jeneral
+versions:
+-   accented: kedarse
+    ladino: kedarse
+    translations:
+        english:
+        - stay
+        - remain
+        french: ''
+        portuguese: ''
+        spanish: quedarse
+        turkish: kalmak

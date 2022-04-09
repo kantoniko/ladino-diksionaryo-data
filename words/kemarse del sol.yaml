@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '555'
+origen: Jeneral
+versions:
+-   accented: kemarse del sol
+    ladino: kemarse del sol
+    translations:
+        english: get suntanned
+        french: ''
+        portuguese: ''
+        spanish: broncearse
+        turkish: güneşten yanmak

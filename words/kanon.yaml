@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '525'
+origen: Jeneral
+versions:
+-   accented: kanon
+    ladino: kanon
+    translations:
+        english: cannon
+        french: ''
+        portuguese: ''
+        spanish: cañón
+        turkish: top

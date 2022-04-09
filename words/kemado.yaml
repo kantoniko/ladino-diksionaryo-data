@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '553'
+origen: Jeneral
+versions:
+-   accented: kemado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kemado
+    translations:
+        english: burnt
+        french: ''
+        portuguese: ''
+        spanish: quemado / a
+        turkish: yanık

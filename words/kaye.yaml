@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '541'
+origen: Jeneral
+versions:
+-   accented: kaye
+    ladino: kaye
+    translations:
+        english:
+        - street
+        - road
+        french: ''
+        portuguese: ''
+        spanish: calle
+        turkish:
+        - sokak
+        - cadde

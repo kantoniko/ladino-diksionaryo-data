@@ -1,0 +1,16 @@
+examples:
+-   ladino: Tengo menester de la resefta de Mina de Karne.
+grammar: null
+id: '533'
+origen: Jeneral
+versions:
+-   accented: kárne
+    gender: feminine
+    ladino: karne
+    number: singular
+    translations:
+        english: meat
+        french: viande
+        portuguese: carne
+        spanish: carne
+        turkish: et

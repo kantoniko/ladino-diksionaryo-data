@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '524'
+origen: Jeneral
+versions:
+-   accented: kampo
+    alternative-spelling:
+    -   accented: terreno
+        ladino: terreno
+    ladino: kampo
+    translations:
+        english: field
+        french: ''
+        portuguese: ''
+        spanish: campo
+        turkish: saha

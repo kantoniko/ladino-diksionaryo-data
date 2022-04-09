@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '527'
+origen: Jeneral
+versions:
+-   accented: kantar
+    ladino: kantar
+    translations:
+        english: sing
+        french: ''
+        portuguese: ''
+        spanish: cantar
+        turkish: şarkı söylemek

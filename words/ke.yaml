@@ -1,0 +1,17 @@
+examples:
+-   ladino: Ke ke te diga?
+grammar: null
+id: '550'
+origen: Jeneral
+versions:
+-   accented: ke
+    alternative-spelling:
+    -   accented: kuálo
+        ladino: kualo
+    ladino: ke
+    translations:
+        english: what
+        french: ''
+        portuguese: ''
+        spanish: qué
+        turkish: ne

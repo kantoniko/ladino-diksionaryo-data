@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '561'
+origen: Jeneral
+versions:
+-   accented: keshada
+    ladino: keshada
+    translations:
+        english: chin
+        french: ''
+        portuguese: ''
+        spanish:
+        - barbilla
+        - mentón (m)
+        turkish: çene

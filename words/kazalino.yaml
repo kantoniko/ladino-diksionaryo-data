@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '547'
+origen: Jeneral
+versions:
+-   accented: kazalino
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kazalino
+    translations:
+        english: villager
+        french: ''
+        portuguese: ''
+        spanish:
+        - campesino / a
+        - pueblerino / a
+        turkish: köylü

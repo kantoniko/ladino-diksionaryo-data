@@ -1,0 +1,17 @@
+examples:
+-   ladino: Puede ser ke se sienten kansados.
+grammar: adjective
+id: '526'
+origen: Jeneral
+versions:
+-   accented: kansado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kansado
+    translations:
+        english: tired
+        french: fatiguÃ©
+        portuguese: ''
+        spanish: cansado / a
+        turkish: yorgun

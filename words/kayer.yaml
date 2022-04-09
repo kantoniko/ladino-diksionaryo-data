@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '544'
+origen: Jeneral
+versions:
+-   accented: kayer
+    ladino: kayer
+    translations:
+        english: fall
+        french: ''
+        portuguese: ''
+        spanish: caer
+        turkish: düşmek

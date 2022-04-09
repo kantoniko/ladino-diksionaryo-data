@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ande esta la yave ke estava en el kashon?
+grammar: null
+id: '537'
+origen: Jeneral
+versions:
+-   accented: kashón
+    gender: masculine
+    ladino: kashon
+    number: singular
+    translations:
+        english: drawer
+        french: ''
+        portuguese: ''
+        spanish: cajón
+        turkish: çekmece

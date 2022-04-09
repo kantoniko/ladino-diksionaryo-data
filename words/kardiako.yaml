@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '532'
+origen: Jeneral
+versions:
+-   accented: kardiako
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kardiako
+    translations:
+        english: cardiac
+        french: ''
+        portuguese: ''
+        spanish: cardiaco / a
+        turkish: kalple ilgili

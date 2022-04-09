@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '545'
+origen: Jeneral
+versions:
+-   accented: kaza
+    ladino: kaza
+    translations:
+        english: house
+        french: ''
+        portuguese: ''
+        spanish: casa
+        turkish: ev

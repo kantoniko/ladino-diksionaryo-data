@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '530'
+origen: Jeneral
+versions:
+-   accented: kapachitad
+    ladino: kapachitad
+    translations:
+        english:
+        - capacity
+        - ability
+        french: ''
+        portuguese: ''
+        spanish: capacitad
+        turkish: beceri

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '548'
+origen: Jeneral
+versions:
+-   accented: kazar
+    ladino: kazar
+    translations:
+        english: marry
+        french: ''
+        portuguese: ''
+        spanish: casar
+        turkish: evlenmek

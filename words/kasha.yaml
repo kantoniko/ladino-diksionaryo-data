@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1370'
+origen: Jeneral
+versions:
+-   accented: kasha
+    ladino: kasha
+    translations:
+        english:
+        - case
+        - cashier's office
+        french: ''
+        portuguese: ''
+        spanish: caja
+        turkish:
+        - kasa
+        - vezne

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '536'
+origen: Jeneral
+versions:
+-   accented: kasap
+    alternative-spelling:
+    -   accented: karnesero
+        ladino: karnesero
+    ladino: kasap
+    translations:
+        english: butcher
+        french: ''
+        portuguese: ''
+        spanish: carnicero
+        turkish: kasap

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '523'
+origen: Jeneral
+versions:
+-   accented: kamiza
+    ladino: kamiza
+    translations:
+        english: shirt
+        french: ''
+        portuguese: ''
+        spanish: camisa
+        turkish: gömlek

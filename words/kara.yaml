@@ -1,0 +1,14 @@
+examples:
+-   ladino: En kada kara tiene una kondja. (Neh.)
+grammar: null
+id: '531'
+origen: Jeneral
+versions:
+-   accented: kára
+    ladino: kara
+    translations:
+        english: cheek
+        french: ''
+        portuguese: ''
+        spanish: mejilla
+        turkish: yanak

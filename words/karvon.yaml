@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '535'
+origen: Jeneral
+versions:
+-   accented: karvon
+    ladino: karvon
+    translations:
+        english: coal
+        french: ''
+        portuguese: ''
+        spanish: carbón
+        turkish: kömür

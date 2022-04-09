@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '558'
+origen: Jeneral
+versions:
+-   accented: kerer
+    ladino: kerer
+    translations:
+        english:
+        - want
+        - love
+        french: ''
+        portuguese: ''
+        spanish: querer
+        turkish:
+        - istemek
+        - sevmek

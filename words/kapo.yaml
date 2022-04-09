@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1366'
+origen: Jeneral
+versions:
+-   accented: kapo
+    ladino: kapo
+    translations:
+        english:
+        - chief
+        - hothead
+        french: ''
+        portuguese: ''
+        spanish:
+        - jefe
+        - cabecilla
+        turkish:
+        - şef
+        - elebaşı
