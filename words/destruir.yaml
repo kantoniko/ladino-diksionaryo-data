@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '251'
+origen: Jeneral
+versions:
+-   accented: destruir
+    ladino: destruir
+    translations:
+        english: destroy
+        french: ''
+        portuguese: ''
+        spanish: destruir
+        turkish: yıkmak

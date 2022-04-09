@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '257'
+origen: Jeneral
+versions:
+-   accented: diente
+    ladino: diente
+    translations:
+        english: tooth
+        french: ''
+        portuguese: ''
+        spanish: diente
+        turkish: diş

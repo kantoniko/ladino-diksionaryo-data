@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '254'
+origen: Jeneral
+versions:
+-   accented: dezeyar
+    ladino: dezeyar
+    translations:
+        english: wish
+        french: ''
+        portuguese: ''
+        spanish: desear
+        turkish: arzu etmek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '256'
+origen: Jeneral
+versions:
+-   accented: dia entero
+    ladino: dia entero
+    translations:
+        english: all day
+        french: ''
+        portuguese: ''
+        spanish: todadía
+        turkish: bütün gün

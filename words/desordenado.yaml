@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '248'
+origen: Jeneral
+versions:
+-   accented: desordenado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: desordenado
+    translations:
+        english: disorderly
+        french: ''
+        portuguese: ''
+        spanish: desordenado / a
+        turkish: düzensiz

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '255'
+origen: Jeneral
+versions:
+-   accented: dia
+    alternative-spelling:
+    -   accented: diya
+        ladino: diya
+    ladino: dia
+    translations:
+        english: day
+        french: ''
+        portuguese: ''
+        spanish: día
+        turkish: gün
