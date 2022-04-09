@@ -1,0 +1,20 @@
+conjugations: {}
+examples:
+-   ladino: Para ke no veya su madre ke estava meldando akel livro, lo enkasho aryentro
+        del baul.
+grammar: verb
+id: '1774'
+origen: Jeneral
+versions:
+-   accented: enkashár
+    ladino: enkashar
+    translations:
+        english: insert
+        french:
+        - fourrer
+        - insérer
+        portuguese: inserir
+        spanish:
+        - meter
+        - insertar
+        turkish: sokmak
