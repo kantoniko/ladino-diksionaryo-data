@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '131'
+origen: Jeneral
+versions:
+-   accented: atakar
+    ladino: atakar
+    translations:
+        english: attack
+        french: ''
+        portuguese: ''
+        spanish: atacar
+        turkish: saldırmak

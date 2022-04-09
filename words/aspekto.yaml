@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '127'
+origen: Jeneral
+versions:
+-   accented: aspekto
+    ladino: aspekto
+    translations:
+        english: aspect
+        french: ''
+        portuguese: ''
+        spanish: aspecto
+        turkish: boyut; görüntü

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1233'
+origen: Jeneral
+versions:
+-   accented: asistir
+    ladino: asistir
+    translations:
+        english: assist
+        french: ''
+        portuguese: ''
+        spanish: asistir
+        turkish:
+        - hazır bulunmak
+        - yardım etmek

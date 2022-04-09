@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1232'
+origen: Jeneral
+versions:
+-   accented: asigun
+    ladino: asigun
+    translations:
+        english: according to
+        french: ''
+        portuguese: ''
+        spanish: según
+        turkish:
+        - gibi
+        - mucibince

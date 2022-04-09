@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '129'
+origen: Jeneral
+versions:
+-   accented: astronomiko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: astronomiko
+    translations:
+        english: astronomical
+        french: ''
+        portuguese: ''
+        spanish: astronómico / a
+        turkish: astronomik

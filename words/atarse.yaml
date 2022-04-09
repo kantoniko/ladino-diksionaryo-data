@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '133'
+origen: Jeneral
+versions:
+-   accented: atarse
+    ladino: atarse
+    translations:
+        english: get attached
+        french: ''
+        portuguese: ''
+        spanish: atarse
+        turkish: bağlanmak
