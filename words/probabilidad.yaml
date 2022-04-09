@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2106'
+origen: Jeneral
+versions:
+-   accented: probabilidad
+    ladino: probabilidad
+    translations:
+        english: probability
+        french: ''
+        portuguese: ''
+        spanish: probabilidad
+        turkish: ihtimal
