@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '308'
+origen: Jeneral
+versions:
+-   accented: elektrisita
+    ladino: elektrisita
+    translations:
+        english: electricity
+        french: ''
+        portuguese: ''
+        spanish: electricidad
+        turkish: elektrik

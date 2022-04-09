@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '300'
+origen: Jeneral
+versions:
+-   accented: eksplikasion
+    ladino: eksplikasion
+    translations:
+        english: explanation
+        french: ''
+        portuguese: ''
+        spanish: explicación
+        turkish: izah

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '301'
+origen: Jeneral
+versions:
+-   accented: eksplozar
+    ladino: eksplozar
+    translations:
+        english: explode
+        french: ''
+        portuguese: ''
+        spanish: explotar
+        turkish: infilâk etmek
