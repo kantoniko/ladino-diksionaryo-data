@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2346'
+origen: Jeneral
+versions:
+-   accented: red
+    ladino: red
+    translations:
+        english: net
+        french: ''
+        portuguese: ''
+        spanish: red
+        turkish: ağ

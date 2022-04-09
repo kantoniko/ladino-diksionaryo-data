@@ -1,0 +1,23 @@
+examples:
+-   ladino: 'Para el proksimo Alhad, estamos aparejando un paseyo a Hunkar. '
+grammar: null
+id: '2344'
+origen: Jeneral
+versions:
+-   accented: proksimo
+    alternative-spelling:
+    -   accented: proksima
+        ladino: proksima
+    ladino: proksimo
+    translations:
+        english:
+        - near
+        - next
+        french: ''
+        portuguese: ''
+        spanish:
+        - próximo
+        - próxima
+        turkish:
+        - yakın
+        - gelecek

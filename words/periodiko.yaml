@@ -1,0 +1,16 @@
+examples:
+-   ladino: Los ke biven en Israel resivieron ayer un periodiko ke se yama "Ladino".
+grammar: null
+id: '2343'
+origen: Jeneral
+versions:
+-   accented: periodiko
+    ladino: periodiko
+    translations:
+        english:
+        - periodic
+        - periodical
+        french: ''
+        portuguese: ''
+        spanish: periódico
+        turkish: dergi; düzenli aralıklarla tekrarlanan

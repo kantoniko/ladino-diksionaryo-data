@@ -1,0 +1,19 @@
+examples:
+-   ladino: Entre los djudios de Izmir ay una tradision ke es unika en el mundo entero.
+grammar: null
+id: '2349'
+origen: Jeneral
+versions:
+-   accented: tradision
+    ladino: tradision
+    translations:
+        english: tradition
+        french: ''
+        portuguese: ''
+        spanish: tradición
+        turkish:
+        - gelenek
+        - anane
+
+# tradision,Entre los djudios de Izmir ay una tradision ke es unika en el mundo entero.,tradición,tradition,"gelenek, anane",Jeneral,2349,,
+# tradision,"Entre los djudios de Izmir, ay una tradision ke es unika en el mundo entero.",tradición,tradition,"gelenek, anane",Jeneral,2350,,

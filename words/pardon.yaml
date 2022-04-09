@@ -1,0 +1,18 @@
+examples:
+-   ladino: Demando una otra vez pardon a todos.
+grammar: null
+id: '2339'
+origen: Jeneral
+versions:
+-   accented: pardon
+    ladino: pardon
+    translations:
+        english:
+        - pardon
+        - forgiveness
+        french: ''
+        portuguese: ''
+        spanish: perdón
+        turkish:
+        - af
+        - pardon

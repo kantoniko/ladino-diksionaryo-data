@@ -1,0 +1,17 @@
+examples:
+-   ladino: Djudios i Moros en la literatura espanyola...
+grammar: null
+id: '2334'
+origen: Aki Yerushalayim
+versions:
+-   accented: moro
+    alternative-spelling:
+    -   accented: mora
+        ladino: mora
+    ladino: moro
+    translations:
+        english: Moorish
+        french: ''
+        portuguese: ''
+        spanish: moro / mora
+        turkish: Mağrıbî

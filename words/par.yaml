@@ -1,0 +1,16 @@
+examples:
+-   ladino: Me merki un par de kalsas.
+grammar: null
+id: '2338'
+origen: Jeneral
+versions:
+-   accented: par
+    ladino: par
+    translations:
+        english:
+        - pair
+        - couple
+        french: ''
+        portuguese: ''
+        spanish: par
+        turkish: çift

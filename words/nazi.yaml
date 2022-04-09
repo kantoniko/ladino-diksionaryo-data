@@ -1,0 +1,14 @@
+examples:
+-   ladino: Muestra famiya salvo de los nazis.
+grammar: null
+id: '2335'
+origen: Jeneral
+versions:
+-   accented: nazi
+    ladino: nazi
+    translations:
+        english: nazi
+        french: ''
+        portuguese: ''
+        spanish: nazi
+        turkish: nazi

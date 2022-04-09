@@ -1,0 +1,16 @@
+examples:
+-   ladino: Los orijinales estan en la biblioteka.
+grammar: null
+id: '2337'
+origen: Jeneral
+versions:
+-   accented: orijinal
+    ladino: orijinal
+    translations:
+        english: original
+        french: ''
+        portuguese: ''
+        spanish: original
+        turkish:
+        - orijinal
+        - özgün

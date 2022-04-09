@@ -1,0 +1,21 @@
+examples:
+-   ladino: Te felisito por el lavoro maraviyozo ke estas aziendo.
+grammar: adjective
+id: '2329'
+origen: Jeneral
+versions:
+-   accented: maraviyózo
+    alternative-spelling:
+    -   accented: maraviyóza
+        ladino: maraviyoza
+    ladino: maraviyozo
+    translations:
+        english: marvelous
+        french: ''
+        portuguese: ''
+        spanish:
+        - maravilloso
+        - maravillosa
+        turkish:
+        - harika
+        - fevkalade

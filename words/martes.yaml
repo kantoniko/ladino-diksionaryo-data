@@ -1,0 +1,16 @@
+examples:
+-   ladino: Va estar avierto Martes, Viernes i Alhad.
+grammar: null
+id: '2332'
+origen: Jeneral
+versions:
+-   accented: mártes
+    gender: masculine
+    ladino: martes
+    number: singular
+    translations:
+        english: Tuesday
+        french: ''
+        portuguese: ''
+        spanish: martes
+        turkish: Salı

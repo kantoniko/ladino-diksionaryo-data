@@ -1,0 +1,18 @@
+examples:
+-   ladino: Esta baza de informasion es un Archivo partikolar.
+grammar: null
+id: '2341'
+origen: Jeneral
+versions:
+-   accented: partikolar
+    ladino: partikolar
+    translations:
+        english:
+        - particular
+        - peculiar
+        french: ''
+        portuguese: ''
+        spanish: particular
+        turkish:
+        - mahsus
+        - özel; nev'i şahsına münhasır

@@ -1,0 +1,27 @@
+examples:
+-   ladino: Lo ke el padre del novyo pago al padre de la novya...
+grammar: null
+id: '2336'
+origen: Jeneral
+versions:
+-   accented: nóvio
+    alternative-spelling:
+    -   accented: nóvyo
+        ladino: novyo
+    -   accented: nóvia
+        ladino: novia
+    -   accented: nóvya
+        ladino: novya
+    ladino: novio
+    translations:
+        english:
+        - fiancé
+        - fiancée; newly-wed
+        french: ''
+        portuguese: ''
+        spanish:
+        - novio
+        - novia
+        turkish:
+        - nişanlı
+        - yeni evli

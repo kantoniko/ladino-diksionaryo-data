@@ -1,0 +1,14 @@
+examples:
+-   ladino: Los partisipantes veniyan para diskutir.
+grammar: null
+id: '2342'
+origen: Jeneral
+versions:
+-   accented: partisipante
+    ladino: partisipante
+    translations:
+        english: participant
+        french: ''
+        portuguese: ''
+        spanish: participante
+        turkish: iştirakçi
