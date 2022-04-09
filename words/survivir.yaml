@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1047'
+origen: Jeneral
+versions:
+-   accented: survivir
+    ladino: survivir
+    translations:
+        english: survive
+        french: ''
+        portuguese: ''
+        spanish: sobrevivir
+        turkish: hayatta kalmak

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1510'
+origen: Jeneral
+versions:
+-   accented: sujeto
+    ladino: sujeto
+    translations:
+        english: subject
+        french: ''
+        portuguese: ''
+        spanish:
+        - tema
+        - sujeto
+        turkish: konu

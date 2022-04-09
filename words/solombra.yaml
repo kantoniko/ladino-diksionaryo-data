@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1507'
+origen: Jeneral
+versions:
+-   accented: solombra
+    ladino: solombra
+    translations:
+        english: shadow
+        french: ''
+        portuguese: ''
+        spanish: sombra
+        turkish: gölge

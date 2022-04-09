@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1039'
+origen: Jeneral
+versions:
+-   accented: stilista
+    ladino: stilista
+    translations:
+        english: stylist
+        french: ''
+        portuguese: ''
+        spanish: estilista
+        turkish: stilist

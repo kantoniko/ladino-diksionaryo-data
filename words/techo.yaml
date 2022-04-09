@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1061'
+origen: Jeneral
+versions:
+-   accented: techo
+    ladino: techo
+    translations:
+        english:
+        - roof
+        - ceiling
+        french: ''
+        portuguese: ''
+        spanish: techo
+        turkish: tavan

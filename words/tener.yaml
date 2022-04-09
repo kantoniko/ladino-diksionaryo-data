@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1071'
+origen: Jeneral
+versions:
+-   accented: tener
+    ladino: tener
+    translations:
+        english:
+        - have
+        - hold
+        french: ''
+        portuguese: ''
+        spanish: tener
+        turkish:
+        - sahip olmak
+        - tutmak

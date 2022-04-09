@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1517'
+origen: Jeneral
+versions:
+-   accented: teknisyen
+    ladino: teknisyen
+    translations:
+        english: technician
+        french: ''
+        portuguese: ''
+        spanish: técnico
+        turkish: teknısyen

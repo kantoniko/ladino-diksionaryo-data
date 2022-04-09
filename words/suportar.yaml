@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1045'
+origen: Jeneral
+versions:
+-   accented: suportar
+    ladino: suportar
+    translations:
+        english:
+        - support
+        - endure
+        french: ''
+        portuguese: ''
+        spanish: soportar
+        turkish:
+        - destek olmak
+        - katlanmak

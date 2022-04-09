@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1058'
+origen: Jeneral
+versions:
+-   accented: tapon
+    ladino: tapon
+    translations:
+        english: lid
+        french: ''
+        portuguese: ''
+        spanish: tapón
+        turkish:
+        - kapak
+        - tipa

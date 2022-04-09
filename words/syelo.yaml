@@ -1,0 +1,19 @@
+examples:
+-   ladino: El sol briyava en el syelo.
+grammar: null
+id: '17'
+origen: Jeneral
+versions:
+-   accented: syélo
+    alternative-spelling:
+    -   accented: siélo
+        ladino: sielo
+    gender: masculine
+    ladino: syelo
+    number: singular
+    translations:
+        english: sky
+        french: ''
+        portuguese: ''
+        spanish: cielo
+        turkish: gök

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1043'
+origen: Jeneral
+versions:
+-   accented: supa
+    ladino: supa
+    translations:
+        english: soup
+        french: ''
+        portuguese: ''
+        spanish: sopa
+        turkish: çorba

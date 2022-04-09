@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1514'
+origen: Jeneral
+versions:
+-   accented: tambur
+    ladino: tambur
+    translations:
+        english: drum
+        french: ''
+        portuguese: ''
+        spanish: tambor
+        turkish: davul

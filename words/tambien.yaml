@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1055'
+origen: Jeneral
+versions:
+-   accented: tambien
+    ladino: tambien
+    translations:
+        english:
+        - too
+        - also
+        french: ''
+        portuguese: ''
+        spanish: también
+        turkish: dahi

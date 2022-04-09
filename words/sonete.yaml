@@ -1,0 +1,14 @@
+examples:
+-   ladino: Se oye el sonete de la kampana.
+grammar: null
+id: '1036'
+origen: Jeneral
+versions:
+-   accented: sonéte
+    ladino: sonete
+    translations:
+        english: sound
+        french: son
+        portuguese: ''
+        spanish: sonido
+        turkish: ses

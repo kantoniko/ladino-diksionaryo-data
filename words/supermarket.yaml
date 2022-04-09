@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1044'
+origen: Jeneral
+versions:
+-   accented: supermarket
+    ladino: supermarket
+    translations:
+        english: supermarket
+        french: ''
+        portuguese: ''
+        spanish: supermercado
+        turkish: süpermarket

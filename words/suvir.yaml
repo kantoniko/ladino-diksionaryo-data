@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1049'
+origen: Jeneral
+versions:
+-   accented: suvir
+    ladino: suvir
+    translations:
+        english:
+        - mount
+        - get up on
+        french: ''
+        portuguese: ''
+        spanish: montar
+        turkish: binmek

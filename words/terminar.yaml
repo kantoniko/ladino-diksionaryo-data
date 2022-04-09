@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1075'
+origen: Jeneral
+versions:
+-   accented: terminar
+    ladino: terminar
+    translations:
+        english:
+        - terminate
+        - finish
+        french: ''
+        portuguese: ''
+        spanish: terminar
+        turkish: bitirmek

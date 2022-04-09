@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1046'
+origen: Jeneral
+versions:
+-   accented: supozar
+    ladino: supozar
+    translations:
+        english: suppose
+        french: ''
+        portuguese: ''
+        spanish: suponer
+        turkish: farzetmek

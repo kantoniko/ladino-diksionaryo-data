@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1518'
+origen: Jeneral
+versions:
+-   accented: teksto
+    ladino: teksto
+    translations:
+        english: text
+        french: ''
+        portuguese: ''
+        spanish: texto
+        turkish: metin

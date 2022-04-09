@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1063'
+origen: Jeneral
+versions:
+-   accented: teja
+    ladino: teja
+    translations:
+        english: tile
+        french: ''
+        portuguese: ''
+        spanish: teja
+        turkish: kiremit

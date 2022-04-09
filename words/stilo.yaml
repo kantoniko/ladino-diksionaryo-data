@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1040'
+origen: Jeneral
+versions:
+-   accented: stilo
+    ladino: stilo
+    translations:
+        english:
+        - ballpoint pen
+        - fountain pen
+        french: ''
+        portuguese: ''
+        spanish: bolígrafo
+        turkish: tükenmez kalem

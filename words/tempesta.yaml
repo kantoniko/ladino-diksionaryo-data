@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1068'
+origen: Jeneral
+versions:
+-   accented: tempesta
+    alternative-spelling:
+    -   accented: furtuna
+        ladino: furtuna
+    ladino: tempesta
+    translations:
+        english: tempest
+        french: ''
+        portuguese: ''
+        spanish: tormenta
+        turkish: fırtına
