@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: Peinarse como una novia.
+grammar: verb
+id: '862'
+origen: Jeneral
+versions:
+-   accented: peynárse
+    ladino: peynarse
+    alternative-spelling:
+      - ladino: peinarse
+        accented: peinárse
+    translations:
+        english: comb oneself
+        french: se peigner
+        portuguese: pentear-se
+        spanish: peinarse
+        turkish: taranmak
