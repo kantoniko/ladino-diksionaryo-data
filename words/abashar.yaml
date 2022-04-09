@@ -1,0 +1,25 @@
+conjugations: {}
+examples:
+-   ladino: No keriyamos abashar i suvir las eskaleras.
+grammar: verb
+id: '2271'
+origen: Jeneral
+versions:
+-   accented: abashár
+    ladino: abashar
+    translations:
+        english:
+        - take down
+        - get down
+        - lower
+        french:
+        - descendre
+        - abaisser
+        portuguese:
+        - baixa
+        - queda
+        - download
+        spanish: bajar
+        turkish:
+        - indirmek
+        - inmek
