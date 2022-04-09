@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '168'
+origen: Jeneral
+versions:
+-   accented: basketbol
+    ladino: basketbol
+    translations:
+        english: basketball
+        french: ''
+        portuguese: ''
+        spanish: baloncesto
+        turkish: basketbol

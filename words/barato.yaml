@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '163'
+origen: Jeneral
+versions:
+-   accented: barato
+    ladino: barato
+    translations:
+        english: cheap
+        french: ''
+        portuguese: ''
+        spanish: barato
+        turkish: ucuz

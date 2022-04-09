@@ -1,0 +1,14 @@
+examples:
+-   ladino: Kada tadre se va al bar para tomar un aperitivo
+grammar: null
+id: '162'
+origen: Jeneral
+versions:
+-   accented: bar
+    ladino: bar
+    translations:
+        english: bar
+        french: ''
+        portuguese: ''
+        spanish: bar
+        turkish: bar

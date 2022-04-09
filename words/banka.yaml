@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '161'
+origen: Jeneral
+versions:
+-   accented: banka
+    ladino: banka
+    translations:
+        english: bank
+        french: ''
+        portuguese: ''
+        spanish: banco
+        turkish: banka

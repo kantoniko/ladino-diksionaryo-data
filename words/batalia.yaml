@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '170'
+origen: Jeneral
+versions:
+-   accented: batalia
+    ladino: batalia
+    translations:
+        english: battle
+        french: ''
+        portuguese: ''
+        spanish: batalla
+        turkish:
+        - muharebe
+        - çatışma

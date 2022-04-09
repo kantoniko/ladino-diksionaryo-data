@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1248'
+origen: Jeneral
+versions:
+-   accented: basho
+    ladino: basho
+    translations:
+        english:
+        - low
+        - mean
+        french: ''
+        portuguese: ''
+        spanish:
+        - bajo
+        - sórdido
+        turkish:
+        - alçak
+        - adí

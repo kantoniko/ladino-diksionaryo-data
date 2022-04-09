@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '165'
+origen: Jeneral
+versions:
+-   accented: barka motorizada
+    ladino: barka motorizada
+    translations:
+        english: motorboat
+        french: ''
+        portuguese: ''
+        spanish: motora
+        turkish: motorlu tekne

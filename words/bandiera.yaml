@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '160'
+origen: Jeneral
+versions:
+-   accented: bandiera
+    ladino: bandiera
+    translations:
+        english:
+        - banner
+        - flag
+        french: ''
+        portuguese: ''
+        spanish: bandera
+        turkish:
+        - bandıra
+        - sancak
+        - bayrak
