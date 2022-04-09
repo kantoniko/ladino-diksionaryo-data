@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '803'
+origen: Jeneral
+versions:
+-   accented: organizador
+    ladino: organizador
+    translations:
+        english: organizer
+        french: ''
+        portuguese: ''
+        spanish: organizador
+        turkish: organizatör

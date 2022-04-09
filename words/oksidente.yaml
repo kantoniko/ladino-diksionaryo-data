@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '788'
+origen: Jeneral
+versions:
+-   accented: oksidente
+    ladino: oksidente
+    translations:
+        english: west
+        french: ''
+        portuguese: ''
+        spanish: occidente
+        turkish: batı

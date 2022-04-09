@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1427'
+origen: Jeneral
+versions:
+-   accented: nostaljia
+    ladino: nostaljia
+    translations:
+        english: nostalgia
+        french: ''
+        portuguese: ''
+        spanish: nostalgia
+        turkish:
+        - özlem
+        - hasret

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1425'
+origen: Jeneral
+versions:
+-   accented: nasyon
+    ladino: nasyon
+    translations:
+        english: nation
+        french: ''
+        portuguese: ''
+        spanish: nación
+        turkish:
+        - millet
+        - ulus

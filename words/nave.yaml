@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '770'
+origen: Jeneral
+versions:
+-   accented: nave
+    alternative-spelling:
+    -   accented: vapor
+        ladino: vapor
+    ladino: nave
+    translations:
+        english: ship
+        french: ''
+        portuguese: ''
+        spanish: barco
+        turkish: gemi

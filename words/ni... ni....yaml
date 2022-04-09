@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '776'
+origen: Jeneral
+versions:
+-   accented: ni... ni...
+    ladino: ni... ni...
+    translations:
+        english: neither... nor
+        french: ''
+        portuguese: ''
+        spanish:
+        - tampoco
+        - ni... ni...
+        turkish: ne... ne...

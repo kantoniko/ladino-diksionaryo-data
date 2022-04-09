@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '791'
+origen: Jeneral
+versions:
+-   accented: ombre
+    ladino: ombre
+    translations:
+        english: man
+        french: ''
+        portuguese: ''
+        spanish: hombre
+        turkish:
+        - adam
+        - erkek

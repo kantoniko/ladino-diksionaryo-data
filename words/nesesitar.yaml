@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '775'
+origen: Jeneral
+versions:
+-   accented: nesesitar
+    alternative-spelling:
+    -   accented: tener menester
+        ladino: tener menester
+    ladino: nesesitar
+    translations:
+        english: need
+        french: ''
+        portuguese: ''
+        spanish: necesitar
+        turkish:
+        - ihtiyacı olmak
+        - gerekmek

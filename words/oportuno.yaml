@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '796'
+origen: Jeneral
+versions:
+-   accented: oportuno
+    ladino: oportuno
+    translations:
+        english: opportune
+        french: ''
+        portuguese: ''
+        spanish: oportuno
+        turkish:
+        - mümkün
+        - uygun

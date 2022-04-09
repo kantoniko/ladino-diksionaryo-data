@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '769'
+origen: Jeneral
+versions:
+-   accented: natura
+    ladino: natura
+    translations:
+        english: nature
+        french: ''
+        portuguese: ''
+        spanish: naturaleza
+        turkish:
+        - tabiat
+        - doğa

@@ -1,0 +1,15 @@
+examples:
+-   ladino: La nona, el nono, mizmo la vizina de ariva ke ya saviya ke va vinir doktor,
+        vinian a kaza.
+grammar: null
+id: '13'
+origen: Jeneral
+versions:
+-   accented: nono
+    ladino: nono
+    translations:
+        english: grandfather
+        french: ''
+        portuguese: ''
+        spanish: abuelo
+        turkish: dede

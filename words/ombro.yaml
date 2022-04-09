@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '792'
+origen: Jeneral
+versions:
+-   accented: ombro
+    ladino: ombro
+    translations:
+        english: shoulder
+        french: ''
+        portuguese: ''
+        spanish: hombro
+        turkish: omuz

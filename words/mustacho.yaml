@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '762'
+origen: Jeneral
+versions:
+-   accented: mustacho
+    ladino: mustacho
+    translations:
+        english: moustache
+        french: ''
+        portuguese: ''
+        spanish: bigote
+        turkish: bıyık

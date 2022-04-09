@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '772'
+origen: Jeneral
+versions:
+-   accented: negosio
+    alternative-spelling:
+    -   accented: echo
+        ladino: echo
+    ladino: negosio
+    translations:
+        english:
+        - business
+        - trade
+        french: ''
+        portuguese: ''
+        spanish: negocio
+        turkish: iş

@@ -1,0 +1,21 @@
+examples:
+-   ladino: 'Mis ermanos partieron, mozotros kedimos aki.
+
+        Se tomaron kon mozotros (mos bushkaron pleto).'
+grammar: null
+id: '1428'
+origen: Jeneral
+versions:
+-   accented: mozótros
+    alternative-spelling:
+    -   accented: mozótras
+        ladino: mozotras
+    ladino: mozotros
+    translations:
+        english:
+        - we
+        - us
+        french: ''
+        portuguese: ''
+        spanish: nosotros / nosotras
+        turkish: biz

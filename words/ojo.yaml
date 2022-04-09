@@ -1,0 +1,16 @@
+examples:
+-   ladino: El ojo ve, la alma dezea.
+grammar: null
+id: '787'
+origen: Jeneral
+versions:
+-   accented: ójo
+    gender: masculine
+    ladino: ojo
+    number: singular
+    translations:
+        english: eye
+        french: ''
+        portuguese: ''
+        spanish: ojo
+        turkish: göz

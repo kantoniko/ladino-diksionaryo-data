@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '793'
+origen: Jeneral
+versions:
+-   accented: operar
+    ladino: operar
+    translations:
+        english: operate
+        french: ''
+        portuguese: ''
+        spanish: operar
+        turkish: ameliyat etmek

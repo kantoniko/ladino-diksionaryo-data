@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '765'
+origen: Jeneral
+versions:
+-   accented: muzika
+    ladino: muzika
+    translations:
+        english: music
+        french: ''
+        portuguese: ''
+        spanish: música
+        turkish: müzik

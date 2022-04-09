@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '801'
+origen: Jeneral
+versions:
+-   accented: ordovres
+    alternative-spelling:
+    -   accented: apetites
+        ladino: apetites
+    ladino: ordovres
+    translations:
+        english:
+        - snacks
+        - titbits
+        french: ''
+        portuguese: ''
+        spanish: tapas
+        turkish:
+        - aperitif
+        - meze

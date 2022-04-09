@@ -1,0 +1,16 @@
+examples:
+-   ladino: Sovrebivieron el Olokosto ma kedaron sin nada.
+grammar: null
+id: '1430'
+origen: Jeneral
+versions:
+-   accented: olokósto
+    gender: masculine
+    ladino: olokosto
+    number: singular
+    translations:
+        english: holocaust
+        french: holocauste
+        portuguese: ''
+        spanish: holocausto
+        turkish: büyük can ve mal kaybı

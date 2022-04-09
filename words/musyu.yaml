@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '763'
+origen: Jeneral
+versions:
+-   accented: musyu
+    ladino: musyu
+    translations:
+        english: mister
+        french: ''
+        portuguese: ''
+        spanish: don
+        turkish: bay

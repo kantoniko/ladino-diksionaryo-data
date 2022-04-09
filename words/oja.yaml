@@ -1,0 +1,27 @@
+examples:
+-   ladino: 'Tiene muncha difikultad de inchir la sola oja en Djudeo-Espanyol.
+
+        Ya abolti la oja , unika solusion , i no guadri aborrision.
+
+        Los sestos de ruda, kon las ojas i flores...'
+grammar: null
+id: '786'
+origen: Jeneral
+versions:
+-   accented: ója
+    alternative-spelling:
+    -   accented: foja
+        ladino: foja
+    gender: feminine
+    ladino: oja
+    number: singular
+    translations:
+        english:
+        - leaf
+        - page (of book)
+        french: ''
+        portuguese: ''
+        spanish: hoja
+        turkish:
+        - yaprak
+        - sayfa

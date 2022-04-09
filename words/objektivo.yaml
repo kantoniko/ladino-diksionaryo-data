@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '780'
+origen: Jeneral
+versions:
+-   accented: objektivo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: objektivo
+    translations:
+        english: objective
+        french: ''
+        portuguese: ''
+        spanish: objetivo / a
+        turkish: objektif

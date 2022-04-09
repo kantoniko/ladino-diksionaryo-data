@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '778'
+origen: Jeneral
+versions:
+-   accented: nombre
+    ladino: nombre
+    translations:
+        english: name
+        french: ''
+        portuguese: ''
+        spanish: nombre
+        turkish: isim

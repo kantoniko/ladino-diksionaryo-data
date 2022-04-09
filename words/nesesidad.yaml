@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '774'
+origen: Jeneral
+versions:
+-   accented: nesesidad
+    ladino: nesesidad
+    translations:
+        english: necessity
+        french: ''
+        portuguese: ''
+        spanish: necesidad
+        turkish: ihtiyaç

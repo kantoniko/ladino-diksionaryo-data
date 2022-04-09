@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '781'
+origen: Jeneral
+versions:
+-   accented: objekto
+    ladino: objekto
+    translations:
+        english: object
+        french: ''
+        portuguese: ''
+        spanish: objeto
+        turkish: cisim

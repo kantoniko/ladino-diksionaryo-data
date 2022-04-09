@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '794'
+origen: Jeneral
+versions:
+-   accented: operetta
+    ladino: operetta
+    translations:
+        english: operetta
+        french: ''
+        portuguese: ''
+        spanish: zarzuela
+        turkish:
+        - operet
+        - opera komik

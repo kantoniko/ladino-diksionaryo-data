@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '783'
+origen: Jeneral
+versions:
+-   accented: ochen
+    ladino: ochen
+    translations:
+        english: eighth
+        french: ''
+        portuguese: ''
+        spanish: octavo / a
+        turkish: sekizinci

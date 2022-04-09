@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '768'
+origen: Jeneral
+versions:
+-   accented: nariz
+    ladino: nariz
+    translations:
+        english: nose
+        french: ''
+        portuguese: ''
+        spanish: nariz
+        turkish: burun

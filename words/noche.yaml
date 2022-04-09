@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '777'
+origen: Jeneral
+versions:
+-   accented: noche
+    ladino: noche
+    translations:
+        english: night
+        french: ''
+        portuguese: ''
+        spanish: noche
+        turkish: gece

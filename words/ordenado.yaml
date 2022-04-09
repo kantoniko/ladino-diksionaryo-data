@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '800'
+origen: Jeneral
+versions:
+-   accented: ordenado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: ordenado
+    translations:
+        english: orderly
+        french: ''
+        portuguese: ''
+        spanish: ordenado / a
+        turkish: düzenli

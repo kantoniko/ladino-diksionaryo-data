@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '802'
+origen: Jeneral
+versions:
+-   accented: oreja
+    ladino: oreja
+    translations:
+        english: ear
+        french: ''
+        portuguese: ''
+        spanish: oreja
+        turkish: kulak

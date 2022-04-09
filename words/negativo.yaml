@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '771'
+origen: Jeneral
+versions:
+-   accented: negativo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: negativo
+    translations:
+        english: negative
+        french: ''
+        portuguese: ''
+        spanish: negativo / a
+        turkish:
+        - menfî
+        - olumsuz

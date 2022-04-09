@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '785'
+origen: Jeneral
+versions:
+-   accented: ogurar
+    ladino: ogurar
+    translations:
+        english: augur
+        french: ''
+        portuguese: ''
+        spanish: augurar
+        turkish:
+        - dilemek
+        - temenni etmek
