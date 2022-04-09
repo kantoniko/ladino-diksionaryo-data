@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1707'
+origen: Jeneral
+versions:
+-   accented: detener
+    ladino: detener
+    translations:
+        english:
+        - stop
+        - hold back
+        french: ''
+        portuguese: ''
+        spanish: detener
+        turkish: alıkoymak

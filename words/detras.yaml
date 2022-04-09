@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1708'
+origen: Jeneral
+versions:
+-   accented: detras
+    alternative-spelling:
+    -   accented: despues
+        ladino: despues
+    ladino: detras
+    translations:
+        english:
+        - posterior
+        - subsequent
+        french: ''
+        portuguese: ''
+        spanish: posterior
+        turkish:
+        - arka
+        - sonra
