@@ -7,7 +7,7 @@ categories:
 versions:
   - ladino: Inglez
     accented: Inglez
-    #gender: masculine feminine
+    gender: NA # masculine feminine
     number: singular
 
     translations:

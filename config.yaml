@@ -26,6 +26,7 @@ gramatika:
 gender:
   - feminine
   - masculine
+  - NA
 numero:
   - singular
   - plural

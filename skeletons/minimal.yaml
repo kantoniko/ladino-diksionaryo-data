@@ -10,7 +10,7 @@ categories:
 versions:
   - ladino:
     #accented:
-    #gender: masculine feminine
+    #gender: NA # masculine feminine
     #number: singular plural
 
     #alternative-spelling:

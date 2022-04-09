@@ -7,7 +7,7 @@ categories:
 versions:
   - ladino: arabo
     accented: arabo
-    #gender: masculine feminine
+    gender: NA # masculine feminine
     number: singular
 
     translations:
