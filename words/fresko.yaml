@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '438'
+origen: Jeneral
+versions:
+-   accented: fresko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: fresko
+    translations:
+        english: fresh
+        french: ''
+        portuguese: ''
+        spanish: fresco / a
+        turkish:
+        - serin
+        - taze

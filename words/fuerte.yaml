@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '445'
+origen: Jeneral
+versions:
+-   accented: fuerte
+    ladino: fuerte
+    translations:
+        english: strong
+        french: ''
+        portuguese: ''
+        spanish: fuerte
+        turkish: kuvvetli
+
+# fuerte,,fuerte,strong,kuvvetli,Jeneral,445,,
+# fuerte (kreatura),,travieso,naughty,yaramaz,Jeneral,446,,

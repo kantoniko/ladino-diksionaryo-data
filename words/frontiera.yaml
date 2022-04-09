@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '441'
+origen: Jeneral
+versions:
+-   accented: frontiera
+    ladino: frontiera
+    translations:
+        english: frontier
+        french: ''
+        portuguese: ''
+        spanish: frontera
+        turkish: sınır

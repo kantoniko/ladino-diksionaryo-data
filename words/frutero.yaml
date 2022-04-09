@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '443'
+origen: Jeneral
+versions:
+-   accented: frutero
+    ladino: frutero
+    translations:
+        english: fruit seller
+        french: ''
+        portuguese: ''
+        spanish: frutería
+        turkish: meyvaci

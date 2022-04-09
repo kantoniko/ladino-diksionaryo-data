@@ -1,0 +1,16 @@
+examples:
+-   ladino: Lo mas de las frutas sekas vienen de Turkiya.
+grammar: null
+id: '442'
+origen: Jeneral
+versions:
+-   accented: frúta
+    gender: feminine
+    ladino: fruta
+    number: singular
+    translations:
+        english: fruit
+        french: fruit
+        portuguese: fruta
+        spanish: fruta
+        turkish: meyva
