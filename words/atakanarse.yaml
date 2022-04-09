@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: -Bueno, me vistire i me atakanare, i salimos a kaminar.
+grammar: verb
+id: '2865'
+origen: Jeneral
+versions:
+-   accented: atakanárse
+    ladino: atakanarse
+    translations:
+        english: dress up
+        french: s'enjoliver
+        portuguese: arrumar-se
+        spanish: acicalarse
+        turkish: giyinip kuşanmak
