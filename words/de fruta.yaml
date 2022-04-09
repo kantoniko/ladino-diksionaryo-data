@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '225'
+origen: Jeneral
+versions:
+-   accented: de fruta
+    ladino: de fruta
+    translations:
+        english: fruit (tree)
+        french: ''
+        portuguese: ''
+        spanish: frutal
+        turkish: meyva (ağacı)

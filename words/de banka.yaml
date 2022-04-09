@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '224'
+origen: Jeneral
+versions:
+-   accented: de banka
+    ladino: de banka
+    translations:
+        english: financial
+        french: ''
+        portuguese: ''
+        spanish: bancario
+        turkish: banka ile ilgili

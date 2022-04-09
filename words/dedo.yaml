@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '228'
+origen: Jeneral
+versions:
+-   accented: dedo
+    ladino: dedo
+    translations:
+        english: finger
+        french: ''
+        portuguese: ''
+        spanish: dedo
+        turkish: parmak

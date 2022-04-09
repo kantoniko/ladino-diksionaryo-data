@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1261'
+origen: Jeneral
+versions:
+-   accented: defunkto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: defunkto
+    translations:
+        english: deceased
+        french: ''
+        portuguese: ''
+        spanish: difunto / a
+        turkish:
+        - rahmetli
+        - ölü
