@@ -1,6 +1,8 @@
 examples:
 -   ladino: Los ajenos azen mas ke los serkanos. (Neh.)
-grammar: adj.+ m/f
+commet:
+  - grammar was adj.+ m/f
+grammar: null
 id: '51'
 origen: Jeneral
 versions:

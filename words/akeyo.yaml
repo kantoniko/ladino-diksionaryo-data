@@ -1,7 +1,9 @@
 examples:
 -   ladino: Ansina pasavamos los alhades en akeyos diyas ke no aviya televizion o
         video.
-grammar: m+pron.
+comments:
+  - grammar was m+pron.
+grammar: null
 id: '53'
 origen: Jeneral
 versions:
