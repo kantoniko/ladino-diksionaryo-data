@@ -1,0 +1,22 @@
+conjugations: {}
+examples:
+-   ladino: Estamos perkurando para mantener i adelantar la konosensya de esta lingua
+        i de muesta ermoza erensya kultural...
+grammar: verb
+id: '1571'
+origen: Jeneral
+versions:
+-   accented: adelantár
+    ladino: adelantar
+    translations:
+        english:
+        - advance
+        - make progress
+        french:
+        - avancer
+        - faire progresser
+        portuguese: avançar
+        spanish: adelantar
+        turkish:
+        - ilerlemek
+        - ilerletmek
