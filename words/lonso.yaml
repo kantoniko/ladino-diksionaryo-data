@@ -1,0 +1,32 @@
+grammar: noun
+origen: NA
+categories:
+  - animales
+
+versions:
+  - ladino: lonso
+    gender: masculine
+    number: singular
+
+    translations:
+        english: bear
+        french: ''
+        hebrew: דוב
+        portuguese: ''
+        spanish: oso
+        turkish: ''
+
+  - ladino: lonsos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: beers
+        french: ''
+        hebrew: דובים
+        portuguese: ''
+        spanish: osos
+        turkish: ''
+
+examples: []
+
