@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '966'
+origen: Jeneral
+versions:
+-   accented: saltar
+    ladino: saltar
+    translations:
+        english:
+        - leap
+        - jump
+        french: ''
+        portuguese: ''
+        spanish: saltar
+        turkish:
+        - atlamak
+        - sıçramak

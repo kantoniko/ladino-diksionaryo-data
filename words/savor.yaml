@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '971'
+origen: Jeneral
+versions:
+-   accented: savor
+    ladino: savor
+    translations:
+        english: taste
+        french: ''
+        portuguese: ''
+        spanish: sabor
+        turkish: tad

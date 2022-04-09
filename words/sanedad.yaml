@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1494'
+origen: Jeneral
+versions:
+-   accented: sanedad
+    ladino: sanedad
+    translations:
+        english: health
+        french: ''
+        portuguese: ''
+        spanish:
+        - sanıdad
+        - salud
+        turkish: sıhhat

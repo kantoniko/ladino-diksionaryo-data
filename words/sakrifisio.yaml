@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '963'
+origen: Jeneral
+versions:
+-   accented: sakrifisio
+    ladino: sakrifisio
+    translations:
+        english: sacrifice
+        french: ''
+        portuguese: ''
+        spanish: sacrificio
+        turkish: fedakârlık; kurban

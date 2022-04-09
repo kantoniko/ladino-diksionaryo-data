@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '962'
+origen: Jeneral
+versions:
+-   accented: ruvio
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: ruvio
+    translations:
+        english: red-haired
+        french: ''
+        portuguese: ''
+        spanish: pelirrojo / a
+        turkish: kızıl saçlı

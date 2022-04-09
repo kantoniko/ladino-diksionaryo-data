@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '960'
+origen: Jeneral
+versions:
+-   accented: rovar
+    ladino: rovar
+    translations:
+        english: steal
+        french: ''
+        portuguese: ''
+        spanish: robar
+        turkish: çalmak

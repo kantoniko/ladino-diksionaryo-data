@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '984'
+origen: Jeneral
+versions:
+-   accented: sensia
+    ladino: sensia
+    translations:
+        english: science
+        french: ''
+        portuguese: ''
+        spanish: ciencia
+        turkish: bilim

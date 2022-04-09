@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '985'
+origen: Jeneral
+versions:
+-   accented: senso
+    ladino: senso
+    translations:
+        english: sense
+        french: ''
+        portuguese: ''
+        spanish: sentido
+        turkish:
+        - anlam
+        - duygu

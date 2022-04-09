@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '965'
+origen: Jeneral
+versions:
+-   accented: salir
+    ladino: salir
+    translations:
+        english: go out
+        french: ''
+        portuguese: ''
+        spanish: salir
+        turkish: çıkmak

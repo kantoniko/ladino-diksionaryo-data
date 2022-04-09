@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '958'
+origen: Jeneral
+versions:
+-   accented: rompe kavesa
+    ladino: rompe kavesa
+    translations:
+        english: puzzle
+        french: ''
+        portuguese: ''
+        spanish: rompecabezas
+        turkish: bilmece

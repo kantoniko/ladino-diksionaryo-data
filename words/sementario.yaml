@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '981'
+origen: Jeneral
+versions:
+-   accented: sementario
+    alternative-spelling:
+    -   accented: betahayim
+        ladino: betahayim
+    ladino: sementario
+    translations:
+        english: cemetery
+        french: ''
+        portuguese: ''
+        spanish: cementerio
+        turkish: mezarlık

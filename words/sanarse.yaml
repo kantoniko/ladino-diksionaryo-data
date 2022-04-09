@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '968'
+origen: Jeneral
+versions:
+-   accented: sanarse
+    ladino: sanarse
+    translations:
+        english: recover
+        french: ''
+        portuguese: ''
+        spanish: curarse
+        turkish: iyileşmek

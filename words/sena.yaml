@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '982'
+origen: Jeneral
+versions:
+-   accented: sena
+    ladino: sena
+    translations:
+        english: dinner
+        french: ''
+        portuguese: ''
+        spanish: cena
+        turkish: akşam yemeği

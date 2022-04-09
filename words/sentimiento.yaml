@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '986'
+origen: Jeneral
+versions:
+-   accented: sentimiento
+    ladino: sentimiento
+    translations:
+        english: feeling
+        french: ''
+        portuguese: ''
+        spanish: sentimiento
+        turkish: duygu

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '977'
+origen: Jeneral
+versions:
+-   accented: sekreter
+    ladino: sekreter
+    translations:
+        english: secretary
+        french: ''
+        portuguese: ''
+        spanish: secretario / a
+        turkish: sekreter

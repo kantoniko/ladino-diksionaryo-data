@@ -1,0 +1,15 @@
+comments:
+- 'grammar: a la'
+examples: []
+grammar: null
+id: '1550'
+origen: Jeneral
+versions:
+-   accented: roves
+    ladino: roves
+    translations:
+        english: reverse
+        french: ''
+        portuguese: ''
+        spanish: revés
+        turkish: tersine

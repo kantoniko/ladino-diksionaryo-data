@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '969'
+origen: Jeneral
+versions:
+-   accented: sangre
+    ladino: sangre
+    translations:
+        english: blood
+        french: ''
+        portuguese: ''
+        spanish: sangre
+        turkish: kan

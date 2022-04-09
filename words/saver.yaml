@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '970'
+origen: Jeneral
+versions:
+-   accented: saver
+    ladino: saver
+    translations:
+        english: know
+        french: ''
+        portuguese: ''
+        spanish: saber
+        turkish: bilmek

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1495'
+origen: Jeneral
+versions:
+-   accented: sapato
+    ladino: sapato
+    translations:
+        english: slipper
+        french: ''
+        portuguese: ''
+        spanish: zapatilla
+        turkish:
+        - terlik
+        - çarık

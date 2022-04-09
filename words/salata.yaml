@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1493'
+origen: Jeneral
+versions:
+-   accented: salata
+    ladino: salata
+    translations:
+        english: salad
+        french: ''
+        portuguese: ''
+        spanish: ensalada
+        turkish: salata
