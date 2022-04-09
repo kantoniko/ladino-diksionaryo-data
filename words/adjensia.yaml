@@ -1,0 +1,16 @@
+examples:
+-   ladino: Me fui a la adjensia de viaje para merkar un bilyeto de avion.
+grammar: null
+id: '36'
+origen: Jeneral
+versions:
+-   accented: adjénsia
+    gender: feminine
+    ladino: adjensia
+    number: singular
+    translations:
+        english: agency
+        french: agence
+        portuguese: agência
+        spanish: agencia
+        turkish: ajans
