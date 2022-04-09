@@ -13,7 +13,37 @@ versions:
         spanish: gustar
         turkish: hoşlanmak
 
+  - ladino: plazer
+    accented: plazér
+    grammar: noun
+    translations:
+        english: pleasure
+        french: ''
+        portuguese: ''
+        spanish: placer
+        turkish: memnuniyet
+  - ladino: plazer
+    accented: plazér
+    translations:
+        english: please, be pleasing
+        french: ''
+        portuguese: ''
+        spanish: gustar, placer
+        turkish: hoşlanmak, hoşuna gitmek
+  - ladino: plazer a...
+    accented: plazér a...
+    translations:
+        english: be pleasing to
+        french: ''
+        portuguese: ''
+        spanish: gustar a...
+        turkish: hoşuna gitmek
+
 conjugations: {}
 examples:
   - ladino: A las kreaturas, les plaze la chikolata.
+  - ladino: Me izo plazer de konoserlo.
+  - ladino: Me plaze estar en buena kompanyia.
+  - ladino: Kreyo ke yo, le agrado solo a mi mama.
+  - ladino: Les plazgo a los elevos, sovre todo kuando termino la klasa.'
 
