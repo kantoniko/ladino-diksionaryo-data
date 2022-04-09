@@ -2,12 +2,20 @@ grammar: null
 # verb noun
 origen: Ladinokomunita
 comments: []
+categories:
+  - animales
+  - lavoro
 
 versions:
   - ladino:
     #accented:
-    #gender: masculine
-    #number: singular
+    #gender: masculine feminine
+    #number: singular plural
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
 
     translations:
       english: ''
