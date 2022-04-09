@@ -1,0 +1,18 @@
+examples:
+-   ladino: Mos eskrivyo en protestando la aksion del governo en Miami.
+grammar: null
+id: '64'
+origen: Jeneral
+versions:
+-   accented: aksión
+    gender: feminine
+    ladino: aksion
+    number: singular
+    translations:
+        english: action
+        french: ''
+        portuguese: ''
+        spanish: acción
+        turkish:
+        - hareket
+        - eylem; hisse
