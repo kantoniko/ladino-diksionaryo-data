@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1732'
+origen: Jeneral
+versions:
+-   accented: djuntos
+    ladino: djuntos
+    translations:
+        english:
+        - joined
+        - together
+        french: ''
+        portuguese: ''
+        spanish: junto - s (pl.)
+        turkish: beraber
