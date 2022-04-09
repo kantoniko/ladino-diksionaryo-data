@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: 'Kero ser kapachi de kantar i meldar en djudéo-espanyól i yídish. '
+grammar: verb
+id: '713'
+origen: Jeneral
+versions:
+-   accented: meldar
+    ladino: meldar
+    translations:
+        english: read
+        french: lire
+        portuguese: ler
+        spanish: leer
+        turkish: okumak
