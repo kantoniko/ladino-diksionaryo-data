@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '339'
+origen: Jeneral
+versions:
+-   accented: entornar
+    ladino: entornar
+    translations:
+        english:
+        - surround
+        - encircle
+        french: ''
+        portuguese: ''
+        spanish: rodear
+        turkish:
+        - çevirmek
+        - kuşatmak

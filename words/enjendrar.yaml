@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1306'
+origen: Jeneral
+versions:
+-   accented: enjendrar
+    ladino: enjendrar
+    translations:
+        english:
+        - beget
+        - breed
+        french: ''
+        portuguese: ''
+        spanish: engendrar
+        turkish: dünyaya getirmek

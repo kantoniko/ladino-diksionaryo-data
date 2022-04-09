@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '314'
+origen: Jeneral
+versions:
+-   accented: empiegado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: empiegado
+    translations:
+        english: employee
+        french: ''
+        portuguese: ''
+        spanish: empleado / a
+        turkish: müstahdem

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1307'
+origen: Jeneral
+versions:
+-   accented: inkluir
+    ladino: inkluir
+    translations:
+        english: include
+        french: ''
+        portuguese: ''
+        spanish: incluir
+        turkish: dahil etmek

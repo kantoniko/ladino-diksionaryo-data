@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '344'
+origen: Jeneral
+versions:
+-   accented: enventar
+    ladino: enventar
+    translations:
+        english: invent
+        french: ''
+        portuguese: ''
+        spanish: inventar
+        turkish: icadetmek

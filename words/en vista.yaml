@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '321'
+origen: Jeneral
+versions:
+-   accented: en vista
+    alternative-spelling:
+    -   accented: pishin
+        ladino: pishin
+    ladino: en vista
+    translations:
+        english: at once
+        french: ''
+        portuguese: ''
+        spanish: en seguida
+        turkish:
+        - hemen
+        - derhal

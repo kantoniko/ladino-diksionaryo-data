@@ -1,0 +1,14 @@
+examples:
+-   ladino: Este enverano ize un viaje a los Balkanes.
+grammar: null
+id: '345'
+origen: Jeneral
+versions:
+-   accented: enverano
+    ladino: enverano
+    translations:
+        english: summer
+        french: été
+        portuguese: ''
+        spanish: verano
+        turkish: yaz

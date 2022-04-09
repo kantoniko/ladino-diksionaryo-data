@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '336'
+origen: Jeneral
+versions:
+-   accented: enterrar
+    ladino: enterrar
+    translations:
+        english: bury
+        french: ''
+        portuguese: ''
+        spanish: enterrar
+        turkish: gömmek

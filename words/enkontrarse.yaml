@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '328'
+origen: Jeneral
+versions:
+-   accented: enkontrarse
+    ladino: enkontrarse
+    translations:
+        english:
+        - find
+        - meet
+        french: ''
+        portuguese: ''
+        spanish: encontrarse
+        turkish:
+        - buluşmak
+        - karşılaşmak

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '324'
+origen: Jeneral
+versions:
+-   accented: enformatika
+    ladino: enformatika
+    translations:
+        english: computer science
+        french: ''
+        portuguese: ''
+        spanish: informática
+        turkish: enformatik

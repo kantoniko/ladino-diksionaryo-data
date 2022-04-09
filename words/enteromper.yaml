@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '335'
+origen: Jeneral
+versions:
+-   accented: enteromper
+    ladino: enteromper
+    translations:
+        english: interrupt
+        french: ''
+        portuguese: ''
+        spanish: interrumpir
+        turkish: kesmek

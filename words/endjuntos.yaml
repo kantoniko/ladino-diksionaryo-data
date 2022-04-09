@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1302'
+origen: Jeneral
+versions:
+-   accented: endjuntos
+    ladino: endjuntos
+    translations:
+        english:
+        - together
+        - at the same time
+        french: ''
+        portuguese: ''
+        spanish:
+        - junto
+        - juntamente
+        turkish:
+        - beraber
+        - hep birlikte

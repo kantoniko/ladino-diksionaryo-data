@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1300'
+origen: Jeneral
+versions:
+-   accented: empesijo
+    ladino: empesijo
+    translations:
+        english: beginning
+        french: ''
+        portuguese: ''
+        spanish: comienzo
+        turkish: başlangıç

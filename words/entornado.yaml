@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '338'
+origen: Jeneral
+versions:
+-   accented: entornado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: entornado
+    translations:
+        english: surrounded
+        french: ''
+        portuguese: ''
+        spanish: rodeado / a
+        turkish: çevrili

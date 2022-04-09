@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '313'
+origen: Jeneral
+versions:
+-   accented: empesar
+    ladino: empesar
+    translations:
+        english: begin
+        french: ''
+        portuguese: ''
+        spanish: empezar
+        turkish: başlamak

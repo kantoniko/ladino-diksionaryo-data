@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '340'
+origen: Jeneral
+versions:
+-   accented: entrafikado
+    alternative-spelling:
+    -   accented: komplikado
+        ladino: komplikado
+    ladino: entrafikado
+    translations:
+        english: intricate
+        french: ''
+        portuguese: ''
+        spanish: intrincado
+        turkish: karışık

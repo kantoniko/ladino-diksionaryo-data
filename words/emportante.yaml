@@ -1,0 +1,19 @@
+examples:
+-   ladino: El internet es muy importante para mantener bivo el ladino.
+grammar: adjective
+id: '315'
+origen: Jeneral
+versions:
+-   accented: emportánte
+    alternative-spelling:
+    -   accented: importánte
+        ladino: importante
+    ladino: emportante
+    translations:
+        english:
+        - important
+        - significant
+        french: ''
+        portuguese: ''
+        spanish: importante
+        turkish: önemli

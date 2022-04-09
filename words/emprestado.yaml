@@ -1,0 +1,19 @@
+examples:
+-   ladino: Kuando uno merka una gazeta, deve darla emprestada.
+grammar: adjective
+id: '317'
+origen: Jeneral
+versions:
+-   accented: emprestádo
+    alternative-spelling:
+    -   accented: emprestáda
+        ladino: emprestada
+    ladino: emprestado
+    translations:
+        english: borrowed
+        french:
+        - emprunté / empruntée
+        - prêté / prêtée
+        portuguese: emprestado / emprestada
+        spanish: prestado / prestada
+        turkish: ödünç

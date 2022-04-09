@@ -1,0 +1,21 @@
+examples: []
+grammar: null
+id: '1303'
+origen: Jeneral
+versions:
+-   accented: endriva
+    alternative-spelling:
+    -   accented: sovre
+        ladino: sovre
+    ladino: endriva
+    translations:
+        english:
+        - 'on'
+        - on top
+        - about
+        french: ''
+        portuguese: ''
+        spanish: sobre
+        turkish:
+        - üstünde
+        - hakkında

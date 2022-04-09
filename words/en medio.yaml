@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '318'
+origen: Jeneral
+versions:
+-   accented: en medio
+    ladino: en medio
+    translations:
+        english:
+        - in the middle
+        - obvious
+        french: ''
+        portuguese: ''
+        spanish: en medio
+        turkish: ortada

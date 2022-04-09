@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '337'
+origen: Jeneral
+versions:
+-   accented: enterrarse
+    ladino: enterrarse
+    translations:
+        english: be buried
+        french: ''
+        portuguese: ''
+        spanish: enterrarse
+        turkish: gömülmek

@@ -103,7 +103,7 @@ def main():
         # Palavra,Eshemplos,Espanyol,English,Turkish,Origen,id,Portuguese,French
         rd = csv.DictReader(fh, delimiter=',')
 
-        count = 10
+        count = 50
         for row in rd:
             ladino = row['Palavra']
             eshemplos = row.get('Eshemplos')
