@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: Ken se aharva kon sus manos ke no yore.
+grammar: verb
+id: '1580'
+origen: Jeneral
+versions:
+-   accented: aharvár
+    ladino: aharvar
+    translations:
+        english:
+        - strike
+        - beat
+        french: frapper
+        portuguese: ''
+        spanish:
+        - golpear
+        - pegar
+        turkish: vurmak
