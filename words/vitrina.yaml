@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2258'
+origen: Jeneral
+versions:
+-   accented: vitrina
+    ladino: vitrina
+    translations:
+        english:
+        - showplace
+        - showcase
+        french: ''
+        portuguese: ''
+        spanish: escaparate
+        turkish: vitrin

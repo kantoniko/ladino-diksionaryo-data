@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2256'
+origen: Jeneral
+versions:
+-   accented: viktima
+    ladino: viktima
+    translations:
+        english: victim
+        french: ''
+        portuguese: ''
+        spanish: víctima
+        turkish:
+        - kurban
+        - mağdur

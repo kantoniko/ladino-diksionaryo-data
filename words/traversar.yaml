@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2234'
+origen: Jeneral
+versions:
+-   accented: traversar
+    ladino: traversar
+    translations:
+        english: go across
+        french: ''
+        portuguese: ''
+        spanish: atravesar
+        turkish: karşıya geçmek

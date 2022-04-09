@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2235'
+origen: Jeneral
+versions:
+-   accented: trazera
+    ladino: trazera
+    translations:
+        english:
+        - back
+        - rear
+        french: ''
+        portuguese: ''
+        spanish: trasera
+        turkish: arka

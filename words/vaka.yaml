@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2246'
+origen: Jeneral
+versions:
+-   accented: vaka
+    ladino: vaka
+    translations:
+        english: cow
+        french: ''
+        portuguese: ''
+        spanish: vaca
+        turkish: inek

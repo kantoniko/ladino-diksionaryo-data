@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2250'
+origen: Jeneral
+versions:
+-   accented: ventozo
+    ladino: ventozo
+    translations:
+        english: windy
+        french: ''
+        portuguese: ''
+        spanish: ventoso
+        turkish: rüzgârlı

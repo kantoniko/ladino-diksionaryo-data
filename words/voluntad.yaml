@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2259'
+origen: Jeneral
+versions:
+-   accented: voluntad
+    ladino: voluntad
+    translations:
+        english: will
+        french: ''
+        portuguese: ''
+        spanish: voluntad
+        turkish: irade

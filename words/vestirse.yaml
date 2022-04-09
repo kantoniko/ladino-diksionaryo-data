@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2253'
+origen: Jeneral
+versions:
+-   accented: vestirse
+    ladino: vestirse
+    translations:
+        english:
+        - dress
+        - get dressed
+        french: ''
+        portuguese: ''
+        spanish: vestirse
+        turkish: giyinmek

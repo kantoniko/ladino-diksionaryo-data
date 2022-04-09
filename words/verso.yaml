@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2251'
+origen: Jeneral
+versions:
+-   accented: verso
+    ladino: verso
+    translations:
+        english: toward
+        french: ''
+        portuguese: ''
+        spanish: hacia
+        turkish: doğru

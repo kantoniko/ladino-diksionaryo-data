@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2245'
+origen: Jeneral
+versions:
+-   accented: urbano
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: urbano
+    translations:
+        english:
+        - urban
+        - refined
+        french: ''
+        portuguese: ''
+        spanish: urbano / a
+        turkish: şehirli

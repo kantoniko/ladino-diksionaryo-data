@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2231'
+origen: Jeneral
+versions:
+-   accented: tramvay
+    ladino: tramvay
+    translations:
+        english: streetcar
+        french: ''
+        portuguese: ''
+        spanish: tranvía
+        turkish: tramvay

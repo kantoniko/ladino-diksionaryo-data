@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2241'
+origen: Jeneral
+versions:
+-   accented: umiliar
+    alternative-spelling:
+    -   accented: arrebashar
+        ladino: arrebashar
+    ladino: umiliar
+    translations:
+        english: humiliate
+        french: ''
+        portuguese: ''
+        spanish: humillar
+        turkish: tahkir etmek

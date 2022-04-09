@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2255'
+origen: Jeneral
+versions:
+-   accented: vidro delantero
+    ladino: vidro delantero
+    translations:
+        english:
+        - windscreen
+        - windshield
+        french: ''
+        portuguese: ''
+        spanish: parabrisas
+        turkish: ön cam

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2243'
+origen: Jeneral
+versions:
+-   accented: unir
+    ladino: unir
+    translations:
+        english: unite
+        french: ''
+        portuguese: ''
+        spanish: unir
+        turkish: birleştirmek

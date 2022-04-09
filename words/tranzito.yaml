@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2233'
+origen: Jeneral
+versions:
+-   accented: tranzito
+    ladino: tranzito
+    translations:
+        english: transit
+        french: ''
+        portuguese: ''
+        spanish: transito
+        turkish: tranzit

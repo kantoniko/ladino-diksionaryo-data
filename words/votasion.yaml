@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2260'
+origen: Jeneral
+versions:
+-   accented: votasion
+    ladino: votasion
+    translations:
+        english:
+        - vote
+        - voting
+        french: ''
+        portuguese: ''
+        spanish: votación
+        turkish: oylama
