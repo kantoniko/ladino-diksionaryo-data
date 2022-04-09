@@ -7,7 +7,6 @@ categories:
 versions:
   - ladino: pasharo
     accented: pasharó
-
     gender: masculine
     number: singular
 
@@ -20,7 +19,6 @@ versions:
 
   - ladino: pasharos
     accented: pasharós
-
     gender: masculine
     number: plural
 

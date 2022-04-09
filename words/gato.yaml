@@ -1,13 +1,35 @@
-examples: []
-grammar: null
+grammar: noun
 id: '453'
 origen: Jeneral
+categories:
+  - animales
+
 versions:
--   accented: gato
-    ladino: gato
+  - ladino: gato
+    accented: gato
+    gender: masculine
+    number: singular
+
     translations:
         english: cat
         french: ''
+        hebrew: חתול
         portuguese: ''
         spanish: gato
         turkish: kedi
+
+  - ladino: gatos
+    accented: gatos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cats
+        french: ''
+        hebrew: חתולים
+        portuguese: ''
+        spanish: gatos
+        turkish: ''
+
+
+examples: []
