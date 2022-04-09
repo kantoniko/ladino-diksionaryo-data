@@ -1,0 +1,25 @@
+conjugations: {}
+examples:
+-   ladino: Abediguar famiyas, hazinos, guérfanos i bivdas.
+grammar: verb
+id: '2913'
+origen: Jeneral
+versions:
+-   accented: abediguár
+    ladino: abediguar
+    translations:
+        english:
+        - help
+        - assist
+        french:
+        - aider
+        - secourrir
+        - assister
+        portuguese:
+        - ajudar
+        - assistir
+        spanish:
+        - ayudar
+        - socorrer
+        - asistir
+        turkish: yardım etmek
