@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '106'
+origen: Jeneral
+versions:
+-   accented: apropiado
+    ladino: apropiado
+    translations:
+        english: appropriate
+        french: ''
+        portuguese: ''
+        spanish: propio
+        turkish: uygun

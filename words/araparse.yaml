@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '107'
+origen: Jeneral
+versions:
+-   accented: araparse
+    ladino: araparse
+    translations:
+        english: shave
+        french: ''
+        portuguese: ''
+        spanish: afeitarse
+        turkish: traş olmak

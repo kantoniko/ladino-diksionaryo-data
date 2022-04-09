@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1216'
+origen: Jeneral
+versions:
+-   accented: arabo
+    ladino: arabo
+    translations:
+        english: Arab
+        french: ''
+        portuguese: ''
+        spanish: árabe
+        turkish: arap

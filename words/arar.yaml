@@ -11,4 +11,7 @@ versions:
         french: labourer
         portuguese: ''
         spanish: arar
-        turkish: toprağı sürmek
+        turkish:
+          - toprağı sürmek
+          - çift sürmek
+
