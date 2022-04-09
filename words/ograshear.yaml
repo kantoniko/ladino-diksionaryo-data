@@ -1,0 +1,20 @@
+conjugations: {}
+examples:
+-   ladino: Ugrashear kon la djente no es "kolay"( fasil).
+grammar: verb
+id: '2943'
+origen: Estanbol
+versions:
+-   accented: ograsheár
+    alternative-spelling:
+    -   accented: ugrasheár
+        ladino: ugrashear
+    ladino: ograshear
+    translations:
+        english:
+        - strive
+        - struggle hard
+        french: s'efforcer
+        portuguese: ''
+        spanish: esforzarse
+        turkish: uğraşmak
