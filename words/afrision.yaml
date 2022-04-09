@@ -1,0 +1,23 @@
+examples:
+-   ladino: Grande fue la afrision de los djudios en Ayifto.
+grammar: null
+id: '1178'
+origen: Jeneral
+versions:
+-   accented: afrisión
+    alternative-spelling:
+    -   accented: afriisyón
+        ladino: afriisyon
+    gender: feminine
+    ladino: afrision
+    number: singular
+    translations:
+        english: deprivation; persecution
+        french: ''
+        portuguese: ''
+        spanish:
+        - privación
+        - penuría; persecución
+        turkish:
+        - mahrumiyet; zulüm
+        - eziyet
