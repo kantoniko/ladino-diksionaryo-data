@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2186'
 origen: Jeneral
+categories:
+  - numeros
+
 versions:
--   accented: sinko
-    ladino: sinko
+  - ladino: sinko
+    accented: sinko
+
     translations:
         english: five
         french: ''
         portuguese: ''
         spanish: cinco
         turkish: beş
+
+examples: []
