@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Te vas a tresalir por la ermozura del fostan ke te merkí.
+grammar: verb
+id: '2810'
+origen: Estanbol
+versions:
+-   accented: tresalírse
+    ladino: tresalirse
+    translations:
+        english: be delighted
+        french: ''
+        portuguese: ''
+        spanish: tener mucho gusto
+        turkish: çok sevinmek
