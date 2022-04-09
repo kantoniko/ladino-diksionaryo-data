@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1145'
+origen: Jeneral
+versions:
+-   accented: vijita
+    ladino: vijita
+    translations:
+        english: visit
+        french: ''
+        portuguese: ''
+        spanish: visita
+        turkish: misafirlik

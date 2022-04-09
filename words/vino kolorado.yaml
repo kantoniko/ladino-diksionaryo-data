@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1146'
+origen: Jeneral
+versions:
+-   accented: víno kolorádo
+    ladino: vino kolorado
+    translations:
+        english: red wine
+        french: vin rouge
+        portuguese: ''
+        spanish: vino tinto
+        turkish: kırmızı şarap

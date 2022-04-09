@@ -1,0 +1,15 @@
+examples:
+-   ladino: Kuando vamos a vijitar a algun lugar eya bushka a rovarse loke topa en
+        medyo.
+grammar: null
+id: '20'
+origen: Jeneral
+versions:
+-   accented: vijitar
+    ladino: vijitar
+    translations:
+        english: to visit
+        french: ''
+        portuguese: ''
+        spanish: visitar
+        turkish: ziyaret etmek
