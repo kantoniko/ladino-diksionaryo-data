@@ -1,0 +1,21 @@
+examples:
+-   ladino: 'Dizen (por reir) ke ay 300 maneras de gizar la anchua.
+
+        '
+grammar: null
+id: '2876'
+origen: Jeneral
+versions:
+-   accented: anchúa
+    alternative-spelling:
+    -   accented: anchúya
+        ladino: anchuya
+    gender: feminine
+    ladino: anchua
+    number: singular
+    translations:
+        english: anchovy
+        french: ''
+        portuguese: ''
+        spanish: anchoa
+        turkish: hamsi

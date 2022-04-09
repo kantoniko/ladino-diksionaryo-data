@@ -1,0 +1,21 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Dizen ke se deve tener siempre dos deyos en la meza.
+grammar: null
+id: '2924'
+origen: Jeneral
+versions:
+-   accented: déyo
+    alternative-spelling:
+    -   accented: déya
+        ladino: deya
+    ladino: deyo
+    translations:
+        english: piece (kuantos deyos? = how many?)
+        french: ''
+        portuguese: ''
+        spanish:
+        - de ello
+        - de ella
+        turkish: tane

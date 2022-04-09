@@ -1,0 +1,23 @@
+examples:
+-   ladino: 'En izmir, kuando keremos dizir ke una koza o el tiempo esta muy yelado,
+        dizimos "esta buzaná"! '
+grammar: null
+id: '2895'
+origen: Izmir
+versions:
+-   accented: buzaná
+    gender: feminine
+    ladino: buzana
+    number: singular
+    translations:
+        english:
+        - ice-box
+        - very cold place
+        french: ''
+        portuguese: ''
+        spanish:
+        - nevera
+        - lugar frío
+        turkish:
+        - buz kutusu
+        - çok soğuk yer

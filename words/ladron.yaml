@@ -1,0 +1,19 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: No kero ke se los roven los ladrones.
+grammar: null
+id: '2885'
+origen: Jeneral
+versions:
+-   accented: ladrón
+    alternative-spelling:
+    -   accented: ladróna
+        ladino: ladrona
+    ladino: ladron
+    translations:
+        english: thief
+        french: ''
+        portuguese: ''
+        spanish: ladrón / ladrona
+        turkish: hırsız

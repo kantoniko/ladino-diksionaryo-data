@@ -1,0 +1,16 @@
+comments:
+- 'grammar: m), mófa (f'
+examples:
+-   ladino: Ya le kresyó mofa.
+grammar: null
+id: '2875'
+origen: Jeneral
+versions:
+-   accented: mófo
+    ladino: mofo
+    translations:
+        english: mould
+        french: ''
+        portuguese: ''
+        spanish: moho
+        turkish: küf

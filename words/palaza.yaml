@@ -1,0 +1,16 @@
+examples:
+-   ladino: '"Duck - Canard" es PALAZA en Estanbol (Perahya).'
+grammar: null
+id: '2889'
+origen: Estanbol
+versions:
+-   accented: paláza
+    gender: feminine
+    ladino: palaza
+    number: singular
+    translations:
+        english: duck
+        french: ''
+        portuguese: ''
+        spanish: pato
+        turkish: ördek

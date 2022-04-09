@@ -1,0 +1,17 @@
+examples:
+-   ladino: En New York--diziyamos "indiano" para "turkey" tambien, komo en la kaza
+        de Matilda...
+grammar: null
+id: '2887'
+origen: Izmir
+versions:
+-   accented: indiáno
+    gender: masculine
+    ladino: indiano
+    number: singular
+    translations:
+        english: turkey
+        french: ''
+        portuguese: ''
+        spanish: pavo
+        turkish: hindi

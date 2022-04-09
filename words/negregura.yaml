@@ -1,0 +1,18 @@
+examples:
+-   ladino: Para su negregura no ay par.
+grammar: null
+id: '2905'
+origen: Jeneral
+versions:
+-   accented: negregúra
+    gender: feminine
+    ladino: negregura
+    number: singular
+    translations:
+        english:
+        - evil
+        - badness
+        french: ''
+        portuguese: ''
+        spanish: maldad
+        turkish: kötülük

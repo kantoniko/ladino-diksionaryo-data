@@ -1,0 +1,14 @@
+examples:
+-   ladino: El bodrum está mofozo.
+grammar: adjective
+id: '2877'
+origen: Jeneral
+versions:
+-   accented: mofózo
+    ladino: mofozo
+    translations:
+        english: mouldy
+        french: ''
+        portuguese: ''
+        spanish: mohoso
+        turkish: küflü

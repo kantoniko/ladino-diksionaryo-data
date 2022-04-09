@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ivan Fidorof fue el primer emprimador.
+grammar: null
+id: '2918'
+origen: Izmir
+versions:
+-   accented: emprimadór
+    gender: masculine
+    ladino: emprimador
+    number: singular
+    translations:
+        english: printer
+        french: ''
+        portuguese: ''
+        spanish: imprimidor
+        turkish: matbaacı

@@ -1,0 +1,18 @@
+examples:
+-   ladino: 'Los Djidios teniyan Magazenes de Manifatura [vender ropas]. '
+grammar: null
+id: '2879'
+origen: Jeneral
+versions:
+-   accented: magazén
+    gender: masculine
+    ladino: magazen
+    number: singular
+    translations:
+        english:
+        - shop
+        - store
+        french: ''
+        portuguese: ''
+        spanish: almacén
+        turkish: mağaza

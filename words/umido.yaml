@@ -1,0 +1,18 @@
+examples:
+-   ladino: El lavado kedó úmido.
+grammar: adjective
+id: '2907'
+origen: Jeneral
+versions:
+-   accented: úmido
+    ladino: umido
+    translations:
+        english:
+        - damp
+        - humid
+        french: ''
+        portuguese: ''
+        spanish: húmedo
+        turkish:
+        - nemli
+        - rutubetli

@@ -1,0 +1,21 @@
+examples:
+-   ladino: Keremos salvar muestra lingua presioza.
+grammar: adjective
+id: '2863'
+origen: Jeneral
+versions:
+-   accented: presiózo
+    alternative-spelling:
+    -   accented: presyózo
+        ladino: presyozo
+    ladino: presiozo
+    translations:
+        english:
+        - precious
+        - valuable
+        french: ''
+        portuguese: ''
+        spanish: precioso
+        turkish:
+        - değerli
+        - kıymetli

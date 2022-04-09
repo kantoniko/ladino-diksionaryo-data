@@ -1,0 +1,18 @@
+examples:
+-   ladino: Eskapi la seleksion de tekstos para mi "Introduksion a la lingua".
+grammar: null
+id: '2919'
+origen: Jeneral
+versions:
+-   accented: seleksión
+    gender: feminine
+    ladino: seleksion
+    number: singular
+    translations:
+        english: selection
+        french: ''
+        portuguese: ''
+        spanish: selección
+        turkish:
+        - seçim
+        - seçme

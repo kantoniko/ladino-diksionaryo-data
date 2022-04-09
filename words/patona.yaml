@@ -1,0 +1,18 @@
+examples:
+-   ladino: 'En Izmir "patona" es "duck" (Los diksionaryos no lo tienen!)
+
+        '
+grammar: null
+id: '2890'
+origen: Izmir
+versions:
+-   accented: patóna
+    gender: feminine
+    ladino: patona
+    number: singular
+    translations:
+        english: duck
+        french: ''
+        portuguese: ''
+        spanish: pato
+        turkish: ördek

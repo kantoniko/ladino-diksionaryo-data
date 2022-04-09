@@ -1,0 +1,21 @@
+examples:
+-   ladino: Un "bahshish" bueno al garson ya abastava para esto.
+grammar: null
+id: '2897'
+origen: Jeneral
+versions:
+-   accented: bahshísh
+    alternative-spelling:
+    -   accented: bakshísh
+        ladino: bakshish
+    gender: masculine
+    ladino: bahshish
+    number: singular
+    translations:
+        english:
+        - tip
+        - gratuity
+        french: ''
+        portuguese: ''
+        spanish: propina
+        turkish: bahşiş

@@ -1,0 +1,21 @@
+examples:
+-   ladino: Ni le esta deshando bever sigundo findjan.
+grammar: null
+id: '2854'
+origen: Estanbol
+versions:
+-   accented: findján
+    alternative-spelling:
+    -   accented: fildján
+        ladino: fildjan
+    -   accented: fidján
+        ladino: fidjan
+    gender: masculine
+    ladino: findjan
+    number: singular
+    translations:
+        english: cup
+        french: ''
+        portuguese: ''
+        spanish: taza
+        turkish: fincan

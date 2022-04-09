@@ -1,0 +1,16 @@
+examples:
+-   ladino: Se derrite el plomo una otra vez i se mete enbasho entre los pies.
+grammar: null
+id: '2892'
+origen: Jeneral
+versions:
+-   accented: plómo
+    gender: masculine
+    ladino: plomo
+    number: singular
+    translations:
+        english: lead
+        french: ''
+        portuguese: ''
+        spanish: plomo
+        turkish: kurşun

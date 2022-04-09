@@ -1,0 +1,19 @@
+examples:
+-   ladino: Se inche de gomo de kezo, guevo i pan mojado. I todo esto al orno....
+grammar: null
+id: '2856'
+origen: Jeneral
+versions:
+-   accented: gómo
+    gender: masculine
+    ladino: gomo
+    number: singular
+    translations:
+        english: filling
+        french: ''
+        portuguese: ''
+        spanish: relleno
+        turkish:
+        - dolgu
+        - harç
+        - malzeme

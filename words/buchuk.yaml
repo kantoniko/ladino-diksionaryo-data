@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mos nasieron buchukes.
+grammar: null
+id: '2903'
+origen: Estanbol
+versions:
+-   accented: buchúk
+    gender: masculine
+    ladino: buchuk
+    number: singular
+    translations:
+        english: twin
+        french: ''
+        portuguese: ''
+        spanish: gemelo
+        turkish: ikiz

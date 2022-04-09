@@ -1,0 +1,18 @@
+examples:
+-   ladino: Lo metiya en un bokal i lo metiya en el frijider.
+grammar: null
+id: '2896'
+origen: Estanbol
+versions:
+-   accented: frijidér
+    gender: masculine
+    ladino: frijider
+    number: singular
+    translations:
+        english: refrigerator
+        french: ''
+        portuguese: ''
+        spanish:
+        - nevera
+        - refrigerador
+        turkish: boz dolabı

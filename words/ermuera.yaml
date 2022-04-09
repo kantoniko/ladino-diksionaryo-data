@@ -1,0 +1,19 @@
+examples:
+-   ladino: Bushkava a ovedeser todo lo ke la ermuera le ordenava.
+grammar: null
+id: '2915'
+origen: Jeneral
+versions:
+-   accented: ermuéra
+    alternative-spelling:
+    -   accented: nuéra
+        ladino: nuera
+    gender: feminine
+    ladino: ermuera
+    number: singular
+    translations:
+        english: daughter-in-law
+        french: ''
+        portuguese: ''
+        spanish: nuera
+        turkish: gelin (oğlun karısı)

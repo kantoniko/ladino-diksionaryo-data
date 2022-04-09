@@ -1,0 +1,22 @@
+examples:
+-   ladino: En sus pyes no yevavan ke un par de charukas.
+grammar: null
+id: '2910'
+origen: Estanbol
+versions:
+-   accented: charúka
+    gender: feminine
+    ladino: charuka
+    number: singular
+    translations:
+        english:
+        - slipper
+        - mule
+        french: ''
+        portuguese: ''
+        spanish:
+        - zapatilla
+        - babucha
+        turkish:
+        - terlik
+        - çarık

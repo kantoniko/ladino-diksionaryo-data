@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mos esta kemando komo braza.
+grammar: null
+id: '2923'
+origen: Jeneral
+versions:
+-   accented: bráza
+    gender: feminine
+    ladino: braza
+    number: singular
+    translations:
+        english: live charcoal
+        french: ''
+        portuguese: ''
+        spanish: brasa
+        turkish: kor

@@ -1,0 +1,19 @@
+examples:
+-   ladino: Mi amor oy, es una braza i no siniza.
+grammar: null
+id: '2921'
+origen: Jeneral
+versions:
+-   accented: siníza
+    alternative-spelling:
+    -   accented: seníza
+        ladino: seniza
+    gender: feminine
+    ladino: siniza
+    number: singular
+    translations:
+        english: ash
+        french: ''
+        portuguese: ''
+        spanish: ceniza
+        turkish: kül

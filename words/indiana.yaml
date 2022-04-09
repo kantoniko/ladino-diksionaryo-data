@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mizmo en Rodes diziyamos "indiana" por el inglez (turkey).
+grammar: null
+id: '2886'
+origen: Jeneral
+versions:
+-   accented: indiána
+    gender: feminine
+    ladino: indiana
+    number: singular
+    translations:
+        english: turkey
+        french: ''
+        portuguese: ''
+        spanish: pavo
+        turkish: hindi

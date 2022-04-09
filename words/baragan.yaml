@@ -1,0 +1,32 @@
+examples:
+-   ladino: Shimshón, personaje bibliko, fue un famozo barragan.
+grammar: null
+id: '2898'
+origen: Jeneral
+versions:
+-   accented: baragán
+    alternative-spelling:
+    -   accented: barragán
+        ladino: barragan
+    gender: masculine
+    ladino: baragan
+    number: singular
+    translations:
+        english:
+        - brave
+        - robust
+        french:
+        - fort
+        - robuste
+        - vaillant
+        portuguese:
+        - forte
+        - robusto
+        - valente
+        spanish:
+        - valiente
+        - animoso
+        - robusto
+        turkish:
+        - yiğit
+        - güçlü
