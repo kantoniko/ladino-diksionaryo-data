@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1264'
+origen: Jeneral
+versions:
+-   accented: derrokar
+    ladino: derrokar
+    translations:
+        english: knock down
+        french: ''
+        portuguese: ''
+        spanish:
+        - derrocar
+        - derrumbar
+        turkish: yıkmak

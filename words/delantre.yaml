@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '230'
+origen: Jeneral
+versions:
+-   accented: delantre
+    ladino: delantre
+    translations:
+        english: in front
+        french: ''
+        portuguese: ''
+        spanish: delante
+        turkish: önünde

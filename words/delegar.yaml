@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1262'
+origen: Jeneral
+versions:
+-   accented: delegar
+    ladino: delegar
+    translations:
+        english: delegate
+        french: ''
+        portuguese: ''
+        spanish: delegar
+        turkish: temsilci atamak

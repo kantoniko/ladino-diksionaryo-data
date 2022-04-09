@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '235'
+origen: Jeneral
+versions:
+-   accented: demostrar
+    ladino: demostrar
+    translations:
+        english: demonstrate
+        french: ''
+        portuguese: ''
+        spanish: demostrar
+        turkish:
+        - tezahürat yapmak
+        - ispat etmek

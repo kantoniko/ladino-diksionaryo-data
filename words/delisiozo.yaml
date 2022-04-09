@@ -1,0 +1,19 @@
+examples:
+-   ladino: Munchos frutos delisiozos i salutaryos por ofreser.
+grammar: adjective
+id: '231'
+origen: Jeneral
+versions:
+-   accented: delisiózo
+    alternative-spelling:
+    -   accented: delisióza
+        ladino: delisioza
+    ladino: delisiozo
+    translations:
+        english: delicious
+        french: ''
+        portuguese: ''
+        spanish:
+        - delicioso
+        - deliciosa
+        turkish: nefis

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '237'
+origen: Jeneral
+versions:
+-   accented: derecha
+    ladino: derecha
+    translations:
+        english: right
+        french: ''
+        portuguese: ''
+        spanish: derecha
+        turkish: sağ

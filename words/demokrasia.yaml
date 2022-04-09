@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '234'
+origen: Jeneral
+versions:
+-   accented: demokrasia
+    ladino: demokrasia
+    translations:
+        english: democracy
+        french: ''
+        portuguese: ''
+        spanish: democracia
+        turkish: demokrasi

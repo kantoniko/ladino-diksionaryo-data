@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '232'
+origen: Jeneral
+versions:
+-   accented: demanyana
+    ladino: demanyana
+    translations:
+        english: morning
+        french: ''
+        portuguese: ''
+        spanish: mañana
+        turkish: sabah
