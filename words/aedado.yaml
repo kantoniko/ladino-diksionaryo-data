@@ -1,0 +1,24 @@
+examples:
+-   ladino: 'La esklava seya de espanto, seya a kavza de la prometa deskuvryo a Abdulhamid
+        ke su maestra lo topava a el muy aedado i enkapache de amor. '
+grammar: adjective
+id: '40'
+origen: Jeneral
+versions:
+-   accented: aedádo
+    alternative-spelling:
+    -   accented: aedáda
+        ladino: aedada
+    ladino: aedado
+    translations:
+        english:
+        - old
+        - aged
+        french:
+        - âgé
+        - âgée
+        portuguese:
+        - idoso
+        - idosa
+        spanish: anciano / anciana
+        turkish: yaşlı
