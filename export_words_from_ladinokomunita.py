@@ -184,7 +184,7 @@ def main():
                     verb_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
                     if os.path.exists(verb_file):
                         exit(f"File {verb_file} already exists")
-                    print(verb_file)
+                    print(f"{verb_file}   id: {data['id']}")
                     with open(verb_file, 'w') as fh:
                         yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
                     exit()
