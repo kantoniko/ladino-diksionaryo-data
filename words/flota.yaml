@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '432'
+origen: Jeneral
+versions:
+-   accented: flota
+    ladino: flota
+    translations:
+        english: fleet
+        french: ''
+        portuguese: ''
+        spanish: flota
+        turkish: filo

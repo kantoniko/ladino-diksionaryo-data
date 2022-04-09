@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '423'
+origen: Jeneral
+versions:
+-   accented: final
+    ladino: final
+    translations:
+        english:
+        - final
+        - end
+        french: ''
+        portuguese: ''
+        spanish: final
+        turkish: son

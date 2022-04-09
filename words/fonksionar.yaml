@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '434'
+origen: Jeneral
+versions:
+-   accented: fonksionar
+    ladino: fonksionar
+    translations:
+        english: function
+        french: ''
+        portuguese: ''
+        spanish: funcionar
+        turkish:
+        - işlemek
+        - çalışmak

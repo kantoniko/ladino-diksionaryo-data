@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '428'
+origen: Jeneral
+versions:
+-   accented: flecha
+    ladino: flecha
+    translations:
+        english: arrow
+        french: ''
+        portuguese: ''
+        spanish: flecha
+        turkish: ok

@@ -1,0 +1,21 @@
+examples:
+-   ladino: La mancha kaye en el panyo mas fino.
+grammar: adjective
+id: '424'
+origen: Jeneral
+versions:
+-   accented: fíno
+    alternative-spelling:
+    -   accented: fína
+        ladino: fina
+    ladino: fino
+    translations:
+        english:
+        - fine
+        - delicate
+        french: fin / fine
+        portuguese: fino / fina
+        spanish: fino / fina
+        turkish:
+        - ince
+        - narin

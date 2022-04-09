@@ -1,0 +1,20 @@
+comments:
+- 'grammar: en teatro'
+examples: []
+grammar: null
+id: '435'
+origen: Jeneral
+versions:
+-   accented: fotolyo
+    ladino: fotolyo
+    translations:
+        english: orchestra seat
+        french: ''
+        portuguese: ''
+        spanish: butaca
+        turkish:
+        - koltuk
+        - ( tiyatroda)
+
+# fotolyo (en teatro),,butaca,orchestra seat,"koltuk, ( tiyatroda)",Jeneral,435,,
+# fotolyo,,sillón,armchair,koltuk,Jeneral,436,,

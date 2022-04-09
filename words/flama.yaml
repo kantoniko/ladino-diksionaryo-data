@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '427'
+origen: Jeneral
+versions:
+-   accented: flama
+    ladino: flama
+    translations:
+        english: flame
+        french: ''
+        portuguese: ''
+        spanish: llama
+        turkish: alev

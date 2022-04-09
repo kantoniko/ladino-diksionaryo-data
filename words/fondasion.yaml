@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '433'
+origen: Jeneral
+versions:
+-   accented: fondasion
+    ladino: fondasion
+    translations:
+        english: foundation
+        french: ''
+        portuguese: ''
+        spanish: fundación
+        turkish: kuruluş

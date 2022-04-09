@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '429'
+origen: Jeneral
+versions:
+-   accented: flor
+    ladino: flor
+    translations:
+        english: flower
+        french: ''
+        portuguese: ''
+        spanish: flor
+        turkish: çiçek
