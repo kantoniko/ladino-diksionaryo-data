@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1553'
+origen: Jeneral
+versions:
+-   accented: amijorarse
+    ladino: amijorarse
+    translations:
+        english:
+        - improve
+        - recover
+        french: ''
+        portuguese: ''
+        spanish: mejorarse
+        turkish:
+        - ıslah olmak
+        - iyileşmek

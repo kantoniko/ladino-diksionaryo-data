@@ -1,0 +1,19 @@
+examples:
+-   ladino: Amigo viejo no se aze enemigo.
+comments:
+  - grammar was n+adj.
+grammar: null
+id: '87'
+origen: Jeneral
+versions:
+-   accented: amígo
+    alternative-spelling:
+    -   accented: amíga
+        ladino: amiga
+    ladino: amigo
+    translations:
+        english: friend
+        french: ''
+        portuguese: ''
+        spanish: amigo / amiga
+        turkish: arkadaş

@@ -1,0 +1,14 @@
+examples:
+-   ladino: ' no eskupe dulse. (Prov.)"'
+grammar: null
+id: '83'
+origen: Jeneral
+versions:
+-   accented: Ken englute amargo
+    ladino: Ken englute amargo
+    translations:
+        english: bitter
+        french: ''
+        portuguese: ''
+        spanish: amargo / amarga
+        turkish: acı

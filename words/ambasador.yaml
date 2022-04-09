@@ -1,0 +1,16 @@
+examples:
+-   ladino: Estava envitado el ambasador kon la mujer.
+grammar: null
+id: '1204'
+origen: Jeneral
+versions:
+-   accented: ambasadór
+    gender: masculine
+    ladino: ambasador
+    number: singular
+    translations:
+        english: ambassador
+        french: ''
+        portuguese: ''
+        spanish: embajador
+        turkish: büyük elçi

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2286'
+origen: Jeneral
+versions:
+-   accented: dinero
+    ladino: dinero
+    translations:
+        english: money
+        french: ''
+        portuguese: ''
+        spanish: dinero
+        turkish: para

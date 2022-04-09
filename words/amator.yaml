@@ -1,0 +1,18 @@
+examples:
+-   ladino: Lo esto dando a un grupo de amatores del Ladino.
+grammar: null
+id: '1203'
+origen: Jeneral
+versions:
+-   accented: amatór
+    gender: masculine
+    ladino: amator
+    number: singular
+    translations:
+        english: amateur
+        french: ''
+        portuguese: ''
+        spanish:
+        - aficionado
+        - principiante
+        turkish: amatör

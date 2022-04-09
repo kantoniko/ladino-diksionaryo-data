@@ -1,0 +1,19 @@
+examples:
+-   ladino: Ken tiene ambre no mira por guzano.
+grammar: null
+id: '86'
+origen: Jeneral
+versions:
+-   accented: ámbre
+    alternative-spelling:
+    -   accented: fámbre
+        ladino: fambre
+    gender: feminine
+    ladino: ambre
+    number: singular
+    translations:
+        english: hunger
+        french: ''
+        portuguese: ''
+        spanish: hambre
+        turkish: açlık
