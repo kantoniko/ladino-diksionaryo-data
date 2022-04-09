@@ -1,0 +1,18 @@
+examples:
+-   ladino: La linguistika estudia komo se avla "de facto".
+grammar: null
+id: '2779'
+origen: Jeneral
+versions:
+-   accented: linguístika
+    gender: feminine
+    ladino: linguistika
+    number: singular
+    translations:
+        english: linguistics
+        french: ''
+        portuguese: ''
+        spanish: lingüística
+        turkish:
+        - dilbilimi
+        - linguistik

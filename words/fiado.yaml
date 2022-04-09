@@ -1,0 +1,14 @@
+examples:
+-   ladino: El fiado es dos vezes pagado.
+grammar: adjective
+id: '2833'
+origen: Jeneral
+versions:
+-   accented: fiádo
+    ladino: fiado
+    translations:
+        english: on trust
+        french: ''
+        portuguese: ''
+        spanish: fiado
+        turkish: veresiye

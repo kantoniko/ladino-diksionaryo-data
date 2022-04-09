@@ -1,0 +1,18 @@
+comments:
+- 'grammar: m), fedorína (f'
+examples:
+-   ladino: Está yeno de fedor.
+grammar: null
+id: '2807'
+origen: Jeneral
+versions:
+-   accented: fedór
+    ladino: fedor
+    translations:
+        english:
+        - stench
+        - stink; arrogance
+        french: ''
+        portuguese: ''
+        spanish: hedor; arrogancia
+        turkish: pis koku; kendini beğenmişlik

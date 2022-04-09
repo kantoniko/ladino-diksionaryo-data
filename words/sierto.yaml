@@ -1,0 +1,17 @@
+examples:
+-   ladino: No lo tomes por sierto.
+grammar: adverb
+id: '2752'
+origen: Jeneral
+versions:
+-   accented: siérto
+    alternative-spelling:
+    -   accented: syérto
+        ladino: syerto
+    ladino: sierto
+    translations:
+        english: certain
+        french: ''
+        portuguese: ''
+        spanish: cierto
+        turkish: muhakkak

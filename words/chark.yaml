@@ -1,0 +1,22 @@
+examples:
+-   ladino: La bisikleta tiene dos charkes.
+grammar: null
+id: '2834'
+origen: Izmir
+versions:
+-   accented: chark
+    alternative-spelling:
+    -   accented: chárke
+        ladino: charke
+    gender: masculine
+    ladino: chark
+    number: singular
+    translations:
+        english: wheel
+        french: ''
+        portuguese: ''
+        spanish: rueda
+        turkish: tekerlek çark
+
+# "chark, chárke (m)",La bisikleta tiene dos charkes.,rueda,wheel,tekerlek çark,Izmir,2834,,
+# chark (m),Arrodear el chark.,"rueda, engrenaje","wheel, gear",çark,Estanbol,2835,,

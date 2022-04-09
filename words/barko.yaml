@@ -1,0 +1,18 @@
+examples:
+-   ladino: Mansevikos pasavan en los barkos por el bodre de la mar.
+grammar: null
+id: '2761'
+origen: Izmir
+versions:
+-   accented: bárko
+    gender: masculine
+    ladino: barko
+    number: singular
+    translations:
+        english:
+        - boat
+        - small
+        french: ''
+        portuguese: ''
+        spanish: barca
+        turkish: kayık

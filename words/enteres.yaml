@@ -1,0 +1,21 @@
+examples:
+-   ladino: Es el enteres ke lo giya.
+grammar: null
+id: '2770'
+origen: Jeneral
+versions:
+-   accented: enterés
+    alternative-spelling:
+    -   accented: enteréso
+        ladino: entereso
+    gender: masculine
+    ladino: enteres
+    number: singular
+    translations:
+        english: interest
+        french: ''
+        portuguese: ''
+        spanish: interés
+        turkish:
+        - ilgi
+        - faiz

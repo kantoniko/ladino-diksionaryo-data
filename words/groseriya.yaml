@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2824'
+origen: Estanbol
+versions:
+-   accented: groseríya
+    gender: feminine
+    ladino: groseriya
+    number: singular
+    translations:
+        english:
+        - coarseness
+        - rudeness
+        french: ''
+        portuguese: ''
+        spanish: grosería
+        turkish: kabalık

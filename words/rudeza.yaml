@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2825'
+origen: Estanbol
+versions:
+-   accented: rudéza
+    gender: feminine
+    ladino: rudeza
+    number: singular
+    translations:
+        english:
+        - coarseness
+        - rudeness
+        french: ''
+        portuguese: ''
+        spanish: rudeza
+        turkish: kabalık

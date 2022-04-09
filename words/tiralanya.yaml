@@ -1,0 +1,24 @@
+examples:
+-   ladino: Kaza serrada se inche de tiralanyas.
+grammar: null
+id: '2829'
+origen: Jeneral
+versions:
+-   accented: tiralánya
+    gender: feminine
+    ladino: tiralanya
+    number: singular
+    translations:
+        english:
+        - spider
+        - spider's web
+        french:
+        - araignée
+        - toile d'araignée
+        portuguese: ''
+        spanish:
+        - araña
+        - telaraña
+        turkish:
+        - örümcek
+        - örümcek ağı

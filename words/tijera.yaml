@@ -1,0 +1,16 @@
+examples:
+-   ladino: Es tan duro ke no korta tijera.
+grammar: null
+id: '2826'
+origen: Jeneral
+versions:
+-   accented: tijéra
+    gender: feminine
+    ladino: tijera
+    number: singular
+    translations:
+        english: scissors
+        french: ''
+        portuguese: ''
+        spanish: tijeras
+        turkish: makas

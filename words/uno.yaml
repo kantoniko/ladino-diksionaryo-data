@@ -1,0 +1,22 @@
+examples:
+-   ladino: Una mano lava la otra i las dos lavan la kara.
+grammar: adjective
+id: '2754'
+origen: Jeneral
+versions:
+-   accented: úno
+    alternative-spelling:
+    -   accented: úna
+        ladino: una
+    ladino: uno
+    translations:
+        english:
+        - one
+        - identical
+        french: ''
+        portuguese: ''
+        spanish: uno / una
+        turkish:
+        - bir
+        - biri
+        - tıpkısı

@@ -1,0 +1,20 @@
+examples:
+-   ladino: El Dio ke mos mire kon ojo de piadad.
+grammar: null
+id: '2816'
+origen: Jeneral
+versions:
+-   accented: piadad
+    ladino: piadad
+    translations:
+        english:
+        - pity
+        - compassion
+        french:
+        - pitié
+        - compassion
+        portuguese: ''
+        spanish: piedad
+        turkish:
+        - merhamet
+        - insaf

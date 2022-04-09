@@ -1,0 +1,21 @@
+examples:
+-   ladino: Meter la avtahá en el Dio.
+grammar: null
+id: '2821'
+origen: Torah/Tanah
+versions:
+-   accented: aftahá
+    alternative-spelling:
+    -   accented: avtahá
+        ladino: avtaha
+    gender: feminine
+    ladino: aftaha
+    number: singular
+    translations:
+        english: hope
+        french: ''
+        portuguese: ''
+        spanish: esperansa
+        turkish:
+        - ümit
+        - umut

@@ -1,0 +1,20 @@
+examples:
+-   ladino: 'Me kedi enkantada de ver tanta djente ke respondieron por esta palavra(topach
+        - sevivon).
+
+        '
+grammar: adjective
+id: '2801'
+origen: Jeneral
+versions:
+-   accented: enkantado
+    alternative-spelling:
+    -   accented: enkantada
+        ladino: enkantada
+    ladino: enkantado
+    translations:
+        english: astonished
+        french: ''
+        portuguese: ''
+        spanish: asombrado / asombrada
+        turkish: şaşkın

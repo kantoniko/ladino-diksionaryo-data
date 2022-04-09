@@ -1,0 +1,26 @@
+examples:
+-   ladino: Tener feuzya en el Dio, no en fijo de ombre. (Neh.)
+grammar: null
+id: '2776'
+origen: Otros
+versions:
+-   accented: feúzya
+    alternative-spelling:
+    -   accented: fiúzia
+        ladino: fiuzia
+    -   accented: feguza
+        ladino: feguza
+    gender: feminine
+    ladino: feuzya
+    number: singular
+    translations:
+        english:
+        - trust
+        - faith
+        french: ''
+        portuguese: ''
+        spanish: confianza
+        turkish:
+        - inanç
+        - güven
+        - itikat

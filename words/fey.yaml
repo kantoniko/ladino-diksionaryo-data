@@ -1,0 +1,19 @@
+examples:
+-   ladino: No tener ni ley, ni fey, ni profeta. (Neh.)
+grammar: null
+id: '2778'
+origen: Jeneral
+versions:
+-   accented: fey
+    ladino: fey
+    translations:
+        english:
+        - faith
+        - belief
+        french: ''
+        portuguese: ''
+        spanish: fe
+        turkish:
+        - inanç
+        - iman
+        - itikat

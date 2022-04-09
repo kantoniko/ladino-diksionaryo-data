@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2793'
+origen: Jeneral
+versions:
+-   accented: trápo
+    gender: masculine
+    ladino: trapo
+    number: singular
+    translations:
+        english: rag
+        french: ''
+        portuguese: ''
+        spanish: trapo
+        turkish: paçavra

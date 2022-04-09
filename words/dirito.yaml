@@ -1,0 +1,19 @@
+examples:
+-   ladino: "No tenemos dirito de \ndizir a dingunos \"no es djusto lo ke dizish vozotros\"\
+        . \n"
+grammar: null
+id: '2772'
+origen: Izmir
+versions:
+-   accented: diríto
+    gender: masculine
+    ladino: dirito
+    number: singular
+    translations:
+        english: right
+        french: ''
+        portuguese: ''
+        spanish: derecho
+        turkish:
+        - hak
+        - yetki

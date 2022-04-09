@@ -1,0 +1,16 @@
+examples:
+-   ladino: Es bueno tener karas de riza en el entorno.
+grammar: null
+id: '2819'
+origen: Jeneral
+versions:
+-   accented: entórno
+    gender: masculine
+    ladino: entorno
+    number: singular
+    translations:
+        english: environment
+        french: ''
+        portuguese: ''
+        spanish: entorno
+        turkish: çevre

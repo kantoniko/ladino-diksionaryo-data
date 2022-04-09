@@ -1,0 +1,20 @@
+examples:
+-   ladino: Ke te sierva de lisyon.
+grammar: null
+id: '2780'
+origen: Jeneral
+versions:
+-   accented: lisyón
+    gender: feminine
+    ladino: lisyon
+    number: singular
+    translations:
+        english:
+        - lesson
+        - warning
+        french: ''
+        portuguese: ''
+        spanish: lección
+        turkish:
+        - ders
+        - ibret

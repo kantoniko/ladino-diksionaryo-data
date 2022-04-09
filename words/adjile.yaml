@@ -1,0 +1,18 @@
+examples:
+-   ladino: Todo lo ke se aze  kon adjile, se aze negro.
+grammar: null
+id: '2797'
+origen: Estanbol
+versions:
+-   accented: adjilé
+    gender: feminine
+    ladino: adjile
+    number: singular
+    translations:
+        english:
+        - haste
+        - hurry
+        french: hâte
+        portuguese: pressa
+        spanish: prisa
+        turkish: acele
