@@ -1,0 +1,77 @@
+Skill:
+  Name: Sentences 1
+  Id: 31
+
+New words: []
+
+Phrases:
+  - Phrase: El esta en kaza
+    Translation: He is at home
+  - Phrase: "{Buenos dias}"
+    Translation: Good morning
+  - Phrase: "{Buenos dias} Sara"
+    Translation: Good morning Sarah
+  - Phrase: "{Buenos dias} Yosi"
+    Translation: Good morning Yosi
+  - Phrase: "{Buenas tadres}"
+    Translation: Good afternoon
+  - Phrase: Este es el kurso de Ladino?
+    Translation: Is this the Ladino course?
+  - Phrase: Komo estas?
+    Translation: How are you?
+  - Phrase: me yamo Sara
+    Translation: my name is Sarah
+  - Phrase: El profesor esta en klasa.
+    Translation: The teacher is in the classroom.
+  - Phrase: el profesor
+    Translation: the teacher
+  - Phrase: un profesor
+    Translation: a teacher
+  - Phrase: una profesora
+    Translation: a teacher
+  - Phrase: yo so una djornalista
+    Translation: I am a journalist
+  - Phrase: La direktora
+    Translation: The manager
+  - Phrase: Yo so la direktora
+    Translation: I am the manager.
+  - Phrase: Ande esta el profesor?
+    Translation: Where is the teacher?
+  - Phrase: No, Sara no esta bien.
+    Translation: No, Sarah is not well.
+  - Phrase: Esta en kaza.
+    Translation: She is at home.
+  - Phrase: Todas las elevas ya estan aki?
+    Translation: Are all the students already here?
+  - Phrase: mi kaza
+    Translation: my house
+  - Phrase: tu kaza
+    Translation: your house
+  - Phrase: tus kazas
+    Translation: your houses
+  - Phrase: yo moro en mi kaza
+    Translation: I live in my house
+  - Phrase: Este es la kaza del profesor de matematika?
+    Translation: Is this the  house of the math teacher?
+  - Phrase: Salu i vida, Sara
+    Translation: Health and Life, Sarah
+  - Phrase: Bindicho el Dio.
+    Translation: God bless.
+  - Phrase: Ande tu bives, en un kazal o en una sivdad?
+    Translation: Where do you live, in a village or in a city?
+  - Phrase: Yo so un kazalino.
+    Translation: I am a villager.
+  - Phrase: Mi nombre es Rina
+    Translation: My name is Rina
+  - Phrase: Yo moro en Yerushalayim
+    Translation: I live in Jerusalem
+  - Phrase: Eya mora en Estambol
+    Translation: She lives in Istanbul
+  - Phrase: Onde moras tu?
+    Translation: Where do you live?
+  - Phrase: Mozotros avlamos portugez
+    Translation: We speak Portuguese
+  - Phrase: Yo no avlo turko
+    Translation: I don't speak Turkish
+  - Phrase: Eyos moran en Saloniko
+    Translation: They live in Thessaloniki

@@ -1,0 +1,21 @@
+Skill:
+  Name: meter
+  Id: 1073
+
+New words: []
+
+
+Two-way-dictionary:
+  - (to) put: meter
+  - (I) put: meto
+  - (you) put: metes
+  - (s/he) puts: mete
+  - (we) put: metemos
+  - (you) put: metesh
+  - (they) put: meten
+
+  - put (!): mete
+
+Phrases:
+  - Phrase: Mete tu nombre!
+    Translation: Write down your name!

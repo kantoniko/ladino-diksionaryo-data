@@ -1,0 +1,29 @@
+Skill:
+  Name: enkontrar
+  Id: 1106
+
+New words: []
+
+Phrases: []
+
+Two-way-dictionary:
+  - (to) meet:    enkontrar
+  - (to) find:    enkontrar
+
+  - (I) find:        (yo) enkontro
+  - (you) find:      (tu) enkontras
+  - (he/she) finds:  (el/eya) enkontra
+  - (we) find:       (mozotras/mozotros) enkontramos
+  - (you) find:      (vozotras/vozotros) enkontrash
+  - (they) find:     (eyas/eyos) enkontran
+
+  - meeting:  (el) enkontro
+  - meetings: (los) enkontros
+
+  - (we) met: (mos) enkontrimos
+
+Phrases:
+  - Phrase: Enkontros de Alhad
+    Translation: Sunday meetings
+  - Phrase: Mos enkontrimos por midi
+    Translation: We met for lunch

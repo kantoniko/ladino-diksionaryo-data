@@ -1,0 +1,41 @@
+Skill:
+  Name: Numbers
+  Id: 214
+
+New words: []
+
+Phrases: []
+
+Two-way-dictionary:
+  - one:                       uno
+  - two:                       dos
+  - three:                     tres
+  - four:                      kuatro
+  - five:                      sinko
+  - six:                       sesh
+  - seven:                     siete
+  - eight:                     ocho
+  - nine:                      mueve
+  - ten:                       diez
+
+  - eleven:                    onze
+  - twelve:                    dodje
+  - thirteen:                  tredje
+  - fourteen:                  katorze
+  - fifteen:                   kinze
+  - sixteen:                   diisesh
+  - eighteen:                  diziocho
+  - nineteen:                  dizimueve
+  - twenty:                    vente
+
+  - twenty one:                venti uno
+  - thirty:                    trenta
+  - thirty one:                trenti uno
+  - fourty:                    kuarenta
+  - fifty:                     sinkuenta
+  - seventy:                   setenta
+  - eighty:                    ochenta
+  - ninety:                    noventa
+  - hundred:                   sien
+  - one hundred twenty three:  siento venti tres
+

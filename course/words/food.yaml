@@ -1,0 +1,82 @@
+Skill:
+  Name: Food
+  Id: 211
+
+New words: []
+
+Two-way-dictionary:
+  - asado:         roasted
+  - bread:         (el) pan
+  - burger:        (la) burger
+  - cake:          pastel
+  - candy:         (los) bonbones
+  - cereal:        (los) serales de dezayuno
+  - champagne:     (la) champanya
+  - cheese:        kezo
+  - chips:         (las) chips
+  - chocolate:     (la) chocolata
+  - cookie:        (el) biskuit
+  - cream:         (la) krema
+  - egg:           guevo
+  - flour:         arina
+  - french fries:  (las) patatas fritas
+  - hamburger:     hamburger
+  - honey:         (la) miel
+  - hot dog:       (el) sosis
+  - ice:           (el) buz
+  - icecream:      (la) dondurma
+  - jelly:         (la) marmelada
+  - marzipan:      masapan
+  - marzipan:      mogado de almendra
+  - piece of cake: (el) pedaso de torta
+  - pita:          (la) pita
+  - pizza:         (la) pizza
+  - pogacha:       (la) pogacha
+  - salad:         (la) salata
+  - salami:        (el) salami
+  - sandwich:      (el) sandvich
+  - sausage:       (la) sarsicha
+  - sausages:      (las) sarsichas
+  - soup:          (la) sopa
+  - soup:          (la) supa
+  - steak:         (el) biftek
+  - sugar:         asukar
+  - sweet:         (la) dulsurya
+  - sweets:        (las) dulsuryas
+  - toast:         (el) pan tostado
+  - rice:          (el) arroz
+  - vegetable:     (la) vedrura
+  - vegetables:    (las) vedruras
+  - yogurt:        (el) yogurt
+  - fried eggplant in tomato sauce: (la) alburniya
+
+Phrases:
+  - Phrase: el pan
+    Translation: the bread
+  - Phrase: "{Tengo menester} kozer el arroz"
+    Translation: "I need help to cook the rice"
+  - Phrase: Yo kero estudiar Ladino.
+    Translation: I want to study Ladino.
+  - Phrase: "{Tengo menester} kon Ladino"
+    Translation: "I need help with Ladino"
+  - Phrase: Puedes meldar en Ladino?
+    Translation: Can you read in Ladino?
+  - Phrase: "{Tengo ambre}"
+    Translation: "{I am hungry}"
+  - Phrase: David beve agua
+    Translation: David drinks water
+  - Phrase: Mozotros dos bevemos bira
+    Translation: The two of us drink beer
+  - Phrase: David kome pan
+    Translation: David eats bread
+  - Phrase: Yo komo un pastel
+    Translation: I eat a cake
+  - Phrase: Yo kero bever un chay
+    Translation: I want to drink a tea
+  - Phrase: Yo bevo una tasa de chay
+    Translation: I drink a cup of tea
+  - Phrase: Me plazer sopa kayente
+    Translation: I like hot soup
+  - Phrase: el kartof
+    Translation: the potato
+

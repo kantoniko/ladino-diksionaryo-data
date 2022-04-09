@@ -1,0 +1,19 @@
+Skill:
+  Name: Basic 4
+  Id: 104
+
+New words: []
+
+Phrases:
+  - Phrase: Onde moras?
+    Translation: Where do you live?
+  - Phrase: Yo moro en Yerushalayim
+    Translation: I live in Jerusalem
+  - Phrase: Yo moro en {Mueva York}
+    Translation: I live in {New York}
+  - Phrase: Tu moras en Yerushalayim? Si, yo moro en Yerushalayim
+    Translation: Do you live in Jerusalem? Yes, I live in Jerusalem
+  - Phrase: Tu moras en {Tel Aviv?} No, yo no moro en {Tel Aviv}
+    Translation: Do you live in {Tel Aviv?} No, I don't live in {Tel Aviv}
+  - Phrase: Eyos moran en sus kaza
+    Translation: They live in their house

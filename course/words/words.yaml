@@ -1,0 +1,833 @@
+Skill:
+  Name: Words
+  Id: 200
+
+New words: []
+
+Two-way-dictionary:
+  - a bit:               un poko
+  - a little:            poko
+  - a lot:               (el) mabul (Hebrew)
+  - about:               sovre
+  - above:               ensima
+  - abbreviation:        abreviasion
+  - absolute:            absoluto
+  - accent:              aksan
+  - accept:              akseptamos
+  - accross:             atraves
+  - active:              aktiva
+  - active:              aktivo
+  - activity:            (la) aktividad
+  - acquaintance:        (la) konosensia
+  - address:             adreso
+  - after:               dempues
+  - after:               despues
+  - after:               dospues
+  - afternoon:           tadres
+  - age:                 edad
+  - already:             ya
+  - all:                 todo (adj.)
+  - all:                 toda (adj.)
+  - all:                 todos
+  - all:                 todas
+  - almost:              kaji
+  - alone:               sola
+  - alone:               solo
+  - also:                tambien
+  - always:              siempre
+  - always:              syempre
+  - among:               entre
+  - an:                  a
+  - and:                 i
+  - anecdote:            (la) anektoda
+  - anecdotes:           (las) anektodas
+  - angel:               andjel
+  - animal:              (el) animal
+  - animals:             (los) animales
+  - anonymous:           anonimos
+  - apartment:           apartemento
+  - application:         aplikasion
+  - archive:             archivo
+  - archives:            archivos
+  - ardour:              ardor
+  - article:             (el) artikolo
+  - articles:            (los) artikolos
+  - as:                  komo
+  - ashkenazi:           ashkenazi
+  - ashkenazis:          ashkenazis
+  - asylum:              (el) azilo
+  - at:                  en
+  - at home:             en kaza
+  - ATM:                 bankomatiko
+  - author:              autor
+  - autumn:              otonyo
+  - authors:             autores
+  - authentic:           autentikos
+  - avenue:              avenida
+
+  - bad:                 negro
+  - bad:                 malo
+  - badly:               mal
+  - bank:                banka
+  - bar:                 bar
+  - beautiful:           ermozo
+  - beautiful:           ermozos
+  - beautiful:           ermoza
+  - beautiful:           ermozas
+  - because:             porke
+  - before:              antes
+  - better:              mijor
+  - between:             entre
+  - beginning:           empesijo
+  - below:               abasho (adv)
+  - Bible:               Biblia
+  - Bible:               Biblya
+  - big:                 grande
+  - big:                 grandes
+  - bill:                kuento
+  - bless:               bindicho
+  - book:                livro
+  - books:               livros
+  - bourekas:            boyos
+  - bottle:              (la) redoma
+  - bracelet:            (la) maniya
+  - bride:               (la) novia
+  - bridge:              pontre
+  - bridges:             pontres
+  - brochure:            (el) broshur
+  - brochure:            (la) broshura
+  - brush:               (la) furcha
+  - busy:                okupada
+  - busy:                okupado
+  - but:                 ama
+  - but:                 ma
+
+  - cafeteria:           (la) kafeterya
+  - calendar:            (el) kalendario
+  - camping:             kemping
+  - cancelled:           anulado
+  - candle:              (la) kandela
+  - card:                (la) karta
+  - cards:               (las) kartas
+  - century:             (el) siglo
+  - cheap:               barato
+  - city:                (la) sivdad
+  - cities:              (las) sivdades
+  - class:               klasa
+  - classroom:           klasa
+  - climate:             klima
+  - close:               serka
+  - cold:                frio
+  - cold:                friyo
+  - color:               kolor
+  - colors:              kolores
+  - companion:           kompanyero
+  - community:           komunita
+  - contact lenses:      (los) lentes de kontakto
+  - congratulations:     felisitasyones
+  - considered:          konsiderado
+  - contact:             kontakto
+  - contain:             kontienen
+  - content:             kontenidos
+  - contents:            kontenidos
+  - contrary:            kontra
+  - convoy:              (el) konvoy
+  - correct:             korrekta
+  - correct:             korrektas
+  - correction:          (la) koreksion
+  - country:             (el) pais
+  - course:              (el) kurso
+  - courses:             (los) kursos
+  - copy:                kopya
+  - cost:                kosta
+  - cotton thread:       (el) ilo de koton
+  - creator:             (el) kriador
+  - culture:             kultura
+  - cultural:            kultural
+  - cup:                 (el) findjan
+  - custom:              (el/la) kostumbre
+
+  - dance:               bayle
+  - dear:                kara
+  - dear:                karo
+  - dear:                karas
+  - dear:                karos
+  - dear:                kerida
+  - dear:                kerido
+  - dear:                keridas
+  - dear:                keridos
+  - decade:              dekada
+  - decision:            dechizion
+  - decision:            dechizyon
+  - decision:            desizion
+  - decision:            desizyon
+  - denigrating:         denigratora
+  - dervish:             dervish
+  - dervishes:           dervishes
+  - desire:              dezeo
+  - dialect:             dialekto
+  - dialects:            dialektos
+  - dialogue:            dialogo
+  - dictatorship:        diktatura
+  - dictatorships:       diktaturas
+  - dictionary:          diksionario
+  - dictionary:          diksionaryo
+  - difference:          diferensia
+  - different:           diferente
+  - different:           diferentes
+  - difficult:           zor
+  - dinner:              (la) sena
+  - directly:            direktamente
+  - does:                esta
+  - doll:                (la) kukla
+  - dolls:               (las) kuklas
+  - down:                abasho (adv)
+  - door:                (la) puerta
+  - doors:               (las) puertas
+  - don't:               no
+  - dowry:               (la) dota
+  - during:              durante
+
+  - early:               demprano
+  - early:               temprano
+  - earring:             (las) eskularichas
+  - easy:                kolay
+  - easy:                fasil
+  - edition:             numero (de jurnal)
+  - editorial:           editoral
+  - edition:             revista
+  - election:            elektoral
+  - empty:               vaziyo
+  - empire:              imperio
+  - end:                 fin
+  - engagement:          (el) despozorio
+  - environment:         entorno
+  - entire:              entero
+  - especially:          espesialmente
+  - etc:                 ets
+  - exact:               egzakta
+  - exact:               egzakto
+  - excuse me:           pardon
+  - example:             enshemplo
+  - example:             egzempio
+  - examples:            enshemplos
+  - examples:            egzempios
+  - expensive:           karos
+  - expensive:           karas
+  - expert:              haham
+  - everyone:            todos
+  - everything:          todo (adj.)
+  - everything:          toda (adj.)
+  - explication:         (el) eksplikasion
+
+  - famous:              famoza
+  - famous:              famozo
+  - famous:              famozas
+  - famous:              famozos
+  - favour:              (el) favor
+  - feminine:            feminino
+  - fiance:              (el) novio
+  - file:                (el) archivo
+  - files:               (los) archivos
+  - film:                (el) filmo
+  - films:               (los) filmos
+  - finally:             a la fin
+  - floor:               patin
+  - flood:               (el) mabul (Hebrew)
+  - for:                 para
+  - for me:              para mi
+  - for sure:            siguro
+  - form:                (la) forma
+  - forum:               (el) foro
+  - forward:             adelante
+  - friend:              amigo
+  - friend:              amiga
+  - friends:             amigos
+  - friends:             amigas
+  - fresh:               fresko
+  - fresh:               freska
+  - from:                de
+  - free:                libre
+  - full:                yeno
+
+  - game:                partida
+  - games:               partidas
+  - gender:              djenero
+  - general:             jenerales
+  - gillette:            jilet
+  - glass:               (la) kupa
+  - glass:               (el) vazo
+  - glasses:             (los) antojos
+  - goal:                buto
+  - god:                 dio
+  - good:                buen
+  - good:                bueno (adj.)
+  - good:                buena
+  - good:                buenos
+  - good:                buenas
+  - goodbye:             adiyo
+  - greetings:           saludes
+  - greetings:           saludos
+  - group:               grupo
+  - groups:              grupos
+  - guest:               musafir
+
+  - hard:                dura
+  - hard:                duro
+  - hate:                aborresion
+  - he:                  el
+  - health:              salu
+  - health:              salud
+  - help:                (el) ayudo
+  - here:                aki
+  - hispanic:            ispanika
+  - history:             (la) istoriya
+  - home:                (la) kaza
+  - homework:            (la) lision
+  - homework:            (las) lisiones
+  - hot:                 kayente
+  - hottest:             mas kaliente
+  - house:               (la) kaza
+  - houses:              (las) kazas
+  - Holocaust:           Olokosto
+  - host:                balabaya
+  - humor:               (el) umor
+  - humoristic:          umoristiko
+  - humoristic:          umoristikos
+
+  - I am called:         yamo
+  - I am hungry:         tengo ambre
+  - I like:              me plaze
+  - I remember:          me akodro
+  - icecream:            dondurma
+  - if:                  si
+  - important:           importante
+  - important (to me):   (me) importa
+  - impossible:          emposivle
+  - in:                  en
+  - in love:             namorada
+  - in love:             namorado
+  - indications:         indikasiones
+  - influence:           influensia
+  - information:         informasion
+  - inspiration:         inspirasyon
+  - intelligent:         intelijente
+  - intelligents:        intelijentes
+  - interesting:         interesante
+  - interview:           (la) entrevista
+  - introduction:        introduksion
+  - investigator:        investigador
+  - investigator:        investigadora
+  - investigators:       investigadoras
+  - investigators:       investigadores
+  - Islam:               Islam
+  - it:                  es
+
+  - journalist:          jurnalisto
+  - jew:                 djudia
+  - jew:                 djudio
+  - jew:                 djidia
+  - jew:                 djidio
+  - jews:                djudias
+  - jews:                djudios
+  - job:                 lavoro
+  - justice:             razon
+
+  - lack:                mankar
+  - lady:                (la) sinyora
+  - Ladino community:    Ladinokomunita
+  - language:            lashon
+  - language:            lingua
+  - language:            lengua
+  - languages:           linguas
+  - languages:           lenguas
+  - last:                ultima
+  - last:                ultimo
+  - last:                ultimas
+  - last:                ultimos
+  - left:                (la) siedra
+  - lesson:              (la) lision
+  - lessons:             (la) lisiones
+  - let's:               vamos
+  - letter:              (la) karta
+  - letter:              (la) letra
+  - letters:             (las) kartas
+  - letters:             (las) letras
+  - level:               nivel
+  - library:             (la) biblioteka
+  - life:                (la) vida
+  - light:               liviana
+  - light:               liviano
+  - light:               (la) luz
+  - lights:              (las) luzes
+  - lingusitics:         (la) linguistika
+  - litarature:          (la) literatura
+  - little:              chiko
+  - little:              chika
+  - little candle:       kandelika
+  - little:              poko
+  - logical:             lojiko
+  - long:                larga
+  - long:                largo
+  - lot:                 muncho
+  - lot:                 muncha
+  - love:                (el) amor
+  - loves:               (los) amores
+  - lovely:              presioza
+  - lovely:              presiozo
+  - luck:                mazal
+  - lunch:               midi
+
+  - machine:             (la) makina
+  - mad:                 (el) loko
+  - mad:                 (la) loka
+  - madness:             lokura
+  - making small-talk:   etchar lashon
+  - man's:               de ombres
+  - man:                 ombre
+  - manager:             direktora
+  - manner:              manera
+  - many:                munchos
+  - many:                munchas
+  - matchmaker:          (la) kazamentera
+  - math:                matematika
+  - masculine:           maskulino
+  - material:            (el) material
+  - materials:           (los) materiales
+  - meal:                (la) komida
+  - meals:               (las) komidas
+  - member:              (la) miembra
+  - member:              (el) miembro
+  - members:             (las) miembras
+  - members:             (los) miembros
+  - message:             (el) mesaje
+  - messages:            (los) mesajes
+  - minute:              (el) minuto
+  - minutes:             (los) minutos
+  - mistake:             yerro
+  - mistakes:            yerros
+  - money:               paras
+  - month:               mez
+  - months:              mezes
+  - more:                mas
+  - modes:               modos
+  - modern:              moderna
+  - modern:              moderno
+  - moderate:            moderado
+  - moderator:           moderador
+  - moderator:           moderadora
+  - moderators:          moderadoras
+  - moderators:          moderadores
+  - mother tongue:       lingua maternal
+  - multitude:           alay
+  - museum:              (el) muzeo
+  - music:               muzika
+  - my:                  me
+  - myself:              yo mizmo
+
+  - name:                nombre
+  - name:                me llamo
+  - names:               nombres
+  - near by:             serka
+  - necessary:           menester
+  - needle:              (la) alguja
+  - negative:            negativo
+  - neutral:             neutrala
+  - never:               nunka
+  - new:                 muevo
+  - new:                 mueva
+  - new:                 muevos
+  - new:                 muevas
+  - newspaper:           jurnal
+  - newspapers:          jurnales
+  - nice:                bueno
+  - nice to meet you:    muncho gusto
+  - night:               (la) noche
+  - nights:              (las) noches
+  - no:                  no
+  - non:                 non
+  - non-public:          non publikos
+  - not:                 no
+  - note:                (la) nota
+  - notebook:            tefter
+  - notebooks:           tefteres
+  - nothing at all:      no ay por kualo
+  - number:              numero
+
+
+  - on:                  en
+  - on top:              ensima
+  - only:                solo
+  - of:                  de
+  - of (the):            del
+  - old:                 vieja
+  - old:                 viejas
+  - old:                 viejo
+  - old:                 viejos
+  - old:                 vyeja
+  - old:                 vyejo
+  - older:               mas viejo
+  - older:               mas vieja
+  - open:                avierta
+  - open:                aviertos
+  - or:                  o
+  - origin:              manadero
+  - origins:             manaderos
+  - other:               otro
+  - other:               otra
+  - other:               otros
+  - other:               otras
+  - other:               otruno
+  - other:               otruna
+  - Ottoman:             Otomano
+  - outside:             afuera
+  - over:                ensima
+
+  - page:                pajina
+  - paper:               (el) papel
+  - papers:              (los) papeles
+  - parallel:            paralela
+  - parallel:            paralelo
+  - partner:             kompanyera
+  - partner:             kompanyero
+  - partner:             haver
+  - partners:            haverim
+  - party:               fiesta
+  - peace:               (la) paz
+  - people:              personas
+  - people:              djente
+  - person:              persona
+  - phone:               (el) telefon
+  - mobile phone:        (el) telefon selular
+  - photo:               (la) foto
+  - phrase:              (la) fraza
+  - phrases:             (las) frazas
+  - pity:                pekado
+  - place:               (el) lugar
+  - places:              (los) lugares
+  - pleasure:            plazer
+  - please:              por favor
+  - poet:                poeta
+  - poets:               poetas
+  - poem:                (la) poezia
+  - poems:               (las) poezias
+  - poetry:              (la) poezia
+  - police:              (la) polisiya
+  - popular:             populare
+  - populars:            populares
+  - possible:            posivle
+  - presence:            (la) prezensia
+  - pretty:              lindo
+  - pretty:              linda
+  - pretty:              ermozo
+  - pretty:              ermoza
+  - price:               (el) presio
+  - prices:              (los) presio
+  - primary:             primarias
+  - private:             privada
+  - private:             privado
+  - product:             produkto
+  - products:            produktos
+  - program:             (el) program
+  - propaganda:          (la) propaganda
+  - proverb:             (el) refran
+  - to be pronunced:     pronunsiado
+  - psychopatology:      (la) psikopatologia
+  - public:              publiko
+  - public:              publikos
+  - publications:        publikasiones
+  - Purim:               Purim
+  - purse:               (la) chanta
+
+  - question:            (la) kestion
+  - question:            (la) kestyon
+  - questions:           (la) kestiones
+  - questions:           (la) kestyones
+  - quite:               bastante
+  - quick:               presto
+  - quickly:             presto
+
+  - rabbi:               haham
+  - reason:              meoyo
+  - reason:              razon
+  - rebirth:             renasimiento
+  - recently:            resientemente
+  - refugees:            refujiados
+  - relation:            relasion
+  - relations:           relasiones
+  - religion:            relijion
+  - religions:           relijiones
+  - remark:              remarka
+  - respect:             respekto
+  - response:            (la) repuesta
+  - restaurant:          (el) restoran
+  - restroom:            tualet
+  - right:               derecha
+  - right:               djusta
+  - right:               djusto
+  - right:               razon
+  - ring:                (el) aniyo
+  - room:                kamareta
+  - rule:                (la) regla
+  - rules:               (las) reglas
+
+  - same:                mizma
+  - same:                mizmas
+  - same:                mizmo
+  - same:                mizmos
+  - sarcastic:           sarkastika
+  - saying:              (la) dicha
+  - sayings:             (las) dichas
+  - saying:              (el) refran
+  - season:              sezon
+  - school:              (la) eskola
+  - schools:             (la) eskolas
+  - sect:                (el) sekto
+  - sects:               (los) sektos
+  - section:             seksion
+  - sections:            seksiones
+  - sentence:            (la) fraza
+  - sentences:           (las) frazas
+  - Sephardic:           Sefaradi
+  - Sephardic:           Sefaradim
+  - Sephardic:           Sefaradis
+  - serial:              serial
+  - settled down:        instalaron
+  - several:             varias
+  - shabat:              shabat
+  - shabat:              shabad
+  - shalom:              shalom
+  - short film:          filmiko
+  - short films:         filmikos
+  - short story:         kuentiziko
+  - short stories:       kuentizikos
+  - sick:                hazino
+  - sick:                hazina
+  - side:                vanda
+  - silly:               bovo
+  - similar:             semejante
+  - since:               desde
+  - since:               deste
+  - sir:                 sinyor
+  - site:                sitio
+  - situation:           situasion
+  - small:               chiko
+  - small:               chika
+  - small boy:           (el) ijiko
+  - so:                  ansi (adv.)
+  - so:                  tan (adv.)
+  - some:                alguno (adj.)
+  - some:                alguna
+  - some:                algunos
+  - some:                algunas
+  - some:                unos
+  - song:                (la) kantika
+  - songs:               (las) kantikas
+  - sorrow:              pena
+  - soul:                alma
+  - source:              manadero
+  - sources:             manaderos
+  - speech:              diskurso
+  - spirit:              alma
+  - sport:               espor
+  - spring:              primavera
+  - stew:                gizado
+  - stereotip:           stereotipo
+  - student:             eleva
+  - student:             elevo
+  - students:            elevas
+  - students:            elevos
+  - stupid:              bovo
+  - subject:             subjeto
+  - substantial:         sostansiozos
+  - substantial:         sostansiozo
+  - such:                komo
+  - summer:              enverano
+  - sure:                seguro
+  - surname:             alkunya
+
+  - trousseau:           (el) ashugar
+  - take out:            echar
+  - tall:                alta
+  - teacher:             profesor
+  - teachers:            profesores
+  - teacher:             profesora
+  - teachers:            profesoras
+  - team:                ekipo
+  - thank:               grasias
+  - thank you:           mersi
+  - that:                eso
+  - that:                ke
+  - that:                akel
+  - that:                akeya
+  - till:                asta
+  - time:                tiempo
+  - time:                tyempo
+  - time:                vez
+  - time:                vezes
+  - times:               tiempos
+  - the whole:           toda la
+  - themselves:          eyos
+  - then:                entonses
+  - there:               ai
+  - there are:           ay
+  - there:               ayi
+  - therefore:           dunke
+  - these:               estas
+  - these:               estes
+  - these:               estos
+  - this:                este
+  - thing:               koza
+  - things:              kozas
+  - those:               esos
+  - to:                  a
+  - to:                  al
+  - too:                 tambien
+  - to be given:         akavidarse
+  - together:            djuntos
+  - together:            endjuntos
+  - toilet:              kabine
+  - Torah:               (la) Tora
+  - totally:             totalmente
+  - tradition:           (el/la) kostumbre
+  - tradition:           (la) tradisyon
+  - traditionally:       tradisionalmente
+  - translated:          tresladado
+  - translator:          traduktor
+  - translation:         traduksion
+  - translations:        traduksiones
+  - transportation:      transportasyon
+  - treasure:            (la) trezoro
+  - trouble:             pena
+  - true:                vedrad
+  - true:                verdad
+  - type:                djenero
+
+  - umbrella:            (el) chadir
+
+  - year:                anyo
+  - years:               anyos
+  - yes:                 si
+  - young:               chikos
+  - young:               djoven
+  - young:               djovina
+  - young age:           chikes
+  - young person:        manseva
+  - young person:        mansevo
+  - younger:             mas djoven
+  - younger:             mas djovenes
+  - your:                tu
+
+  - vacation:            vakansas
+  - variation:           variasion
+  - Venezualan:          venezuelano
+  - version:             (la) version
+  - versions:            (las) versiones
+  - very:                muy
+  - veteran:             veteranos
+  - village:             kazal
+  - villager:            kazalina
+  - villager:            kazalino
+  - violence:            violensia
+  - virtue:              (la) virtud
+
+  - wallet:              (el) portofolio
+  - warm:                kaliente
+  - warm:                kalientes
+  - was:                 fue
+  - watch:               (la) ora
+  - well:                bien (adv.)
+  - well done:           kol akavod (Hebrew)
+  - web:                 web
+  - week:                (la) semana
+  - weeks:               (las) semanas
+  - whole:               entero
+  - winter:              invyerno
+  - wish:                dezeo
+  - with:                kon
+  - with me:             kon mi
+  - without:             sin
+  - woman:               mujer
+  - woman's:             de mujeres
+  - women:               mujeres
+  - word:                palavra
+  - word:                biervo
+  - words:               palavras
+  - words:               biervos
+  - work:                lavoro
+  - work:                echo
+  - work:                ovra
+  - works:               ovras
+  - world:               (el) mundo
+  - world-wide:          mundial
+  - writer:              eskritor
+  - writer:              eskritora
+  - writers:             eskritores
+  - writers:             eskritoras
+  - writing:             eskrito
+
+
+Phrases:
+  - Phrase: En mi famiya ay kuatro personas
+    Translation: In my family {there are} four people
+  - Phrase: Tienes una famiya grande?
+    Translation: Do you have a big family?
+  - Phrase: Tu tienes kriaturas?
+    Translation: Do you have children?
+  - Phrase: Si yo tengo un ijo i una ija
+    Translation: Yes I have one son and one daughter
+  - Phrase: Tienes ermanos o ermanas?
+    Translation: Do you have brothers and sisters?
+  - Phrase: "{etchar lashon}"
+    Translation: "{making small-talk}"
+  - Phrase: kon muncho plazer
+    Translation: with a lot of pleasure
+  - Phrase: Semos sinko
+    Translation: We are five
+  - Phrase: Tengo tres ermanos
+    Translation: I have three brothers
+  - Phrase: Mi gran-papa i gran-mama biven kon mozotros
+    Translation: My grandfather and grandmother live with us
+  - Phrase: estan kon vozotros
+    Translation: They are with you
+  - Phrase: Rakel es intelijente
+    Translation: Rachel is intelligent
+  - Phrase: Rina es ermoza
+    Translation: Rina is beautiful
+  - Phrase: Ke tu lavoras?
+    Translation: What do you work?
+  - Phrase: Tu lavoras o estudias?
+    Translation: Do you work or study?
+  - Phrase: Nesesito bushkar para kada palavra
+    Translation: I need to search for each word.
+  - Phrase: Ke livros enkomendas?
+    Translation: What books do you recommend?
+  - Phrase: Pardon ke ora es?
+    Translation: "{Excuse me} what time is it?"
+  - Phrase: Yo avlo djudeo-espanyol ma tengo aksan venezuelano.
+    Translation: I speak Ladino but I have Venezualan accent
+  - Phrase: "El kuento {por favor}"
+    Translation: The bill please
+  - Phrase: "Kero un kafe, {por favor}"
+    Translation: I want a coffee, please
+  - Phrase: Echar paras de bankomatiko
+    Translation: "{Take out} money from the ATM"
+  - Phrase: "tualet {de mujeres}"
+    Translation: woman's restroom
+  - Phrase: "tualet {de ombres}"
+    Translation: man's restroom
+  - Phrase: Ayudo!
+    Translation: Help! 
+  - Phrase: Esto seguro
+    Translation: I am sure
+  - Phrase: El ekipo editoral
+    Translation: The editorial team
+  - Phrase: Su famiya se instalaron en Salonik
+    Translation: "His family {settled down} in Thessaloniki"
+  - Phrase: Tiene kavesa dura
+    Translation: Has a hard head
+  - Phrase: La sena es la komida de la noche
+    Translation: Dinner is the meal of the night.
+
+
+

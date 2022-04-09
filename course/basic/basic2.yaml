@@ -1,0 +1,27 @@
+Skill:
+  Name: Basic 2
+  Id: 102
+
+New words: []
+
+Phrases:
+  - Phrase: la mansana
+    Translation: the apple
+  - Phrase:  yo komo una mansana
+    Translation: I eat an apple
+  - Phrase:  Lea kome mansanas
+    Translation: Lea eats apples
+  - Phrase:  David kome una mansana
+    Translation: David eats an apple
+  - Phrase:  Esther komes la mansana
+    Translation: Ester eats the apple
+  - Phrase: El kome mansanas
+    Translation: He eats apples
+  - Phrase: Eya kome una mansana
+    Translation: She eats an apple
+  - Phrase: El ombre kome una mansana
+    Translation: The man eats an apple
+  - Phrase: Ke keres komer?
+    Translation: What do you want to eat?
+  - Phrase: Yo kero komer una mansana.
+    Translation: I want to eat an apple.

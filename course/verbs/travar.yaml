@@ -1,0 +1,23 @@
+Skill:
+  Name: travar
+  Id: 1098
+
+New words: []
+
+Phrases: []
+
+Two-way-dictionary:
+  - (to) shoot:    travar
+  - (I) shoot:     (yo) travo
+  - (you) shoot:   (tu) travas
+  - (s/he) shoots: (el/eya) trava
+  - (we) shoot:    (mozotras/mozotros) travamos
+  - (you) shoot:   (vozotras/vozotros) travash
+  - (they) shoot:  (eyas/eyos) travan
+
+# past
+  - (we) shot:       (mozotras/mozotros) travimos
+
+Phrases:
+  - Phrase: Mozotros travamos un filmo
+    Translation: We shoot a film

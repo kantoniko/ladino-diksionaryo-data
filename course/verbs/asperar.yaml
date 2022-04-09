@@ -1,0 +1,24 @@
+Skill:
+  Name: asperar
+  Id: 1036
+
+New words: []
+
+
+Two-way-dictionary:
+  - (to) wait:      asperar
+
+  - (I) wait:       aspero
+  - (you) wait:     asperas
+  - (he/she) waits: aspera
+  - (we) wait:      asperamos
+  - (you) wait (p): asperash
+  - (they) wait:    asperan
+
+  - (I) waited:     asperi
+
+  - waiting:        asperando
+
+Phrases:
+  - Phrase: Estamos asperando por la noche.
+    Translation: We are waiting for the night.

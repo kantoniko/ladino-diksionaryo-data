@@ -1,0 +1,20 @@
+Skill:
+  Name: favlar
+  Id: 1063
+
+New words: []
+
+Two-way-dictionary:
+  - (to) speak: favlar
+  - (I) speak: (yo) favlo
+  - (you) speak: (tu) favlas
+  - (s/he) speaks: (el/eya) favla
+  - (we) speak: (mozotras/mozotros) favlamos
+  - (you) speak: favlash
+  - (they) speak: (eyas/eyos) favlan
+
+Phrases:
+  - Phrase: Yo favlo en Djudeo-Espanyol
+    Translation: I speak in Ladino
+  - Phrase: Los djudios en Izmir favlan Ladino
+    Translation: The jews in Izmir speak Ladino

@@ -1,0 +1,32 @@
+Skill:
+  Name: Numbers 1-10
+  Id: 206
+
+New words: []
+
+Phrases:
+  - Phrase: uno, dos, tres
+    Translation: one, two, three
+  - Phrase: kuatro, sinko, sesh
+    Translation: four, five, six
+  - Phrase: siete, ocho, mueve
+    Translation: seven, eight, nine
+  - Phrase: ocho, mueve, diez
+    Translation: eight, nine, ten
+  - Phrase: un perro
+    Translation: a dog
+  - Phrase: dos perros
+    Translation: two dogs
+  - Phrase: tres perros
+    Translation: three dogs
+  - Phrase: kuatro gatos
+    Translation: four cats
+  - Phrase: sinko vakas
+    Translation: five cows
+  - Phrase: sesh kulevras
+    Translation: six snakes
+  - Phrase: Uno es el Kriador
+    Translation: One is the Creator
+
+
+

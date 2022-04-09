@@ -1,0 +1,30 @@
+Skill:
+  Name: Language Names
+  Id: 73
+
+New words: []
+
+Two-way-dictionary:
+  - Arabic:       Arabo
+  - English:      Inglez
+  - French:       Fransez
+  - German:       Aleman
+  - Greek:        Grego
+  - Hebrew:       Ebreo
+  - Hebrew:       Ivrit
+  - Ladino:       Espanyol
+  - Ladino:       Ladino
+  - Ladino:       Djudeo-espanyol
+  - Ladino:       Djudezmo
+  - Ladino:       Haketia
+  - Ladino:       Sepharadic
+  - Ladino:       Spanyolit
+  - Portuguese:   Portugez
+  - Spanish:      Kasteyano
+  - Spanish:      Kastilyano
+  - Turkish:      Turko
+
+Phrases:
+  - Phrase: Yo avlo Djudeo-Espanyol
+    Translation: I speak Ladino
+

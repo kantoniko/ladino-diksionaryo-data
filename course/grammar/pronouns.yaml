@@ -1,0 +1,44 @@
+Skill:
+  Name: Pronouns
+  Id: 50
+
+New words: []
+
+
+Phrases:
+  - Phrase: yo
+    Translation: I
+  - Phrase: tu
+    Translation: you
+
+Two-way-dictionary:
+  - I:      yo
+  - you:    tu
+  - he:     el
+  - she:    eya
+  - we:     mozotros
+  - we:     mozotras
+  - you:    vos
+  - you:    vozotros
+  - you:    vozotras
+  - they:   eyos
+  - they:   eyas
+
+  - me:     me
+  - to me:  me
+  - you:    te
+  - it:     lo (obj.)
+  - him:    le
+  - to him: le
+  - to her: le
+  - to it:  le
+
+
+  - us:   mozotros
+
+
+  - ourselves:  mos
+  - yourselves: vos
+
+  - Perosnal Pronouns: Pronombres personales
+

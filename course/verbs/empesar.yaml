@@ -1,0 +1,30 @@
+Skill:
+  Name: empesar
+  Id: 1016
+
+New words: []
+
+Two-way-dictionary:
+  - (to) begin:  empesar (a + inf.)
+  - (to) start:  empesar (a + inf.)
+
+  - (I) begin:       empeso
+  - (you) begin:     empesas
+  - (she/he) begins: empesa
+  - (we) begin:      empesamos
+  - (you) begin (p): empesash
+  - (they) begin:    empesan
+
+  - (I) started: empesi
+
+Phrases:
+  - Phrase: Kuando keres empesar la klasa?
+    Translation: When do you want to start the class?
+  - Phrase: Kuando tu empesas a kozer?
+    Translation: When do you start to cook?
+  - Phrase: Yo empeso a kozer temprano.
+    Translation: I start to cook early.
+  - Phrase: Empesar a lavorar.
+    Translation: Start to work.
+
+

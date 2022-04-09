@@ -1,0 +1,27 @@
+Skill:
+  Name: entender
+  Id: 1030
+
+New words: []
+
+Two-way-dictionary:
+  - (to) understand:      entender
+
+  - (I) understand:       (yo) entiendo
+
+  - (I) understand:       (yo) entyendo
+  - (you) understand:     (tu) entyendes
+  - (he/she) understands: (el/eya) entyende
+  - (we) understand:      (mozotras/mozotros) entyendemos
+  - (you) understand (p): (vozotras/vozotros) entyendesh
+  - (they) understand:    (eyas/eyos) entyenden
+
+  - (I) understood:       (yo) entendi
+
+Phrases:
+  - Phrase: no entyendo djudeo-espanyol
+    Translation: I don't understand Ladino
+  - Phrase: Kuantas linguas entyendes?
+    Translation: How many languages do you understand?
+
+

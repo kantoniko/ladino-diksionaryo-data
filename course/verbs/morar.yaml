@@ -1,0 +1,19 @@
+Skill:
+  Name: morar
+  Id: 1010
+
+New words: []
+
+Phrases: []
+
+Two-way-dictionary:
+  - to live: morar
+
+  - (I) live:     (yo) moro
+  - (you) live:   (tu) moras
+  - (s/he) lives: (el/eya) mora
+  - (we) live:    (mosotros/mosotras) moramos
+  - (you) live:   (vosotros/vosotras) morash
+  - (they) live:  (eyos/eyas) moran
+
+  - (we) lived:   moravamos

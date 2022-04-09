@@ -1,0 +1,45 @@
+Skill:
+  Name: Country Names
+  Id: 72
+
+New words: []
+
+Two-way-dictionary:
+  - Argentina: Ardjentina
+  - Bosnia:    Bosna
+  - Bulgaria:  Bulgaria
+  - Bulgaria:  Bulgariya
+  - France:    Fransia
+  - Hungary:   Ungaria
+  - Israel:    Israel
+  - Italy:     Italya
+  - Mexico:    Meksiko
+  - Poland:    Polonya
+  - Spain:     Espanya
+  - Suedia:    Sweden
+  - Turkey:    Turkia
+
+  - Europe:    evropa
+
+  - Hungarian: ungara
+  - Hungarian: ungaro
+  - Italian:   italyana
+  - Italian:   italiano
+  - Spanish:   espanyol
+  - Spanish:   espanyola
+  - Turkish:   turko
+
+# We might need to have a separate file for geographaic names other than country and city
+
+  - California: Kalifornia
+
+Phrases:
+  - Phrase: Ardjentina es un pais en sur Amerika
+    Translation: Argentina is a country in South America
+  - Phrase: En Ardjentina la djente avla en Kasteyano
+    Translation: In Argentina the people speak in Spanish
+  - Phrase: Bulgariya es en Evropa
+    Translation: Bulgaria is in Europe
+  - Phrase: Meksiko es en Norte de Amerika
+    Translation: Mexico is in North America
+

@@ -1,0 +1,24 @@
+Skill:
+  Name: Fruits
+  Id: 205
+
+New words: []
+
+Two-way-dictionary:
+ - almond:        (la) almendra
+ - apple:         (la) mansana
+ - apples:        (las) mansanas
+ - banana:        (la) banana
+ - fruit:         (la) fruta
+ - grape:         (la) uva
+ - lemon:         limon
+ - orange:        (el/la) portokal (Greek)
+ - plum:          (la) zirguela
+ - pomegranate:   (la) agranada
+ - watermelon:    karpuz
+
+Phrases:
+  - Phrase:  la zirguela tiene kolor blu
+    Translation: The plum is blue
+
+

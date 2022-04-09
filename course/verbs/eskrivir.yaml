@@ -1,0 +1,29 @@
+Skill:
+  Name: eskrivir
+  Id: 1022
+
+New words: []
+
+Two-way-dictionary:
+  - (to) write:      eskrivir
+
+  - (I) write:       (yo) eskrivo
+  - (you) write:     (tu) eskrives
+  - (he/she) writes: (el/eya) eskrive
+  - (we) write:      (mozotras/mozotros) eskrivimos
+  - (you) write:     (vozotras/vozotros) eskrivish
+  - (they) write:    (eyas/eyos) eskrivin
+
+  - (I) wrote:       eskrivyo
+  - writing:         eskriviendo
+
+
+Phrases:
+  - Phrase: David eskrive kartas en Kasteyano
+    Translation: David writes a letter in Spanish
+  - Phrase: Yo eskrivo bien en Kasteyano i en Fransez.
+    Translation: I write well in Spanish and French.
+  - Phrase: Rakel eskrive mesajes aki.
+    Translation: Rachel writes messages here.
+
+

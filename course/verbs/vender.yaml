@@ -1,0 +1,22 @@
+Skill:
+  Name: vender
+  Id: 1123
+
+New words: []
+
+Phrases: []
+
+Two-way-dictionary:
+  - (to) sell:  vender
+  - (I) sell: vendo
+  - (you) sell: vendes
+  - (he/she) sells: vende
+  - (we) sell: vendemos
+  - (you) sell: vendesh
+  - (they) sell: venden
+
+  - selling: vendyendo
+
+Phrases:
+  - Phrase: El vendedor vende los produktos
+    Translation: The salesman sells the products

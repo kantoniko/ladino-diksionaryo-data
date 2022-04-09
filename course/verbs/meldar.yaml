@@ -1,0 +1,29 @@
+Skill:
+  Name: meldar
+  Id: 1019
+
+New words: []
+
+Two-way-dictionary:
+  - (to) read:      meldar
+  - (I) read:       meldo
+  - (you) read:     meldas
+  - (he/she) reads: melda
+  - (we) read:      meldamos
+  - (you) read (p): meldash
+  - (they) read:    meldan
+
+  - (they) read:    melden
+# melden used by Moshe Shaul
+#
+# TODO meldando
+
+Phrases:
+  - Phrase: Tu meldas un livro en Ladino
+    Translation: You read a book in Ladino
+  - Phrase:  Yo meldo munchos livros
+    Translation: I read a lot of books
+  - Phrase:  Rakel melda bien en Ladino
+    Translation: Rachel reads well in Ladino
+
+

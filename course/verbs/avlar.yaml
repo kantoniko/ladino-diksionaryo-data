@@ -1,0 +1,49 @@
+Skill:
+  Name: avlar
+  Id: 1017
+
+New words: []
+
+Two-way-dictionary:
+  - to speak:        avlar
+  - (I) speak:       (yo) avlo
+  - (you) speak:     (tu) avlas
+  - (he/she) speaks: (el/eya) avla
+  - (we) speak:      (mozotras/mozotros) avlamos
+  - (you) speak (p): (vozotras/vozotros) avlash
+  - (they) speak:    (eyas/eyos) avlan
+
+  - (they) speak:    (eyas/eyos) avlen
+# avlen used by Moshe Shaul in the Hippocrene book of Alla Markova Begiiner's Ladino
+
+  - speakers:        avlantes
+  - speaking:        avlando
+
+  - (to) talk:       avlar
+
+  - speaker:         avlante
+
+  - will speak:      avlara
+
+
+
+Phrases:
+  - Phrase: Sara, en ke lengua avlas en kaza?
+    Translation: Sarah, in which language do you speak at home?
+  - Phrase: yo avlo en ebreo
+    Translation: I speak Hebrew
+  - Phrase: En ke lengua avlan tus djenitores?
+    Translation: In which language do your parents speak?
+  - Phrase: Mi padre i mi madre avlan entre eyos en djudeo-espanyol.
+    Translation: My father and my mother speak Ladino between themselves.
+  - Phrase: "{kon mi} avlan en ebreo"
+    Translation: "{with me} they speak Hebrew"
+  - Phrase: Avlas el djudeo-espanyol muy bien
+    Translation: You speak Ladino very well
+  - Phrase: avlantes del espanyol moderno
+    Translation: Modern spanish speakers
+  - Phrase: Yo so Ladino avlante
+    Translation: I am Ladino speaker
+
+
+

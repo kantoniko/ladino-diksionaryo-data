@@ -1,0 +1,41 @@
+Skill:
+  Name: City Names
+  Id: 71
+
+New words: []
+
+Two-way-dictionary:
+  - Belgrad:       Belgrado
+  - Dubrovnik:     Ragusa
+  - Haifa:         Hayfa
+  - Istanbul:      Estambul
+  - Istanbul:      Estambol
+  - Izmir:         Izmir
+  - Izmir:         Smyrna
+  - Jerusalem:     Yerushalayim
+  - Kastoria:      Kastoria
+  - Leghorn:       Livorno
+  - Monastir:      Monastir
+  - New York:      Mueva York
+  - Novi Pazar:    Yeni-Bazar
+  - Safed:         Tsfat
+  - Saragosa:      Saragosa
+  - Sarajevo:      Saray
+  - Sofia:         Sofya
+  - Tel Aviv:      Tel Aviv
+  - Thessaloniki:  Salonik
+  - Thessaloniki:  Saloniko
+
+
+Phrases:
+  - Phrase: Yo moro en Yerushalayim
+    Translation: I live in Jerusalem
+  - Phrase: Yo moro en {Mueva York}
+    Translation: I live in {New York}
+  - Phrase: Yo moro en Estambul
+    Translation: I live in Istanbul
+  - Phrase: Mozotros somos de {Tel Aviv}
+    Translation: We are from {Tel Aviv}
+  - Phrase: Eyos son de Yerushalayim
+    Translation: They are from Jerusalem
+

@@ -1,0 +1,28 @@
+Skill:
+  Name: komer
+  Id: 1005
+
+New words: []
+
+Two-way-dictionary:
+  - (to) eat: komer
+
+  - (I) eat:       komo
+  - (you) eat:     komes
+  - (he/she) eats: kome
+  - (we) eat:      komemos
+  - (you) eat (p): komesh
+  - (they) eat:    komen
+
+Phrases:
+  - Phrase: Yo komo pan
+    Translation: I eat bread
+  - Phrase: tu komes poko
+    Translation: You eat a little
+  - Phrase: tu deves komer mas
+    Translation: you have to eat more
+  - Phrase: Yo komo pan kon poyo.
+    Translation: I eat bread with chicken.
+  - Phrase: "{Me plaze} komer mansana kon kezo"
+    Translation: "{I like} to eat apple with cheese"
+

@@ -1,0 +1,23 @@
+Skill:
+  Name: amijorar
+  Id: 1156
+
+New words: []
+
+Two-way-dictionary:
+  - (to) improve: amijorar
+
+  - (I) improve:        (yo) amijoro
+  - (you) improve:      (tu) amijoras
+  - (he/she) improves:  (el/eya) amijora
+  - (we) improve:       (mozotras/mozotros) amijoramos
+  - (you) improve:      (vozotras/vozotros) amijorash
+  - (they) improve:     (eyas/eyos) amijoran
+
+  - in order: para
+
+Phrases:
+  - Phrase: Para amijorar tienes ke pratikar.
+    Translation: "{In order} to improve you have to practice."
+
+# Amijorar was seen in the diksionario Djudeo-Espanyol <-> Inglez de Guler Orgun et. al., but Rachel co

@@ -1,0 +1,26 @@
+Skill:
+  Name: demandar
+  Id: 1047
+
+New words: []
+
+Two-way-dictionary:
+  - (to) ask:      demandar
+
+  - (I) ask:         (yo) demando
+  - (you) ask:       (tu) demandas
+  - (he/she) asks:   (el/eya) demanda
+  - (we) ask:        (mozotras/mozotros) demandamos
+  - (you) ask:       (vozotras/vozotros) demandash
+  - (they) ask:      (eyas/eyos) demandan
+
+  - question:        (la) demanda
+  - questions:       (las) demandas
+
+  - (to) request:    demandar
+
+Phrases:
+  - Phrase: Tengo algunas demandas
+    Translation: I have some questions
+  - Phrase: Tengo una demanda
+    Translation: I have a question

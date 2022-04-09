@@ -1,0 +1,89 @@
+Skill:
+  Name: Transportation
+  Id: 213
+
+New words: []
+
+Two-way-dictionary:
+  - airplane:       (el) avion
+  - airplanes:      (los) aviones
+  - airport:        (el) aeroporto
+
+  - bicycle:        (la) bisikleta
+  - (small) boat:   (la) barka
+  - (small) boat:   (el) barko
+  - bus:            (el) otobus
+  - buses:          (los) otobuses
+
+  - car:            araba
+  - car:            koche
+  - car:            oto
+  - car:            otomobil
+  - cars:           arabas
+
+  - motorboat:      barka motorizada
+
+  - platform:       plataforma
+
+  - ship:           vapor
+  - ship:           nave
+  - station:        estasion
+
+  - ticket:         bilyeto
+  - taxi:           taksi
+  - train:          (el) tren
+  - trains:         (los) trenes
+  - train:          (el) treno
+  - trains:         (el) trenos
+
+
+Phrases:
+  - Phrase: el otobus
+    Translation: the bus
+  - Phrase: "{Vo a} viajar kon un otobus"
+    Translation: "{I am going to} travel with a bus"
+  - Phrase: Tu viajas kon oto o kon otobus?
+    Translation: Do you travel by car or by bus?
+  - Phrase: Ande puedo parkear el otomobil
+    Translation: Where can I park the car
+  - Phrase: Ande puedo parkear la bisikleta
+    Translation: Where can I park the bicycle
+  - Phrase: Ande puedo merkar un bilyeto por el treno
+    Translation: Where can I buy a ticket for the train
+  - Phrase: Ande puedo merkar un bilyeto por la partida
+    Translation: Where can I buy a ticket for the game
+  - Phrase: Kero merkar un bilyeto de avion
+    Translation: I want to buy an airplane ticket
+  - Phrase: El treno esta tadre
+    Translation: The train is late
+  - Phrase: El otobus esta tadre
+    Translation: The bus is late
+  - Phrase: El otobus esta tadre
+    Translation: The bus is late
+  - Phrase: Esta es la plataforma djusta?
+    Translation: Is this the right platform?
+  - Phrase: Este treno va a Estambul?
+    Translation: Does this train go to Istanbul?
+  - Phrase: Ande puedo topar un taksi?
+    Translation: Where can I take a taxi?
+  - Phrase: Ande esta la estasion de otobus?
+    Translation: Where is the bus station?
+  - Phrase: Ande esta la estasion de treno?
+    Translation: Where is the train station?
+  - Phrase: Ande esta la estasion de taksi?
+    Translation: Where is the taxi station?
+  - Phrase: "{Kuanto tiempo} asperamos"
+    Translation: "{How long} do we wait"
+  - Phrase: El treno esta anulado
+    Translation: The train is cancelled
+  - Phrase: Kuando ayega el otobus?
+    Translation: When does the bus arrive?
+  - Phrase: Kuando ayega el avion
+    Translation: When does the airplane arrive
+  - Phrase: Este lugar este libre
+    Translation: Is this place free
+  - Phrase: Komo puedo ir ayi.
+    Translation: How can I go there?
+  - Phrase: En el aeroporto ay aviones.
+    Translation: There are airplanes at the airport.
+

@@ -1,0 +1,15 @@
+Skill:
+  Name: tomar
+  Id: 1021
+
+New words: []
+
+Phrases:
+  - Phrase: Yo tomo un kafe
+    Translation: I take a coffee
+
+Two-way-dictionary:
+  - (to) take: tomar
+  - (I) take: tomo
+  - (you) take: tomas
+  - (he/she) takes: (el/eya) toma

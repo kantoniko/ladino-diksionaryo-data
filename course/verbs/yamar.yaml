@@ -1,0 +1,57 @@
+Skill:
+  Name: yamar
+  Id: 1000
+
+New words: []
+
+Two-way-dictionary:
+  - (to) call:       yamar
+  - (I) call:        (yo) yamo
+  - (you) call:      (tu) yamas
+  - (he/she) calls:  (el/eya) yama
+  - (we) call:       (mozotras/mozotros) yamamos
+  - (you) call:      (vozotras/vozotros) yamash
+  - (they) call:      (eyas/eyos) yaman
+
+  - (to) name:       yamar
+
+
+  - to be called oneself (reflexive): yamarse
+  - I am called:     me yamo
+  - my name (is):      me yamo
+  - you are called:  te yamas
+  - he is called:    se yama
+  - she is called:   se yama
+  - we are called:   mos yamamos
+  - you are called:  vos yamash
+  - they are called: se yaman
+
+  - called:          yamada
+  - to be named (reflexive): yamarse
+  - is being called: yamada
+
+  - (you are) called: (vos) yamash
+  - (they) called: yamavan
+
+# TODO yaman
+
+Phrases:
+  - Phrase: "{Me yamo} Dani"
+    Alternative versions:
+      - Yo me yamo Dani
+    Translation: My name is Dani
+  - Phrase: "Komo {te yamas?}"
+    Translation: What is your name?
+  - Phrase: "Komo {se yama} tu madre?"
+    Translation: What is the name of your mother?
+  - Phrase: "{Se yama} Rakel"
+    Translation: Her name is Rachel
+  - Phrase: "Komo {se yama} tu padre?"
+    Translation: What is the name of your father?
+  - Phrase: "{Se yama} David"
+    Translation: His name is David
+  - Phrase: La fruta yamada banana es amariyo
+    Translation: The fruit that is called banana is yellow
+  - Phrase: Komo vos yamash?
+    Translation: What is your name?
+

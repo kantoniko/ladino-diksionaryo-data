@@ -1,0 +1,32 @@
+Skill:
+  Name: estudiar
+  Id: 1044
+
+New words: []
+
+Two-way-dictionary:
+  - (to) study:       estudiar
+  - (I) study:        estudio
+  - (you) study:      estudias
+  - (he/she) studies: estudia
+  - (we) study:       estudiamos
+  - (you) study (p):  estudiash
+  - (they) study:     estudian
+
+Phrases:
+  - Phrase: Yo kero estudiar Djudeo-espanyol.
+    Translation: I want to study Ladino
+  - Phrase: Komo estudias Djudeo-espanyol?
+    Translation: How do you study Ladino?
+  - Phrase: Yo estudio Djudeo-espanyol.
+    Translation: I study Ladino.
+  - Phrase: David estudia Ebreo.
+    Translation: David studies Hebrew.
+  - Phrase: David i yo estudiamos djuntos
+    Translation: David an I study together
+  - Phrase: Yosi i Rakel estudian djuntos
+    Translation: Yosi and Rachel study together
+  - Phrase: Ande vozotros dos estudiash?
+    Translation: Where do you two study?
+
+

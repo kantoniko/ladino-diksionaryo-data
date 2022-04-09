@@ -1,0 +1,23 @@
+Skill:
+  Name: saver
+  Id: 1037
+
+New words: []
+
+Two-way-dictionary:
+  - (to) know:     saver
+
+  - (I) know:       (yo) se
+  - (you) know:     (tu) saves
+  - (he/she) knows: (el/eya) save
+  - (we) know:      (mozotras/mozotros) savemos
+  - (you) know:     (vozotras/vozotros) savesh
+  - (they) know:    (eyas/eyos) saven
+
+  - I don't know:   no se
+
+Phrases:
+  - Phrase: "{No se}"
+    Translation: "{I don't know}"
+
+

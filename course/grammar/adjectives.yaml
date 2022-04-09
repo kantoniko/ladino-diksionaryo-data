@@ -1,0 +1,45 @@
+Skill:
+  Name: Posessive Adjectives
+  Id: 53
+
+New words: []
+
+Two-way-dictionary:
+  - my:     mi
+  - your:   tu
+  - her:    su
+  - his:    su
+  - our:    muestra
+  - our:    muestro
+  - your:   vuestra
+  - your:   vuestro
+  - their:  su
+
+  - my:     mis
+  - your:   tus
+  - her:    sus
+  - his:    sus
+  - our:    muestras
+  - our:    muestros
+  - your:   vuestras
+  - your:   vuestros
+  - their:  sus
+
+
+  - mine:   miyo
+  - yours:  tuyo
+  - hers:   suyo
+  - his:    suyo
+
+Phrases:
+  - Phrase: Mi livro
+    Translation: My book
+  - Phrase: Mis livros
+    Translation: My books
+  - Phrase: De ken este livro? Es miyo.
+    Translation: Whose is this book? It is mine.
+  - Phrase: muestros livro
+    Translation: our books
+  - Phrase: muestras livros
+    Translation: our books
+

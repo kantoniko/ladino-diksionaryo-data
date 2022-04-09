@@ -1,0 +1,40 @@
+Skill:
+  Name: Professions
+  Id: 228
+
+New words: []
+
+Phrases: []
+
+Two-way-dictionary:
+  - actor:               (el) aktor
+  - actors:              (los) aktores
+  - actress:             (la) aktrisa
+  - actresses:           (las) aktrisas
+  - architect:           (el) arkitekt
+  - clown:               (el) paylacho
+  - clowns:              (los) paylachos
+  - comedian:            (el) komediante
+  - comedians:           (los) komediantes
+  - dentist:             (el) dientisto
+  - editor:              (el) redaktor
+  - editors:             (los) redaktores
+  - guide:               (la) giadera
+  - journalist:          (la) djornalista
+  - mafioso:             (la) mafyonera
+  - mafioso:             (el) mafyonero
+  - manager:             (el) direktor
+  - manager:             (la) direktora
+  - physican:            (el) doktor
+  - physican:            (la) doktora
+  - teacher:             (el) profesor
+  - teacher:             (la) profesora
+  - teachers:            (las) profesoras
+  - teachers:            (los) profesores
+  - salesman:            (el) vendedor
+  - saleswoman:          (la) vendedora
+  - saleswomen:          (las) vendedoras
+  - salesmen:            (los) vendedores
+  - umbrella salesman:   (el) chadirdjis
+  - waiter:              (el) garson
+  - waiters:             (los) garsones

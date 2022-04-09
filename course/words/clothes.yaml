@@ -1,0 +1,75 @@
+Skill:
+  Name: Clothes
+  Id: 201
+
+New words: []
+
+Two-way-dictionary:
+  - baseball hat:  (la) kasketa
+  - belt:          (la) sintura
+  - belt:          (el) kushak
+  - boots:         (las) chizmes
+  - boxer:         (la) braga de bokser
+  - button:        (el) boton
+  - bra:           (el) sutien
+  - clothes:       ropa
+  - dress:         (el) fostan
+  - flip-flops:    (las) sandalas de dedo
+  - gloves:        (los) guantes
+  - hat:           (el) chapeo
+  - hat:           (el) chapeyo
+  - jacket:        (la) djaketa
+  - jeans:         (los) djins
+  - panties:       (la) braga
+  - pants:         (los) pantalones
+  - pants:         (el) pantalon
+  - raincoat:      (la) empermeable
+  - sandals:       (las) sandalas
+  - sari:          (el) sari
+  - scarf:         muslin
+  - scarf:         (la) esharpa
+  - shoe:          chapine
+  - shoe:          kalsado
+  - shoelace:      (los) kordones
+  - shoes:         chapines
+  - shoes:         (los) kalsados
+  - shorts:        (el) pantalon kurto
+  - shirt:         (la) kamiza
+  - skirt:         (la) fusta
+  - sneakers:      (los) kalsados de spor
+  - socks:         (las) kalsas
+  - suit:          (el) kostum
+  - sweather:      (el) pulover
+  - swim trunks:   (el) mayo de ombre
+  - swimsuit:      (el) mayo
+  - t-shirt:       kamizeta
+  - t-shirt:       (el) tshirt
+  - tie:           (la) kravata
+  - trousers:      pantalones
+  - umbrella:      (el) chair
+  - underwear:     ropa interior
+  - purse:         (la) chanta
+  - wallet:        (el) portfolio
+
+Phrases:
+  - Phrase: "Una kamiza vedre, {por favor}"
+    Translation: A green shirt, please
+  - Phrase: Me plazer!
+    Translation: I like it!
+  - Phrase: Kuanto kosta?
+    Translation: "{How much} is it?"
+  - Phrase: El fostan es ermozo
+    Translation: The dress is beautiful
+  - Phrase: Los kalsados son grandes
+    Translation: The shoes are big
+  - Phrase: La kamiza es grande
+    Translation: The shirt is big
+  - Phrase: La kamizeta es grande
+    Translation: The t-shirt is big
+  - Phrase: La fusta es chika
+    Translation: The skirt is small
+  - Phrase: el chapeo
+    Translation: the hat
+  - Phrase: el chapeyo
+    Translation: the hat
+

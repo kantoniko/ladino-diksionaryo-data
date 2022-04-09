@@ -1,0 +1,21 @@
+Skill:
+  Name: kantar
+  Id: 1003
+
+New words: []
+
+Two-way-dictionary:
+  - (to) sing:      kantar
+  - (I) sing:       (yo) kanto
+  - (you) sing:     (tu) kantas
+  - (he/she) sings: (el/eya) kanta
+  - (we) sing:      (mozotras/mozotros) kantamos
+  - (you) sing (p): (vozotras/vozotros) kantash
+  - (they) sing:    (eyas/eyos) kantan
+
+  - songs:          kantes
+
+Phrases:
+  - Phrase: "{Me plaze} kantar en Ladino"
+    Translation: "{I like} to sing in Ladino"
+

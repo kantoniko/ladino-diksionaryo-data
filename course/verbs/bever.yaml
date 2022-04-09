@@ -1,0 +1,21 @@
+Skill:
+  Name: bever
+  Id: 1009
+
+New words: []
+
+Two-way-dictionary:
+  - (to) drink:      bever
+
+  - (I) drink:       bevo
+  - (you) drink:     beves
+  - (he/she) drinks: beve
+  - (we) drink:      bevemos
+  - (you) drink (p): bevesh
+  - (they) drink:    beven
+
+Phrases:
+  - Phrase: Yo bevo leche
+    Translation: I drink milk
+
+

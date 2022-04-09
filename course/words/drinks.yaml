@@ -1,0 +1,39 @@
+Skill:
+  Name: Drinks
+  Id: 226
+
+New words: []
+
+Two-way-dictionary:
+  - alcohol:         alkol
+  - apple juice:     (el) sumo de mansana
+  - beer:            (la) bira
+  - capuchino:       (el) kapuchino
+  - champagne:       (la) shampanya
+  - coffee:          (el) kafe
+  - coffee:          (el) kave
+  - coke:            (la) kokakola
+  - espresso:        (el) espreso
+  - juice:           (el) sumo
+  - milk:            (la) leche
+  - orange juice:    (el) sumo de portokal
+  - tea:             (el) chay
+  - water:           (la) agua
+  - sparkling water: (la) agua kon gaz
+  - wine:            (el) vino
+
+
+Phrases:
+  - Phrase: Puedes dar un sumo de portokal?
+    Translation: Can you give an orange juice?
+  - Phrase: Un vazo del vino, por favor.
+    Translation: A glass of wine, please.
+  - Phrase: Me puedes dar una redoma de agua, por favor?
+    Translation: Can you give me a bottle of water, please?
+  - Phrase: Yo bevo un findjan de kafe.
+    Translation: I drink a cup of coffee.
+  - Phrase: Ke prefieres bever, un kafe espreso o un kapuchino?
+    Translation: What do your prefer to drink, an espresso or a capuchino?
+  - Phrase: Yo kero una redoma de agua i un vazo de {agua kon gaz}
+    Translation: I {would like} a bottle of water and a glass of {sparkling water}
+
