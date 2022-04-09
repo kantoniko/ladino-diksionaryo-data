@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2736'
+origen: Izmir
+versions:
+-   accented: réshas
+    alternative-spelling:
+    -   accented: reshíkas
+        ladino: reshikas
+    gender: feminine
+    ladino: reshas
+    number: singular
+    translations:
+        english: Pretzel-shaped sweet cooky
+        french: ''
+        portuguese: ''
+        spanish: pastelitos dulces
+        turkish: tatlı kurabiyeler

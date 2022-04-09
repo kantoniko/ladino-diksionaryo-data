@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2722'
+origen: Aki Yerushalayim
+versions:
+-   accented: kulupíya
+    alternative-spelling:
+    -   accented: koliflór
+        ladino: koliflor
+    gender: feminine
+    ladino: kulupiya
+    number: singular
+    translations:
+        english: cauliflower
+        french: ''
+        portuguese: ''
+        spanish: coliflor
+        turkish: karnıbahar

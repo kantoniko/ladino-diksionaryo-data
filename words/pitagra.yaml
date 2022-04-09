@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2733'
+origen: Estanbol
+versions:
+-   accented: pitágra
+    gender: feminine
+    ladino: pitagra
+    number: singular
+    translations:
+        english: dried apricot paste sheet
+        french: ''
+        portuguese: ''
+        spanish: pasta seca de albericoque
+        turkish: kayısı pestili

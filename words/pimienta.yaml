@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2732'
+origen: Jeneral
+versions:
+-   accented: pimiénta
+    gender: feminine
+    ladino: pimienta
+    number: singular
+    translations:
+        english: black pepper
+        french: ''
+        portuguese: ''
+        spanish: pimienta
+        turkish: kara biber

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2729'
+origen: Izmir
+versions:
+-   accented: pastéles
+    gender: masculine
+    ladino: pasteles
+    number: singular
+    translations:
+        english: meat pies
+        french: ''
+        portuguese: ''
+        spanish: empanadas
+        turkish: etli börek

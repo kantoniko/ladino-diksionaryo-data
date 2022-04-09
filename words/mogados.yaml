@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2726'
+origen: Izmir
+versions:
+-   accented: mogádos
+    alternative-spelling:
+    -   accented: masapan
+        ladino: masapan
+    gender: masculine
+    ladino: mogados
+    number: singular
+    translations:
+        english: marzipan
+        french: ''
+        portuguese: ''
+        spanish: mazapán
+        turkish: badem ezmesi

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2734'
+origen: Estanbol
+versions:
+-   accented: prasifúchi
+    gender: masculine
+    ladino: prasifuchi
+    number: singular
+    translations:
+        english: leek pastry
+        french: ''
+        portuguese: ''
+        spanish: fritada de puerro
+        turkish: pırasa kayganası

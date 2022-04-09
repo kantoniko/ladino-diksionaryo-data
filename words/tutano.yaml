@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2740'
+origen: Estanbol
+versions:
+-   accented: tútano
+    gender: masculine
+    ladino: tutano
+    number: singular
+    translations:
+        english: marrow of bone
+        french: ''
+        portuguese: ''
+        spanish: tuétano
+        turkish: kemik iliği

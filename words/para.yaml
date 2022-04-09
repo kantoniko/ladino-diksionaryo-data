@@ -1,0 +1,19 @@
+examples:
+-   ladino: Este pan es para este kezo.
+grammar: preposition
+id: '2750'
+origen: Jeneral
+versions:
+-   accented: pára
+    ladino: para
+    translations:
+        english:
+        - for
+        - to
+        french: ''
+        portuguese: ''
+        spanish: para
+        turkish: için
+
+# pára (prep.),Este pan es para este kezo.,para,"for, to",için,Jeneral,2750,,
+# pará (f),La pará va i viene.,dinero,money,para,Estanbol,2751,,

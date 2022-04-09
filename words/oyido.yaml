@@ -1,0 +1,16 @@
+comments:
+- 'grammar: m), oréja (f'
+examples:
+-   ladino: Por un oyido le entra, por el otro le sale.
+grammar: null
+id: '2749'
+origen: Jeneral
+versions:
+-   accented: oyído
+    ladino: oyido
+    translations:
+        english: ear
+        french: ''
+        portuguese: ''
+        spanish: oreja
+        turkish: kulak

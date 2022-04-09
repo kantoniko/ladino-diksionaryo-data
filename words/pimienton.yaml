@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2731'
+origen: Jeneral
+versions:
+-   accented: pimientón
+    gender: masculine
+    ladino: pimienton
+    number: singular
+    translations:
+        english:
+        - green pepper
+        - fresh
+        french: ''
+        portuguese: ''
+        spanish: pimientón verde
+        turkish: yeşil biber
