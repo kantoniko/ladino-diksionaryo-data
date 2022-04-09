@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1873'
+origen: Jeneral
+versions:
+-   accented: invitasion
+    ladino: invitasion
+    translations:
+        english: invitation
+        french: ''
+        portuguese: ''
+        spanish: invitación
+        turkish: dâvet

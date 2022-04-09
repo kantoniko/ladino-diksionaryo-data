@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1871'
+origen: Jeneral
+versions:
+-   accented: introduzir
+    ladino: introduzir
+    translations:
+        english: introduce
+        french: ''
+        portuguese: ''
+        spanish: introducir
+        turkish: dahil etmek

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1849'
+origen: Jeneral
+versions:
+-   accented: iluzion
+    ladino: iluzion
+    translations:
+        english: illusion
+        french: ''
+        portuguese: ''
+        spanish: ilusión
+        turkish:
+        - hayal
+        - düş

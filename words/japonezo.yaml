@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1875'
+origen: Jeneral
+versions:
+-   accented: japonezo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: japonezo
+    translations:
+        english: japanese
+        french: ''
+        portuguese: ''
+        spanish: japonés - a
+        turkish: japon

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1850'
+origen: Jeneral
+versions:
+-   accented: imenso
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: imenso
+    translations:
+        english: immense
+        french: ''
+        portuguese: ''
+        spanish: inmenso / a
+        turkish: kocaman

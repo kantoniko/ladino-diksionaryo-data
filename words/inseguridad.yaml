@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1868'
+origen: Jeneral
+versions:
+-   accented: inseguridad
+    ladino: inseguridad
+    translations:
+        english: insecurity
+        french: ''
+        portuguese: ''
+        spanish: inseguridad
+        turkish: güvensizlik

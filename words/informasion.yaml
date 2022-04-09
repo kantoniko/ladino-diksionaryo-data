@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1863'
+origen: Jeneral
+versions:
+-   accented: informasion
+    ladino: informasion
+    translations:
+        english: information
+        french: ''
+        portuguese: ''
+        spanish: información
+        turkish: malûmat

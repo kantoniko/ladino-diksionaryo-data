@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1870'
+origen: Jeneral
+versions:
+-   accented: instrumento de lokomosion
+    ladino: instrumento de lokomosion
+    translations:
+        english: vehicle
+        french: ''
+        portuguese: ''
+        spanish: vehículo
+        turkish: taşıt aracı

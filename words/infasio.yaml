@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1862'
+origen: Jeneral
+versions:
+-   accented: infasio
+    ladino: infasio
+    translations:
+        english: boredom
+        french: ''
+        portuguese: ''
+        spanish: tedio
+        turkish: usanç

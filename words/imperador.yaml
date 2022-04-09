@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1855'
+origen: Jeneral
+versions:
+-   accented: imperador
+    ladino: imperador
+    translations:
+        english: emperor
+        french: ''
+        portuguese: ''
+        spanish: emperador
+        turkish: imparator

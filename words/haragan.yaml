@@ -1,0 +1,31 @@
+comments:
+- 'grammar: m/f / adj'
+examples:
+-   ladino: En mi chikes, ero un poko haragana.
+grammar: null
+id: '1848'
+origen: Jeneral
+versions:
+-   accented: haragán
+    alternative-spelling:
+    -   accented: haragana
+        ladino: haragana
+    -   accented: paresozo
+        ladino: paresozo
+    -   accented: paresoza
+        ladino: paresoza
+    ladino: haragan
+    translations:
+        english:
+        - idle
+        - lazy
+        french:
+        - paresseux
+        - oisof
+        portuguese: preguisoso
+        spanish:
+        - perezoso
+        - holgazán
+        turkish:
+        - tembel
+        - üşengeç

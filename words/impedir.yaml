@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1854'
+origen: Jeneral
+versions:
+-   accented: impedir
+    ladino: impedir
+    translations:
+        english:
+        - stop
+        - prevent
+        french: ''
+        portuguese: ''
+        spanish: impedir
+        turkish: engel olmak
