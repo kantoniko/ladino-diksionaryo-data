@@ -1,0 +1,14 @@
+examples: []
+grammar: null
+id: '138'
+origen: Jeneral
+versions:
+-   accented: avansar
+    ladino: avansar
+    translations:
+        english: advance
+        french: ''
+        portuguese: ''
+        spanish: avanzar
+        turkish: ilerlemek
+
