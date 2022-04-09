@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1881'
+origen: Jeneral
+versions:
+-   accented: kantador
+    alternative-spelling:
+    -   accented: dera
+        ladino: dera
+    ladino: kantador
+    translations:
+        english: singer
+        french: ''
+        portuguese: ''
+        spanish: cantor - a
+        turkish: şarkıcı

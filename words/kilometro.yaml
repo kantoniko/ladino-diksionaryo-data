@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1899'
+origen: Jeneral
+versions:
+-   accented: kilometro
+    ladino: kilometro
+    translations:
+        english: kilometre
+        french: ''
+        portuguese: ''
+        spanish: kilómetro
+        turkish: kilometre

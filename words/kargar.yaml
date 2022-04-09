@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1889'
+origen: Jeneral
+versions:
+-   accented: kargar
+    ladino: kargar
+    translations:
+        english:
+        - load
+        - charge
+        french: ''
+        portuguese: ''
+        spanish: cargar
+        turkish: yüklemek

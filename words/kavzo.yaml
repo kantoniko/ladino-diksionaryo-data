@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1895'
+origen: Jeneral
+versions:
+-   accented: kavzo
+    ladino: kavzo
+    translations:
+        english:
+        - case
+        - event
+        french: ''
+        portuguese: ''
+        spanish: caso
+        turkish:
+        - olay
+        - durum

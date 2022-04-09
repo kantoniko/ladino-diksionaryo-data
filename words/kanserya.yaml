@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1880'
+origen: Jeneral
+versions:
+-   accented: kanserya
+    ladino: kanserya
+    translations:
+        english:
+        - tiredness
+        - fatigue
+        french: ''
+        portuguese: ''
+        spanish: cansancio
+        turkish: yorgunluk
