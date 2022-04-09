@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1969'
+origen: Jeneral
+versions:
+-   accented: lusido
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: lusido
+    translations:
+        english: lucid
+        french: ''
+        portuguese: ''
+        spanish: lúcido / a
+        turkish: açık seçik

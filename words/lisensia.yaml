@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1966'
+origen: Jeneral
+versions:
+-   accented: lisensia
+    ladino: lisensia
+    translations:
+        english:
+        - licence
+        - permission
+        french: ''
+        portuguese: ''
+        spanish: licencia
+        turkish: lisans

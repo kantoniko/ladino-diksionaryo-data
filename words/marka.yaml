@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1978'
+origen: Jeneral
+versions:
+-   accented: marka
+    ladino: marka
+    translations:
+        english:
+        - mark
+        - brand
+        french: ''
+        portuguese: ''
+        spanish: marca
+        turkish: marka

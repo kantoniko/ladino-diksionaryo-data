@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1980'
+origen: Jeneral
+versions:
+-   accented: matar
+    ladino: matar
+    translations:
+        english: kill
+        french: ''
+        portuguese: ''
+        spanish: matar
+        turkish: óldürmek

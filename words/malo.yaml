@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1972'
+origen: Jeneral
+versions:
+-   accented: malo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: malo
+    translations:
+        english:
+        - bad
+        - naughty
+        french: ''
+        portuguese: ''
+        spanish: malo / a
+        turkish:
+        - fena
+        - yaramaz

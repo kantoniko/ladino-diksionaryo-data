@@ -1,0 +1,19 @@
+comments:
+- 'grammar: adj/pron.'
+examples:
+-   ladino: Se puede meldar en kualkier livro de linguistika.
+grammar: null
+id: '1957'
+origen: Jeneral
+versions:
+-   accented: kualkiér
+    alternative-spelling:
+    -   accented: kualkyér
+        ladino: kualkyer
+    ladino: kualkier
+    translations:
+        english: any
+        french: ''
+        portuguese: ''
+        spanish: cualquier / cualqiera
+        turkish: herhangi

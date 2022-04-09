@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1977'
+origen: Jeneral
+versions:
+-   accented: mareo
+    alternative-spelling:
+    -   accented: shasheo
+        ladino: shasheo
+    ladino: mareo
+    translations:
+        english:
+        - vertigo
+        - giddiness
+        french: ''
+        portuguese: ''
+        spanish: vértigo
+        turkish: baş dónmesi

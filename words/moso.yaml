@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1997'
+origen: Jeneral
+versions:
+-   accented: moso
+    alternative-spelling:
+    -   accented: mosa
+        ladino: mosa
+    ladino: moso
+    translations:
+        english:
+        - maid
+        - servant
+        french: ''
+        portuguese: ''
+        spanish:
+        - criada
+        - mozo / moza
+        turkish: hizmetçi

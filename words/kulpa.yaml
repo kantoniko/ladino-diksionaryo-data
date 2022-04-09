@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1961'
+origen: Jeneral
+versions:
+-   accented: kulpa
+    ladino: kulpa
+    translations:
+        english: fault
+        french: ''
+        portuguese: ''
+        spanish: culpa
+        turkish: hata

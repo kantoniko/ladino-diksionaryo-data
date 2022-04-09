@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1975'
+origen: Jeneral
+versions:
+-   accented: mansana
+    ladino: mansana
+    translations:
+        english: apple
+        french: ''
+        portuguese: ''
+        spanish: manzana
+        turkish: elma

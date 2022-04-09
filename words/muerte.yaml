@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '2000'
+origen: Jeneral
+versions:
+-   accented: muerte
+    ladino: muerte
+    translations:
+        english:
+        - decease
+        - death
+        french: ''
+        portuguese: ''
+        spanish:
+        - muerte
+        - fallecimiento
+        turkish:
+        - vefat
+        - ölüm

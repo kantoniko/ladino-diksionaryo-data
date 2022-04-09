@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1970'
+origen: Jeneral
+versions:
+-   accented: maho
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: maho
+    translations:
+        english: quiet
+        french: ''
+        portuguese: ''
+        spanish: majo / a
+        turkish: durgun

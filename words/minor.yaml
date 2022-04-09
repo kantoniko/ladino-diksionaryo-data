@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1992'
+origen: Jeneral
+versions:
+-   accented: minor
+    ladino: minor
+    translations:
+        english: minor
+        french: ''
+        portuguese: ''
+        spanish: menor
+        turkish:
+        - önemsiz
+        - reşit olmayan

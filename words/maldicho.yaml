@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1971'
+origen: Jeneral
+versions:
+-   accented: maldicho
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: maldicho
+    translations:
+        english: damned
+        french: ''
+        portuguese: ''
+        spanish: maldito / a
+        turkish: lânetli

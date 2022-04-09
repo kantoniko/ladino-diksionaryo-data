@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1974'
+origen: Jeneral
+versions:
+-   accented: manera
+    ladino: manera
+    translations:
+        english: manner
+        french: ''
+        portuguese: ''
+        spanish: manera
+        turkish:
+        - tarz
+        - şekil

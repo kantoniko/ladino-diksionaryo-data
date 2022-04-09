@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1994'
+origen: Jeneral
+versions:
+-   accented: mirakolo
+    alternative-spelling:
+    -   accented: milagro
+        ladino: milagro
+    ladino: mirakolo
+    translations:
+        english: miracle
+        french: ''
+        portuguese: ''
+        spanish: milagro
+        turkish: mucize

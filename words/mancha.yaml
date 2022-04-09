@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1973'
+origen: Jeneral
+versions:
+-   accented: mancha
+    ladino: mancha
+    translations:
+        english: stain
+        french: ''
+        portuguese: ''
+        spanish: mácula
+        turkish: leke

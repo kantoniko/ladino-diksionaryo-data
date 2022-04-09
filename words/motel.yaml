@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1999'
+origen: Jeneral
+versions:
+-   accented: motel
+    ladino: motel
+    translations:
+        english:
+        - inn
+        - motel
+        french: ''
+        portuguese: ''
+        spanish: fonda
+        turkish:
+        - motel
+        - han

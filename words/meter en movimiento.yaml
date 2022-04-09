@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1988'
+origen: Jeneral
+versions:
+-   accented: meter en movimiento
+    ladino: meter en movimiento
+    translations:
+        english:
+        - move
+        - shift
+        french: ''
+        portuguese: ''
+        spanish: mover
+        turkish: hareket ettirmek

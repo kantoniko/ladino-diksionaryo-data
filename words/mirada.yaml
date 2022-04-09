@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1993'
+origen: Jeneral
+versions:
+-   accented: mirada
+    ladino: mirada
+    translations:
+        english:
+        - look
+        - glance
+        french: ''
+        portuguese: ''
+        spanish: mirada
+        turkish: bakış

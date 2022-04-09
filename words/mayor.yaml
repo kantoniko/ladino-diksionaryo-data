@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1981'
+origen: Jeneral
+versions:
+-   accented: mayor
+    ladino: mayor
+    translations:
+        english: major
+        french: ''
+        portuguese: ''
+        spanish: mayor
+        turkish:
+        - reşit
+        - ónemli; binbaşı
