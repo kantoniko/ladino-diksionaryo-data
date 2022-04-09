@@ -1,0 +1,21 @@
+conjugations: {}
+examples:
+-   ladino: Si sonreimos a la vida, eya tambien mos sonreira .
+grammar: verb
+id: '1037'
+origen: Jeneral
+versions:
+-   accented: sonreír
+    ladino: sonreir
+    alternative-spelling:
+      - ladino: sonriir
+        accented: sonriír
+      - ladino: sonriyir
+        accented: sonriyír
+    translations:
+        english: smile
+        french: sourire
+        portuguese: sorrir
+        spanish: sonreír
+        turkish: gülümsemek
+
