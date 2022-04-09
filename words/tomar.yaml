@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: Toma i demanda.
+grammar: verb
+id: '1083'
+origen: Jeneral
+versions:
+-   accented: tomár
+    ladino: tomar
+    translations:
+        english: take
+        french: ''
+        portuguese: ''
+        spanish: tomar
+        turkish:
+        - almak
+        - (içki
+        - yemek vs.)
