@@ -1,0 +1,23 @@
+examples:
+-   ladino: 'Meldi el artikolo kon grande atansion i alegriya. '
+grammar: null
+id: '2394'
+origen: Jeneral
+versions:
+-   accented: atansión
+    alternative-spelling:
+    -   accented: atansyón
+        ladino: atansyon
+    -   accented: atensión
+        ladino: atension
+    ladino: atansion
+    translations:
+        english:
+        - attention
+        - civility
+        french: ''
+        portuguese: ''
+        spanish: atención
+        turkish:
+        - dikkat
+        - itina

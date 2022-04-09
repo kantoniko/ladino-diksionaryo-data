@@ -1,0 +1,20 @@
+examples:
+-   ladino: A todos los muevos abonados, vos digo un grande "bienvenidos".
+grammar: preposition
+id: '2368'
+origen: Jeneral
+versions:
+-   accented: a
+    ladino: a
+    translations:
+        english:
+        - at
+        - to
+        french: ''
+        portuguese: ''
+        spanish: a
+        turkish:
+        - a
+        - e
+        - ya
+        - ye

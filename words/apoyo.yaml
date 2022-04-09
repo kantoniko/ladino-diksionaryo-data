@@ -1,0 +1,18 @@
+examples:
+-   ladino: A lo menos tendremos su apoyo moral.
+grammar: null
+id: '2389'
+origen: Jeneral
+versions:
+-   accented: apóyo
+    gender: masculine
+    ladino: apoyo
+    number: singular
+    translations:
+        english: support
+        french: ''
+        portuguese: ''
+        spanish: apoyo
+        turkish:
+        - destek
+        - dayanak

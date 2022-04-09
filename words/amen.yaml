@@ -1,0 +1,18 @@
+examples:
+-   ladino: 'Vida larga i salud buena ke tenga, amen.
+
+        Por un amen ke no kede.'
+grammar: null
+id: '2382'
+origen: Jeneral
+versions:
+-   accented: amén
+    gender: masculine
+    ladino: amen
+    number: singular
+    translations:
+        english: amen
+        french: ''
+        portuguese: ''
+        spanish: amén
+        turkish: amin

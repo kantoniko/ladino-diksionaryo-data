@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ofriyan dulses kon una tavla de plata kon vazos de agua freska.
+grammar: null
+id: '2371'
+origen: Jeneral
+versions:
+-   accented: água
+    gender: feminine
+    ladino: agua
+    number: singular
+    translations:
+        english: water
+        french: ''
+        portuguese: ''
+        spanish: agua
+        turkish: su

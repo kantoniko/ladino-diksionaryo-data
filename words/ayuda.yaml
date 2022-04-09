@@ -1,0 +1,22 @@
+examples:
+-   ladino: Todo se va enderechar kon ayuda del Dio.
+grammar: null
+id: '2402'
+origen: Jeneral
+versions:
+-   accented: ayúda
+    gender: feminine
+    ladino: ayuda
+    number: singular
+    translations:
+        english:
+        - help
+        - assistance
+        - aid
+        french: ''
+        portuguese: ''
+        spanish: ayuda
+        turkish: yardım
+
+# ayúda (f),Todo se va enderechar kon ayuda del Dio.,ayuda,"help, assistance, aid",yardım,Jeneral,2402,,
+# ayúda (f),El doktor le rekomendo una ayuda.,enema,enema,"lavman, şırınga",Estanbol,2403,,

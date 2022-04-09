@@ -1,0 +1,14 @@
+examples:
+-   ladino: Ayde no tenemos tiempo.
+grammar: null
+id: '2401'
+origen: Estanbol
+versions:
+-   accented: áyde
+    ladino: ayde
+    translations:
+        english: come on
+        french: ''
+        portuguese: ''
+        spanish: vamos
+        turkish: haydi

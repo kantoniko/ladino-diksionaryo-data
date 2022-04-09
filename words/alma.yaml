@@ -1,0 +1,25 @@
+examples:
+-   ladino: 'Ke su alma repoze en paz.
+
+        Lo kero komo mi alma.
+
+        El ojo ve, la alma dezea.'
+grammar: null
+id: '2381'
+origen: Jeneral
+versions:
+-   accented: álma
+    gender: feminine
+    ladino: alma
+    number: singular
+    translations:
+        english:
+        - soul
+        - spirit
+        french: ''
+        portuguese: ''
+        spanish: alma
+        turkish:
+        - can
+        - ruh
+        - tin

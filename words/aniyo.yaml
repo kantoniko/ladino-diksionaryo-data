@@ -1,0 +1,16 @@
+examples:
+-   ladino: Le regalo un aniyo de oro.
+grammar: null
+id: '2385'
+origen: Jeneral
+versions:
+-   accented: aníyo
+    gender: masculine
+    ladino: aniyo
+    number: singular
+    translations:
+        english: ring
+        french: bague
+        portuguese: anel
+        spanish: anillo
+        turkish: yüzük

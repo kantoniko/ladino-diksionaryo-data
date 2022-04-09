@@ -1,0 +1,14 @@
+examples:
+-   ladino: Amistad de yerno, sol d'invierno.
+grammar: null
+id: '2353'
+origen: Jeneral
+versions:
+-   accented: yerno
+    ladino: yerno
+    translations:
+        english: son-in-law
+        french: ''
+        portuguese: ''
+        spanish: yerno
+        turkish: damat

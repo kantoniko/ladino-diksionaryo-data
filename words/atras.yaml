@@ -1,0 +1,19 @@
+examples:
+-   ladino: Ni palavra ni pyedrada no tornan atras (Neh.)
+grammar: null
+id: '2395'
+origen: Jeneral
+versions:
+-   accented: atrás
+    ladino: atras
+    translations:
+        english:
+        - back
+        - backwards
+        - behind
+        french: ''
+        portuguese: ''
+        spanish: atrás
+        turkish:
+        - geri
+        - ard

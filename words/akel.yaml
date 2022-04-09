@@ -1,0 +1,23 @@
+comments:
+- 'grammar: adj.+ pron.'
+examples:
+-   ladino: 'En akel momento me akodri lo ke diziya mi madre.
+
+        Oye lo ke dize akel.'
+grammar: null
+id: '2375'
+origen: Jeneral
+versions:
+-   accented: akél
+    alternative-spelling:
+    -   accented: akéya
+        ladino: akeya
+    ladino: akel
+    translations:
+        english: that
+        french: ''
+        portuguese: ''
+        spanish:
+        - aquel
+        - aquella
+        turkish: o

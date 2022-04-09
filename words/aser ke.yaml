@@ -1,0 +1,19 @@
+examples:
+-   ladino: Dizen ke es muy riko, aser ke yo se ke pedrio toda su fortuna al djugo.
+grammar: adverb
+id: '2363'
+origen: Jeneral
+versions:
+-   accented: asér ke
+    ladino: aser ke
+    translations:
+        english: whereas
+        french: ''
+        portuguese: ''
+        spanish:
+        - mientras que
+        - no obstante
+        - por tanto
+        turkish:
+        - halbuki
+        - oysa

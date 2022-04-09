@@ -1,0 +1,24 @@
+examples:
+-   ladino: Sintir i kantar kantikas - mos dio alegriya a los korasones!
+grammar: null
+id: '2379'
+origen: Jeneral
+versions:
+-   accented: alegría
+    alternative-spelling:
+    -   accented: alegríya
+        ladino: alegriya
+    gender: feminine
+    ladino: alegria
+    number: singular
+    translations:
+        english:
+        - joy
+        - happiness
+        french: ''
+        portuguese: ''
+        spanish: alegría
+        turkish:
+        - neşe
+        - sevinç
+        - şenlik

@@ -1,0 +1,19 @@
+examples:
+-   ladino: Ay una akademia relijioza Porat Yosef en Yerushalayim.
+grammar: null
+id: '2374'
+origen: Jeneral
+versions:
+-   accented: akademíya
+    alternative-spelling:
+    -   accented: akademía
+        ladino: akademia
+    gender: feminine
+    ladino: akademiya
+    number: singular
+    translations:
+        english: academy
+        french: ''
+        portuguese: ''
+        spanish: academia
+        turkish: akademi

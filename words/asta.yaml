@@ -1,0 +1,21 @@
+examples:
+-   ladino: De Salonik asta Atena ay kinyentos kilometros.
+grammar: preposition
+id: '2507'
+origen: Jeneral
+versions:
+-   accented: ásta
+    ladino: asta
+    translations:
+        english:
+        - till
+        - until
+        - up to
+        french:
+        - jusque
+        - jusqu'à
+        portuguese: ''
+        spanish: hasta
+        turkish:
+        - kadar
+        - dek

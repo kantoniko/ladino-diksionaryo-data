@@ -1,0 +1,19 @@
+examples:
+-   ladino: Mas vale pan kon amor ke gayina kon dolor (Neh.)
+grammar: null
+id: '2384'
+origen: Jeneral
+versions:
+-   accented: amór
+    gender: masculine
+    ladino: amor
+    number: singular
+    translations:
+        english: love
+        french: amour
+        portuguese: amor
+        spanish: amor
+        turkish:
+        - aşk
+        - sevda
+        - sevgi

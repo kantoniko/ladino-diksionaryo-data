@@ -1,0 +1,19 @@
+examples:
+-   ladino: Era un as en su echo.
+grammar: null
+id: '2390'
+origen: Jeneral
+versions:
+-   accented: as
+    alternative-spelling:
+    -   accented: ázo
+        ladino: azo
+    gender: masculine
+    ladino: as
+    number: singular
+    translations:
+        english: ace
+        french: ''
+        portuguese: ''
+        spanish: as
+        turkish: as

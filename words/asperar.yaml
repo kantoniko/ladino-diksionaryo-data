@@ -1,0 +1,14 @@
+examples:
+-   ladino: Asperame aki una orika.
+grammar: null
+id: '2392'
+origen: Jeneral
+versions:
+-   accented: asperár
+    ladino: asperar
+    translations:
+        english: wait
+        french: ''
+        portuguese: ''
+        spanish: esperar
+        turkish: beklemek

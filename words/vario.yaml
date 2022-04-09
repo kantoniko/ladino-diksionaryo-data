@@ -1,0 +1,19 @@
+examples:
+-   ladino: El djudeo-espanyol (ladino) tiene varios dialektos.
+grammar: null
+id: '2352'
+origen: Jeneral
+versions:
+-   accented: vario
+    alternative-spelling:
+    -   accented: varia
+        ladino: varia
+    ladino: vario
+    translations:
+        english: various
+        french: ''
+        portuguese: ''
+        spanish:
+        - vario
+        - varia
+        turkish: muhtelif
