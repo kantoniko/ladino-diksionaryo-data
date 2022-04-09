@@ -140,58 +140,74 @@ def main():
             words_str = match.group('words')
             #print(words_str)
             words = re.split(r'\s*[/,]\s*', words_str)
-            for word in words:
-                #print(word)
-                match = re.search(words_regex, word)
-                if not match:
-                    _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
-                    continue
-                #print(word)
-                if entry['versions'][0]['translations']['english'].__class__.__name__ == 'list':
-                    translated_words = entry['versions'][0]['translations']['english']
-                else:
-                    translated_words = [entry['versions'][0]['translations']['english']]
-                for translated_word in translated_words:
-                    dictionary.append({translated_word: word})
-                plain_word = remove_accent(word)
-                all_words.add(plain_word)
-                #if plain_word in full:
-                #    prev = copy.deepcopy(full[plain_word])
-                #    #prev_accented = prev.pop('accented')
-                #    _err(f"Ladino word '{plain_word}' already exists. (original '{word}' row: {row})")
-                #    print(prev, file=sys.stderr)
-                #    print(entry, file=sys.stderr)
-                #    print('-----', file=sys.stderr)
-                #    continue
-                #full[plain_word] = copy.deepcopy(entry)
-                data = copy.deepcopy(entry)
-                data['versions'][0]['accented'] = word
-                data['versions'][0]['ladino'] = plain_word
-                #grammar_types = get_grammar_types(grammar)
-                if grammar == 'v':
-                    grammar = 'verb'
-                    data['conjugations'] = {}
-                elif grammar == 'f':
-                    grammar = None
-                    data['versions'][0]['gender'] = 'feminine'
-                    data['versions'][0]['number'] = 'singular'
-                elif grammar == 'm':
-                    grammar = None
-                    data['versions'][0]['gender'] = 'masculine'
-                    data['versions'][0]['number'] = 'singular'
-                #elif grammar is None:
-                #    pass
-                else:
-                    exit(f"Unhandled grammar: {grammar}")
-                data['grammar'] = grammar
+            word = words[0]
+            match = re.search(words_regex, word)
+            if not match:
+                _err(f"Word '{word}' does not match our rules from Ladino {ladino}")
+                continue
+            #print(word)
+            if entry['versions'][0]['translations']['english'].__class__.__name__ == 'list':
+                translated_words = entry['versions'][0]['translations']['english']
+            else:
+                translated_words = [entry['versions'][0]['translations']['english']]
+            for translated_word in translated_words:
+                dictionary.append({translated_word: word})
+            plain_word = remove_accent(word)
+            all_words.add(plain_word)
+            #if plain_word in full:
+            #    prev = copy.deepcopy(full[plain_word])
+            #    #prev_accented = prev.pop('accented')
+            #    _err(f"Ladino word '{plain_word}' already exists. (original '{word}' row: {row})")
+            #    print(prev, file=sys.stderr)
+            #    print(entry, file=sys.stderr)
+            #    print('-----', file=sys.stderr)
+            #    continue
+            #full[plain_word] = copy.deepcopy(entry)
+            data = copy.deepcopy(entry)
+            data['versions'][0]['accented'] = word
+            data['versions'][0]['ladino'] = plain_word
+            #grammar_types = get_grammar_types(grammar)
+            print(grammar)
+            if grammar == 'v':
+                grammar = 'verb'
+                data['conjugations'] = {}
+            elif grammar == 'f':
+                grammar = None
+                data['versions'][0]['gender'] = 'feminine'
+                data['versions'][0]['number'] = 'singular'
+            elif grammar == 'm':
+                grammar = None
+                data['versions'][0]['gender'] = 'masculine'
+                data['versions'][0]['number'] = 'singular'
+            elif grammar is None:
+                pass
+            elif grammar in ['adv.', 'adv']:
+                grammar = 'adverb'
+            elif grammar == 'adj.':
+                grammar = 'adjective'
+            elif grammar == 'prep.':
+                grammar = 'preposition'
+            elif grammar in ['pron.', 'Pron.']:
+                grammar = 'pronoun'
+            #elif grammar in ['adj.+ m/f', 'm+pron.', 'n+adj.', 'm/p', 'm/f']: #, 'm), arabá (f', 'distribuir', 'la', 'en teatro']:
+            #    data['comments'] = [f'grammar: {grammar}']
+            #    grammar = None
+            else:
+                print(f"Unhandled grammar: {grammar} in row {ladino}")
+            data['grammar'] = grammar
+
+            if len(words) > 1:
+                data['versions'][0]['alternative-spelling'] = []
+                for alt_word in words[1:]:
+                    data['versions'][0]['alternative-spelling'].append({
+                        'ladino': remove_accent(alt_word),
+                        'accented': alt_word,
+                    })
+
+            if len(sys.argv) == 2 and sys.argv[1] == 'all':
                 full.append(data)
-                if len(words) > 1:
-                    data['versions'][0]['alternative-spelling'] = []
-                    for alt_word in words[1:]:
-                        data['versions'][0]['alternative-spelling'].append({
-                            'ladino': remove_accent(alt_word),
-                            'accented': alt_word,
-                        })
+            else:
+                # Normally just save one:
                 word_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
                 if os.path.exists(word_file):
                     exit(f"File {word_file} already exists")
@@ -199,8 +215,6 @@ def main():
                 with open(word_file, 'w') as fh:
                     yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
                 exit()
-            #if len(list(full.keys())) > 500:
-            #    break
 
     #save_librelingo_format(dictionary)
     save_yaml_format(sorted(full, key=lambda this: this['versions'][0]['ladino']))
