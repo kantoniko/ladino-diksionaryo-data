@@ -1,14 +1,14 @@
-examples:
--   ladino: Ke ke te diga?
 grammar: null
 id: '550'
 origen: Jeneral
+
 versions:
--   accented: ke
+  - ladino: ke
+    accented: ke
     alternative-spelling:
-    -   accented: kuálo
-        ladino: kualo
-    ladino: ke
+    -   ladino: kualo
+        accented: kuálo
+
     translations:
         english: what
         french: ''
@@ -16,5 +16,18 @@ versions:
         spanish: qué
         turkish: ne
 
+  - ladino: ke
+    accented: ke
+
+    translations:
+        english: that
+        french: ''
+        portuguese: ''
+        spanish: que
+        turkish: ''
+
+
+examples:
+  - ladino: Ke ke te diga?
 
 # ke,Ke bueno ke avlo!,"que, qué","who, which, what","kim, hangi, ne",Jeneral,2493,,
