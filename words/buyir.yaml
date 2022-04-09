@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1258'
+origen: Jeneral
+versions:
+-   accented: buyir
+    ladino: buyir
+    translations:
+        english: boil
+        french: ''
+        portuguese: ''
+        spanish: hervir
+        turkish: kaynatmak

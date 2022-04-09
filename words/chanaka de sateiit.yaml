@@ -1,0 +1,16 @@
+examples:
+-   ladino: Agora tenemos television kon chanaka de satelit.
+grammar: null
+id: '209'
+origen: Jeneral
+versions:
+-   accented: chanáka de sateiít
+    gender: feminine
+    ladino: chanaka de sateiit
+    number: singular
+    translations:
+        english: satellite dish
+        french: ''
+        portuguese: ''
+        spanish: antena parabólica
+        turkish: uydu çanağı

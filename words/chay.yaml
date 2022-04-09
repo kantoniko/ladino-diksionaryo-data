@@ -1,0 +1,14 @@
+examples:
+-   ladino: 'Ven a mi kaza a tomar un chay esta tadre. '
+grammar: null
+id: '211'
+origen: Jeneral
+versions:
+-   accented: chay
+    ladino: chay
+    translations:
+        english: tea
+        french: thé
+        portuguese: chá
+        spanish: te
+        turkish: çay
