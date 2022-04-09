@@ -170,7 +170,12 @@ def main():
                 #grammar_types = get_grammar_types(grammar)
                 if grammar == 'v':
                     grammar = 'verb'
-                data['conjugations'] = {}
+                    data['conjugations'] = {}
+                if grammar == 'f':
+                    grammar = None
+                    data['versions'][0]['gender'] = 'feminine'
+                    data['versions'][0]['number'] = 'singular'
+                    #'masculine'
                 data['grammar'] = grammar
                 full.append(data)
                 if len(words) > 1:
