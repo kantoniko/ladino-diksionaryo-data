@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1285'
+origen: Jeneral
+versions:
+-   accented: doblar
+    ladino: doblar
+    translations:
+        english:
+        - double
+        - fold up
+        french: ''
+        portuguese: ''
+        spanish: doblar
+        turkish:
+        - çiftlemek
+        - katlamak

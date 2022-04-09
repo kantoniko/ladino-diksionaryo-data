@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1284'
+origen: Jeneral
+versions:
+-   accented: djurar
+    ladino: djurar
+    translations:
+        english:
+        - swear
+        - take an oath
+        french: ''
+        portuguese: ''
+        spanish: jurar
+        turkish:
+        - yemin etmek
+        - andiçmek

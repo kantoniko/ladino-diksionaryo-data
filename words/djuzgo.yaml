@@ -1,0 +1,19 @@
+examples:
+-   ladino: Se trata de un djuzgo ke estava avlando todo el tiempo kontra los djidios.
+comments:
+  - grammar was m/f
+grammar: null
+id: '274'
+origen: Jeneral
+versions:
+-   accented: djuzgo
+    alternative-spelling:
+    -   accented: djuzga
+        ladino: djuzga
+    ladino: djuzgo
+    translations:
+        english: judge
+        french: juge
+        portuguese: ''
+        spanish: juez
+        turkish: yargıç

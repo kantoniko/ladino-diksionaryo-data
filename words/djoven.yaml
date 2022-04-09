@@ -1,0 +1,25 @@
+examples:
+-   ladino: Se arebivieron los dezeos de los djovenes de estudiar para saver.
+comments:
+  - grammar was m/f
+grammar: null
+id: '1281'
+origen: Jeneral
+versions:
+-   accented: djóven
+    alternative-spelling:
+    -   accented: djovína
+        ladino: djovina
+    ladino: djoven
+    translations:
+        english:
+        - young
+        - young man
+        french: ''
+        portuguese: ''
+        spanish:
+        - joven
+        - mancebo
+        turkish:
+        - genç
+        - delikanlı

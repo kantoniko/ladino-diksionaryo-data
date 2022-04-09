@@ -1,0 +1,18 @@
+examples:
+-   ladino: Muncha miel da dolor de tripa.
+grammar: null
+id: '275'
+origen: Jeneral
+versions:
+-   accented: dolór
+    gender: feminine
+    ladino: dolor
+    number: singular
+    translations:
+        english:
+        - pain
+        - ache
+        french: douleur
+        portuguese: dor
+        spanish: dolor
+        turkish: ağrı

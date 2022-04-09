@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1280'
+origen: Jeneral
+versions:
+-   accented: djenitores
+    ladino: djenitores
+    translations:
+        english: parents
+        french: ''
+        portuguese: ''
+        spanish: progenitores
+        turkish: ebeveyn
