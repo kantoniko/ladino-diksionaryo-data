@@ -1,0 +1,19 @@
+examples:
+-   ladino: Guadravan los platos en el almaryo.
+grammar: null
+id: '80'
+origen: Jeneral
+versions:
+-   accented: almário
+    alternative-spelling:
+    -   accented: almáryo
+        ladino: almaryo
+    gender: masculine
+    ladino: almario
+    number: singular
+    translations:
+        english: cupboard
+        french: ''
+        portuguese: ''
+        spanish: armario
+        turkish: dolap

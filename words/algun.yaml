@@ -1,0 +1,20 @@
+examples:
+-   ladino: Si viene algun prove, dale a komer.
+grammar: adjective
+id: '72'
+origen: Jeneral
+versions:
+-   accented: algún
+    ladino: algun
+    translations:
+        english:
+        - someone
+        - something
+        french: ''
+        portuguese: ''
+        spanish:
+        - alguien
+        - algo
+        turkish:
+        - birisi
+        - herhangi bir

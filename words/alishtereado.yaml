@@ -1,0 +1,14 @@
+examples:
+-   ladino: Uno mas alishtereado ke mi, me grito "Ayde".
+grammar: adjective
+id: '1198'
+origen: Jeneral
+versions:
+-   accented: alishtereádo
+    ladino: alishtereado
+    translations:
+        english: accustomed
+        french: ''
+        portuguese: ''
+        spanish: acostumbrado
+        turkish: alıştırılmış

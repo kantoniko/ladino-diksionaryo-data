@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ayi venden alimentos turkos o gregos.
+grammar: null
+id: '75'
+origen: Jeneral
+versions:
+-   accented: aliménto
+    gender: masculine
+    ladino: alimento
+    number: singular
+    translations:
+        english: food
+        french: ''
+        portuguese: ''
+        spanish: alimento
+        turkish: besin

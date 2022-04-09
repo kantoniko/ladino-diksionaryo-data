@@ -1,0 +1,14 @@
+examples:
+-   ladino: De aki mos vamos a Amsterdam amanyana.
+grammar: adverb
+id: '82'
+origen: Jeneral
+versions:
+-   accented: amanyána
+    ladino: amanyana
+    translations:
+        english: tomorrow
+        french: ''
+        portuguese: ''
+        spanish: mañana
+        turkish: yarın

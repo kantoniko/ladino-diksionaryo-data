@@ -1,0 +1,19 @@
+examples:
+-   ladino: 'El kafe sin asukar es amargo.
+
+        Ken englute amargo, no eskupe dulse. (Prov.)'
+grammar: adjective
+id: '83'
+origen: Jeneral
+versions:
+-   accented: amárgo
+    alternative-spelling:
+    -   accented: amárga
+        ladino: amarga
+    ladino: amargo
+    translations:
+        english: bitter
+        french: ''
+        portuguese: ''
+        spanish: amargo / amarga
+        turkish: acı

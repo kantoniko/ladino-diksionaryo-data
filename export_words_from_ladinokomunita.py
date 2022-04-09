@@ -103,7 +103,7 @@ def main():
         # Palavra,Eshemplos,Espanyol,English,Turkish,Origen,id,Portuguese,French
         rd = csv.DictReader(fh, delimiter=',')
 
-
+        count = 10
         for row in rd:
             ladino = row['Palavra']
             eshemplos = row.get('Eshemplos')
@@ -214,7 +214,9 @@ def main():
                 print(f"{word_file}\nword: {data['versions'][0]['ladino'].lower()}\nid: {data['id']}")
                 with open(word_file, 'w') as fh:
                     yaml.dump(data, fh, Dumper=yaml.Dumper, allow_unicode=True, indent=4)
-                exit()
+                count -= 1
+                if count <= 0:
+                    exit()
 
     #save_librelingo_format(dictionary)
     save_yaml_format(sorted(full, key=lambda this: this['versions'][0]['ladino']))

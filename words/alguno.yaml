@@ -1,0 +1,21 @@
+examples:
+-   ladino: Alguno vino?
+grammar: pronoun
+id: '73'
+origen: Jeneral
+versions:
+-   accented: algúno
+    ladino: alguno
+    translations:
+        english:
+        - someone
+        - some
+        - any
+        french: ''
+        portuguese: ''
+        spanish:
+        - alguien
+        - alguno
+        turkish:
+        - birisi
+        - herhangi biri
