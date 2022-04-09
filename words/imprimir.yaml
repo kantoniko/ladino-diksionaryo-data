@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: No lo pudimos imprimir por los problemas del sistema Oneline.
+grammar: verb
+id: '1858'
+origen: Jeneral
+versions:
+-   accented: imprimír
+    alternative-spelling:
+    -   accented: emprimír
+        ladino: emprimir
+    ladino: imprimir
+    translations:
+        english: print
+        french: ''
+        portuguese: ''
+        spanish: imprimir
+        turkish: basmak
