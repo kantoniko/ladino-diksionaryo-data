@@ -1,0 +1,19 @@
+examples:
+-   ladino: Tuvimos munchas demandas de ayudar en la gramatika de ladino.
+grammar: null
+id: '2418'
+origen: Jeneral
+versions:
+-   accented: demánda
+    ladino: demanda
+    translations:
+        english:
+        - question
+        - request
+        french: ''
+        portuguese: ''
+        spanish: pregunta
+        turkish:
+        - soru
+        - sual
+        - talep
