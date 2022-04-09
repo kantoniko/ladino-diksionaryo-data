@@ -1,0 +1,15 @@
+examples:
+-   ladino: Mos demando sovre el orijen de Ladino, i komo lo eskrivimos i lo pronunsiamos
+        agora.
+grammar: adverb
+id: '42'
+origen: Jeneral
+versions:
+-   accented: agóra
+    ladino: agora
+    translations:
+        english: now
+        french: maintenant
+        portuguese: agora
+        spanish: ahora
+        turkish: şimdi
