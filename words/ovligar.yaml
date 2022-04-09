@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2042'
+origen: Jeneral
+versions:
+-   accented: ovligar
+    ladino: ovligar
+    translations:
+        english:
+        - force
+        - compel
+        french: ''
+        portuguese: ''
+        spanish: obligar
+        turkish: mecbur etmek

@@ -1,0 +1,17 @@
+examples:
+-   ladino: No eskrivo..una razon es porke esto muy okupada.
+grammar: adjective
+id: '2028'
+origen: Jeneral
+versions:
+-   accented: okupádo
+    alternative-spelling:
+    -   accented: okupáda
+        ladino: okupada
+    ladino: okupado
+    translations:
+        english: busy
+        french: ''
+        portuguese: ''
+        spanish: ocupado / ocupada
+        turkish: meşgul

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2054'
+origen: Jeneral
+versions:
+-   accented: partizante
+    ladino: partizante
+    translations:
+        english: supporter
+        french: ''
+        portuguese: ''
+        spanish: partidario / a
+        turkish: taraftar

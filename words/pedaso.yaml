@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2060'
+origen: Jeneral
+versions:
+-   accented: pedaso
+    ladino: pedaso
+    translations:
+        english: piece
+        french: ''
+        portuguese: ''
+        spanish:
+        - pedazo
+        - trozo
+        turkish: parça

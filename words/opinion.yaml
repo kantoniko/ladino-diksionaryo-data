@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2032'
+origen: Jeneral
+versions:
+-   accented: opinion
+    ladino: opinion
+    translations:
+        english: opinion
+        french: ''
+        portuguese: ''
+        spanish: opinión
+        turkish: kanaat

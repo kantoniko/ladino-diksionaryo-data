@@ -1,0 +1,14 @@
+examples:
+-   ladino: Tu fuites muy buen padre.
+grammar: null
+id: '2044'
+origen: Jeneral
+versions:
+-   accented: padre
+    ladino: padre
+    translations:
+        english: father
+        french: pÃ¨re
+        portuguese: ''
+        spanish: padre
+        turkish: baba

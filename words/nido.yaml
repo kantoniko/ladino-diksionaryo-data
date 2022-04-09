@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2013'
+origen: Jeneral
+versions:
+-   accented: nido
+    ladino: nido
+    translations:
+        english: nest
+        french: ''
+        portuguese: ''
+        spanish: nido
+        turkish: kuş yuvası

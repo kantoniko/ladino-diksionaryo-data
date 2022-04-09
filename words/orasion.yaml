@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2035'
+origen: Jeneral
+versions:
+-   accented: orasion
+    ladino: orasion
+    translations:
+        english: prayer
+        french: ''
+        portuguese: ''
+        spanish: plegaria
+        turkish: dua

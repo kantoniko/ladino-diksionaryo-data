@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2048'
+origen: Jeneral
+versions:
+-   accented: para ke
+    ladino: para ke
+    translations:
+        english: why
+        french: ''
+        portuguese: ''
+        spanish: para qué  (intención)
+        turkish:
+        - neye
+        - niçin

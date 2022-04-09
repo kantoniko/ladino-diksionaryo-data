@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2050'
+origen: Jeneral
+versions:
+-   accented: pardesu
+    ladino: pardesu
+    translations:
+        english: over-coat
+        french: ''
+        portuguese: ''
+        spanish: abrigo
+        turkish:
+        - pardesü
+        - palto

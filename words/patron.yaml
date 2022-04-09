@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2059'
+origen: Jeneral
+versions:
+-   accented: patron
+    alternative-spelling:
+    -   accented: proprietario
+        ladino: proprietario
+    ladino: patron
+    translations:
+        english:
+        - owner
+        - proprietor
+        french: ''
+        portuguese: ''
+        spanish: dueño / a
+        turkish: sahip

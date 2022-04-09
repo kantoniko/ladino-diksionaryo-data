@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2058'
+origen: Jeneral
+versions:
+-   accented: patrania
+    ladino: patrania
+    translations:
+        english: gibberish
+        french: ''
+        portuguese: ''
+        spanish: algarabía
+        turkish:
+        - zırva
+        - saçma

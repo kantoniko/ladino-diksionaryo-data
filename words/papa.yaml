@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2045'
+origen: Jeneral
+versions:
+-   accented: papa
+    ladino: papa
+    translations:
+        english: dad
+        french: ''
+        portuguese: ''
+        spanish: papá
+        turkish: baba

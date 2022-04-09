@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2063'
+origen: Jeneral
+versions:
+-   accented: perfekto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: perfekto
+    translations:
+        english: perfect
+        french: ''
+        portuguese: ''
+        spanish: perfecto / a
+        turkish: mükemmel

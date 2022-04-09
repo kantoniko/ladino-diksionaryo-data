@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2051'
+origen: Jeneral
+versions:
+-   accented: pared
+    ladino: pared
+    translations:
+        english: wall
+        french: ''
+        portuguese: ''
+        spanish: pared
+        turkish: duvar

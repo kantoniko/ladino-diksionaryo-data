@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2046'
+origen: Jeneral
+versions:
+-   accented: papel
+    ladino: papel
+    translations:
+        english: paper
+        french: ''
+        portuguese: ''
+        spanish: papel
+        turkish: kâğıt

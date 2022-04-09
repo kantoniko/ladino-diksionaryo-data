@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2017'
+origen: Jeneral
+versions:
+-   accented: notar
+    ladino: notar
+    translations:
+        english: annotate
+        french: ''
+        portuguese: ''
+        spanish: apostillar
+        turkish: kaydetmek

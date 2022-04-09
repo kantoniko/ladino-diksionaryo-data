@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2014'
+origen: Jeneral
+versions:
+-   accented: nivel
+    ladino: nivel
+    translations:
+        english: level
+        french: ''
+        portuguese: ''
+        spanish: nivel
+        turkish: seviye

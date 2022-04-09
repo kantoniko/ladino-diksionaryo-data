@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2061'
+origen: Jeneral
+versions:
+-   accented: pelea
+    ladino: pelea
+    translations:
+        english:
+        - quarrel
+        - fight
+        french: ''
+        portuguese: ''
+        spanish: pelea
+        turkish: kavga

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2033'
+origen: Jeneral
+versions:
+-   accented: oprimir
+    ladino: oprimir
+    translations:
+        english: oppress
+        french: ''
+        portuguese: ''
+        spanish: agobiar
+        turkish:
+        - zulmetmek
+        - ezmek

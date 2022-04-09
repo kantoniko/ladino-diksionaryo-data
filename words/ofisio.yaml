@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2026'
+origen: Jeneral
+versions:
+-   accented: ofisio
+    ladino: ofisio
+    translations:
+        english:
+        - craft
+        - trade
+        french: ''
+        portuguese: ''
+        spanish: oficio
+        turkish: meslek

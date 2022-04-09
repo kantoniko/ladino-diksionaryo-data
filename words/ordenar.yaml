@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2037'
+origen: Jeneral
+versions:
+-   accented: ordenar
+    alternative-spelling:
+    -   accented: meter orden
+        ladino: meter orden
+    ladino: ordenar
+    translations:
+        english:
+        - order
+        - arrange
+        french: ''
+        portuguese: ''
+        spanish: ordenar
+        turkish: düzenlemek

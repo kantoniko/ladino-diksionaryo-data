@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2024'
+origen: Jeneral
+versions:
+-   accented: obstakolo
+    ladino: obstakolo
+    translations:
+        english: obstacle
+        french: ''
+        portuguese: ''
+        spanish: obstáculo
+        turkish: engel

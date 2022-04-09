@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2049'
+origen: Jeneral
+versions:
+-   accented: paralizado
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: paralizado
+    translations:
+        english: paralytic
+        french: ''
+        portuguese: ''
+        spanish: paralítico / a
+        turkish: felçli

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2036'
+origen: Jeneral
+versions:
+-   accented: orden
+    ladino: orden
+    translations:
+        english: order
+        french: ''
+        portuguese: ''
+        spanish: orden
+        turkish: intizam

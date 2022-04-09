@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2055'
+origen: Jeneral
+versions:
+-   accented: pasajero
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: pasajero
+    translations:
+        english: passenger
+        french: ''
+        portuguese: ''
+        spanish: pasajero / a
+        turkish: yolcu
