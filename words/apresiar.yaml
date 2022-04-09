@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: Sovre todo los mansevos empesan a apresyar i ambezar la lingua.
+grammar: verb
+id: '2862'
+origen: Jeneral
+versions:
+-   accented: apresiár
+    alternative-spelling:
+    -   accented: apresyár
+        ladino: apresyar
+    ladino: apresiar
+    translations:
+        english: appreciated
+        french: ''
+        portuguese: ''
+        spanish: apreciado
+        turkish: takdir edilen
