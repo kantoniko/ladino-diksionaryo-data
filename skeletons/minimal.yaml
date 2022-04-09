@@ -1,14 +1,21 @@
 grammar: null
-origen: Jeneral
-#id: '571'
+# verb noun
+origen: Ladinokomunita
+comments: []
 
 versions:
-  - ladino: klaro
-    #accented: klaro
+  - ladino:
+    #accented:
     #gender: masculine
     #number: singular
 
-    #translations:
-    #  english: clear
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+# conjugations: {}
 
 examples: []
