@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1833'
+origen: Jeneral
+versions:
+-   accented: freno
+    ladino: freno
+    translations:
+        english: brake
+        french: ''
+        portuguese: ''
+        spanish: freno
+        turkish: fren

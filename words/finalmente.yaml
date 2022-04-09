@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1821'
+origen: Jeneral
+versions:
+-   accented: finalmente
+    ladino: finalmente
+    translations:
+        english: finally
+        french: ''
+        portuguese: ''
+        spanish:
+        - finalmente
+        - por fin
+        turkish:
+        - nihayet
+        - sonunda

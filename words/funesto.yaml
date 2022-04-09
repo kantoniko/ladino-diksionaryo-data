@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1835'
+origen: Jeneral
+versions:
+-   accented: funesto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: funesto
+    translations:
+        english: unfortunate
+        french: ''
+        portuguese: ''
+        spanish: funesto / a
+        turkish: meşum

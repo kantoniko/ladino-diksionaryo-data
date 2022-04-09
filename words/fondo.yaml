@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1824'
+origen: Jeneral
+versions:
+-   accented: fondo
+    ladino: fondo
+    translations:
+        english:
+        - bottom
+        - background
+        french: ''
+        portuguese: ''
+        spanish: fondo
+        turkish:
+        - dip
+        - fon

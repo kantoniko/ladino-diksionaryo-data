@@ -1,0 +1,24 @@
+examples:
+-   ladino: El Doktor Beraha era alto i muy flako, teniya un antojo sovre la nariz.
+grammar: adjective
+id: '1823'
+origen: Jeneral
+versions:
+-   accented: fláko
+    alternative-spelling:
+    -   accented: fláka
+        ladino: flaka
+    ladino: flako
+    translations:
+        english:
+        - thin
+        - weak
+        - feeble
+        french: ''
+        portuguese: ''
+        spanish:
+        - delgado / delgada
+        - débil
+        turkish:
+        - zayıf
+        - kuvvetsiz

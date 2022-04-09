@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1791'
+origen: Jeneral
+versions:
+-   accented: esklamar
+    ladino: esklamar
+    translations:
+        english: exclaim
+        french: ''
+        portuguese: ''
+        spanish: exclamar
+        turkish: haykırmak

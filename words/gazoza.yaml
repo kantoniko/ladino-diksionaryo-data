@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1839'
+origen: Jeneral
+versions:
+-   accented: gazoza
+    ladino: gazoza
+    translations:
+        english: aerated water
+        french: ''
+        portuguese: ''
+        spanish: gaseosa
+        turkish: gazoz

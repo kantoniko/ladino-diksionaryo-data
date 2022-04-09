@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1785'
+origen: Jeneral
+versions:
+-   accented: entreprisa
+    ladino: entreprisa
+    translations:
+        english: enterprise
+        french: ''
+        portuguese: ''
+        spanish: empresa
+        turkish:
+        - girişim
+        - şirket

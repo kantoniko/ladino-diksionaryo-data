@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1826'
+origen: Jeneral
+versions:
+-   accented: forma
+    ladino: forma
+    translations:
+        english:
+        - form
+        - shape
+        french: ''
+        portuguese: ''
+        spanish: forma
+        turkish: tarz

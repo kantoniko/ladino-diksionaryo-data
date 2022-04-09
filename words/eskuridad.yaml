@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1794'
+origen: Jeneral
+versions:
+-   accented: eskuridad
+    ladino: eskuridad
+    translations:
+        english: darkness
+        french: ''
+        portuguese: ''
+        spanish:
+        - oscuridad
+        - tinieblas
+        turkish: karanlık

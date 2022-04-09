@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1836'
+origen: Jeneral
+versions:
+-   accented: fuzil
+    alternative-spelling:
+    -   accented: tufenk
+        ladino: tufenk
+    ladino: fuzil
+    translations:
+        english: shotgun
+        french: ''
+        portuguese: ''
+        spanish: escopeta
+        turkish: tüfek

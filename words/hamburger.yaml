@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1847'
+origen: Jeneral
+versions:
+-   accented: hamburger
+    ladino: hamburger
+    translations:
+        english: hamburger
+        french: ''
+        portuguese: ''
+        spanish: hamburguesa
+        turkish: hamburger

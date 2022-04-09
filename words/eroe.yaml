@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1787'
+origen: Jeneral
+versions:
+-   accented: eroe
+    ladino: eroe
+    translations:
+        english: hero
+        french: ''
+        portuguese: ''
+        spanish: héroe
+        turkish: kahraman

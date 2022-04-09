@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1812'
+origen: Jeneral
+versions:
+-   accented: estreya
+    ladino: estreya
+    translations:
+        english: star
+        french: ''
+        portuguese: ''
+        spanish: estrella
+        turkish: yıldız

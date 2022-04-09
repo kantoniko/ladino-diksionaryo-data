@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1789'
+origen: Jeneral
+versions:
+-   accented: eskalonar
+    ladino: eskalonar
+    translations:
+        english: spread out at intervals
+        french: ''
+        portuguese: ''
+        spanish: escalonar
+        turkish: sıraya koymak

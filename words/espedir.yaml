@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1801'
+origen: Jeneral
+versions:
+-   accented: espedir
+    ladino: espedir
+    translations:
+        english: despatch
+        french: ''
+        portuguese: ''
+        spanish: despachar
+        turkish: sevk etmek

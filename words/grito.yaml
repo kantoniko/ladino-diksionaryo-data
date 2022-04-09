@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1844'
+origen: Jeneral
+versions:
+-   accented: grito
+    ladino: grito
+    translations:
+        english:
+        - yell
+        - scream
+        - shout
+        french: ''
+        portuguese: ''
+        spanish: grito
+        turkish:
+        - nara
+        - çığlık

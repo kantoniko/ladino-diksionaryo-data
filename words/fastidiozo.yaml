@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1816'
+origen: Jeneral
+versions:
+-   accented: fastidiozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: fastidiozo
+    translations:
+        english: annoying
+        french: ''
+        portuguese: ''
+        spanish: fastidioso / a
+        turkish: usandırıcı

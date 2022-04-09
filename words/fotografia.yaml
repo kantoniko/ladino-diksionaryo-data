@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1829'
+origen: Jeneral
+versions:
+-   accented: fotografia
+    ladino: fotografia
+    translations:
+        english: photo
+        french: ''
+        portuguese: ''
+        spanish: fotografía
+        turkish: fotograf

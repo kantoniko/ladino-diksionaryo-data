@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1845'
+origen: Jeneral
+versions:
+-   accented: grizo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: grizo
+    translations:
+        english: grey
+        french: ''
+        portuguese: ''
+        spanish: gris
+        turkish: gri

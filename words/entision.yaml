@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1783'
+origen: Jeneral
+versions:
+-   accented: entision
+    ladino: entision
+    translations:
+        english: intention
+        french: ''
+        portuguese: ''
+        spanish: intención
+        turkish: maksat

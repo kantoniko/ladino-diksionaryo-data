@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1830'
+origen: Jeneral
+versions:
+-   accented: fregar
+    ladino: fregar
+    translations:
+        english:
+        - scrub
+        - wash
+        - rub
+        french: ''
+        portuguese: ''
+        spanish:
+        - fregar
+        - frotar
+        turkish:
+        - ovmak
+        - bulaşık yıkamak

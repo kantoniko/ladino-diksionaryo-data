@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1846'
+origen: Jeneral
+versions:
+-   accented: gusto
+    ladino: gusto
+    translations:
+        english:
+        - pleasure
+        - taste
+        french: ''
+        portuguese: ''
+        spanish: gusto
+        turkish:
+        - zevk
+        - tat

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1843'
+origen: Jeneral
+versions:
+-   accented: gritar
+    ladino: gritar
+    translations:
+        english:
+        - roar
+        - bellow
+        french: ''
+        portuguese: ''
+        spanish: bramar
+        turkish: haykırmak

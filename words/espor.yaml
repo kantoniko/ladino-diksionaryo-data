@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1805'
+origen: Jeneral
+versions:
+-   accented: espor
+    ladino: espor
+    translations:
+        english: sport
+        french: ''
+        portuguese: ''
+        spanish: deporte
+        turkish: spor

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1815'
+origen: Jeneral
+versions:
+-   accented: fama
+    ladino: fama
+    translations:
+        english: fame
+        french: ''
+        portuguese: ''
+        spanish: fama
+        turkish:
+        - ün
+        - şöhret
