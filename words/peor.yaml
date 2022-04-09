@@ -1,0 +1,16 @@
+comments:
+- 'grammar: adj., adv.'
+examples:
+-   ladino: No se kere agora diskutir ken es mas mijor o mas peor.
+grammar: null
+id: '703'
+origen: Jeneral
+versions:
+-   accented: peór
+    ladino: peor
+    translations:
+        english: worse
+        french: ''
+        portuguese: ''
+        spanish: peor
+        turkish: beter

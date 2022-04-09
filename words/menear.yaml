@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '715'
+origen: Jeneral
+versions:
+-   accented: menear
+    ladino: menear
+    translations:
+        english:
+        - move
+        - shake
+        french: ''
+        portuguese: ''
+        spanish: menear
+        turkish:
+        - sallamak
+        - kımıldatmak

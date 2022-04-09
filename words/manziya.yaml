@@ -1,0 +1,23 @@
+examples:
+-   ladino: 'La para ke no vayga en manziya. Mozotros dizimos: Pekado i manziya.'
+grammar: null
+id: '1549'
+origen: Jeneral
+versions:
+-   accented: manzíya
+    ladino: manziya
+    translations:
+        english:
+        - misfortune
+        - mishap
+        - waste
+        french:
+        - infortune
+        - gaspillage
+        portuguese: desperdicio
+        spanish:
+        - desgracia
+        - desgaste
+        turkish:
+        - talihsizlik
+        - ziyan

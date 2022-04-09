@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '708'
+origen: Jeneral
+versions:
+-   accented: medalya
+    ladino: medalya
+    translations:
+        english: medal
+        french: ''
+        portuguese: ''
+        spanish: medalla
+        turkish: madalya

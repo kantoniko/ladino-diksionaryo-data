@@ -1,0 +1,28 @@
+examples:
+-   ladino: Kismet es byervo turko ke kere dizir mazal, o suerte.
+grammar: null
+id: '705'
+origen: Jeneral
+versions:
+-   accented: mazál
+    gender: masculine
+    ladino: mazal
+    number: singular
+    translations:
+        english:
+        - fate
+        - destiny
+        - sort
+        - chance
+        - lot
+        french:
+        - destinée
+        - sort
+        - chance
+        portuguese: sorte
+        spanish:
+        - suerte
+        - destino
+        turkish:
+        - nasip
+        - kısmet

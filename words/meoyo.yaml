@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '719'
+origen: Jeneral
+versions:
+-   accented: meoyo
+    ladino: meoyo
+    translations:
+        english: brain
+        french: ''
+        portuguese: ''
+        spanish: cerebro
+        turkish: beyin
+
+# meoyo,,cerebro,brain,beyin,Jeneral,719,,
+# "meoyo, razon",,razón,reason,"akıl, sebep",Jeneral,720,,

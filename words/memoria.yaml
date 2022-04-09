@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '714'
+origen: Jeneral
+versions:
+-   accented: memoria
+    alternative-spelling:
+    -   accented: tino
+        ladino: tino
+    ladino: memoria
+    translations:
+        english: memory
+        french: ''
+        portuguese: ''
+        spanish: memoria
+        turkish: hafıza

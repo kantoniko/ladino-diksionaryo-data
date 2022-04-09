@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '700'
+origen: Jeneral
+versions:
+-   accented: mantel
+    ladino: mantel
+    translations:
+        english: tablecloth
+        french: ''
+        portuguese: ''
+        spanish: mantel
+        turkish: masa örtüsü

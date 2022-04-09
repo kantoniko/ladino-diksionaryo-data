@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1408'
+origen: Jeneral
+versions:
+-   accented: manya
+    ladino: manya
+    translations:
+        english: habit
+        french: ''
+        portuguese: ''
+        spanish: maña
+        turkish:
+        - huy
+        - alışkanlık

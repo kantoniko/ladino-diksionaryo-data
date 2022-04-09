@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '706'
+origen: Jeneral
+versions:
+-   accented: suerte
+    ladino: suerte
+    translations:
+        english:
+        - luck
+        - fortune
+        french: ''
+        portuguese: ''
+        spanish: suerte
+        turkish:
+        - şans
+        - kader

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '710'
+origen: Jeneral
+versions:
+-   accented: mediko
+    alternative-spelling:
+    -   accented: doktor
+        ladino: doktor
+    ladino: mediko
+    translations:
+        english: doctor
+        french: ''
+        portuguese: ''
+        spanish: médico
+        turkish: doktor

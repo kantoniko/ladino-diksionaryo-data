@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1407'
+origen: Jeneral
+versions:
+-   accented: mantener
+    ladino: mantener
+    translations:
+        english:
+        - maintain
+        - sustain
+        french: ''
+        portuguese: ''
+        spanish: mantener
+        turkish: geçindirmek

@@ -1,0 +1,22 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Lo yoramos ke se murio mansevo.
+grammar: null
+id: '12'
+origen: Jeneral
+versions:
+-   accented: mansévo
+    alternative-spelling:
+    -   accented: manseva
+        ladino: manseva
+    ladino: mansevo
+    translations:
+        english: young person
+        french: ''
+        portuguese: ''
+        spanish:
+        - joven
+        - muchacho / a
+        - chico / a
+        turkish: genç insan

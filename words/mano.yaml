@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '697'
+origen: Jeneral
+versions:
+-   accented: mano
+    ladino: mano
+    translations:
+        english: hand
+        french: ''
+        portuguese: ''
+        spanish: mano
+        turkish: el

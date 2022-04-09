@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '701'
+origen: Jeneral
+versions:
+-   accented: manyifiko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: manyifiko
+    translations:
+        english: magnificent
+        french: ''
+        portuguese: ''
+        spanish: magnifico / a
+        turkish: muhteşem

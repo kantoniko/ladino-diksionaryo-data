@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '717'
+origen: Jeneral
+versions:
+-   accented: mentira
+    alternative-spelling:
+    -   accented: mintira
+        ladino: mintira
+    ladino: mentira
+    translations:
+        english: lie
+        french: ''
+        portuguese: ''
+        spanish: mentira
+        turkish: yalan
