@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '220'
+origen: Jeneral
+versions:
+-   accented: dar
+    ladino: dar
+    translations:
+        english: give
+        french: ''
+        portuguese: ''
+        spanish: dar
+        turkish: vermek

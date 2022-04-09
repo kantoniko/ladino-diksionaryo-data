@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '218'
+origen: Jeneral
+versions:
+-   accented: dado
+    ladino: dado
+    translations:
+        english: dice
+        french: ''
+        portuguese: ''
+        spanish: dado
+        turkish: zar

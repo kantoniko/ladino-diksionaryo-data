@@ -1,0 +1,16 @@
+examples:
+-   ladino: Kita el korcho de la ridoma de vino.
+grammar: null
+id: '217'
+origen: Jeneral
+versions:
+-   accented: kórcho
+    gender: masculine
+    ladino: korcho
+    number: singular
+    translations:
+        english: cork
+        french: ''
+        portuguese: ''
+        spanish: corcho
+        turkish: mantar

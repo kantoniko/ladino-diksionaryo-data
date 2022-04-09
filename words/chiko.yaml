@@ -1,0 +1,17 @@
+examples:
+-   ladino: Avía un arvole chiko al lado de muestra kaza.
+grammar: adjective
+id: '213'
+origen: Jeneral
+versions:
+-   accented: chiko
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: chiko
+    translations:
+        english: small
+        french: petit / petite
+        portuguese: pequeno/pequena
+        spanish: pequeño / a
+        turkish: küçük
