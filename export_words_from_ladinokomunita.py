@@ -162,6 +162,13 @@ def main():
                 data['grammar'] = grammar
                 full.append(data)
                 if grammar == 'verb':
+                    if len(words) > 1:
+                        data['versions'][0]['alternative-spelling'] = []
+                        for alt_word in words[1:]:
+                            data['versions'][0]['alternative-spelling'].append({
+                                'ladino': remove_accent(alt_word),
+                                'accented': alt_word,
+                            })
                     verb_file = f"words/{data['versions'][0]['ladino'].lower()}.yaml"
                     if os.path.exists(verb_file):
                         exit(f"File {verb_file} already exists")
