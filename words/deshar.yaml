@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '240'
+origen: Jeneral
+versions:
+-   accented: deshar
+    ladino: deshar
+    translations:
+        english:
+        - leave
+        - abandon
+        french: ''
+        portuguese: ''
+        spanish: dejar
+        turkish: bırakmak

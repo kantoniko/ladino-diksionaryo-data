@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '239'
+origen: Jeneral
+versions:
+-   accented: desgrasia
+    ladino: desgrasia
+    translations:
+        english: misfortune
+        french: ''
+        portuguese: ''
+        spanish: desgracia
+        turkish:
+        - felâket
+        - talihsizlik

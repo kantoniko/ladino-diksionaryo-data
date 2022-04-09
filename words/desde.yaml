@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '238'
+origen: Jeneral
+versions:
+-   accented: desde
+    ladino: desde
+    translations:
+        english: since
+        french: ''
+        portuguese: ''
+        spanish: desde
+        turkish: beri

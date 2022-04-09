@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '243'
+origen: Jeneral
+versions:
+-   accented: deskonfiensa
+    ladino: deskonfiensa
+    translations:
+        english: mistrust
+        french: ''
+        portuguese: ''
+        spanish: desconfianza
+        turkish: güvensizlilk

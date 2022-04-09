@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '245'
+origen: Jeneral
+versions:
+-   accented: deskripsion
+    ladino: deskripsion
+    translations:
+        english: description
+        french: ''
+        portuguese: ''
+        spanish: descripción
+        turkish: tarif
