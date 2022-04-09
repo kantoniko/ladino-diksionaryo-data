@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: Para la proksima letra, perkura de eskrivir kon esta ortografia.
+grammar: verb
+id: '1449'
+origen: Jeneral
+versions:
+-   accented: perkurár
+    ladino: perkurar
+    translations:
+        english: be concerned, endeavour
+        french: ''
+        portuguese: ''
+        spanish: preocuparse, esforzarse
+        turkish: ilgilenmek, gayret etmek
