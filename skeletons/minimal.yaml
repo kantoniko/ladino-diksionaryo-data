@@ -1,0 +1,14 @@
+grammar: null
+origen: Jeneral
+#id: '571'
+
+versions:
+  - ladino: klaro
+    #accented: klaro
+    #gender: masculine
+    #number: singular
+
+    #translations:
+    #  english: clear
+
+examples: []
