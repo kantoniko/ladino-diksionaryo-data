@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '293'
+origen: Jeneral
+versions:
+-   accented: egzamen
+    ladino: egzamen
+    translations:
+        english: examination
+        french: ''
+        portuguese: ''
+        spanish: examen
+        turkish: imtihan

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '291'
+origen: Jeneral
+versions:
+-   accented: echo
+    ladino: echo
+    translations:
+        english: work
+        french: ''
+        portuguese: ''
+        spanish: trabajo
+        turkish: iş

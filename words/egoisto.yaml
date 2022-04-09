@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '292'
+origen: Jeneral
+versions:
+-   accented: egoisto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: egoisto
+    translations:
+        english: selfish
+        french: ''
+        portuguese: ''
+        spanish: egoísta
+        turkish: bencil

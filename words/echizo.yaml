@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '290'
+origen: Jeneral
+versions:
+-   accented: echizo
+    ladino: echizo
+    translations:
+        english: spell
+        french: ''
+        portuguese: ''
+        spanish:
+        - hechizo
+        - encanto
+        turkish: büyü

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '286'
+origen: Jeneral
+versions:
+-   accented: echar
+    ladino: echar
+    translations:
+        english: throw
+        french: ''
+        portuguese: ''
+        spanish:
+        - echar
+        - arrojar
+        turkish: atmak
