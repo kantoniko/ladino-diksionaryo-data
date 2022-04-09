@@ -1,0 +1,34 @@
+examples:
+  - ladino: Moravamos serka de la Kula una abashadika ke se yamava El Kal De Los Frankos.
+  - ladino: Estuve hazina kon una abashada muy fuerte.
+grammar: null
+id: '28'
+origen: Jeneral
+versions:
+  - ladino: abashada
+    accented: abasháda
+    gender: feminine
+    number: singular
+    translations:
+        english: downhill (to go)
+        french: descente
+        portuguese: descida
+        spanish: cuesta abajo (ir)
+        turkish: iniş
+
+  - ladino: abashada
+    accented: abasháda
+    translations:
+        english:
+        - cold
+        - flu
+        french: rhume
+        portuguese: ' constipacão'
+        spanish:
+        - resfriado
+        - influenza
+        - gripe
+        turkish:
+        - nezle
+        - grip
+
