@@ -1,0 +1,19 @@
+examples:
+-   ladino: Es un miembro aktivo de muestra komunita.
+grammar: adjective
+id: '65'
+origen: Jeneral
+versions:
+-   accented: aktívo
+    alternative-spelling:
+    -   accented: aktíva
+        ladino: aktiva
+    ladino: aktivo
+    translations:
+        english: active
+        french: ''
+        portuguese: ''
+        spanish:
+        - activo / activa
+        - lanzado / lanzada
+        turkish: faal
