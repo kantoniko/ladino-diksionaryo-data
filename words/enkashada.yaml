@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ya está enkashada grande.
+grammar: null
+id: '3044'
+origen: Jeneral
+versions:
+-   accented: enkasháda
+    gender: feminine
+    ladino: enkashada
+    number: singular
+    translations:
+        english: swindle
+        french: escroquerie
+        portuguese: trapaça
+        spanish: estafa (x)
+        turkish: kazık atış

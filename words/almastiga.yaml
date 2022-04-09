@@ -1,0 +1,16 @@
+examples:
+-   ladino: Almastiga es la rechina de un arvole.
+grammar: null
+id: '3030'
+origen: Jeneral
+versions:
+-   accented: almastigá
+    gender: feminine
+    ladino: almastiga
+    number: singular
+    translations:
+        english: mastic
+        french: mastic
+        portuguese: almécega
+        spanish: almáciga
+        turkish: sakız

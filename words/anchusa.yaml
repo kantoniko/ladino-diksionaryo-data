@@ -1,0 +1,19 @@
+examples:
+-   ladino: Teniyamos ornos para azer las tapas o enchusas.
+grammar: null
+id: '3045'
+origen: Jeneral
+versions:
+-   accented: anchúsa
+    alternative-spelling:
+    -   accented: enchúsa
+        ladino: enchusa
+    gender: feminine
+    ladino: anchusa
+    number: singular
+    translations:
+        english: spinach baked with egg and cheese
+        french: gratin d'épinards aux oeufs et fromage
+        portuguese: espinafre ao forno com ovos e queijo
+        spanish: gratinado de espinaca con huevo y queso
+        turkish: kaygana

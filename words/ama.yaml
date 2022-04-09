@@ -1,0 +1,19 @@
+comments:
+- 'grammar: konj.'
+examples:
+-   ladino: Ya tengo kaji 90 anyos, ama me siento dayinda mansevika.
+grammar: null
+id: '3033'
+origen: Jeneral
+versions:
+-   accented: áma
+    alternative-spelling:
+    -   accented: ma
+        ladino: ma
+    ladino: ama
+    translations:
+        english: but
+        french: mais
+        portuguese: mas
+        spanish: pero
+        turkish: ama

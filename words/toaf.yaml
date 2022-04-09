@@ -1,0 +1,15 @@
+examples: []
+grammar: adjective
+id: '3036'
+origen: Jeneral
+versions:
+-   accented: toáf
+    ladino: toaf
+    translations:
+        english: odd
+        french: étrange
+        portuguese: estranho
+        spanish:
+        - extraño
+        - raro
+        turkish: tuhaf

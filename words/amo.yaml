@@ -1,0 +1,26 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Un esklavo apartiene a su amo.
+grammar: null
+id: '3037'
+origen: Jeneral
+versions:
+-   accented: ámo
+    alternative-spelling:
+    -   accented: áma
+        ladino: ama
+    ladino: amo
+    translations:
+        english:
+        - master
+        - proprietor
+        french:
+        - maître
+        - propriétaire
+        - patron
+        portuguese: dono
+        spanish: amo / ama
+        turkish:
+        - patron
+        - sahip

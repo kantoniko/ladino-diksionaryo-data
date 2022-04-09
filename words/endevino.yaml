@@ -1,0 +1,19 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Aviya uno nombrado Jak Namer, el endevino.
+grammar: null
+id: '3048'
+origen: Jeneral
+versions:
+-   accented: endevíno
+    alternative-spelling:
+    -   accented: endevína
+        ladino: endevina
+    ladino: endevino
+    translations:
+        english: fortune-teller
+        french: diseur / diseuse de bonne aventure
+        portuguese: adivinho
+        spanish: adivino / adivina
+        turkish: falcı

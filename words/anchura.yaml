@@ -1,0 +1,20 @@
+examples:
+-   ladino: Biven kon anchura.
+grammar: null
+id: '3043'
+origen: Jeneral
+versions:
+-   accented: anchúra
+    gender: feminine
+    ladino: anchura
+    number: singular
+    translations:
+        english:
+        - comfort
+        - affluence
+        french: aisance
+        portuguese: ''
+        spanish: desahogo
+        turkish:
+        - bolluk
+        - ferahlık

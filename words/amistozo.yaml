@@ -1,0 +1,21 @@
+examples:
+-   ladino: El puevlo Cubano es un puevlo muy, muy amistozo.
+grammar: adjective
+id: '3035'
+origen: Jeneral
+versions:
+-   accented: amistózo
+    alternative-spelling:
+    -   accented: amistóza
+        ladino: amistoza
+    ladino: amistozo
+    translations:
+        english: friendly
+        french:
+        - amicale
+        - amicale
+        portuguese: amavel
+        spanish:
+        - amistoso
+        - amistosa
+        turkish: dostça

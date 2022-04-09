@@ -1,0 +1,21 @@
+examples:
+-   ladino: Turistos kon pasaporto alman no nesesitan viza.
+grammar: null
+id: '3029'
+origen: Jeneral
+versions:
+-   accented: almán
+    alternative-spelling:
+    -   accented: alemán
+        ladino: aleman
+    gender: masculine
+    ladino: alman
+    number: singular
+    translations:
+        english: German
+        french: allemand
+        portuguese: alemão
+        spanish: alemán
+        turkish:
+        - alman
+        - almanca

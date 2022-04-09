@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mi madre aprontava kada tadre las mechas de algodon.
+grammar: null
+id: '3024'
+origen: Jeneral
+versions:
+-   accented: algodón
+    gender: masculine
+    ladino: algodon
+    number: singular
+    translations:
+        english: cotton
+        french: coton
+        portuguese: algodão
+        spanish: algodón
+        turkish: pamuk

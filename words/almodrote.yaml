@@ -1,0 +1,17 @@
+examples:
+-   ladino: El almodrote es una gratinada de berendjena asada, kon guevo, azete, masa
+        en mojo, i kezo, al orno.
+grammar: null
+id: '3032'
+origen: Jeneral
+versions:
+-   accented: almodróte
+    gender: masculine
+    ladino: almodrote
+    number: singular
+    translations:
+        english: eggplant or courgette soufflé
+        french: gratin (d'aubergines ou de courgettes)
+        portuguese: almodrote
+        spanish: almodrote
+        turkish: patlıcan veya kabak böreği
