@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1669'
+origen: Jeneral
+versions:
+-   accented: bruma
+    alternative-spelling:
+    -   accented: duman
+        ladino: duman
+    ladino: bruma
+    translations:
+        english:
+        - mist
+        - fog
+        french: ''
+        portuguese: ''
+        spanish: niebla
+        turkish:
+        - sis
+        - pus

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1646'
+origen: Jeneral
+versions:
+-   accented: atudrido
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: atudrido
+    translations:
+        english: thoughtless
+        french: ''
+        portuguese: ''
+        spanish: aturdido / a
+        turkish: şaşkın

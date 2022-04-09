@@ -1,0 +1,22 @@
+examples:
+-   ladino: Ademas vos kero rengrasiar por vuestras palavras de apresiasion.
+grammar: adverb
+id: '2274'
+origen: Jeneral
+versions:
+-   accented: además
+    ladino: ademas
+    translations:
+        english:
+        - besides
+        - moreover
+        french:
+        - en outre
+        - d'autant plus
+        portuguese:
+        - além do mais
+        - ademais
+        spanish: además
+        turkish:
+        - keza
+        - üstelik

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1680'
+origen: Jeneral
+versions:
+-   accented: data
+    ladino: data
+    translations:
+        english: date
+        french: ''
+        portuguese: ''
+        spanish: fecha
+        turkish: tarih

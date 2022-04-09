@@ -1,0 +1,18 @@
+examples:
+-   ladino: El dip de la kacharola ke este limpia.
+grammar: null
+id: '1673'
+origen: Jeneral
+versions:
+-   accented: kacharóla
+    gender: feminine
+    ladino: kacharola
+    number: singular
+    translations:
+        english: pan - casserole
+        french: casserole
+        portuguese: caçarola
+        spanish: cazuela
+        turkish:
+        - sahan
+        - tencere

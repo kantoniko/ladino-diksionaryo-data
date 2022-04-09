@@ -1,0 +1,23 @@
+comments:
+- 'grammar: interj.'
+examples:
+-   ladino: 'Aman, por ande fuyir de sus manos!
+
+        Aman, ke se eskape este mal diya!'
+grammar: null
+id: '2276'
+origen: Estanbol
+versions:
+-   accented: amán
+    ladino: aman
+    translations:
+        english:
+        - pity
+        - pardon
+        - help
+        french: ''
+        portuguese: ''
+        spanish:
+        - piedad
+        - perdón
+        turkish: aman

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1653'
+origen: Jeneral
+versions:
+-   accented: avion
+    ladino: avion
+    translations:
+        english:
+        - plane
+        - airplane
+        french: ''
+        portuguese: ''
+        spanish: avión
+        turkish: uçak

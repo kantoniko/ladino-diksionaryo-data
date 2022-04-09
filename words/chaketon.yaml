@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1674'
+origen: Jeneral
+versions:
+-   accented: chaketon
+    ladino: chaketon
+    translations:
+        english: slap
+        french: ''
+        portuguese: ''
+        spanish: bofetón
+        turkish:
+        - sille
+        - tokat

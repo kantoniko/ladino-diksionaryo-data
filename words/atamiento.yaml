@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1645'
+origen: Jeneral
+versions:
+-   accented: atamiento
+    ladino: atamiento
+    translations:
+        english: attachment
+        french: ''
+        portuguese: ''
+        spanish: apego
+        turkish: bağlılık

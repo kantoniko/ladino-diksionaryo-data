@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1637'
+origen: Jeneral
+versions:
+-   accented: aserkarse
+    ladino: aserkarse
+    translations:
+        english:
+        - approach
+        - come near
+        french: ''
+        portuguese: ''
+        spanish: acercarse
+        turkish: yaklaşmak

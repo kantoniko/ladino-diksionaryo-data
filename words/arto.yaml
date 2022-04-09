@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '1631'
+origen: Jeneral
+versions:
+-   accented: arto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: arto
+    translations:
+        english:
+        - full
+        - fed up
+        french: ''
+        portuguese: ''
+        spanish: harto / a
+        turkish:
+        - tok
+        - bıkkın

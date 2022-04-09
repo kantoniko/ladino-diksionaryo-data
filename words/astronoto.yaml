@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1644'
+origen: Jeneral
+versions:
+-   accented: astronoto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: astronoto
+    translations:
+        english: astronaut
+        french: ''
+        portuguese: ''
+        spanish: astronauta
+        turkish: astronot

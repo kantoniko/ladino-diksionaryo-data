@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2279'
+origen: Jeneral
+versions:
+-   accented: aprender
+    ladino: aprender
+    translations:
+        english: learn
+        french: ''
+        portuguese: ''
+        spanish: aprender
+        turkish: öğrenmek

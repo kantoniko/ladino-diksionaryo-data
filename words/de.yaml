@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'De oy endelantre...
+
+        Este livro es de mi ermano.'
+grammar: preposition
+id: '1681'
+origen: Jeneral
+versions:
+-   accented: de
+    ladino: de
+    translations:
+        english: of
+        french: ''
+        portuguese: ''
+        spanish: de
+        turkish: den

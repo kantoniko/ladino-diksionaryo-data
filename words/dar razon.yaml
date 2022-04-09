@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1679'
+origen: Jeneral
+versions:
+-   accented: dar razon
+    ladino: dar razon
+    translations:
+        english: concede
+        french: ''
+        portuguese: ''
+        spanish: conceder
+        turkish: hak vermek

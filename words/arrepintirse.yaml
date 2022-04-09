@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1625'
+origen: Jeneral
+versions:
+-   accented: arrepintirse
+    ladino: arrepintirse
+    translations:
+        english: repent
+        french: ''
+        portuguese: ''
+        spanish: arrepentirse
+        turkish: pişman olmak

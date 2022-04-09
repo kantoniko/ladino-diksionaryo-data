@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1670'
+origen: Jeneral
+versions:
+-   accented: brumozo
+    ladino: brumozo
+    translations:
+        english:
+        - misty
+        - foggy
+        french: ''
+        portuguese: ''
+        spanish: nebuloso
+        turkish:
+        - sisli
+        - puslu

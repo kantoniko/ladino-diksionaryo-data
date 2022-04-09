@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1683'
+origen: Jeneral
+versions:
+-   accented: debasho
+    ladino: debasho
+    translations:
+        english:
+        - under
+        - underneath
+        french: ''
+        portuguese: ''
+        spanish:
+        - bajo
+        - debajo
+        - so
+        turkish: altında
