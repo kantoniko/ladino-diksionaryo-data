@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '380'
+origen: Jeneral
+versions:
+-   accented: espozorio
+    ladino: espozorio
+    translations:
+        english: engagement
+        french: ''
+        portuguese: ''
+        spanish: compromiso
+        turkish: nişanlılık

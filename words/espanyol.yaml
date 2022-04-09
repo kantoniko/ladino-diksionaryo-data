@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1323'
+origen: Jeneral
+versions:
+-   accented: espanyol
+    ladino: espanyol
+    translations:
+        english: Spanish
+        french: ''
+        portuguese: ''
+        spanish: español
+        turkish: ispanyol

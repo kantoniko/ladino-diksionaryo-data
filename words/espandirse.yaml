@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '363'
+origen: Jeneral
+versions:
+-   accented: espandirse
+    alternative-spelling:
+    -   accented: echarse
+        ladino: echarse
+    ladino: espandirse
+    translations:
+        english: lie down
+        french: ''
+        portuguese: ''
+        spanish: acostarse
+        turkish:
+        - uzanmak
+        - yatmak

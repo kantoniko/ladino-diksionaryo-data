@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '385'
+origen: Jeneral
+versions:
+-   accented: estar
+    ladino: estar
+    translations:
+        english: ''
+        french: ''
+        portuguese: ''
+        spanish: estar
+        turkish:
+        - bulunmak
+        - olmak

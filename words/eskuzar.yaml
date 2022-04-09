@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1321'
+origen: Jeneral
+versions:
+-   accented: eskuzar
+    ladino: eskuzar
+    translations:
+        english: excuse
+        french: ''
+        portuguese: ''
+        spanish:
+        - excusar
+        - disculpar
+        turkish: mazur görmek

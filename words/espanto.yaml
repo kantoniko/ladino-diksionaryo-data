@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '367'
+origen: Jeneral
+versions:
+-   accented: espanto
+    ladino: espanto
+    translations:
+        english:
+        - fear
+        - fright
+        - terror
+        french: ''
+        portuguese: ''
+        spanish:
+        - miedo
+        - espanto
+        turkish: korku

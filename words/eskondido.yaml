@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '358'
+origen: Jeneral
+versions:
+-   accented: eskondido
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: eskondido
+    translations:
+        english: hidden
+        french: ''
+        portuguese: ''
+        spanish: escondido / a
+        turkish: saklı

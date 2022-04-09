@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '372'
+origen: Jeneral
+versions:
+-   accented: espektador
+    ladino: espektador
+    translations:
+        english: spectator
+        french: ''
+        portuguese: ''
+        spanish: espectador
+        turkish: seyirci

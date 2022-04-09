@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '351'
+origen: Jeneral
+versions:
+-   accented: esforsarse
+    ladino: esforsarse
+    translations:
+        english:
+        - strain
+        - exert oneself
+        french: ''
+        portuguese: ''
+        spanish: esforzarse
+        turkish:
+        - çabalamak
+        - gayret etmek

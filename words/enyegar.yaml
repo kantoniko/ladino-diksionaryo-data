@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '346'
+origen: Jeneral
+versions:
+-   accented: enyegar
+    ladino: enyegar
+    translations:
+        english: deny
+        french: ''
+        portuguese: ''
+        spanish: negar
+        turkish: inkâr etmek

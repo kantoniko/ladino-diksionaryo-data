@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '353'
+origen: Jeneral
+versions:
+-   accented: eskalon
+    ladino: eskalon
+    translations:
+        english:
+        - step
+        - grade
+        french: ''
+        portuguese: ''
+        spanish: escalón
+        turkish: basamak

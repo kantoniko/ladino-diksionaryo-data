@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '374'
+origen: Jeneral
+versions:
+-   accented: esperansa
+    ladino: esperansa
+    translations:
+        english: hope
+        french: ''
+        portuguese: ''
+        spanish: esperanza
+        turkish: umut

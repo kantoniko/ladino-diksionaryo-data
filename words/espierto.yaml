@@ -1,0 +1,22 @@
+examples: []
+grammar: null
+id: '379'
+origen: Jeneral
+versions:
+-   accented: espierto
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: espierto
+    translations:
+        english:
+        - awake
+        - smart
+        french: ''
+        portuguese: ''
+        spanish:
+        - despierto / a
+        - listo / a
+        turkish:
+        - uyanık
+        - açıkgöz

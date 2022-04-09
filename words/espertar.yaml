@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '376'
+origen: Jeneral
+versions:
+-   accented: espertar
+    ladino: espertar
+    translations:
+        english: wake
+        french: ''
+        portuguese: ''
+        spanish: despertar
+        turkish: uyandırmak

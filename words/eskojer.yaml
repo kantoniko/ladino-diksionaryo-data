@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '355'
+origen: Jeneral
+versions:
+-   accented: eskojer
+    ladino: eskojer
+    translations:
+        english: choose
+        french: ''
+        portuguese: ''
+        spanish: escoger
+        turkish: seçmek

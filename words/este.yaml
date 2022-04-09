@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '386'
+origen: Jeneral
+versions:
+-   accented: este
+    ladino: este
+    translations:
+        english: east
+        french: ''
+        portuguese: ''
+        spanish: este
+        turkish: doğu
+
+
+# este,,este,east,doğu,Jeneral,386,,
+# este / esta,,eso / esa,this,bu,Jeneral,387,,

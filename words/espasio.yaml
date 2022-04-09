@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '370'
+origen: Jeneral
+versions:
+-   accented: espasio
+    ladino: espasio
+    translations:
+        english: space
+        french: ''
+        portuguese: ''
+        spanish: espacio
+        turkish: uzay

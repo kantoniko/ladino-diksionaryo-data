@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1318'
+origen: Jeneral
+versions:
+-   accented: esforso
+    ladino: esforso
+    translations:
+        english: effort
+        french: ''
+        portuguese: ''
+        spanish: esfuerzo
+        turkish:
+        - gayret
+        - çaba

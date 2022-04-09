@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '382'
+origen: Jeneral
+versions:
+-   accented: estado
+    ladino: estado
+    translations:
+        english: state
+        french: ''
+        portuguese: ''
+        spanish: estado
+        turkish:
+        - durum
+        - hal; devlet

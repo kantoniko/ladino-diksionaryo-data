@@ -1,0 +1,17 @@
+comments:
+- 'grammar: distribuir'
+examples: []
+grammar: null
+id: '369'
+origen: Jeneral
+versions:
+-   accented: espartir
+    ladino: espartir
+    translations:
+        english:
+        - distribute
+        - share out
+        french: ''
+        portuguese: ''
+        spanish: repartir
+        turkish: dağıtmak

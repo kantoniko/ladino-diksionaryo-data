@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '371'
+origen: Jeneral
+versions:
+-   accented: espejo
+    ladino: espejo
+    translations:
+        english: mirror
+        french: ''
+        portuguese: ''
+        spanish: espejo
+        turkish: ayna

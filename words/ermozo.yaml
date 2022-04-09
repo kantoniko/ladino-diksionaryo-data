@@ -1,0 +1,19 @@
+examples:
+-   ladino: Teniya dos ijas, mansevikas i muy ermozikas.
+grammar: null
+id: '4'
+origen: Jeneral
+versions:
+-   accented: ermozo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: ermozo
+    translations:
+        english: beautiful
+        french: ''
+        portuguese: ''
+        spanish:
+        - hermoso
+        - bello / a
+        turkish: güzel

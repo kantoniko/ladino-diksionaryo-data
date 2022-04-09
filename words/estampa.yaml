@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '384'
+origen: Jeneral
+versions:
+-   accented: estampa
+    ladino: estampa
+    translations:
+        english: stamp
+        french: ''
+        portuguese: ''
+        spanish: estampa
+        turkish: mühür ıstampa

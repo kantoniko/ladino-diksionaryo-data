@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '373'
+origen: Jeneral
+versions:
+-   accented: espektakolo
+    ladino: espektakolo
+    translations:
+        english: spectacle
+        french: ''
+        portuguese: ''
+        spanish: espectáculo
+        turkish: gösteri

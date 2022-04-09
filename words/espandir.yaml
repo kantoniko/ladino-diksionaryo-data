@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1322'
+origen: Jeneral
+versions:
+-   accented: espandir
+    ladino: espandir
+    translations:
+        english: extend
+        french: ''
+        portuguese: ''
+        spanish: expandir
+        turkish:
+        - uzatmak
+        - yaymak

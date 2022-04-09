@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '356'
+origen: Jeneral
+versions:
+-   accented: eskola
+    ladino: eskola
+    translations:
+        english: school
+        french: ''
+        portuguese: ''
+        spanish: escuela
+        turkish: okul

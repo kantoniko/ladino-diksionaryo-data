@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1316'
+origen: Jeneral
+versions:
+-   accented: envitar
+    ladino: envitar
+    translations:
+        english: invite
+        french: ''
+        portuguese: ''
+        spanish: invitar
+        turkish: dâvet etmek

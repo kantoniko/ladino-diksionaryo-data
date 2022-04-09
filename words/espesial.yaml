@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '377'
+origen: Jeneral
+versions:
+-   accented: espesial
+    ladino: espesial
+    translations:
+        english: special
+        french: ''
+        portuguese: ''
+        spanish: especial
+        turkish: özel

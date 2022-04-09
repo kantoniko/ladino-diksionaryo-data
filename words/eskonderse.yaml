@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '357'
+origen: Jeneral
+versions:
+-   accented: eskonderse
+    ladino: eskonderse
+    translations:
+        english: hide
+        french: ''
+        portuguese: ''
+        spanish: esconderse
+        turkish: saklanmak

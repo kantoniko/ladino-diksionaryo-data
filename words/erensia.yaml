@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1317'
+origen: Jeneral
+versions:
+-   accented: erensia
+    ladino: erensia
+    translations:
+        english: inheritance
+        french: ''
+        portuguese: ''
+        spanish: herencia
+        turkish:
+        - miras
+        - veraset

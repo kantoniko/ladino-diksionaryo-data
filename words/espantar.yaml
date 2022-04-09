@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '364'
+origen: Jeneral
+versions:
+-   accented: espantar
+    ladino: espantar
+    translations:
+        english: frighten
+        french: ''
+        portuguese: ''
+        spanish: asustar
+        turkish: korkutmak

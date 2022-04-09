@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '381'
+origen: Jeneral
+versions:
+-   accented: estableser
+    ladino: estableser
+    translations:
+        english: establish
+        french: ''
+        portuguese: ''
+        spanish:
+        - establecer
+        - plantear
+        turkish: tesis etmek

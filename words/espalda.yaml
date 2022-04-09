@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '362'
+origen: Jeneral
+versions:
+-   accented: espalda
+    ladino: espalda
+    translations:
+        english: back
+        french: ''
+        portuguese: ''
+        spanish: espalda
+        turkish: sırt

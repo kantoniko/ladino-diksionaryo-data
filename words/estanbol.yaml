@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '383'
+origen: Jeneral
+versions:
+-   accented: Estanbol
+    ladino: Estanbol
+    translations:
+        english: Istanbul
+        french: ''
+        portuguese: ''
+        spanish: Estambul
+        turkish: Istanbul

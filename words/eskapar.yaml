@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '354'
+origen: Jeneral
+versions:
+-   accented: eskapar
+    ladino: eskapar
+    translations:
+        english: finish
+        french: ''
+        portuguese: ''
+        spanish: acabar
+        turkish: bitirmek
