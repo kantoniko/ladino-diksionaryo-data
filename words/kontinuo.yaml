@@ -1,0 +1,15 @@
+examples: []
+grammar: adjective
+id: '2686'
+origen: Jeneral
+versions:
+-   accented: kontinúo
+    ladino: kontinuo
+    translations:
+        english: continuous
+        french: ''
+        portuguese: ''
+        spanish: continuo
+        turkish:
+        - sürekli
+        - durmadan

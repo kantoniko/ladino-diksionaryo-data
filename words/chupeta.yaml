@@ -1,0 +1,20 @@
+examples:
+-   ladino: Dale la chupeta al bebe, ke no yore.
+grammar: null
+id: '2712'
+origen: Izmir
+versions:
+-   accented: chupéta
+    gender: feminine
+    ladino: chupeta
+    number: singular
+    translations:
+        english:
+        - sucker for baby
+        - titina
+        french: ''
+        portuguese: ''
+        spanish: mamón
+        turkish:
+        - emzik
+        - titin

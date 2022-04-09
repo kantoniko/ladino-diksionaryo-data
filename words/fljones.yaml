@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2715'
+origen: Izmir
+versions:
+-   accented: fljónes
+    gender: masculine
+    ladino: fljones
+    number: singular
+    translations:
+        english: fresh black-eyed beans
+        french: ''
+        portuguese: ''
+        spanish: habichuella con ojo negro
+        turkish: börülce

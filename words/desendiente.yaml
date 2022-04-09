@@ -1,0 +1,18 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Para mi, un desendiente de Estambullis, la palavra es "BISKOCHOS".
+grammar: null
+id: '2668'
+origen: Jeneral
+versions:
+-   accented: desendiénte
+    ladino: desendiente
+    translations:
+        english: descendant
+        french: descendant
+        portuguese: ''
+        spanish: descendiente
+        turkish:
+        - soyundan gelen
+        - oğul

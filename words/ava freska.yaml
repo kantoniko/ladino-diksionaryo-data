@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '2700'
+origen: Izmir
+versions:
+-   accented: áva fréska
+    gender: feminine
+    ladino: ava freska
+    number: singular
+    translations:
+        english:
+        - broad beans
+        - fava beans
+        french: ''
+        portuguese: ''
+        spanish:
+        - habicuela
+        - judía
+        turkish: bakla

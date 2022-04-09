@@ -1,0 +1,18 @@
+examples:
+-   ladino: Kuando avlo mentiras, el padre lo mato de haftona.
+grammar: null
+id: '2689'
+origen: Jeneral
+versions:
+-   accented: haftoná
+    gender: feminine
+    ladino: haftona
+    number: singular
+    translations:
+        english: thrashing
+        french: ''
+        portuguese: ''
+        spanish:
+        - golpe
+        - zurra
+        turkish: dayak

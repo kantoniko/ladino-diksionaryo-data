@@ -1,0 +1,20 @@
+examples: []
+grammar: adjective
+id: '2718'
+origen: Izmir
+versions:
+-   accented: haryénto
+    ladino: haryento
+    translations:
+        english:
+        - worm-eaten
+        - rotten
+        french: ''
+        portuguese: ''
+        spanish:
+        - gusanado
+        - putrefacto
+        turkish:
+        - kurtlu
+        - böcekli
+        - çürümüş

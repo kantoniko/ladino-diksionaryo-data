@@ -1,0 +1,18 @@
+examples:
+-   ladino: El biervo avramila viene de "Avram-mila", del komentario de la biblia
+        ke konta ke despues de su brit-mila, Avram Avinu se asento debasho de un arvolé,
+        el kual era arvolé de zirguela!
+grammar: null
+id: '2694'
+origen: Estanbol
+versions:
+-   accented: avramilá
+    gender: feminine
+    ladino: avramila
+    number: singular
+    translations:
+        english: green plum
+        french: ''
+        portuguese: ''
+        spanish: ciruela verde
+        turkish: can eriği

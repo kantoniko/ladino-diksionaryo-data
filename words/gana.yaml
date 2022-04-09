@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ya le vino la gana de kuzir.
+grammar: null
+id: '2678'
+origen: Jeneral
+versions:
+-   accented: gána
+    gender: feminine
+    ladino: gana
+    number: singular
+    translations:
+        english: desire
+        french: ''
+        portuguese: ''
+        spanish: gana
+        turkish: istek

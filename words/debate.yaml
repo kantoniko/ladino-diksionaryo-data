@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2667'
+origen: Jeneral
+versions:
+-   accented: debáte
+    gender: masculine
+    ladino: debate
+    number: singular
+    translations:
+        english: debate
+        french: ''
+        portuguese: ''
+        spanish: debate
+        turkish: münazara

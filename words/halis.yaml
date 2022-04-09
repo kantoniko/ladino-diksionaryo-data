@@ -1,0 +1,18 @@
+examples:
+-   ladino: Es halis miel de bizba.
+grammar: adjective
+id: '2679'
+origen: Estanbol
+versions:
+-   accented: halís
+    ladino: halis
+    translations:
+        english:
+        - pure
+        - genuine
+        french: ''
+        portuguese: ''
+        spanish:
+        - puro
+        - genuino
+        turkish: halis

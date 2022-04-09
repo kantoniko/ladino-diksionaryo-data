@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2669'
+origen: Jeneral
+versions:
+-   accented: djudéo-espanyól
+    gender: masculine
+    ladino: djudeo-espanyol
+    number: singular
+    translations:
+        english: judeo-spanish
+        french: ''
+        portuguese: ''
+        spanish: judeo-español
+        turkish:
+        - Yahudice
+        - Musevice

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2710'
+origen: Izmir
+versions:
+-   accented: bóyo de ráyo
+    gender: masculine
+    ladino: boyo de rayo
+    number: singular
+    translations:
+        english: cheese cookies
+        french: ''
+        portuguese: ''
+        spanish: bollo con queso rallado
+        turkish: peynirli hamur işi

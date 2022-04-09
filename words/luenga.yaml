@@ -1,0 +1,19 @@
+examples:
+-   ladino: Le plaze una komidika de luenga buyida kon un poko de vinagre.
+grammar: null
+id: '2696'
+origen: Izmir
+versions:
+-   accented: luénga
+    alternative-spelling:
+    -   accented: aluénga
+        ladino: aluenga
+    gender: feminine
+    ladino: luenga
+    number: singular
+    translations:
+        english: tongue
+        french: ''
+        portuguese: ''
+        spanish: luenga
+        turkish: dil

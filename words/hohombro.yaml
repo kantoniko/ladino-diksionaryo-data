@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2716'
+origen: Izmir
+versions:
+-   accented: hohómbro
+    gender: masculine
+    ladino: hohombro
+    number: singular
+    translations:
+        english: cucumber
+        french: ''
+        portuguese: ''
+        spanish: cohombre
+        turkish:
+        - hıyar
+        - salatalık

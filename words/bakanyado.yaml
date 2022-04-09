@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2703'
+origen: Izmir
+versions:
+-   accented: bakanyádo
+    gender: masculine
+    ladino: bakanyado
+    number: singular
+    translations:
+        english: cod fish
+        french: ''
+        portuguese: ''
+        spanish: bacallao
+        turkish: morina balığı

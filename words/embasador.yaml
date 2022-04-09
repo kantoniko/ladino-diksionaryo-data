@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '2672'
+origen: Jeneral
+versions:
+-   accented: embasadór
+    alternative-spelling:
+    -   accented: embashadór
+        ladino: embashador
+    gender: masculine
+    ladino: embasador
+    number: singular
+    translations:
+        english: ambassador
+        french: ''
+        portuguese: ''
+        spanish: embajador
+        turkish:
+        - elçi
+        - sefir

@@ -1,0 +1,20 @@
+examples:
+-   ladino: Oy estan vendiendo al koste.
+grammar: null
+id: '2688'
+origen: Jeneral
+versions:
+-   accented: kóste
+    gender: masculine
+    ladino: koste
+    number: singular
+    translations:
+        english:
+        - cost
+        - price
+        french: ''
+        portuguese: ''
+        spanish: coste
+        turkish:
+        - paha
+        - eder

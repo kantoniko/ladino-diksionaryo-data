@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2713'
+origen: Izmir
+versions:
+-   accented: estragalákya
+    gender: feminine
+    ladino: estragalakya
+    number: singular
+    translations:
+        english:
+        - roasted chick pea
+        - white
+        french: ''
+        portuguese: ''
+        spanish: garbanzo tostado blanco
+        turkish: beyaz leblebi

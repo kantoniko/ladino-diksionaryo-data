@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2670'
+origen: Jeneral
+versions:
+-   accented: editoriál
+    gender: masculine
+    ladino: editorial
+    number: singular
+    translations:
+        english: editorial
+        french: ''
+        portuguese: ''
+        spanish: editorial
+        turkish:
+        - başyazı
+        - yazımla ilgili

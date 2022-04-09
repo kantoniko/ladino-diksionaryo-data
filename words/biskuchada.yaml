@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2708'
+origen: Izmir
+versions:
+-   accented: biskucháda
+    gender: feminine
+    ladino: biskuchada
+    number: singular
+    translations:
+        english: Zwieback
+        french: ''
+        portuguese: ''
+        spanish: bizcocho de pan
+        turkish: peksimet

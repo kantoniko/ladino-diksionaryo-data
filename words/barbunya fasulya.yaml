@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2704'
+origen: Izmir
+versions:
+-   accented: barbúnya fasúlya
+    gender: feminine
+    ladino: barbunya fasulya
+    number: singular
+    translations:
+        english: beans (fresh butterbeans)
+        french: ''
+        portuguese: ''
+        spanish: habichuela rosa
+        turkish: barbunya fasulyesi

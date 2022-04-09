@@ -1,0 +1,19 @@
+examples:
+-   ladino: El abudaraho se toma komo aperitivo.
+grammar: null
+id: '2690'
+origen: Estanbol
+versions:
+-   accented: abudáraho
+    alternative-spelling:
+    -   accented: abutargo
+        ladino: abutargo
+    gender: masculine
+    ladino: abudaraho
+    number: singular
+    translations:
+        english: dried salted fish roe
+        french: oeufs de poisson salés secs; boutargue
+        portuguese: ovas de peixe
+        spanish: hueva seca salada
+        turkish: balık yumurtası

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2671'
+origen: Jeneral
+versions:
+-   accented: ekspresión
+    gender: feminine
+    ladino: ekspresion
+    number: singular
+    translations:
+        english: expression
+        french: ''
+        portuguese: ''
+        spanish: expresión
+        turkish: ifade

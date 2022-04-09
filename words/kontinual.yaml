@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ay un bruido kontinual.
+grammar: adjective
+id: '2683'
+origen: Jeneral
+versions:
+-   accented: kontinuál
+    ladino: kontinual
+    translations:
+        english: continual
+        french: ''
+        portuguese: ''
+        spanish: continuo
+        turkish:
+        - sürekli
+        - tekrar tekrar
