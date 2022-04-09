@@ -1,0 +1,19 @@
+conjugations: {}
+examples:
+-   ladino: Komo olvidar las ermozas tadradas, las vijitas familiales.
+grammar: verb
+id: '789'
+origen: Jeneral
+versions:
+-   accented: olvidár
+    ladino: olvidar
+    alternative-spelling:
+      - ladino: ulvidar
+        accented: ulvidár
+    translations:
+        english: forget
+        french: oublier
+        portuguese: esqueser
+        spanish: olvidar
+        turkish: unutmak
+
