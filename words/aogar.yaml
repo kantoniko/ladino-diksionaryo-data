@@ -1,0 +1,20 @@
+conjugations: {}
+examples:
+-   ladino: Le echó los dedos al garón i lo aogó.
+grammar: verb
+id: '2805'
+origen: Jeneral
+versions:
+-   accented: aogár
+    alternative-spelling:
+    -   accented: afogár
+        ladino: afogar
+    ladino: aogar
+    translations:
+        english:
+        - drown
+        - suffocate
+        french: ''
+        portuguese: ''
+        spanish: ahogar
+        turkish: boğmak
