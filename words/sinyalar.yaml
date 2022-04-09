@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2190'
+origen: Jeneral
+versions:
+-   accented: sinyalar
+    ladino: sinyalar
+    translations:
+        english:
+        - signal
+        - point out
+        french: ''
+        portuguese: ''
+        spanish: señalar
+        turkish: işaret etmek

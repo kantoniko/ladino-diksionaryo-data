@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2227'
+origen: Jeneral
+versions:
+-   accented: toro
+    ladino: toro
+    translations:
+        english: bull
+        french: ''
+        portuguese: ''
+        spanish: toro
+        turkish: boğa

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2220'
+origen: Jeneral
+versions:
+-   accented: timido
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: timido
+    translations:
+        english: timid
+        french: ''
+        portuguese: ''
+        spanish: tímido
+        turkish: çekingen

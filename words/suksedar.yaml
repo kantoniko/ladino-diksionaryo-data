@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2204'
+origen: Jeneral
+versions:
+-   accented: suksedar
+    ladino: suksedar
+    translations:
+        english:
+        - succeed
+        - follow
+        french: ''
+        portuguese: ''
+        spanish: suceder
+        turkish: arkasından gelmek

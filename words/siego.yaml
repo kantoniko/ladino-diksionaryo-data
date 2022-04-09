@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2183'
+origen: Jeneral
+versions:
+-   accented: siego
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: siego
+    translations:
+        english: blind
+        french: ''
+        portuguese: ''
+        spanish: ciego / a
+        turkish: kör

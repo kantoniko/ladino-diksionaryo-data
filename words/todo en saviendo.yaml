@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2223'
+origen: Jeneral
+versions:
+-   accented: todo en saviendo
+    ladino: todo en saviendo
+    translations:
+        english: knowingly
+        french: ''
+        portuguese: ''
+        spanish: a sabiendas
+        turkish: bile bile

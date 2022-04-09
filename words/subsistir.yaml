@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '2201'
+origen: Jeneral
+versions:
+-   accented: subsistir
+    alternative-spelling:
+    -   accented: turar
+        ladino: turar
+    ladino: subsistir
+    translations:
+        english:
+        - subsist
+        - last
+        french: ''
+        portuguese: ''
+        spanish: subsistir
+        turkish:
+        - dayanmak
+        - sürmek

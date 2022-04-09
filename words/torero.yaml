@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2225'
+origen: Jeneral
+versions:
+-   accented: torero
+    ladino: torero
+    translations:
+        english: bull-fighter
+        french: ''
+        portuguese: ''
+        spanish: torero
+        turkish: boğa güreşçisi

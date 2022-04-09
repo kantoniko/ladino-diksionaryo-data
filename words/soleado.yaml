@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2193'
+origen: Jeneral
+versions:
+-   accented: soleado
+    ladino: soleado
+    translations:
+        english: sunny
+        french: ''
+        portuguese: ''
+        spanish: soleado
+        turkish: güneşli

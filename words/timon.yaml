@@ -1,0 +1,16 @@
+examples:
+-   ladino: El kapitan detiene el timón de la embarkasion.
+grammar: null
+id: '2221'
+origen: Jeneral
+versions:
+-   accented: timón
+    gender: masculine
+    ladino: timon
+    number: singular
+    translations:
+        english: rudder
+        french: ''
+        portuguese: ''
+        spanish: timón
+        turkish: dümen

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2212'
+origen: Jeneral
+versions:
+-   accented: tartalear
+    ladino: tartalear
+    translations:
+        english: stutter
+        french: ''
+        portuguese: ''
+        spanish: balbucear
+        turkish: dili dolaşmak

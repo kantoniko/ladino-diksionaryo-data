@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2196'
+origen: Jeneral
+versions:
+-   accented: someter
+    ladino: someter
+    translations:
+        english: submit
+        french: ''
+        portuguese: ''
+        spanish: someter
+        turkish:
+        - boyun eğmek
+        - takdim etmek

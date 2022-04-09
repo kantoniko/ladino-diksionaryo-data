@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2182'
+origen: Jeneral
+versions:
+-   accented: si
+    ladino: si
+    translations:
+        english: yes; if
+        french: ''
+        portuguese: ''
+        spanish: sí
+        turkish: evet; eğer

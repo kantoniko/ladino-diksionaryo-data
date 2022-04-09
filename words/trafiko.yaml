@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2230'
+origen: Jeneral
+versions:
+-   accented: trafiko
+    ladino: trafiko
+    translations:
+        english: traffic
+        french: ''
+        portuguese: ''
+        spanish: tráfico
+        turkish: trafik

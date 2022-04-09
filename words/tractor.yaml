@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2229'
+origen: Jeneral
+versions:
+-   accented: tractor
+    ladino: tractor
+    translations:
+        english: tractor
+        french: ''
+        portuguese: ''
+        spanish: tractor
+        turkish: traktör

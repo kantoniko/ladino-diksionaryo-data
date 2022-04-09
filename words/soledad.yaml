@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2194'
+origen: Jeneral
+versions:
+-   accented: soledad
+    ladino: soledad
+    translations:
+        english: solitude
+        french: ''
+        portuguese: ''
+        spanish: soledad
+        turkish: yalnızlık

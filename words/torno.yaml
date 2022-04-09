@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2226'
+origen: Jeneral
+versions:
+-   accented: torno
+    ladino: torno
+    translations:
+        english: turn off
+        french: ''
+        portuguese: ''
+        spanish: turno
+        turkish:
+        - devir
+        - sıra

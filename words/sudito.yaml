@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2202'
+origen: Jeneral
+versions:
+-   accented: sudito
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: sudito
+    translations:
+        english: subject
+        french: ''
+        portuguese: ''
+        spanish: súbdito / a
+        turkish:
+        - tebaa
+        - uyruk

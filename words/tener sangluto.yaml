@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2215'
+origen: Jeneral
+versions:
+-   accented: tener sangluto
+    ladino: tener sangluto
+    translations:
+        english:
+        - hiccough
+        - hiccup
+        french: ''
+        portuguese: ''
+        spanish: tener hipo
+        turkish: hıçkırık tutmak

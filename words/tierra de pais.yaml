@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2218'
+origen: Jeneral
+versions:
+-   accented: tierra de pais
+    ladino: tierra de pais
+    translations:
+        english: territory
+        french: ''
+        portuguese: ''
+        spanish: territorio
+        turkish: devlet toprağı

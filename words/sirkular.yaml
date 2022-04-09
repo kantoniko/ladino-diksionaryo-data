@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2192'
+origen: Jeneral
+versions:
+-   accented: sirkular
+    ladino: sirkular
+    translations:
+        english: circulate
+        french: ''
+        portuguese: ''
+        spanish: circular
+        turkish: dolaşmak

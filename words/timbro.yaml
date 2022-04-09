@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '2219'
+origen: Jeneral
+versions:
+-   accented: timbro
+    alternative-spelling:
+    -   accented: muur
+        ladino: muur
+    ladino: timbro
+    translations:
+        english:
+        - stamp
+        - seal
+        french: ''
+        portuguese: ''
+        spanish: sello
+        turkish:
+        - pul
+        - mühür

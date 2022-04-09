@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2189'
+origen: Jeneral
+versions:
+-   accented: sinyal
+    ladino: sinyal
+    translations:
+        english:
+        - sign
+        - mark
+        french: ''
+        portuguese: ''
+        spanish: señal
+        turkish: işaret

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2222'
+origen: Jeneral
+versions:
+-   accented: tipo
+    ladino: tipo
+    translations:
+        english: type
+        french: ''
+        portuguese: ''
+        spanish: tipo
+        turkish:
+        - tip
+        - tür

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2216'
+origen: Jeneral
+versions:
+-   accented: tenta
+    ladino: tenta
+    translations:
+        english:
+        - marquee
+        - canopy
+        french: ''
+        portuguese: ''
+        spanish: marquesina
+        turkish: tente

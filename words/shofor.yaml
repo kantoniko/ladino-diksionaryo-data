@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2180'
+origen: Jeneral
+versions:
+-   accented: shofor
+    ladino: shofor
+    translations:
+        english: driver
+        french: ''
+        portuguese: ''
+        spanish: chofer
+        turkish: şoför

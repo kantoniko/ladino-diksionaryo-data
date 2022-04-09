@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2213'
+origen: Jeneral
+versions:
+-   accented: temeridad
+    ladino: temeridad
+    translations:
+        english:
+        - rashness
+        - courage
+        french: ''
+        portuguese: ''
+        spanish: temeridad
+        turkish:
+        - ihtiyatsızlık
+        - cesaret

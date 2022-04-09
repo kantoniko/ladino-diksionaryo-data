@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '2207'
+origen: Jeneral
+versions:
+-   accented: suksesivo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: suksesivo
+    translations:
+        english: successive
+        french: ''
+        portuguese: ''
+        spanish: sucesivo / a
+        turkish: müteakip

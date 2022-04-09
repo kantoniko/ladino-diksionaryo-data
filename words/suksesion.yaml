@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2205'
+origen: Jeneral
+versions:
+-   accented: suksesion
+    ladino: suksesion
+    translations:
+        english: succession
+        french: ''
+        portuguese: ''
+        spanish: sucesión
+        turkish:
+        - miras
+        - ardından geliş

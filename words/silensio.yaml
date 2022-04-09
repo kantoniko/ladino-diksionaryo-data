@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2184'
+origen: Jeneral
+versions:
+-   accented: silensio
+    ladino: silensio
+    translations:
+        english: silence
+        french: ''
+        portuguese: ''
+        spanish: silencio
+        turkish: sükût
