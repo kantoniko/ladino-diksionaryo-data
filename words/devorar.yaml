@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1711'
+origen: Jeneral
+versions:
+-   accented: devorar
+    ladino: devorar
+    translations:
+        english: devour
+        french: ''
+        portuguese: ''
+        spanish: devorar
+        turkish: yiyip yutmak

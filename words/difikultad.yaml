@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1718'
+origen: Jeneral
+versions:
+-   accented: difikultad
+    ladino: difikultad
+    translations:
+        english: difficulty
+        french: ''
+        portuguese: ''
+        spanish: dificultad
+        turkish: güçlük

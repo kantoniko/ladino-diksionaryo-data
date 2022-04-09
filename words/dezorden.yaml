@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1714'
+origen: Jeneral
+versions:
+-   accented: dezorden
+    alternative-spelling:
+    -   accented: konfuzion
+        ladino: konfuzion
+    ladino: dezorden
+    translations:
+        english:
+        - disorder
+        - confusion
+        french: ''
+        portuguese: ''
+        spanish: desconcierto
+        turkish: karışılık şaşkınlık

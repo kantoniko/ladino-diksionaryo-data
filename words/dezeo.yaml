@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1712'
+origen: Jeneral
+versions:
+-   accented: dezeo
+    ladino: dezeo
+    translations:
+        english:
+        - wish
+        - desire
+        french: ''
+        portuguese: ''
+        spanish: deseo
+        turkish:
+        - arzu
+        - heves
