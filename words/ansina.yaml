@@ -1,0 +1,14 @@
+examples:
+-   ladino: Ansina topimos el mundo, ansina lo vamos a deshar.
+grammar: adverb
+id: '1210'
+origen: Jeneral
+versions:
+-   accented: ansína
+    ladino: ansina
+    translations:
+        english: so
+        french: ''
+        portuguese: ''
+        spanish: así
+        turkish: böyle

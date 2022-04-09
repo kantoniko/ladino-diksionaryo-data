@@ -1,0 +1,19 @@
+examples:
+-   ladino: Ken negro aze, negro topa.
+grammar: adjective
+id: '2746'
+origen: Jeneral
+versions:
+-   accented: négro
+    alternative-spelling:
+    -   accented: négra
+        ladino: negra
+    ladino: negro
+    translations:
+        english: bad
+        french: ''
+        portuguese: ''
+        spanish: malo / mala
+        turkish:
+        - kötü
+        - fena

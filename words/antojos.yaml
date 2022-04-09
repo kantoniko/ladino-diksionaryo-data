@@ -1,0 +1,16 @@
+examples:
+-   ladino: Es flako i alto, tiene antojos.
+comments:
+  - grammar was m/p
+grammar: null
+id: '99'
+origen: Jeneral
+versions:
+-   accented: antójos
+    ladino: antojos
+    translations:
+        english: spectacles
+        french: lunettes
+        portuguese: ''
+        spanish: gafas
+        turkish: gözlük

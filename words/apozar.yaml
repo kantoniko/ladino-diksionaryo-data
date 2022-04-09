@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1214'
+origen: Jeneral
+versions:
+-   accented: apozar
+    ladino: apozar
+    translations:
+        english: lay down
+        french: ''
+        portuguese: ''
+        spanish: posar
+        turkish: koymak

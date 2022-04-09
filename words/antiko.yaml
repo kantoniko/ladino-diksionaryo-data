@@ -1,0 +1,17 @@
+examples:
+-   ladino: Este kal es antiko (500 anios).
+grammar: adjective
+id: '1211'
+origen: Jeneral
+versions:
+-   accented: antíko
+    alternative-spelling:
+    -   accented: antíka
+        ladino: antika
+    ladino: antiko
+    translations:
+        english: antique
+        french: ''
+        portuguese: ''
+        spanish: antigua
+        turkish: antika

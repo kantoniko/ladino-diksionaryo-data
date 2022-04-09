@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mos burlamos ma siempre echamos un anyudo kuando pyedremos una koza!
+grammar: null
+id: '101'
+origen: Jeneral
+versions:
+-   accented: anyúdo
+    gender: masculine
+    ladino: anyudo
+    number: singular
+    translations:
+        english: knot
+        french: noeud
+        portuguese: ''
+        spanish: nudo
+        turkish: düğüm

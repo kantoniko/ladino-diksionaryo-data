@@ -1,0 +1,14 @@
+examples:
+-   ladino: Antiyer me estava muriendo de la dolor.
+grammar: adverb
+id: '98'
+origen: Jeneral
+versions:
+-   accented: antiyér
+    ladino: antiyer
+    translations:
+        english: day before yesterday
+        french: ''
+        portuguese: ''
+        spanish: anteayer
+        turkish: evveli gün
