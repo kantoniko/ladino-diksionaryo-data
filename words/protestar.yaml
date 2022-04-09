@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2116'
+origen: Jeneral
+versions:
+-   accented: protestar
+    ladino: protestar
+    translations:
+        english: protest
+        french: ''
+        portuguese: ''
+        spanish: protestar
+        turkish: itiraz etmek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2112'
+origen: Jeneral
+versions:
+-   accented: propozision
+    ladino: propozision
+    translations:
+        english: proposition
+        french: ''
+        portuguese: ''
+        spanish: proposición
+        turkish: teklif

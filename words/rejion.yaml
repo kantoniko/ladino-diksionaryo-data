@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2129'
+origen: Jeneral
+versions:
+-   accented: rejion
+    ladino: rejion
+    translations:
+        english: region
+        french: ''
+        portuguese: ''
+        spanish: región
+        turkish:
+        - bölge
+        - yöre

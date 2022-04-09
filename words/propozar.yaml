@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2111'
+origen: Jeneral
+versions:
+-   accented: propozar
+    ladino: propozar
+    translations:
+        english: propose
+        french: ''
+        portuguese: ''
+        spanish: proponer
+        turkish: teklif etmek

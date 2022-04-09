@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2125'
+origen: Jeneral
+versions:
+-   accented: realizar
+    ladino: realizar
+    translations:
+        english: realize
+        french: ''
+        portuguese: ''
+        spanish: realizar
+        turkish:
+        - gerçekleştirmek
+        - idrak etmek

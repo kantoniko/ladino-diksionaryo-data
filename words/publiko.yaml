@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2119'
+origen: Jeneral
+versions:
+-   accented: publiko
+    ladino: publiko
+    translations:
+        english: public
+        french: ''
+        portuguese: ''
+        spanish: público
+        turkish:
+        - halk
+        - seyirciler

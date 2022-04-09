@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2120'
+origen: Jeneral
+versions:
+-   accented: puerta
+    ladino: puerta
+    translations:
+        english: door
+        french: ''
+        portuguese: ''
+        spanish: puerta
+        turkish: kapı

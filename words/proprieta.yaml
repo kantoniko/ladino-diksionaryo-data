@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '2114'
+origen: Jeneral
+versions:
+-   accented: proprieta
+    ladino: proprieta
+    translations:
+        english:
+        - property
+        - estate
+        french: ''
+        portuguese: ''
+        spanish: predio
+        turkish:
+        - mal
+        - mülk

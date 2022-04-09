@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2127'
+origen: Jeneral
+versions:
+-   accented: redaktar
+    ladino: redaktar
+    translations:
+        english: write
+        french: ''
+        portuguese: ''
+        spanish: redactar
+        turkish: kaleme almak

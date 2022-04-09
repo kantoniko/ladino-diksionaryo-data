@@ -1,0 +1,19 @@
+examples:
+-   ladino: Kada uno saluda kon el chapeo ke tiene. (Neh.)
+grammar: null
+id: '2784'
+origen: Jeneral
+versions:
+-   accented: chapéo
+    alternative-spelling:
+    -   accented: chapéyo
+        ladino: chapeyo
+    gender: masculine
+    ladino: chapeo
+    number: singular
+    translations:
+        english: hat
+        french: ''
+        portuguese: ''
+        spanish: sombrero
+        turkish: şapka

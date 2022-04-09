@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2121'
+origen: Jeneral
+versions:
+-   accented: radio
+    ladino: radio
+    translations:
+        english: radio
+        french: ''
+        portuguese: ''
+        spanish: radio
+        turkish: radio

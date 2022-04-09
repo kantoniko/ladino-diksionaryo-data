@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2123'
+origen: Jeneral
+versions:
+-   accented: rayar
+    ladino: rayar
+    translations:
+        english: grate
+        french: ''
+        portuguese: ''
+        spanish: rallar
+        turkish: rendelemek

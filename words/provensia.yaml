@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2117'
+origen: Jeneral
+versions:
+-   accented: provensia
+    ladino: provensia
+    translations:
+        english: province
+        french: ''
+        portuguese: ''
+        spanish: provincia
+        turkish:
+        - eyalet
+        - taşra
