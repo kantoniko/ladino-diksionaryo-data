@@ -1,0 +1,16 @@
+examples:
+-   ladino: Le entró una aranya al meoyo.
+grammar: null
+id: '2967'
+origen: Salonik
+versions:
+-   accented: aránya
+    gender: feminine
+    ladino: aranya
+    number: singular
+    translations:
+        english: spider
+        french: araignée
+        portuguese: ''
+        spanish: araña
+        turkish: örümcek

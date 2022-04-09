@@ -1,0 +1,23 @@
+examples:
+-   ladino: De la fasha asta la mortaja, no te vas a azer benadam!
+grammar: null
+id: '2946'
+origen: Jeneral
+versions:
+-   accented: fásha
+    gender: feminine
+    ladino: fasha
+    number: singular
+    translations:
+        english:
+        - nappy
+        - diaper
+        french:
+        - couche
+        - lange
+        - layette
+        portuguese: ''
+        spanish:
+        - faja
+        - pañal
+        turkish: kundak bezi

@@ -1,0 +1,18 @@
+examples:
+-   ladino: Kampo o terreno yano, sin alto ni basho i sin arvoles.
+grammar: null
+id: '2973'
+origen: Jeneral
+versions:
+-   accented: yanúra
+    gender: feminine
+    ladino: yanura
+    number: singular
+    translations:
+        english: plain
+        french: plaine
+        portuguese: planície
+        spanish: llanura
+        turkish:
+        - ova
+        - yazı

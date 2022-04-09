@@ -1,0 +1,27 @@
+comments:
+- 'grammar: f/pl'
+examples:
+-   ladino: Kualo son estas hadras, ke se kreye fulanika...
+grammar: null
+id: '2998'
+origen: Jeneral
+versions:
+-   accented: hádras
+    ladino: hadras
+    translations:
+        english:
+        - pretentious
+        - affected manners
+        - ''
+        french:
+        - manières prétentieuses
+        - mièvreries
+        portuguese: maneirismo
+        spanish:
+        - modales pretenciosas
+        - amaneramiento
+        turkish:
+        - debdebe
+        - gösteriş
+        - yapmacık hal
+        - çalım

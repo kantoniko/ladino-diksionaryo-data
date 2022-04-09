@@ -1,0 +1,26 @@
+examples:
+-   ladino: No tenemos supa. Mete los platos yanos.
+grammar: adjective
+id: '2975'
+origen: Jeneral
+versions:
+-   accented: yáno
+    alternative-spelling:
+    -   accented: yána
+        ladino: yana
+    ladino: yano
+    translations:
+        english:
+        - flat
+        - level
+        french:
+        - plat
+        - uni
+        - plane
+        portuguese: plano
+        spanish:
+        - llano / llana
+        - plano / plana
+        turkish:
+        - düz
+        - yassı

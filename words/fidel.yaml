@@ -1,0 +1,16 @@
+examples:
+-   ladino: Kero ser fidel a la lingua ke me ambezi de kriatura.
+grammar: adjective
+id: '2949'
+origen: Jeneral
+versions:
+-   accented: fidél
+    ladino: fidel
+    translations:
+        english:
+        - faithful
+        - loyal
+        french: fidel
+        portuguese: ''
+        spanish: fiel
+        turkish: sadık

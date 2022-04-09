@@ -1,0 +1,21 @@
+comments:
+- 'grammar: konj.'
+examples:
+-   ladino: Ya lo saven fista las pyedras de la kaye.
+grammar: null
+id: '2966'
+origen: Salonik
+versions:
+-   accented: físta
+    ladino: fista
+    translations:
+        english:
+        - till
+        - until
+        - up till
+        french: jusqu'à ce que
+        portuguese: ''
+        spanish: hasta
+        turkish:
+        - kadar
+        - dek

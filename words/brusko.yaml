@@ -1,0 +1,23 @@
+comments:
+- 'grammar: adj'
+examples:
+-   ladino: 'La kamareta era tan bruska i yelada ke me espantava de entrar ayi sola. '
+grammar: null
+id: '3019'
+origen: Jeneral
+versions:
+-   accented: brusko
+    alternative-spelling:
+    -   accented: bruska
+        ladino: bruska
+    ladino: brusko
+    translations:
+        english: brusque; dark
+        french: brusque; sombre
+        portuguese: brusco
+        spanish: brusco; oscuro
+        turkish:
+        - sert
+        - ters
+        - acele; karanlık
+        - loş

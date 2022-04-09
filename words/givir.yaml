@@ -1,0 +1,25 @@
+examples:
+-   ladino: 'Vido a la ija del gevir i se namoro de eya. '
+grammar: null
+id: '2985'
+origen: Jeneral
+versions:
+-   accented: givír
+    alternative-spelling:
+    -   accented: gevír
+        ladino: gevir
+    gender: masculine
+    ladino: givir
+    number: singular
+    translations:
+        english:
+        - lord
+        - master
+        french:
+        - personne riche
+        - notable
+        portuguese: rico-homem
+        spanish:
+        - señor
+        - amo
+        turkish: ağa

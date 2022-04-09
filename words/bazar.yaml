@@ -1,0 +1,28 @@
+examples:
+-   ladino: El martes, era diya de bazar en Milas.
+grammar: null
+id: '2982'
+origen: Jeneral
+versions:
+-   accented: bazár
+    gender: masculine
+    ladino: bazar
+    number: singular
+    translations:
+        english:
+        - bazaar
+        - market
+        - souk
+        french:
+        - bazar
+        - marché
+        - souk
+        portuguese:
+        - feira
+        - mercado
+        spanish:
+        - bazar
+        - mercado oriental
+        turkish:
+        - pazar
+        - çarşı

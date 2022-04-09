@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mal por durera, peor por shushunera. (Prov.) (Neh.)
+grammar: null
+id: '2932'
+origen: Jeneral
+versions:
+-   accented: duréra
+    gender: feminine
+    ladino: durera
+    number: singular
+    translations:
+        english: constipation
+        french: ''
+        portuguese: ''
+        spanish: estreñimiento
+        turkish: kabızlık

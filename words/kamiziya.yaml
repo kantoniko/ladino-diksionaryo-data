@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '2935'
+origen: Izmir
+versions:
+-   accented: kamizíya
+    gender: feminine
+    ladino: kamiziya
+    number: singular
+    translations:
+        english: piggy bank
+        french: tirelire
+        portuguese: ''
+        spanish: hucha
+        turkish: kumbara

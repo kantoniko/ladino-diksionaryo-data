@@ -1,0 +1,16 @@
+examples:
+-   ladino: La vistio i le metio prostela.
+grammar: null
+id: '2979'
+origen: Estanbol
+versions:
+-   accented: prostéla
+    gender: feminine
+    ladino: prostela
+    number: singular
+    translations:
+        english: apron
+        french: tablier
+        portuguese: ' avental'
+        spanish: delantal
+        turkish: önlük

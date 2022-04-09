@@ -1,0 +1,23 @@
+examples:
+-   ladino: Mario Levi es un otor muy akumplido.
+grammar: adjective
+id: '2981'
+origen: Jeneral
+versions:
+-   accented: akumplído
+    alternative-spelling:
+    -   accented: akumplída
+        ladino: akumplida
+    ladino: akumplido
+    translations:
+        english:
+        - gifted
+        - accomplished
+        french: accompli / accomplie
+        portuguese: dotado
+        spanish:
+        - dotado / dotada
+        - hábil
+        turkish:
+        - hünerli
+        - becerikli

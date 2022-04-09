@@ -1,0 +1,17 @@
+examples:
+-   ladino: Se podia meter esta alzeyte en un bokal (una redoma) para transportarla
+        a la keyla.
+grammar: null
+id: '2989'
+origen: Jeneral
+versions:
+-   accented: bokál
+    gender: masculine
+    ladino: bokal
+    number: singular
+    translations:
+        english: bottle
+        french: bouteille
+        portuguese: ''
+        spanish: botella
+        turkish: şişe

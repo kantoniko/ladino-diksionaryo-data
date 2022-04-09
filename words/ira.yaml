@@ -1,0 +1,29 @@
+examples:
+-   ladino: No eskrivas una karta en un momento de ira.
+grammar: null
+id: '3007'
+origen: Jeneral
+versions:
+-   accented: íra
+    alternative-spelling:
+    -   accented: bírra
+        ladino: birra
+    gender: feminine
+    ladino: ira
+    number: singular
+    translations:
+        english:
+        - great anger
+        - fury
+        french:
+        - grande colère
+        - fureur
+        portuguese:
+        - c&#7899;lera
+        - f&#7913;ia
+        spanish:
+        - cólera
+        - furor
+        turkish:
+        - öfke
+        - hiddet

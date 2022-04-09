@@ -1,0 +1,18 @@
+examples:
+-   ladino: Este lugar parese una timarana.
+grammar: null
+id: '2941'
+origen: Jeneral
+versions:
+-   accented: timaraná
+    gender: feminine
+    ladino: timarana
+    number: singular
+    translations:
+        english:
+        - madhouse
+        - mental hospital
+        french: asile d'aliénés
+        portuguese: hospício
+        spanish: manicomio
+        turkish: tımarhane

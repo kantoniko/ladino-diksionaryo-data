@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ringworm en Inglez es "tinya".
+grammar: null
+id: '3018'
+origen: Jeneral
+versions:
+-   accented: tínya
+    gender: feminine
+    ladino: tinya
+    number: singular
+    translations:
+        english: ringworm
+        french: teigne
+        portuguese: ''
+        spanish: tiña
+        turkish: uyuz

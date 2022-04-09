@@ -1,0 +1,22 @@
+examples:
+-   ladino: De un karnero no se kita dos kueros. (Neh.)
+grammar: null
+id: '2978'
+origen: Jeneral
+versions:
+-   accented: karnéro
+    gender: masculine
+    ladino: karnero
+    number: singular
+    translations:
+        english:
+        - ram
+        - sheep
+        french:
+        - bélier
+        - mouton
+        portuguese: carneiro
+        spanish: carnero
+        turkish:
+        - koç
+        - koyun

@@ -1,0 +1,17 @@
+comments:
+- 'grammar: m), valéy (f'
+examples:
+-   ladino: VAYE o VALEY es 1.  Espasyo yano ENTRE DOS MONTES o ALTURAS, 2. El "basino"
+        ande korre un rio.
+grammar: null
+id: '2964'
+origen: Jeneral
+versions:
+-   accented: váye
+    ladino: vaye
+    translations:
+        english: valley
+        french: vallée
+        portuguese: vale
+        spanish: valle
+        turkish: vadi

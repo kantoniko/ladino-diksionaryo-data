@@ -1,0 +1,29 @@
+examples:
+-   ladino: Le suvyo la birra.
+grammar: null
+id: '3008'
+origen: Jeneral
+versions:
+-   accented: bírra
+    alternative-spelling:
+    -   accented: íra
+        ladino: ira
+    gender: feminine
+    ladino: birra
+    number: singular
+    translations:
+        english:
+        - great anger
+        - fury
+        french:
+        - grande colère
+        - fureur
+        portuguese:
+        - c&#7899;lera
+        - f&#7913;ia
+        spanish:
+        - cólera
+        - furor
+        turkish:
+        - öfke
+        - hiddet

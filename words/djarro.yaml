@@ -1,0 +1,22 @@
+comments:
+- 'grammar: m), djárra (f'
+examples:
+-   ladino: Trusho un djarro de agua.
+grammar: null
+id: '2993'
+origen: Jeneral
+versions:
+-   accented: djárro
+    ladino: djarro
+    translations:
+        english: jug
+        french:
+        - jarre
+        - broc
+        portuguese: jarro
+        spanish:
+        - jarro
+        - jarra
+        turkish:
+        - maşrapa
+        - bakraç

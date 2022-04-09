@@ -1,0 +1,25 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: La famiya del CIDICSEF es ekselente anfitriona.
+grammar: null
+id: '3013'
+origen: Ladinokomunita
+versions:
+-   accented: anfitrión
+    alternative-spelling:
+    -   accented: anfitrióna
+        ladino: anfitriona
+    ladino: anfitrion
+    translations:
+        english:
+        - amphitryon
+        - host
+        french:
+        - amphitryon
+        - hôte
+        portuguese: ''
+        spanish:
+        - anfitrión
+        - anfitrióna
+        turkish: misafirperver ev sahibi

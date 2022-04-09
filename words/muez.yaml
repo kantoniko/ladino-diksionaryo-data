@@ -1,0 +1,16 @@
+examples:
+-   ladino: Mesklar la matsa, la asukar i la muez.
+grammar: null
+id: '2972'
+origen: Jeneral
+versions:
+-   accented: muéz
+    gender: feminine
+    ladino: muez
+    number: singular
+    translations:
+        english: walnut
+        french: noix
+        portuguese: noz
+        spanish: nuez
+        turkish: ceviz

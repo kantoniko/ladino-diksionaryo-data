@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'La hakitiya es solu una otra variedad del
+
+        djudio-espanyol.'
+grammar: adjective
+id: '2926'
+origen: Sarayevo
+versions:
+-   accented: sólu
+    ladino: solu
+    translations:
+        english: only
+        french: ''
+        portuguese: ''
+        spanish: solo
+        turkish: sadece

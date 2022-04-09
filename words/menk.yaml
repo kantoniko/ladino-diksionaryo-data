@@ -1,0 +1,17 @@
+examples:
+-   ladino: 'Shelomo dyo el menk en pokas palavras kual es el rolo tan importante
+        de la madre. '
+grammar: null
+id: '2992'
+origen: Salonik
+versions:
+-   accented: menk
+    gender: masculine
+    ladino: menk
+    number: singular
+    translations:
+        english: touchstone
+        french: pierre de touche
+        portuguese: pedra-de-toque
+        spanish: piedra de toque
+        turkish: mihenk taşı

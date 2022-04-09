@@ -1,0 +1,20 @@
+examples:
+-   ladino: Esperamos ke vash a respektar muestra desizyon, i deshar la lengua de
+        LK asigun esta.
+grammar: null
+id: '2962'
+origen: Ladinokomunita
+versions:
+-   accented: desizión
+    alternative-spelling:
+    -   accented: desizyón
+        ladino: desizyon
+    gender: feminine
+    ladino: desizion
+    number: singular
+    translations:
+        english: decision
+        french: décision
+        portuguese: ''
+        spanish: decisión
+        turkish: karar

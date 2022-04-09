@@ -1,0 +1,17 @@
+examples:
+-   ladino: Mas save un loko en su kaza, ke un savyo en kaza de otro.
+grammar: adjective
+id: '2939'
+origen: Jeneral
+versions:
+-   accented: lóko
+    alternative-spelling:
+    -   accented: lóka
+        ladino: loka
+    ladino: loko
+    translations:
+        english: mad
+        french: fou / folle
+        portuguese: ''
+        spanish: loco / loca
+        turkish: deli

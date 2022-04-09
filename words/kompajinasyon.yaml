@@ -1,0 +1,23 @@
+examples:
+-   ladino: Eskapimos la kompajinasyon del suplemento de la gazeta.
+grammar: null
+id: '2984'
+origen: Jeneral
+versions:
+-   accented: kompajinasyón
+    gender: feminine
+    ladino: kompajinasyon
+    number: singular
+    translations:
+        english:
+        - lay out
+        - format
+        french: mise-en-page
+        portuguese: compaginação
+        spanish:
+        - compaginación
+        - maquetación
+        turkish:
+        - dizgi
+        - tertip
+        - sahifelendirme

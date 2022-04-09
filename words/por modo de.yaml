@@ -1,0 +1,22 @@
+examples:
+-   ladino: Te troki siertas palavras por modo de la ortografiya ke se uza en LK.
+grammar: null
+id: '2929'
+origen: Jeneral
+versions:
+-   accented: por módo de
+    gender: masculine
+    ladino: por modo de
+    number: singular
+    translations:
+        english: because of
+        french: ''
+        portuguese: ''
+        spanish:
+        - a causa de
+        - por causa de
+        turkish: bundan ötürü
+
+# por módo de (m),Te troki siertas palavras por modo de la ortografiya ke se uza en LK.,"a causa de, por causa de",because of,bundan ötürü,Jeneral,2929,,
+# "Por módo de, por mor de (m)",Teniyan kaminos para ir por mor de salvarsen de la persekusion.,"para, para que",in order to,"için, diye",Izmir,2930,,
+

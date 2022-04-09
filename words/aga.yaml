@@ -1,0 +1,20 @@
+examples:
+-   ladino: El aga le demando  ke echo aze.
+grammar: null
+id: '2986'
+origen: Jeneral
+versions:
+-   accented: agá
+    gender: masculine
+    ladino: aga
+    number: singular
+    translations:
+        english:
+        - lord
+        - master
+        french: personne riche et notable
+        portuguese: patrão
+        spanish:
+        - señor
+        - amo
+        turkish: ağa

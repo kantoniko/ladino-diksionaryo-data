@@ -1,0 +1,21 @@
+examples:
+-   ladino: Yama un hamal, ke te yeve la validja fin al vapor.
+grammar: null
+id: '3000'
+origen: Jeneral
+versions:
+-   accented: hamál
+    alternative-spelling:
+    -   accented: hammál
+        ladino: hammal
+    gender: masculine
+    ladino: hamal
+    number: singular
+    translations:
+        english:
+        - porter
+        - carrier
+        french: portefaix
+        portuguese: carregador
+        spanish: portador
+        turkish: hamal

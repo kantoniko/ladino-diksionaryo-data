@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'Uvo muncha luvya: La kaye esta yena de balsas de agua.'
+grammar: null
+id: '2983'
+origen: Jeneral
+versions:
+-   accented: bálsa
+    gender: feminine
+    ladino: balsa
+    number: singular
+    translations:
+        english: puddle
+        french: flaque
+        portuguese: ''
+        spanish: charco
+        turkish: su birikintisi

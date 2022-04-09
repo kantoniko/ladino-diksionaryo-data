@@ -1,0 +1,18 @@
+examples:
+-   ladino: Vos rogo de no meter ni aneksos, ni desenes en los mesajes.
+grammar: null
+id: '2933'
+origen: Jeneral
+versions:
+-   accented: desén
+    gender: masculine
+    ladino: desen
+    number: singular
+    translations:
+        english: design
+        french: dessin
+        portuguese: ''
+        spanish:
+        - diseño
+        - dibujo
+        turkish: desen

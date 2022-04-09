@@ -1,0 +1,24 @@
+examples:
+-   ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
+grammar: null
+id: '2969'
+origen: Jeneral
+versions:
+-   accented: guérko
+    gender: masculine
+    ladino: guerko
+    number: singular
+    translations:
+        english:
+        - Satan
+        - devil
+        french:
+        - satan
+        - diable
+        portuguese:
+        - Satã
+        - Satanás
+        spanish:
+        - satán
+        - diablo
+        turkish: şeytan

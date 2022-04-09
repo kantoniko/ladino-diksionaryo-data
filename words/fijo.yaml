@@ -1,0 +1,24 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Si no fago lo ke estó diziendo, no so fijo de mi padre (Neh.)
+grammar: null
+id: '2996'
+origen: Salonik
+versions:
+-   accented: fíjo
+    alternative-spelling:
+    -   accented: fija
+        ladino: fija
+    ladino: fijo
+    translations:
+        english:
+        - boy
+        - son / girl
+        - daughter
+        french: fils / fille
+        portuguese: ''
+        spanish: hijo / hija
+        turkish:
+        - oğul
+        - kız

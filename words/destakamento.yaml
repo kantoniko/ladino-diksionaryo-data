@@ -1,0 +1,17 @@
+examples:
+-   ladino: El Governo Otomano mando un destakamento (müfreze) de soldados para onorar
+        la seremonia.
+grammar: null
+id: '2994'
+origen: Jeneral
+versions:
+-   accented: destakaménto
+    gender: masculine
+    ladino: destakamento
+    number: singular
+    translations:
+        english: detachment
+        french: détachement
+        portuguese: destacamento
+        spanish: destacamento
+        turkish: müfreze

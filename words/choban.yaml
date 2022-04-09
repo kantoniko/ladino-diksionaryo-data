@@ -1,0 +1,18 @@
+examples:
+-   ladino: Este choban giyava mas de dozyentos karneros.
+grammar: null
+id: '2988'
+origen: Jeneral
+versions:
+-   accented: chobán
+    gender: masculine
+    ladino: choban
+    number: singular
+    translations:
+        english: shepherd
+        french: berger
+        portuguese: pastor
+        spanish:
+        - pastor
+        - varón de ganado
+        turkish: çoban

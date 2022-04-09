@@ -1,0 +1,19 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Se ambezo un poko de grego kon los vizinos de arriva.
+grammar: null
+id: '2963'
+origen: Jeneral
+versions:
+-   accented: vizíno
+    alternative-spelling:
+    -   accented: vizína
+        ladino: vizina
+    ladino: vizino
+    translations:
+        english: neighbour
+        french: voisin / voisine
+        portuguese: vizinho / vizinha
+        spanish: vecino / vecina
+        turkish: komşu

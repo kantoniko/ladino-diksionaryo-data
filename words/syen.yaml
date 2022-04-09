@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '2938'
+origen: Jeneral
+versions:
+-   accented: syén
+    alternative-spelling:
+    -   accented: sién
+        ladino: sien
+    gender: feminine
+    ladino: syen
+    number: singular
+    translations:
+        english: temple
+        french: tempe
+        portuguese: témpora
+        spanish: sien
+        turkish: şakak

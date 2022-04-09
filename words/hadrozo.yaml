@@ -1,0 +1,25 @@
+examples:
+-   ladino: No le plazyo akeya ijika  porke era muy hadroza.
+grammar: adjective
+id: '2999'
+origen: Jeneral
+versions:
+-   accented: hadrózo
+    alternative-spelling:
+    -   accented: hadróza
+        ladino: hadroza
+    ladino: hadrozo
+    translations:
+        english:
+        - affected
+        - pretentious
+        french:
+        - maniéré
+        - affecté
+        portuguese: presumido
+        spanish:
+        - amanerado
+        - pretencioso
+        turkish:
+        - numaracı
+        - gösterişçi
