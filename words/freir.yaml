@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: Puedes friyir endjuntos unos pimientonikos para darle mas savor.
+grammar: verb
+id: '1832'
+origen: Jeneral
+versions:
+-   accented: freír
+    alternative-spelling:
+    -   accented: friyír
+        ladino: friyir
+    ladino: freir
+    translations:
+        english: fry
+        french: frire
+        portuguese: fritar
+        spanish: freír
+        turkish: kızartmak
