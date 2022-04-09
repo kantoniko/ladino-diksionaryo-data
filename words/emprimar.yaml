@@ -1,0 +1,18 @@
+conjugations: {}
+examples:
+-   ladino: El tiene un livro de ley ke fue imprimado en Izmir .
+grammar: verb
+id: '2917'
+origen: Izmir
+versions:
+-   accented: emprimár
+    alternative-spelling:
+    -   accented: imprimár
+        ladino: imprimar
+    ladino: emprimar
+    translations:
+        english: print
+        french: ''
+        portuguese: ''
+        spanish: imprimir
+        turkish: basmak
