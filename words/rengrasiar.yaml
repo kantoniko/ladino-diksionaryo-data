@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Vos rengrasiamos de vuestra atension.
+grammar: verb
+id: '2592'
+origen: Jeneral
+versions:
+-   accented: rengrasiár
+    ladino: rengrasiar
+    translations:
+        english:
+        - thank
+        - be thankful
+        french: ''
+        portuguese: ''
+        spanish: agradecer
+        turkish: teşekkür etmek
