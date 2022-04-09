@@ -1,0 +1,18 @@
+examples:
+-   ladino: Estas palavras me sonan komo un kanto.
+grammar: null
+id: '2489'
+origen: Jeneral
+versions:
+-   accented: kánto
+    ladino: kanto
+    translations:
+        english:
+        - chant
+        - song
+        french: ''
+        portuguese: ''
+        spanish: canto
+        turkish:
+        - şarkı
+        - dinî ezgi

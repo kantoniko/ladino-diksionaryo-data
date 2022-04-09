@@ -1,0 +1,20 @@
+examples:
+-   ladino: El Kasteyano es madre de la lingua muestra.
+grammar: null
+id: '2491'
+origen: Jeneral
+versions:
+-   accented: kasteyáno
+    alternative-spelling:
+    -   accented: kastilyáno
+        ladino: kastilyano
+    ladino: kasteyano
+    translations:
+        english: Castilian
+        french: ''
+        portuguese: ''
+        spanish: Castellano
+        turkish:
+        - Ispanyol
+        - Kastilyalı
+        - Ispanyolca

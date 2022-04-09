@@ -1,0 +1,18 @@
+examples:
+-   ladino: Sintimos muchos kantes en djudeo-espanyol.
+grammar: null
+id: '2488'
+origen: Jeneral
+versions:
+-   accented: kánte
+    ladino: kante
+    translations:
+        english:
+        - singing
+        - popular song
+        french: ''
+        portuguese: ''
+        spanish: cante
+        turkish:
+        - şarkı
+        - türkü

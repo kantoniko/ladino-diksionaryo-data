@@ -1,0 +1,14 @@
+examples:
+-   ladino: 'Esto kale meterlo en un teatro Sefaradi. '
+grammar: null
+id: '2484'
+origen: Jeneral
+versions:
+-   accented: kále
+    ladino: kale
+    translations:
+        english: must
+        french: ''
+        portuguese: ''
+        spanish: se debe
+        turkish: gerekir

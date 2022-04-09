@@ -1,0 +1,16 @@
+examples:
+-   ladino: Ke tengan todos kaminos de leche i miel i al vermos.
+grammar: null
+id: '2486'
+origen: Jeneral
+versions:
+-   accented: kamíno
+    ladino: kamino
+    translations:
+        english:
+        - road
+        - way
+        french: ''
+        portuguese: ''
+        spanish: camino
+        turkish: yol
