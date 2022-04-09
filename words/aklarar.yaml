@@ -1,0 +1,15 @@
+conjugations: {}
+examples:
+-   ladino: El Dio ke aklare los korasones.
+grammar: verb
+id: '1582'
+origen: Jeneral
+versions:
+-   accented: aklarár
+    ladino: aklarar
+    translations:
+        english: clear
+        french: ''
+        portuguese: ''
+        spanish: despejar
+        turkish: aydınlatmak
