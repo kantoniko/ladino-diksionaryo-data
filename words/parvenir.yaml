@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1439'
+origen: Jeneral
+versions:
+-   accented: parvenir
+    ladino: parvenir
+    translations:
+        english:
+        - succeed
+        - reach
+        french: ''
+        portuguese: ''
+        spanish: lograr
+        turkish:
+        - becermek
+        - erişmek

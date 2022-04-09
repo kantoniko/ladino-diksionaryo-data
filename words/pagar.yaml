@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '819'
+origen: Jeneral
+versions:
+-   accented: pagar
+    ladino: pagar
+    translations:
+        english: pay
+        french: ''
+        portuguese: ''
+        spanish: pagar
+        turkish: ödemek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '837'
+origen: Jeneral
+versions:
+-   accented: pasar
+    ladino: pasar
+    translations:
+        english: pass
+        french: ''
+        portuguese: ''
+        spanish: pasar
+        turkish: geçmek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '807'
+origen: Jeneral
+versions:
+-   accented: ospitalidad
+    ladino: ospitalidad
+    translations:
+        english: hospitality
+        french: ''
+        portuguese: ''
+        spanish: hospitalidad
+        turkish: konukseverlik

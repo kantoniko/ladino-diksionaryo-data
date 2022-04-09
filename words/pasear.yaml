@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '839'
+origen: Jeneral
+versions:
+-   accented: pasear
+    ladino: pasear
+    translations:
+        english:
+        - walk
+        - stroll
+        french: ''
+        portuguese: ''
+        spanish: pasear
+        turkish: gezmek

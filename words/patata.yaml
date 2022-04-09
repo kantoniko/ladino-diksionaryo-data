@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1442'
+origen: Jeneral
+versions:
+-   accented: patata
+    ladino: patata
+    translations:
+        english: potato
+        french: ''
+        portuguese: ''
+        spanish:
+        - papa
+        - patata
+        turkish: patates

@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '808'
+origen: Jeneral
+versions:
+-   accented: otobus
+    ladino: otobus
+    translations:
+        english:
+        - bus
+        - motor-coach
+        french: ''
+        portuguese: ''
+        spanish:
+        - autobús
+        - autocar
+        turkish: otobüs

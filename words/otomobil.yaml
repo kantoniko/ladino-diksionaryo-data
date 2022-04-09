@@ -1,0 +1,22 @@
+comments:
+- 'grammar: m), araba (f'
+examples:
+-   ladino: Mi papa mos yevava a pasear kon otomobil.
+grammar: null
+id: '809'
+origen: Jeneral
+versions:
+-   accented: otomobíl
+    ladino: otomobil
+    translations:
+        english:
+        - car
+        - automobile
+        french: ''
+        portuguese: ''
+        spanish:
+        - carro
+        - automóvil
+        turkish:
+        - araba
+        - otomobil

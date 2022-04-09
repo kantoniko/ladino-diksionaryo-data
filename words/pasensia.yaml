@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '840'
+origen: Jeneral
+versions:
+-   accented: pasensia
+    ladino: pasensia
+    translations:
+        english: patience
+        french: ''
+        portuguese: ''
+        spanish: paciencia
+        turkish: sabır

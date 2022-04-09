@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1433'
+origen: Jeneral
+versions:
+-   accented: orno
+    ladino: orno
+    translations:
+        english: oven
+        french: ''
+        portuguese: ''
+        spanish: horno
+        turkish: fırın

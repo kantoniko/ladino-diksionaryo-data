@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1435'
+origen: Jeneral
+versions:
+-   accented: palavra
+    ladino: palavra
+    translations:
+        english: word
+        french: ''
+        portuguese: ''
+        spanish: palabra
+        turkish: kelime

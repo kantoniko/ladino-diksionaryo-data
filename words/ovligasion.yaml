@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '815'
+origen: Jeneral
+versions:
+-   accented: ovligasion
+    ladino: ovligasion
+    translations:
+        english: obligation
+        french: ''
+        portuguese: ''
+        spanish: obligación
+        turkish: mecburiyet

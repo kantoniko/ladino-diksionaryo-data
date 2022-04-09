@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '825'
+origen: Jeneral
+versions:
+-   accented: pareserse
+    ladino: pareserse
+    translations:
+        english: look alike
+        french: ''
+        portuguese: ''
+        spanish: parecerse
+        turkish:
+        - benzemek
+        - zannetmek

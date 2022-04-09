@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '832'
+origen: Jeneral
+versions:
+-   accented: partir
+    ladino: partir
+    translations:
+        english:
+        - go
+        - split
+        french: ''
+        portuguese: ''
+        spanish: partir
+        turkish:
+        - gitmek
+        - bölmek

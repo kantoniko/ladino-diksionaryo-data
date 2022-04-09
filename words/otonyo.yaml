@@ -1,0 +1,16 @@
+examples:
+-   ladino: Es muy ermozo sentimiento de tener tantos amigos en el otonyo de mi vida.
+grammar: null
+id: '810'
+origen: Jeneral
+versions:
+-   accented: otónyo
+    gender: masculine
+    ladino: otonyo
+    number: singular
+    translations:
+        english: autumn
+        french: automne
+        portuguese: outono
+        spanish: otoño
+        turkish: sonbahar

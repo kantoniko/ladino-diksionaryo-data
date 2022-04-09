@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '806'
+origen: Jeneral
+versions:
+-   accented: ospital
+    alternative-spelling:
+    -   accented: espital
+        ladino: espital
+    -   accented: eshpital
+        ladino: eshpital
+    -   accented: ispital
+        ladino: ispital
+    ladino: ospital
+    translations:
+        english: hospital
+        french: ''
+        portuguese: ''
+        spanish: hospital
+        turkish: hastane

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Pasharos bolavan adientro del sanktuaryo.
+grammar: null
+id: '841'
+origen: Jeneral
+versions:
+-   accented: pasharó
+    gender: masculine
+    ladino: pasharo
+    number: singular
+    translations:
+        english: bird
+        french: oiseau
+        portuguese: pássaro
+        spanish: pájaro
+        turkish: kuş

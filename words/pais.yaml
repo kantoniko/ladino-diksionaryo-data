@@ -1,0 +1,19 @@
+examples:
+-   ladino: En el paéz ke irás, asegún verás farás.
+grammar: null
+id: '820'
+origen: Jeneral
+versions:
+-   accented: país
+    alternative-spelling:
+    -   accented: paéz
+        ladino: paez
+    gender: masculine
+    ladino: pais
+    number: singular
+    translations:
+        english: country
+        french: pays
+        portuguese: país
+        spanish: país
+        turkish: memleket

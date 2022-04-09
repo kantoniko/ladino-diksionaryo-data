@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '830'
+origen: Jeneral
+versions:
+-   accented: parparo
+    ladino: parparo
+    translations:
+        english: eyelid
+        french: ''
+        portuguese: ''
+        spanish: párpado
+        turkish: göz kapağı

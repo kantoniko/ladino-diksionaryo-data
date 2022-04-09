@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '824'
+origen: Jeneral
+versions:
+-   accented: pareser
+    ladino: pareser
+    translations:
+        english:
+        - appear
+        - seem
+        french: ''
+        portuguese: ''
+        spanish: parecer
+        turkish:
+        - benzemek
+        - andırmak

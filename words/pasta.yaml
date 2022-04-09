@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '842'
+origen: Jeneral
+versions:
+-   accented: pasta
+    alternative-spelling:
+    -   accented: pastel
+        ladino: pastel
+    ladino: pasta
+    translations:
+        english: cake
+        french: ''
+        portuguese: ''
+        spanish: pastel
+        turkish: pasta

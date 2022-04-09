@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1443'
+origen: Jeneral
+versions:
+-   accented: patrimonyo
+    ladino: patrimonyo
+    translations:
+        english: inheritance
+        french: ''
+        portuguese: ''
+        spanish: patrimonio
+        turkish: miras

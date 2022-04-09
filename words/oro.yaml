@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '805'
+origen: Jeneral
+versions:
+-   accented: oro
+    ladino: oro
+    translations:
+        english: gold
+        french: ''
+        portuguese: ''
+        spanish: oro
+        turkish: altın

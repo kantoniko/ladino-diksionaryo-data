@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '836'
+origen: Jeneral
+versions:
+-   accented: pasaporto
+    ladino: pasaporto
+    translations:
+        english: passport
+        french: ''
+        portuguese: ''
+        spanish: pasaporte
+        turkish: pasaport

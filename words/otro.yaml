@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '811'
+origen: Jeneral
+versions:
+-   accented: otro
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: otro
+    translations:
+        english: other
+        french: ''
+        portuguese: ''
+        spanish: otro / a
+        turkish:
+        - sair
+        - diğer

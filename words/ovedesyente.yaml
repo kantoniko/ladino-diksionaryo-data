@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '814'
+origen: Jeneral
+versions:
+-   accented: ovedesyente
+    alternative-spelling:
+    -   accented: obeisente
+        ladino: obeisente
+    ladino: ovedesyente
+    translations:
+        english: obedient
+        french: ''
+        portuguese: ''
+        spanish: obediente
+        turkish: itaatkâr

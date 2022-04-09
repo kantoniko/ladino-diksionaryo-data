@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '823'
+origen: Jeneral
+versions:
+-   accented: paralelo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: paralelo
+    translations:
+        english: parallel
+        french: ''
+        portuguese: ''
+        spanish: paralelo / a
+        turkish: paralel

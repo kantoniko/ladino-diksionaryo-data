@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '812'
+origen: Jeneral
+versions:
+-   accented: otros
+    ladino: otros
+    translations:
+        english:
+        - others
+        - more
+        french: ''
+        portuguese: ''
+        spanish: demás
+        turkish: ötekiler

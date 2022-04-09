@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '828'
+origen: Jeneral
+versions:
+-   accented: parfum
+    ladino: parfum
+    translations:
+        english:
+        - perfume
+        - aroma
+        french: ''
+        portuguese: ''
+        spanish: aroma
+        turkish:
+        - koku
+        - rayiha

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '816'
+origen: Jeneral
+versions:
+-   accented: oy
+    ladino: oy
+    translations:
+        english: today
+        french: ''
+        portuguese: ''
+        spanish: hoy
+        turkish: bugün

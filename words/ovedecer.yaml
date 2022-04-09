@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '813'
+origen: Jeneral
+versions:
+-   accented: ovedecer
+    alternative-spelling:
+    -   accented: obeisar
+        ladino: obeisar
+    ladino: ovedecer
+    translations:
+        english: obey
+        french: ''
+        portuguese: ''
+        spanish: obedecer
+        turkish: itaat etmek
