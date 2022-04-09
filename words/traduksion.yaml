@@ -1,0 +1,19 @@
+examples:
+-   ladino: Te avizo ke sin la muzika, la traduksion vale poko.
+grammar: null
+id: '2638'
+origen: Jeneral
+versions:
+-   accented: traduksión
+    alternative-spelling:
+    -   accented: traduksyón
+        ladino: traduksyon
+    gender: feminine
+    ladino: traduksion
+    number: singular
+    translations:
+        english: translation
+        french: ''
+        portuguese: ''
+        spanish: traducción
+        turkish: tercüme

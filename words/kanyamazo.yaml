@@ -1,0 +1,20 @@
+examples:
+-   ladino: Las metiya en un kanyamazo limpio.
+grammar: null
+id: '2787'
+origen: Estanbol
+versions:
+-   accented: kanyamázo
+    gender: masculine
+    ladino: kanyamazo
+    number: singular
+    translations:
+        english:
+        - rag
+        - cloth
+        french:
+        - chiffon
+        - torchon
+        portuguese: ''
+        spanish: trapo
+        turkish: bez

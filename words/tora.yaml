@@ -1,0 +1,16 @@
+examples:
+-   ladino: Agora yo meldo la Tora en ladino, tambien.
+grammar: null
+id: '2636'
+origen: Jeneral
+versions:
+-   accented: Torá
+    gender: feminine
+    ladino: Tora
+    number: singular
+    translations:
+        english: Torah
+        french: ''
+        portuguese: ''
+        spanish: Torá
+        turkish: Dinî Yasa Kitabı

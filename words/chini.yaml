@@ -1,0 +1,19 @@
+examples:
+-   ladino: 'En la meza aviya chinis de fruta seka.
+
+
+        '
+grammar: null
+id: '2655'
+origen: Estanbol
+versions:
+-   accented: chiní
+    gender: masculine
+    ladino: chini
+    number: singular
+    translations:
+        english: plate
+        french: ''
+        portuguese: ''
+        spanish: plato
+        turkish: tabak

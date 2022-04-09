@@ -1,0 +1,21 @@
+examples:
+-   ladino: Eskojimos el titulo Vidas Largas porke es ladino.
+grammar: null
+id: '2635'
+origen: Jeneral
+versions:
+-   accented: títolo
+    alternative-spelling:
+    -   accented: título
+        ladino: titulo
+    gender: masculine
+    ladino: titolo
+    number: singular
+    translations:
+        english: title
+        french: ''
+        portuguese: ''
+        spanish: título
+        turkish:
+        - başlık
+        - unvan

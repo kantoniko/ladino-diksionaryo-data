@@ -1,0 +1,16 @@
+examples:
+-   ladino: Fue un plazer para mi avlar kon eya por telefon.
+grammar: null
+id: '2633'
+origen: Jeneral
+versions:
+-   accented: telefon
+    gender: masculine
+    ladino: telefon
+    number: singular
+    translations:
+        english: telephone
+        french: ''
+        portuguese: ''
+        spanish: teléfono
+        turkish: telefon

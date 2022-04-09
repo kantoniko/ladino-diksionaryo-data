@@ -1,0 +1,14 @@
+examples:
+-   ladino: Tal padre, tal ijo; tal arvol, tal fruto; tal nombre, tal ombre.
+grammar: adjective
+id: '2625'
+origen: Jeneral
+versions:
+-   accented: tal
+    ladino: tal
+    translations:
+        english: such
+        french: ''
+        portuguese: ''
+        spanish: tal
+        turkish: öyle

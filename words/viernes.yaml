@@ -1,0 +1,16 @@
+examples:
+-   ladino: Oy es viernes, pitikas kayentes.
+grammar: null
+id: '2645'
+origen: Jeneral
+versions:
+-   accented: viérnes
+    gender: masculine
+    ladino: viernes
+    number: singular
+    translations:
+        english: Friday
+        french: ''
+        portuguese: ''
+        spanish: viernes
+        turkish: cuma

@@ -1,0 +1,20 @@
+examples:
+-   ladino: Este tema es sujeto de mis lavoros i estudios.
+grammar: null
+id: '2634'
+origen: Jeneral
+versions:
+-   accented: tema
+    gender: masculine
+    ladino: tema
+    number: singular
+    translations:
+        english:
+        - theme
+        - subject
+        french: ''
+        portuguese: ''
+        spanish: tema
+        turkish:
+        - konu
+        - mevzu

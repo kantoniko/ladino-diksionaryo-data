@@ -1,0 +1,19 @@
+examples:
+-   ladino: Yo te lo digo, tu ke lo sepas.
+grammar: pronoun
+id: '2632'
+origen: Jeneral
+versions:
+-   accented: te
+    ladino: te
+    translations:
+        english:
+        - you
+        - to you
+        - yourself
+        french: ''
+        portuguese: ''
+        spanish: te
+        turkish:
+        - seni
+        - sana

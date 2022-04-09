@@ -1,0 +1,18 @@
+examples:
+-   ladino: El ofisio de mano no tiene mas avenir.
+grammar: null
+id: '2664'
+origen: Jeneral
+versions:
+-   accented: avenír
+    gender: masculine
+    ladino: avenir
+    number: singular
+    translations:
+        english: future
+        french: ''
+        portuguese: ''
+        spanish: futuro
+        turkish:
+        - gelecek
+        - istikbal

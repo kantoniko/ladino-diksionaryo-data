@@ -1,0 +1,28 @@
+examples:
+-   ladino: 'Ke sea de buen siman.
+
+        No dar sinyal de vida.'
+grammar: null
+id: '2617'
+origen: Jeneral
+versions:
+-   accented: simán
+    alternative-spelling:
+    -   accented: sinyál
+        ladino: sinyal
+    gender: masculine
+    ladino: siman
+    number: singular
+    translations:
+        english:
+        - signal
+        - indication
+        - mark
+        french: ''
+        portuguese: ''
+        spanish:
+        - señal
+        - indicio
+        turkish:
+        - belirti
+        - işaret

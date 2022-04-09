@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'Ke se yo?
+
+        Sino yo para mi, ken para mi?'
+grammar: pronoun
+id: '2654'
+origen: Jeneral
+versions:
+-   accented: yo
+    ladino: yo
+    translations:
+        english: I
+        french: ''
+        portuguese: ''
+        spanish: yo
+        turkish: ben

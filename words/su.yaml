@@ -1,0 +1,18 @@
+examples:
+-   ladino: Es su bien.
+grammar: adjective
+id: '2621'
+origen: Jeneral
+versions:
+-   accented: su
+    ladino: su
+    translations:
+        english:
+        - his
+        - hers
+        - its
+        - one's
+        french: ''
+        portuguese: ''
+        spanish: su
+        turkish: onun

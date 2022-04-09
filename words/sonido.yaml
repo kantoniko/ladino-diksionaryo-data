@@ -1,0 +1,21 @@
+examples:
+-   ladino: Abasho reprezentamos los sonidos del alfabeto.
+grammar: null
+id: '2620'
+origen: Jeneral
+versions:
+-   accented: sonído
+    alternative-spelling:
+    -   accented: sonéte
+        ladino: sonete
+    gender: masculine
+    ladino: sonido
+    number: singular
+    translations:
+        english:
+        - sound
+        - noise
+        french: son
+        portuguese: som
+        spanish: sonido
+        turkish: ses

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Buen vino no kere pregonero. (Neh.)
+grammar: null
+id: '2646'
+origen: Jeneral
+versions:
+-   accented: víno
+    gender: masculine
+    ladino: vino
+    number: singular
+    translations:
+        english: wine
+        french: ''
+        portuguese: ''
+        spanish: vino
+        turkish: şarap

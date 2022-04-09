@@ -1,0 +1,20 @@
+examples:
+-   ladino: Lo konosko solo de vista.
+grammar: null
+id: '2647'
+origen: Jeneral
+versions:
+-   accented: vísta
+    gender: feminine
+    ladino: vista
+    number: singular
+    translations:
+        english:
+        - view
+        - sight
+        french: ''
+        portuguese: ''
+        spanish: vista
+        turkish:
+        - manzara
+        - görüş

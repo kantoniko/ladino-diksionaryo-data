@@ -1,0 +1,17 @@
+examples:
+-   ladino: Solo los sefaradim turkanos van a konoser esta palavra "alikobeni"!
+grammar: adjective
+id: '2639'
+origen: Jeneral
+versions:
+-   accented: turkáno
+    alternative-spelling:
+    -   accented: turkána
+        ladino: turkana
+    ladino: turkano
+    translations:
+        english: of Turkish origin
+        french: ''
+        portuguese: ''
+        spanish: de Turquía
+        turkish: Türkiyeli

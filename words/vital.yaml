@@ -1,0 +1,13 @@
+examples: []
+grammar: adjective
+id: '2648'
+origen: Jeneral
+versions:
+-   accented: vitál
+    ladino: vital
+    translations:
+        english: vital
+        french: ''
+        portuguese: ''
+        spanish: vital
+        turkish: hayatî

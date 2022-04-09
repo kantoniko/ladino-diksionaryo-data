@@ -1,0 +1,18 @@
+examples:
+-   ladino: Es koza de valor.
+grammar: null
+id: '2642'
+origen: Jeneral
+versions:
+-   accented: valór
+    gender: feminine
+    ladino: valor
+    number: singular
+    translations:
+        english:
+        - value
+        - worth
+        french: ''
+        portuguese: ''
+        spanish: valor
+        turkish: kıymet

@@ -1,0 +1,16 @@
+examples:
+-   ladino: En Estanbol, ivamos a la Ada a pasar la enveranada.
+grammar: null
+id: '2788'
+origen: Estanbol
+versions:
+-   accented: adá
+    gender: feminine
+    ladino: ada
+    number: singular
+    translations:
+        english: island
+        french: île
+        portuguese: ilha
+        spanish: isla
+        turkish: ada
