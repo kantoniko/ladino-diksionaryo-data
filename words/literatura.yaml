@@ -1,0 +1,14 @@
+examples:
+-   ladino: Diriji un kurso de lingua i literatura djudeo-espanyola.
+grammar: null
+id: '2521'
+origen: Jeneral
+versions:
+-   accented: literatúra
+    ladino: literatura
+    translations:
+        english: literature
+        french: ''
+        portuguese: ''
+        spanish: literatura
+        turkish: edebiyat

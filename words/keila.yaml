@@ -1,0 +1,21 @@
+examples:
+-   ladino: Dezazer una keila para tomar un klavo. (Neh.)
+grammar: null
+id: '2494'
+origen: Jeneral
+versions:
+-   accented: keilá
+    alternative-spelling:
+    -   accented: kehilá
+        ladino: kehila
+    -   accented: kal
+        ladino: kal
+    ladino: keila
+    translations:
+        english: synagogue
+        french: ''
+        portuguese: ''
+        spanish: sinagoga
+        turkish:
+        - havra
+        - sinagog

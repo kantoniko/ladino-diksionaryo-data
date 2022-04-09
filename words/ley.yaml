@@ -1,0 +1,20 @@
+examples:
+-   ladino: La ley es para todos.
+grammar: null
+id: '2519'
+origen: Jeneral
+versions:
+-   accented: ley
+    gender: feminine
+    ladino: ley
+    number: singular
+    translations:
+        english:
+        - law
+        - rule
+        french: loi
+        portuguese: lei
+        spanish: ley
+        turkish:
+        - kanun
+        - kural

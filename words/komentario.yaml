@@ -1,0 +1,20 @@
+examples:
+-   ladino: Meldimos kon muncha atension e interes los komentarios echos por muestros
+        amigos.
+grammar: null
+id: '2498'
+origen: Jeneral
+versions:
+-   accented: komentário
+    ladino: komentario
+    translations:
+        english:
+        - comments
+        - remarks
+        - commentary
+        french: ''
+        portuguese: ''
+        spanish: comentario
+        turkish:
+        - açıklama
+        - yorum

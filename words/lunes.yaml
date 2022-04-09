@@ -1,0 +1,14 @@
+examples:
+-   ladino: Kada lunes moz ivamoz al BAZAR.
+grammar: null
+id: '2524'
+origen: Jeneral
+versions:
+-   accented: lúnes
+    ladino: lunes
+    translations:
+        english: Monday
+        french: ''
+        portuguese: ''
+        spanish: lunes
+        turkish: Pazartesi

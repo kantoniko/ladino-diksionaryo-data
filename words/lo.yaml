@@ -1,0 +1,20 @@
+examples:
+-   ladino: Lo ke va ser para uno, ke sea para todos.
+grammar: null
+id: '2522'
+origen: Jeneral
+versions:
+-   accented: lo
+    ladino: lo
+    translations:
+        english:
+        - that
+        - which
+        - it
+        - him
+        french: ''
+        portuguese: ''
+        spanish: lo
+        turkish:
+        - olan
+        - o

@@ -1,0 +1,16 @@
+examples:
+-   ladino: Entre kol i kol lechuga.
+grammar: null
+id: '2495'
+origen: Jeneral
+versions:
+-   accented: kol
+    ladino: kol
+    translations:
+        english: cabbage
+        french: ''
+        portuguese: ''
+        spanish:
+        - col
+        - repollo
+        turkish: lahana

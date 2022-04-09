@@ -1,0 +1,19 @@
+examples:
+-   ladino: Mirala.
+grammar: null
+id: '2515'
+origen: Jeneral
+versions:
+-   accented: la
+    ladino: la
+    translations:
+        english:
+        - the
+        - she
+        - her
+        french: ''
+        portuguese: ''
+        spanish: la
+        turkish:
+        - belirten (the)
+        - o (dişi)

@@ -1,0 +1,18 @@
+examples:
+-   ladino: La ijika jdugava kon una kukla de handrajo.
+grammar: null
+id: '2791'
+origen: Jeneral
+versions:
+-   accented: handrájo
+    gender: masculine
+    ladino: handrajo
+    number: singular
+    translations:
+        english: rag
+        french: ''
+        portuguese: ''
+        spanish: andrajo
+        turkish:
+        - bez
+        - paçavra

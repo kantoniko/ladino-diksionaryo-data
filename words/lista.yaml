@@ -1,0 +1,14 @@
+examples:
+-   ladino: Los miembros de esta lista ya estan viendo komo lo eskrivimos.
+grammar: null
+id: '2520'
+origen: Jeneral
+versions:
+-   accented: lísta
+    ladino: lista
+    translations:
+        english: list
+        french: ''
+        portuguese: ''
+        spanish: lista
+        turkish: liste

@@ -1,0 +1,18 @@
+examples:
+-   ladino: Le gustava kontar anekdotas tipikas sefardis.
+grammar: null
+id: '2518'
+origen: Jeneral
+versions:
+-   accented: le
+    ladino: le
+    translations:
+        english:
+        - him
+        - to him
+        - to her
+        - to it
+        french: ''
+        portuguese: ''
+        spanish: le
+        turkish: ona

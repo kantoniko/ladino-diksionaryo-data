@@ -1,0 +1,21 @@
+examples:
+-   ladino: Muestra erensia kultural, ke es la lingua, kultura, uzos i kostumbres...
+grammar: null
+id: '2502'
+origen: Jeneral
+versions:
+-   accented: kostúmbre
+    ladino: kostumbre
+    translations:
+        english:
+        - custom
+        - habit
+        french: ''
+        portuguese: ''
+        spanish: costumbre
+        turkish:
+        - örf
+        - âdet
+        - töre
+        - anane
+        - alışkanlık

@@ -1,0 +1,19 @@
+examples:
+-   ladino: Kual es tu ijo?
+grammar: null
+id: '2504'
+origen: Jeneral
+versions:
+-   accented: kuál
+    alternative-spelling:
+    -   accented: kuála
+        ladino: kuala
+    ladino: kual
+    translations:
+        english: which
+        french: ''
+        portuguese: ''
+        spanish: cual
+        turkish:
+        - hangi
+        - hangisi

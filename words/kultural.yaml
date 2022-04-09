@@ -1,0 +1,14 @@
+examples:
+-   ladino: Konservaron aspektos kulturales del Djudaismo.
+grammar: null
+id: '2510'
+origen: Jeneral
+versions:
+-   accented: kulturál
+    ladino: kultural
+    translations:
+        english: cultural
+        french: ''
+        portuguese: ''
+        spanish: cultural
+        turkish: kültürel

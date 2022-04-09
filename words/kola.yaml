@@ -1,0 +1,19 @@
+examples:
+-   ladino: Lo ke le dishe, lo tomo por la kola.
+grammar: null
+id: '2496'
+origen: Jeneral
+versions:
+-   accented: kóla
+    ladino: kola
+    translations:
+        english:
+        - tail
+        - end
+        - queue
+        french: ''
+        portuguese: ''
+        spanish: cola
+        turkish:
+        - kuyruk
+        - sıra
