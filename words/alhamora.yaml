@@ -1,0 +1,19 @@
+examples:
+-   ladino: 'Se namoro de su mustacho preto i de la ALHAMORA kolorada...  '
+grammar: null
+id: '3060'
+origen: Jeneral
+versions:
+-   accented: alhamóra
+    alternative-spelling:
+    -   accented: chapéta
+        ladino: chapeta
+    gender: feminine
+    ladino: alhamora
+    number: singular
+    translations:
+        english: hot flushes; reddening of the face
+        french: bouffées de chaleur; rougissement
+        portuguese: ''
+        spanish: sofoco; enrojecimiento del rostro
+        turkish: sıcak basması; yüz kızarıklığı
