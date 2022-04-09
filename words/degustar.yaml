@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1691'
+origen: Jeneral
+versions:
+-   accented: degustar
+    ladino: degustar
+    translations:
+        english: taste (wine)
+        french: ''
+        portuguese: ''
+        spanish: catar (vino)
+        turkish: tatmak (şarap)

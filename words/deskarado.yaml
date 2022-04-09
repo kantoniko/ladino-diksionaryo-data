@@ -1,0 +1,19 @@
+examples:
+-   ladino: El deskarado, no se averguenso.
+grammar: null
+id: '1700'
+origen: Jeneral
+versions:
+-   accented: deskarádo
+    alternative-spelling:
+    -   accented: deskaráda
+        ladino: deskarada
+    ladino: deskarado
+    translations:
+        english: shameless
+        french: ''
+        portuguese: ''
+        spanish: descarado / descarada
+        turkish:
+        - suratsız
+        - yüzsüz

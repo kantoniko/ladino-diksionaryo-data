@@ -1,0 +1,21 @@
+examples:
+-   ladino: Para todo ay remedyo, para la muerte no. (Neh.)
+grammar: null
+id: '1694'
+origen: Jeneral
+versions:
+-   accented: remédio
+    alternative-spelling:
+    -   accented: remédyo
+        ladino: remedyo
+    gender: masculine
+    ladino: remedio
+    number: singular
+    translations:
+        english: remedy
+        french: ''
+        portuguese: ''
+        spanish: remedio
+        turkish:
+        - çare
+        - derman

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '2285'
+origen: Jeneral
+versions:
+-   accented: diaspora
+    ladino: diaspora
+    translations:
+        english: diaspora
+        french: ''
+        portuguese: ''
+        spanish: diáspora
+        turkish: diaspora

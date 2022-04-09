@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1690'
+origen: Jeneral
+versions:
+-   accented: defenderse
+    ladino: defenderse
+    translations:
+        english: defend oneself
+        french: ''
+        portuguese: ''
+        spanish: defenderse
+        turkish: kendini müdafaa etmek

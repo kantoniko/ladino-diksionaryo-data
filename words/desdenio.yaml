@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1698'
+origen: Jeneral
+versions:
+-   accented: desdenio
+    ladino: desdenio
+    translations:
+        english: disdain
+        french: ''
+        portuguese: ''
+        spanish: desdén
+        turkish:
+        - hor górme
+        - küçümseme
