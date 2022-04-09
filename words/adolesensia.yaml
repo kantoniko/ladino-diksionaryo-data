@@ -1,0 +1,16 @@
+examples:
+-   ladino: Me izitesh aboltar a mi adolesensia.
+grammar: null
+id: '1574'
+origen: Jeneral
+versions:
+-   accented: adolesénsia
+    gender: feminine
+    ladino: adolesensia
+    number: singular
+    translations:
+        english: adolescence
+        french: adolescence
+        portuguese: ''
+        spanish: adolescencia
+        turkish: ergenlik

@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1160'
+origen: Jeneral
+versions:
+-   accented: yevar
+    ladino: yevar
+    translations:
+        english:
+        - carry
+        - take
+        french: ''
+        portuguese: ''
+        spanish: llevar
+        turkish:
+        - götürmek
+        - taşımak

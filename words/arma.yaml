@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1619'
+origen: Jeneral
+versions:
+-   accented: arma
+    ladino: arma
+    translations:
+        english: arm
+        french: ''
+        portuguese: ''
+        spanish: arma
+        turkish: silah

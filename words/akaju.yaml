@@ -1,0 +1,16 @@
+examples:
+-   ladino: En la biblioteka teniyan mobles de akaju.
+grammar: null
+id: '1581'
+origen: Jeneral
+versions:
+-   accented: akajú
+    gender: masculine
+    ladino: akaju
+    number: singular
+    translations:
+        english: mahogany
+        french: ''
+        portuguese: ''
+        spanish: caoba
+        turkish: maun

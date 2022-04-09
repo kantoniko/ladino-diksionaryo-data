@@ -1,0 +1,16 @@
+comments:
+- 'grammar: m/f'
+examples:
+-   ladino: Despues de bien saludarsen, los dos amantes se desparten.
+grammar: null
+id: '1597'
+origen: Jeneral
+versions:
+-   accented: amánte
+    ladino: amante
+    translations:
+        english: lover
+        french: ''
+        portuguese: ''
+        spanish: amante
+        turkish: sevgili

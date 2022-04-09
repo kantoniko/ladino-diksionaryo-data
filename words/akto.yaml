@@ -1,0 +1,18 @@
+examples:
+-   ladino: No es solamente un akto de bienfezensya ma tambien un akto de piedad.
+grammar: null
+id: '1587'
+origen: Jeneral
+versions:
+-   accented: ákto
+    gender: masculine
+    ladino: akto
+    number: singular
+    translations:
+        english: act
+        french: ''
+        portuguese: ''
+        spanish: acto
+        turkish:
+        - eylem
+        - perde

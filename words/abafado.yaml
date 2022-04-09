@@ -1,0 +1,17 @@
+examples:
+-   ladino: Mos plaze komer el pishkado abafado porke es muy liviano.
+grammar: adjective
+id: '1565'
+origen: Jeneral
+versions:
+-   accented: abafádo
+    alternative-spelling:
+    -   accented: abafáda
+        ladino: abafada
+    ladino: abafado
+    translations:
+        english: stewed
+        french: bouilli / bouillie
+        portuguese: estufado / estufada
+        spanish: estofado / estofada
+        turkish: buğulama

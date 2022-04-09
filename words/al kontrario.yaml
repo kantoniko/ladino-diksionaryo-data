@@ -1,0 +1,14 @@
+examples:
+-   ladino: No puedemos dizir ke es una koza mala; al kontrario, es una koza muy agradavle.
+grammar: adverb
+id: '1589'
+origen: Jeneral
+versions:
+-   accented: al kontrário
+    ladino: al kontrario
+    translations:
+        english: on the contrary
+        french: ''
+        portuguese: ''
+        spanish: sino
+        turkish: aksine

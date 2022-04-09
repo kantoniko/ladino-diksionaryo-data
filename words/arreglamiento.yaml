@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1622'
+origen: Jeneral
+versions:
+-   accented: arreglamiento
+    ladino: arreglamiento
+    translations:
+        english:
+        - arrangement
+        - settlement
+        french: ''
+        portuguese: ''
+        spanish: arreglo
+        turkish: tanzim

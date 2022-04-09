@@ -1,0 +1,14 @@
+examples:
+-   ladino: En la vida, todo es relativo i no ay nada de absoluto.
+grammar: adjective
+id: '1570'
+origen: Jeneral
+versions:
+-   accented: absolúto
+    ladino: absoluto
+    translations:
+        english: absolute
+        french: absolu
+        portuguese: ''
+        spanish: absoluto
+        turkish: mutlak

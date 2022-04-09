@@ -1,0 +1,16 @@
+examples:
+-   ladino: Eyas observavan a la letra uno de los komandamientos.
+grammar: null
+id: '1562'
+origen: Jeneral
+versions:
+-   accented: a la létra
+    ladino: a la letra
+    translations:
+        english:
+        - to the letter
+        - literally
+        french: à la lettre
+        portuguese: ''
+        spanish: a rajatabla
+        turkish: harfiyen

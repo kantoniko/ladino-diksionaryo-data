@@ -1,0 +1,20 @@
+examples: []
+grammar: null
+id: '2282'
+origen: Izmir
+versions:
+-   accented: bonora
+    ladino: bonora
+    translations:
+        english:
+        - happiness
+        - luck
+        - good fortune
+        french: ''
+        portuguese: ''
+        spanish:
+        - buena hora
+        - buena suerte
+        turkish:
+        - mutluluk
+        - talih

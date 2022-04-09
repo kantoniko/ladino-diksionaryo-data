@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1603'
+origen: Jeneral
+versions:
+-   accented: anesteziko
+    ladino: anesteziko
+    translations:
+        english: anaesthetic
+        french: ''
+        portuguese: ''
+        spanish: anestésico
+        turkish: anestezik

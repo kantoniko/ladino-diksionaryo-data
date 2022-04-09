@@ -1,0 +1,16 @@
+examples:
+-   ladino: (Ananas, no maiz) fermentada en agua de pilonsio.
+grammar: null
+id: '1601'
+origen: Jeneral
+versions:
+-   accented: ananás
+    gender: masculine
+    ladino: ananas
+    number: singular
+    translations:
+        english: pineapple
+        french: ''
+        portuguese: ''
+        spanish: piña tropical
+        turkish: ananas

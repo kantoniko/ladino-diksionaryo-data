@@ -1,0 +1,14 @@
+examples:
+-   ladino: Mete tu nombre a la fin de tu letra.
+grammar: null
+id: '1561'
+origen: Jeneral
+versions:
+-   accented: a la fin
+    ladino: a la fin
+    translations:
+        english: at the end
+        french: ''
+        portuguese: ''
+        spanish: al fin
+        turkish: sonunda

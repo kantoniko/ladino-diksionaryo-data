@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1618'
+origen: Jeneral
+versions:
+-   accented: arba
+    ladino: arba
+    translations:
+        english:
+        - eve
+        - day before
+        french: ''
+        portuguese: ''
+        spanish: víspera
+        turkish: arife

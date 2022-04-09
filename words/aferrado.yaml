@@ -1,0 +1,19 @@
+examples:
+-   ladino: Esta aferrado kon la ija del vizino.
+grammar: adjective
+id: '1575'
+origen: Jeneral
+versions:
+-   accented: aferrádo
+    alternative-spelling:
+    -   accented: aferráda
+        ladino: aferrada
+    ladino: aferrado
+    translations:
+        english: smitten
+        french:
+        - amouraché
+        - amourachée
+        portuguese: ''
+        spanish: aficionado / aficionada
+        turkish: tutkun

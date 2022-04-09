@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1609'
+origen: Jeneral
+versions:
+-   accented: apareser
+    ladino: apareser
+    translations:
+        english: appear
+        french: ''
+        portuguese: ''
+        spanish: aparecer
+        turkish: belirmek

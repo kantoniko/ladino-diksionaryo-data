@@ -1,0 +1,14 @@
+examples:
+-   ladino: Pasa por aki akorruto. (Munchas vezes.)
+grammar: adverb
+id: '1585'
+origen: Jeneral
+versions:
+-   accented: akorrúto
+    ladino: akorruto
+    translations:
+        english: often
+        french: ''
+        portuguese: ''
+        spanish: a menudo
+        turkish: sık sık

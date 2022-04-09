@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1616'
+origen: Jeneral
+versions:
+-   accented: apretar
+    ladino: apretar
+    translations:
+        english:
+        - tighten
+        - squeeze
+        french: ''
+        portuguese: ''
+        spanish: apretar
+        turkish: sıkmak

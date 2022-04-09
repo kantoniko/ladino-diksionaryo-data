@@ -1,0 +1,22 @@
+examples:
+-   ladino: Siempre ke mos vaygamos para adelantre i nunka para atras.
+grammar: adverb
+id: '1572'
+origen: Jeneral
+versions:
+-   accented: adelántre
+    ladino: adelantre
+    translations:
+        english:
+        - forward
+        - ahead
+        french:
+        - en avant
+        - devant
+        portuguese:
+        - adiante
+        - na frente
+        spanish: adelante
+        turkish:
+        - ileri
+        - önde

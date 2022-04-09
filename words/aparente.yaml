@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1608'
+origen: Jeneral
+versions:
+-   accented: aparente
+    ladino: aparente
+    translations:
+        english: apparent
+        french: ''
+        portuguese: ''
+        spanish: aparente
+        turkish: belirgin

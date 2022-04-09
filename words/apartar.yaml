@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1611'
+origen: Jeneral
+versions:
+-   accented: apartar
+    ladino: apartar
+    translations:
+        english: separate
+        french: ''
+        portuguese: ''
+        spanish: apartar
+        turkish: ayırmak

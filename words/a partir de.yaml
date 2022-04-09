@@ -1,0 +1,14 @@
+examples:
+-   ladino: Kursos de Djudeo-espanyol a partir del 8 de noviembre.
+grammar: null
+id: '1563'
+origen: Jeneral
+versions:
+-   accented: a partír de
+    ladino: a partir de
+    translations:
+        english: beginning from
+        french: à partir de
+        portuguese: ''
+        spanish: a partir de
+        turkish: itibaren
