@@ -1,0 +1,21 @@
+conjugations: {}
+examples:
+-   ladino: Atyo, esto esta de embrenear!
+grammar: verb
+id: '2956'
+origen: Jeneral
+versions:
+-   accented: embreneár
+    ladino: embrenear
+    translations:
+        english:
+        - delight
+        - charm
+        french:
+        - réjouir
+        - charmer
+        portuguese: ''
+        spanish:
+        - placer
+        - encantar
+        turkish: sevindirmek
