@@ -1,7 +1,7 @@
 conjugations: {}
 examples:
--   ladino: Para ke no veya su madre ke estava meldando akel livro, lo enkasho aryentro
-        del baul.
+  - ladino: Para ke no veya su madre ke estava meldando akel livro, lo enkasho aryentro del baul.
+  - ladino: Le vendió el livro viejo a tripio de presio.  Se la enkasho fino.
 grammar: verb
 id: '1774'
 origen: Jeneral
@@ -9,12 +9,22 @@ versions:
 -   accented: enkashár
     ladino: enkashar
     translations:
-        english: insert
+        english:
+          - insert
+          - screw (colloq.)
         french:
-        - fourrer
-        - insérer
-        portuguese: inserir
+          - fourrer
+          - insérer
+          - escroquer
+        portuguese:
+          - inserir
+          - defraudar
         spanish:
-        - meter
-        - insertar
-        turkish: sokmak
+          - meter
+          - meter dentro
+          - estafar (x)
+          - insertar
+        turkish:
+          - sokmak
+          - kazık atmak
+
