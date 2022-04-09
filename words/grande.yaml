@@ -1,14 +1,20 @@
-examples:
--   ladino: Te mando un grande abraso.
 grammar: adjective
 id: '464'
 origen: Jeneral
+
 versions:
--   accented: gránde
-    ladino: grande
+  - ladino: grande
+    accented: gránde
+
+    alternative-spelling:
+      - ladino: gran
+
     translations:
         english: big
         french: grand
         portuguese: grande
         spanish: grande
         turkish: büyük
+
+examples:
+  - ladino: Te mando un grande abraso.
