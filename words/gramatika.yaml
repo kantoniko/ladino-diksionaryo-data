@@ -1,14 +1,31 @@
-examples:
--   ladino: Mas vale la prátika ke la gramátika. (Neh.)
-grammar: null
+grammar: noun
 id: '2460'
 origen: Jeneral
+
 versions:
--   accented: gramátika
-    ladino: gramatika
+  - ladino: gramatika
+    accented: gramátika
+    gender: feminine
+    number: singular
+
     translations:
-        english: grammer
+        english: grammar
         french: ''
         portuguese: ''
         spanish: gramática
         turkish: dilbilgisi
+
+  - ladino: gramatikas
+    accented: gramátikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: grammars
+        french: ''
+        portuguese: ''
+        spanish: gramáticas
+        turkish: ''
+
+examples:
+  - ladino: Mas vale la prátika ke la gramátika. (Neh.)

@@ -1,0 +1,31 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: feminino
+    gender: masculine
+    number: singular
+
+    translations:
+      english: feminine
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: femininos
+    gender: masculine
+    number: plural
+
+    translations:
+      english: feminines
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
