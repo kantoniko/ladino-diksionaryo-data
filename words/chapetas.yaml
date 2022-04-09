@@ -1,0 +1,16 @@
+examples:
+-   ladino: CHAPETA es kuando ensupito las karas se azen koloradas seya de verguensa o de otra koza.
+grammar: null
+id: '3059'
+origen: Jeneral
+versions:
+-   accented: chapétas
+    gender: feminine
+    ladino: chapetas
+    number: singular
+    translations:
+        english: hot flushes; reddening of the face
+        french: bouffées de chaleur; rougissement
+        portuguese: ''
+        spanish: sofoco; enrojecimiento del rostro
+        turkish: sıcak basması; yüz kızarıklığı
