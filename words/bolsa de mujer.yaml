@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '188'
+origen: Jeneral
+versions:
+-   accented: bolsa de mujer
+    ladino: bolsa de mujer
+    translations:
+        english:
+        - bag
+        - purse
+        french: ''
+        portuguese: ''
+        spanish: bolso de señora
+        turkish: kadın çantası

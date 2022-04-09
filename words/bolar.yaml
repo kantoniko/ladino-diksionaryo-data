@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '187'
+origen: Jeneral
+versions:
+-   accented: bolar
+    ladino: bolar
+    translations:
+        english: fly
+        french: ''
+        portuguese: ''
+        spanish: volar
+        turkish: uçmak

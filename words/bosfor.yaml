@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '191'
+origen: Jeneral
+versions:
+-   accented: Bosfor
+    ladino: Bosfor
+    translations:
+        english: Bosphorus
+        french: ''
+        portuguese: ''
+        spanish: Bósforo
+        turkish: Istanbul Boğazı

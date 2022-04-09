@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '190'
+origen: Jeneral
+versions:
+-   accented: borracho
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: borracho
+    translations:
+        english: drunk
+        french: ''
+        portuguese: ''
+        spanish: borracho / a
+        turkish: sarhoş

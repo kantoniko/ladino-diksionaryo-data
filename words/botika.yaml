@@ -1,0 +1,19 @@
+examples:
+-   ladino: Me trusho dulsurias de la butika de Haci Bekir de Estambol.
+grammar: null
+id: '193'
+origen: Jeneral
+versions:
+-   accented: botíka
+    alternative-spelling:
+    -   accented: butíka
+        ladino: butika
+    gender: feminine
+    ladino: botika
+    number: singular
+    translations:
+        english: shop
+        french: ''
+        portuguese: ''
+        spanish: tienda
+        turkish: dükkân

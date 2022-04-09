@@ -1,0 +1,22 @@
+examples: []
+grammar: null
+id: '194'
+origen: Jeneral
+versions:
+-   accented: bovo
+    alternative-spelling:
+    -   accented: torpe
+        ladino: torpe
+    ladino: bovo
+    translations:
+        english:
+        - silly
+        - stupid
+        french: ''
+        portuguese: ''
+        spanish:
+        - lelo
+        - tonto
+        turkish:
+        - salak
+        - aptal
