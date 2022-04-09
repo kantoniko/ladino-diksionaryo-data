@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1921'
+origen: Jeneral
+versions:
+-   accented: konkluzion
+    ladino: konkluzion
+    translations:
+        english: conclusion
+        french: ''
+        portuguese: ''
+        spanish: conclusión
+        turkish: sonuç

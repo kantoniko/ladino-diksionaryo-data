@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1915'
+origen: Jeneral
+versions:
+-   accented: kondukta
+    ladino: kondukta
+    translations:
+        english: conduct
+        french: ''
+        portuguese: ''
+        spanish: conducta
+        turkish: davranış

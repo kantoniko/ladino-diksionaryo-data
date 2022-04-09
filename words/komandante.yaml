@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1904'
+origen: Jeneral
+versions:
+-   accented: komandante
+    ladino: komandante
+    translations:
+        english: commander
+        french: ''
+        portuguese: ''
+        spanish: comandante
+        turkish: kumandan

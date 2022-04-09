@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1919'
+origen: Jeneral
+versions:
+-   accented: konfonder
+    ladino: konfonder
+    translations:
+        english:
+        - confuse
+        - mix
+        - mingle
+        french: ''
+        portuguese: ''
+        spanish: confundir
+        turkish:
+        - karıştırmak
+        - şaşırtmak

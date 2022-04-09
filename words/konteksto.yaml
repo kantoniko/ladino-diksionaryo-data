@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1931'
+origen: Jeneral
+versions:
+-   accented: konteksto
+    ladino: konteksto
+    translations:
+        english: context
+        french: ''
+        portuguese: ''
+        spanish: contexto
+        turkish: bağlam

@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1951'
+origen: Jeneral
+versions:
+-   accented: kreser
+    ladino: kreser
+    translations:
+        english:
+        - grow
+        - increase
+        french: ''
+        portuguese: ''
+        spanish: crecer
+        turkish:
+        - büyümek
+        - çoğalmak

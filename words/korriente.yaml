@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1944'
+origen: Jeneral
+versions:
+-   accented: korriente
+    ladino: korriente
+    translations:
+        english: current
+        french: ''
+        portuguese: ''
+        spanish: corriente
+        turkish:
+        - cereyan
+        - olağan

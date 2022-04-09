@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1902'
+origen: Jeneral
+versions:
+-   accented: kolej
+    alternative-spelling:
+    -   accented: lise
+        ladino: lise
+    ladino: kolej
+    translations:
+        english: high school
+        french: ''
+        portuguese: ''
+        spanish: colegio
+        turkish:
+        - kolej
+        - lise

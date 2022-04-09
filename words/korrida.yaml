@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1943'
+origen: Jeneral
+versions:
+-   accented: korrida
+    ladino: korrida
+    translations:
+        english:
+        - run
+        - dash
+        - bull-fight
+        french: ''
+        portuguese: ''
+        spanish: corrida
+        turkish:
+        - koşu
+        - boğa güreşi

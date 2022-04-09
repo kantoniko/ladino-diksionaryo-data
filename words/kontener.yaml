@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1933'
+origen: Jeneral
+versions:
+-   accented: kontener
+    ladino: kontener
+    translations:
+        english:
+        - contain
+        - keep in check
+        french: ''
+        portuguese: ''
+        spanish: contener
+        turkish: içermek

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1903'
+origen: Jeneral
+versions:
+-   accented: kolona
+    ladino: kolona
+    translations:
+        english: column
+        french: ''
+        portuguese: ''
+        spanish: columna
+        turkish: sütun

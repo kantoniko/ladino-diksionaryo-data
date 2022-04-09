@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1906'
+origen: Jeneral
+versions:
+-   accented: komer yerva
+    ladino: komer yerva
+    translations:
+        english: graze
+        french: ''
+        portuguese: ''
+        spanish:
+        - pacer
+        - pastar
+        turkish: otlamak

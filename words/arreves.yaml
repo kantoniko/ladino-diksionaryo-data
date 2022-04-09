@@ -1,0 +1,14 @@
+examples:
+-   ladino: Me se fue el bokado arreves.
+grammar: adverb
+id: '2304'
+origen: Gresia
+versions:
+-   accented: arrevés
+    ladino: arreves
+    translations:
+        english: upside down
+        french: ''
+        portuguese: ''
+        spanish: al revés
+        turkish: tersine

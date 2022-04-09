@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1946'
+origen: Jeneral
+versions:
+-   accented: kortijo
+    ladino: kortijo
+    translations:
+        english:
+        - farmyard
+        - patio
+        french: ''
+        portuguese: ''
+        spanish:
+        - corral
+        - patio
+        turkish: avlu

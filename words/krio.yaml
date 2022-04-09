@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1954'
+origen: Jeneral
+versions:
+-   accented: krio
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: krio
+    translations:
+        english: young child
+        french: ''
+        portuguese: ''
+        spanish: crío / a
+        turkish: küçük çocuk

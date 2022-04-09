@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1901'
+origen: Jeneral
+versions:
+-   accented: kolego
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: kolego
+    translations:
+        english: colleague
+        french: ''
+        portuguese: ''
+        spanish: colega
+        turkish: meslektaş

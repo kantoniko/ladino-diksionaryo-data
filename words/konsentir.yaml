@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1924'
+origen: Jeneral
+versions:
+-   accented: konsentir
+    ladino: konsentir
+    translations:
+        english: consent
+        french: ''
+        portuguese: ''
+        spanish: consentir
+        turkish: razı olmak

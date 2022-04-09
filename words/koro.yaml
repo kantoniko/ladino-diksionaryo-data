@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1942'
+origen: Jeneral
+versions:
+-   accented: koro
+    ladino: koro
+    translations:
+        english: choir
+        french: ''
+        portuguese: ''
+        spanish: coro
+        turkish: koro

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1913'
+origen: Jeneral
+versions:
+-   accented: kondanasion
+    ladino: kondanasion
+    translations:
+        english:
+        - condemnation
+        - sentence
+        french: ''
+        portuguese: ''
+        spanish: condenación
+        turkish: mahkûmiyet

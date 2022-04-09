@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1914'
+origen: Jeneral
+versions:
+-   accented: kondision
+    ladino: kondision
+    translations:
+        english: condition
+        french: ''
+        portuguese: ''
+        spanish: condición
+        turkish: şart

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1930'
+origen: Jeneral
+versions:
+-   accented: kontakto
+    ladino: kontakto
+    translations:
+        english: touch
+        french: ''
+        portuguese: ''
+        spanish: tacto
+        turkish: temas

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1916'
+origen: Jeneral
+versions:
+-   accented: konduktor
+    ladino: konduktor
+    translations:
+        english: conductor
+        french: ''
+        portuguese: ''
+        spanish: conductor
+        turkish: sürücü
