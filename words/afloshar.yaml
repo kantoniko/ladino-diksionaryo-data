@@ -1,0 +1,17 @@
+conjugations: {}
+examples:
+-   ladino: Aflosharon la kuedra de la barka.
+grammar: verb
+id: '2820'
+origen: Jeneral
+versions:
+-   accented: afloshár
+    ladino: afloshar
+    translations:
+        english:
+        - slacken
+        - loosen
+        french: ''
+        portuguese: ''
+        spanish: aflojar
+        turkish: gevşetmek
