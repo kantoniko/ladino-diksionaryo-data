@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '1541'
+origen: Jeneral
+versions:
+-   accented: yerva
+    ladino: yerva
+    translations:
+        english: grass
+        french: ''
+        portuguese: ''
+        spanish:
+        - yerba
+        - hierba
+        turkish: ot
+
+# yerva,,"yerba, hierba",grass,ot,Jeneral,1541,,
+# yerva,,césped,turf,çim,Jeneral,1159,,

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1157'
+origen: Jeneral
+versions:
+-   accented: yerrarse
+    ladino: yerrarse
+    translations:
+        english:
+        - be wrong
+        - make a mistake
+        french: ''
+        portuguese: ''
+        spanish: equivocarse
+        turkish: yanilmak

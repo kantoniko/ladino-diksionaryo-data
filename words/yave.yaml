@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1154'
+origen: Jeneral
+versions:
+-   accented: yave
+    ladino: yave
+    translations:
+        english: key
+        french: ''
+        portuguese: ''
+        spanish: llave
+        turkish: anahtar

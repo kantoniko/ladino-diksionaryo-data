@@ -1,0 +1,16 @@
+examples:
+-   ladino: 'De los Meksikanos sinti ke "dondurma" se dize "yelada". '
+grammar: null
+id: '1155'
+origen: Jeneral
+versions:
+-   accented: yeláda
+    gender: feminine
+    ladino: yelada
+    number: singular
+    translations:
+        english: ice-cream
+        french: ''
+        portuguese: ''
+        spanish: helado
+        turkish: dondurma

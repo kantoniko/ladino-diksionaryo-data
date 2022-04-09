@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1152'
+origen: Jeneral
+versions:
+-   accented: ya
+    ladino: ya
+    translations:
+        english:
+        - already
+        - indeed
+        french: ''
+        portuguese: ''
+        spanish: ya
+        turkish: artık
