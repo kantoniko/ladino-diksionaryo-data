@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1460'
+origen: Jeneral
+versions:
+-   accented: prezentar
+    ladino: prezentar
+    translations:
+        english: present
+        french: ''
+        portuguese: ''
+        spanish: presentar
+        turkish: takdim etmek

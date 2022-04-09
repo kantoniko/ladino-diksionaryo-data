@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '901'
+origen: Jeneral
+versions:
+-   accented: prisa
+    ladino: prisa
+    translations:
+        english:
+        - hurry
+        - haste
+        french: ''
+        portuguese: ''
+        spanish: prisa
+        turkish:
+        - acele
+        - telâş

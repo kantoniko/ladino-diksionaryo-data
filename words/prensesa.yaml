@@ -1,0 +1,15 @@
+examples:
+-   ladino: La joven prensesa fue enserrada en esta kula kon muchas ijas de su edad
+        destinadas a tenerle kompanyiya.
+grammar: null
+id: '15'
+origen: Jeneral
+versions:
+-   accented: prensesa
+    ladino: prensesa
+    translations:
+        english: princess
+        french: ''
+        portuguese: ''
+        spanish: princesa
+        turkish: prenses

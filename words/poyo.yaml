@@ -1,0 +1,18 @@
+examples:
+-   ladino: La supa de poyo era la Penisilina Judia.
+grammar: null
+id: '889'
+origen: Jeneral
+versions:
+-   accented: póyo
+    gender: masculine
+    ladino: poyo
+    number: singular
+    translations:
+        english:
+        - chicken
+        - chick
+        french: poulet
+        portuguese: frango
+        spanish: pollo
+        turkish: piliç

@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '909'
+origen: Jeneral
+versions:
+-   accented: prova
+    ladino: prova
+    translations:
+        english:
+        - trial
+        - proof
+        french: ''
+        portuguese: ''
+        spanish: prueba
+        turkish:
+        - prova
+        - ispat

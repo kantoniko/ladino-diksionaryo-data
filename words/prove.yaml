@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '910'
+origen: Jeneral
+versions:
+-   accented: prove
+    ladino: prove
+    translations:
+        english: poor
+        french: ''
+        portuguese: ''
+        spanish: pobre
+        turkish: fakir

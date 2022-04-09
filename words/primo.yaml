@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1463'
+origen: Jeneral
+versions:
+-   accented: primo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: primo
+    translations:
+        english: cousin
+        french: ''
+        portuguese: ''
+        spanish: primo / a
+        turkish: kuzen

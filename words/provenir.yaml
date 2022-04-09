@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '911'
+origen: Jeneral
+versions:
+-   accented: provenir
+    ladino: provenir
+    translations:
+        english:
+        - arise from
+        - stem from
+        french: ''
+        portuguese: ''
+        spanish: provenir
+        turkish: hasıl olmak

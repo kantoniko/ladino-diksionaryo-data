@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1466'
+origen: Jeneral
+versions:
+-   accented: profesar
+    ladino: profesar
+    translations:
+        english:
+        - profess
+        - practice
+        french: ''
+        portuguese: ''
+        spanish: profesar
+        turkish: mesleğini icra etmek

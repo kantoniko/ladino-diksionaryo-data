@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '897'
+origen: Jeneral
+versions:
+-   accented: prestor
+    ladino: prestor
+    translations:
+        english:
+        - speed
+        - velocity
+        french: ''
+        portuguese: ''
+        spanish: velocidad
+        turkish:
+        - hız
+        - çabukluk

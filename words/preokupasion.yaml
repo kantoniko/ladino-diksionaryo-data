@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '894'
+origen: Jeneral
+versions:
+-   accented: preokupasion
+    ladino: preokupasion
+    translations:
+        english:
+        - worry
+        - preoccupation
+        french: ''
+        portuguese: ''
+        spanish: preocupación
+        turkish: endişe

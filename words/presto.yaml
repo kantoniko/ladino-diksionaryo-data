@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '896'
+origen: Jeneral
+versions:
+-   accented: presto
+    ladino: presto
+    translations:
+        english: quick
+        french: ''
+        portuguese: ''
+        spanish: pronto
+        turkish:
+        - erken
+        - çabuk

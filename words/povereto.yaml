@@ -1,0 +1,22 @@
+examples: []
+grammar: null
+id: '1458'
+origen: Jeneral
+versions:
+-   accented: povereto
+    alternative-spelling:
+    -   accented: ax
+        ladino: ax
+    ladino: povereto
+    translations:
+        english:
+        - poor
+        - wretch
+        french: ''
+        portuguese: ''
+        spanish:
+        - pobre
+        - desgraciado
+        turkish:
+        - fakir
+        - zavallı

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '918'
+origen: Jeneral
+versions:
+-   accented: pulmones
+    ladino: pulmones
+    translations:
+        english: lungs
+        french: ''
+        portuguese: ''
+        spanish: pulmones
+        turkish: akciğerler

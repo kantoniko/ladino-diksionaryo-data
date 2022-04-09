@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '898'
+origen: Jeneral
+versions:
+-   accented: preteksto
+    ladino: preteksto
+    translations:
+        english: pretext
+        french: ''
+        portuguese: ''
+        spanish: pretexto
+        turkish: bahane

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '916'
+origen: Jeneral
+versions:
+-   accented: puerpo
+    alternative-spelling:
+    -   accented: kuerpo
+        ladino: kuerpo
+    ladino: puerpo
+    translations:
+        english: body
+        french: ''
+        portuguese: ''
+        spanish: cuerpo
+        turkish: vücut

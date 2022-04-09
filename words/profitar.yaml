@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1467'
+origen: Jeneral
+versions:
+-   accented: profitar
+    ladino: profitar
+    translations:
+        english: profit
+        french: ''
+        portuguese: ''
+        spanish: aprovechar
+        turkish: istifade etmek

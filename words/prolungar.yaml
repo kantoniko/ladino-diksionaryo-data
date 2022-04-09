@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '1469'
+origen: Jeneral
+versions:
+-   accented: prolungar
+    ladino: prolungar
+    translations:
+        english:
+        - prolong
+        - extend
+        french: ''
+        portuguese: ''
+        spanish: prolongar
+        turkish:
+        - uzatmak
+        - temdit etmek

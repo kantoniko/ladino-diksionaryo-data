@@ -1,0 +1,17 @@
+examples:
+-   ladino: Se le fizo el mundo preto.
+grammar: adjective
+id: '899'
+origen: Jeneral
+versions:
+-   accented: préto
+    alternative-spelling:
+    -   accented: préta
+        ladino: preta
+    ladino: preto
+    translations:
+        english: black
+        french: noir / noire
+        portuguese: preto / preta
+        spanish: negro / negra
+        turkish: siyah

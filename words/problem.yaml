@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '902'
+origen: Jeneral
+versions:
+-   accented: problem
+    ladino: problem
+    translations:
+        english: problem
+        french: ''
+        portuguese: ''
+        spanish: problema (el)
+        turkish: problem

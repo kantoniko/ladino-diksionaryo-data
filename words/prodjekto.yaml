@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '903'
+origen: Jeneral
+versions:
+-   accented: prodjekto
+    ladino: prodjekto
+    translations:
+        english: project
+        french: ''
+        portuguese: ''
+        spanish: proyecto
+        turkish: proje

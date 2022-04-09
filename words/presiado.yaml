@@ -1,0 +1,24 @@
+examples:
+-   ladino: 'Puedemos yamar a un ijiko chiko "presiadiko". '
+grammar: adjective
+id: '895'
+origen: Jeneral
+versions:
+-   accented: presiado
+    alternative-spelling:
+    -   accented: presyado
+        ladino: presyado
+    ladino: presiado
+    translations:
+        english:
+        - precious
+        - beloved
+        french: ''
+        portuguese: ''
+        spanish:
+        - precioso
+        - querido
+        turkish:
+        - değerli
+        - kıymetli
+        - sevgili

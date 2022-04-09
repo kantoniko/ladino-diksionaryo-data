@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1461'
+origen: Jeneral
+versions:
+-   accented: prezervar
+    ladino: prezervar
+    translations:
+        english: preserve
+        french: ''
+        portuguese: ''
+        spanish: preservar
+        turkish: muhafaza etmek

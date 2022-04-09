@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '914'
+origen: Jeneral
+versions:
+-   accented: puede ser
+    ladino: puede ser
+    translations:
+        english: perhaps
+        french: ''
+        portuguese: ''
+        spanish: a lo mejor
+        turkish: belki

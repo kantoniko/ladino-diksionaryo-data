@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '915'
+origen: Jeneral
+versions:
+-   accented: pueder
+    ladino: pueder
+    translations:
+        english: be able to
+        french: ''
+        portuguese: ''
+        spanish: poder
+        turkish: yapabilmek

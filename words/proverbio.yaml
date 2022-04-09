@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '912'
+origen: Jeneral
+versions:
+-   accented: proverbio
+    ladino: proverbio
+    translations:
+        english: proverb
+        french: ''
+        portuguese: ''
+        spanish: proverbio
+        turkish: atasözü

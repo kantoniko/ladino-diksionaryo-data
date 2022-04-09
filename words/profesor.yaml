@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '905'
+origen: Jeneral
+versions:
+-   accented: profesor
+    ladino: profesor
+    translations:
+        english: teacher
+        french: ''
+        portuguese: ''
+        spanish: profesor
+        turkish: öğretmen

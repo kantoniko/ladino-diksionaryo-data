@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '893'
+origen: Jeneral
+versions:
+-   accented: preferar
+    ladino: preferar
+    translations:
+        english: prefer
+        french: ''
+        portuguese: ''
+        spanish: preferir
+        turkish: tercih etmek

@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '1468'
+origen: Jeneral
+versions:
+-   accented: profundo
+    ladino: profundo
+    translations:
+        english:
+        - deep
+        - profound
+        french: ''
+        portuguese: ''
+        spanish: profundo
+        turkish: derin

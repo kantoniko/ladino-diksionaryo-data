@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '890'
+origen: Jeneral
+versions:
+-   accented: pozitivo
+    ladino: pozitivo
+    translations:
+        english: positive
+        french: ''
+        portuguese: ''
+        spanish: positivo
+        turkish:
+        - olumlu
+        - müspet
