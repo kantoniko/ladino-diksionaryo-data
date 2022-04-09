@@ -1,0 +1,19 @@
+examples:
+-   ladino: Se aze kon mues mulida i miel kon klavo de komer.
+grammar: null
+id: '731'
+origen: Jeneral
+versions:
+-   accented: miél
+    alternative-spelling:
+    -   accented: myél
+        ladino: myel
+    gender: feminine
+    ladino: miel
+    number: singular
+    translations:
+        english: honey
+        french: miel
+        portuguese: mel
+        spanish: miel
+        turkish: bal

@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '728'
+origen: Jeneral
+versions:
+-   accented: meter
+    alternative-spelling:
+    -   accented: pozar
+        ladino: pozar
+    ladino: meter
+    translations:
+        english: put
+        french: ''
+        portuguese: ''
+        spanish: poner
+        turkish: koymak

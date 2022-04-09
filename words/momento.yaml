@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '743'
+origen: Jeneral
+versions:
+-   accented: momento
+    ladino: momento
+    translations:
+        english: moment
+        french: ''
+        portuguese: ''
+        spanish: momento
+        turkish: an

@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '748'
+origen: Jeneral
+versions:
+-   accented: moreno
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: moreno
+    translations:
+        english:
+        - dark
+        - brown
+        french: ''
+        portuguese: ''
+        spanish: moreno / a
+        turkish: esmer

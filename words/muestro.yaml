@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '1421'
+origen: Jeneral
+versions:
+-   accented: muestro
+    alternative-spelling:
+    -   accented: muestra
+        ladino: muestra
+    ladino: muestro
+    translations:
+        english: our
+        french: ''
+        portuguese: ''
+        spanish: nuestro / nuestra
+        turkish: bizim

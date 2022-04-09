@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '742'
+origen: Jeneral
+versions:
+-   accented: molestar
+    ladino: molestar
+    translations:
+        english:
+        - annoy
+        - bother
+        french: ''
+        portuguese: ''
+        spanish: molestar
+        turkish: rahatsız etmek

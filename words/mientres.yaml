@@ -1,0 +1,19 @@
+examples:
+-   ladino: Myentres ke tu durmiyas, yo lavorava.
+grammar: preposition
+id: '732'
+origen: Jeneral
+versions:
+-   accented: miéntres
+    alternative-spelling:
+    -   accented: myéntres
+        ladino: myentres
+    ladino: mientres
+    translations:
+        english: while
+        french: ''
+        portuguese: ''
+        spanish: mientras
+        turkish:
+        - iken
+        - süresince

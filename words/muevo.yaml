@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '753'
+origen: Jeneral
+versions:
+-   accented: muevo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: muevo
+    translations:
+        english: new
+        french: ''
+        portuguese: ''
+        spanish: nuevo / a
+        turkish: yeni

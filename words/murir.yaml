@@ -1,0 +1,22 @@
+examples: []
+grammar: null
+id: '759'
+origen: Jeneral
+versions:
+-   accented: murir
+    ladino: murir
+    translations:
+        english:
+        - die
+        - expire
+        - pass away
+        french: ''
+        portuguese: ''
+        spanish:
+        - morir
+        - deceder
+        - fallecer
+        - expirar
+        turkish:
+        - ölmek
+        - vefat etmek

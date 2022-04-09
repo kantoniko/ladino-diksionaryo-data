@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '740'
+origen: Jeneral
+versions:
+-   accented: modo
+    ladino: modo
+    translations:
+        english:
+        - mode
+        - manner
+        french: ''
+        portuguese: ''
+        spanish: modo
+        turkish:
+        - biçim
+        - şekil

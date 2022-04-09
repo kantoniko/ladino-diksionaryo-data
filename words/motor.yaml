@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '749'
+origen: Jeneral
+versions:
+-   accented: motor
+    ladino: motor
+    translations:
+        english: motor
+        french: ''
+        portuguese: ''
+        spanish: motor
+        turkish: motor

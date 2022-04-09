@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1415'
+origen: Jeneral
+versions:
+-   accented: mesurar
+    ladino: mesurar
+    translations:
+        english: measure
+        french: ''
+        portuguese: ''
+        spanish: medir
+        turkish: ölçmek

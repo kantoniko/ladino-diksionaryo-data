@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '751'
+origen: Jeneral
+versions:
+-   accented: muchacho
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: muchacho
+    translations:
+        english:
+        - boy
+        - girl
+        french: ''
+        portuguese: ''
+        spanish: muchacho / a
+        turkish: oğlan / kız

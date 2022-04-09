@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '746'
+origen: Jeneral
+versions:
+-   accented: montanya
+    ladino: montanya
+    translations:
+        english: mountain
+        french: ''
+        portuguese: ''
+        spanish: montaña
+        turkish: dag

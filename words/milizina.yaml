@@ -1,0 +1,19 @@
+examples: []
+grammar: null
+id: '1417'
+origen: Jeneral
+versions:
+-   accented: milizina
+    ladino: milizina
+    translations:
+        english:
+        - medicine
+        - remedy
+        french: ''
+        portuguese: ''
+        spanish:
+        - medicina
+        - remedio
+        turkish:
+        - ilaç
+        - deva

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '725'
+origen: Jeneral
+versions:
+-   accented: merseriya
+    ladino: merseriya
+    translations:
+        english: haberdashery
+        french: ''
+        portuguese: ''
+        spanish: mercería
+        turkish: tuhafiye

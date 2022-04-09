@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '736'
+origen: Jeneral
+versions:
+-   accented: mirar
+    ladino: mirar
+    translations:
+        english: look
+        french: ''
+        portuguese: ''
+        spanish: mirar
+        turkish: bakmak

@@ -1,0 +1,18 @@
+examples: []
+grammar: null
+id: '721'
+origen: Jeneral
+versions:
+-   accented: merendar
+    alternative-spelling:
+    -   accented: piknikar
+        ladino: piknikar
+    ladino: merendar
+    translations:
+        english:
+        - lunch
+        - picnic
+        french: ''
+        portuguese: ''
+        spanish: merendar
+        turkish: öğle/piknik yemeği yemek

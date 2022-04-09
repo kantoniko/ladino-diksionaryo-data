@@ -1,0 +1,17 @@
+examples: []
+grammar: null
+id: '760'
+origen: Estanbol
+versions:
+-   accented: musafir
+    ladino: musafir
+    translations:
+        english: guest
+        french: ''
+        portuguese: ''
+        spanish:
+        - huésped
+        - convidado
+        turkish:
+        - misafir
+        - konuk

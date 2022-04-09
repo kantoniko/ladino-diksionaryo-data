@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '734'
+origen: Jeneral
+versions:
+-   accented: milyon
+    ladino: milyon
+    translations:
+        english: million
+        french: ''
+        portuguese: ''
+        spanish: millón
+        turkish: milyon

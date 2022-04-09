@@ -1,0 +1,16 @@
+examples: []
+grammar: null
+id: '737'
+origen: Jeneral
+versions:
+-   accented: mismo
+    alternative-spelling:
+    -   accented: a
+        ladino: a
+    ladino: mismo
+    translations:
+        english: same
+        french: ''
+        portuguese: ''
+        spanish: mismo / a
+        turkish: aynı

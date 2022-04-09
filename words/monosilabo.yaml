@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '745'
+origen: Jeneral
+versions:
+-   accented: monosilabo
+    ladino: monosilabo
+    translations:
+        english: monosyllable
+        french: ''
+        portuguese: ''
+        spanish: monosílabo
+        turkish: tek heceli kelime

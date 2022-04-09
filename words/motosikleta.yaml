@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '750'
+origen: Jeneral
+versions:
+-   accented: motosikleta
+    ladino: motosikleta
+    translations:
+        english: motorcycle
+        french: ''
+        portuguese: ''
+        spanish: motocicleta
+        turkish: motosiklet

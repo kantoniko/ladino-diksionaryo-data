@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '1423'
+origen: Jeneral
+versions:
+-   accented: mundo
+    ladino: mundo
+    translations:
+        english: world
+        french: ''
+        portuguese: ''
+        spanish: mundo
+        turkish: dünya

@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '729'
+origen: Jeneral
+versions:
+-   accented: mez
+    ladino: mez
+    translations:
+        english: month
+        french: ''
+        portuguese: ''
+        spanish: mes
+        turkish: ay

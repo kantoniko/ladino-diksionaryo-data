@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '758'
+origen: Jeneral
+versions:
+-   accented: Munisipalidad
+    ladino: Munisipalidad
+    translations:
+        english: Municipality
+        french: ''
+        portuguese: ''
+        spanish: Ayuntamiento
+        turkish: Belediye

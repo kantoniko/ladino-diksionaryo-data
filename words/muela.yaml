@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '752'
+origen: Jeneral
+versions:
+-   accented: muela
+    ladino: muela
+    translations:
+        english: molar tooth
+        french: ''
+        portuguese: ''
+        spanish: muela
+        turkish: azı dişi

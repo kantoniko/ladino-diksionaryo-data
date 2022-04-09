@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '730'
+origen: Jeneral
+versions:
+-   accented: meza
+    ladino: meza
+    translations:
+        english: table
+        french: ''
+        portuguese: ''
+        spanish: mesa
+        turkish: masa

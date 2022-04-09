@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '755'
+origen: Jeneral
+versions:
+-   accented: muncho
+    ladino: muncho
+    translations:
+        english: much
+        french: ''
+        portuguese: ''
+        spanish: mucho
+        turkish: çok

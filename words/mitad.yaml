@@ -1,0 +1,15 @@
+examples: []
+grammar: null
+id: '738'
+origen: Jeneral
+versions:
+-   accented: mitad
+    ladino: mitad
+    translations:
+        english: half
+        french: ''
+        portuguese: ''
+        spanish: mitad
+        turkish:
+        - yarı
+        - yarısı

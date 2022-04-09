@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '735'
+origen: Jeneral
+versions:
+-   accented: minimum
+    ladino: minimum
+    translations:
+        english: minimum
+        french: ''
+        portuguese: ''
+        spanish: mínimo
+        turkish: asgarî

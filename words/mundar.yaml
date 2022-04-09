@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '756'
+origen: Jeneral
+versions:
+-   accented: mundar
+    ladino: mundar
+    translations:
+        english: peel
+        french: ''
+        portuguese: ''
+        spanish: pelar
+        turkish: soymak

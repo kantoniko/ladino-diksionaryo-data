@@ -1,0 +1,13 @@
+examples: []
+grammar: null
+id: '739'
+origen: Jeneral
+versions:
+-   accented: moble
+    ladino: moble
+    translations:
+        english: furniture
+        french: ''
+        portuguese: ''
+        spanish: mueble
+        turkish: mobilya
