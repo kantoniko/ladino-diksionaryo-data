@@ -1,0 +1,20 @@
+examples:
+-   ladino: Esta sonriendo kon su dulsor abitual.
+grammar: adjective
+id: '30'
+origen: Jeneral
+versions:
+-   accented: abituál
+    ladino: abitual
+    translations:
+        english:
+        - usual
+        - habitual
+        french: habituel
+        portuguese: habitual
+        spanish:
+        - habitual
+        - normal
+        turkish:
+        - alışılagelmiş
+        - sürekli
