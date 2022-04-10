@@ -1,16 +1,31 @@
-examples: []
 grammar: null
 id: '134'
 origen: Jeneral
+
 versions:
--   accented: atomiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: atomiko
+  - ladino: atomiko
+    accented: atomiko
+    gender: masculine
+    number: singular
+
     translations:
         english: atomic
         french: ''
         portuguese: ''
-        spanish: atómico / a
+        spanish: atómico
         turkish: atomik
+
+  - ladino: atomika
+    accented: atomika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: atomic
+        french: ''
+        portuguese: ''
+        spanish: atómica
+        turkish: atomik
+
+
+examples: []
