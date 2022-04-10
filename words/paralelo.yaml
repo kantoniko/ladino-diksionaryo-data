@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '823'
 origen: Jeneral
+
 versions:
--   accented: paralelo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: paralelo
+  - ladino: paralelo
+    accented: paralelo
+    gender: masculine
+    number: singular
+
     translations:
         english: parallel
         french: ''
         portuguese: ''
-        spanish: paralelo / a
+        spanish: paralelo
         turkish: paralel
+
+  - ladino: paralela
+    accented: paralela
+    gender: feminine
+    number: singular
+
+    translations:
+        english: parallel
+        french: ''
+        portuguese: ''
+        spanish: paralela
+        turkish: paralel
+
+  - ladino: paralelos
+    accented: paralelos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: parallels
+        french: ''
+        portuguese: ''
+        spanish: paralelos
+        turkish: ''
+
+  - ladino: paralelas
+    accented: paralelas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: parallels
+        french: ''
+        portuguese: ''
+        spanish: paralelas
+        turkish: ''
+
+examples: []
