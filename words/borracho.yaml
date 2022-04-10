@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '190'
 origen: Jeneral
 versions:
--   accented: borracho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: borracho
+  - ladino: borracho
+    accented: borracho
+    gender: masculine
+    number: singular
+
     translations:
         english: drunk
         french: ''
         portuguese: ''
-        spanish: borracho / a
+        spanish: borracho
         turkish: sarhoş
+
+  - ladino: borracha
+    accented: borracha
+    gender: feminine
+    number: singular
+
+    translations:
+        english: drunk
+        french: ''
+        portuguese: ''
+        spanish: borracha
+        turkish: sarhoş
+
+  - ladino: borrachos
+    accented: borrachos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: drunks
+        french: ''
+        portuguese: ''
+        spanish: borrachos
+        turkish: sarhoş
+
+  - ladino: borrachas
+    accented: borrachas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: drunks
+        french: ''
+        portuguese: ''
+        spanish: borrachas
+        turkish: sarhoş
+
+
+examples: []

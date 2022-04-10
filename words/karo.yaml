@@ -1,20 +1,71 @@
-examples: []
 grammar: null
 id: '534'
 origen: Jeneral
+
 versions:
--   accented: karo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: karo
+  - ladino: karo
+    accented: karo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - dear
         - expensive
         french: ''
         portuguese: ''
-        spanish: caro / a
+        spanish: caro
         turkish:
         - değerli
         - pahalı
+
+  - ladino: kara
+    accented: kara
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - dear
+        - expensive
+        french: ''
+        portuguese: ''
+        spanish: cara
+        turkish:
+        - değerli
+        - pahalı
+
+  - ladino: karos
+    accented: karos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - dear
+        - expensive
+        french: ''
+        portuguese: ''
+        spanish: caros
+        turkish:
+        - değerli
+        - pahalı
+
+  - ladino: karas
+    accented: karas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - dear
+        - expensive
+        french: ''
+        portuguese: ''
+        spanish: caras
+        turkish:
+        - değerli
+        - pahalı
+
+
+examples: []
