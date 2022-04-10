@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '1261'
 origen: Jeneral
+
 versions:
--   accented: defunkto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: defunkto
+  - ladino: defunkto
+    accented: defunkto
+    gender: masculine
+    number: singular
+
     translations:
         english: deceased
         french: ''
         portuguese: ''
-        spanish: difunto / a
+        spanish: difunto
         turkish:
         - rahmetli
         - ölü
+
+  - ladino: defunkta
+    accented: defunkta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: deceased
+        french: ''
+        portuguese: ''
+        spanish: difunta
+        turkish:
+        - rahmetli
+        - ölü
+
+  - ladino: defunktos
+    accented: defunktos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: deceased
+        french: ''
+        portuguese: ''
+        spanish: difuntos
+        turkish:
+        - rahmetli
+        - ölü
+
+  - ladino: defunktas
+    accented: defunktas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: deceased
+        french: ''
+        portuguese: ''
+        spanish: difuntas
+        turkish:
+        - rahmetli
+        - ölü
+
+
+examples: []

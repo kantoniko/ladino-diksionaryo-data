@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1971'
 origen: Jeneral
 versions:
--   accented: maldicho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: maldicho
+  - ladino: maldicho
+    accented: maldicho
+    gender: masculine
+    number: singular
+
     translations:
         english: damned
         french: ''
         portuguese: ''
-        spanish: maldito / a
+        spanish: maldito
         turkish: lânetli
+
+  - ladino: maldicha
+    accented: maldicha
+    gender: feminine
+    number: singular
+
+    translations:
+        english: damned
+        french: ''
+        portuguese: ''
+        spanish: maldita
+        turkish: lânetli
+
+  - ladino: maldichos
+    accented: maldichos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: damned
+        french: ''
+        portuguese: ''
+        spanish: malditos
+        turkish: lânetli
+
+  - ladino: maldichas
+    accented: maldichas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: damned
+        french: ''
+        portuguese: ''
+        spanish: malditas
+        turkish: lânetli
+
+
+examples: []

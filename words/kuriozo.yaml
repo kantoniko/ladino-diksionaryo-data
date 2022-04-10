@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '651'
 origen: Jeneral
+
 versions:
--   accented: kuriozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kuriozo
+  - ladino: kuriozo
+    accented: kuriozo
+    gender: masculine
+    number: singular
+
     translations:
         english: curious
         french: ''
         portuguese: ''
-        spanish: curioso / a
+        spanish: curioso
         turkish: meraklı
+
+  - ladino: kurioza
+    accented: kurioza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: curious
+        french: ''
+        portuguese: ''
+        spanish: curiosa
+        turkish: meraklı
+
+  - ladino: kuriozos
+    accented: kuriozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: curiouses
+        french: ''
+        portuguese: ''
+        spanish: curiosos
+        turkish: meraklı
+
+  - ladino: kuriozas
+    accented: kuriozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: curiouses
+        french: ''
+        portuguese: ''
+        spanish: curiosas
+        turkish: meraklı
+
+
+examples: []

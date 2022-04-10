@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '621'
 origen: Jeneral
+
 versions:
--   accented: kotidiano
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kotidiano
+  - ladino: kotidiano
+    accented: kotidiano
+    gender: masculine
+    number: singular
+
     translations:
         english: daily
         french: ''
         portuguese: ''
-        spanish: cotidiano / a
+        spanish: cotidiano
         turkish:
         - gündelik
         - günlük
+
+  - ladino: kotidiana
+    accented: kotidiana
+    gender: feminine
+    number: singular
+
+    translations:
+        english: daily
+        french: ''
+        portuguese: ''
+        spanish: cotidiana
+        turkish:
+        - gündelik
+        - günlük
+
+  - ladino: kotidianos
+    accented: kotidianos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: daily
+        french: ''
+        portuguese: ''
+        spanish: cotidianos
+        turkish:
+        - gündelik
+        - günlük
+
+  - ladino: kotidianas
+    accented: kotidianas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: daily
+        french: ''
+        portuguese: ''
+        spanish: cotidianas
+        turkish:
+        - gündelik
+        - günlük
+
+
+examples: []
