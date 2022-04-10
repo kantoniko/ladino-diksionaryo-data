@@ -1,16 +1,57 @@
-examples: []
 grammar: null
 id: '569'
 origen: Jeneral
+
 versions:
--   accented: kinezo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kinezo
+  - ladino: kinezo
+    accented: kinezo
+    gender: masculine
+    number: singular
+
+    translations:
+        english: Chinese
+        french: ''
+        hebrew: סיני
+        portuguese: ''
+        spanish: chino
+        turkish: çinli
+
+  - ladino: kineza
+    accented: kineza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Chinese
+        french: ''
+        hebrew: סינית
+        portuguese: ''
+        spanish: china
+        turkish: çinli
+
+  - ladino: kinezos
+    accented: kinezos
+    gender: masculine
+    number: plural
+
     translations:
         english: Chinese
         french: ''
         portuguese: ''
-        spanish: chino / a
-        turkish: çinli
+        spanish: chinos
+        turkish: ''
+
+  - ladino: kinezas
+    accented: kinezas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: Chinese
+        french: ''
+        portuguese: ''
+        spanish: chinas
+        turkish: ''
+
+examples: []
+
