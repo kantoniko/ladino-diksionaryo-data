@@ -1,10 +1,11 @@
-examples: []
 grammar: null
 id: '990'
 origen: Jeneral
+
 versions:
--   accented: serka
-    ladino: serka
+  - ladino: serka
+    accented: serka
+
     translations:
         english:
         - near
@@ -15,3 +16,5 @@ versions:
         - cerca
         - próxima
         turkish: yakın
+
+examples: []

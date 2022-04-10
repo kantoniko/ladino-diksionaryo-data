@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1901'
 origen: Jeneral
+
 versions:
--   accented: kolego
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kolego
+  - ladino: kolego
+    accented: kolego
+    gender: masculine
+    number: singular
+
     translations:
         english: colleague
         french: ''
         portuguese: ''
         spanish: colega
         turkish: meslektaş
+
+  - ladino: kolega
+    accented: kolega
+    gender: feminine
+    number: singular
+
+    translations:
+        english: colleague
+        french: ''
+        portuguese: ''
+        spanish: colega
+        turkish: meslektaş
+
+  - ladino: kolegos
+    accented: kolegos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: colleagues
+        french: ''
+        portuguese: ''
+        spanish: colegas
+        turkish: meslektaş
+
+  - ladino: kolegas
+    accented: kolegas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: colleagues
+        french: ''
+        portuguese: ''
+        spanish: colegas
+        turkish: meslektaş
+
+
+examples: []

@@ -1,18 +1,64 @@
-examples: []
 grammar: null
 id: '992'
 origen: Jeneral
+
 versions:
--   accented: serkano
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: serkano
+  - ladino: serkano
+    accented: serkano
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - near
         - close
         french: ''
         portuguese: ''
-        spanish: cercano / a
+        spanish: cercano
         turkish: yakın
+
+  - ladino: serkana
+    accented: serkana
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - near
+        - close
+        french: ''
+        portuguese: ''
+        spanish: cercana
+        turkish: yakın
+
+  - ladino: serkanos
+    accented: serkanos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - near
+        - close
+        french: ''
+        portuguese: ''
+        spanish: cercanos
+        turkish: yakın
+
+  - ladino: serkanas
+    accented: serkanas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - near
+        - close
+        french: ''
+        portuguese: ''
+        spanish: cercanas
+        turkish: yakın
+
+
+
+examples: []

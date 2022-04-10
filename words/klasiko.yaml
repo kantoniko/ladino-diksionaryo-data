@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '573'
 origen: Jeneral
+
 versions:
--   accented: klasiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: klasiko
+  - ladino: klasiko
+    accented: klasiko
+    gender: masculine
+    number: singular
+
     translations:
         english: classic
         french: ''
         portuguese: ''
-        spanish: clásico / a
+        spanish: clásico
         turkish: klasik
+
+  - ladino: klasika
+    accented: klasika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: classic
+        french: ''
+        portuguese: ''
+        spanish: clásica
+        turkish: klasik
+
+  - ladino: klasikos
+    accented: klasikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: classics
+        french: ''
+        portuguese: ''
+        spanish: clásicos
+        turkish: klasik
+
+  - ladino: klasikas
+    accented: klasikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: classics
+        french: ''
+        portuguese: ''
+        spanish: clásicas
+        turkish: klasik
+
+
+
+examples: []
