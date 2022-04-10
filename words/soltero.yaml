@@ -1,16 +1,20 @@
-examples: []
 grammar: null
 id: '1034'
 origen: Jeneral
+
 versions:
--   accented: soltero
+  - ladino: soltero
+    accented: soltero
+
     alternative-spelling:
-    -   accented: muchacho
-        ladino: muchacho
-    ladino: soltero
+      - ladino: muchacho
+        accented: muchacho
+
     translations:
         english: bachelor
         french: ''
         portuguese: ''
         spanish: soltero
         turkish: bekâr
+
+examples: []

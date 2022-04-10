@@ -1,13 +1,14 @@
-comments:
-- 'grammar: a el) (prep.'
-examples:
--   ladino: Kere amostrar su mujer al mundo entero.
-grammar: null
+grammar: preposition
 id: '2377'
 origen: Jeneral
+
+comments:
+  - 'al = a el'
+
 versions:
--   accented: al
-    ladino: al
+  - ladino: al
+    accented: al
+
     translations:
         english:
         - at
@@ -20,3 +21,7 @@ versions:
         - e
         - ya
         - ye
+
+examples:
+  - ladino: Kere amostrar su mujer al mundo entero.
+

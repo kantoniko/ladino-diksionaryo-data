@@ -1,16 +1,31 @@
-examples: []
 grammar: null
 id: '129'
 origen: Jeneral
+
 versions:
--   accented: astronomiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: astronomiko
+  - ladino: astronomiko
+    accented: astronomiko
+    gender: masculine
+    number: singular
+
     translations:
         english: astronomical
         french: ''
         portuguese: ''
-        spanish: astronómico / a
+        spanish: astronómico
         turkish: astronomik
+
+  - ladino: astronomika
+    accented: astronomika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: astronomical
+        french: ''
+        portuguese: ''
+        spanish: astronómica
+        turkish: astronomik
+
+
+examples: []

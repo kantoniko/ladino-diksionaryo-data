@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '262'
 origen: Jeneral
+
 versions:
--   accented: diplomado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: diplomado
+  - ladino: diplomado
+    accented: diplomado
+    gender: masculine
+    number: singular
+
     translations:
         english: bachelor (degree)
         french: ''
         portuguese: ''
-        spanish: bachillerato / a
+        spanish: bachillerato
         turkish: mezun
+
+  - ladino: diplomada
+    accented: diplomada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: bachelor (degree)
+        french: ''
+        portuguese: ''
+        spanish: bachillerata
+        turkish: mezun
+
+  - ladino: diplomados
+    accented: diplomados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: bachelor (degree)
+        french: ''
+        portuguese: ''
+        spanish: bachilleratos
+        turkish: ''
+
+  - ladino: diplomadas
+    accented: diplomadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: bachelor (degree)
+        french: ''
+        portuguese: ''
+        spanish: bachilleratas
+        turkish: ''
+
+
+
+examples: []
