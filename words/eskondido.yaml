@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '358'
 origen: Jeneral
+
 versions:
--   accented: eskondido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: eskondido
+  - ladino: eskondido
+    accented: eskondido
+    gender: masculine
+    number: singular
+
     translations:
         english: hidden
         french: ''
         portuguese: ''
-        spanish: escondido / a
+        spanish: escondido
         turkish: saklı
+
+  - ladino: eskondida
+    accented: eskondida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: hidden
+        french: ''
+        portuguese: ''
+        spanish: escondida
+        turkish: saklı
+
+  - ladino: eskondidos
+    accented: eskondidos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hidden
+        french: ''
+        portuguese: ''
+        spanish: escondidos
+        turkish: ''
+
+  - ladino: eskondidas
+    accented: eskondidas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: hidden
+        french: ''
+        portuguese: ''
+        spanish: escondidas
+        turkish: ''
+
+examples: []
