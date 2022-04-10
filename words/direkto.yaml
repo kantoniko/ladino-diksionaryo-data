@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1722'
 origen: Jeneral
 versions:
--   accented: direkto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: direkto
+  - ladino: direkto
+    accented: direkto
+    gender: masculine
+    number: singular
+
     translations:
         english: direct
         french: ''
         portuguese: ''
-        spanish: directo / a
+        spanish: directo
         turkish: dosdoğru
+
+  - ladino: direkta
+    accented: direkta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: direct
+        french: ''
+        portuguese: ''
+        spanish: directa
+        turkish: dosdoğru
+
+  - ladino: direktos
+    accented: direktos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: direct
+        french: ''
+        portuguese: ''
+        spanish: directos
+        turkish: dosdoğru
+
+  - ladino: direktas
+    accented: direktas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: direct
+        french: ''
+        portuguese: ''
+        spanish: directas
+        turkish: dosdoğru
+
+
+examples: []

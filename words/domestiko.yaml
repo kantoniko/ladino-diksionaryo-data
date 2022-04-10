@@ -1,21 +1,72 @@
-examples:
--   ladino: 'Los programas inkluyen volos domestikos en Argentina. '
 grammar: adjective
 id: '276'
 origen: Jeneral
+
 versions:
--   accented: doméstiko
+  - ladino: domestiko
+    accented: doméstiko
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    -   accented: de kaza
-        ladino: de kaza
-    ladino: domestiko
+      - ladino: de kaza
+        accented: de kaza
+
     translations:
         english: domestic
         french: domestique
         portuguese: ''
-        spanish: domestico / a
+        spanish: domestico
         turkish:
         - evle ilgili
         - evcil
+
+  - ladino: domestika
+    accented: doméstika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: domestic
+        french: domestique
+        portuguese: ''
+        spanish: domestica
+        turkish:
+        - evle ilgili
+        - evcil
+
+  - ladino: domestikos
+    accented: doméstikos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: de kaza
+        accented: de kaza
+
+    translations:
+        english: domestic
+        french: domestique
+        portuguese: ''
+        spanish: domesticos
+        turkish:
+        - evle ilgili
+        - evcil
+
+  - ladino: domestikas
+    accented: doméstikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: domestic
+        french: domestique
+        portuguese: ''
+        spanish: domesticas
+        turkish:
+        - evle ilgili
+        - evcil
+
+
+examples:
+  - ladino: 'Los programas inkluyen volos domestikos en Argentina. '

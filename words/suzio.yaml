@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '1512'
 origen: Jeneral
+
 versions:
--   accented: suzio
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: suzio
+  - ladino: suzio
+    accented: suzio
+    gender: masculine
+    number: singular
+
     translations:
         english: dirty
         french: ''
         portuguese: ''
-        spanish: sucio / a
+        spanish: sucio
         turkish: pis
+
+  - ladino: suzia
+    accented: suzia
+    gender: feminine
+    number: singular
+
+    translations:
+        english: dirty
+        french: ''
+        portuguese: ''
+        spanish: sucia
+        turkish: pis
+
+  - ladino: suzios
+    accented: suzios
+    gender: masculine
+    number: plural
+
+    translations:
+        english: dirty
+        french: ''
+        portuguese: ''
+        spanish: sucios
+        turkish: pis
+
+  - ladino: suzias
+    accented: suzias
+    gender: feminine
+    number: plural
+
+    translations:
+        english: dirty
+        french: ''
+        portuguese: ''
+        spanish: sucias
+        turkish: pis
+
+
+examples: []
+

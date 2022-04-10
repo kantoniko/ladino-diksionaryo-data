@@ -1,16 +1,31 @@
-examples: []
 grammar: null
 id: '248'
 origen: Jeneral
+
 versions:
--   accented: desordenado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: desordenado
+  - ladino: desordenado
+    accented: desordenado
+    gender: masculine
+    number: singular
+
     translations:
         english: disorderly
         french: ''
         portuguese: ''
-        spanish: desordenado / a
+        spanish: desordenado
         turkish: düzensiz
+
+  - ladino: desordenada
+    accented: desordenada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: disorderly
+        french: ''
+        portuguese: ''
+        spanish: desordenada
+        turkish: düzensiz
+
+
+examples: []

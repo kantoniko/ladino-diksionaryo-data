@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '258'
 origen: Jeneral
+
 versions:
--   accented: dientisto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: dientisto
+  - ladino: dientisto
+    accented: dientisto
+    gender: masculine
+    number: singular
+
     translations:
         english: dentist
         french: ''
         portuguese: ''
         spanish: dentista
         turkish: dişçi
+
+  - ladino: dientista
+    accented: dientista
+    gender: feminine
+    number: singular
+
+    translations:
+        english: dentist
+        french: ''
+        portuguese: ''
+        spanish: dentista
+        turkish: dişçi
+
+  - ladino: dientistos
+    accented: dientistos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: dentists
+        french: ''
+        portuguese: ''
+        spanish: dentistas
+        turkish: dişçi
+
+  - ladino: dientistas
+    accented: dientistas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: dentists
+        french: ''
+        portuguese: ''
+        spanish: dentistas
+        turkish: dişçi
+
+
+examples: []
