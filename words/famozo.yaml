@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '401'
 origen: Jeneral
+
 versions:
--   accented: famozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: famozo
+  - ladino: famozo
+    accented: famozo
+    gender: masculine
+    number: singular
+
     translations:
         english: famous
         french: ''
         portuguese: ''
-        spanish: famoso / a
+        spanish: famoso
         turkish: ünlü
+
+  - ladino: famoza
+    accented: famoza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: famous
+        french: ''
+        portuguese: ''
+        spanish: famosa
+        turkish: ünlü
+
+  - ladino: famozos
+    accented: famozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: famous
+        french: ''
+        portuguese: ''
+        spanish: famosos
+        turkish: ünlü
+
+  - ladino: famozas
+    accented: famozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: famous
+        french: ''
+        portuguese: ''
+        spanish: famosas
+        turkish: ünlü
+
+
+
+examples: []

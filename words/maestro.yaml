@@ -1,20 +1,70 @@
-examples: []
 grammar: null
 id: '686'
 origen: Jeneral
 versions:
--   accented: maestro
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: maestro
+  - ladino: maestro
+    accented: maestro
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - teacher
         - master
         french: ''
         portuguese: ''
-        spanish: maestro / a
+        spanish: maestro
         turkish:
         - öğretmen
         - usta
+
+  - ladino: maestra
+    accented: maestra
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - teacher
+        - master
+        french: ''
+        portuguese: ''
+        spanish: maestra
+        turkish:
+        - öğretmen
+        - usta
+
+  - ladino: maestros
+    accented: maestros
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - teachers
+        - masters
+        french: ''
+        portuguese: ''
+        spanish: maestros
+        turkish:
+        - öğretmen
+        - usta
+
+  - ladino: maestras
+    accented: maestras
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - teachers
+        - masters
+        french: ''
+        portuguese: ''
+        spanish: maestras
+        turkish:
+        - öğretmen
+        - usta
+
+
+examples: []
