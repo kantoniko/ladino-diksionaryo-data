@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '430'
 origen: Jeneral
+
 versions:
--   accented: floristo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: floristo
+  - ladino: floristo
+    accented: floristo
+    gender: masculine
+    number: singular
+
     translations:
         english: florist
         french: ''
         portuguese: ''
         spanish: florista
         turkish: çiçekçi
+
+  - ladino: florista
+    accented: florista
+    gender: feminine
+    number: singular
+
+    translations:
+        english: florist
+        french: ''
+        portuguese: ''
+        spanish: florista
+        turkish: çiçekçi
+
+  - ladino: floristos
+    accented: floristos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: florists
+        french: ''
+        portuguese: ''
+        spanish: floristas
+        turkish: çiçekçi
+
+  - ladino: floristas
+    accented: floristas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: florists
+        french: ''
+        portuguese: ''
+        spanish: floristas
+        turkish: çiçekçi
+
+examples: []

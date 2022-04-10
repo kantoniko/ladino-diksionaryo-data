@@ -1,20 +1,71 @@
-examples: []
 grammar: null
 id: '1631'
 origen: Jeneral
+
 versions:
--   accented: arto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: arto
+  - ladino: arto
+    accented: arto
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - full
         - fed up
         french: ''
         portuguese: ''
-        spanish: harto / a
+        spanish: harto
         turkish:
         - tok
         - bıkkın
+
+  - ladino: arta
+    accented: arta
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - full
+        - fed up
+        french: ''
+        portuguese: ''
+        spanish: harta
+        turkish:
+        - tok
+        - bıkkın
+
+  - ladino: artos
+    accented: artos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - full
+        - fed up
+        french: ''
+        portuguese: ''
+        spanish: hartos
+        turkish:
+        - tok
+        - bıkkın
+
+  - ladino: artas
+    accented: artas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - full
+        - fed up
+        french: ''
+        portuguese: ''
+        spanish: hartas
+        turkish:
+        - tok
+        - bıkkın
+
+
+examples: []

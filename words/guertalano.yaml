@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '469'
 origen: Jeneral
+
 versions:
--   accented: guertalano
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: guertalano
+  - ladino: guertalano
+    accented: guertalano
+    gender: masculine
+    number: singular
+
     translations:
         english: gardener
         french: ''
         portuguese: ''
-        spanish: hortelano / a
+        spanish: hortelano
         turkish:
         - bostancı
         - ziraatçi
+
+  - ladino: guertalana
+    accented: guertalana
+    gender: feminine
+    number: singular
+
+    translations:
+        english: gardener
+        french: ''
+        portuguese: ''
+        spanish: hortelana
+        turkish:
+        - bostancı
+        - ziraatçi
+
+  - ladino: guertalanos
+    accented: guertalanos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: gardeners
+        french: ''
+        portuguese: ''
+        spanish: hortelanos
+        turkish:
+        - bostancı
+        - ziraatçi
+
+  - ladino: guertalanas
+    accented: guertalanas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: gardeners
+        french: ''
+        portuguese: ''
+        spanish: hortelanas
+        turkish:
+        - bostancı
+        - ziraatçi
+
+
+examples: []

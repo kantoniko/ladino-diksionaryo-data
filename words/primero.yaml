@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '2104'
 origen: Jeneral
+
 versions:
--   accented: primero
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: primero
+  - ladino: primero
+    accented: primero
+    gender: masculine
+    number: singular
+
     translations:
         english: first
         french: ''
         portuguese: ''
-        spanish: primero / a
+        spanish: primero
         turkish: birinci
+
+  - ladino: primera
+    accented: primera
+    gender: feminine
+    number: singular
+
+    translations:
+        english: first
+        french: ''
+        portuguese: ''
+        spanish: primera
+        turkish: birinci
+
+  - ladino: primeros
+    accented: primeros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: first
+        french: ''
+        portuguese: ''
+        spanish: primeros
+        turkish: birinci
+
+  - ladino: primeras
+    accented: primeras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: first
+        french: ''
+        portuguese: ''
+        spanish: primeras
+        turkish: birinci
+
+
+examples: []
