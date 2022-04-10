@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1725'
 origen: Jeneral
+
 versions:
--   accented: distraido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: distraido
+  - ladino: distraido
+    accented: distraido
+    gender: masculine
+    number: singular
+
     translations:
         english: absent-minded
         french: ''
         portuguese: ''
-        spanish: despistado / a
+        spanish: despistado
         turkish: dalgın
+
+  - ladino: distraida
+    accented: distraida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: absent-minded
+        french: ''
+        portuguese: ''
+        spanish: despistada
+        turkish: dalgın
+
+  - ladino: distraidos
+    accented: distraidos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: absent-minded
+        french: ''
+        portuguese: ''
+        spanish: despistados
+        turkish: ''
+
+  - ladino: distraidas
+    accented: distraidas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: absent-minded
+        french: ''
+        portuguese: ''
+        spanish: despistadas
+        turkish: ''
+
+examples: []
