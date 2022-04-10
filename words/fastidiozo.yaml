@@ -1,16 +1,43 @@
-examples: []
 grammar: null
 id: '1816'
 origen: Jeneral
+
 versions:
--   accented: fastidiozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: fastidiozo
+  - ladino: fastidiozo
+    accented: fastidiozo
+    gender: masculine
+    number: singular
+
     translations:
         english: annoying
         french: ''
         portuguese: ''
-        spanish: fastidioso / a
+        spanish: fastidioso
         turkish: usandırıcı
+
+  - ladino: fastidioza
+    accented: fastidioza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: annoying
+        french: ''
+        portuguese: ''
+        spanish: fastidiosa
+        turkish: usandırıcı
+
+
+  - ladino: fastidiozas
+    accented: fastidiozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: annoying
+        french: ''
+        portuguese: ''
+        spanish: fastidiosas
+        turkish: ''
+
+examples: []
