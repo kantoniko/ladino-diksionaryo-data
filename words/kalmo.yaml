@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '516'
 origen: Jeneral
+
 versions:
--   accented: kalmo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kalmo
+  - ladino: kalmo
+    accented: kalmo
+    gender: masculine
+    number: singular
+
     translations:
         english: calm
         french: ''
@@ -16,5 +16,45 @@ versions:
         turkish:
         - sakin
         - rahat
+
+  - ladino: kalma
+    accented: kalma
+    gender: feminine
+    number: singular
+
+    translations:
+        english: calm
+        french: ''
+        portuguese: ''
+        spanish: tranquila
+        turkish:
+        - sakin
+        - rahat
+
+  - ladino: kalmos
+    accented: kalmos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: calm
+        french: ''
+        portuguese: ''
+        spanish: tranquilos
+        turkish: ''
+
+  - ladino: kalmas
+    accented: kalmas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: calm
+        french: ''
+        portuguese: ''
+        spanish: tranquilas
+        turkish: ''
+
+examples: []
 
 # "kalmo, arrepozado",,quieto,"quiet, calm","sessiz, sakin",Jeneral,1876,,
