@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1920'
 origen: Jeneral
 versions:
--   accented: konfuzo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: konfuzo
+  - ladino: konfuzo
+    accented: konfuzo
+    gender: masculine
+    number: singular
+
     translations:
         english: confused
         french: ''
         portuguese: ''
-        spanish: confuso / a
+        spanish: confuso
         turkish: karışik
+
+  - ladino: konfuza
+    accented: konfuza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: confused
+        french: ''
+        portuguese: ''
+        spanish: confusa
+        turkish: karışik
+
+  - ladino: konfuzos
+    accented: konfuzos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: confused
+        french: ''
+        portuguese: ''
+        spanish: confusos
+        turkish: karışik
+
+  - ladino: konfuzas
+    accented: konfuzas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: confused
+        french: ''
+        portuguese: ''
+        spanish: confusas
+        turkish: karışik
+
+
+examples: []

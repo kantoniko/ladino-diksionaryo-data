@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1463'
 origen: Jeneral
+
 versions:
--   accented: primo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: primo
+  - ladino: primo
+    accented: primo
+    gender: masculine
+    number: singular
+
     translations:
         english: cousin
         french: ''
         portuguese: ''
-        spanish: primo / a
+        spanish: primo
         turkish: kuzen
+
+  - ladino: prima
+    accented: prima
+    gender: feminine
+    number: singular
+
+    translations:
+        english: cousin
+        french: ''
+        portuguese: ''
+        spanish: prima
+        turkish: kuzen
+
+  - ladino: primos
+    accented: primos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cousins
+        french: ''
+        portuguese: ''
+        spanish: primos
+        turkish: kuzen
+
+  - ladino: primas
+    accented: primas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cousins
+        french: ''
+        portuguese: ''
+        spanish: primas
+        turkish: kuzen
+
+
+examples: []

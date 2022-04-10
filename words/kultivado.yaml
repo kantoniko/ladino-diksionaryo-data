@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '642'
 origen: Jeneral
+
 versions:
--   accented: kultivado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kultivado
+  - ladino: kultivado
+    accented: kultivado
+    gender: masculine
+    number: singular
+
     translations:
         english: cultivated
         french: ''
         portuguese: ''
-        spanish: cultivado / a
+        spanish: cultivado
         turkish: kültürlü
+
+  - ladino: kultivada
+    accented: kultivada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: cultivated
+        french: ''
+        portuguese: ''
+        spanish: cultivada
+        turkish: kültürlü
+
+  - ladino: kultivados
+    accented: kultivados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cultivated
+        french: ''
+        portuguese: ''
+        spanish: cultivados
+        turkish: kültürlü
+
+  - ladino: kultivadas
+    accented: kultivadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cultivated
+        french: ''
+        portuguese: ''
+        spanish: cultivadas
+        turkish: kültürlü
+
+
+
+examples: []

@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '584'
 origen: Jeneral
+
 versions:
--   accented: kompetitivo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kompetitivo
+  - ladino: kompetitivo
+    accented: kompetitivo
+    gender: masculine
+    number: singular
+
     translations:
         english: competitive
         french: ''
         portuguese: ''
-        spanish: competitivo / a
+        spanish: competitivo
         turkish: rekabet edici
+
+  - ladino: kompetitiva
+    accented: kompetitiva
+    gender: feminine
+    number: singular
+
+    translations:
+        english: competitive
+        french: ''
+        portuguese: ''
+        spanish: competitiva
+        turkish: rekabet edici
+
+  - ladino: kompetitivos
+    accented: kompetitivos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: competitives
+        french: ''
+        portuguese: ''
+        spanish: competitivos
+        turkish: rekabet edici
+
+  - ladino: kompetitivas
+    accented: kompetitivas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: competitives
+        french: ''
+        portuguese: ''
+        spanish: competitivas
+        turkish: rekabet edici
+
+
+
+examples: []
