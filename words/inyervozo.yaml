@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '498'
 origen: Jeneral
+
 versions:
--   accented: inyervozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: inyervozo
+  - ladino: inyervozo
+    accented: inyervozo
+    gender: masculine
+    number: singular
+
     translations:
         english: nervous
         french: ''
         portuguese: ''
-        spanish: nervioso / a
+        spanish: nervioso
         turkish: sinirli
+
+  - ladino: inyervoza
+    accented: inyervoza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: nervous
+        french: ''
+        portuguese: ''
+        spanish: nerviosa
+        turkish: sinirli
+
+  - ladino: inyervozos
+    accented: inyervozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: nervous
+        french: ''
+        portuguese: ''
+        spanish: nerviosos
+        turkish: ''
+
+  - ladino: inyervozas
+    accented: inyervozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: nervous
+        french: ''
+        portuguese: ''
+        spanish: nerviosas
+        turkish: ''
+
+examples: []
