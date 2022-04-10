@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1644'
 origen: Jeneral
+
 versions:
--   accented: astronoto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: astronoto
+  - ladino: astronoto
+    accented: astronoto
+    gender: masculine
+    number: singular
+
     translations:
         english: astronaut
         french: ''
         portuguese: ''
         spanish: astronauta
         turkish: astronot
+
+  - ladino: astronota
+    accented: astronota
+    gender: feminine
+    number: singular
+
+    translations:
+        english: astronaut
+        french: ''
+        portuguese: ''
+        spanish: astronauta
+        turkish: astronot
+
+  - ladino: astronotos
+    accented: astronotos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: astronauts
+        french: ''
+        portuguese: ''
+        spanish: astronautas
+        turkish: ''
+
+  - ladino: astronotas
+    accented: astronotas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: astronauts
+        french: ''
+        portuguese: ''
+        spanish: astronautas
+        turkish: ''
+
+
+examples: []
