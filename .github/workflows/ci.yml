@@ -23,12 +23,6 @@ jobs:
         repository: 'szabgab/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
-    - name: Checkout LibreLingo-Judeo-Spanish-from-English
-      uses: actions/checkout@v2
-      with:
-        repository: 'szabgab/LibreLingo-Judeo-Spanish-from-English'
-        path: LibreLingo-Judeo-Spanish-from-English
-
     - name: Install dependencies
       run: |
           python -V
