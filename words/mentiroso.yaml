@@ -1,20 +1,71 @@
-examples: []
 grammar: null
 id: '718'
 origen: Jeneral
 versions:
--   accented: mentiroso
+  - ladino: mentiroso
+    accented: mentiroso
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    -   accented: mintirozo
-        ladino: mintirozo
-    -   accented: a
-        ladino: a
-    ladino: mentiroso
+      - ladino: mintirozo
+        accented: mintirozo
+
     translations:
         english: liar
         french: ''
         portuguese: ''
-        spanish: mentiroso / a
+        spanish: mentiroso
         turkish: yalancı
+
+  - ladino: mentirosa
+    accented: mentirosa
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: mintiroza
+        accented: mintiroza
+
+    translations:
+        english: liar
+        french: ''
+        portuguese: ''
+        spanish: mentirosa
+        turkish: yalancı
+
+  - ladino: mentirosos
+    accented: mentirosos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: mintirozos
+        accented: mintirozos
+
+    translations:
+        english: liars
+        french: ''
+        portuguese: ''
+        spanish: mentirosos
+        turkish: ''
+
+  - ladino: mentirosas
+    accented: mentirosas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: mintirozas
+        accented: mintirozas
+
+    translations:
+        english: liars
+        french: ''
+        portuguese: ''
+        spanish: mentirosas
+        turkish: ''
+
+
+
+examples: []
