@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '1646'
 origen: Jeneral
+
 versions:
--   accented: atudrido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: atudrido
+  - ladino: atudrido
+    accented: atudrido
+    gender: masculine
+    number: singular
+
     translations:
         english: thoughtless
         french: ''
         portuguese: ''
-        spanish: aturdido / a
+        spanish: aturdido
         turkish: şaşkın
+
+  - ladino: atudrida
+    accented: atudrida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: thoughtless
+        french: ''
+        portuguese: ''
+        spanish: aturdida
+        turkish: şaşkın
+
+  - ladino: atudridos
+    accented: atudridos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: thoughtless
+        french: ''
+        portuguese: ''
+        spanish: aturdidos
+        turkish: şaşkın
+
+  - ladino: atudridas
+    accented: atudridas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: thoughtless
+        french: ''
+        portuguese: ''
+        spanish: aturdidas
+        turkish: şaşkın
+
+
+
+examples: []

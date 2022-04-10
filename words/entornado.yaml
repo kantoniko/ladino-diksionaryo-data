@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '338'
 origen: Jeneral
+
 versions:
--   accented: entornado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: entornado
+  - ladino: entornado
+    accented: entornado
+    gender: masculine
+    number: singular
+
     translations:
         english: surrounded
         french: ''
         portuguese: ''
-        spanish: rodeado / a
+        spanish: rodeado
         turkish: çevrili
+
+  - ladino: entornada
+    accented: entornada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: surrounded
+        french: ''
+        portuguese: ''
+        spanish: rodeada
+        turkish: çevrili
+
+  - ladino: entornados
+    accented: entornados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: surrounded
+        french: ''
+        portuguese: ''
+        spanish: rodeados
+        turkish: çevrili
+
+  - ladino: entornadas
+    accented: entornadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: surrounded
+        french: ''
+        portuguese: ''
+        spanish: rodeadas
+        turkish: çevrili
+
+examples: []

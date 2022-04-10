@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1000'
 origen: Jeneral
+
 versions:
--   accented: shaten
-    ladino: shaten
+  - ladino: shaten
+    accented: shaten
     translations:
         english: chestnut-coloured
         french: ''
         portuguese: ''
-        spanish: castaño / a
+        spanish:
+          - castaño
+          - castaña
         turkish: kumral
+
+examples: []

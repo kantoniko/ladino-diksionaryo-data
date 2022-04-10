@@ -1,17 +1,56 @@
-examples:
--   ladino: Puede ser ke se sienten kansados.
 grammar: adjective
 id: '526'
 origen: Jeneral
+
 versions:
--   accented: kansado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kansado
+  - ladino: kansado
+    accented: kansado
+    gender: masculine
+    number: singular
+
     translations:
         english: tired
-        french: fatiguÃ©
+        french: ''
         portuguese: ''
-        spanish: cansado / a
+        spanish: cansado
         turkish: yorgun
+
+  - ladino: kansada
+    accented: kansada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: cansada
+        turkish: yorgun
+
+  - ladino: kansados
+    accented: kansados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: cansados
+        turkish: yorgun
+
+  - ladino: kansadas
+    accented: kansadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: cansadas
+        turkish: yorgun
+
+
+examples:
+  - ladino: Puede ser ke se sienten kansados.

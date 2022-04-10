@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1497'
 origen: Jeneral
+
 versions:
--   accented: savrozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: savrozo
+  - ladino: savrozo
+    accented: savrozo
+    gender: masculine
+    number: singular
+
     translations:
         english: tasty
         french: ''
         portuguese: ''
-        spanish: sabroso / a
+        spanish: sabroso
         turkish: lezzetli
+
+  - ladino: savroza
+    accented: savroza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: tasty
+        french: ''
+        portuguese: ''
+        spanish: sabrosa
+        turkish: lezzetli
+
+  - ladino: savrozos
+    accented: savrozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tasty
+        french: ''
+        portuguese: ''
+        spanish: sabrosos
+        turkish: lezzetli
+
+  - ladino: savrozas
+    accented: savrozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: tasty
+        french: ''
+        portuguese: ''
+        spanish: sabrosas
+        turkish: lezzetli
+
+
+examples: []
