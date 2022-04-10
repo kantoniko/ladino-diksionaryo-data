@@ -1,18 +1,58 @@
-examples: []
 grammar: null
 id: '1082'
 origen: Jeneral
+
 versions:
--   accented: todo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: todo
+  - ladino: todo
+    accented: todo
+    gender: masculine
+    number: singular
+
     translations:
         english: all
         french: ''
         portuguese: ''
-        spanish: todo / a
+        spanish: todo
         turkish:
         - hep
         - hepsi
+
+  - ladino: toda
+    accented: toda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: all
+        french: ''
+        portuguese: ''
+        spanish: toda
+        turkish:
+        - hep
+        - hepsi
+
+  - ladino: todos
+    accented: todos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: all
+        french: ''
+        portuguese: ''
+        spanish: todos
+        turkish: ''
+
+  - ladino: todas
+    accented: todas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: all
+        french: ''
+        portuguese: ''
+        spanish: todas
+        turkish: ''
+
+examples: []
