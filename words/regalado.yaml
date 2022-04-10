@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1559'
 origen: Jeneral
+
 versions:
--   accented: regalado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: regalado
+  - ladino: regalado
+    accented: regalado
+    gender: masculine
+    number: singular
+
     translations:
         english: unique
         french: ''
         portuguese: ''
         spanish: único
         turkish: biricik
+
+  - ladino: regalada
+    accented: regalada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: única
+        turkish: biricik
+
+  - ladino: regalados
+    accented: regalados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: únicos
+        turkish: biricik
+
+  - ladino: regaladas
+    accented: regaladas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: únicas
+        turkish: biricik
+
+
+examples: []

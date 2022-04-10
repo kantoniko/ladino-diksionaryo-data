@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '780'
 origen: Jeneral
+
 versions:
--   accented: objektivo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: objektivo
+  - ladino: objektivo
+    accented: objektivo
+    gender: masculine
+    number: singular
+
     translations:
         english: objective
         french: ''
         portuguese: ''
-        spanish: objetivo / a
+        spanish: objetivo
         turkish: objektif
+
+  - ladino: objektiva
+    accented: objektiva
+    gender: feminine
+    number: singular
+
+    translations:
+        english: objective
+        french: ''
+        portuguese: ''
+        spanish: objetiva
+        turkish: objektif
+
+  - ladino: objektivos
+    accented: objektivos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: objectives
+        french: ''
+        portuguese: ''
+        spanish: objetivos
+        turkish: objektif
+
+  - ladino: objektivas
+    accented: objektivas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: objectives
+        french: ''
+        portuguese: ''
+        spanish: objetivas
+        turkish: objektif
+
+
+examples: []

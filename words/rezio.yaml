@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '952'
 origen: Jeneral
+
 versions:
--   accented: rezio
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: rezio
+  - ladino: rezio
+    accented: rezio
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - strong
         - robust
         french: ''
         portuguese: ''
-        spanish: recio / a
+        spanish: recio
         turkish: sağlam
+
+  - ladino: rezia
+    accented: rezia
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - strong
+        - robust
+        french: ''
+        portuguese: ''
+        spanish: recia
+        turkish: sağlam
+
+  - ladino: rezios
+    accented: rezios
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - strong
+        - robust
+        french: ''
+        portuguese: ''
+        spanish: recios
+        turkish: sağlam
+
+  - ladino: rezias
+    accented: rezias
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - strong
+        - robust
+        french: ''
+        portuguese: ''
+        spanish: recias
+        turkish: sağlam
+
+
+examples: []

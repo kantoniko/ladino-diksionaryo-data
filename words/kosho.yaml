@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '619'
 origen: Jeneral
+
 versions:
--   accented: kosho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kosho
+  - ladino: kosho
+    accented: kosho
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - lame
         - limping
         french: ''
         portuguese: ''
-        spanish: cojo / a
+        spanish: cojo
         turkish: topal
+
+  - ladino: kosha
+    accented: kosha
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - lame
+        - limping
+        french: ''
+        portuguese: ''
+        spanish: coja
+        turkish: topal
+
+  - ladino: koshos
+    accented: koshos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - lame
+        - limping
+        french: ''
+        portuguese: ''
+        spanish: cojos
+        turkish: topal
+
+  - ladino: koshas
+    accented: koshas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - lame
+        - limping
+        french: ''
+        portuguese: ''
+        spanish: cojas
+        turkish: topal
+
+
+examples: []

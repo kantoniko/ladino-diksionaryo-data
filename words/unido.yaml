@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1115'
 origen: Jeneral
+
 versions:
--   accented: unido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: unido
+  - ladino: unido
+    accented: unido
+    gender: masculine
+    number: singular
+
     translations:
         english: united
         french: ''
         portuguese: ''
-        spanish: unido / a
+        spanish: unido
         turkish: birleşik
+
+  - ladino: unida
+    accented: unida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: united
+        french: ''
+        portuguese: ''
+        spanish: unida
+        turkish: birleşik
+
+  - ladino: unidos
+    accented: unidos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: united
+        french: ''
+        portuguese: ''
+        spanish: unidos
+        turkish: birleşik
+
+  - ladino: unidas
+    accented: unidas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: united
+        french: ''
+        portuguese: ''
+        spanish: unidas
+        turkish: birleşik
+
+
+examples: []

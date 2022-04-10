@@ -1,22 +1,79 @@
-examples: []
 grammar: null
 id: '1124'
 origen: Jeneral
+
 versions:
--   accented: vano
+  - ladino: vano
+    accented: vano
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    -   accented: vaziyo
-        ladino: vaziyo
-    -   accented: a
-        ladino: a
-    ladino: vano
+      - ladino: vaziyo
+        accented: vaziyo
+
     translations:
         english: vain
         french: ''
         portuguese: ''
-        spanish: vano / a
+        spanish: vano
         turkish:
         - abes
         - boş
+
+  - ladino: vana
+    accented: vana
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: vaziya
+        accented: vaziya
+
+    translations:
+        english: vain
+        french: ''
+        portuguese: ''
+        spanish: vana
+        turkish:
+        - abes
+        - boş
+
+  - ladino: vanos
+    accented: vanos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: vaziyos
+        accented: vaziyos
+
+    translations:
+        english: vain
+        french: ''
+        portuguese: ''
+        spanish: vanos
+        turkish:
+        - abes
+        - boş
+
+  - ladino: vanas
+    accented: vanas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: vaziyas
+        accented: vaziyas
+
+    translations:
+        english: vain
+        french: ''
+        portuguese: ''
+        spanish: vanas
+        turkish:
+        - abes
+        - boş
+
+
+examples: []
