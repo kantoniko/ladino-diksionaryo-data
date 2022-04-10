@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '2063'
 origen: Jeneral
+
 versions:
--   accented: perfekto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: perfekto
+  - ladino: perfekto
+    accented: perfekto
+    gender: masculine
+    number: singular
+
     translations:
         english: perfect
         french: ''
         portuguese: ''
-        spanish: perfecto / a
+        spanish: perfecto
         turkish: mükemmel
+
+  - ladino: perfekta
+    accented: perfekta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: perfect
+        french: ''
+        portuguese: ''
+        spanish: perfecta
+        turkish: mükemmel
+
+  - ladino: perfektos
+    accented: perfektos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: perfect
+        french: ''
+        portuguese: ''
+        spanish: perfectos
+        turkish: mükemmel
+
+  - ladino: perfektas
+    accented: perfektas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: perfect
+        french: ''
+        portuguese: ''
+        spanish: perfectas
+        turkish: mükemmel
+
+
+examples: []

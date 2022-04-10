@@ -1,18 +1,62 @@
-examples: []
 grammar: null
 id: '2094'
 origen: Jeneral
+
 versions:
--   accented: preokupado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: preokupado
+  - ladino: preokupado
+    accented: preokupado
+    gender: masculine
+    number: singular
+
     translations:
         english: preoccupied
         french: ''
         portuguese: ''
-        spanish: preocupado / a
+        spanish: preocupado
         turkish:
         - endişeli
         - kaygılı
+
+  - ladino: preokupada
+    accented: preokupada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: preoccupied
+        french: ''
+        portuguese: ''
+        spanish: preocupada
+        turkish:
+        - endişeli
+        - kaygılı
+
+  - ladino: preokupados
+    accented: preokupados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: preoccupied
+        french: ''
+        portuguese: ''
+        spanish: preocupados
+        turkish:
+        - endişeli
+        - kaygılı
+
+  - ladino: preokupadas
+    accented: preokupadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: preoccupied
+        french: ''
+        portuguese: ''
+        spanish: preocupadas
+        turkish:
+        - endişeli
+        - kaygılı
+
+examples: []

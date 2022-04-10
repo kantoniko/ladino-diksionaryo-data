@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '674'
 origen: Jeneral
+
 versions:
--   accented: lindo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: lindo
+  - ladino: lindo
+    accented: lindo
+    gender: masculine
+    number: singular
+
     translations:
         english: pretty
         french: ''
         portuguese: ''
-        spanish: lindo / a
+        spanish: lindo
         turkish: güzel
+
+  - ladino: linda
+    accented: linda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: pretty
+        french: ''
+        portuguese: ''
+        spanish: linda
+        turkish: güzel
+
+  - ladino: lindos
+    accented: lindos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: pretty
+        french: ''
+        portuguese: ''
+        spanish: lindos
+        turkish: güzel
+
+  - ladino: lindas
+    accented: lindas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pretty
+        french: ''
+        portuguese: ''
+        spanish: lindas
+        turkish: güzel
+
+
+examples: []

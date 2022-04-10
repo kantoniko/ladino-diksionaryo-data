@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '2055'
 origen: Jeneral
 versions:
--   accented: pasajero
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: pasajero
+  - ladino: pasajero
+    accented: pasajero
+    gender: masculine
+    number: singular
+
     translations:
         english: passenger
         french: ''
         portuguese: ''
-        spanish: pasajero / a
+        spanish: pasajero
         turkish: yolcu
+
+  - ladino: pasajera
+    accented: pasajera
+    gender: feminine
+    number: singular
+
+    translations:
+        english: passenger
+        french: ''
+        portuguese: ''
+        spanish: pasajera
+        turkish: yolcu
+
+  - ladino: pasajeros
+    accented: pasajeros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: passengers
+        french: ''
+        portuguese: ''
+        spanish: pasajeros
+        turkish: yolcu
+
+  - ladino: pasajeras
+    accented: pasajeras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: passengers
+        french: ''
+        portuguese: ''
+        spanish: pasajeras
+        turkish: yolcu
+
+
+examples: []

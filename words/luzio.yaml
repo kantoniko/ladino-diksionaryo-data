@@ -1,20 +1,70 @@
-examples: []
 grammar: null
 id: '682'
 origen: Jeneral
+
 versions:
--   accented: luzio
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: luzio
+  - ladino: luzio
+    accented: luzio
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - pretty
         - nice
         french: ''
         portuguese: ''
-        spanish: bonito / a
+        spanish: bonito
         turkish:
         - güzel
         - hoş
+
+  - ladino: luzia
+    accented: luzia
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - pretty
+        - nice
+        french: ''
+        portuguese: ''
+        spanish: bonita
+        turkish:
+        - güzel
+        - hoş
+
+  - ladino: luzios
+    accented: luzios
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - pretty
+        - nice
+        french: ''
+        portuguese: ''
+        spanish: bonitos
+        turkish:
+        - güzel
+        - hoş
+
+  - ladino: luzias
+    accented: luzias
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - pretty
+        - nice
+        french: ''
+        portuguese: ''
+        spanish: bonitas
+        turkish:
+        - güzel
+        - hoş
+
+examples: []

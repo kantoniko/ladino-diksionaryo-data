@@ -1,16 +1,53 @@
-examples: []
 grammar: null
 id: '2049'
 origen: Jeneral
 versions:
--   accented: paralizado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: paralizado
+  - ladino: paralizado
+    accented: paralizado
+    gender: masculine
+    number: singular
+
     translations:
         english: paralytic
         french: ''
         portuguese: ''
-        spanish: paralítico / a
+        spanish: paralítico
         turkish: felçli
+
+  - ladino: paralizada
+    accented: paralizada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: paralytic
+        french: ''
+        portuguese: ''
+        spanish: paralítica
+        turkish: felçli
+
+  - ladino: paralizados
+    accented: paralizados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: paralytics
+        french: ''
+        portuguese: ''
+        spanish: paralíticos
+        turkish: felçli
+
+  - ladino: paralizadas
+    accented: paralizadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: paralytics
+        french: ''
+        portuguese: ''
+        spanish: paralíticas
+        turkish: felçli
+
+examples: []

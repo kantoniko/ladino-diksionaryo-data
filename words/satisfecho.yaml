@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '2162'
 origen: Jeneral
+
 versions:
--   accented: satisfecho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: satisfecho
+  - ladino: satisfecho
+    accented: satisfecho
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - satisfied
         - pleased
         french: ''
         portuguese: ''
-        spanish: satisfecho / a
+        spanish: satisfecho
         turkish: memnun
+
+  - ladino: satisfecha
+    accented: satisfecha
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - satisfied
+        - pleased
+        french: ''
+        portuguese: ''
+        spanish: satisfecha
+        turkish: memnun
+
+  - ladino: satisfechos
+    accented: satisfechos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - satisfied
+        - pleased
+        french: ''
+        portuguese: ''
+        spanish: satisfechos
+        turkish: memnun
+
+  - ladino: satisfechas
+    accented: satisfechas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - satisfied
+        - pleased
+        french: ''
+        portuguese: ''
+        spanish: satisfechas
+        turkish: memnun
+
+
+examples: []
