@@ -1,22 +1,69 @@
-examples: []
 grammar: null
 id: '1972'
 origen: Jeneral
+
 versions:
--   accented: malo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: malo
+  - ladino: malo
+    accented: malo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - bad
         - naughty
         french: ''
         portuguese: ''
-        spanish: malo / a
+        spanish: malo
         turkish:
         - fena
         - yaramaz
+
+  - ladino: mala
+    accented: mala
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - bad
+        - naughty
+        french: ''
+        portuguese: ''
+        spanish: mala
+        turkish:
+        - fena
+        - yaramaz
+
+  - ladino: malos
+    accented: malos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - bad
+        - naughty
+        french: ''
+        portuguese: ''
+        spanish: malos
+        turkish: ''
+
+  - ladino: malas
+    accented: malas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - bad
+        - naughty
+        french: ''
+        portuguese: ''
+        spanish: malas
+        turkish: ''
+
+
+examples: []
 
 # "málo, mála",Mas vale un malo konosido ke un bueno para konoser. (Neh.),"malo, mala","bad, naughty","kötü, yaramaz",Jeneral,2528,,
