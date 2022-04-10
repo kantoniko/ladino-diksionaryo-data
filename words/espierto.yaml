@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '379'
 origen: Jeneral
+
 versions:
--   accented: espierto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: espierto
+  - ladino: espierto
+    accented: espierto
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - awake
@@ -15,8 +15,60 @@ versions:
         french: ''
         portuguese: ''
         spanish:
-        - despierto / a
-        - listo / a
+        - despierto
+        - listo
         turkish:
         - uyanık
         - açıkgöz
+
+  - ladino: espierta
+    accented: espierta
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - awake
+        - smart
+        french: ''
+        portuguese: ''
+        spanish:
+        - despierta
+        - lista
+        turkish:
+        - uyanık
+        - açıkgöz
+
+  - ladino: espiertos
+    accented: espiertos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - awake
+        - smart
+        french: ''
+        portuguese: ''
+        spanish:
+        - despiertos
+        - listos
+        turkish: ''
+
+  - ladino: espiertas
+    accented: espiertas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - awake
+        - smart
+        french: ''
+        portuguese: ''
+        spanish:
+        - despiertas
+        - listas
+        turkish: ''
+
+examples: []
