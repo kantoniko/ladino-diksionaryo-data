@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '1111'
 origen: Jeneral
+
 versions:
--   accented: ultimo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: ultimo
+  - ladino: ultimo
+    accented: ultimo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - ultimate
         - last
         french: ''
         portuguese: ''
-        spanish: último / a
+        spanish: último
         turkish: sonuncu
+
+  - ladino: ultima
+    accented: ultima
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - ultimate
+        - last
+        french: ''
+        portuguese: ''
+        spanish: última
+        turkish: sonuncu
+
+  - ladino: ultimos
+    accented: ultimos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - ultimate
+        - last
+        french: ''
+        portuguese: ''
+        spanish: últimos
+        turkish: sonuncu
+
+  - ladino: ultimas
+    accented: ultimas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - ultimate
+        - last
+        french: ''
+        portuguese: ''
+        spanish: últimas
+        turkish: sonuncu
+
+
+examples: []

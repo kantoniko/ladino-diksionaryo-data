@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '2202'
 origen: Jeneral
+
 versions:
--   accented: sudito
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: sudito
+  - ladino: sudito
+    accented: sudito
+    gender: masculine
+    number: singular
+
     translations:
         english: subject
         french: ''
         portuguese: ''
-        spanish: súbdito / a
+        spanish: súbdito
         turkish:
         - tebaa
         - uyruk
+
+  - ladino: sudita
+    accented: sudita
+    gender: feminine
+    number: singular
+
+    translations:
+        english: subject
+        french: ''
+        portuguese: ''
+        spanish: súbdito
+        turkish:
+        - tebaa
+        - uyruk
+
+  - ladino: suditos
+    accented: suditos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: subjects
+        french: ''
+        portuguese: ''
+        spanish: súbditos
+        turkish:
+        - tebaa
+        - uyruk
+
+  - ladino: suditas
+    accented: suditas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: subjects
+        french: ''
+        portuguese: ''
+        spanish: súbditos
+        turkish:
+        - tebaa
+        - uyruk
+
+
+examples: []

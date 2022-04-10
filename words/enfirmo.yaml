@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '1772'
 origen: Jeneral
+
 versions:
--   accented: enfirmo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: enfirmo
+  - ladino: enfirmo
+    accented: enfirmo
+    gender: masculine
+    number: singular
+
     translations:
         english: invalid
         french: ''
         portuguese: ''
-        spanish: inválido / a
+        spanish: inválido
         turkish: sakat
+
+  - ladino: enfirma
+    accented: enfirma
+    gender: feminine
+    number: singular
+
+    translations:
+        english: invalid
+        french: ''
+        portuguese: ''
+        spanish: inválida
+        turkish: sakat
+
+  - ladino: enfirmos
+    accented: enfirmos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: invalid
+        french: ''
+        portuguese: ''
+        spanish: inválidos
+        turkish: sakat
+
+  - ladino: enfirmas
+    accented: enfirmas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: invalid
+        french: ''
+        portuguese: ''
+        spanish: inválidas
+        turkish: sakat
+
+
+
+examples: []

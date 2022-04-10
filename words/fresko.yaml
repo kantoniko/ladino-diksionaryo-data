@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '438'
 origen: Jeneral
+
 versions:
--   accented: fresko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: fresko
+  - ladino: fresko
+    accented: fresko
+    gender: masculine
+    number: singular
+
     translations:
         english: fresh
         french: ''
         portuguese: ''
-        spanish: fresco / a
+        spanish: fresco
         turkish:
         - serin
         - taze
+
+  - ladino: freska
+    accented: freska
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fresh
+        french: ''
+        portuguese: ''
+        spanish: fresca
+        turkish:
+        - serin
+        - taze
+
+  - ladino: freskos
+    accented: freskos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fresh
+        french: ''
+        portuguese: ''
+        spanish: frescos
+        turkish:
+        - serin
+        - taze
+
+  - ladino: freskas
+    accented: freskas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fresh
+        french: ''
+        portuguese: ''
+        spanish: frescas
+        turkish:
+        - serin
+        - taze
+
+
+examples: []

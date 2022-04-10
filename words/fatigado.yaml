@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '407'
 origen: Jeneral
+
 versions:
--   accented: fatigado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: fatigado
+  - ladino: fatigado
+    accented: fatigado
+    gender: masculine
+    number: singular
+
     translations:
         english: tired
         french: ''
         portuguese: ''
-        spanish: fatigado / a
+        spanish: fatigado
         turkish: yorgun
+
+  - ladino: fatigada
+    accented: fatigada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: fatigada
+        turkish: yorgun
+
+  - ladino: fatigados
+    accented: fatigados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: fatigados
+        turkish: yorgun
+
+  - ladino: fatigadas
+    accented: fatigadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: tired
+        french: ''
+        portuguese: ''
+        spanish: fatigadas
+        turkish: yorgun
+
+
+examples: []

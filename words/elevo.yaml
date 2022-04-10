@@ -1,18 +1,64 @@
-examples: []
 grammar: null
 id: '309'
 origen: Jeneral
+
 versions:
--   accented: elevo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: elevo
+  - ladino: elevo
+    accented: elevo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - student
         - pupil
         french: ''
         portuguese: ''
-        spanish: alumno / a
+        spanish: alumno
         turkish: talebe
+
+  - ladino: eleva
+    accented: eleva
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - student
+        - pupil
+        french: ''
+        portuguese: ''
+        spanish: alumna
+        turkish: talebe
+
+  - ladino: elevos
+    accented: elevos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - student
+        - pupil
+        french: ''
+        portuguese: ''
+        spanish: alumnos
+        turkish: talebe
+
+  - ladino: elevas
+    accented: elevas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - student
+        - pupil
+        french: ''
+        portuguese: ''
+        spanish: alumnas
+        turkish: talebe
+
+
+
+examples: []

@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '292'
 origen: Jeneral
+
 versions:
--   accented: egoisto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: egoisto
+  - ladino: egoisto
+    accented: egoisto
+    gender: masculine
+    number: singular
+
     translations:
         english: selfish
         french: ''
         portuguese: ''
         spanish: egoísta
         turkish: bencil
+
+  - ladino: egoista
+    accented: egoista
+    gender: feminine
+    number: singular
+
+    translations:
+        english: selfish
+        french: ''
+        portuguese: ''
+        spanish: egoísta
+        turkish: bencil
+
+  - ladino: egoistos
+    accented: egoistos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: selfish
+        french: ''
+        portuguese: ''
+        spanish: egoístas
+        turkish: bencil
+
+  - ladino: egoistas
+    accented: egoistas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: selfish
+        french: ''
+        portuguese: ''
+        spanish: egoístas
+        turkish: bencil
+
+
+examples: []
