@@ -1,19 +1,65 @@
-examples:
--   ladino: Teniya dos ijas, mansevikas i muy ermozikas.
 grammar: null
 id: '4'
 origen: Jeneral
+
 versions:
--   accented: ermozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: ermozo
+  - ladino: ermozo
+    accented: ermozo
+    gender: masculine
+    number: singular
+
     translations:
         english: beautiful
         french: ''
         portuguese: ''
         spanish:
         - hermoso
-        - bello / a
+        - bello
         turkish: güzel
+
+  - ladino: ermoza
+    accented: ermoza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: beautiful
+        french: ''
+        portuguese: ''
+        spanish:
+        - hermosa
+        - bella
+        turkish: güzel
+
+  - ladino: ermozos
+    accented: ermozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: beautiful
+        french: ''
+        portuguese: ''
+        spanish:
+        - hermosos
+        - bellos
+        turkish: ''
+
+  - ladino: ermozas
+    accented: ermozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: beautiful
+        french: ''
+        portuguese: ''
+        spanish:
+        - hermosas
+        - bellas
+        turkish: ''
+
+
+
+examples:
+  - ladino: Teniya dos ijas, mansevikas i muy ermozikas.

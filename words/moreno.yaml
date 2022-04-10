@@ -1,18 +1,64 @@
-examples: []
 grammar: null
 id: '748'
 origen: Jeneral
+
 versions:
--   accented: moreno
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: moreno
+  - ladino: moreno
+    accented: moreno
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - dark
         - brown
         french: ''
         portuguese: ''
-        spanish: moreno / a
+        spanish: moreno
         turkish: esmer
+
+  - ladino: morena
+    accented: morena
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - dark
+        - brown
+        french: ''
+        portuguese: ''
+        spanish: morena
+        turkish: esmer
+
+  - ladino: morenos
+    accented: morenos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - dark
+        - brown
+        french: ''
+        portuguese: ''
+        spanish: morenos
+        turkish: ''
+
+  - ladino: morenas
+    accented: morenas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - dark
+        - brown
+        french: ''
+        portuguese: ''
+        spanish: morenas
+        turkish: ''
+
+
+examples: []
+
