@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '553'
 origen: Jeneral
+
 versions:
--   accented: kemado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kemado
+  - ladino: kemado
+    accented: kemado
+    gender: masculine
+    number: singular
+
     translations:
         english: burnt
         french: ''
         portuguese: ''
-        spanish: quemado / a
+        spanish: quemado
         turkish: yanık
+
+  - ladino: kemada
+    accented: kemada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: burnt
+        french: ''
+        portuguese: ''
+        spanish: quemada
+        turkish: yanık
+
+  - ladino: kemados
+    accented: kemados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: burnt
+        french: ''
+        portuguese: ''
+        spanish: quemados
+        turkish: yanık
+
+  - ladino: kemadas
+    accented: kemadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: burnt
+        french: ''
+        portuguese: ''
+        spanish: quemadas
+        turkish: yanık
+
+
+examples: []

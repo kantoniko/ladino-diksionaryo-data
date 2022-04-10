@@ -1,17 +1,55 @@
-examples:
--   ladino: El masapan, el dulse blanko lo aziyan en kaza.
 grammar: adjective
 id: '182'
 origen: Jeneral
+
 versions:
--   accented: blánko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: blanko
+  - ladino: blanko
+    accented: blánko
+    gender: masculine
+    number: singular
+
     translations:
         english: white
         french: blanc
         portuguese: branco
-        spanish: blanco / a
+        spanish: blanco
         turkish: beyaz
+
+  - ladino: blanka
+    accented: blánka
+    gender: feminine
+    number: singular
+
+    translations:
+        english: white
+        french: blanc
+        portuguese: branca
+        spanish: blanca
+        turkish: beyaz
+
+  - ladino: blankos
+    accented: blánkos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: white
+        french: blanc
+        portuguese: branco
+        spanish: blancos
+        turkish: beyaz
+
+  - ladino: blankas
+    accented: blánkas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: white
+        french: blanc
+        portuguese: branca
+        spanish: blancas
+        turkish: beyaz
+
+examples:
+  - ladino: El masapan, el dulse blanko lo aziyan en kaza.

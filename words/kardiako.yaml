@@ -1,16 +1,30 @@
-examples: []
 grammar: null
 id: '532'
 origen: Jeneral
+
 versions:
--   accented: kardiako
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kardiako
+  - ladino: kardiako
+    accented: kardiako
+    gender: masculine
+    number: singular
+
     translations:
         english: cardiac
         french: ''
         portuguese: ''
-        spanish: cardiaco / a
+        spanish: cardiaco
         turkish: kalple ilgili
+
+  - ladino: kardiaka
+    accented: kardiaka
+    gender: feminine
+    number: singular
+
+    translations:
+        english: cardiac
+        french: ''
+        portuguese: ''
+        spanish: cardiaca
+        turkish: kalple ilgili
+
+examples: []
