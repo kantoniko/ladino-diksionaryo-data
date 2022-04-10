@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1701'
 origen: Jeneral
+
 versions:
--   accented: deskudiado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: deskudiado
+  - ladino: deskudiado
+    accented: deskudiado
+    gender: masculine
+    number: singular
+
     translations:
         english: careless
         french: ''
         portuguese: ''
-        spanish: descuidado / a
+        spanish: descuidado
         turkish: dikkatsiz
+
+  - ladino: deskudiada
+    accented: deskudiada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: careless
+        french: ''
+        portuguese: ''
+        spanish: descuidada
+        turkish: dikkatsiz
+
+  - ladino: deskudiados
+    accented: deskudiados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: careless
+        french: ''
+        portuguese: ''
+        spanish: descuidados
+        turkish: dikkatsiz
+
+  - ladino: deskudiadas
+    accented: deskudiadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: careless
+        french: ''
+        portuguese: ''
+        spanish: descuidadas
+        turkish: dikkatsiz
+
+
+examples: []

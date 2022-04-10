@@ -1,18 +1,64 @@
-examples: []
 grammar: null
 id: '568'
 origen: Jeneral
+
 versions:
--   accented: kimiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kimiko
+  - ladino: kimiko
+    accented: kimiko
+    gender: masculine
+    number: singular
+
     translations:
         english: chemist
         french: ''
         portuguese: ''
-        spanish: químico / a
+        spanish: químico
         turkish:
         - kimyevî
         - kimyager
+
+  - ladino: kimika
+    accented: kimika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: chemist
+        french: ''
+        portuguese: ''
+        spanish: química
+        turkish:
+        - kimyevî
+        - kimyager
+
+  - ladino: kimikos
+    accented: kimikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: chemists
+        french: ''
+        portuguese: ''
+        spanish: químicos
+        turkish:
+        - kimyevî
+        - kimyager
+
+  - ladino: kimikas
+    accented: kimikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: chemists
+        french: ''
+        portuguese: ''
+        spanish: químicas
+        turkish:
+        - kimyevî
+        - kimyager
+
+
+
+examples: []

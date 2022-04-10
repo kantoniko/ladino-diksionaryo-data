@@ -1,13 +1,13 @@
-examples:
--   ladino: Lo ke no tiene de boy, tiene de negregura. (Neh.)
 grammar: null
 id: '2902'
 origen: Estanbol
+
 versions:
--   accented: boy
+  - ladino: boy
+    accented: boy
     gender: masculine
-    ladino: boy
     number: singular
+
     translations:
         english:
         - size
@@ -20,3 +20,7 @@ versions:
         - talla
         - dimensiones
         turkish: boy
+
+examples:
+  - ladino: Lo ke no tiene de boy, tiene de negregura. (Neh.)
+
