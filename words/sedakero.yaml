@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '2163'
 origen: Jeneral
+
 versions:
--   accented: sedakero
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: sedakero
+  - ladino: sedakero
+    accented: sedakero
+    gender: masculine
+    number: singular
+
     translations:
         english: beggar
         french: ''
         portuguese: ''
-        spanish: mendigo / a
+        spanish: mendigo
         turkish: dilenci
+
+  - ladino: sedakera
+    accented: sedakera
+    gender: feminine
+    number: singular
+
+    translations:
+        english: beggar
+        french: ''
+        portuguese: ''
+        spanish: mendiga
+        turkish: dilenci
+
+  - ladino: sedakeros
+    accented: sedakeros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: beggars
+        french: ''
+        portuguese: ''
+        spanish: mendigos
+        turkish: ''
+
+  - ladino: sedakeras
+    accented: sedakeras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: beggars
+        french: ''
+        portuguese: ''
+        spanish: mendigas
+        turkish: ''
+
+
+examples: []

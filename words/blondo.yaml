@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '183'
 origen: Jeneral
+
 versions:
--   accented: blondo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: blondo
+  - ladino: blondo
+    accented: blondo
+    gender: masculine
+    number: singular
+
     translations:
         english: blond
         french: ''
         portuguese: ''
-        spanish: rubio / a
+        spanish: rubio
         turkish: sarışın
+
+  - ladino: blonda
+    accented: blonda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: blond
+        french: ''
+        portuguese: ''
+        spanish: rubia
+        turkish: sarışın
+
+  - ladino: blondos
+    accented: blondos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: blonds
+        french: ''
+        portuguese: ''
+        spanish: rubios
+        turkish: sarışın
+
+  - ladino: blondas
+    accented: blondas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: blonds
+        french: ''
+        portuguese: ''
+        spanish: rubias
+        turkish: sarışın
+
+
+examples: []
