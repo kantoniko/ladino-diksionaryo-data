@@ -1,18 +1,64 @@
-examples: []
 grammar: null
 id: '771'
 origen: Jeneral
+
 versions:
--   accented: negativo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: negativo
+  - ladino: negativo
+    accented: negativo
+    gender: masculine
+    number: singular
+
     translations:
         english: negative
         french: ''
         portuguese: ''
-        spanish: negativo / a
+        spanish: negativo
         turkish:
         - menfî
         - olumsuz
+
+  - ladino: negativa
+    accented: negativa
+    gender: feminine
+    number: singular
+
+    translations:
+        english: negative
+        french: ''
+        portuguese: ''
+        spanish: negativa
+        turkish:
+        - menfî
+        - olumsuz
+
+  - ladino: negativos
+    accented: negativos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: negative
+        french: ''
+        portuguese: ''
+        spanish: negativos
+        turkish:
+        - menfî
+        - olumsuz
+
+  - ladino: negativas
+    accented: negativas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: negative
+        french: ''
+        portuguese: ''
+        spanish: negativas
+        turkish:
+        - menfî
+        - olumsuz
+
+
+
+examples: []

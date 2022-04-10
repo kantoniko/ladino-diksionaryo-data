@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '2245'
 origen: Jeneral
+
 versions:
--   accented: urbano
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: urbano
+  - ladino: urbano
+    accented: urbano
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - urban
         - refined
         french: ''
         portuguese: ''
-        spanish: urbano / a
+        spanish: urbano
         turkish: şehirli
+
+  - ladino: urbana
+    accented: urbana
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - urban
+        - refined
+        french: ''
+        portuguese: ''
+        spanish: urbana
+        turkish: şehirli
+
+  - ladino: urbanos
+    accented: urbanos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - urban
+        - refined
+        french: ''
+        portuguese: ''
+        spanish: urbanos
+        turkish: şehirli
+
+  - ladino: urbanas
+    accented: urbanas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - urban
+        - refined
+        french: ''
+        portuguese: ''
+        spanish: urbanas
+        turkish: şehirli
+
+
+examples: []

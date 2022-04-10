@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '461'
 origen: Jeneral
+
 versions:
--   accented: godro
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: godro
+  - ladino: godro
+    accented: godro
+    gender: masculine
+    number: singular
+
     translations:
         english: fat
         french: ''
         portuguese: ''
-        spanish: gordo / a
+        spanish: gordo
         turkish: şişman
+
+  - ladino: godra
+    accented: godra
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fat
+        french: ''
+        portuguese: ''
+        spanish: gorda
+        turkish: şişman
+
+  - ladino: godros
+    accented: godros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fat
+        french: ''
+        portuguese: ''
+        spanish: gordos
+        turkish: şişman
+
+  - ladino: godras
+    accented: godras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fat
+        french: ''
+        portuguese: ''
+        spanish: gordas
+        turkish: şişman
+
+examples: []

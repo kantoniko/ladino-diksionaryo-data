@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1342'
 origen: Jeneral
+
 versions:
--   accented: godrura
+  - ladino: godrura
+    accented: godrura
+
     alternative-spelling:
-    -   accented: gudrura
-        ladino: gudrura
-    ladino: godrura
+      - ladino: gudrura
+        accented: gudrura
+
     translations:
         english:
         - fatness
@@ -18,3 +20,5 @@ versions:
         turkish:
         - şişmanlık
         - yağ
+
+examples: []

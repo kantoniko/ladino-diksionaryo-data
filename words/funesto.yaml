@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1835'
 origen: Jeneral
+
 versions:
--   accented: funesto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: funesto
+  - ladino: funesto
+    accented: funesto
+    gender: masculine
+    number: singular
+
     translations:
         english: unfortunate
         french: ''
         portuguese: ''
-        spanish: funesto / a
+        spanish: funesto
         turkish: meşum
+
+  - ladino: funesta
+    accented: funesta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: unfortunate
+        french: ''
+        portuguese: ''
+        spanish: funesta
+        turkish: meşum
+
+  - ladino: funestos
+    accented: funestos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: unfortunate
+        french: ''
+        portuguese: ''
+        spanish: funestos
+        turkish: meşum
+
+  - ladino: funestas
+    accented: funestas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: unfortunate
+        french: ''
+        portuguese: ''
+        spanish: funestas
+        turkish: meşum
+
+
+examples: []

@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '482'
 origen: Jeneral
+
 versions:
--   accented: indechizo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: indechizo
+  - ladino: indechizo
+    accented: indechizo
+    gender: masculine
+    number: singular
+
     translations:
         english: undecided
         french: ''
         portuguese: ''
-        spanish: vago / a
+        spanish: vago
         turkish: kararsız
+
+  - ladino: indechiza
+    accented: indechiza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: undecided
+        french: ''
+        portuguese: ''
+        spanish: vaga
+        turkish: kararsız
+
+  - ladino: indechizos
+    accented: indechizos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: undecided
+        french: ''
+        portuguese: ''
+        spanish: vagos
+        turkish: kararsız
+
+  - ladino: indechizas
+    accented: indechizas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: undecided
+        french: ''
+        portuguese: ''
+        spanish: vagas
+        turkish: kararsız
+
+
+
+examples: []

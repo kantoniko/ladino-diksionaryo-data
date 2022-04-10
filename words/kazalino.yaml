@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '547'
 origen: Jeneral
+
 versions:
--   accented: kazalino
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: kazalino
+  - ladino: kazalino
+    accented: kazalino
+    gender: masculine
+    number: singular
+
     translations:
         english: villager
         french: ''
         portuguese: ''
         spanish:
-        - campesino / a
-        - pueblerino / a
+        - campesino
+        - pueblerino
         turkish: köylü
+
+  - ladino: kazalina
+    accented: kazalina
+    gender: feminine
+    number: singular
+
+    translations:
+        english: villager
+        french: ''
+        portuguese: ''
+        spanish:
+        - campesina
+        - pueblerina
+        turkish: köylü
+
+  - ladino: kazalinos
+    accented: kazalinos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: villagers
+        french: ''
+        portuguese: ''
+        spanish:
+        - campesinos
+        - pueblerinos
+        turkish: köylü
+
+  - ladino: kazalinas
+    accented: kazalinas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: villagers
+        french: ''
+        portuguese: ''
+        spanish:
+        - campesinas
+        - pueblerinas
+        turkish: köylü
+
+
+examples: []
