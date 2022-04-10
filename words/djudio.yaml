@@ -1,18 +1,58 @@
-examples: []
 grammar: null
 id: '271'
 origen: Jeneral
+
 versions:
--   accented: djudio
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: djudio
+  - ladino: djudio
+    accented: djudio
+    gender: masculine
+    number: singular
+
     translations:
         english: Jew
         french: ''
         portuguese: ''
-        spanish: judío / a
+        spanish: judío
         turkish:
-        - yahudi
-        - musevi
+          - yahudi
+          - musevi
+
+  - ladino: djudia
+    accented: djudia
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Jew
+        french: ''
+        portuguese: ''
+        spanish: judía
+        turkish:
+          - yahudi
+          - musevi
+
+  - ladino: djudios
+    accented: djudios
+    gender: masculine
+    number: plural
+
+    translations:
+        english: Jews
+        french: ''
+        portuguese: ''
+        spanish: judíos
+        turkish: ''
+
+  - ladino: djudias
+    accented: djudias
+    gender: feminine
+    number: plural
+
+    translations:
+        english: Jews
+        french: ''
+        portuguese: ''
+        spanish: judías
+        turkish: ''
+
+examples: []
