@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '760'
 origen: Estanbol
+
 versions:
--   accented: musafir
-    ladino: musafir
+  - ladino: musafir
+    accented: musafir
+    gender: masculine
+    number: singular
+
     translations:
         english: guest
         french: ''
@@ -15,3 +18,5 @@ versions:
         turkish:
         - misafir
         - konuk
+
+examples: []

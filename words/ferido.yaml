@@ -1,18 +1,61 @@
-examples: []
 grammar: null
 id: '413'
 origen: Jeneral
 versions:
--   accented: ferido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: ferido
+  - ladino: ferido
+    accented: ferido
+    gender: masculine
+    number: singular
+
     translations:
         english: hurt
         french: ''
         portuguese: ''
-        spanish: herido / a
+        spanish: herido
         turkish:
         - acı çeken
         - yaralı
+
+  - ladino: ferida
+    accented: ferida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: hurt
+        french: ''
+        portuguese: ''
+        spanish: herida
+        turkish:
+        - acı çeken
+        - yaralı
+
+  - ladino: feridos
+    accented: feridos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hurt
+        french: ''
+        portuguese: ''
+        spanish: heridos
+        turkish:
+        - acı çeken
+        - yaralı
+
+  - ladino: feridas
+    accented: feridas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: hurt
+        french: ''
+        portuguese: ''
+        spanish: heridas
+        turkish:
+        - acı çeken
+        - yaralı
+
+examples: []

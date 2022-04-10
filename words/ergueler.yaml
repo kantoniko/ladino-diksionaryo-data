@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '347'
 origen: Jeneral
+
 versions:
--   accented: ergueler
-    ladino: ergueler
+  - ladino: ergueler
+    accented: ergueler
+
     translations:
         english: hurt
         french: ''
         portuguese: ''
         spanish: doler
         turkish: ağrımak
+
+examples: []

@@ -1,20 +1,72 @@
-examples: []
 grammar: null
 id: '595'
 origen: Jeneral
+
 versions:
--   accented: konosido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: konosido
+  - ladino: konosido
+    accented: konosido
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - well-known
         - familiar
         french: ''
         portuguese: ''
-        spanish: conocido / a
+        spanish: conocido
         turkish:
         - meihur
         - tanıdık
+
+  - ladino: konosida
+    accented: konosida
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - well-known
+        - familiar
+        french: ''
+        portuguese: ''
+        spanish: conocida
+        turkish:
+        - meihur
+        - tanıdık
+
+  - ladino: konosidos
+    accented: konosidos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - well-known
+        - familiar
+        french: ''
+        portuguese: ''
+        spanish: conocidos
+        turkish:
+        - meihur
+        - tanıdık
+
+  - ladino: konosidas
+    accented: konosidas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - well-known
+        - familiar
+        french: ''
+        portuguese: ''
+        spanish: conocidas
+        turkish:
+        - meihur
+        - tanıdık
+
+
+
+examples: []

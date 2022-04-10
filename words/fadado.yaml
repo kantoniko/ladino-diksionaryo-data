@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '398'
 origen: Jeneral
+
 versions:
--   accented: fadado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: fadado
+  - ladino: fadado
+    accented: fadado
+    gender: masculine
+    number: singular
+
     translations:
         english: fated
         french: ''
         portuguese: ''
-        spanish: hadado / a
+        spanish: hadado
         turkish: nasip olan
+
+  - ladino: fadada
+    accented: fadada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fated
+        french: ''
+        portuguese: ''
+        spanish: hadada
+        turkish: nasip olan
+
+  - ladino: fadados
+    accented: fadados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fated
+        french: ''
+        portuguese: ''
+        spanish: hadados
+        turkish: nasip olan
+
+  - ladino: fadadas
+    accented: fadadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fated
+        french: ''
+        portuguese: ''
+        spanish: hadadas
+        turkish: nasip olan
+
+
+examples: []

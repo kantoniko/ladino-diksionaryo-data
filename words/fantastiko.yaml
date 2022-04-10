@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '402'
 origen: Jeneral
+
 versions:
--   accented: fantastiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: fantastiko
+  - ladino: fantastiko
+    accented: fantastiko
+    gender: masculine
+    number: singular
+
     translations:
         english: fantastic
         french: ''
         portuguese: ''
-        spanish: fantástico / a
+        spanish: fantástico
         turkish: inanılmaz
+
+  - ladino: fantastika
+    accented: fantastika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fantastic
+        french: ''
+        portuguese: ''
+        spanish: fantástica
+        turkish: inanılmaz
+
+  - ladino: fantastikos
+    accented: fantastikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fantastic
+        french: ''
+        portuguese: ''
+        spanish: fantásticos
+        turkish: inanılmaz
+
+  - ladino: fantastikas
+    accented: fantastikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fantastic
+        french: ''
+        portuguese: ''
+        spanish: fantásticas
+        turkish: inanılmaz
+
+
+examples: []

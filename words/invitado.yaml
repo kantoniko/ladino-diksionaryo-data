@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '496'
 origen: Jeneral
+
 versions:
--   accented: invitado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: invitado
+  - ladino: invitado
+    accented: invitado
+    gender: masculine
+    number: singular
+
     translations:
         english: guest
         french: ''
         portuguese: ''
-        spanish: invitado / a
+        spanish: invitado
         turkish: davetli
+
+  - ladino: invitada
+    accented: invitada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: guest
+        french: ''
+        portuguese: ''
+        spanish: invitada
+        turkish: davetli
+
+  - ladino: invitados
+    accented: invitados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: guests
+        french: ''
+        portuguese: ''
+        spanish: invitados
+        turkish: davetli
+
+  - ladino: invitadas
+    accented: invitadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: guests
+        french: ''
+        portuguese: ''
+        spanish: invitadas
+        turkish: davetli
+
+
+examples: []

@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '667'
 origen: Jeneral
+
 versions:
--   accented: leshano
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: leshano
+  - ladino: leshano
+    accented: leshano
+    gender: masculine
+    number: singular
+
     translations:
         english: far
         french: ''
         portuguese: ''
-        spanish: lejano / a
+        spanish: lejano
         turkish: uzak
+
+  - ladino: leshana
+    accented: leshana
+    gender: feminine
+    number: singular
+
+    translations:
+        english: far
+        french: ''
+        portuguese: ''
+        spanish: lejana
+        turkish: uzak
+
+  - ladino: leshanos
+    accented: leshanos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: far
+        french: ''
+        portuguese: ''
+        spanish: lejanos
+        turkish: uzak
+
+  - ladino: leshanas
+    accented: leshanas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: far
+        french: ''
+        portuguese: ''
+        spanish: lejanas
+        turkish: uzak
+
+
+examples: []

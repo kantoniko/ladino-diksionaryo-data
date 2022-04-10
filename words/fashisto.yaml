@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '405'
 origen: Jeneral
+
 versions:
--   accented: fashisto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: fashisto
+  - ladino: fashisto
+    accented: fashisto
+    gender: masculine
+    number: singular
+
     translations:
         english: fascist
         french: ''
         portuguese: ''
         spanish: fascista
         turkish: faşist
+
+  - ladino: fashista
+    accented: fashista
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fascist
+        french: ''
+        portuguese: ''
+        spanish: fascista
+        turkish: faşist
+
+  - ladino: fashistos
+    accented: fashistos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fascists
+        french: ''
+        portuguese: ''
+        spanish: fascistas
+        turkish: faşist
+
+  - ladino: fashistas
+    accented: fashistas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fascists
+        french: ''
+        portuguese: ''
+        spanish: fascistas
+        turkish: faşist
+
+examples: []
