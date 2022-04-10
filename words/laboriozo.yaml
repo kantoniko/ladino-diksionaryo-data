@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '656'
 origen: Jeneral
+
 versions:
--   accented: laboriozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: laboriozo
+  - ladino: laboriozo
+    accented: laboriozo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - hard-working
@@ -16,3 +16,48 @@ versions:
         portuguese: ''
         spanish: trabajador
         turkish: çalışkan
+
+  - ladino: laborioza
+    accented: laborioza
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - hard-working
+        - industrious
+        french: ''
+        portuguese: ''
+        spanish: trabajadora
+        turkish: çalışkan
+
+  - ladino: laboriozos
+    accented: laboriozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - hard-working
+        - industrious
+        french: ''
+        portuguese: ''
+        spanish: trabajadores
+        turkish: çalışkan
+
+  - ladino: laboriozas
+    accented: laboriozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - hard-working
+        - industrious
+        french: ''
+        portuguese: ''
+        spanish: trabajadoras
+        turkish: çalışkan
+
+
+examples: []

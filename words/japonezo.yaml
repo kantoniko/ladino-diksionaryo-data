@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '1875'
 origen: Jeneral
+
 versions:
--   accented: japonezo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: japonezo
+  - ladino: japonezo
+    accented: japonezo
+    gender: masculine
+    number: singular
+
     translations:
         english: japanese
         french: ''
         portuguese: ''
-        spanish: japonés - a
+        spanish: japonés
         turkish: japon
+
+  - ladino: japoneza
+    accented: japoneza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: japanese
+        french: ''
+        portuguese: ''
+        spanish: japonésa
+        turkish: japon
+
+  - ladino: japonezos
+    accented: japonezos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: japanese
+        french: ''
+        portuguese: ''
+        spanish: japonéses
+        turkish: japon
+
+  - ladino: japonezas
+    accented: japonezas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: japanese
+        french: ''
+        portuguese: ''
+        spanish: japonésas
+        turkish: japon
+
+
+
+examples: []

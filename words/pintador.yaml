@@ -1,16 +1,31 @@
-examples: []
 grammar: null
 id: '866'
 origen: Jeneral
+
 versions:
--   accented: pintador
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: pintador
+  - ladino: pintador
+    accented: pintador
+    gender: masculine
+    number: singular
+
     translations:
         english: painter
         french: ''
         portuguese: ''
-        spanish: pintor - a
+        spanish: pintor
         turkish: ressam
+
+  - ladino: pintadora
+    accented: pintadora
+    gender: feminine
+    number: singular
+
+    translations:
+        english: painter
+        french: ''
+        portuguese: ''
+        spanish: pintora
+        turkish: ressam
+
+
+examples: []

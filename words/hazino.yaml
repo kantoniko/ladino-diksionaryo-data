@@ -1,19 +1,65 @@
-examples:
--   ladino: El konosiya todos los hazinos i dava konsejos.
 grammar: null
 id: '472'
 origen: Jeneral
+
 versions:
--   accented: hazino
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: hazino
+  - ladino: hazino
+    accented: hazino
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - ill
         - sick
         french: ''
         portuguese: ''
-        spanish: enfermo / a
+        spanish: enfermo
         turkish: hasta
+
+  - ladino: hazina
+    accented: hazina
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - ill
+        - sick
+        french: ''
+        portuguese: ''
+        spanish: enferma
+        turkish: hasta
+
+  - ladino: hazinos
+    accented: hazinos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - ill
+        - sick
+        french: ''
+        portuguese: ''
+        spanish: enfermos
+        turkish: hasta
+
+  - ladino: hazinas
+    accented: hazinas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - ill
+        - sick
+        french: ''
+        portuguese: ''
+        spanish: enfermas
+        turkish: hasta
+
+
+
+examples:
+  - ladino: El konosiya todos los hazinos i dava konsejos.

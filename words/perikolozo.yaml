@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '854'
 origen: Jeneral
+
 versions:
--   accented: perikolozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: perikolozo
+  - ladino: perikolozo
+    accented: perikolozo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - perilous
         - risky
         french: ''
         portuguese: ''
-        spanish: peligroso / a
+        spanish: peligroso
         turkish: tehlikeli
+
+  - ladino: perikoloza
+    accented: perikoloza
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - perilous
+        - risky
+        french: ''
+        portuguese: ''
+        spanish: peligrosa
+        turkish: tehlikeli
+
+  - ladino: perikolozos
+    accented: perikolozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - perilous
+        - risky
+        french: ''
+        portuguese: ''
+        spanish: peligrosos
+        turkish: tehlikeli
+
+  - ladino: perikolozas
+    accented: perikolozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - perilous
+        - risky
+        french: ''
+        portuguese: ''
+        spanish: peligrosas
+        turkish: tehlikeli
+
+
+examples: []

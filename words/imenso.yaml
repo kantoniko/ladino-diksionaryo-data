@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1850'
 origen: Jeneral
+
 versions:
--   accented: imenso
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: imenso
+  - ladino: imenso
+    accented: imenso
+    gender: masculine
+    number: singular
+
     translations:
         english: immense
         french: ''
         portuguese: ''
-        spanish: inmenso / a
+        spanish: inmenso
         turkish: kocaman
+
+  - ladino: imensa
+    accented: imensa
+    gender: feminine
+    number: singular
+
+    translations:
+        english: immense
+        french: ''
+        portuguese: ''
+        spanish: inmensa
+        turkish: kocaman
+
+  - ladino: imensos
+    accented: imensos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: immense
+        french: ''
+        portuguese: ''
+        spanish: inmensos
+        turkish: kocaman
+
+  - ladino: imensas
+    accented: imensas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: immense
+        french: ''
+        portuguese: ''
+        spanish: inmensas
+        turkish: kocaman
+
+
+examples: []

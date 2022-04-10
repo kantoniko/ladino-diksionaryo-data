@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '953'
 origen: Jeneral
+
 versions:
--   accented: riko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: riko
+  - ladino: riko
+    accented: riko
+    gender: masculine
+    number: singular
+
     translations:
         english: rich
         french: ''
         portuguese: ''
-        spanish: rico / a
+        spanish: rico
         turkish: zengin
+
+  - ladino: rika
+    accented: rika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: rich
+        french: ''
+        portuguese: ''
+        spanish: rica
+        turkish: zengin
+
+  - ladino: rikos
+    accented: rikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: rich
+        french: ''
+        portuguese: ''
+        spanish: ricos
+        turkish: zengin
+
+  - ladino: rikas
+    accented: rikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: rich
+        french: ''
+        portuguese: ''
+        spanish: ricas
+        turkish: zengin
+
+
+examples: []
