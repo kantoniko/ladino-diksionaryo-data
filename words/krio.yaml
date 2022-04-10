@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1954'
 origen: Jeneral
+
 versions:
--   accented: krio
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: krio
+  - ladino: krio
+    accented: krio
+    gender: masculine
+    number: singular
+
     translations:
         english: young child
         french: ''
         portuguese: ''
-        spanish: crío / a
+        spanish: crío
         turkish: küçük çocuk
+
+  - ladino: kria
+    accented: kria
+    gender: feminine
+    number: singular
+
+    translations:
+        english: young child
+        french: ''
+        portuguese: ''
+        spanish: cría
+        turkish: küçük çocuk
+
+  - ladino: krios
+    accented: krios
+    gender: masculine
+    number: plural
+
+    translations:
+        english: young children
+        french: ''
+        portuguese: ''
+        spanish: críos
+        turkish: küçük çocuk
+
+  - ladino: krias
+    accented: krias
+    gender: feminine
+    number: plural
+
+    translations:
+        english: young children
+        french: ''
+        portuguese: ''
+        spanish: crías
+        turkish: küçük çocuk
+
+
+examples: []

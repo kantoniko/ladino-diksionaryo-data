@@ -1,16 +1,57 @@
-examples: []
 grammar: null
 id: '1531'
 origen: Jeneral
+
 versions:
--   accented: valutozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: valutozo
+  - ladino: valutozo
+    accented: valutozo
+    gender: masculine
+    number: singular
+
     translations:
         english: valuable
         french: ''
         portuguese: ''
         spanish: valioso
         turkish: değerli
+
+  - ladino: valutoza
+    accented: valutoza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: valuable
+        french: ''
+        portuguese: ''
+        spanish: valiosa
+        turkish: değerli
+
+  - ladino: valutozos
+    accented: valutozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: valuables
+        french: ''
+        portuguese: ''
+        spanish: valiosos
+        turkish: değerli
+
+  - ladino: valutozas
+    accented: valutozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: valuables
+        french: ''
+        portuguese: ''
+        spanish: valiosas
+        turkish: değerli
+
+
+
+
+examples: []

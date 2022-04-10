@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '1865'
 origen: Jeneral
+
 versions:
--   accented: inkieto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: inkieto
+  - ladino: inkieto
+    accented: inkieto
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - restless
         - worried
         french: ''
         portuguese: ''
-        spanish: inquieto / a
+        spanish: inquieto
         turkish: endişeli
+
+  - ladino: inkieta
+    accented: inkieta
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - restless
+        - worried
+        french: ''
+        portuguese: ''
+        spanish: inquieta
+        turkish: endişeli
+
+  - ladino: inkietos
+    accented: inkietos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - restless
+        - worried
+        french: ''
+        portuguese: ''
+        spanish: inquietos
+        turkish: endişeli
+
+  - ladino: inkietas
+    accented: inkietas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - restless
+        - worried
+        french: ''
+        portuguese: ''
+        spanish: inquietas
+        turkish: endişeli
+
+
+examples: []

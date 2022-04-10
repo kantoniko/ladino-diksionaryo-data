@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2298'
 origen: Jeneral
+
 versions:
--   accented: familiar
+  - ladino: familiar
+    accented: familiar
+
     alternative-spelling:
-    -   accented: familyar
-        ladino: familyar
-    ladino: familiar
+      - ladino: familyar
+        accented: familyar
+
     translations:
         english: familiar
         french: ''
@@ -16,3 +18,5 @@ versions:
         turkish:
         - aşina
         - bildik
+
+examples: []

@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1116'
 origen: Jeneral
+
 versions:
--   accented: uniko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: uniko
+  - ladino: uniko
+    accented: uniko
+    gender: masculine
+    number: singular
+
     translations:
         english: unique
         french: ''
         portuguese: ''
-        spanish: único / a
+        spanish: único
         turkish: tek
+
+  - ladino: unika
+    accented: unika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: única
+        turkish: tek
+
+  - ladino: unikos
+    accented: unikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: únicos
+        turkish: tek
+
+  - ladino: unikas
+    accented: unikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: unique
+        french: ''
+        portuguese: ''
+        spanish: únicas
+        turkish: tek
+
+
+examples: []

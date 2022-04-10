@@ -2,12 +2,15 @@ examples: []
 grammar: null
 id: '2297'
 origen: Jeneral
+
 versions:
--   accented: familial
+  - ladino: familial
+    accented: familial
+
     alternative-spelling:
-    -   accented: familyal
-        ladino: familyal
-    ladino: familial
+      - ladino: familyal
+        accented: familyal
+
     translations:
         english: family (adj.)
         french: ''
