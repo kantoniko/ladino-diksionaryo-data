@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '2220'
 origen: Jeneral
+
 versions:
--   accented: timido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: timido
+  - ladino: timido
+    accented: timido
+    gender: masculine
+    number: singular
+
     translations:
         english: timid
         french: ''
         portuguese: ''
         spanish: tímido
         turkish: çekingen
+
+  - ladino: timida
+    accented: timida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: timid
+        french: ''
+        portuguese: ''
+        spanish: tímida
+        turkish: çekingen
+
+  - ladino: timidos
+    accented: timidos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: timid
+        french: ''
+        portuguese: ''
+        spanish: tímidos
+        turkish: ''
+
+  - ladino: timidas
+    accented: timidas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: timid
+        french: ''
+        portuguese: ''
+        spanish: tímidas
+        turkish: ''
+
+
+
+examples: []
