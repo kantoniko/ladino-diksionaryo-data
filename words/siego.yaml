@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '2183'
 origen: Jeneral
+
 versions:
--   accented: siego
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: siego
+  - ladino: siego
+    accented: siego
+    gender: masculine
+    number: singular
+
     translations:
         english: blind
         french: ''
         portuguese: ''
-        spanish: ciego / a
+        spanish: ciego
         turkish: kör
+
+  - ladino: siega
+    accented: siega
+    gender: feminine
+    number: singular
+
+    translations:
+        english: blind
+        french: ''
+        portuguese: ''
+        spanish: ciega
+        turkish: kör
+
+  - ladino: siegos
+    accented: siegos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: blind
+        french: ''
+        portuguese: ''
+        spanish: ciegos
+        turkish: ''
+
+  - ladino: siegas
+    accented: siegas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: blind
+        french: ''
+        portuguese: ''
+        spanish: ciega
+        turkish: kör
+
+examples: []
