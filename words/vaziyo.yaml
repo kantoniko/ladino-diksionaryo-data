@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '1126'
 origen: Jeneral
+
 versions:
--   accented: vaziyo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: vaziyo
+  - ladino: vaziyo
+    accented: vaziyo
+    gender: masculine
+    number: singular
+
     translations:
         english: empty
         french: ''
         portuguese: ''
-        spanish: vacío / a
+        spanish: vacío
         turkish: boş
+
+  - ladino: vaziya
+    accented: vaziya
+    gender: feminine
+    number: singular
+
+    translations:
+        english: empty
+        french: ''
+        portuguese: ''
+        spanish: vacía
+        turkish: boş
+
+  - ladino: vaziyos
+    accented: vaziyos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: empty
+        french: ''
+        portuguese: ''
+        spanish: vacíos
+        turkish: boş
+
+  - ladino: vaziyas
+    accented: vaziyas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: empty
+        french: ''
+        portuguese: ''
+        spanish: vacías
+        turkish: boş
+
+
+
+examples: []

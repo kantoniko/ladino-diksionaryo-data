@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '314'
 origen: Jeneral
+
 versions:
--   accented: empiegado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: empiegado
+  - ladino: empiegado
+    accented: empiegado
+    gender: masculine
+    number: singular
+
     translations:
         english: employee
         french: ''
         portuguese: ''
-        spanish: empleado / a
+        spanish: empleado
         turkish: müstahdem
+
+  - ladino: empiegada
+    accented: empiegada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: employee
+        french: ''
+        portuguese: ''
+        spanish: empleada
+        turkish: müstahdem
+
+  - ladino: empiegados
+    accented: empiegados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: employees
+        french: ''
+        portuguese: ''
+        spanish: empleados
+        turkish: müstahdem
+
+  - ladino: empiegadas
+    accented: empiegadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: employees
+        french: ''
+        portuguese: ''
+        spanish: empleadas
+        turkish: müstahdem
+
+
+examples: []

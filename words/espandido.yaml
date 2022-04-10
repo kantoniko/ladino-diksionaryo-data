@@ -1,20 +1,80 @@
-examples:
--   ladino: El grupo Ladinokomunita tiene mas de 1500 miembros espandidos en el mundo
-        entero.
 grammar: null
 id: '1799'
 origen: Jeneral
+
 versions:
--   accented: espandido
+  - ladino: espandido
+    accented: espandido
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    -   accented: ancho
-        ladino: ancho
-    ladino: espandido
+      - ladino: ancho
+        accented: ancho
+
     translations:
         english: extensive
-        french: étendu / e
-        portuguese: expandido / expandida
-        spanish: extenso / a
-        turkish: geniş; yaygın
+        french: étendu
+        portuguese: expandido
+        spanish: extenso
+        turkish:
+          - geniş
+          - yaygın
+
+  - ladino: espandida
+    accented: espandida
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: ancha
+        accented: ancha
+
+    translations:
+        english: extensive
+        french: étende
+        portuguese: expandida
+        spanish: extensa
+        turkish:
+          - geniş
+          - yaygın
+
+  - ladino: espandidos
+    accented: espandidos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: anchos
+        accented: anchos
+
+    translations:
+        english: extensives
+        french: étendu
+        portuguese: expandidos
+        spanish: extensos
+        turkish:
+          - geniş
+          - yaygın
+
+  - ladino: espandidas
+    accented: espandidas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: anchas
+        accented: anchas
+
+    translations:
+        english: extensives
+        french: étende
+        portuguese: expandidas
+        spanish: extensas
+        turkish:
+          - geniş
+          - yaygın
+
+
+examples:
+  - ladino: El grupo Ladinokomunita tiene mas de 1500 miembros espandidos en el mundo entero.

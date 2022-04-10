@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1752'
 origen: Jeneral
+
 versions:
--   accented: egzaltado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: egzaltado
+  - ladino: egzaltado
+    accented: egzaltado
+    gender: masculine
+    number: singular
+
     translations:
         english: exultant
         french: ''
         portuguese: ''
-        spanish: ufano / a
+        spanish: ufano
         turkish: coşkun
+
+  - ladino: egzaltada
+    accented: egzaltada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: exultant
+        french: ''
+        portuguese: ''
+        spanish: ufana
+        turkish: coşkun
+
+  - ladino: egzaltados
+    accented: egzaltados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: exultants
+        french: ''
+        portuguese: ''
+        spanish: ufanos
+        turkish: coşkun
+
+  - ladino: egzaltadas
+    accented: egzaltadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: exultants
+        french: ''
+        portuguese: ''
+        spanish: ufanas
+        turkish: coşkun
+
+
+examples: []
