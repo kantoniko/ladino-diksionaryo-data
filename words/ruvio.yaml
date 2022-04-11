@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '962'
 origen: Jeneral
+
 versions:
--   accented: ruvio
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: ruvio
+  - ladino: ruvio
+    accented: ruvio
+    gender: masculine
+    number: singular
+
     translations:
         english: red-haired
         french: ''
         portuguese: ''
-        spanish: pelirrojo / a
+        spanish: pelirrojo
         turkish: kızıl saçlı
+
+  - ladino: ruvia
+    accented: ruvia
+    gender: feminine
+    number: singular
+
+    translations:
+        english: red-haired
+        french: ''
+        portuguese: ''
+        spanish: pelirroja
+        turkish: kızıl saçlı
+
+  - ladino: ruvios
+    accented: ruvios
+    gender: masculine
+    number: plural
+
+    translations:
+        english: red-haired
+        french: ''
+        portuguese: ''
+        spanish: pelirrojos
+        turkish: kızıl saçlı
+
+  - ladino: ruvias
+    accented: ruvias
+    gender: feminine
+    number: plural
+
+    translations:
+        english: red-haired
+        french: ''
+        portuguese: ''
+        spanish: pelirrojas
+        turkish: kızıl saçlı
+
+
+examples: []

@@ -1,16 +1,71 @@
-examples: []
 grammar: null
-id: '737'
+id: '737,1416'
 origen: Jeneral
+
 versions:
--   accented: mismo
+  - ladino: mismo
+    accented: mismo
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: mismo
+      - ladino: mizmo
+        accented: mizmo
+
     translations:
         english: same
         french: ''
         portuguese: ''
-        spanish: mismo / a
+        spanish: mismo
         turkish: aynı
+
+  - ladino: misma
+    accented: misma
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: mizma
+        accented: mizma
+
+    translations:
+        english: same
+        french: ''
+        portuguese: ''
+        spanish: misma
+        turkish: aynı
+
+  - ladino: mismos
+    accented: mismos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: mizmos
+        accented: mizmos
+
+    translations:
+        english: same
+        french: ''
+        portuguese: ''
+        spanish: mismos
+        turkish: aynı
+
+  - ladino: mismas
+    accented: mismas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: mizmas
+        accented: mizmas
+
+    translations:
+        english: same
+        french: ''
+        portuguese: ''
+        spanish: mismas
+        turkish: aynı
+
+
+examples: []
