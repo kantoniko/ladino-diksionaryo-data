@@ -1,19 +1,64 @@
-examples:
--   ladino: El italiana tambien es una lingua latina.
 grammar: adjective
 id: '2681'
 origen: Jeneral
+
 versions:
--   accented: italiano
-    alternative-spelling:
-    -   accented: italiana
-        ladino: italiana
-    ladino: italiano
+  - ladino: italiano
+    accented: italiano
+    gender: masculine
+    number: singular
+
     translations:
         english: Italian
         french: ''
         portuguese: ''
-        spanish: italiano / italiana
+        spanish: italiano
         turkish:
         - Italyan
         - italyanca
+
+  - ladino: italiana
+    accented: italiana
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Italian
+        french: ''
+        portuguese: ''
+        spanish: italiana
+        turkish:
+        - Italyan
+        - italyanca
+
+  - ladino: italianos
+    accented: italianos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: Italians
+        french: ''
+        portuguese: ''
+        spanish: italianos
+        turkish:
+        - Italyan
+        - italyanca
+
+  - ladino: italianas
+    accented: italianas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: Italians
+        french: ''
+        portuguese: ''
+        spanish: italianas
+        turkish:
+        - Italyan
+        - italyanca
+
+
+examples:
+  - ladino: El italiana tambien es una lingua latina.

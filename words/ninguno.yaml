@@ -1,16 +1,31 @@
-examples: []
 grammar: pronoun
 id: '2747'
 origen: Jeneral
+
 versions:
--   accented: ningúno
-    alternative-spelling:
-    -   accented: ningúna
-        ladino: ninguna
-    ladino: ninguno
+  - ladino: ninguno
+    accented: ningúno
+    gender: masculine
+    number: singular
+
     translations:
         english: none
         french: ''
         portuguese: ''
-        spanish: ninguno / ninguna
+        spanish: ninguno
         turkish: hiçbiri
+
+  - ladino: ninguna
+    accented: ningúna
+    gender: feminine
+    number: singular
+
+    translations:
+        english: none
+        french: ''
+        portuguese: ''
+        spanish: ninguna
+        turkish: hiçbiri
+
+
+examples: []

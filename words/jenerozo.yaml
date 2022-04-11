@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '507'
 origen: Jeneral
+
 versions:
--   accented: jenerozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: jenerozo
+  - ladino: jenerozo
+    accented: jenerozo
+    gender: masculine
+    number: singular
+
     translations:
         english: generous
         french: ''
         portuguese: ''
-        spanish: generoso / a
+        spanish: generoso
         turkish: cömert
+
+  - ladino: jeneroza
+    accented: jeneroza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: generous
+        french: ''
+        portuguese: ''
+        spanish: generosa
+        turkish: cömert
+
+  - ladino: jenerozos
+    accented: jenerozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: generous
+        french: ''
+        portuguese: ''
+        spanish: generosos
+        turkish: cömert
+
+  - ladino: jenerozas
+    accented: jenerozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: generous
+        french: ''
+        portuguese: ''
+        spanish: generosas
+        turkish: cömert
+
+examples: []
