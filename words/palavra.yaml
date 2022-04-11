@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1435'
 origen: Jeneral
+
 versions:
--   accented: palavra
-    ladino: palavra
+  - ladino: palavra
+    accented: palavra
+    gender: feminine
+    number: singular
+
     translations:
         english: word
         french: ''
         portuguese: ''
         spanish: palabra
         turkish: kelime
+
+  - ladino: palavras
+    accented: palavras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: words
+        french: ''
+        portuguese: ''
+        spanish: palabras
+        turkish: kelime
+
+
+examples: []
