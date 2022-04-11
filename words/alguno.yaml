@@ -1,11 +1,13 @@
-examples:
--   ladino: Alguno vino?
 grammar: pronoun
 id: '73'
 origen: Jeneral
+
 versions:
--   accented: algúno
-    ladino: alguno
+  - ladino: alguno
+    accented: algúno
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - someone
@@ -19,3 +21,64 @@ versions:
         turkish:
         - birisi
         - herhangi biri
+
+  - ladino: alguna
+    accented: algúna
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - someone
+        - some
+        - any
+        french: ''
+        portuguese: ''
+        spanish:
+        - alguien
+        - alguna
+        turkish:
+        - birisi
+        - herhangi biri
+
+  - ladino: algunos
+    accented: algúnos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - someone
+        - some
+        - any
+        french: ''
+        portuguese: ''
+        spanish:
+        - alguien
+        - algunos
+        turkish:
+        - birisi
+        - herhangi biri
+
+  - ladino: algunas
+    accented: algúnas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - someone
+        - some
+        - any
+        french: ''
+        portuguese: ''
+        spanish:
+        - alguien
+        - algunas
+        turkish:
+        - birisi
+        - herhangi biri
+
+examples:
+  - ladino: Alguno vino?
+
