@@ -1,2 +1,2 @@
-python ../ladino-diksionaryo-code/generate.py --dictionary $(pwd)
+python ../ladino-diksionaryo-code/ladino/generate.py --dictionary $(pwd)
 #--log
