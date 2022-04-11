@@ -30,7 +30,7 @@ jobs:
 
     - name: Run tests
       run: |
-          pytest -sv --random-order test_generate.py
+          pytest -sv --random-order tests/
 
   generate:
     runs-on: ubuntu-latest
