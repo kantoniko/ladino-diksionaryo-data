@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '431'
 origen: Jeneral
+
 versions:
--   accented: flosho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: flosho
+  - ladino: flosho
+    accented: flosho
+    gender: masculine
+    number: singular
+
     translations:
         english: limp
         french: ''
         portuguese: ''
-        spanish: lacio / a
+        spanish: lacio
         turkish:
         - gevşek
         - laçka
+
+  - ladino: flosha
+    accented: flosha
+    gender: feminine
+    number: singular
+
+    translations:
+        english: limp
+        french: ''
+        portuguese: ''
+        spanish: lacia
+        turkish:
+        - gevşek
+        - laçka
+
+  - ladino: floshos
+    accented: floshos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: limps
+        french: ''
+        portuguese: ''
+        spanish: lacios
+        turkish:
+        - gevşek
+        - laçka
+
+  - ladino: floshas
+    accented: floshas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: limps
+        french: ''
+        portuguese: ''
+        spanish: lacias
+        turkish:
+        - gevşek
+        - laçka
+
+
+examples: []

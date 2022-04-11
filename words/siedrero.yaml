@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1006'
 origen: Jeneral
+
 versions:
--   accented: siedrero
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: siedrero
+  - ladino: siedrero
+    accented: siedrero
+    gender: masculine
+    number: singular
+
     translations:
         english: left-handed
         french: ''
         portuguese: ''
-        spanish: zurdo / a
+        spanish: zurdo
         turkish: solak
+
+  - ladino: siedrera
+    accented: siedrera
+    gender: feminine
+    number: singular
+
+    translations:
+        english: left-handed
+        french: ''
+        portuguese: ''
+        spanish: zurda
+        turkish: solak
+
+  - ladino: siedreros
+    accented: siedreros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: left-handed
+        french: ''
+        portuguese: ''
+        spanish: zurdos
+        turkish: solak
+
+  - ladino: siedreras
+    accented: siedreras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: left-handed
+        french: ''
+        portuguese: ''
+        spanish: zurdas
+        turkish: solak
+
+
+examples: []

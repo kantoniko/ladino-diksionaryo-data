@@ -1,18 +1,59 @@
-examples: []
 grammar: null
 id: '826'
 origen: Jeneral
+
 versions:
--   accented: paresozo
+  - ladino: paresozo
+    accented: paresozo
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    -   accented: haragan
-        ladino: haragan
-    ladino: paresozo
+      - ladino: haragan
+        accented: haragan
+
     translations:
         english: lazy
         french: ''
         portuguese: ''
-        spanish: perezoso / a
+        spanish: perezoso
         turkish: tembel
+
+  - ladino: paresoza
+    accented: paresoza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: lazy
+        french: ''
+        portuguese: ''
+        spanish: perezosa
+        turkish: tembel
+
+  - ladino: paresozos
+    accented: paresozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: lazy
+        french: ''
+        portuguese: ''
+        spanish: perezosos
+        turkish: tembel
+
+  - ladino: paresozas
+    accented: paresozas
+    gender: feminine
+    number: singular
+
+    translations:
+        english: lazy
+        french: ''
+        portuguese: ''
+        spanish: perezosas
+        turkish: tembel
+
+
+examples: []
