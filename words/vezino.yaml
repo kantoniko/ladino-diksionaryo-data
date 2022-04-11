@@ -1,19 +1,74 @@
-examples: []
 grammar: null
 id: '1139'
 origen: Jeneral
+
 versions:
--   accented: vezino
+  - ladino: vezino
+    accented: vezíno
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: vezino
+      - ladino: vizino
+        accented: vizíno
+
     translations:
         english: neighbour
-        french: ''
-        portuguese: ''
-        spanish: vecino / a
+        french: voisin
+        portuguese: vizinho
+        spanish: vecino
         turkish: komşu
 
+  - ladino: vezina
+    accented: vezína
+    gender: feminine
+    number: singular
 
-# vezíno / vezína (m/f),Le di una dada al vezino chiko.,vecino / vecina,neighbour,komşu,Jeneral,1538,vizinho / vizinha,voisin / voisine
+    alternative-spelling:
+      - ladino: vizina
+        accented: vizína
+
+    translations:
+        english: neighbour
+        french: voisine
+        portuguese: vizinha
+        spanish: vecina
+        turkish: komşu
+
+  - ladino: vezinos
+    accented: vezínos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: vizinos
+        accented: vizínos
+
+    translations:
+        english: neighbours
+        french: ''
+        portuguese: ''
+        spanish: vecinos
+        turkish: komşu
+
+  - ladino: vezinas
+    accented: vezínas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: vizinas
+        accented: vizínas
+
+    translations:
+        english: neighbours
+        french: ''
+        portuguese: ''
+        spanish: vecinas
+        turkish: komşu
+
+examples:
+  - ladino: Le di una dada al vezino chiko.
+  - ladino: Se ambezo un poko de grego kon los vizinos de arriva.
+
+

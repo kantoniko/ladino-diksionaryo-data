@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '661'
 origen: Jeneral
+
 versions:
--   accented: largo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: largo
+  - ladino: largo
+    accented: largo
+    gender: masculine
+    number: singular
+
     translations:
         english: long
         french: ''
         portuguese: ''
-        spanish: largo / a
+        spanish: largo
         turkish: uzun
+
+  - ladino: larga
+    accented: larga
+    gender: feminine
+    number: singular
+
+    translations:
+        english: long
+        french: ''
+        portuguese: ''
+        spanish: larga
+        turkish: uzun
+
+  - ladino: largos
+    accented: largos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: long
+        french: ''
+        portuguese: ''
+        spanish: largos
+        turkish: uzun
+
+  - ladino: largas
+    accented: largas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: long
+        french: ''
+        portuguese: ''
+        spanish: largas
+        turkish: uzun
+
+
+examples: []

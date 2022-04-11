@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '679'
 origen: Jeneral
+
 versions:
--   accented: luksyozo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: luksyozo
+  - ladino: luksyozo
+    accented: luksyozo
+    gender: masculine
+    number: singular
+
     translations:
         english: luxurious
         french: ''
         portuguese: ''
-        spanish: lujoso / a
+        spanish: lujoso
         turkish: lüks
+
+  - ladino: luksyoza
+    accented: luksyoza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: luxurious
+        french: ''
+        portuguese: ''
+        spanish: lujosa
+        turkish: lüks
+
+  - ladino: luksyozos
+    accented: luksyozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: luxurious
+        french: ''
+        portuguese: ''
+        spanish: lujosos
+        turkish: lüks
+
+  - ladino: luksyozas
+    accented: luksyozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: luxurious
+        french: ''
+        portuguese: ''
+        spanish: lujosas
+        turkish: lüks
+
+
+
+examples: []

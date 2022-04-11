@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '701'
 origen: Jeneral
 versions:
--   accented: manyifiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: manyifiko
+  - ladino: manyifiko
+    accented: manyifiko
+    gender: masculine
+    number: singular
+
     translations:
         english: magnificent
         french: ''
         portuguese: ''
-        spanish: magnifico / a
+        spanish: magnifico
         turkish: muhteşem
+
+  - ladino: manyifika
+    accented: manyifika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: magnificent
+        french: ''
+        portuguese: ''
+        spanish: magnifica
+        turkish: muhteşem
+
+  - ladino: manyifikos
+    accented: manyifikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: magnificent
+        french: ''
+        portuguese: ''
+        spanish: magnificos
+        turkish: muhteşem
+
+  - ladino: manyifikas
+    accented: manyifikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: magnificent
+        french: ''
+        portuguese: ''
+        spanish: magnificas
+        turkish: muhteşem
+
+
+examples: []

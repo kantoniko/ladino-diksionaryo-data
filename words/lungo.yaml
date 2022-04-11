@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1404'
 origen: Jeneral
+
 versions:
--   accented: lungo
-    ladino: lungo
+  - ladino: lungo
+    accented: lungo
+
     translations:
         english: long
         french: ''
         portuguese: ''
         spanish: largo
         turkish: ''
+
+examples: []

@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1969'
 origen: Jeneral
 versions:
--   accented: lusido
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: lusido
+  - ladino: lusido
+    accented: lusido
+    gender: masculine
+    number: singular
+
     translations:
         english: lucid
         french: ''
         portuguese: ''
-        spanish: lúcido / a
+        spanish: lúcido
         turkish: açık seçik
+
+  - ladino: lusida
+    accented: lusida
+    gender: feminine
+    number: singular
+
+    translations:
+        english: lucid
+        french: ''
+        portuguese: ''
+        spanish: lúcida
+        turkish: açık seçik
+
+  - ladino: lusidos
+    accented: lusidos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: lucid
+        french: ''
+        portuguese: ''
+        spanish: lúcidos
+        turkish: açık seçik
+
+  - ladino: lusidas
+    accented: lusidas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lucid
+        french: ''
+        portuguese: ''
+        spanish: lúcidas
+        turkish: açık seçik
+
+
+examples: []
