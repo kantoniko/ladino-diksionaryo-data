@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '2168'
 origen: Jeneral
+
 versions:
--   accented: sekreto
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: sekreto
+  - ladino: sekreto
+    accented: sekreto
+    gender: masculine
+    number: singular
+
     translations:
         english: secret
         french: ''
         portuguese: ''
-        spanish: secreto / a
+        spanish: secreto
         turkish: gizli
+
+  - ladino: sekreta
+    accented: sekreta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: secret
+        french: ''
+        portuguese: ''
+        spanish: secreta
+        turkish: gizli
+
+  - ladino: sekretos
+    accented: sekretos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: secrets
+        french: ''
+        portuguese: ''
+        spanish: secretos
+        turkish: gizli
+
+  - ladino: sekretas
+    accented: sekretas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: secrets
+        french: ''
+        portuguese: ''
+        spanish: secretas
+        turkish: gizli
+
+
+examples: []

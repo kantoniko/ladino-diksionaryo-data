@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1540'
 origen: Jeneral
+
 versions:
--   accented: yeno
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: yeno
+  - ladino: yeno
+    accented: yeno
+    gender: masculine
+    number: singular
+
     translations:
         english: full
         french: ''
         portuguese: ''
-        spanish: lleno / a
+        spanish: lleno
         turkish: dolu
+
+  - ladino: yena
+    accented: yena
+    gender: feminine
+    number: singular
+
+    translations:
+        english: full
+        french: ''
+        portuguese: ''
+        spanish: llena
+        turkish: dolu
+
+  - ladino: yenos
+    accented: yenos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: full
+        french: ''
+        portuguese: ''
+        spanish: llenos
+        turkish: dolu
+
+  - ladino: yenas
+    accented: yenas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: full
+        french: ''
+        portuguese: ''
+        spanish: llenas
+        turkish: dolu
+
+examples: []

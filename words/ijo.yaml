@@ -1,22 +1,64 @@
-comments:
-- 'grammar: m/f'
-examples:
--   ladino: son ijos de dos ermanos
 grammar: null
 id: '478'
 origen: Jeneral
+
 versions:
--   accented: ijo
-    alternative-spelling:
-    -   accented: ija
-        ladino: ija
-    ladino: ijo
+  - ladino: ijo
+    accented: ijo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - boy
-        - son / girl
+        - son
+        french: fils
+        portuguese: filho
+        spanish: hijo
+        turkish: oğul
+
+  - ladino: ija
+    accented: ija
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - girl
         - daughter
-        french: fils / fille
-        portuguese: Filho / filha
-        spanish: hijo / hija
-        turkish: oğul / kız
+        french: fille
+        portuguese: filha
+        spanish: hija
+        turkish: kız
+
+  - ladino: ijos
+    accented: ijos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - boys
+        - sons
+        french: fils
+        portuguese: filhos
+        spanish: hijos
+        turkish: oğul
+
+  - ladino: ijas
+    accented: ijas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - girls
+        - daughters
+        french: fille
+        portuguese: filhas
+        spanish: hijas
+        turkish: kız
+
+
+examples:
+  - ladino: son ijos de dos ermanos

@@ -1,18 +1,63 @@
-examples: []
 grammar: null
 id: '811'
 origen: Jeneral
 versions:
--   accented: otro
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: otro
+  - ladino: otro
+    accented: otro
+    gender: masculine
+    number: singular
+
     translations:
         english: other
         french: ''
         portuguese: ''
-        spanish: otro / a
+        spanish: otro
         turkish:
         - sair
         - diğer
+
+  - ladino: otra
+    accented: otra
+    gender: feminine
+    number: singular
+
+    translations:
+        english: other
+        french: ''
+        portuguese: ''
+        spanish: otra
+        turkish:
+        - sair
+        - diğer
+
+  - ladino: otros
+    accented: otros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: other
+        french: ''
+        portuguese: ''
+        spanish: otros
+        turkish:
+        - sair
+        - diğer
+
+  - ladino: otras
+    accented: otras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: other
+        french: ''
+        portuguese: ''
+        spanish: otras
+        turkish:
+        - sair
+        - diğer
+
+
+
+examples: []
