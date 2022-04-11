@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '2164'
 origen: Jeneral
+
 versions:
--   accented: segundo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: segundo
+  - ladino: segundo
+    accented: segundo
+    gender: masculine
+    number: singular
+
     translations:
         english: second
         french: ''
         portuguese: ''
-        spanish: segundo / a
+        spanish: segundo
         turkish: ikinci
+
+  - ladino: segunda
+    accented: segunda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: second
+        french: ''
+        portuguese: ''
+        spanish: segunda
+        turkish: ikinci
+
+  - ladino: segundos
+    accented: segundos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: seconds
+        french: ''
+        portuguese: ''
+        spanish: segundos
+        turkish: ikinci
+
+  - ladino: segundas
+    accented: segundas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: seconds
+        french: ''
+        portuguese: ''
+        spanish: segundas
+        turkish: ikinci
+
+
+examples: []

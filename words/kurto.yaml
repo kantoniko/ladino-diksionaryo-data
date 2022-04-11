@@ -1,24 +1,88 @@
-examples: []
 grammar: null
 id: '652'
 origen: Jeneral
+
 versions:
--   accented: kurto
+  - ladino: kurto
+    accented: kurto
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: a
-        ladino: a
-    -   accented: bashitiko
-        ladino: bashitiko
-    -   accented: a
-        ladino: a
-    ladino: kurto
+      - ladino: bashitiko
+        accented: bashitiko
+
     translations:
         english: short
         french: ''
         portuguese: ''
         spanish:
-        - corto / a
-        - bajo / a
+        - corto
+        - bajo
         turkish:
         - kısa
         - kısa boylu
+
+  - ladino: kurta
+    accented: kurta
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bashitika
+        accented: bashitika
+
+    translations:
+        english: short
+        french: ''
+        portuguese: ''
+        spanish:
+        - corta
+        - baja
+        turkish:
+        - kısa
+        - kısa boylu
+
+  - ladino: kurtos
+    accented: kurtos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bashitikos
+        accented: bashitikos
+
+    translations:
+        english: short
+        french: ''
+        portuguese: ''
+        spanish:
+        - cortos
+        - bajos
+        turkish:
+        - kısa
+        - kısa boylu
+
+  - ladino: kurtas
+    accented: kurtas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bashitikas
+        accented: bashitikas
+
+    translations:
+        english: short
+        french: ''
+        portuguese: ''
+        spanish:
+        - cortas
+        - bajas
+        turkish:
+        - kısa
+        - kısa boylu
+
+
+
+examples: []
