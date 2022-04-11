@@ -1,11 +1,13 @@
-examples:
--   ladino: Aki te mando unos kuantos enshemplos del fenomeno linguistiko.
 grammar: null
 id: '2435'
 origen: Jeneral
+
 versions:
--   accented: enshémplo
-    ladino: enshemplo
+  - ladino: enshemplo
+    accented: enshémplo
+    gender: masculine
+    number: singular
+
     translations:
         english: example
         french: ''
@@ -14,3 +16,20 @@ versions:
         turkish:
         - misal
         - örnek
+
+  - ladino: enshemplos
+    accented: enshémplos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: examples
+        french: ''
+        portuguese: ''
+        spanish: ejemplos
+        turkish:
+        - misal
+        - örnek
+
+examples:
+  - ladino: Aki te mando unos kuantos enshemplos del fenomeno linguistiko.
