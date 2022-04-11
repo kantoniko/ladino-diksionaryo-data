@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '2207'
 origen: Jeneral
+
 versions:
--   accented: suksesivo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: suksesivo
+  - ladino: suksesivo
+    accented: suksesivo
+    gender: masculine
+    number: singular
+
     translations:
         english: successive
         french: ''
         portuguese: ''
-        spanish: sucesivo / a
+        spanish: sucesivo
         turkish: müteakip
+
+  - ladino: suksesiva
+    accented: suksesiva
+    gender: feminine
+    number: singular
+
+    translations:
+        english: successive
+        french: ''
+        portuguese: ''
+        spanish: sucesiva
+        turkish: müteakip
+
+  - ladino: suksesivos
+    accented: suksesivos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: successive
+        french: ''
+        portuguese: ''
+        spanish: sucesivos
+        turkish: müteakip
+
+  - ladino: suksesivas
+    accented: suksesivas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: successive
+        french: ''
+        portuguese: ''
+        spanish: sucesivas
+        turkish: müteakip
+
+
+examples: []

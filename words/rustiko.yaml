@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '2155'
 origen: Jeneral
+
 versions:
--   accented: rustiko
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: rustiko
+  - ladino: rustiko
+    accented: rustiko
+    gender: masculine
+    number: singular
+
     translations:
         english: rustic
         french: ''
         portuguese: ''
-        spanish: rústico / a
+        spanish: rústico
         turkish: rüstik
+
+  - ladino: rustika
+    accented: rustika
+    gender: feminine
+    number: singular
+
+    translations:
+        english: rustic
+        french: ''
+        portuguese: ''
+        spanish: rústica
+        turkish: rüstik
+
+  - ladino: rustikos
+    accented: rustikos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: rustic
+        french: ''
+        portuguese: ''
+        spanish: rústicos
+        turkish: rüstik
+
+  - ladino: rustikas
+    accented: rustikas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: rustic
+        french: ''
+        portuguese: ''
+        spanish: rústicas
+        turkish: rüstik
+
+examples: []

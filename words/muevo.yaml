@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '753'
 origen: Jeneral
+
 versions:
--   accented: muevo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: muevo
+  - ladino: muevo
+    accented: muevo
+    gender: masculine
+    number: singular
+
     translations:
         english: new
         french: ''
         portuguese: ''
-        spanish: nuevo / a
+        spanish: nuevo
         turkish: yeni
+
+  - ladino: mueva
+    accented: mueva
+    gender: feminine
+    number: singular
+
+    translations:
+        english: new
+        french: ''
+        portuguese: ''
+        spanish: nueva
+        turkish: yeni
+
+  - ladino: muevos
+    accented: muevos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: new
+        french: ''
+        portuguese: ''
+        spanish: nuevos
+        turkish: yeni
+
+  - ladino: muevas
+    accented: muevas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: new
+        french: ''
+        portuguese: ''
+        spanish: nuevas
+        turkish: yeni
+
+
+examples: []

@@ -1,15 +1,13 @@
-examples:
--   ladino: 'La esklava seya de espanto, seya a kavza de la prometa deskuvryo a Abdulhamid
-        ke su maestra lo topava a el muy aedado i enkapache de amor. '
 grammar: adjective
 id: '40'
 origen: Jeneral
+
 versions:
--   accented: aedádo
-    alternative-spelling:
-    -   accented: aedáda
-        ladino: aedada
-    ladino: aedado
+  - ladino: aedado
+    accented: aedádo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - old
@@ -20,5 +18,63 @@ versions:
         portuguese:
         - idoso
         - idosa
-        spanish: anciano / anciana
+        spanish: anciano
         turkish: yaşlı
+
+  - ladino: aedada
+    accented: aedáda
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - old
+        - aged
+        french:
+        - âgé
+        - âgée
+        portuguese:
+        - idoso
+        - idosa
+        spanish: anciana
+        turkish: yaşlı
+
+  - ladino: aedados
+    accented: aedádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - old
+        - aged
+        french:
+        - âgé
+        - âgée
+        portuguese:
+        - idoso
+        - idosa
+        spanish: ancianos
+        turkish: yaşlı
+
+  - ladino: aedadas
+    accented: aedádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - old
+        - aged
+        french:
+        - âgé
+        - âgée
+        portuguese:
+        - idoso
+        - idosa
+        spanish: ancianas
+        turkish: yaşlı
+
+
+examples:
+  - ladino: 'La esklava seya de espanto, seya a kavza de la prometa deskuvryo a Abdulhamid ke su maestra lo topava a el muy aedado i enkapache de amor. '

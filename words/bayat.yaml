@@ -1,11 +1,11 @@
-examples:
--   ladino: Kon pan bayat se aze "Revanadas de Parida".
 grammar: adjective
 id: '2900'
 origen: Estanbol
+
 versions:
--   accented: bayát
-    ladino: bayat
+  - ladino: bayat
+    accented: bayát
+
     translations:
         english:
         - stale
@@ -18,3 +18,6 @@ versions:
         - pasado
         - duro (pan)
         turkish: bayat
+
+examples:
+  - ladino: Kon pan bayat se aze "Revanadas de Parida".

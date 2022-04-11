@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1970'
 origen: Jeneral
 versions:
--   accented: maho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: maho
+  - ladino: maho
+    accented: maho
+    gender: masculine
+    number: singular
+
     translations:
         english: quiet
         french: ''
         portuguese: ''
-        spanish: majo / a
+        spanish: majo
         turkish: durgun
+
+  - ladino: maha
+    accented: maha
+    gender: feminine
+    number: singular
+
+    translations:
+        english: quiet
+        french: ''
+        portuguese: ''
+        spanish: maja
+        turkish: durgun
+
+  - ladino: mahos
+    accented: mahos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: quiet
+        french: ''
+        portuguese: ''
+        spanish: majos
+        turkish: durgun
+
+  - ladino: mahas
+    accented: mahas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: quiet
+        french: ''
+        portuguese: ''
+        spanish: majas
+        turkish: durgun
+
+
+examples: []

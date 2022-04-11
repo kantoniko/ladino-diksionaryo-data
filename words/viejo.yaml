@@ -1,19 +1,57 @@
-examples: []
 grammar: null
 id: '1143'
 origen: Jeneral
+
 versions:
--   accented: viejo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: viejo
+  - ladino: viejo
+    accented: viejo
+    gender: masculine
+    number: singular
+
     translations:
         english: old
         french: ''
         portuguese: ''
-        spanish: antiguo / a
+        spanish: antiguo
         turkish: eski
 
-# viejo / a,,antiguo / a,old,eski,Jeneral,1143,,
+  - ladino: vieja
+    accented: vieja
+    gender: feminine
+    number: singular
+
+    translations:
+        english: old
+        french: ''
+        portuguese: ''
+        spanish: antigua
+        turkish: eski
+
+  - ladino: viejos
+    accented: viejos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: old
+        french: ''
+        portuguese: ''
+        spanish: antiguos
+        turkish: eski
+
+  - ladino: viejas
+    accented: viejas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: old
+        french: ''
+        portuguese: ''
+        spanish: antiguas
+        turkish: eski
+
+
+examples: []
+
 # "viejo/a,aedado/a,nikochiri",,"viejo / a, anciano / a","old, aged","ihtiyar, yaşlı",Jeneral,1144,,
