@@ -1,12 +1,13 @@
-examples: []
 grammar: null
 id: '2680'
 origen: Jeneral
+
 versions:
--   accented: idióma
+  - ladino: idioma
+    accented: idióma
     gender: masculine
-    ladino: idioma
     number: singular
+
     translations:
         english: idiom
         french: ''
@@ -15,3 +16,19 @@ versions:
         turkish:
         - dil
         - lehçe
+
+  - ladino: idiomas
+    accented: idiómas
+    gender: masculine
+    number: plural
+
+    translations:
+        english: idioms
+        french: ''
+        portuguese: ''
+        spanish: idiomas
+        turkish:
+        - dil
+        - lehçe
+
+examples: []
