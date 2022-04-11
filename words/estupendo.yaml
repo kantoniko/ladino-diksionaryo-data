@@ -1,16 +1,54 @@
-examples: []
 grammar: null
 id: '1813'
 origen: Jeneral
+
 versions:
--   accented: estupendo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: estupendo
+  - ladino: estupendo
+    accented: estupendo
+    gender: masculine
+    number: singular
+
     translations:
         english: stupendous
         french: ''
         portuguese: ''
-        spanish: estupendo / a
+        spanish: estupendo
         turkish: harikulâde
+
+  - ladino: estupenda
+    accented: estupenda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: stupendous
+        french: ''
+        portuguese: ''
+        spanish: estupenda
+        turkish: harikulâde
+
+  - ladino: estupendos
+    accented: estupendos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: stupendous
+        french: ''
+        portuguese: ''
+        spanish: estupendos
+        turkish: harikulâde
+
+  - ladino: estupendas
+    accented: estupendas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: stupendous
+        french: ''
+        portuguese: ''
+        spanish: estupendas
+        turkish: harikulâde
+
+examples: []
