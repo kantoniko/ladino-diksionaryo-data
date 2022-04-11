@@ -1,18 +1,59 @@
-examples: []
 grammar: null
 id: '751'
 origen: Jeneral
+
 versions:
--   accented: muchacho
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: muchacho
+  - ladino: muchacho
+    accented: muchacho
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - boy
+        french: ''
+        portuguese: ''
+        spanish: muchacho
+        turkish: oğlan
+
+  - ladino: muchacha
+    accented: muchacha
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
         - girl
         french: ''
         portuguese: ''
-        spanish: muchacho / a
-        turkish: oğlan / kız
+        spanish: muchacha
+        turkish: kız
+
+  - ladino: muchachos
+    accented: muchachos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - boys
+        french: ''
+        portuguese: ''
+        spanish: muchachos
+        turkish: oğlan
+
+  - ladino: muchachas
+    accented: muchachas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - girls
+        french: ''
+        portuguese: ''
+        spanish: muchachas
+        turkish: kız
+
+
+examples: []

@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '1845'
 origen: Jeneral
+
 versions:
--   accented: grizo
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: grizo
+  - ladino: grizo
+    accented: grizo
+    gender: masculine
+    number: singular
+
     translations:
         english: grey
         french: ''
         portuguese: ''
         spanish: gris
         turkish: gri
+
+  - ladino: griza
+    accented: griza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: grey
+        french: ''
+        portuguese: ''
+        spanish: grisa
+        turkish: gri
+
+  - ladino: grizos
+    accented: grizos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: grey
+        french: ''
+        portuguese: ''
+        spanish: gris
+        turkish: gri
+
+  - ladino: grizas
+    accented: grizas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: grey
+        french: ''
+        portuguese: ''
+        spanish: grisas
+        turkish: gri
+
+
+examples: []

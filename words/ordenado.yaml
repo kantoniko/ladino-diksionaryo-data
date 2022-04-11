@@ -1,16 +1,55 @@
-examples: []
 grammar: null
 id: '800'
 origen: Jeneral
+
 versions:
--   accented: ordenado
-    alternative-spelling:
-    -   accented: a
-        ladino: a
-    ladino: ordenado
+  - ladino: ordenado
+    accented: ordenado
+    gender: masculine
+    number: singular
+
     translations:
         english: orderly
         french: ''
         portuguese: ''
-        spanish: ordenado / a
+        spanish: ordenado
         turkish: düzenli
+
+  - ladino: ordenada
+    accented: ordenada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: orderly
+        french: ''
+        portuguese: ''
+        spanish: ordenada
+        turkish: düzenli
+
+  - ladino: ordenados
+    accented: ordenados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: orderly
+        french: ''
+        portuguese: ''
+        spanish: ordenados
+        turkish: düzenli
+
+  - ladino: ordenadas
+    accented: ordenadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: orderly
+        french: ''
+        portuguese: ''
+        spanish: ordenadas
+        turkish: düzenli
+
+
+examples: []
