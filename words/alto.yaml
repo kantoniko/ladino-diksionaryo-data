@@ -1,21 +1,71 @@
-examples:
--   ladino: Ke tengas mazal alto i ke korras de reushita a reushita.
 grammar: adjective
 id: '81'
 origen: Jeneral
+
 versions:
--   accented: álto
-    alternative-spelling:
-    -   accented: álta
-        ladino: alta
-    ladino: alto
+  - ladino: alto
+    accented: álto
+    gender: masculine
+    number: singular
+
     translations:
         english: tall
         french:
         - grand
         - haut de taille
-        portuguese: alto / alta
-        spanish: alto / alta
+        portuguese: alto
+        spanish: alto
         turkish:
         - uzun boylu
         - yüksek
+
+  - ladino: alta
+    accented: álta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: tall
+        french:
+        - grand
+        - haut de taille
+        portuguese: alta
+        spanish: alta
+        turkish:
+        - uzun boylu
+        - yüksek
+
+  - ladino: altos
+    accented: áltos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tall
+        french:
+        - grand
+        - haut de taille
+        portuguese: altos
+        spanish: altos
+        turkish:
+        - uzun boylu
+        - yüksek
+
+  - ladino: altas
+    accented: áltas
+    gender: feminine
+    number: singular
+
+    translations:
+        english: tall
+        french:
+        - grand
+        - haut de taille
+        portuguese: altas
+        spanish: altas
+        turkish:
+        - uzun boylu
+        - yüksek
+
+examples:
+  - ladino: Ke tengas mazal alto i ke korras de reushita a reushita.

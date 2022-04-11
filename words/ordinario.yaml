@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2038'
 origen: Jeneral
+
 versions:
--   accented: ordinario
+  - ladino: ordinario
+    accented: ordinario
+
     alternative-spelling:
     -   accented: bayagi
         ladino: bayagi
-    ladino: ordinario
+
     translations:
         english:
         - ordinary
@@ -18,3 +20,5 @@ versions:
         turkish:
         - adí
         - bayağı
+
+examples: []
