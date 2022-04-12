@@ -1,17 +1,60 @@
-examples: []
 grammar: null
-id: '386'
+id: '386,387'
 origen: Jeneral
+
 versions:
--   accented: este
-    ladino: este
+  - ladino: este
+    accented: este
+    gender: masculine
+    number: singular
+
     translations:
-        english: east
+        english:
+          - east
+          - this
         french: ''
         portuguese: ''
         spanish: este
-        turkish: doğu
+        turkish:
+          - doğu
+          - bu
 
+  - ladino: esta
+    accented: esta
+    gender: feminine
+    number: singular
 
-# este,,este,east,doğu,Jeneral,386,,
-# este / esta,,eso / esa,this,bu,Jeneral,387,,
+    translations:
+        english: this
+        french: ''
+        portuguese: ''
+        spanish: esta
+        turkish: bu
+
+  - ladino: estes
+    accented: estes
+    gender: masculine
+    number: plural
+
+    translations:
+        english: these
+        french: ''
+        portuguese: ''
+        spanish: estes
+        turkish: ''
+
+  - ladino: estas
+    accented: estas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: these
+        french: ''
+        portuguese: ''
+        spanish: estas
+        turkish: ''
+
+examples: []
+
+# eso / esa,this,bu,Jeneral,387,
