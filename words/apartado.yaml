@@ -1,14 +1,13 @@
-examples:
--   ladino: Bive apartado de la djente.
 grammar: adjective
 id: '1610'
 origen: Jeneral
+
 versions:
--   accented: apartádo
-    alternative-spelling:
-    -   accented: apartáda
-        ladino: apartada
-    ladino: apartado
+  - ladino: apartado
+    accented: apartádo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - remote
@@ -17,7 +16,62 @@ versions:
         - séparé
         - isolé
         portuguese: separado
-        spanish: apartado / apartada
+        spanish: apartado
         turkish:
-        - ayrı;
+        - ayrı
         - izole
+
+  - ladino: apartada
+    accented: apartáda
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - remote
+        - isolated
+        french: ''
+        portuguese: separada
+        spanish: apartada
+        turkish:
+        - ayrı
+        - izole
+
+  - ladino: apartados
+    accented: apartádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - remote
+        - isolated
+        french:
+        - séparé
+        - isolé
+        portuguese: separados
+        spanish: apartados
+        turkish:
+        - ayrı
+        - izole
+
+  - ladino: apartadas
+    accented: apartádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - remote
+        - isolated
+        french: ''
+        portuguese: separadas
+        spanish: apartadas
+        turkish:
+        - ayrı
+        - izole
+
+
+
+examples:
+  - ladino: Bive apartado de la djente.
