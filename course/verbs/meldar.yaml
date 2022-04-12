@@ -1,17 +1,5 @@
-Skill:
-  Name: meldar
-  Id: 1019
-
-New words: []
-
 Two-way-dictionary:
-  - (to) read:      meldar
   - (I) read:       meldo
-  - (you) read:     meldas
-  - (he/she) reads: melda
-  - (we) read:      meldamos
-  - (you) read (p): meldash
-  - (they) read:    meldan
 
   - (they) read:    melden
 # melden used by Moshe Shaul

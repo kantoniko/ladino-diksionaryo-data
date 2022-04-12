@@ -1,15 +1,56 @@
-conjugations: {}
-examples:
--   ladino: 'Kero ser kapachi de kantar i meldar en djudéo-espanyól i yídish. '
 grammar: verb
 id: '713'
 origen: Jeneral
+
 versions:
--   accented: meldar
-    ladino: meldar
+  - ladino: meldar
+    accented: meldar
+
     translations:
         english: read
         french: lire
         portuguese: ler
         spanish: leer
         turkish: okumak
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: meldo
+      translations:
+        english: read
+        spanish: leo
+
+    tu:
+      ladino: meldas
+      translations:
+        english: read
+        spanish: lees
+
+    el:
+      ladino: melda
+      translations:
+        english: reads
+        spanish: lee
+
+    mozotros:
+      ladino: meldamos
+      translations:
+        english: read
+        spanish: leemos
+
+    vozotros:
+      ladino: meldash
+      translations:
+        english: read
+        spanish: leéis
+
+    eyos:
+      ladino: meldan
+      translations:
+        english: read
+        spanish: leen
+
+examples:
+  - ladino: 'Kero ser kapachi de kantar i meldar en djudéo-espanyól i yídish. '
+
