@@ -1,17 +1,56 @@
-examples:
--   ladino: Para kortar esta ropa dura, prime una tijera bien aguzada.
 grammar: adjective
 id: '46'
 origen: Jeneral
+
 versions:
--   accented: aguzádo
-    alternative-spelling:
-    -   accented: aguzáda
-        ladino: aguzada
-    ladino: aguzado
+  - ladino: aguzado
+    accented: aguzádo
+    gender: masculine
+    number: singular
+
     translations:
         english: sharp
         french: aiguisé
         portuguese: afiado
-        spanish: afilado / afilado
+        spanish: afilado
         turkish: keskin
+
+  - ladino: aguzada
+    accented: aguzáda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: sharp
+        french: aiguisé
+        portuguese: afiada
+        spanish: afilada
+        turkish: keskin
+
+  - ladino: aguzados
+    accented: aguzádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sharp
+        french: aiguisé
+        portuguese: afiados
+        spanish: afilados
+        turkish: keskin
+
+  - ladino: aguzadas
+    accented: aguzádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sharp
+        french: aiguisé
+        portuguese: afiadas
+        spanish: afiladas
+        turkish: keskin
+
+
+examples:
+  - ladino: Para kortar esta ropa dura, prime una tijera bien aguzada.
