@@ -1,21 +1,63 @@
-comments:
-- 'grammar: m/f'
-examples:
--   ladino: Entre la esfuegra i la ermuera deshan la kaza sin barrir. (Neh.)
 grammar: null
 id: '2673'
 origen: Jeneral
+
 versions:
--   accented: esfuégro
-    alternative-spelling:
-    -   accented: esfuégra
-        ladino: esfuegra
-    ladino: esfuegro
+  - ladino: esfuegro
+    accented: esfuégro
+    gender: masculine
+    number: singular
+
     translations:
-        english: father / mother-in-law
+        english: father-in-law
         french: ''
         portuguese: ''
-        spanish: suegro / suegra
+        spanish: suegro
         turkish:
         - kayınpeder
         - kayınvalide
+
+  - ladino: esfuegra
+    accented: esfuégra
+    gender: feminine
+    number: singular
+
+    translations:
+        english: mother-in-law
+        french: ''
+        portuguese: ''
+        spanish: suegra
+        turkish:
+        - kayınpeder
+        - kayınvalide
+
+  - ladino: esfuegros
+    accented: esfuégros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: father-in-law
+        french: ''
+        portuguese: ''
+        spanish: suegros
+        turkish:
+        - kayınpeder
+        - kayınvalide
+
+  - ladino: esfuegras
+    accented: esfuégras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: mother-in-law
+        french: ''
+        portuguese: ''
+        spanish: suegras
+        turkish:
+        - kayınpeder
+        - kayınvalide
+
+examples:
+  - ladino: Entre la esfuegra i la ermuera deshan la kaza sin barrir. (Neh.)
