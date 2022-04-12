@@ -1,21 +1,64 @@
-comments:
-- 'grammar: adj. m/f'
-examples:
--   ladino: Korto la esperansa ke le va vinir un mazal kon kavayo blanko i muy yakishikli.
 grammar: null
 id: '3015'
 origen: Jeneral
+
 versions:
--   accented: yakishiklí
-    alternative-spelling:
-    -   accented: yakishiklíya
-        ladino: yakishikliya
-    ladino: yakishikli
+  - ladino: yakishikli
+    accented: yakishiklí
+    gender: masculine
+    number: singular
+
     translations:
         english: handsome
         french:
         - beau
         - élégant
         portuguese: ''
-        spanish: guapo / guapa
+        spanish: guapo
         turkish: yakışıklı
+
+  - ladino: yakishikliya
+    accented: yakishiklíya
+    gender: feminine
+    number: singular
+
+    translations:
+        english: handsome
+        french:
+        - beau
+        - élégant
+        portuguese: ''
+        spanish: guapa
+        turkish: yakışıklı
+
+  - ladino: yakishiklis
+    accented: yakishiklís
+    gender: masculine
+    number: plural
+
+    translations:
+        english: handsome
+        french:
+        - beau
+        - élégant
+        portuguese: ''
+        spanish: guapos
+        turkish: yakışıklı
+
+  - ladino: yakishikliyas
+    accented: yakishiklíyas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: handsome
+        french:
+        - beau
+        - élégant
+        portuguese: ''
+        spanish: guapas
+        turkish: yakışıklı
+
+
+examples:
+  - ladino: Korto la esperansa ke le va vinir un mazal kon kavayo blanko i muy yakishikli.
