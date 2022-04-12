@@ -13,7 +13,45 @@ versions:
         spanish: usar
         turkish: kullanmak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: uzo
+      translations:
+        english: use
+        spanish: uso
+
+    tu:
+      ladino: uzas
+      translations:
+        english: use
+        spanish: usas
+
+    el:
+      ladino: uza
+      translations:
+        english: uses
+        spanish: usa
+
+    mozotros:
+      ladino: uzamos
+      translations:
+        english: use
+        spanish: usamos
+
+    vozotros:
+      ladino: uzash
+      translations:
+        english: use
+        spanish: usáis
+
+    eyos:
+      ladino: uzan
+      translations:
+        english: use
+        spanish: usan
+
+
 examples:
   - ladino: En esta fiesta, se aziya de almendra blankeyada, porke era mas klara de muez ke se uzava en el resto del anyo.
 
