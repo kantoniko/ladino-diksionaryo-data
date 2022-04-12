@@ -19,10 +19,12 @@ conjugations:
       ladino:
       translations:
         english:
+
     tu:
       ladino:
       translations:
         english:
+
     el:
       ladino:
       translations:
@@ -49,36 +51,38 @@ conjugations:
     yo:
       ladino:
       translations:
-        spanish:
         english:
+        spanish:
+
     tu:
       ladino:
       translations:
-        spanish:
         english:
+        spanish:
+
     el:
       ladino:
       translations:
-        spanish:
         english:
+        spanish:
 
     mozotros:
       ladino:
       translations:
-        spanish:
         english:
+        spanish:
 
     vozotros:
       ladino:
       translations:
-        spanish:
         english:
+        spanish:
 
     eyos:
       ladino:
       translations:
-        spanish:
         english:
+        spanish:
 
 examples: []
 
