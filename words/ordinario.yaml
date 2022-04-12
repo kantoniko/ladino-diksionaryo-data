@@ -5,10 +5,12 @@ origen: Jeneral
 versions:
   - ladino: ordinario
     accented: ordinario
+    gender: masculine
+    number: singular
 
     alternative-spelling:
-    -   accented: bayagi
-        ladino: bayagi
+      - ladino: bayagi
+        accented: bayagi
 
     translations:
         english:
@@ -16,9 +18,70 @@ versions:
         - common
         french: ''
         portuguese: ''
-        spanish: ordinario / a
+        spanish: ordinario
         turkish:
         - adí
         - bayağı
+
+  - ladino: ordinaria
+    accented: ordinaria
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bayagi
+        accented: bayagi
+
+    translations:
+        english:
+        - ordinary
+        - common
+        french: ''
+        portuguese: ''
+        spanish: ordinaria
+        turkish:
+        - adí
+        - bayağı
+
+  - ladino: ordinarios
+    accented: ordinarios
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bayagi
+        accented: bayagi
+
+    translations:
+        english:
+        - ordinary
+        - common
+        french: ''
+        portuguese: ''
+        spanish: ordinarios
+        turkish:
+        - adí
+        - bayağı
+
+  - ladino: ordinarias
+    accented: ordinarias
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bayagi
+        accented: bayagi
+
+    translations:
+        english:
+        - ordinary
+        - common
+        french: ''
+        portuguese: ''
+        spanish: ordinarias
+        turkish:
+        - adí
+        - bayağı
+
 
 examples: []
