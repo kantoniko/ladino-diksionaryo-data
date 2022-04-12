@@ -1,16 +1,13 @@
-examples:
--   ladino: Se arebivieron los dezeos de los djovenes de estudiar para saver.
-comments:
-  - grammar was m/f
 grammar: null
 id: '1281'
 origen: Jeneral
+
 versions:
--   accented: djóven
-    alternative-spelling:
-    -   accented: djovína
-        ladino: djovina
-    ladino: djoven
+  - ladino: djoven
+    accented: djóven
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - young
@@ -23,3 +20,61 @@ versions:
         turkish:
         - genç
         - delikanlı
+
+  - ladino: djovina
+    accented: djovína
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - young
+        - young woman
+        french: ''
+        portuguese: ''
+        spanish:
+        - jovena
+        - manceba
+        turkish:
+        - genç
+        - delikanlı
+
+  - ladino: djovenes
+    accented: djóvenes
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - young
+        - young men
+        french: ''
+        portuguese: ''
+        spanish:
+        - jovenes
+        - mancebos
+        turkish:
+        - genç
+        - delikanlı
+
+  - ladino: djovinas
+    accented: djovínas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - young
+        - young women
+        french: ''
+        portuguese: ''
+        spanish:
+        - jovenas
+        - mancebas
+        turkish:
+        - genç
+        - delikanlı
+
+
+examples:
+  - ladino: Se arebivieron los dezeos de los djovenes de estudiar para saver.
