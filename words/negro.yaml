@@ -1,19 +1,64 @@
-examples:
--   ladino: Ken negro aze, negro topa.
 grammar: adjective
 id: '2746'
 origen: Jeneral
+
 versions:
--   accented: négro
-    alternative-spelling:
-    -   accented: négra
-        ladino: negra
-    ladino: negro
+  - ladino: negro
+    accented: négro
+    gender: masculine
+    number: singular
+
     translations:
         english: bad
         french: ''
         portuguese: ''
-        spanish: malo / mala
+        spanish: malo
         turkish:
         - kötü
         - fena
+
+  - ladino: negra
+    accented: négra
+    gender: feminine
+    number: singular
+
+    translations:
+        english: bad
+        french: ''
+        portuguese: ''
+        spanish: mala
+        turkish:
+        - kötü
+        - fena
+
+  - ladino: negros
+    accented: négros
+    gender: masculine
+    number: plural
+
+    translations:
+        english: bad
+        french: ''
+        portuguese: ''
+        spanish: malos
+        turkish:
+        - kötü
+        - fena
+
+  - ladino: negras
+    accented: négras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: bad
+        french: ''
+        portuguese: ''
+        spanish: malas
+        turkish:
+        - kötü
+        - fena
+
+
+examples:
+  - ladino: Ken negro aze, negro topa.
