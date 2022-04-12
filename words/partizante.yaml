@@ -1,13 +1,35 @@
-examples: []
 grammar: null
 id: '2054'
 origen: Jeneral
+
 versions:
--   accented: partizante
-    ladino: partizante
+  - ladino: partizante
+    accented: partizante
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: supporter
         french: ''
         portuguese: ''
-        spanish: partidario / a
+        spanish:
+          - partidario
+          - partidaria
         turkish: taraftar
+
+  - ladino: partizantes
+    accented: partizantes
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english: supporters
+        french: ''
+        portuguese: ''
+        spanish:
+          - partidarios
+          - partidarias
+        turkish: taraftar
+
+
+examples: []
