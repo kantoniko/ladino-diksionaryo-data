@@ -1,13 +1,54 @@
-examples: []
-grammar: null
+grammar: verb
 id: '915'
 origen: Jeneral
 versions:
--   accented: pueder
-    ladino: pueder
+  - ladino: pueder
+    accented: pueder
+
     translations:
         english: be able to
         french: ''
         portuguese: ''
         spanish: poder
         turkish: yapabilmek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: puedo
+      translations:
+        english: can
+        spanish: puedo
+
+    tu:
+      ladino: puedes
+      translations:
+        english: can
+        spanish: puedes
+
+    el:
+      ladino: puede
+      translations:
+        english: can
+        spanish: puede
+
+    mozotros:
+      ladino: podemos
+      translations:
+        english: can
+        spanish: podemos
+
+    vozotros:
+      ladino: podesh
+      translations:
+        english: can
+        spanish: podéis
+
+    eyos:
+      ladino: pueden
+      translations:
+        english: can
+        spanish: pueden
+
+
+examples: []
