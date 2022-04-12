@@ -1,0 +1,84 @@
+grammar: verb
+id: '1161'
+origen: Jeneral
+
+versions:
+  - ladino: yorar
+    accented: yorar
+
+    translations:
+        english: ''
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+conjugations:
+  present indicative:
+    yo:
+      ladino:
+      translations:
+        english:
+    tu:
+      ladino:
+      translations:
+        english:
+    el:
+      ladino:
+      translations:
+        english:
+
+    mozotros:
+      ladino:
+      translations:
+        english:
+
+    vozotros:
+      ladino:
+      translations:
+        english:
+
+    eyos:
+      ladino:
+      translations:
+        english:
+
+
+conjugations:
+  present indicative:
+    yo:
+      ladino:
+      translations:
+        spanish:
+        english:
+    tu:
+      ladino:
+      translations:
+        spanish:
+        english:
+    el:
+      ladino:
+      translations:
+        spanish:
+        english:
+
+    mozotros:
+      ladino:
+      translations:
+        spanish:
+        english:
+
+    vozotros:
+      ladino:
+      translations:
+        spanish:
+        english:
+
+    eyos:
+      ladino:
+      translations:
+        spanish:
+        english:
+
+examples: []
+
