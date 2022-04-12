@@ -1,13 +1,26 @@
-examples: []
 grammar: null
 id: '1106'
 origen: Jeneral
+
 versions:
--   accented: tu
-    ladino: tu
+  - ladino: tu
+    accented: tu
+
     translations:
         english: your
         french: ''
         portuguese: ''
         spanish: tu
         turkish: senin
+
+  - ladino: tus
+    accented: tus
+
+    translations:
+        english: your
+        french: ''
+        portuguese: ''
+        spanish: tus
+        turkish: ''
+
+examples: []
