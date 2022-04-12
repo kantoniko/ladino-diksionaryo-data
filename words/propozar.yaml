@@ -1,13 +1,59 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2111'
 origen: Jeneral
+
 versions:
--   accented: propozar
-    ladino: propozar
+  - ladino: propozar
+    accented: propozar
+
     translations:
         english: propose
         french: ''
         portuguese: ''
         spanish: proponer
         turkish: teklif etmek
+
+  - ladino: propozo
+  - translations:
+      english: proposed
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: propozo
+      translations:
+        english: propose
+        spanish: propongo
+
+    tu:
+      ladino: propozas
+      translations:
+        english: propose
+        spanish: propones
+
+    el:
+      ladino: propoza
+      translations:
+        english: proposes
+        spanish: propone
+
+    mozotros:
+      ladino: propozamos
+      translations:
+        english: propose
+        spanish: proponemos
+
+    vozotros:
+      ladino: propozash
+      translations:
+        english: propose
+        spanish: proponéis
+
+    eyos:
+      ladino: propozan
+      translations:
+        english: propose
+        spanish: proponen
+
+
+examples: []
