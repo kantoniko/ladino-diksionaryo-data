@@ -15,7 +15,44 @@ versions:
           - erişmek
           - vasıl olmak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: yego
+      translations:
+        english: arrive
+        spanish: llego
+
+    tu:
+      ladino: yegas
+      translations:
+        english: arrive
+        spanish: llegas
+    el:
+      ladino: yega
+      translations:
+        english: arrives
+        spanish: llega
+
+    mozotros:
+      ladino: yegamos
+      translations:
+        english: arrive
+        spanish: llegamos
+
+    vozotros:
+      ladino: yegash
+      translations:
+        english: arrive
+        spanish: llegáis
+
+    eyos:
+      ladino: yegan
+      translations:
+        english: arrive
+        spanish: llegan
+
+
 examples:
   - ladino: Yegar a no tener para pan. (Neh.)
 
