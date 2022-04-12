@@ -1,16 +1,18 @@
-comments:
-- 'grammar: m/pl'
-examples:
--   ladino: Mis parientes en Estambol no komiyan arroz en Pesah.
 grammar: null
 id: '2566'
 origen: Jeneral
+
 versions:
--   accented: pariéntes
+  - ladino: parientes
+    accented: pariéntes
+
+    gender: masculine
+    number: plural
+
     alternative-spelling:
-    -   accented: paryentes
-        ladino: paryentes
-    ladino: parientes
+      - ladino: paryentes
+        accented: paryentes
+
     translations:
         english:
         - parents
@@ -23,3 +25,6 @@ versions:
         turkish:
         - ebeveyn
         - akrabalar
+
+examples:
+  - ladino: Mis parientes en Estambol no komiyan arroz en Pesah.
