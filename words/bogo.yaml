@@ -1,19 +1,38 @@
-comments:
-- 'grammar: m/f'
-examples:
--   ladino: El bogo era para meter la ropa limpia para ir al "hamam".
 grammar: null
 id: '2990'
 origen: Jeneral
+
 versions:
--   accented: bógo
+  - ladino: bogo
+    accented: bógo
+    #gender: NA # masculine feminine
+    number: singular
+
     alternative-spelling:
-    -   accented: bogchá
-        ladino: bogcha
-    ladino: bogo
+      - ladino: bogcha
+        accented: bogchá
     translations:
         english: bundle
         french: balluchon
         portuguese: trouxa
         spanish: lío
         turkish: bohça
+
+  - ladino: bogos
+    accented: bógos
+    #gender: NA # masculine feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bogchas
+        accented: bogchás
+    translations:
+        english: bundles
+        french: balluchon
+        portuguese: trouxas
+        spanish: líos
+        turkish: bohça
+
+
+examples:
+  - ladino: El bogo era para meter la ropa limpia para ir al "hamam".
