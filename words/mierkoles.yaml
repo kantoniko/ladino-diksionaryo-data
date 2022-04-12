@@ -1,0 +1,20 @@
+grammar: null
+origen: NA
+
+versions:
+  - ladino: mierkoles
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: myerkoles
+
+    translations:
+      english: Wednesday
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: miércoles
+      turkish: ''
+
+examples: []

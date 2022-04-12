@@ -1,15 +1,14 @@
-examples:
--   ladino: Me akodro ke kada lunes i djugeves moz ivamoz al BAZAR .
 grammar: null
 id: '1283'
 origen: Jeneral
+
 versions:
--   accented: djuéves
+  - ladino: djueves
+    accented: djuéves
     alternative-spelling:
-    -   accented: djugéves
-        ladino: djugeves
+      - ladino: djugeves
+        accented: djugéves
     gender: masculine
-    ladino: djueves
     number: singular
     translations:
         english: Thursday
@@ -17,3 +16,6 @@ versions:
         portuguese: quinta-feira
         spanish: jueves
         turkish: Perşembe
+
+examples:
+  - ladino: Me akodro ke kada lunes i djugeves moz ivamoz al BAZAR .

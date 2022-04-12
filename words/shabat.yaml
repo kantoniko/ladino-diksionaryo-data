@@ -1,16 +1,20 @@
-examples:
--   ladino: Shabat Shalom
 grammar: null
 id: '2175'
 origen: Jeneral
+
 versions:
--   accented: shabát
+  - ladino: shabat
+    accented: shabát
+
     gender: masculine
-    ladino: shabat
     number: singular
+
     translations:
         english: Saturday
         french: samedi
         portuguese: sábado
         spanish: sábado
         turkish: Cumartesi
+
+examples:
+  - ladino: Shabat Shalom
