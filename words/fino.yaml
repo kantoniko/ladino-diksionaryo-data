@@ -1,24 +1,75 @@
-examples:
--   ladino: La mancha kaye en el panyo mas fino.
 grammar: adjective
 id: '424'
 origen: Jeneral
+
 versions:
--   accented: fíno
-    alternative-spelling:
-    -   accented: fína
-        ladino: fina
-    ladino: fino
+  - ladino: fino
+    accented: fíno
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - fine
         - delicate
-        french: fin / fine
-        portuguese: fino / fina
-        spanish: fino / fina
+        french: fin
+        portuguese: fino
+        spanish: fino
         turkish:
         - ince
         - narin
+
+  - ladino: fina
+    accented: fína
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - fine
+        - delicate
+        french: fine
+        portuguese: fina
+        spanish: fina
+        turkish:
+        - ince
+        - narin
+
+  - ladino: finos
+    accented: fínos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - fine
+        - delicate
+        french: ''
+        portuguese: finos
+        spanish: finos
+        turkish:
+        - ince
+        - narin
+
+  - ladino: finas
+    accented: fínas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - fine
+        - delicate
+        french: ''
+        portuguese: finas
+        spanish: finas
+        turkish:
+        - ince
+        - narin
+
+
+examples:
+  - ladino: La mancha kaye en el panyo mas fino.
 
 
 # fíno (kolokyal) (prep.),Me asenti para meldarlo del empesijo fino la fin.,hasta,"till, until, up to","kadar, dek",Ladinokomunita,2950,,jusque
