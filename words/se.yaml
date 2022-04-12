@@ -1,11 +1,11 @@
-examples:
--   ladino: 'El Ladino se formo en el Imperio Otomano. '
 grammar: pronoun
 id: '2607'
 origen: Jeneral
+
 versions:
--   accented: se
-    ladino: se
+  - ladino: se
+    accented: se
+
     translations:
         english:
         - himself
@@ -19,3 +19,6 @@ versions:
         turkish:
         - o
         - kendi
+
+examples:
+  - ladino: 'El Ladino se formo en el Imperio Otomano. '

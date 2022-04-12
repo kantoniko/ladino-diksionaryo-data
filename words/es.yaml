@@ -1,0 +1,19 @@
+grammar: null
+origen: NA
+
+versions:
+  - ladino: es
+    accented: es
+
+    translations:
+        english:
+        - it
+        - it is
+        french: ''
+        portuguese: ''
+        spanish:
+        - es
+        turkish: ''
+
+examples: []
+
