@@ -1,19 +1,59 @@
-examples:
--   ladino: Tiene mano ancha (es jenerozo).
 grammar: adjective
 id: '89'
 origen: Jeneral
+
 versions:
--   accented: áncho
-    alternative-spelling:
-    -   accented: áncha
-        ladino: ancha
-    ladino: ancho
+  - ladino: ancho
+    accented: áncho
+    gender: masculine
+    number: singular
+
     translations:
         english: wide
         french: large
         portuguese: ''
-        spanish: ancho / ancha
+        spanish: ancho
         turkish: geniş
 
-# áncho / áncha (adj.),Es ancho de karakter.,despreocupado,free from care,kaygısız,Jeneral,3041,despreocupado,insouciant
+  - ladino: ancha
+    accented: áncha
+    gender: feminine
+    number: singular
+
+    translations:
+        english: wide
+        french: large
+        portuguese: ''
+        spanish: ancha
+        turkish: geniş
+
+  - ladino: anchos
+    accented: ánchos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: wide
+        french: large
+        portuguese: ''
+        spanish: anchos
+        turkish: geniş
+
+  - ladino: anchas
+    accented: ánchas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: wide
+        french: large
+        portuguese: ''
+        spanish: anchas
+        turkish: geniş
+
+examples:
+  - ladino: Tiene mano ancha (es jenerozo).
+  - ladino: Es ancho de karakter.
+
+# Espanyol,English,Turkish,Origen,id,Portuguese,French
+# despreocupado,free from care,kaygısız,Jeneral,3041,despreocupado,insouciant
