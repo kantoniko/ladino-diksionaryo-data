@@ -1,13 +1,55 @@
-examples: []
-grammar: null
+grammar: verb
 id: '149'
 origen: Jeneral
+
 versions:
--   accented: azer
-    ladino: azer
+  - ladino: azer
+    accented: azer
+
     translations:
         english: do
         french: ''
         portuguese: ''
         spanish: hacer
         turkish: yapmak
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: azo
+      translations:
+        english: do
+        spanish: hago
+
+    tu:
+      ladino: azes
+      translations:
+        english: do
+        spanish: haces
+
+    el:
+      ladino: aze
+      translations:
+        english: does
+        spanish: hace
+
+    mozotros:
+      ladino: azemos
+      translations:
+        english: do
+        spanish: hacemos
+
+    vozotros:
+      ladino: azesh
+      translations:
+        english: do
+        spanish: hacéis
+
+    eyos:
+      ladino: azen
+      translations:
+        english: do
+        spanish: hacen
+
+
+examples: []
