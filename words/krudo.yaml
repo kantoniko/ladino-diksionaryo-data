@@ -1,17 +1,57 @@
-examples:
--   ladino: Estos biervos krudos me shokan.
 grammar: adjective
 id: '2662'
 origen: Jeneral
+
 versions:
--   accented: krúdo
-    alternative-spelling:
-    -   accented: krúda
-        ladino: kruda
-    ladino: krudo
+  - ladino: krudo
+    accented: krúdo
+    gender: masculine
+    number: singular
+
     translations:
         english: raw
         french: ''
         portuguese: ''
-        spanish: crudo / cruda
+        spanish: crudo
         turkish: çiğ
+
+  - ladino: kruda
+    accented: krúda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: raw
+        french: ''
+        portuguese: ''
+        spanish: cruda
+        turkish: çiğ
+
+  - ladino: krudos
+    accented: krúdos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: raw
+        french: ''
+        portuguese: ''
+        spanish: crudos
+        turkish: çiğ
+
+  - ladino: krudas
+    accented: krúdas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: raw
+        french: ''
+        portuguese: ''
+        spanish: crudas
+        turkish: çiğ
+
+
+
+examples:
+  - ladino: Estos biervos krudos me shokan.
