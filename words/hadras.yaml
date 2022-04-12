@@ -1,13 +1,13 @@
-comments:
-- 'grammar: f/pl'
-examples:
--   ladino: Kualo son estas hadras, ke se kreye fulanika...
 grammar: null
 id: '2998'
 origen: Jeneral
+
 versions:
--   accented: hádras
-    ladino: hadras
+  - ladino: hadras
+    accented: hádras
+    gender: feminine
+    number: plural
+
     translations:
         english:
         - pretentious
@@ -25,3 +25,6 @@ versions:
         - gösteriş
         - yapmacık hal
         - çalım
+
+examples:
+  - ladino: Kualo son estas hadras, ke se kreye fulanika...
