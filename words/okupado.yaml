@@ -1,17 +1,57 @@
-examples:
--   ladino: No eskrivo..una razon es porke esto muy okupada.
 grammar: adjective
 id: '2028'
 origen: Jeneral
+
 versions:
--   accented: okupádo
-    alternative-spelling:
-    -   accented: okupáda
-        ladino: okupada
-    ladino: okupado
+  - ladino: okupado
+    accented: okupádo
+    gender: masculine
+    number: singular
+
     translations:
         english: busy
         french: ''
         portuguese: ''
-        spanish: ocupado / ocupada
+        spanish: ocupado
         turkish: meşgul
+
+  - ladino: okupada
+    accented: okupáda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: busy
+        french: ''
+        portuguese: ''
+        spanish: ocupada
+        turkish: meşgul
+
+  - ladino: okupados
+    accented: okupádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: busy
+        french: ''
+        portuguese: ''
+        spanish: ocupados
+        turkish: meşgul
+
+  - ladino: okupadas
+    accented: okupádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: busy
+        french: ''
+        portuguese: ''
+        spanish: ocupadas
+        turkish: meşgul
+
+
+examples:
+  - ladino: No eskrivo..una razon es porke esto muy okupada.
+
