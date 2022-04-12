@@ -1,21 +1,64 @@
-comments:
-- 'grammar: m/f'
-examples:
--   ladino: Los bayladores de Irlanda mos plazieron muncho.
 grammar: null
 id: '1660'
 origen: Jeneral
+
 versions:
--   accented: bayladór
-    alternative-spelling:
-    -   accented: bayladéra
-        ladino: bayladera
-    ladino: baylador
+  - ladino: baylador
+    accented: bayladór
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - dancer
         - ballet-dancer
         french: ''
         portuguese: ''
-        spanish: bailarín / bailarina
-        turkish: dansör - dansöz
+        spanish: bailarín
+        turkish: dansör
+
+  - ladino: bayladera
+    accented: bayladéra
+    gender: masculine
+    number: singular
+
+    translations:
+        english:
+        - dancer
+        - ballet-dancer
+        french: ''
+        portuguese: ''
+        spanish: bailarina
+        turkish: dansöz
+
+  - ladino: bayladores
+    accented: bayladóres
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - dancers
+        - ballet-dancers
+        french: ''
+        portuguese: ''
+        spanish: bailarín
+        turkish: dansör
+
+  - ladino: bayladeras
+    accented: bayladéras
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - dancers
+        - ballet-dancers
+        french: ''
+        portuguese: ''
+        spanish: bailarinas
+        turkish: dansöz
+
+
+examples:
+  - ladino: Los bayladores de Irlanda mos plazieron muncho.
