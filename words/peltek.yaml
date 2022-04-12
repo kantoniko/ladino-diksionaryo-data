@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '849'
 origen: Jeneral
+
 versions:
--   accented: peltek
-    ladino: peltek
+  - ladino: peltek
+    accented: peltek
+
     translations:
         english: stuttering
         french: ''
         portuguese: ''
-        spanish: tartamudo / a
+        spanish:
+          - tartamudo
+          - tartamuda
         turkish: kekeme
+
+examples: []
