@@ -1,16 +1,13 @@
-examples:
--   ladino: Se trata de un djuzgo ke estava avlando todo el tiempo kontra los djidios.
-comments:
-  - grammar was m/f
 grammar: null
 id: '274'
 origen: Jeneral
+
 versions:
--   accented: djuzgo
-    alternative-spelling:
-    -   accented: djuzga
-        ladino: djuzga
-    ladino: djuzgo
+  - ladino: djuzgo
+    accented: djuzgo
+    gender: masculine
+    number: singular
+
     translations:
         english: judge
         french: juge
@@ -18,5 +15,43 @@ versions:
         spanish: juez
         turkish: yargıç
 
+  - ladino: djuzga
+    accented: djuzga
+    gender: feminine
+    number: singular
+
+    translations:
+        english: judge
+        french: juge
+        portuguese: ''
+        spanish: juez
+        turkish: yargıç
+
+  - ladino: djuzgos
+    accented: djuzgos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: judges
+        french: juge
+        portuguese: ''
+        spanish: juez
+        turkish: yargıç
+
+  - ladino: djuzgas
+    accented: djuzgas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: judges
+        french: juge
+        portuguese: ''
+        spanish: juez
+        turkish: yargıç
+
+examples:
+  - ladino: Se trata de un djuzgo ke estava avlando todo el tiempo kontra los djidios.
 
 # djuzgo (m),"Samuel Hassid dezvelopara el tema ""El djuzgo de Max Merten enfrente de los Espejos"".",juicio; proceso,judgement; trial,mahkeme; yargı,Jeneral,1733,,jugement; procès
