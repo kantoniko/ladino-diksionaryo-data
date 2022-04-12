@@ -1,17 +1,56 @@
-examples:
--   ladino: Mos plaze komer el pishkado abafado porke es muy liviano.
 grammar: adjective
 id: '1565'
 origen: Jeneral
+
 versions:
--   accented: abafádo
-    alternative-spelling:
-    -   accented: abafáda
-        ladino: abafada
-    ladino: abafado
+  - ladino: abafado
+    accented: abafádo
+    gender: masculine
+    number: singular
+
     translations:
         english: stewed
-        french: bouilli / bouillie
-        portuguese: estufado / estufada
-        spanish: estofado / estofada
+        french: bouilli
+        portuguese: estufado
+        spanish: estofado
         turkish: buğulama
+
+  - ladino: abafada
+    accented: abafáda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: stewed
+        french: bouillie
+        portuguese: estufada
+        spanish: estofada
+        turkish: buğulama
+
+  - ladino: abafados
+    accented: abafádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: stewed
+        french: ''
+        portuguese: estufados
+        spanish: estofados
+        turkish: buğulama
+
+  - ladino: abafadas
+    accented: abafádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: stewed
+        french: ''
+        portuguese: estufadas
+        spanish: estofadas
+        turkish: buğulama
+
+
+examples:
+  - ladino: Mos plaze komer el pishkado abafado porke es muy liviano.
