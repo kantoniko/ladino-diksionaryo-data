@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: omnipotente
+    #gender: NA # masculine feminine
+    number: singular
+
+    translations:
+      english: omnipotent
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: omnipotente
+      turkish: ''
+
+examples: []
