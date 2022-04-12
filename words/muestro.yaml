@@ -1,16 +1,31 @@
-examples: []
 grammar: null
 id: '1421'
 origen: Jeneral
+
 versions:
--   accented: muestro
-    alternative-spelling:
-    -   accented: muestra
-        ladino: muestra
-    ladino: muestro
+  - ladino: muestro
+    accented: muestro
+    gender: masculine
+    number: plural
+
     translations:
         english: our
         french: ''
         portuguese: ''
-        spanish: nuestro / nuestra
+        spanish: nuestro
         turkish: bizim
+
+  - ladino: muestra
+    accented: muestra
+    gender: feminine
+    number: plural
+
+    translations:
+        english: our
+        french: ''
+        portuguese: ''
+        spanish: nuestra
+        turkish: bizim
+
+
+examples: []
