@@ -1,14 +1,33 @@
-examples:
--   ladino: Ay dainda tantos amantes i avlantes de muestra lingua...
 grammar: null
 id: '2400'
 origen: Jeneral
+
 versions:
--   accented: avlánte
-    ladino: avlante
+  - ladino: avlante
+    accented: avlánte
+
+    #gender: masculine
+    number: singular
+
     translations:
         english: speaker
         french: ''
         portuguese: ''
         spanish: hablante
         turkish: konuşan
+
+  - ladino: avlantes
+    accented: avlántes
+
+    #gender: masculine
+    number: plural
+
+    translations:
+        english: speakers
+        french: ''
+        portuguese: ''
+        spanish: hablantes
+        turkish: konuşan
+
+examples:
+  - ladino: Ay dainda tantos amantes i avlantes de muestra lingua...

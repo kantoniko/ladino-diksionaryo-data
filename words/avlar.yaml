@@ -14,6 +14,35 @@ versions:
         turkish: konumak
 
 conjugations: {}
+  present indicative:
+    yo:
+      ladino: avlo
+      translations:
+        english: speak
+    tu:
+      ladino: avlas
+      translations:
+        english: speak
+    el:
+      ladino: avla
+      translations:
+        english: speaks
+
+    mozotros:
+      ladino: avlamos
+      translations:
+        english: speak
+
+    vozotros:
+      ladino: avlash
+      translations:
+        english: speak
+
+    eyos:
+      ladino: avlan
+      translations:
+        english: speak
+
 examples:
   - ladino: Sera posivle de avlar sovre alguna unika  kultura?
 
