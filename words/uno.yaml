@@ -7,10 +7,8 @@ categories:
 versions:
   - ladino: uno
     accented: úno
-
-    alternative-spelling:
-      - ladino: una
-        accented: úna
+    gender: masculine
+    number: singular
 
     translations:
         english:
@@ -18,11 +16,64 @@ versions:
           - identical
         french: ''
         portuguese: ''
-        spanish: uno / una
+        spanish: uno
         turkish:
           - bir
           - biri
           - tıpkısı
+
+  - ladino: una
+    accented: úna
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - one
+          - identical
+        french: ''
+        portuguese: ''
+        spanish: una
+        turkish:
+          - bir
+          - biri
+          - tıpkısı
+
+  - ladino: unos
+    accented: únos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - ones
+          - identicals
+        french: ''
+        portuguese: ''
+        spanish: unos
+        turkish:
+          - bir
+          - biri
+          - tıpkısı
+
+  - ladino: unas
+    accented: únas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - ones
+          - identicals
+        french: ''
+        portuguese: ''
+        spanish: unas
+        turkish:
+          - bir
+          - biri
+          - tıpkısı
+
+
 
 examples:
   - ladino: Una mano lava la otra i las dos lavan la kara.
