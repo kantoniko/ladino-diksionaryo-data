@@ -9,7 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: the
+        english:
+          - he
+          - the
         french: ''
         portuguese: ''
         spanish: el

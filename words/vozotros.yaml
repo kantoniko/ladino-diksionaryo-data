@@ -1,17 +1,34 @@
-examples:
--   ladino: Vozotros lo kulpash.
 grammar: pronoun
 id: '2755'
 origen: Jeneral
+
 versions:
--   accented: vozótros
-    alternative-spelling:
-    -   accented: vozótras
-        ladino: vozotras
-    ladino: vozotros
+  - ladino: vozotros
+    accented: vozótros
+    gender: masculine
+    number: plural
+
     translations:
-        english: you (pl.)
+        english:
+          - you
         french: ''
         portuguese: ''
         spanish: vosotros
         turkish: siz
+
+  - ladino: vozotras
+    accented: vozótras
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - you
+        french: ''
+        portuguese: ''
+        spanish: vosotras
+        turkish: siz
+
+
+examples:
+  - ladino: Vozotros lo kulpash.

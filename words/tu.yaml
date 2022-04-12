@@ -5,9 +5,12 @@ origen: Jeneral
 versions:
   - ladino: tu
     accented: tu
+    number: singular
 
     translations:
-        english: your
+        english:
+          - you
+          - your
         french: ''
         portuguese: ''
         spanish: tu
