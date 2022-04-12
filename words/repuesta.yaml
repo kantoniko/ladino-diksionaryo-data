@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '942'
 origen: Jeneral
+
 versions:
--   accented: repuesta
-    ladino: repuesta
+  - ladino: repuesta
+    accented: repuesta
+    gender: feminine
+    number: singular
+
     translations:
         english: answer
         french: ''
         portuguese: ''
         spanish: respuesta
         turkish: cevap
+
+  - ladino: repuestas
+    accented: repuestas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: answers
+        french: ''
+        portuguese: ''
+        spanish: respuestas
+        turkish: cevap
+
+
+examples: []
