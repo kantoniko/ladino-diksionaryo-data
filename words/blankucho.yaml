@@ -1,22 +1,31 @@
-examples:
--   ladino: '"BLANKUCHO" era akeya kreatura/persona
-
-        ke nasiya kon los kaveyos i los
-
-        parparos blankos.
-
-        '
 grammar: null
 id: '2904'
 origen: Jeneral
+
 versions:
--   accented: blankúcho
+  - ladino: blankucho
+    accented: blankúcho
     gender: masculine
-    ladino: blankucho
     number: singular
+
     translations:
         english: albino
         french: ''
         portuguese: ''
         spanish: albino
         turkish: albinos
+
+  - ladino: blankucha
+    accented: blankúcha
+    gender: masculine
+    number: plural
+
+    translations:
+        english: albinos
+        french: ''
+        portuguese: ''
+        spanish: albinos
+        turkish: albinos
+
+examples:
+  - ladino: '"Blankucho" era akeya kreatura (persona) ke nasiya kon los kaveyos i los  parparos blankos.'
