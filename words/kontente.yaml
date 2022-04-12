@@ -1,15 +1,20 @@
-examples: []
 grammar: null
 id: '606'
 origen: Jeneral
+
 versions:
--   accented: kontente
-    ladino: kontente
+  - ladino: kontente
+    accented: kontente
+
     translations:
         english:
         - content
         - pleased
         french: ''
         portuguese: ''
-        spanish: contento / a
+        spanish:
+          - contento
+          - contenta
         turkish: memnun
+
+examples: []
