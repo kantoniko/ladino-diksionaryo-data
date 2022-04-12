@@ -1,14 +1,13 @@
-examples:
--   ladino: Esta arraviado kon mi.
 grammar: adjective
 id: '1475'
 origen: Jeneral
+
 versions:
--   accented: arraviádo
-    alternative-spelling:
-    -   accented: arraviáda
-        ladino: arraviada
-    ladino: arraviado
+  - ladino: arraviado
+    accented: arraviádo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - on bad terms
@@ -16,8 +15,66 @@ versions:
         french: ''
         portuguese: ''
         spanish:
-        - reñido / reñida
-        - enfadado / enfadada
+        - reñido
+        - enfadado
         turkish:
         - dargın
         - kızgın
+
+  - ladino: arraviada
+    accented: arraviáda
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - on bad terms
+        - cross
+        french: ''
+        portuguese: ''
+        spanish:
+        - reñida
+        - enfadada
+        turkish:
+        - dargın
+        - kızgın
+
+  - ladino: arraviados
+    accented: arraviádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - on bad terms
+        - cross
+        french: ''
+        portuguese: ''
+        spanish:
+        - reñidos
+        - enfadados
+        turkish:
+        - dargın
+        - kızgın
+
+  - ladino: arraviadas
+    accented: arraviádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - on bad terms
+        - cross
+        french: ''
+        portuguese: ''
+        spanish:
+        - reñidas
+        - enfadadas
+        turkish:
+        - dargın
+        - kızgın
+
+
+examples:
+  - ladino: Esta arraviado kon mi.
