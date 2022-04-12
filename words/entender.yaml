@@ -1,17 +1,65 @@
-conjugations: {}
-examples:
--   ladino: Poko avlar i muncho entender!
 grammar: verb
 id: '332'
 origen: Jeneral
+
 versions:
--   accented: entendér
-    ladino: entender
+  - ladino: entender
+    accented: entendér
+
     translations:
         english: understand
         french: ''
         portuguese: ''
-        spanish: comprender, entender
+        spanish:
+          - comprender
+          - entender
         turkish: anlamak
 
+conjugations:
+  present indicative:
+    yo:
+      ladino: entyendo
+      translations:
+        english: understand
+        spanish: entiendo
+
+    tu:
+      ladino: entyendes
+      translations:
+        english: understand
+        spanish: entiendes
+
+    el:
+      ladino: entyende
+      translations:
+        english: understands
+        spanish: entiende
+
+    mozotros:
+      ladino: entyendemos
+      translations:
+        english: understand
+        spanish: entendemos
+
+    vozotros:
+      ladino: entyendesh
+      translations:
+        english: understand
+        spanish: entendéis
+
+    eyos:
+      ladino: entyenden
+      translations:
+        english: understand
+        spanish: entienden
+
+  other:
+    yo:
+      ladino: entendi
+      translations:
+        english: understood
+        spanish: entendi
+
+examples:
+  - ladino: Poko avlar i muncho entender!
 
