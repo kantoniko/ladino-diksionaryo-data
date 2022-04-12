@@ -1,20 +1,71 @@
-examples: []
 grammar: null
 id: '1067'
 origen: Jeneral
+
 versions:
--   accented: temerozo
-    alternative-spelling:
-    -   accented: temeroza
-        ladino: temeroza
-    ladino: temerozo
+  - ladino: temerozo
+    accented: temerozo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - rash
         - reckless
         french: ''
         portuguese: ''
-        spanish: temerario / temeraria
+        spanish: temerario
         turkish:
         - korkutucu
         - gözüpek
+
+  - ladino: temeroza
+    accented: temeroza
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - rash
+        - reckless
+        french: ''
+        portuguese: ''
+        spanish: temeraria
+        turkish:
+        - korkutucu
+        - gözüpek
+
+  - ladino: temerozos
+    accented: temerozos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - rash
+        - reckless
+        french: ''
+        portuguese: ''
+        spanish: temerarios
+        turkish:
+        - korkutucu
+        - gözüpek
+
+  - ladino: temerozas
+    accented: temerozas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - rash
+        - reckless
+        french: ''
+        portuguese: ''
+        spanish: temerarias
+        turkish:
+        - korkutucu
+        - gözüpek
+
+
+examples: []
