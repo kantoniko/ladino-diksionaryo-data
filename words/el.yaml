@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '304'
 origen: Jeneral
+
 versions:
--   accented: el
-    ladino: el
+  - ladino: el
+    accented: el
+    gender: masculine
+    number: singular
+
     translations:
         english: the
         french: ''
         portuguese: ''
         spanish: el
         turkish: bir
+
+  - ladino: los
+    accented: los
+    gender: masculine
+    number: plural
+
+    translations:
+        english: the
+        french: ''
+        portuguese: ''
+        spanish: los
+        turkish: bir
+
+
+examples: []
