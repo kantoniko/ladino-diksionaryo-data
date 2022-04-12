@@ -1,19 +1,64 @@
-comments:
-- 'grammar: m/f'
-examples:
--   ladino: Aviya uno nombrado Jak Namer, el endevino.
 grammar: null
 id: '3048'
 origen: Jeneral
+
 versions:
--   accented: endevíno
-    alternative-spelling:
-    -   accented: endevína
-        ladino: endevina
-    ladino: endevino
+  - ladino: endevino
+    accented: endevíno
+    gender: masculine
+    number: singular
+
     translations:
         english: fortune-teller
-        french: diseur / diseuse de bonne aventure
+        french:
+          - diseur
+          - diseuse de bonne aventure
         portuguese: adivinho
-        spanish: adivino / adivina
+        spanish: adivino
         turkish: falcı
+
+  - ladino: endevina
+    accented: endevína
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fortune-teller
+        french:
+          - diseur
+          - diseuse de bonne aventure
+        portuguese: adivinha
+        spanish: adivina
+        turkish: falcı
+
+  - ladino: endevinos
+    accented: endevínos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fortune-tellers
+        french:
+          - diseur
+          - diseuse de bonne aventure
+        portuguese: adivinhos
+        spanish: adivinos
+        turkish: falcı
+
+  - ladino: endevinas
+    accented: endevínas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fortune-tellers
+        french:
+          - diseur
+          - diseuse de bonne aventure
+        portuguese: adivinhas
+        spanish: adivinas
+        turkish: falcı
+
+
+examples:
+  - ladino: Aviya uno nombrado Jak Namer, el endevino.
