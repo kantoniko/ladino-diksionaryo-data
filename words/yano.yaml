@@ -1,14 +1,13 @@
-examples:
--   ladino: No tenemos supa. Mete los platos yanos.
 grammar: adjective
 id: '2975'
 origen: Jeneral
+
 versions:
--   accented: yáno
-    alternative-spelling:
-    -   accented: yána
-        ladino: yana
-    ladino: yano
+  - ladino: yano
+    accented: yáno
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - flat
@@ -19,8 +18,75 @@ versions:
         - plane
         portuguese: plano
         spanish:
-        - llano / llana
-        - plano / plana
+        - llano
+        - plano
         turkish:
         - düz
         - yassı
+
+  - ladino: yana
+    accented: yána
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - flat
+        - level
+        french:
+        - plat
+        - uni
+        - plane
+        portuguese: plana
+        spanish:
+        - llana
+        - plana
+        turkish:
+        - düz
+        - yassı
+
+  - ladino: yanos
+    accented: yános
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - flat
+        - level
+        french:
+        - plat
+        - uni
+        - plane
+        portuguese: planos
+        spanish:
+        - llanos
+        - planos
+        turkish:
+        - düz
+        - yassı
+
+  - ladino: yanas
+    accented: yánas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - flat
+        - level
+        french:
+        - plat
+        - uni
+        - plane
+        portuguese: planas
+        spanish:
+        - llanas
+        - planas
+        turkish:
+        - düz
+        - yassı
+
+
+examples:
+  - ladino: No tenemos supa. Mete los platos yanos.
