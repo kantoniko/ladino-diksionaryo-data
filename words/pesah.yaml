@@ -3,9 +3,8 @@ origen: Ladinokomunita
 
 versions:
   - ladino: Pesah
-    #alternative-spelling:
-    #  - ladino:
-    #    accented:
+    alternative-spelling:
+      - ladino: Pesaj
 
     translations:
       english: 'Pesach'
