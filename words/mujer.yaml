@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '754'
 origen: Jeneral
+
 versions:
--   accented: mujer
-    ladino: mujer
+  - ladino: mujer
+    accented: mujer
+    gender: feminine
+    number: singular
+
     translations:
         english: woman
         french: ''
         portuguese: ''
         spanish: mujer
         turkish: kadın
+
+  - ladino: mujeres
+    accented: mujeres
+    gender: feminine
+    number: plural
+
+    translations:
+        english: women
+        french: ''
+        portuguese: ''
+        spanish: mujeres
+        turkish: kadın
+
+
+examples: []
