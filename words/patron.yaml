@@ -1,20 +1,29 @@
-examples: []
 grammar: null
 id: '2059'
 origen: Jeneral
+
 versions:
--   accented: patron
+  - ladino: patron
+    accented: patrón
     alternative-spelling:
-    -   accented: proprietario
-        ladino: proprietario
-    ladino: patron
+      - ladino: proprietario
+        accented: proprietario
+
     translations:
         english:
         - owner
         - proprietor
+        - master
+        - boss
         french: ''
         portuguese: ''
-        spanish: dueño / a
-        turkish: sahip
+        spanish:
+          - dueño
+          - dueña
+          - patrón
+        turkish:
+          - patron
+          - sahip
 
-# patrón (m),A la gayinika del patron no se dize kish.,patrón,"master, boss","patron, sahip",Jeneral,2568,,
+examples:
+  - ladino: A la gayinika del patron no se dize kish.
