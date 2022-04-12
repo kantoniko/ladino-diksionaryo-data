@@ -1,16 +1,39 @@
-examples: []
 grammar: null
-id: '1032'
+id: '1032,1033'
 origen: Jeneral
+
 versions:
--   accented: solo
-    ladino: solo
+  - ladino: solo
+    accented: sólo
+    gender: masculine
+    number: singular
+
     translations:
-        english: only
+        english:
+          - only
+          - alone
         french: ''
         portuguese: ''
         spanish: sólo
-        turkish: sadece
-# solo,,sólo,only,sadece,Jeneral,1032,,
-# solo/a,,solo / a,alone,yalnız,Jeneral,1033,,
+        turkish:
+          - sadece
+          - yalnız
+
+  - ladino: sola
+    accented: sóla
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - only
+          - alone
+        french: ''
+        portuguese: ''
+        spanish: sóla
+        turkish:
+          - sadece
+          - yalnız
+
+examples: []
 
