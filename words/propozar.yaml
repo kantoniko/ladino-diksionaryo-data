@@ -14,7 +14,7 @@ versions:
         turkish: teklif etmek
 
   - ladino: propozo
-  - translations:
+    translations:
       english: proposed
 
 conjugations:
