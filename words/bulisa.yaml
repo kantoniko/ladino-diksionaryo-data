@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '202'
 origen: Jeneral
+
 versions:
--   accented: bulisa
+  - ladino: bulisa
+    accented: bulisa
+    gender: feminine
+    number: singular
+
     alternative-spelling:
-    -   accented: mujer de kaza
-        ladino: mujer de kaza
-    ladino: bulisa
+      - ladino: mujer de kaza
+        accented: mujer de kaza
+
     translations:
         english:
         - landlady
@@ -15,4 +19,29 @@ versions:
         french: ''
         portuguese: ''
         spanish: ama de casa
-        turkish: ev kadını / sahibesi
+        turkish:
+          - ev kadını
+          - sahibesi
+
+  - ladino: bulisas
+    accented: bulisas
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: mujeres de kaza
+        accented: mujeres de kaza
+
+    translations:
+        english:
+        - landladies
+        - housewifes
+        french: ''
+        portuguese: ''
+        spanish: amas de casa
+        turkish:
+          - ev kadını
+          - sahibesi
+
+
+examples: []
