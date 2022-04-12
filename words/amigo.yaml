@@ -1,19 +1,57 @@
-examples:
--   ladino: Amigo viejo no se aze enemigo.
-comments:
-  - grammar was n+adj.
+comment: '(n+adj.)'
 grammar: null
 id: '87'
 origen: Jeneral
+
 versions:
--   accented: amígo
-    alternative-spelling:
-    -   accented: amíga
-        ladino: amiga
-    ladino: amigo
+  - ladino: amigo
+    accented: amígo
+    gender: masculine
+    number: singular
+
     translations:
         english: friend
         french: ''
         portuguese: ''
-        spanish: amigo / amiga
+        spanish: amigo
         turkish: arkadaş
+
+  - ladino: amiga
+    accented: amíga
+    gender: feminine
+    number: singular
+
+    translations:
+        english: friend
+        french: ''
+        portuguese: ''
+        spanish: amiga
+        turkish: arkadaş
+
+  - ladino: amigos
+    accented: amígos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: friends
+        french: ''
+        portuguese: ''
+        spanish: amigos
+        turkish: arkadaş
+
+  - ladino: amigas
+    accented: amígas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: friends
+        french: ''
+        portuguese: ''
+        spanish: amigas
+        turkish: arkadaş
+
+examples:
+  - ladino: Amigo viejo no se aze enemigo.
+
