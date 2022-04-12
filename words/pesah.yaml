@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: Pesah
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+    translations:
+      english: 'Pesach'
+      french: ''
+      hebrew: פסח
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
