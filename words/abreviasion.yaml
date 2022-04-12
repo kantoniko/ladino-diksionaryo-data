@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - gramer
+
+versions:
+  - ladino: abreviasion
+    #gender: NA # masculine feminine
+    #number: singular plural
+
+    translations:
+      english: abbreviation
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

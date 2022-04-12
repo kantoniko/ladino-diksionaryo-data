@@ -1,11 +1,11 @@
 # Biervos de la gramer
 
-*  abbreviation - abreviasion
+*  abbreviation - [abreviasion](/words/ladino/abreviasion)
 *  accent - [aksan](/words/ladino/aksan)
     +  acute accent - aksan agudo
     +  grave accent - aksan grave
     +  circumflex accent - aksan sirkonfleks
-*  adjectival - adjektival
+*  adjectival - [adjektival](/words/ladino/adjektival)
 *  adverbial - adverbial
 *  affix - afikso
 *  agent - adjente
@@ -72,9 +72,9 @@
 *  phoneme - fonema
 *  phrase - dicho
 *  portmanteau - biervo baul
-*  prefix - prefikso
+*  prefix - [prefikso](/words/ladino/prefikso)
 *  prepositional - prepozisionel
-*  present - prezente
+*  present - [prezente](/words/ladino/prezente)
 *  regular - regolar
 *  sentence - [fraza](/words/ladino/fraza)
 *  simile - komparasion

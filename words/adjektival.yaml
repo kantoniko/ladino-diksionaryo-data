@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - gramer
+
+versions:
+  - ladino: adjektival
+    #gender: NA # masculine feminine
+    #number: singular plural
+
+    translations:
+      english: adjectival
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
