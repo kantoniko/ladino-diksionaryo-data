@@ -1,19 +1,64 @@
-examples:
--   ladino: Es un miembro aktivo de muestra komunita.
 grammar: adjective
 id: '65'
 origen: Jeneral
+
 versions:
--   accented: aktívo
-    alternative-spelling:
-    -   accented: aktíva
-        ladino: aktiva
-    ladino: aktivo
+  - ladino: aktivo
+    accented: aktívo
+    gender: masculine
+    number: singular
+
     translations:
         english: active
         french: ''
         portuguese: ''
         spanish:
-        - activo / activa
-        - lanzado / lanzada
+        - activo
+        - lanzado
         turkish: faal
+
+  - ladino: aktiva
+    accented: aktíva
+    gender: feminine
+    number: singular
+
+    translations:
+        english: active
+        french: ''
+        portuguese: ''
+        spanish:
+        - activa
+        - lanzada
+        turkish: faal
+
+  - ladino: aktivos
+    accented: aktívos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: active
+        french: ''
+        portuguese: ''
+        spanish:
+        - activos
+        - lanzados
+        turkish: faal
+
+  - ladino: aktivas
+    accented: aktívas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: active
+        french: ''
+        portuguese: ''
+        spanish:
+        - activas
+        - lanzadas
+        turkish: faal
+
+
+examples:
+  - ladino: Es un miembro aktivo de muestra komunita.
