@@ -1,16 +1,39 @@
-examples: []
 grammar: null
 id: '255'
 origen: Jeneral
+
 versions:
--   accented: dia
+  - ladino: dia
+    accented: dia
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: diya
-        ladino: diya
-    ladino: dia
+      - ladino: diya
+        accented: diya
+
     translations:
         english: day
         french: ''
         portuguese: ''
         spanish: día
         turkish: gün
+
+  - ladino: dias
+    accented: dias
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: diyas
+        accented: diyas
+
+    translations:
+        english: days
+        french: ''
+        portuguese: ''
+        spanish: días
+        turkish: gün
+
+
+examples: []
