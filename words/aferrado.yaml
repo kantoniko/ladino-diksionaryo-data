@@ -1,19 +1,64 @@
-examples:
--   ladino: Esta aferrado kon la ija del vizino.
 grammar: adjective
 id: '1575'
 origen: Jeneral
+
 versions:
--   accented: aferrádo
-    alternative-spelling:
-    -   accented: aferráda
-        ladino: aferrada
-    ladino: aferrado
+  - ladino: aferrado
+    accented: aferrádo
+    gender: masculine
+    number: singular
+
     translations:
         english: smitten
         french:
         - amouraché
         - amourachée
         portuguese: ''
-        spanish: aficionado / aficionada
+        spanish: aficionado
         turkish: tutkun
+
+  - ladino: aferrada
+    accented: aferráda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: smitten
+        french:
+        - amouraché
+        - amourachée
+        portuguese: ''
+        spanish: aficionada
+        turkish: tutkun
+
+  - ladino: aferrados
+    accented: aferrádos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: smitten
+        french:
+        - amouraché
+        - amourachée
+        portuguese: ''
+        spanish: aficionados
+        turkish: tutkun
+
+  - ladino: aferradas
+    accented: aferrádas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: smitten
+        french:
+        - amouraché
+        - amourachée
+        portuguese: ''
+        spanish: aficionadas
+        turkish: tutkun
+
+
+examples:
+  - ladino: Esta aferrado kon la ija del vizino.
