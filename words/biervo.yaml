@@ -1,16 +1,37 @@
-examples: []
 grammar: null
-id: '176'
+id: '176,1259'
 origen: Jeneral
+
 versions:
--   accented: biervo
+  - ladino: biervo
+    accented: biervo
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: palavra
-        ladino: palavra
-    ladino: biervo
+      - ladino: byervo
+
     translations:
         english: word
         french: ''
         portuguese: ''
         spanish: palabra
         turkish: kelime
+
+  - ladino: biervos
+    accented: biervos
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: byervos
+
+    translations:
+        english: words
+        french: ''
+        portuguese: ''
+        spanish: palabras
+        turkish: kelime
+
+
+examples: []
