@@ -1,7 +1,7 @@
 # Biervos de la gramer
 
 *  abbreviation - abreviasion
-*  accent - aksan
+*  accent - [aksan](/words/ladino/aksan)
     +  acute accent - aksan agudo
     +  grave accent - aksan grave
     +  circumflex accent - aksan sirkonfleks
@@ -19,7 +19,7 @@
 *  clause - frazika
 *  cognate - aparentado
 *  collective - kolektivo
-*  colloquial - familiar
+*  colloquial - [familiar](/words/ladino/familiar)
 *  comma - vírgola
 *  compound - kompozado
 *  conditional - kondisional
@@ -28,19 +28,19 @@
 *  dated - envejesido
 *  declension - deklinasion
 *  definite - definitivo
-*  degree - grado
+*  degree - [grado](/words/ladino/grado)
 *  demonstrative - demostrativo
 *  derive - derivar
 *  dot, full stop - punto
 *  formal - ofisiel (algunos dizen sostuvido)
-*  future - futuro (se dize avenir en su senso de kadal dia)
-*  gender - djenero
+*  future - [futuro](/words/ladino/futuro) (se dize avenir en su senso de kadal dia)
+*  gender - [djenero](/words/ladino/djenero)
 *  gerund - djerundio
 *  homophone - omofono
 *  hypercorrection - iperkoreksion (tambien se puedia dizir sovre-enderechamiento)
 *  hyphen - tire
 *  hyphenation - kortadura
-*  idiom - dicha
+*  idiom - [dicha](/words/ladino/dicha)
 *  imperative - emperativo / imperativo
 *  imperfect - emperfekto / imperfekto
 *  indicative - endikativo / indikativo
@@ -54,18 +54,18 @@
 *  loanword - emprestimo (tambien biervo emprestado)
 *  meaning - senso
 *  measure word - biervo de mezura
-*  mood - modo
+*  mood - [modo](/words/ladino/modo)
 *  morpheme - morfema
 *  neologism - neolojizmo
 *  object - objekto
 *  obsolete - dezuzado
 *  oxytone - agudo (el biervo klasiko ebreo es milrá)
-*  paroxytone - yano (milel)
+*  paroxytone - [yano](/words/ladino/yano) (milel)
 *  preparoxytone - korriente (milel demilel)
 *  parenthesis - parantez
 *  participle - partisipo / partisipio
-*  past, preterite - pasado
-*  person - persona
+*  past, preterite - [pasado](/words/ladino/pasado)
+*  person - [persona](/words/ladino/persona)
     +  first person - primera persona
     +  second person - sigunda persona
     +  third person - tresera persona
@@ -76,7 +76,7 @@
 *  prepositional - prepozisionel
 *  present - prezente
 *  regular - regolar
-*  sentence - fraza
+*  sentence - [fraza](/words/ladino/fraza)
 *  simile - komparasion
 *  simple - semple
 *  stem - puerpo
@@ -88,9 +88,9 @@
      +  penult - silaba penultima
      +  antepenult - silaba antepenultima
 *  syntax - sentaks
-*  tense - tiempo
-*  voice - boz
-*  vowel - vokal
+*  tense - [tiempo](/words/ladino/tiemp)
+*  voice - [boz](/words/ladino/boz)
+*  vowel - [vokal](/words/ladino/vokal)
 
 *  bold - reforsado
 *  italic - aladado
