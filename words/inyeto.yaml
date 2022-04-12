@@ -1,19 +1,55 @@
-comments:
-- 'grammar: f/m'
-examples:
--   ladino: La dieron a los inyetos ke la guadren en kashon.
 grammar: null
 id: '1358'
 origen: Jeneral
+
 versions:
--   accented: inyéto
-    alternative-spelling:
-    -   accented: inyéta
-        ladino: inyeta
-    ladino: inyeto
+  - ladino: inyeto
+    accented: inyéto
+    gender: masculine
+    number: singular
+
     translations:
         english: grandchild
         french: ''
         portuguese: ''
-        spanish: nieto / a
+        spanish: nieto
         turkish: torun
+
+  - ladino: inyeta
+    accented: inyéta
+    gender: feminine
+    number: singular
+
+    translations:
+        english: grandchild
+        french: ''
+        portuguese: ''
+        spanish: nieta
+        turkish: torun
+
+  - ladino: inyetos
+    accented: inyétos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: grandchildren
+        french: ''
+        portuguese: ''
+        spanish: nietos
+        turkish: torun
+
+  - ladino: inyetas
+    accented: inyétas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: grandchildren
+        french: ''
+        portuguese: ''
+        spanish: nietas
+        turkish: torun
+
+examples:
+  - ladino: La dieron a los inyetos ke la guadren en kashon.
