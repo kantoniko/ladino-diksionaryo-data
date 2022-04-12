@@ -1,14 +1,13 @@
-examples:
--   ladino: Desmazalado de mi!
 grammar: adjective
 id: '2997'
 origen: Jeneral
+
 versions:
--   accented: desmazaládo
-    alternative-spelling:
-    -   accented: desmazaláda
-        ladino: desmazalada
-    ladino: desmazalado
+  - ladino: desmazalado
+    accented: desmazaládo
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - misfortunate
@@ -16,8 +15,30 @@ versions:
         french:
         - malchanceux
         - accablé par le sort
-        portuguese: desafortunado / desafortunada
-        spanish: desdichado / desdichada
+        portuguese: desafortunado
+        spanish: desdichado
         turkish:
         - kısmetsiz
         - talihsiz
+
+  - ladino: desmazalada
+    accented: desmazaláda
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - misfortunate
+        - unlucky
+        french:
+        - malchanceux
+        - accablé par le sort
+        portuguese: desafortunada
+        spanish: desdichada
+        turkish:
+        - kısmetsiz
+        - talihsiz
+
+
+examples:
+  - ladino: Desmazalado de mi!
