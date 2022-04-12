@@ -1,17 +1,56 @@
-examples:
--   ladino: Mas save un loko en su kaza, ke un savyo en kaza de otro.
 grammar: adjective
 id: '2939'
 origen: Jeneral
+
 versions:
--   accented: lóko
-    alternative-spelling:
-    -   accented: lóka
-        ladino: loka
-    ladino: loko
+  - ladino: loko
+    accented: lóko
+    gender: masculine
+    number: singular
+
     translations:
         english: mad
-        french: fou / folle
+        french: fou
         portuguese: ''
-        spanish: loco / loca
+        spanish: loco
         turkish: deli
+
+  - ladino: loka
+    accented: lóka
+    gender: feminine
+    number: singular
+
+    translations:
+        english: mad
+        french: folle
+        portuguese: ''
+        spanish: loca
+        turkish: deli
+
+  - ladino: lokos
+    accented: lókos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: mad
+        french: fou
+        portuguese: ''
+        spanish: locos
+        turkish: deli
+
+  - ladino: lokas
+    accented: lókas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: mad
+        french: folle
+        portuguese: ''
+        spanish: locas
+        turkish: deli
+
+
+examples:
+  - ladino: Mas save un loko en su kaza, ke un savyo en kaza de otro.
