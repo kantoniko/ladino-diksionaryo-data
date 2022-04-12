@@ -1,13 +1,13 @@
-examples:
--   ladino: Le dio un emprestimo.
 grammar: null
 id: '2785'
 origen: Jeneral
+
 versions:
--   accented: empréstimo
+  - ladino: emprestimo
+    accented: empréstimo
     gender: masculine
-    ladino: emprestimo
     number: singular
+
     translations:
         english: loan
         french:
@@ -15,4 +15,9 @@ versions:
         - prêt
         portuguese: ''
         spanish: préstamo
-        turkish: ödünç alınan / verilen
+        turkish:
+          - ödünç alınan
+          - verilen
+
+examples:
+  - ladino: Le dio un emprestimo.
