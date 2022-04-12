@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '778'
 origen: Jeneral
+
 versions:
--   accented: nombre
-    ladino: nombre
+  - ladino: nombre
+    accented: nombre
+    gender: masculine
+    number: singular
+
     translations:
         english: name
         french: ''
         portuguese: ''
         spanish: nombre
         turkish: isim
+
+  - ladino: nombres
+    accented: nombres
+    gender: masculine
+    number: plural
+
+    translations:
+        english: names
+        french: ''
+        portuguese: ''
+        spanish: nombres
+        turkish: isim
+
+
+examples: []
