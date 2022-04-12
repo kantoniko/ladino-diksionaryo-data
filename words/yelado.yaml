@@ -1,17 +1,55 @@
-examples:
--   ladino: Inchiya la ridoma de una fuente onde la agua veniya yelada de las montanyas.
 grammar: adjective
 id: '439'
 origen: Jeneral
+
 versions:
--   accented: yeládo
-    alternative-spelling:
-    -   accented: yeláda
-        ladino: yelada
-    ladino: yelado
+  - ladino: yelado
+    accented: yeládo
+    gender: masculine
+    number: singular
+
     translations:
         english: cold
         french: ''
         portuguese: ''
-        spanish: frío / fría
+        spanish: frío
         turkish: soğuk
+
+  - ladino: yelada
+    accented: yeláda
+    gender: feminine
+    number: singular
+
+    translations:
+        english: cold
+        french: ''
+        portuguese: ''
+        spanish: fría
+        turkish: soğuk
+
+  - ladino: yelados
+    accented: yeládos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cold
+        french: ''
+        portuguese: ''
+        spanish: fríos
+        turkish: soğuk
+
+  - ladino: yeladas
+    accented: yeládas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cold
+        french: ''
+        portuguese: ''
+        spanish: frías
+        turkish: soğuk
+
+examples:
+  - ladino: Inchiya la ridoma de una fuente onde la agua veniya yelada de las montanyas.
