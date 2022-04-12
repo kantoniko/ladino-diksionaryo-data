@@ -1,22 +1,67 @@
-comments:
-- 'grammar: m/f'
-examples:
--   ladino: Lo yoramos ke se murio mansevo.
 grammar: null
 id: '12'
 origen: Jeneral
+
 versions:
--   accented: mansévo
-    alternative-spelling:
-    -   accented: manseva
-        ladino: manseva
-    ladino: mansevo
+  - ladino: mansevo
+    accented: mansévo
+    gender: masculine
+    number: singular
+
     translations:
         english: young person
         french: ''
         portuguese: ''
         spanish:
         - joven
-        - muchacho / a
-        - chico / a
+        - muchacho
+        - chico
         turkish: genç insan
+
+  - ladino: manseva
+    accented: manseva
+    gender: feminine
+    number: singular
+
+    translations:
+        english: young person
+        french: ''
+        portuguese: ''
+        spanish:
+        - joven
+        - muchacha
+        - chica
+        turkish: genç insan
+
+  - ladino: mansevos
+    accented: mansévos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: young person
+        french: ''
+        portuguese: ''
+        spanish:
+        - jovenes
+        - muchachos
+        - chicos
+        turkish: genç insan
+
+  - ladino: mansevas
+    accented: mansevas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: young person
+        french: ''
+        portuguese: ''
+        spanish:
+        - jovenes
+        - muchachas
+        - chicas
+        turkish: genç insan
+
+examples:
+  - ladino: Lo yoramos ke se murio mansevo.
