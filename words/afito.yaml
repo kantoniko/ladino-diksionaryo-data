@@ -1,20 +1,28 @@
-examples:
--   ladino: Afito de bilibiz. (Konstipasyon fuerte. Neh.)
 grammar: null
 id: '2275'
 origen: Jeneral
+
 versions:
--   accented: afíto
+  - ladino: afito
+    accented: afíto
+
     gender: masculine
-    ladino: afito
     number: singular
+
     translations:
         english:
-        - happening
-        - event; constipation
+          - happening
+          - event
+          - constipation
         french: ''
         portuguese: ''
-        spanish: acontecimiento; estreñimiento
+        spanish:
+          - acontecimiento
+          - estreñimiento
         turkish:
-        - hadise
-        - olay; kabızlık
+          - hadise
+          - olay
+          - kabızlık
+
+examples:
+  - ladino: Afito de bilibiz. (Konstipasyon fuerte. Neh.)

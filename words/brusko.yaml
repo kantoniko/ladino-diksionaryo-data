@@ -1,23 +1,97 @@
-comments:
-- 'grammar: adj'
-examples:
--   ladino: 'La kamareta era tan bruska i yelada ke me espantava de entrar ayi sola. '
-grammar: null
+grammar: adjective
 id: '3019'
 origen: Jeneral
+
 versions:
--   accented: brusko
-    alternative-spelling:
-    -   accented: bruska
-        ladino: bruska
-    ladino: brusko
+  - ladino: brusko
+    accented: brusko
+
+    gender: masculine
+    number: singular
+
     translations:
-        english: brusque; dark
-        french: brusque; sombre
+        english:
+          - brusque
+          - dark
+        french:
+          - brusque
+          - sombre
         portuguese: brusco
-        spanish: brusco; oscuro
+        spanish:
+          - brusco
+          - oscuro
         turkish:
-        - sert
-        - ters
-        - acele; karanlık
-        - loş
+          - sert
+          - ters
+          - acele
+          - karanlık
+          - loş
+
+  - ladino: bruska
+    accented: bruska
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - brusque
+          - dark
+        french: ''
+        portuguese: brusca
+        spanish:
+          - brusca
+          - oscura
+        turkish:
+          - sert
+          - ters
+          - acele
+          - karanlık
+          - loş
+
+  - ladino: bruskos
+    accented: bruskos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - brusque
+          - dark
+        french: ''
+        portuguese: bruscos
+        spanish:
+          - bruscos
+          - oscuros
+        turkish:
+          - sert
+          - ters
+          - acele
+          - karanlık
+          - loş
+
+  - ladino: bruskas
+    accented: bruskas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - brusque
+          - dark
+        french: ''
+        portuguese: bruscas
+        spanish:
+          - bruscas
+          - oscuras
+        turkish:
+          - sert
+          - ters
+          - acele
+          - karanlık
+          - loş
+
+examples:
+  - ladino: 'La kamareta era tan bruska i yelada ke me espantava de entrar ayi sola. '
