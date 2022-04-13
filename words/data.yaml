@@ -1,16 +1,20 @@
-examples: []
 grammar: null
-id: '1680'
+id: '1680,2415'
 origen: Jeneral
+
 versions:
--   accented: data
-    ladino: data
+  - ladino: data
+    accented: dáta
     translations:
         english: date
         french: ''
         portuguese: ''
         spanish: fecha
-        turkish: tarih
+        turkish:
+          - tarih
+          - gün
+          - ay
+          - yıl olarak
 
-
-# dáta,Un buen merkader paga su bono a su data.,fecha,date,tarih - gün/ay/yıl olarak,Jeneral,2415,,
+examples:
+  - ladino: Un buen merkader paga su bono a su data.

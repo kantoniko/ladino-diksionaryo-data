@@ -1,13 +1,14 @@
-examples:
--   ladino: Para lo pasado no ay remedio.
-grammar: null
-id: '1446'
+grammar: adjective
+id: '1446,2756'
 origen: Jeneral
+
 versions:
--   accented: pasádo
+  - ladino: pasado
+    accented: pasádo
+
     gender: masculine
-    ladino: pasado
     number: singular
+
     translations:
         english: past
         french: ''
@@ -17,4 +18,22 @@ versions:
         - geçmiş
         - mazi
 
-# pasádo / pasáda (adj.),Aguas pasadas no mueven molino. (Neh.),pasado / pasada,past,geçmiş,Jeneral,2756,,
+  - ladino: pasada
+    accented: pasáda
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: past
+        french: ''
+        portuguese: ''
+        spanish: pasada
+        turkish:
+        - geçmiş
+        - mazi
+
+
+examples:
+  - ladino: Para lo pasado no ay remedio.
+  - ladino: Aguas pasadas no mueven molino. (Neh.)
