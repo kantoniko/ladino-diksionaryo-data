@@ -1,0 +1,24 @@
+grammar: null
+id: '2764'
+origen: Izmir
+
+versions:
+  - ladino: toka
+    accented: tóka
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: top (toy)
+        french: ''
+        portuguese: ''
+        spanish:
+          - peón
+          - peonza
+          - trompo
+        turkish: topaç
+
+examples:
+  - ladino: En Izmir, toka es un djugete ke, en kastilyano, se yama "peón" si tiene una punta de madero i "peonza" si la punta es de fierro.
+

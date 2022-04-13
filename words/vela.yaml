@@ -1,15 +1,27 @@
-examples: []
 grammar: null
-id: '1128'
+id: '1128,2760'
 origen: Jeneral
+comments:
+  - flag in Izmir (2760)
+
 versions:
--   accented: vela
-    ladino: vela
+  - ladino: vela
+    accented: véla
+
     translations:
-        english: sail
+        english:
+          - sail
+          - flag
         french: ''
         portuguese: ''
-        spanish: vela
-        turkish: yelken
+        spanish:
+          - vela
+          - bandera
+        turkish:
+          - yelken
+          - bayrak
 
-# véla (f),Las kolores de la vela turka son kolorado i blanko.,bandera,flag,bayrak,Izmir,2760,,
+examples:
+  - ladino: Las kolores de la vela turka son kolorado i blanko.
+
+

@@ -1,17 +1,25 @@
-examples: []
 grammar: null
-id: '1152'
+id: '1152,2261'
 origen: Jeneral
+
 versions:
--   accented: ya
-    ladino: ya
+  - ladino: ya
+    accented: ya
+
+    alternative-spelling:
+      - ladino: pishin
+
     translations:
         english:
-        - already
-        - indeed
+          - already
+          - indeed
+          - at once
         french: ''
         portuguese: ''
         spanish: ya
-        turkish: artık
+        turkish:
+          - artık
+          - hemen
 
-# "ya, pishin",,ya,"already, at once","artık, hemen",Jeneral,2261,,
+examples: []
+

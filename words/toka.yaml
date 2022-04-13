@@ -1,13 +1,14 @@
-examples:
--   ladino: Muestras nonas siempre metiyan una toka blanka sovre los kaveyos.
 grammar: null
 id: '2783'
 origen: Estanbol
+
 versions:
--   accented: tóka
+  - ladino: toka
+    accented: tóka
+
     gender: feminine
-    ladino: toka
     number: singular
+
     translations:
         english: muslin scarf
         french: ''
@@ -15,5 +16,6 @@ versions:
         spanish: tocado de muselina
         turkish: tülbent
 
-# tóka (f),Muestras nonas siempre metiyan una toka blanka sovre los kaveyos.,tocado de muselina,muslin scarf,tülbent,Estanbol,2783,,
-# tóka (f),"En Izmir, toka es un djugete ke, en kastilyano, se yama ""peón"" si tiene una punta de madero i ""peonza"" si la punta es de fierro.","peón, peonza, trompo",top (toy),topaç,Izmir,2764,,
+examples:
+  - ladino: Muestras nonas siempre metiyan una toka blanka sovre los kaveyos.
+
