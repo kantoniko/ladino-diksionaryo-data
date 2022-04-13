@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '470'
 origen: Jeneral
+
 versions:
--   accented: guevo
-    ladino: guevo
+  - ladino: guevo
+    accented: guevo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: egg
         french: ''
         portuguese: ''
         spanish: huevo
         turkish: yumurta
+
+  - ladino: guevos
+    accented: guevos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: eggs
+        french: ''
+        portuguese: ''
+        spanish: huevos
+        turkish: yumurta
+
+examples: []
