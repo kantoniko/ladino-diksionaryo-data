@@ -1,19 +1,55 @@
-examples:
--   ladino: Los ajenos azen mas ke los serkanos. (Neh.)
-commet:
-  - grammar was adj.+ m/f
-grammar: null
+grammar: adjective
 id: '51'
 origen: Jeneral
+
 versions:
--   accented: ajéno
-    alternative-spelling:
-    -   accented: ajéna
-        ladino: ajena
-    ladino: ajeno
+  - ladino: ajeno
+    accented: ajéno
+    gender: masculine
+    number: singular
+
     translations:
         english: stranger
         french: ''
         portuguese: ''
-        spanish: extranjero / extranjera
+        spanish: extranjero
         turkish: yabancı
+
+  - ladino: ajena
+    accented: ajéna
+    gender: feminine
+    number: singular
+
+    translations:
+        english: stranger
+        french: ''
+        portuguese: ''
+        spanish: extranjera
+        turkish: yabancı
+
+  - ladino: ajenos
+    accented: ajénos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: stranger
+        french: ''
+        portuguese: ''
+        spanish: extranjeros
+        turkish: yabancı
+
+  - ladino: ajenas
+    accented: ajénas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: stranger
+        french: ''
+        portuguese: ''
+        spanish: extranjeras
+        turkish: yabancı
+
+examples:
+  - ladino: Los ajenos azen mas ke los serkanos. (Neh.)

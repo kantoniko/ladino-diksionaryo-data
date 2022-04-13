@@ -1,0 +1,16 @@
+grammar: null
+id: '1144'
+origen: Jeneral
+
+versions:
+  - ladino: nikochiri
+    translations:
+        english: old
+        french: ''
+        portuguese: ''
+        spanish: antiguo
+        turkish:
+          - ihtiyar
+          - yaşlı
+
+examples: []

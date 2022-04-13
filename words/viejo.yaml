@@ -1,5 +1,5 @@
 grammar: null
-id: '1143'
+id: '1143,1144'
 origen: Jeneral
 
 versions:
@@ -51,7 +51,5 @@ versions:
         spanish: antiguas
         turkish: eski
 
-
 examples: []
 
-# "viejo/a,aedado/a,nikochiri",,"viejo / a, anciano / a","old, aged","ihtiyar, yaşlı",Jeneral,1144,,
