@@ -8,6 +8,9 @@ versions:
     gender: masculine
     number: singular
 
+    alternative-spelling:
+      - ladino: eso
+
     translations:
         english:
           - east
@@ -24,6 +27,9 @@ versions:
     gender: feminine
     number: singular
 
+    alternative-spelling:
+      - ladino: esa
+
     translations:
         english: this
         french: ''
@@ -35,6 +41,9 @@ versions:
     accented: estes
     gender: masculine
     number: plural
+
+    alternative-spelling:
+      - ladino: esos
 
     translations:
         english: these
@@ -48,6 +57,9 @@ versions:
     gender: feminine
     number: plural
 
+    alternative-spelling:
+      - ladino: esas
+
     translations:
         english: these
         french: ''
@@ -57,4 +69,3 @@ versions:
 
 examples: []
 
-# eso / esa,this,bu,Jeneral,387,

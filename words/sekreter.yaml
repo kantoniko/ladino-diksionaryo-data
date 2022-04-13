@@ -10,7 +10,9 @@ versions:
         english: secretary
         french: ''
         portuguese: ''
-        spanish: secretario / a
+        spanish:
+          - secretario
+          - secretaria
         turkish: sekreter
 
 examples: []

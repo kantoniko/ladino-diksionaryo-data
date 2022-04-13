@@ -10,7 +10,9 @@ versions:
         english: bejewelled
         french: ''
         portuguese: ''
-        spanish: enjoyado / a
+        spanish:
+          - enjoyado
+          - enjoyada
         turkish: mücevherle örtülü
 
 examples: []

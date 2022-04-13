@@ -1,17 +1,22 @@
-examples: []
 grammar: null
 id: '305'
 origen: Jeneral
+
 versions:
--   accented: el de despues
-    ladino: el de despues
+  - ladino: el de despues
+    accented: el de despues
+
     translations:
         english:
         - next
         - near
         french: ''
         portuguese: ''
-        spanish: próximo / a
+        spanish:
+          - próximo
+          - próxima
         turkish:
         - sonraki
         - yakın
+
+examples: []

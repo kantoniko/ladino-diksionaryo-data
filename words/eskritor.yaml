@@ -1,21 +1,55 @@
-comments:
-- 'grammar: m/f'
-examples: []
 grammar: null
-id: '2674'
+id: '2674,2675'
 origen: Jeneral
+
 versions:
--   accented: eskritor
-    alternative-spelling:
-    -   accented: eskritora
-        ladino: eskritora
-    ladino: eskritor
+  - ladino: eskritor
+    accented: eskritór
+    gender: masculine
+    number: singular
+
     translations:
         english: writer
         french: ''
         portuguese: ''
-        spanish: escritor / escritora
+        spanish: escritor
         turkish: yazar
 
-# eskritor / eskritora (m/f),,escritor / escritora,writer,yazar,Jeneral,2674,,
-# eskritór / eskritóra (m/f),,escritor / escritora,writer,yazar,Jeneral,2675,,
+  - ladino: eskritora
+    accented: eskritóra
+    gender: feminine
+    number: singular
+
+    translations:
+        english: writer
+        french: ''
+        portuguese: ''
+        spanish: escritors
+        turkish: yazar
+
+  - ladino: eskritores
+    accented: eskritóres
+    gender: masculine
+    number: plural
+
+    translations:
+        english: writer
+        french: ''
+        portuguese: ''
+        spanish: escritores
+        turkish: yazar
+
+  - ladino: eskritoras
+    accented: eskritóras
+    gender: feminine
+    number: plural
+
+    translations:
+        english: writer
+        french: ''
+        portuguese: ''
+        spanish: escritores
+        turkish: yazar
+
+
+examples: []
