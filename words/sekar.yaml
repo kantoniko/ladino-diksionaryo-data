@@ -1,19 +1,27 @@
-conjugations: {}
-examples:
--   ladino: Lavalas buenas buenas i deshalas a sekar.
 grammar: verb
 id: '976'
 origen: Jeneral
+
 versions:
--   accented: sekár
-    ladino: sekar
+  - ladino: sekar
+    accented: sekár
+
     alternative-spelling:
       - ladino: enshugar
         accented: enshugár
+
     translations:
         english: dry
         french: sécher
-        portuguese: secar, enxugar
-        spanish: secar, enjugar
+        portuguese:
+          - secar
+          - enxugar
+        spanish:
+          - secar
+          - enjugar
         turkish: kurutmak
 
+conjugations: {}
+
+examples:
+  - ladino: Lavalas buenas buenas i deshalas a sekar.

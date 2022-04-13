@@ -22,14 +22,22 @@ versions:
         portuguese: ''
         spanish: placer
         turkish: memnuniyet
+
   - ladino: plazer
     accented: plazér
     translations:
-        english: please, be pleasing
+        english:
+          - please
+          - be pleasing
         french: ''
         portuguese: ''
-        spanish: gustar, placer
-        turkish: hoşlanmak, hoşuna gitmek
+        spanish:
+          - gustar
+          - placer
+        turkish:
+          - hoşlanmak
+          - hoşuna gitmek
+
   - ladino: plazer a...
     accented: plazér a...
     translations:

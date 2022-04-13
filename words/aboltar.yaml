@@ -10,7 +10,9 @@ versions:
         english: turn
         french: ''
         portuguese: ''
-        spanish: girar, volver
+        spanish:
+          - girar
+          - volver
         turkish: dönmek
 
 conjugations: {}

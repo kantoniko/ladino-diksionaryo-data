@@ -1,15 +1,21 @@
-conjugations: {}
-examples:
--   ladino: El se lo giza, el se lo kome.
 grammar: verb
 id: '1341'
 origen: Jeneral
+
 versions:
--   accented: gizár
-    ladino: gizar
+  - ladino: gizar
+    accented: gizár
+
     translations:
         english: cook
         french: cuisiner
         portuguese: cozinhar
-        spanish: guisar, cocinar
+        spanish:
+          - guisar
+          - cocinar
         turkish: yemek pişirmek
+
+conjugations: {}
+
+examples:
+  - ladino: El se lo giza, el se lo kome.

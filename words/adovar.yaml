@@ -7,10 +7,19 @@ versions:
     accented: adovár
 
     translations:
-        english: repair, mend, fix
-        french: réparer, raccommoder
-        portuguese: concertar, reparar
-        spanish: reparar, remendar
+        english:
+          - repair
+          - mend
+          - fix
+        french:
+          - réparer
+          - raccommoder
+        portuguese:
+          - concertar
+          - reparar
+        spanish:
+          - reparar
+          - remendar
         turkish: tamir etmek
 
 conjugations: {}
