@@ -1,21 +1,67 @@
-examples:
--   ladino: Sos muy mazaloza de tener esta vida ke tyenes.
 grammar: adjective
 id: '707'
 origen: Jeneral
+
 versions:
--   accented: mazalózo
-    alternative-spelling:
-    -   accented: mazalóza
-        ladino: mazaloza
-    ladino: mazalozo
+  - ladino: mazalozo
+    accented: mazalózo
+    gender: masculine
+    number: singular
+
     translations:
         english: fortunate
         french:
         - chanceux
-        - ''
         portuguese: fortunoso
-        spanish: afortunado / afortunada
+        spanish: afortunado
         turkish:
         - şanslı
         - kısmetli
+
+  - ladino: mazaloza
+    accented: mazalóza
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fortunate
+        french:
+        - chanceux
+        portuguese: fortunosa
+        spanish: afortunada
+        turkish:
+        - şanslı
+        - kısmetli
+
+  - ladino: mazalozos
+    accented: mazalózos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fortunate
+        french:
+        - chanceux
+        portuguese: fortunosos
+        spanish: afortunados
+        turkish:
+        - şanslı
+        - kısmetli
+
+  - ladino: mazalozas
+    accented: mazalózas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fortunate
+        french:
+        - chanceux
+        portuguese: fortunosas
+        spanish: afortunadas
+        turkish:
+        - şanslı
+        - kısmetli
+
+examples:
+  - ladino: Sos muy mazaloza de tener esta vida ke tyenes.

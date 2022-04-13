@@ -1,15 +1,38 @@
-examples: []
 grammar: null
 id: '1760'
 origen: Jeneral
 versions:
--   accented: elegante
-    ladino: elegante
+  - ladino: elegante
+    accented: elegante
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english:
         - neat
         - stylish
         french: ''
         portuguese: ''
-        spanish: atildado / a
+        spanish:
+          - atildado
+          - atildada
         turkish: zarif
+
+  - ladino: elegantes
+    accented: elegantes
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english:
+        - neat
+        - stylish
+        french: ''
+        portuguese: ''
+        spanish:
+          - atildados
+          - atildadas
+        turkish: zarif
+
+
+examples: []

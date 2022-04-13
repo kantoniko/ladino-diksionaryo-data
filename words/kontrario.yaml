@@ -1,15 +1,19 @@
-examples: []
 grammar: null
 id: '1939'
 origen: Jeneral
 versions:
--   accented: kontrario
-    ladino: kontrario
+  - ladino: kontrario
+    accented: kontrario
+
     translations:
         english: contrary
         french: ''
         portuguese: ''
-        spanish: contrario / a
+        spanish:
+          - contrario
+          - contrario
         turkish:
         - aksi
         - ters
+
+examples: []

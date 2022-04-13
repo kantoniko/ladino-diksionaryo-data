@@ -1,21 +1,71 @@
-examples:
--   ladino: Desdichada de mi ! Me fui del bet din abatida i muy triste...
 grammar: adjective
 id: '1568'
 origen: Jeneral
+
 versions:
--   accented: abatído
-    alternative-spelling:
-    -   accented: abatída
-        ladino: abatida
-    ladino: abatido
+  - ladino: abatido
+    accented: abatído
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - depressed
         - distressed
-        french: affligé / affligée
-        portuguese: deprimido  deprimida
+        french: affligé
+        portuguese: deprimido
         spanish:
-        - abatido / abatida
-        - afligido / afligida
+        - abatido
+        - afligido
         turkish: üzgün
+
+  - ladino: abatida
+    accented: abatída
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - depressed
+        - distressed
+        french: affligée
+        portuguese: deprimida
+        spanish:
+        - abatida
+        - afligida
+        turkish: üzgün
+
+  - ladino: abatidos
+    accented: abatídos
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - depressed
+        - distressed
+        french: affligé
+        portuguese: deprimidos
+        spanish:
+        - abatidos
+        - afligidos
+        turkish: üzgün
+
+  - ladino: abatidas
+    accented: abatídas
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - depressed
+        - distressed
+        french: affligée
+        portuguese: deprimidas
+        spanish:
+        - abatidas
+        - afligidas
+        turkish: üzgün
+
+examples:
+  - ladino: Desdichada de mi ! Me fui del bet din abatida i muy triste...
