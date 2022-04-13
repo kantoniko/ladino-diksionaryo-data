@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1912'
 origen: Jeneral
+comments: with yourself?
+
 versions:
--   accented: kon si mizmo
-    ladino: kon si mizmo
+  - ladino: kon si mizmo
+    accented: kon si mizmo
     translations:
-        english: with himself / her/you
+        english:
+          - with himself
+          - with herself
         french: ''
         portuguese: ''
         spanish: consigo mismo
         turkish: kendi kendine
+
+examples: []
