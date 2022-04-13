@@ -1,10 +1,11 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1071'
 origen: Jeneral
+
 versions:
--   accented: tener
-    ladino: tener
+  - ladino: tener
+    accented: tener
+
     translations:
         english:
         - have
@@ -15,3 +16,72 @@ versions:
         turkish:
         - sahip olmak
         - tutmak
+
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: tengo
+      translations:
+        english: have
+        spanish: teno
+
+    tu:
+      ladino: tienes
+      alternative-spelling:
+        - ladino: tyenes
+      translations:
+        english: have
+        spanish: tienes
+
+    el:
+      ladino: tiene
+      alternative-spelling:
+        - ladino: tyene
+      translations:
+        english: has
+        spanish: tiene
+
+    mozotros:
+      ladino: tenemos
+      translations:
+        english: have
+        spanish: tenemos
+
+    vozotros:
+      ladino: tenesh
+      translations:
+        english: have
+        spanish: teneis
+
+    eyos:
+      ladino: tienen
+      alternative-spelling:
+        - ladino: tyenen
+      translations:
+        english: have
+        spanish: tienen
+
+  other:
+    yo:
+      ladino: tuve
+      translations:
+        english: had
+        spanish: tuve
+    mozotros:
+      ladino: tuvimos
+      translations:
+        english: had
+        spanish: tuvimos
+
+  other2:
+    yo:
+      ladino: tenia
+      translations:
+        english: had
+        spanish: tenia
+
+
+examples:
+  - ladino: Yo tengo un ermano
+    english: I have a brother
