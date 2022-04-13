@@ -1,16 +1,21 @@
-examples: []
 grammar: null
 id: '964'
 origen: Jeneral
+
 versions:
--   accented: salero
-    ladino: salero
+  - ladino: salero
+    accented: salero
+
     translations:
         english:
-        - salt-cellar
-        - charm
-        - appeal
+          - salt-cellar
+          - charm
+          - appeal
         french: ''
         portuguese: ''
         spanish: salero
-        turkish: tuzluk; çekicilik
+        turkish:
+          - tuzluk
+          - çekicilik
+
+examples: []

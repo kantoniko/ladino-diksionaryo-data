@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '227'
 origen: Jeneral
+
 versions:
--   accented: dedikarse
-    ladino: dedikarse
+  - ladino: dedikarse
+    accented: dedikarse
+
     translations:
         english: dedicate oneself
         french: ''
         portuguese: ''
         spanish: dedicarse
-        turkish: kendini adamak; çalışmak
+        turkish:
+          - kendini adamak
+          - çalışmak
+
+examples: []

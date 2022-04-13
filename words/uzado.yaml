@@ -1,22 +1,77 @@
-examples:
--   ladino: 'Les viene mas fasil eskrivir asigun estan uzados.
-
-
-        Le dio dos manteles dayinda no uzados.'
 grammar: null
 id: '2351'
 origen: Jeneral
+
 versions:
--   accented: uzado
-    alternative-spelling:
-    -   accented: uzada
-        ladino: uzada
-    ladino: uzado
+  - ladino: uzado
+    accented: uzado
+
+    gender: masculine
+    number: singular
+
     translations:
-        english: used; worn
+        english:
+          - used
+          - worn
         french: ''
         portuguese: ''
-        spanish:
-        - usado
-        - usada
-        turkish: alışık; kullanılmış
+        spanish: usado
+        turkish:
+          - alışık
+          - kullanılmış
+
+  - ladino: uzada
+    accented: uzada
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - used
+          - worn
+        french: ''
+        portuguese: ''
+        spanish: usada
+        turkish:
+          - alışık
+          - kullanılmış
+
+  - ladino: uzados
+    accented: uzados
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - used
+          - worn
+        french: ''
+        portuguese: ''
+        spanish: usados
+        turkish:
+          - alışık
+          - kullanılmış
+
+  - ladino: uzadas
+    accented: uzadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - used
+          - worn
+        french: ''
+        portuguese: ''
+        spanish: usadas
+        turkish:
+          - alışık
+          - kullanılmış
+
+examples:
+  - ladino: Les viene mas fasil eskrivir asigun estan uzados.
+  - ladino: Le dio dos manteles dayinda no uzados.'
+

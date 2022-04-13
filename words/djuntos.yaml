@@ -1,15 +1,23 @@
-examples: []
 grammar: null
 id: '1732'
 origen: Jeneral
+
 versions:
--   accented: djuntos
-    ladino: djuntos
+  - ladino: djuntos
+    accented: djuntos
+
+    #gender: NA # masculine feminine
+    number: plural
+
     translations:
         english:
         - joined
         - together
         french: ''
         portuguese: ''
-        spanish: junto - s (pl.)
+        spanish:
+          - junto
+          - juntos
         turkish: beraber
+
+examples: []

@@ -1,16 +1,27 @@
-examples: []
 grammar: null
-id: '2182'
+id: '2182,2615'
 origen: Jeneral
+comments: konj.
+
 versions:
--   accented: si
-    ladino: si
+  - ladino: si
+    accented: sí
+
     translations:
-        english: yes; if
+        english:
+          - 'yes'
+          - if
+          - himself
+          - herself
+          - it
         french: ''
         portuguese: ''
         spanish: sí
-        turkish: evet; eğer
+        turkish:
+          - evet
+          - eğer
+          - kendi
 
+examples:
+  - ladino: Si kere el Dio....
 
-# si (konj.),Si kere el Dio....,"si, sí","yes, if, himself, herself, it","evet, eğer, kendi",Jeneral,2615,,
