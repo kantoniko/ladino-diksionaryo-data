@@ -15,7 +15,9 @@ versions:
         french: améliorer
         portuguese: ''
         spanish: mejorar
-        turkish: ıslah etmek, iyileştirmek
+        turkish:
+          - ıslah etmek
+          - iyileştirmek
 
 
 conjugations: {}

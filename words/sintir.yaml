@@ -1,19 +1,29 @@
-conjugations: {}
-examples:
--   ladino: Sentites el gayo kantar, ma no entendites de onde (Neh.)
 grammar: verb
 id: '1018'
 origen: Jeneral
+
 versions:
--   accented: sintír
-    ladino: sintir
+  - ladino: sintir
+    accented: sintír
+
     alternative-spelling:
       - ladino: sentir
         accented: sentír
+
     translations:
-        english: feel, hear
+        english:
+          - feel
+          - hear
         french: ''
         portuguese: ''
         spanish: sentir
-        turkish: hissetmek, sezmek, duymak
+        turkish:
+          - hissetmek
+          - sezmek
+          - duymak
+
+conjugations: {}
+
+examples:
+  - ladino: Sentites el gayo kantar, ma no entendites de onde (Neh.)
 

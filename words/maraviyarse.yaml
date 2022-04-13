@@ -1,15 +1,24 @@
-conjugations: {}
-examples:
--   ladino: No te maraviyes...
 grammar: verb
 id: '1409'
 origen: Jeneral
+
 versions:
--   accented: maraviyárse
-    ladino: maraviyarse
+  - ladino: maraviyarse
+    accented: maraviyárse
+
     translations:
-        english: marvel, wonder
+        english:
+          - marvel
+          - wonder
         french: ''
         portuguese: ''
         spanish: maravillarse
-        turkish: hayran olmak, hayret etmek
+        turkish:
+          - hayran olmak
+          - hayret etmek
+
+conjugations: {}
+
+examples:
+  - ladino: No te maraviyes...
+

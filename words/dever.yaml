@@ -1,17 +1,38 @@
-conjugations: {}
-examples:
--   ladino: Paga a ken deves, saves lo ke tienes (Neh.)
 grammar: verb
-id: '252'
+id: '252,1709'
 origen: Jeneral
+
 versions:
--   accented: devér
-    ladino: dever
+  - ladino: dever
+    accented: devér
+
     translations:
         english: owe
         french: ''
         portuguese: ''
         spanish: deber
-        turkish: borçlu olmak, gerekmek
+        turkish:
+          - borçlu olmak
+          - gerekmek
 
-# "dever, mision",,faena,"task, duty",vazife (spor),Jeneral,1709,,
+  - ladino: dever
+    translations:
+      english:
+        - task
+        - duty
+      spanish: faena
+      turkish: vazife (spor)
+
+  - ladino: mision
+    translations:
+      english:
+        - task
+        - duty
+      spanish: faena
+      turkish: vazife (spor)
+
+conjugations: {}
+
+examples:
+  - ladino: Paga a ken deves, saves lo ke tienes (Neh.)
+

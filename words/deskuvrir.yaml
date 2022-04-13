@@ -1,17 +1,21 @@
-conjugations: {}
-examples:
--   ladino: Moise Rahmani mos aze deskuvrir su estorya, su vida de kada diya.
 grammar: verb
 id: '1277'
 origen: Jeneral
+
 versions:
--   accented: deskuvrír
-    ladino: deskuvrir
+  - ladino: deskuvrir
+    accented: deskuvrír
     translations:
         english: discover
         french: ''
         portuguese: ''
         spanish: descubrir
-        turkish: bulmak, keşfetmek
+        turkish:
+          - bulmak
+          - keşfetmek
 
+conjugations: {}
+
+examples:
+  - ladino: Moise Rahmani mos aze deskuvrir su estorya, su vida de kada diya.
 

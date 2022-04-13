@@ -10,7 +10,9 @@ versions:
         french: administrer
         portuguese: administrar
         spanish: administrar
-        turkish: yönetmek, idare etmek
+        turkish:
+          - yönetmek
+          - idare etmek
 
 conjugations: {}
 

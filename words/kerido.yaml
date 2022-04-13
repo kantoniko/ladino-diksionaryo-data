@@ -13,7 +13,9 @@ versions:
       french: ''
       portuguese: ''
       spanish: querido
-      turkish: aziz, sevgili
+      turkish:
+        - aziz
+        - sevgili
 
   - ladino: kerida
     accented: kerida
@@ -25,7 +27,9 @@ versions:
       french: ''
       portuguese: ''
       spanish: querida
-      turkish: aziz, sevgili
+      turkish:
+        - aziz
+        - sevgili
 
   - ladino: keridos
     accented: keridos

@@ -17,6 +17,8 @@ versions:
         french: ''
         portuguese: ''
         spanish: tostada con sésamo
-        turkish: simit, gevrek
+        turkish:
+          - simit
+          - gevrek
 
 examples: []
