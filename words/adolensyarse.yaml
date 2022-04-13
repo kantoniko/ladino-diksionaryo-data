@@ -1,15 +1,27 @@
-conjugations: {}
-examples:
--   ladino: Puedo dizir ke me adolensyo kuando amostran la gerra en la televizyon.
 grammar: verb
 id: '2796'
 origen: Jeneral
+
 versions:
--   accented: adolensyárse
-    ladino: adolensyarse
+  - ladino: adolensyarse
+    accented: adolensyárse
+
     translations:
-        english: fall ill; whine
-        french: tomber malade; geindre
+        english:
+          - fall ill
+          - whine
+        french:
+          - tomber malade
+          - geindre
         portuguese: ficar enfermo
-        spanish: caer enfermo; gimotear
-        turkish: hastalanmak; yakınmak
+        spanish:
+          - caer enfermo
+          - gimotear
+        turkish:
+          - hastalanmak
+          - yakınmak
+
+conjugations: {}
+
+examples:
+  - ladino: Puedo dizir ke me adolensyo kuando amostran la gerra en la televizyon.

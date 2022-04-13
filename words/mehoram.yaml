@@ -1,20 +1,29 @@
-examples:
--   ladino: Agora lo kastigare a este mehoram.
 grammar: null
 id: '3010'
 origen: Jeneral
+
 versions:
--   accented: mehorám
+  - ladino: mehoram
+    accented: mehorám
+
     gender: masculine
-    ladino: mehoram
     number: singular
+
     translations:
         english:
-        - excommunicated person; rascal
-        - scoundrel
-        french: excommunié; canaille
+          - excommunicated person; rascal
+          - scoundrel
+        french:
+          - excommunié
+          - canaille
         portuguese: malandro
-        spanish: excomulgado; canalla
+        spanish:
+          - excomulgado
+          - canalla
         turkish:
-        - aforoz edilmiş; alçak adam
-        - habis
+          - aforoz edilmiş
+          - alçak adam
+          - habis
+
+examples:
+  - ladino: Agora lo kastigare a este mehoram.

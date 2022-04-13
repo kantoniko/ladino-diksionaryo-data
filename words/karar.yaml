@@ -1,15 +1,24 @@
-examples:
--   ladino: Miro de eskrivir el karar ke puedo. Kere dizir ke si uno dio karar a una
-        koza o si uno pensa una koza, no troka de opinion.
 grammar: null
 id: '2312'
 origen: Estanbol
+
 versions:
--   accented: karar
-    ladino: karar
+  - ladino: karar
+    accented: karar
+
     translations:
-        english: quantity; decision
+        english:
+          - quantity
+          - decision
         french: ''
         portuguese: ''
-        spanish: cuantitad; decision
-        turkish: kadar; karar
+        spanish:
+          - cuantitad
+          - decision
+        turkish:
+          - kadar
+          - karar
+
+examples:
+  - ladino: Miro de eskrivir el karar ke puedo. Kere dizir ke si uno dio karar a una koza o si uno pensa una koza, no troka de opinion.
+
