@@ -1,17 +1,26 @@
-conjugations: {}
-examples:
--   ladino: De la kavesa fyede el peshkado.
 grammar: verb
 id: '2808'
 origen: Jeneral
+
 versions:
--   accented: fedér
-    ladino: feder
+  - ladino: feder
+    accented: fedér
+
     translations:
         english:
         - stink
-        - reek; irritate
+        - reek
+        - irritate
         french: ''
         portuguese: ''
-        spanish: heder; irritar
-        turkish: pis pis kokmak; can sıkmak
+        spanish:
+          - heder
+          - irritar
+        turkish:
+          - pis pis kokmak
+          - can sıkmak
+
+conjugations: {}
+
+examples:
+  - ladino: De la kavesa fyede el peshkado.
