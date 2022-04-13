@@ -15,8 +15,11 @@ versions:
         spanish:
           - cavar
           - buscar en cada rincón
-        turkish: karıştırmak, aramak
+        turkish:
+          - karıştırmak
+          - aramak
 
 conjugations: {}
+
 examples: []
 

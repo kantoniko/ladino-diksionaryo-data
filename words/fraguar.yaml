@@ -1,16 +1,24 @@
-conjugations: {}
-examples:
--   ladino: Sintyendo sus konsejos, el soverano izo fraguar la KIZ KULESI.
 grammar: verb
 id: '5'
 origen: Jeneral
+
 versions:
--   accented: fraguár
-    ladino: fraguar
+  - ladino: fraguar
+    accented: fraguár
+
     translations:
-        english: to build, to construct
-        french: construire, bâtir
+        english:
+          - build
+          - construct
+        french:
+          - construire
+          - bâtir
         portuguese: ''
         spanish: construir
         turkish: inşa etmek
+
+conjugations: {}
+
+examples:
+  - ladino: Sintyendo sus konsejos, el soverano izo fraguar la KIZ KULESI.
 

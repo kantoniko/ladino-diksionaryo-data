@@ -1,15 +1,23 @@
-conjugations: {}
-examples:
--   ladino: La madre  konsola su ijo, alimpiando sus ojos.
 grammar: verb
 id: '599'
 origen: Jeneral
+
 versions:
--   accented: konsolár
-    ladino: konsolar
+  - ladino: konsolar
+    accented: konsolár
+
     translations:
-        english: console, comfort
-        french: consoler, réconforter
+        english:
+          - console
+          - comfort
+        french:
+          - consoler
+          - réconforter
         portuguese: consolar
         spanish: consolar
         turkish: teselli etmek
+
+conjugations: {}
+
+examples:
+  - ladino: La madre  konsola su ijo, alimpiando sus ojos.

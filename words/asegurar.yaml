@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '1633'
 origen: Jeneral
+
 versions:
--   accented: asegurar
-    ladino: asegurar
+  - ladino: asegurar
+    accented: asegurar
+
     translations:
-        english: secure; insure
+        english:
+          - secure
+          - insure
         french: ''
         portuguese: ''
         spanish: asegurar
-        turkish: temin - sigorta etmek
+        turkish:
+          - temin
+          - sigorta etmek
+
+examples: []

@@ -1,15 +1,25 @@
-conjugations: {}
-examples:
--   ladino: Devemos desidar i fiksar un program.
 grammar: verb
 id: '1333'
 origen: Jeneral
+
 versions:
--   accented: fiksár
-    ladino: fiksar
+  - ladino: fiksar
+    accented: fiksár
+
     translations:
-        english: fix, fasten, secure
+        english:
+          - fix
+          - fasten
+          - secure
         french: ''
         portuguese: ''
         spanish: fijar
-        turkish: saptamak, göz dıkmek
+        turkish:
+          - saptamak
+          - göz dıkmek
+
+conjugations: {}
+
+examples:
+  - ladino: Devemos desidar i fiksar un program.
+

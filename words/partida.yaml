@@ -1,20 +1,26 @@
-examples:
--   ladino: 'Las konsejas estan en la partida de djudeo-espanyol de la Gazeta.
-
-        E bravo! Ya ganates la partida?" .'
 grammar: null
 id: '2340'
 origen: Jeneral
+
 versions:
--   accented: partida
-    ladino: partida
+  - ladino: partida
+    accented: partida
+
     translations:
-        english: part; game
+        english:
+          - part
+          - game
         french: ''
         portuguese: ''
         spanish:
-        - parte
-        - partida
+          - parte
+          - partida
         turkish:
-        - kısım
-        - bölüm; el (oyun)
+          - kısım
+          - bölüm
+          - el (oyun)
+
+examples:
+  - ladino: 'Las konsejas estan en la partida de djudeo-espanyol de la Gazeta.'
+  - ladino: 'E bravo! Ya ganates la partida?'
+
