@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '549'
 origen: Jeneral
 versions:
--   accented: ke tiene
-    ladino: ke tiene
+  - ladino: ke tiene
+    accented: ke tiene
+
     translations:
         english: whose
         french: ''
         portuguese: ''
-        spanish: cuyo / a
+        spanish:
+          - cuyo
+          - cuya
         turkish: olan
+
+examples: []

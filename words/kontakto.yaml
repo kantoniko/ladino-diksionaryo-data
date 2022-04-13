@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1930'
 origen: Jeneral
+
 versions:
--   accented: kontakto
-    ladino: kontakto
+  - ladino: kontakto
+    accented: kontakto
+    gender: masculine
+    number: singular
+
     translations:
         english: touch
         french: ''
         portuguese: ''
         spanish: tacto
         turkish: temas
+
+  - ladino: kontaktos
+    accented: kontaktos
+    gender: masculine
+    number: plural
+
+    translations:
+        english: touches
+        french: ''
+        portuguese: ''
+        spanish: tactos
+        turkish: temas
+
+
+examples: []

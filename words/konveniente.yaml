@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '1940'
 origen: Jeneral
+
 versions:
--   accented: konveniente
-    ladino: konveniente
+  - ladino: konveniente
+    accented: konveniente
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: opportune
         french: ''
         portuguese: ''
-        spanish: oportuno / a
+        spanish:
+          - oportuno
+          - oportuna
         turkish: uygun
+
+examples: []
