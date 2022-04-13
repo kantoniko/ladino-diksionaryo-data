@@ -1,15 +1,63 @@
-examples: []
 grammar: null
-id: '1465'
+id: '1465,2105'
 origen: Jeneral
+
 versions:
--   accented: privado
-    ladino: privado
+  - ladino: privado
+    accented: privado
+    gender: masculine
+    number: singular
+
     translations:
         english: private
         french: ''
         portuguese: ''
         spanish: privado
-        turkish: özel
+        turkish:
+          - özel
+          - ózel
 
-# privado / a,,privado / a,private,ózel,Jeneral,2105,,
+  - ladino: privada
+    accented: privada
+    gender: feminine
+    number: singular
+
+    translations:
+        english: private
+        french: ''
+        portuguese: ''
+        spanish: privada
+        turkish:
+          - özel
+          - ózel
+
+  - ladino: privados
+    accented: privados
+    gender: masculine
+    number: plural
+
+    translations:
+        english: private
+        french: ''
+        portuguese: ''
+        spanish: privados
+        turkish:
+          - özel
+          - ózel
+
+  - ladino: privadas
+    accented: privadas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: private
+        french: ''
+        portuguese: ''
+        spanish: privadas
+        turkish:
+          - özel
+          - ózel
+
+examples: []
+

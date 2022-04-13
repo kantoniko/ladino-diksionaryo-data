@@ -1,13 +1,13 @@
-examples:
--   ladino: 'Eya es una mujer dobra.
+grammar: adjective
+id: '2269,2927'
+origen: Balkanes
 
-        (Un adjektivo d''orijina slava)'
-grammar: null
-id: '2269'
-origen: Otros
 versions:
--   accented: dobro
-    ladino: dobro
+  - ladino: dobro
+    accented: dóbro
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - good
@@ -19,4 +19,54 @@ versions:
         - bueno
         turkish: iyi
 
-# dóbro / dóbra (adj.),Eya es una mujer dobra.,"bien, bueno","good, nice",iyi,Balkanes,2927,,
+  - ladino: dobra
+    accented: dóbra
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - good
+        - nice
+        french: ''
+        portuguese: ''
+        spanish:
+        - bien
+        - buena
+        turkish: iyi
+
+  - ladino: dobros
+    accented: dóbros
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - good
+        - nice
+        french: ''
+        portuguese: ''
+        spanish:
+        - bienes
+        - buenos
+        turkish: iyi
+
+  - ladino: dobras
+    accented: dóbras
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - good
+        - nice
+        french: ''
+        portuguese: ''
+        spanish:
+        - bienes
+        - buenas
+        turkish: iyi
+
+
+examples:
+  - ladino: 'Eya es una mujer dobra. (Un adjektivo d''orijina slava)'
