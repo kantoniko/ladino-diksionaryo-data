@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '729'
 origen: Jeneral
+
 versions:
--   accented: mez
-    ladino: mez
+  - ladino: mez
+    accented: mez
+    gender: masculine
+    number: singular
+
     translations:
         english: month
         french: ''
         portuguese: ''
         spanish: mes
         turkish: ay
+
+  - ladino: mezes
+    accented: mezes
+    gender: masculine
+    number: plural
+
+    translations:
+        english: months
+        french: ''
+        portuguese: ''
+        spanish: meses
+        turkish: ay
+
+examples: []

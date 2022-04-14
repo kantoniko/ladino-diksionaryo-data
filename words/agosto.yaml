@@ -1,0 +1,16 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: agosto
+    accented: agosto
+
+    translations:
+        english: August
+        french: ''
+        portuguese: ''
+        spanish: agosto
+        turkish: ''
+
+examples: []
+

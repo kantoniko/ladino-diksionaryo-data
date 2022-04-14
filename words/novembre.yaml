@@ -1,0 +1,16 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: novembre
+    accented: novembre
+
+    translations:
+        english: November
+        french: ''
+        portuguese: ''
+        spanish: noviembre
+        turkish: ''
+
+examples: []
+

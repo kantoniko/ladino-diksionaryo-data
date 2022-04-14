@@ -1,0 +1,16 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: decembre
+    accented: decembre
+
+    translations:
+        english: December
+        french: ''
+        portuguese: ''
+        spanish: deciembre
+        turkish: ''
+
+examples: []
+
