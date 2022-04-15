@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1141'
 origen: Jeneral
+
 versions:
--   accented: viaje
-    ladino: viaje
+  - ladino: viaje
+    accented: viaje
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: travel
         french: ''
         portuguese: ''
         spanish: viaje
         turkish: seyahat
+
+  - ladino: viajes
+    accented: viajes
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english: travels
+        french: ''
+        portuguese: ''
+        spanish: viajes
+        turkish: seyahat
+
+
+examples: []

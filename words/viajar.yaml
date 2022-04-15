@@ -1,15 +1,55 @@
-comments:
-- 'grammar: kon'
-examples: []
-grammar: null
+grammar: verb
 id: '1140'
 origen: Jeneral
+
 versions:
--   accented: viajar
-    ladino: viajar
+  - ladino: viajar
+    accented: viajar
+
     translations:
         english: travel
         french: ''
         portuguese: ''
         spanish: viajar (en)
         turkish: seyahat etmek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: viajo
+      translations:
+        english: travel
+        spanish: viajo
+
+    tu:
+      ladino: viajas
+      translations:
+        english: travel
+        spanish: vijas
+
+    el:
+      ladino: viaja
+      translations:
+        english: travels
+        spanish: viaja
+
+    mozotros:
+      ladino: viajamos
+      translations:
+        english: travel
+        spanish: viajamos
+
+    vozotros:
+      ladino: viajash
+      translations:
+        english: travel
+        spanish: viajais
+
+    eyos:
+      ladino: viajan
+      translations:
+        english: travel
+        spanish: viajan
+
+examples: []
+
