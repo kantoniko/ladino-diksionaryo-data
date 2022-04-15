@@ -1,16 +1,20 @@
-examples:
--   ladino: No se le siente la boz.
 grammar: null
 id: '2411'
 origen: Jeneral
+
 versions:
--   accented: boz
+  - ladino: boz
+    accented: boz
+
     gender: feminine
-    ladino: boz
     number: singular
+
     translations:
         english: voice
         french: voix
         portuguese: voz
         spanish: voz
         turkish: ses
+
+examples:
+  - ladino: No se le siente la boz.
