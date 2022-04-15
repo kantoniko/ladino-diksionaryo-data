@@ -1,13 +1,18 @@
-examples: []
-grammar: null
+grammar: verb
 id: '965'
 origen: Jeneral
+
 versions:
--   accented: salir
-    ladino: salir
+  - ladino: salir
+    accented: salir
+
     translations:
         english: go out
         french: ''
         portuguese: ''
         spanish: salir
         turkish: çıkmak
+
+conjugations: {}
+
+examples: []

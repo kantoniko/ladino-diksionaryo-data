@@ -1,6 +1,7 @@
 grammar: verb
 id: '37'
 origen: Jeneral
+
 versions:
   - ladino: adjustar
     accented: adjustár
@@ -12,7 +13,49 @@ versions:
         spanish: añadir
         turkish: eklemek
 
-conjugations: {}
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: adjusto
+      translations:
+        english: add
+        spanish:  añado
+
+    tu:
+      ladino: adjustas
+      translations:
+        english: add
+        spanish: añades
+
+    el:
+      ladino: adjusta
+      translations:
+        english: adds
+        spanish: añade
+
+    mozotros:
+      ladino: adjustamos
+      translations:
+        english: add
+        spanish: añadimos
+
+    vozotros:
+      ladino: adjustash
+      translations:
+        english: add
+        spanish: añadis
+
+    eyos:
+      ladino: adjustan
+      translations:
+        english: add
+        spanish: añaden
+  past:
+    yo:
+      ladino: adjusti
+      translations:
+        english: added
 
 examples:
   - ladino: Mesklar bien, adjustar la tomat ke fue esprimida un poko para kitarle el kaldo.
