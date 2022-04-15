@@ -1,16 +1,20 @@
-examples:
--   ladino: '...un sentimiento sinsero de agradesimiento.'
 grammar: null
 id: '1180'
 origen: Jeneral
+
 versions:
--   accented: agradesimiénto
+  - ladino: agradesimiento
+    accented: agradesimiénto
+
     gender: masculine
-    ladino: agradesimiento
     number: singular
+
     translations:
         english: gratitude
         french: ''
         portuguese: ''
         spanish: agradecimiento
         turkish: şükran
+
+examples:
+  - ladino: Un sentimiento sinsero de agradesimiento.

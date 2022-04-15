@@ -1,19 +1,24 @@
-examples:
--   ladino: '"Los bilbilikos kantan..."'
 grammar: null
 id: '2901'
 origen: Estanbol
+
 versions:
--   accented: bilbíl
+  - ladino: bilbil
+    accented: bilbíl
+
     alternative-spelling:
     -   accented: bulbúl
         ladino: bulbul
+
     gender: masculine
-    ladino: bilbil
     number: singular
+
     translations:
         english: nightingale
         french: ''
         portuguese: ''
         spanish: ruiseñor
         turkish: bülbül
+
+examples:
+  - ladino: Los bilbilikos kantan...

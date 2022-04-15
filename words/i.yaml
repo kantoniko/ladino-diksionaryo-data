@@ -1,16 +1,18 @@
-comments:
-- 'grammar: konj.'
-examples:
--   ladino: 1) El Sultan i El Haham 2) Marido i mujer"
 grammar: null
 id: '8'
 origen: Jeneral
+
 versions:
--   accented: i
-    ladino: i
+  - ladino: i
+    accented: i
+
     translations:
         english: and
         french: ''
         portuguese: ''
         spanish: y
         turkish: ve
+
+examples:
+  - ladino: El Sultan i El Haham
+  - ladino: Marido i mujer
