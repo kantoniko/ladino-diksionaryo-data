@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1518'
 origen: Jeneral
+
 versions:
--   accented: teksto
-    ladino: teksto
+  - ladino: teksto
+    accented: teksto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: text
         french: ''
         portuguese: ''
         spanish: texto
         turkish: metin
+
+  - ladino: tekstos
+    accented: tekstos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: texts
+        french: ''
+        portuguese: ''
+        spanish: textos
+        turkish: metin
+
+
+examples: []
