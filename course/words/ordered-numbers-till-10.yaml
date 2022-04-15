@@ -1,20 +1,3 @@
-Skill:
-  Name: Ordered Numbers 1-10
-  Id: 208
-
-New words: []
-
-Two-way-dictionary:
-  - first:  primer
-  - first:  primero
-  - first:  primera
-  - second: segundo
-  - second: segunda
-  - third:  treser
-  - third:  tresera
-  - fourth: kuatren
-
-Phrases:
   - Phrase: primera vez
     Translation: first time
 

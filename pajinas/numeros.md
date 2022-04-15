@@ -36,3 +36,13 @@
 
 * 1,000
 * 1,000,000
+
+## Numeros en orden
+
+* 1. [primer](/words/ladino/primer), [primero](/words/ladino/primero), [primera](/words/ladino/primera)
+* 2. [segundo](/words/ladino/segundo), [segunda](/words/ladino/segunda)
+* 3. [treser](/words/ladino/treser), tresera
+* 4. [kuatren](/words/ladino/kuatren)
+* 5. [sinken](/words/ladino/sinken)
+* ...
+
