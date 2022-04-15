@@ -1,16 +1,38 @@
-examples:
--   ladino: ' Kada demanyana, se va al buró.'
 grammar: null
 id: '204'
 origen: Jeneral
+
 versions:
--   accented: buró
+  - ladino: buro
+    accented: buró
+
     gender: masculine
-    ladino: buro
     number: singular
+
     translations:
         english: office
         french: ''
         portuguese: ''
-        spanish: oficina. buró
+        spanish:
+          - oficina
+          - buró
         turkish: büro
+
+  - ladino: buros
+    accented: burós
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: offices
+        french: ''
+        portuguese: ''
+        spanish:
+          - oficinas
+          - burós
+        turkish: büro
+
+
+examples:
+  - ladino: Kada demanyana, se va al buró.
