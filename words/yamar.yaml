@@ -1,14 +1,20 @@
-examples:
--   ladino: Esto es lo ke yamas kuchiador?
-grammar: null
+grammar: verb
 id: '21'
 origen: Jeneral
+
 versions:
--   accented: yamar
-    ladino: yamar
+  - ladino: yamar
+    accented: yamar
+
     translations:
         english: to call
         french: ''
         portuguese: ''
         spanish: llamar
         turkish: çağırmak
+
+conjugations: {}
+
+examples:
+  - ladino: Esto es lo ke yamas kuchiador?
+
