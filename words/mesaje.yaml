@@ -1,16 +1,35 @@
-examples:
--   ladino: Kada semana los miembros meldan mesajes de Ladinokomunita.
 grammar: null
 id: '1414'
 origen: Jeneral
+
 versions:
--   accented: mesáje
+  - ladino: mesaje
+    accented: mesáje
+
     gender: masculine
-    ladino: mesaje
     number: singular
+
     translations:
         english: message
         french: message
         portuguese: mensagem
         spanish: mensaje
         turkish: mesaj
+
+  - ladino: mesajes
+    accented: mesájes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: messages
+        french: messages
+        portuguese: ''
+        spanish: mensajes
+        turkish: mesaj
+
+
+examples:
+  - ladino: Kada semana los miembros meldan mesajes de Ladinokomunita.
+
