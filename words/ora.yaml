@@ -1,22 +1,45 @@
-examples:
--   ladino: Muestros padres kontavan de oras negras (difisiles) ke pasaron.
 grammar: null
 id: '797'
 origen: Jeneral
+
 versions:
--   accented: óra
+  - ladino: ora
+    accented: óra
+
     gender: feminine
-    ladino: ora
     number: singular
+
     translations:
         english:
-        - time
-        - watch
-        - clock
-        - hour
+          - time
+          - watch
+          - clock
+          - hour
         french:
-        - heure
-        - montre
+          - heure
+          - montre
         portuguese: hora
         spanish: hora
         turkish: saat
+
+  - ladino: oras
+    accented: óras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - times
+          - watches
+          - clocks
+          - hours
+        french: ''
+        portuguese: horas
+        spanish: horas
+        turkish: saat
+
+
+examples:
+  - ladino: Muestros padres kontavan de oras negras (difisiles) ke pasaron.
+
