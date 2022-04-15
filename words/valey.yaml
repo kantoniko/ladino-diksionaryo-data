@@ -1,16 +1,21 @@
-comments:
-- 'grammar: f), váye (m'
-examples:
--   ladino: '...Esta en la VALEY de los ijos de Hinom,... (Reyes B'' 23,10).'
 grammar: null
 id: '2965'
 origen: Jeneral
+
 versions:
--   accented: valéy
-    ladino: valey
+  - ladino: valey
+    accented: valéy
+
+    gender: feminine
+    number: singular
+
     translations:
         english: valley
         french: vallée
         portuguese: vale
         spanish: valle
         turkish: vadi
+
+examples:
+  - ladino: '...Esta en la VALEY de los ijos de Hinom,... (Reyes B'' 23,10).'
+
