@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '429'
 origen: Jeneral
+
 versions:
--   accented: flor
-    ladino: flor
+  - ladino: flor
+    accented: flor
+
+    gender: feminine
+    number: singular
+
     translations:
         english: flower
         french: ''
         portuguese: ''
         spanish: flor
         turkish: çiçek
+
+  - ladino: flores
+    accented: flores
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: flowers
+        french: ''
+        portuguese: ''
+        spanish: flores
+        turkish: çiçek
+
+
+examples: []
