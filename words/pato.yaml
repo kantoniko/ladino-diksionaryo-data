@@ -1,15 +1,14 @@
-examples:
--   ladino: '...gaynas, 1300 patos, 50 pyernas de puerko, 17 kintales de karne, 700...
-
-        "GATO" por "PATO".'
 grammar: null
 id: '2888'
 origen: Jeneral
+
 versions:
--   accented: páto
+  - ladino: pato
+    accented: páto
+
     gender: masculine
-    ladino: pato
     number: singular
+
     translations:
         english: goose
         french: ''
@@ -18,3 +17,22 @@ versions:
         - ganso
         - oca
         turkish: kaz
+
+  - ladino: patos
+    accented: pátos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: goose
+        french: ''
+        portuguese: ''
+        spanish:
+        - gansos
+        - ocas
+        turkish: kaz
+
+
+examples:
+  - ladino: '...gaynas, 1300 patos, 50 pyernas de puerko, 17 kintales de karne, 700...  "GATO" por "PATO".'

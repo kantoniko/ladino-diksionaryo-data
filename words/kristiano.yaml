@@ -1,19 +1,60 @@
-examples:
--   ladino: '...djudias fueron salvadas por amigos kristianos.'
 grammar: null
 id: '2503'
 origen: Jeneral
+
 versions:
--   accented: kristiáno
-    alternative-spelling:
-    -   accented: kristiána
-        ladino: kristiana
-    ladino: kristiano
+  - ladino: kristiano
+    accented: kristiáno
+
+    gender: masculine
+    number: singular
+
     translations:
         english: christian
         french: ''
         portuguese: ''
-        spanish:
-        - cristiano
-        - cristiana
+        spanish: cristiano
         turkish: hıristiyan
+
+  - ladino: kristiana
+    accented: kristiána
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: christian
+        french: ''
+        portuguese: ''
+        spanish: cristiana
+        turkish: hıristiyan
+
+  - ladino: kristianos
+    accented: kristiános
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: christians
+        french: ''
+        portuguese: ''
+        spanish: cristianos
+        turkish: hıristiyan
+
+  - ladino: kristianas
+    accented: kristiánas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: christians
+        french: ''
+        portuguese: ''
+        spanish: cristianas
+        turkish: hıristiyan
+
+examples:
+  - ladino: '...djudias fueron salvadas por amigos kristianos.'
+
