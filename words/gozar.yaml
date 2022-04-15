@@ -15,6 +15,44 @@ versions:
           - tadını çıkarmak
           - zevk almak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: gozo
+      translations:
+        english: enjoy
+        spanish: disfruto
+
+    tu:
+      ladino: gozas
+      translations:
+        english: enjoy
+        spanish: disfrutas
+
+    el:
+      ladino: goza
+      translations:
+        english: enjoys
+        spanish: disfruta
+
+    mozotros:
+      ladino: gozamos
+      translations:
+        english: enjoy
+        spanish: disfrutamos
+
+    vozotros:
+      ladino: gozatesh
+      translations:
+        english: enjoy
+        spanish: disfrutáis
+
+    eyos:
+      ladino: gozan
+      translations:
+        english: enjoy
+        spanish: disfrutan
+
+
 examples:
   - ladino: Gozaremos de todo lo bueno de este mundo.
