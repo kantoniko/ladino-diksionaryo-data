@@ -1,13 +1,59 @@
-examples: []
 grammar: null
-id: '349'
+id: '348,349'
 origen: Jeneral
+
 versions:
--   accented: ermano
-    ladino: ermano
+  - ladino: ermano
+    accented: ermano
+
+    gender: masculine
+    number: singular
+
     translations:
         english: brother
         french: ''
         portuguese: ''
         spanish: hermano
         turkish: erkek kardeş
+
+  - ladino: ermana
+    accented: ermana
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: sister
+        french: ''
+        portuguese: ''
+        spanish: hermana
+        turkish: kızkardeş
+
+  - ladino: ermanos
+    accented: ermanos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: brothers
+        french: ''
+        portuguese: ''
+        spanish: hermanos
+        turkish: erkek kardeş
+
+  - ladino: ermanas
+    accented: ermanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sisters
+        french: ''
+        portuguese: ''
+        spanish: hermanas
+        turkish: kızkardeş
+
+examples: []
+
