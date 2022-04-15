@@ -1,23 +1,22 @@
-examples:
--   ladino: 'El eskudo es una arma defensiva ke se yevava al braso siedro.
-
-        El padre izo de eskudo kon su kuerpo a la kriatura, durante el atako. (Kere
-        dizir ke lo defendio kon su kuerpo).
-
-        El Eskudo de David (Magen David) es el simbolo del puevlo djudio.
-
-        El "eskudo" era en pasado tambien una moneda portugeza.
-
-        '
 grammar: null
 id: '2296'
 origen: Torah-Tanah
+
 versions:
--   accented: eskudo
-    ladino: eskudo
+  - ladino: eskudo
+    accented: eskudo
+
     translations:
         english: shield
         french: ''
         portuguese: ''
         spanish: escudo
         turkish: kalkan
+
+examples:
+  - ladino: El eskudo es una arma defensiva ke se yevava al braso siedro.
+  - ladino: El padre izo de eskudo kon su kuerpo a la kriatura, durante el atako. (Kere dizir ke lo defendio kon su kuerpo).
+  - ladino: El Eskudo de David (Magen David) es el simbolo del puevlo djudio.
+  - ladino: El "eskudo" era en pasado tambien una moneda portugeza.
+
+
