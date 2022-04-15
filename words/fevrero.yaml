@@ -12,5 +12,7 @@ versions:
         spanish: febrero
         turkish: ''
 
-examples: []
+examples:
+  - ladino: Fevrero es el segundo mez del anyo.
+    english: February is the second month of the year.
 

@@ -13,4 +13,6 @@ versions:
         spanish: abril
         turkish: Nisan
 
-examples: []
+examples:
+  - ladino: Avril es el kuatren mez del anyo.
+    english: April is the fourth month of the year.

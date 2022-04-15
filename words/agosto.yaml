@@ -12,5 +12,7 @@ versions:
         spanish: agosto
         turkish: ''
 
-examples: []
+examples:
+  - ladino: Agosto es el mez mas kaliente
+    english: August is the hottest month
 

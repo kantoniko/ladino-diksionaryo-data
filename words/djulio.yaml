@@ -13,4 +13,7 @@ versions:
         spanish: julio
         turkish: Temmuz
 
-examples: []
+examples:
+  - ladino: Djulio i agosto son mezes muy kalientes
+    english: July and August are very warm months.
+
