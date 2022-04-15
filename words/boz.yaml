@@ -16,5 +16,19 @@ versions:
         spanish: voz
         turkish: ses
 
+  - ladino: bozes
+    accented: bozes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: voices
+        french: ''
+        portuguese: ''
+        spanish: vozes
+        turkish: ses
+
+
 examples:
   - ladino: No se le siente la boz.
