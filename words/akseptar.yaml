@@ -1,15 +1,56 @@
-conjugations: {}
-examples:
--   ladino: No akseptamos mesajes en otras linguas.
 grammar: verb
 id: '1586'
 origen: Jeneral
+
 versions:
--   accented: akseptár
-    ladino: akseptar
+  - ladino: akseptar
+    accented: akseptár
+
     translations:
         english: accept
         french: ''
         portuguese: ''
         spanish: aceptar
         turkish: kabul etmek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: aksepto
+      translations:
+        english: accept
+        spanish: acepto
+
+    tu:
+      ladino: akseptas
+      translations:
+        english: accept
+        spanish: aceptas
+
+    el:
+      ladino: aksepta
+      translations:
+        english: accepts
+        spanish: acepta
+
+    mozotros:
+      ladino: akseptamos
+      translations:
+        english: accept
+        spanish: aceptamos
+
+    vozotros:
+      ladino: akseptash
+      translations:
+        english: accept
+        spanish: aceptáis
+
+    eyos:
+      ladino: akseptan
+      translations:
+        english: accept
+        spanish: aceptan
+
+
+examples:
+  - ladino: No akseptamos mesajes en otras linguas.
