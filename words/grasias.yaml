@@ -1,16 +1,21 @@
-examples:
--   ladino: 1) Munchas grasyas. 2) Mil grasyas al Dyo. 3) No tuvo pena a entrar grasyas
-        al dezorden ke reynava entre los moradores. 4) Mos akodramos solo lo bueno
-        i grasyas ke es ansina."
 grammar: null
 id: '6'
 origen: Jeneral
+
 versions:
--   accented: grasias
-    ladino: grasias
+  - ladino: grasias
+    accented: grasias
+
     translations:
         english: thanks
         french: ''
         portuguese: ''
         spanish: gracias
         turkish: teşekkür
+
+examples:
+  - ladino: Munchas grasyas.
+  - ladino: Mil grasyas al Dyo.
+  - ladino: No tuvo pena a entrar grasyas al dezorden ke reynava entre los moradores.
+  - ladino: Mos akodramos solo lo bueno i grasyas ke es ansina.
+
