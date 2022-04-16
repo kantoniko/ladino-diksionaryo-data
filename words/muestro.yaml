@@ -5,8 +5,9 @@ origen: Jeneral
 versions:
   - ladino: muestro
     accented: muestro
+
     gender: masculine
-    number: plural
+    number: singular
 
     translations:
         english: our
@@ -17,6 +18,33 @@ versions:
 
   - ladino: muestra
     accented: muestra
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: our
+        french: ''
+        portuguese: ''
+        spanish: nuestra
+        turkish: bizim
+
+  - ladino: muestros
+    accented: muestros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: our
+        french: ''
+        portuguese: ''
+        spanish: nuestros
+        turkish: bizim
+
+  - ladino: muestras
+    accented: muestras
+
     gender: feminine
     number: plural
 
@@ -24,7 +52,7 @@ versions:
         english: our
         french: ''
         portuguese: ''
-        spanish: nuestra
+        spanish: nuestras
         turkish: bizim
 
 
