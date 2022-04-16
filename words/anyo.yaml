@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: anyo
     accented: ányo
+
     gender: masculine
     number: singular
 
@@ -14,6 +15,20 @@ versions:
         portuguese: ''
         spanish: año
         turkish: sene
+
+  - ladino: anyos
+    accented: ányos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: years
+        french: an
+        portuguese: ''
+        spanish: años
+        turkish: sene
+
 
 examples:
   - ladino: Mas vale sien anyos de galera, ke ir debasho de tierra. (Neh.)
