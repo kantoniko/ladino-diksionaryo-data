@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1464'
 origen: Jeneral
+
 versions:
--   accented: prinsipio
-    ladino: prinsipio
+  - ladino: prinsipio
+    accented: prinsipio
     translations:
         english: beginning
         french: ''
         portuguese: ''
         spanish: principio
         turkish: başlangıç
+
+examples: []
