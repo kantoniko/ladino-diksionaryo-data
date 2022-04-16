@@ -1,11 +1,14 @@
-examples:
--   ladino: Muestro buto prinsipal es de promover el uzo del Ladino.
 grammar: null
 id: '2414'
 origen: Jeneral
+
 versions:
--   accented: búto
-    ladino: buto
+  - ladino: buto
+    accented: búto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: goal
         french: ''
@@ -15,3 +18,24 @@ versions:
         - amaç
         - emel
         - gaye
+
+  - ladino: butos
+    accented: bútos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: goals
+        french: ''
+        portuguese: ''
+        spanish: metas
+        turkish:
+        - amaç
+        - emel
+        - gaye
+
+
+examples:
+  - ladino: Muestro buto prinsipal es de promover el uzo del Ladino.
+
