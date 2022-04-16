@@ -1,18 +1,42 @@
-examples:
--   ladino: Tu alegre i yo kontente.
 grammar: adjective
 id: '68'
 origen: Jeneral
+
 versions:
--   accented: alégre
-    ladino: alegre
+  - ladino: alegre
+    accented: alégre
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english:
-        - happy
-        - glad
+          - happy
+          - glad
         french: ''
         portuguese: ''
         spanish: alegre
         turkish:
-        - neşeli
-        - şen
+          - neşeli
+          - şen
+
+  - ladino: alegres
+    accented: alégres
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english:
+          - happy
+          - glad
+        french: ''
+        portuguese: ''
+        spanish: alegres
+        turkish:
+          - neşeli
+          - şen
+
+
+examples:
+  - ladino: Tu alegre i yo kontente.
