@@ -1,0 +1,50 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: prinsipal
+    #accented:
+
+    #gender: NA # masculine feminine
+    number: singular
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+
+    translations:
+      english:
+        - main
+        - major
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: principal
+      turkish: ''
+
+  - ladino: prinsipales
+    #accented:
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+
+    translations:
+      english:
+        - main
+        - major
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: principales
+      turkish: ''
+
+
+examples: []
+
