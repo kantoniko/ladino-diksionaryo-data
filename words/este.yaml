@@ -1,5 +1,5 @@
 grammar: null
-id: '386,387'
+id: '386,387,2449,2446'
 origen: Jeneral
 
 versions:
@@ -21,6 +21,19 @@ versions:
         turkish:
           - doğu
           - bu
+
+  - ladino: esto
+    accented: ésto
+
+    gender: masculine
+    number: singular
+
+    translations:
+        english: this
+        french: ''
+        portuguese: ''
+        spanish: esto
+        turkish: bu
 
   - ladino: esta
     accented: esta
@@ -52,6 +65,19 @@ versions:
         spanish: estes
         turkish: ''
 
+  - ladino: estos
+    accented: éstos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: these
+        french: ''
+        portuguese: ''
+        spanish: estos
+        turkish: bu
+
   - ladino: estas
     accented: estas
     gender: feminine
@@ -67,5 +93,7 @@ versions:
         spanish: estas
         turkish: ''
 
-examples: []
+examples:
+  - ladino: En esto vamos a kedar? Avlaremos de otra koza.
+  - ladino: Entre estas i estas, ya se izo de noche.
 
