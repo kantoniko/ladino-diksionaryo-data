@@ -1,16 +1,18 @@
-examples:
--   ladino: El Sr. Nahum es el otor de un muy buen livro, sovre los djudios de Izmir
 grammar: null
 id: '1649'
 origen: Jeneral
+
 versions:
--   accented: autór
+  - ladino: autor
+    accented: autór
+
     alternative-spelling:
-    -   accented: otór
-        ladino: otor
+      - ladino: otor
+        accented: otór
+
     gender: masculine
-    ladino: autor
     number: singular
+
     translations:
         english: author
         french: auteur
@@ -19,3 +21,26 @@ versions:
         turkish:
         - yazar
         - edip
+
+  - ladino: autores
+    accented: autóres
+
+    alternative-spelling:
+      - ladino: otores
+        accented: otóres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: authors
+        french: auteur
+        portuguese: autores
+        spanish: autores
+        turkish:
+        - yazar
+        - edip
+
+
+examples:
+  - ladino: El Sr. Nahum es el otor de un muy buen livro, sovre los djudios de Izmir
