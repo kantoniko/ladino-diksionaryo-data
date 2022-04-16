@@ -1,0 +1,25 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: promosion
+    accented: promosión
+
+    #gender: NA # masculine feminine
+    #number: singular plural
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+    translations:
+      english: promotion
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: promoción
+      turkish: ''
+
+examples: []
+
