@@ -6,6 +6,10 @@ versions:
   - ladino: saludo
     accented: salúdo
 
+    alternative-spelling:
+      - ladino: saludozo
+    #    accented:
+
     gender: masculine
     number: singular
 
@@ -18,6 +22,10 @@ versions:
 
   - ladino: saludos
     accented: salúdos
+
+    alternative-spelling:
+      - ladino: saludozos
+    #    accented:
 
     gender: masculine
     number: plural
