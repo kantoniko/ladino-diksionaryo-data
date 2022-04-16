@@ -1,0 +1,28 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: ay
+    #accented:
+
+    #gender: NA # masculine feminine
+    #number: singular plural
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+
+    translations:
+      english:
+        - there is
+        - there are
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hay
+      turkish: ''
+
+examples: []
+
