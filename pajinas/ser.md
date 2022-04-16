@@ -1,5 +1,7 @@
 # ser
 
+In Ladino there are two words for "to be": ser and estar
+
 El verbo ser
 
 * (to) be:        ser
@@ -7,7 +9,7 @@ El verbo ser
 
 ## Present indicativo:
 
-* (I) am:         (yo) so
+* (I) am:         (yo) so/se
 * (you) are:      (tu) sos
 * (she/he) is:    (el/eya) es
 * (we) are:       (mozotras/mozotros) somos
