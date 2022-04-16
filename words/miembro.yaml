@@ -1,13 +1,58 @@
-examples: []
 grammar: null
 id: '1990'
 origen: Jeneral
+
 versions:
--   accented: miembro
-    ladino: miembro
+  - ladino: miembro
+    accented: miembro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: member
         french: ''
         portuguese: ''
         spanish: miembro
         turkish: aza
+
+  - ladino: miembra
+    accented: miembra
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: member
+        french: ''
+        portuguese: ''
+        spanish: miembra
+        turkish: aza
+
+  - ladino: miembros
+    accented: miembros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: members
+        french: ''
+        portuguese: ''
+        spanish: miembros
+        turkish: aza
+
+  - ladino: miembras
+    accented: miembras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: members
+        french: ''
+        portuguese: ''
+        spanish: miembras
+        turkish: aza
+
+examples: []
