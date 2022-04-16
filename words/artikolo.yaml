@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '1227'
 origen: Jeneral
+
 versions:
--   accented: artikolo
-    ladino: artikolo
+  - ladino: artikolo
+    accented: artikolo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: article
         french: ''
@@ -13,3 +17,21 @@ versions:
         turkish:
         - madde
         - makale
+
+  - ladino: artikolos
+    accented: artikolos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: articles
+        french: ''
+        portuguese: ''
+        spanish: artículos
+        turkish:
+        - madde
+        - makale
+
+
+examples: []
