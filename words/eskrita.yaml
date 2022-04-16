@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '2295'
 origen: Jeneral
+
 versions:
--   accented: eskrita
-    ladino: eskrita
+  - ladino: eskrita
+    accented: eskrita
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - letter
@@ -17,3 +21,25 @@ versions:
         turkish:
         - belge
         - el yazması
+
+  - ladino: eskritas
+    accented: eskritas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - letters
+        - written documents
+        french: ''
+        portuguese: ''
+        spanish:
+        - escritos
+        - manuscritos
+        turkish:
+        - belge
+        - el yazması
+
+
+examples: []
