@@ -1,0 +1,44 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: dezayuno
+    #accented:
+
+    gender: masculine
+    number: singular
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+    translations:
+      english: breakfast
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: desayuno
+      turkish: ''
+
+  - ladino: dezayunos
+    #accented:
+
+    gender: masculine
+    number: plural
+
+    #alternative-spelling:
+    #  - ladino:
+    #    accented:
+
+    translations:
+      english: breakfasts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: desayunos
+      turkish: ''
+
+
+examples: []
+
