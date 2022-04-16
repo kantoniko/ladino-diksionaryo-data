@@ -1,14 +1,36 @@
-examples:
--   ladino: El kontenido de esta gazeta no atirava los lektores.
 grammar: null
 id: '11'
 origen: Jeneral
+
 versions:
--   accented: lektor
-    ladino: lektor
+  - ladino: lektor
+    accented: lektor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: reader
         french: ''
         portuguese: ''
         spanish: lector
         turkish: okur
+
+  - ladino: lektores
+    accented: lektores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: readers
+        french: ''
+        portuguese: ''
+        spanish: lectores
+        turkish: okur
+
+
+examples:
+  - ladino: El kontenido de esta gazeta no atirava los lektores.
+  - ladino: Los lektores meldan la gazeta.
+    english: The readers read the newspaper.
