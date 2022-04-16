@@ -1,0 +1,55 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: muncho
+    gender: masculine
+    #number: singular plural
+
+    translations:
+      english: 'a lot'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'muncho'
+      turkish: ''
+
+  - ladino: muncha
+    gender: feminine
+    #number: singular plural
+
+    translations:
+      english: 'a lot'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'muncha'
+      turkish: ''
+
+  - ladino: munchos
+    gender: masculine
+    #number: singular plural
+
+    translations:
+      english: 'many'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'munchos'
+      turkish: ''
+
+  - ladino: munchas
+    gender: feminine
+    #number: singular plural
+
+    translations:
+      english: 'many'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'munchas'
+      turkish: ''
+
+examples: []
+
