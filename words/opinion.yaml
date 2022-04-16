@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '2032'
 origen: Jeneral
+
 versions:
--   accented: opinion
-    ladino: opinion
+  - ladino: opinion
+    accented: opinion
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: opinion
         french: ''
         portuguese: ''
         spanish: opinión
         turkish: kanaat
+
+  - ladino: opiniones
+    accented: opiniones
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english: opinions
+        french: ''
+        portuguese: ''
+        spanish: opiniónes
+        turkish: kanaat
+
+
+examples: []
