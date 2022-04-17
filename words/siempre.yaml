@@ -1,10 +1,15 @@
-examples: []
-grammar: null
-id: '1007'
+grammar: adverb
+id: '1007,2616'
 origen: Jeneral
+
 versions:
--   accented: siempre
-    ladino: siempre
+  - ladino: siempre
+    accented: siémpre
+
+    alternative-spelling:
+      - ladino: syempre
+        accented: syémpre
+
     translations:
         english: always
         french: ''
@@ -12,4 +17,5 @@ versions:
         spanish: siempre
         turkish: daima
 
-# "siémpre, syémpre (adv.)",La razon es siempre diferente. ,siempre,always,daima,Jeneral,2616,,
+examples:
+  - ladino: La razon es siempre diferente.
