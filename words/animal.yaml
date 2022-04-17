@@ -1,16 +1,34 @@
-examples:
--   ladino: Komo la evolusyon de los animales...
 grammar: null
 id: '1604'
 origen: Jeneral
+
 versions:
--   accented: animál
+  - ladino: animal
+    accented: animál
+
     gender: masculine
-    ladino: animal
     number: singular
+
     translations:
         english: animal
         french: ''
         portuguese: ''
         spanish: animal
         turkish: hayvan
+
+  - ladino: animales
+    accented: animáles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: animals
+        french: ''
+        portuguese: ''
+        spanish: animales
+        turkish: hayvan
+
+
+examples:
+  - ladino: Komo la evolusyon de los animales...
