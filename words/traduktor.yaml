@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1093'
 origen: Jeneral
+
 versions:
--   accented: traduktor
-    ladino: traduktor
+  - ladino: traduktor
+    accented: traduktor
+
     translations:
         english: translator
         french: ''
         portuguese: ''
         spanish: traductor
         turkish: tercüman
+
+examples: []
