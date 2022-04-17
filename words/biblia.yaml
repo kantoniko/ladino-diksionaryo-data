@@ -6,6 +6,11 @@ versions:
   - ladino: Biblia
     accented: Bíblia
 
+
+    alternative-spelling:
+      - ladino: Biblya
+        accented: Bíblya
+
     translations:
       english: Bible
       french: ''
