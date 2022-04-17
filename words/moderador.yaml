@@ -1,0 +1,59 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: moderador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: moderator
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: moderador
+      turkish: ''
+
+  - ladino: moderadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: moderator
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: moderadora
+      turkish: ''
+
+  - ladino: moderadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: moderators
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: moderadores
+      turkish: ''
+
+  - ladino: moderadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: moderators
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: moderadoras
+      turkish: ''
+
+examples: []
+
