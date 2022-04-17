@@ -1,13 +1,19 @@
-examples: []
 grammar: null
 id: '982'
 origen: Jeneral
+
 versions:
--   accented: sena
-    ladino: sena
+  - ladino: sena
+    accented: sena
+
+    gender: feminine
+    number: singular
+
     translations:
         english: dinner
         french: ''
         portuguese: ''
         spanish: cena
         turkish: akşam yemeği
+
+examples: []
