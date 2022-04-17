@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '2246'
 origen: Jeneral
+
 versions:
--   accented: vaka
-    ladino: vaka
+  - ladino: vaka
+    accented: vaka
+
+    gender: feminine
+    number: singular
+
     translations:
         english: cow
         french: ''
         portuguese: ''
         spanish: vaca
         turkish: inek
+
+  - ladino: vakas
+    accented: vakas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cows
+        french: ''
+        portuguese: ''
+        spanish: vacas
+        turkish: inek
+
+examples: []

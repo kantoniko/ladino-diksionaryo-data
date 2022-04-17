@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '856'
 origen: Jeneral
+
 versions:
--   accented: perro
-    ladino: perro
+  - ladino: perro
+    accented: perro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: dog
         french: ''
         portuguese: ''
         spanish: perro
         turkish: köpek
+
+  - ladino: perros
+    accented: perros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: dogs
+        french: ''
+        portuguese: ''
+        spanish: perros
+        turkish: köpek
+
+
+examples: []

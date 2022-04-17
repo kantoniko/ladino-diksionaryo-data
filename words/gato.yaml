@@ -31,5 +31,17 @@ versions:
         spanish: gatos
         turkish: ''
 
+  - ladino: gatiko
+    gender: masculine
+    number: singular
+
+    translations:
+        english: small cat
+        french: ''
+        hebrew: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
 
 examples: []
