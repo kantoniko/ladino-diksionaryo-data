@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '282'
 origen: Jeneral
+
 versions:
--   accented: dunke
+  - ladino: dunke
+    accented: dunke
+
     alternative-spelling:
-    -   accented: alora
-        ladino: alora
-    ladino: dunke
+      - ladino: alora
+        accented: alora
+
     translations:
         english: therefore
         french: ''
@@ -16,3 +18,5 @@ versions:
         - entonces
         - por lo tanto
         turkish: öyleyse
+
+examples: []
