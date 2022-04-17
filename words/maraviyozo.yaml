@@ -1,21 +1,85 @@
-examples:
--   ladino: Te felisito por el lavoro maraviyozo ke estas aziendo.
 grammar: adjective
 id: '2329'
 origen: Jeneral
+
 versions:
--   accented: maraviyózo
+  - ladino: maraviyozo
+    accented: maraviyózo
+
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: maraviyóza
-        ladino: maraviyoza
-    ladino: maraviyozo
+      - ladino: maraviozo
+        accented: maraviozo
+
     translations:
         english: marvelous
         french: ''
         portuguese: ''
-        spanish:
-        - maravilloso
-        - maravillosa
+        spanish: maravilloso
         turkish:
-        - harika
-        - fevkalade
+          - harika
+          - fevkalade
+
+  - ladino: maraviyoza
+    accented: maraviyóza
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: maravioza
+        accented: maravioza
+
+    translations:
+        english: marvelous
+        french: ''
+        portuguese: ''
+        spanish: maravillosa
+        turkish:
+          - harika
+          - fevkalade
+
+  - ladino: maraviyozos
+    accented: maraviyózos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: maraviozos
+        accented: maraviozos
+
+    translations:
+        english: marvelous
+        french: ''
+        portuguese: ''
+        spanish: maravillosos
+        turkish:
+          - harika
+          - fevkalade
+
+  - ladino: maraviyozas
+    accented: maraviyózas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: maraviozas
+        accented: maraviozas
+
+    translations:
+        english: marvelous
+        french: ''
+        portuguese: ''
+        spanish: maravillosas
+        turkish:
+          - harika
+          - fevkalade
+
+
+examples:
+  - ladino: Te felisito por el lavoro maraviyozo ke estas aziendo.
+
