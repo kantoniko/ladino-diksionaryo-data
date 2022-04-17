@@ -1,13 +1,58 @@
-examples: []
 grammar: null
 id: '163'
 origen: Jeneral
+
 versions:
--   accented: barato
-    ladino: barato
+  - ladino: barato
+    accented: barato
+
+    gender: masculine
+    number: singular
+
     translations:
         english: cheap
         french: ''
         portuguese: ''
         spanish: barato
         turkish: ucuz
+
+  - ladino: barata
+    accented: barata
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: cheap
+        french: ''
+        portuguese: ''
+        spanish: barata
+        turkish: ucuz
+
+  - ladino: baratos
+    accented: baratos
+
+    gender:  masculine
+    number: plural
+
+    translations:
+        english: cheap
+        french: ''
+        portuguese: ''
+        spanish: baratos
+        turkish: ucuz
+
+  - ladino: baratas
+    accented: baratas
+
+    gender:  feminine
+    number: plural
+
+    translations:
+        english: cheap
+        french: ''
+        portuguese: ''
+        spanish: baratas
+        turkish: ucuz
+
+examples: []
