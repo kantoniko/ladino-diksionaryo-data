@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1911'
 origen: Jeneral
+
 versions:
--   accented: kon
-    ladino: kon
+  - ladino: kon
+    accented: kon
+
     translations:
         english: with
         french: ''
         portuguese: ''
         spanish: con
         turkish: ile
+
+examples: []

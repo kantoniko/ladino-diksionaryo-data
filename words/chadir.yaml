@@ -1,13 +1,19 @@
-examples: []
 grammar: null
 id: '207'
 origen: Jeneral
+
 versions:
--   accented: chadir
-    ladino: chadir
+  - ladino: chadir
+    accented: chadir
+
+    gender: masculine
+    number: singular
+
     translations:
         english: umbrella
         french: ''
         portuguese: ''
         spanish: paraguas
         turkish: şemsiye
+
+examples: []

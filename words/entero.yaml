@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '334'
 origen: Jeneral
+
 versions:
--   accented: entero
-    ladino: entero
+  - ladino: entero
+    accented: entero
+
     translations:
         english: whole
         french: ''
         portuguese: ''
         spanish: entero
         turkish: bütün
+
+examples: []

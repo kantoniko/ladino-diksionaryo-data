@@ -645,10 +645,6 @@ Two-way-dictionary:
   - true:                verdad
   - type:                djenero
 
-  - umbrella:            (el) chadir
-
-  - year:                anyo
-  - years:               anyos
   - yes:                 si
   - young:               chikos
   - young:               djoven
@@ -660,7 +656,6 @@ Two-way-dictionary:
   - younger:             mas djovenes
   - your:                tu
 
-  - vacation:            vakansas
   - variation:           variasion
   - Venezualan:          venezuelano
   - version:             (la) version
@@ -681,11 +676,6 @@ Two-way-dictionary:
   - well:                bien (adv.)
   - well done:           kol akavod (Hebrew)
   - web:                 web
-  - week:                (la) semana
-  - weeks:               (las) semanas
-  - whole:               entero
-  - wish:                dezeo
-  - with:                kon
   - with me:             kon mi
   - without:             sin
   - woman's:             de mujeres
