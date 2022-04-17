@@ -1,17 +1,23 @@
-examples: []
 grammar: null
-id: '664'
+id: '664,2517'
 origen: Jeneral
+
 versions:
--   accented: lavoro
-    ladino: lavoro
+  - ladino: lavoro
+    accented: lavóro
+
     translations:
-        english: work
+        english:
+          - work
+          - job
         french: ''
         portuguese: ''
-        spanish: labor
+        spanish:
+          - labor
+          - trabajo
         turkish:
         - iş
         - emek
 
-# lavóro,Es un lavoro echo kon intelijensia i amor.,trabajo,"work, job","emek, iş",Jeneral,2517,,
+examples:
+  - ladino: Es un lavoro echo kon intelijensia i amor.
