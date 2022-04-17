@@ -1,13 +1,21 @@
-examples: []
 grammar: null
 id: '876'
 origen: Jeneral
+
 versions:
--   accented: poko
-    ladino: poko
+  - ladino: poko
+    accented: poko
+
+    alternative-spelling:
+      - ladino: un poko
+
     translations:
-        english: a little
+        english:
+          - a little
+          - a bit
         french: ''
         portuguese: ''
         spanish: poco
         turkish: az
+
+examples: []
