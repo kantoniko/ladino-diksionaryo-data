@@ -1,14 +1,18 @@
-examples:
--   ladino: Vestiya una bluza roz.
 grammar: adjective
 id: '2598'
 origen: Estanbol
+
 versions:
--   accented: roz
-    ladino: roz
+  - ladino: roz
+    accented: roz
+
     translations:
         english: pink
         french: rose (couleur)
         portuguese: rosa
         spanish: rosado
         turkish: pembe
+
+examples:
+  - ladino: Vestiya una bluza roz.
+

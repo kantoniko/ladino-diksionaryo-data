@@ -1,16 +1,59 @@
-comments:
-- 'grammar: adj'
-examples:
--   ladino: Eliyahu aparesyo kon su manto kolorado sovre sus ombros.
-grammar: null
+grammar: adjective
 id: '1492'
 origen: Jeneral
+
 versions:
--   accented: kolorádo
-    ladino: kolorado
+  - ladino: kolorado
+    accented: kolorádo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: red
         french: rouge
         portuguese: vermelho
         spanish: rojo
         turkish: kırmızı
+
+  - ladino: kolorada
+    accented: koloráda
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: red
+        french: rouge
+        portuguese: vermelho
+        spanish: roja
+        turkish: kırmızı
+
+  - ladino: kolorados
+    accented: kolorádos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: red
+        french: rouge
+        portuguese: vermelho
+        spanish: rojos
+        turkish: kırmızı
+
+  - ladino: koloradas
+    accented: kolorádas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: red
+        french: rouge
+        portuguese: vermelho
+        spanish: rojas
+        turkish: kırmızı
+
+examples:
+  - ladino: Eliyahu aparesyo kon su manto kolorado sovre sus ombros.

@@ -1,17 +1,59 @@
-examples:
--   ladino: Se le izo la kara amariya de verguensa.
 grammar: adjective
 id: '1202'
 origen: Jeneral
+
 versions:
--   accented: amaríyo
-    alternative-spelling:
-    -   accented: amaríya
-        ladino: amariya
-    ladino: amariyo
+  - ladino: amariyo
+    accented: amaríyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: yellow
         french: jaune
         portuguese: amarelo
         spanish: amarillo
         turkish: sarı
+
+  - ladino: amariya
+    accented: amaríya
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: yellow
+        french: jaune
+        portuguese: amarelo
+        spanish: amarilla
+        turkish: sarı
+
+  - ladino: amariyos
+    accented: amaríyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: yellow
+        french: jaune
+        portuguese: amarelo
+        spanish: amarillos
+        turkish: sarı
+
+  - ladino: amariyas
+    accented: amaríyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: yellow
+        french: jaune
+        portuguese: amarelo
+        spanish: amarillas
+        turkish: sarı
+
+examples:
+  - ladino: Se le izo la kara amariya de verguensa.
