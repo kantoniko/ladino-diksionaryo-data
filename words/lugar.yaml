@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '677'
 origen: Jeneral
+
 versions:
--   accented: lugar
-    ladino: lugar
+  - ladino: lugar
+    accented: lugar
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: place
         french: ''
         portuguese: ''
         spanish: lugar
         turkish: yer
+
+  - ladino: lugares
+    accented: lugares
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english: places
+        french: ''
+        portuguese: ''
+        spanish: lugares
+        turkish: yer
+
+
+examples: []
