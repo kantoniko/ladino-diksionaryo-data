@@ -1,22 +1,47 @@
-examples: []
 grammar: null
 id: '2823'
 origen: Jeneral
+
 versions:
--   accented: manadéro
+  - ladino: manadero
+    accented: manadéro
+
     gender: masculine
-    ladino: manadero
     number: singular
+
     translations:
         english:
-        - source
-        - origin
+          - source
+          - origin
         french: ''
         portuguese: ''
         spanish:
-        - origen
-        - fuente
-        - raíz (de algo)
+          - origen
+          - fuente
+          - raíz (de algo)
         turkish:
-        - kaynak
-        - orijin
+          - kaynak
+          - orijin
+
+  - ladino: manaderos
+    accented: manadéros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - sourcees
+          - origins
+        french: ''
+        portuguese: ''
+        spanish:
+          - origenes
+          - fuentes
+          - raízes (de algo)
+        turkish:
+          - kaynak
+          - orijin
+
+
+examples: []
