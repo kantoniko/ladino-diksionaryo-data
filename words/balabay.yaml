@@ -1,0 +1,62 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: balabay
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: host
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hospedador
+      turkish: ''
+
+  - ladino: balabaya
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: host
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hospedadora
+      turkish: ''
+
+  - ladino: balabayes
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      english: hosts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hospedadores
+      turkish: ''
+
+  - ladino: balabayas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: hosts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hospedadoras
+      turkish: ''
+
+
+examples: []
+
