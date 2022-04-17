@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '2120'
 origen: Jeneral
+
 versions:
--   accented: puerta
-    ladino: puerta
+  - ladino: puerta
+    accented: puerta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: door
         french: ''
         portuguese: ''
         spanish: puerta
         turkish: kapı
+
+  - ladino: puertas
+    accented: puertas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: doors
+        french: ''
+        portuguese: ''
+        spanish: puertas
+        turkish: kapı
+
+
+examples: []
