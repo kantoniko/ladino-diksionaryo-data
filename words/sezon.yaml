@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: sezon
     accented: sezón
+
     gender: feminine
     number: singular
 
@@ -14,6 +15,20 @@ versions:
         portuguese: estação
         spanish: estación
         turkish: mevsim
+
+  - ladino: sezones
+    accented: sezónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: seaso
+        french: saison
+        portuguese: estaçãos
+        spanish: estaciónes
+        turkish: mevsim
+
 
 examples:
  - ladino: La sezon de la primavera en Erets Yisrael (en el mez de Nisan), es muy kurta.

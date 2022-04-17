@@ -39,17 +39,12 @@ Two-way-dictionary:
   - archive:             archivo
   - archives:            archivos
   - ardour:              ardor
-  - article:             (el) artikolo
-  - articles:            (los) artikolos
-  - as:                  komo
   - ashkenazi:           ashkenazi
   - ashkenazis:          ashkenazis
   - asylum:              (el) azilo
   - at:                  en
   - at home:             en kaza
   - ATM:                 bankomatiko
-  - author:              autor
-  - autumn:              otonyo
   - authors:             autores
   - authentic:           autentikos
   - avenue:              avenida
@@ -562,7 +557,6 @@ Two-way-dictionary:
   - saying:              (la) dicha
   - sayings:             (las) dichas
   - saying:              (el) refran
-  - season:              sezon
   - school:              (la) eskola
   - schools:             (la) eskolas
   - sect:                (el) sekto
@@ -613,7 +607,6 @@ Two-way-dictionary:
   - speech:              diskurso
   - spirit:              alma
   - sport:               espor
-  - spring:              primavera
   - stew:                gizado
   - stereotip:           stereotipo
   - student:             eleva
@@ -625,7 +618,6 @@ Two-way-dictionary:
   - substantial:         sostansiozos
   - substantial:         sostansiozo
   - such:                komo
-  - summer:              enverano
   - sure:                seguro
   - surname:             alkunya
 
@@ -725,7 +717,6 @@ Two-way-dictionary:
   - week:                (la) semana
   - weeks:               (las) semanas
   - whole:               entero
-  - winter:              invyerno
   - wish:                dezeo
   - with:                kon
   - with me:             kon mi
