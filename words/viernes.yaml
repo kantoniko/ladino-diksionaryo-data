@@ -5,8 +5,12 @@ origen: Jeneral
 versions:
   - ladino: viernes
     accented: viérnes
+
     gender: masculine
     number: singular
+
+    alternative-spelling:
+      - ladino: vyernes
 
     translations:
         english: Friday
