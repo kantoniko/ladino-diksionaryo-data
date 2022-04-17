@@ -1,20 +1,47 @@
-examples: []
 grammar: null
 id: '2753'
 origen: Jeneral
+
 versions:
--   accented: síglo
+  - ladino: siglo
+    accented: síglo
+
     alternative-spelling:
-    -   accented: syéklo
-        ladino: syeklo
-    -   accented: syékolo
-        ladino: syekolo
+      - ladino: syeklo
+        accented: syéklo
+
+      - ladino: syekolo
+        accented: syékolo
+
     gender: masculine
-    ladino: siglo
     number: singular
+
     translations:
         english: century
         french: ''
         portuguese: ''
         spanish: siglo
         turkish: yüzyıl
+
+  - ladino: siglos
+    accented: síglos
+
+    alternative-spelling:
+      - ladino: syeklos
+        accented: syéklos
+
+      - ladino: syekolos
+        accented: syékolos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: centuries
+        french: ''
+        portuguese: ''
+        spanish: siglos
+        turkish: yüzyıl
+
+
+examples: []
