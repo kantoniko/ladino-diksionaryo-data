@@ -1,18 +1,42 @@
-examples:
--   ladino: Teniyan unos kuantos biervos diferentes ke solo eyos uzavan.
 grammar: null
 id: '2424'
 origen: Jeneral
+
 versions:
--   accented: diferénte
-    ladino: diferente
+  - ladino: diferente
+    accented: diferénte
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english:
-        - different
-        - un like
+          - different
+          - un like
         french: ''
         portuguese: ''
         spanish: diferente
         turkish:
-        - değişik
-        - farklı
+          - değişik
+          - farklı
+
+  - ladino: diferentes
+    accented: diferéntes
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english:
+          - different
+          - un like
+        french: ''
+        portuguese: ''
+        spanish: diferentes
+        turkish:
+          - değişik
+          - farklı
+
+
+examples:
+  - ladino: Teniyan unos kuantos biervos diferentes ke solo eyos uzavan.
