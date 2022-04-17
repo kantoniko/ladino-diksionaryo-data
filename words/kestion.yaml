@@ -1,21 +1,47 @@
-examples:
--   ladino: No agas kestyon de esto, ke no tiene emportansa.
 grammar: null
 id: '563'
 origen: Jeneral
+
 versions:
--   accented: kestión
+  - ladino: kestion
+    accented: kestión
+
     alternative-spelling:
-    -   accented: kestyón
-        ladino: kestyon
+      - ladino: kestyon
+        accented: kestyón
+
     gender: feminine
-    ladino: kestion
     number: singular
+
     translations:
         english: question
         french: ''
         portuguese: ''
         spanish:
-        - cuestión
-        - pregunta
+          - cuestión
+          - pregunta
         turkish: soru
+
+  - ladino: kestiones
+    accented: kestiónes
+
+    alternative-spelling:
+      - ladino: kestyones
+        accented: kestyónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: questions
+        french: ''
+        portuguese: ''
+        spanish:
+          - cuestiónes
+          - preguntas
+        turkish: soru
+
+
+examples:
+  - ladino: No agas kestyon de esto, ke no tiene emportansa.
+
