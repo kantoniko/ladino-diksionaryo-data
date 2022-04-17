@@ -1,18 +1,39 @@
-examples:
--   ladino: El lavora anchamente en munchas aktividades.
 grammar: null
 id: '2376'
 origen: Jeneral
+
 versions:
--   accented: aktividád
+  - ladino: aktividad
+    accented: aktividád
+
     gender: feminine
-    ladino: aktividad
     number: singular
+
     translations:
         english: activity
         french: ''
         portuguese: ''
         spanish: actividad
         turkish:
-        - faaliyet
-        - etkinlik
+          - faaliyet
+          - etkinlik
+
+  - ladino: aktividades
+    accented: aktividádes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: activities
+        french: ''
+        portuguese: ''
+        spanish: actividades
+        turkish:
+          - faaliyet
+          - etkinlik
+
+
+examples:
+  - ladino: El lavora anchamente en munchas aktividades.
+
