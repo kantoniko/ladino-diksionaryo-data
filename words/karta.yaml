@@ -1,13 +1,14 @@
-examples:
--   ladino: Yo meldi tu karta kon muncho intereso.
 grammar: null
 id: '2313'
 origen: Jeneral
+
 versions:
--   accented: kárta
+  - ladino: karta
+    accented: kárta
+
     gender: feminine
-    ladino: karta
     number: singular
+
     translations:
         english:
         - letter
@@ -18,3 +19,25 @@ versions:
         - carta
         - tarjeta
         turkish: kart
+
+  - ladino: kartas
+    accented: kártas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - letters
+        - cards
+        french: carte
+        portuguese: cartão
+        spanish:
+        - cartas
+        - tarjetas
+        turkish: kart
+
+
+examples:
+  - ladino: Yo meldi tu karta kon muncho intereso.
+
