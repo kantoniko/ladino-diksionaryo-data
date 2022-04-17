@@ -1,17 +1,21 @@
-examples: []
 grammar: null
-id: '250'
+id: '250,2284'
 origen: Jeneral
+
 versions:
--   accented: despues
-    ladino: despues
+  - ladino: despues
+
+    alternative-spelling:
+      - ladino: dempues
+      - ladino: dospues
+
     translations:
         english:
-        - after
-        - later
+          - after
+          - later
         french: ''
         portuguese: ''
         spanish: después
         turkish: sonra
 
-# "despues, atras",,tras,"behind, after",arkasında,Jeneral,1703,,
+
