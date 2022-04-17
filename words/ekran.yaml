@@ -1,0 +1,33 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: ekran
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: screen
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pantalla
+      turkish: ''
+
+  - ladino: ekranes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: screens
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pantallas
+      turkish: ''
+
+
+examples: []
