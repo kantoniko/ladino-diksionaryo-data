@@ -24,8 +24,54 @@ versions:
         portuguese: ''
         spanish: gustar a...
         turkish: hoşuna gitmek
-conjugations: {}
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: agrado
+      translations:
+        english: like
+        spanish: gusto
+
+    tu:
+      ladino: agradas
+      translations:
+        english: like
+        spanish: gustas
+
+    el:
+      ladino: agrada
+      translations:
+        english: likes
+        spanish: gusta
+
+    mozotros:
+      ladino: agradamos
+      translations:
+        english: like
+        spanish: gustamos
+
+    vozotros:
+      ladino: agradash
+      translations:
+        english: like
+        spanish: gustáis
+
+    eyos:
+      ladino: agradan
+      translations:
+        english: like
+        spanish: gustan
+
+  #- I like:       me agrada
+  #- pleasant:     agradavle
+
+  #- (we) liked:           (mos) agradaria
+  #- (we) were happy (to): (mos) agradaria
+
 examples:
   - ladino: Me agradan los pimientones.
   - ladino: Kreyo ke yo, le agrado solo a mi mama.  Les plazgo a los elevos, sovre todo kuando termino la klasa.
+  - ladino: Me agrada el tomate
+    english: I like the tomato
 
