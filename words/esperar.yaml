@@ -1,15 +1,57 @@
-conjugations: {}
-examples:
--   ladino: Espero ke viendra a tiempo
 grammar: verb
 id: '375'
 origen: Jeneral
+
 versions:
--   accented: esperár
-    ladino: esperar
+  - ladino: esperar
+    accented: esperár
+
     translations:
         english: hope
         french: espérer
         portuguese: ''
         spanish: esperar
         turkish: ümit etmek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: espero
+      translations:
+        english: hope
+        spanish: espero
+
+    tu:
+      ladino: esperas
+      translations:
+        english: hope
+        spanish: esperas
+
+    el:
+      ladino: espera
+      translations:
+        english: hopes
+        spanish: espera
+
+    mozotros:
+      ladino: esperamos
+      translations:
+        english: hope
+        spanish: esperamos
+
+    vozotros:
+      ladino: esperash
+      translations:
+        english: hope
+        spanish: esperáis
+
+    eyos:
+      ladino: esperan
+      translations:
+        english: hope
+        spanish: esperan
+
+examples:
+  - ladino: Espero ke viendra a tiempo.
+  - ladino: Yo espero ke tu saves ladino bien.
+    english: I hope you know Ladino well.
