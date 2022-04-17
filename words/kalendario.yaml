@@ -1,0 +1,33 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: kalendario
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: calendar
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: calendario
+      turkish: ''
+
+  - ladino: kalendarios
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: calendars
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: calendarios
+      turkish: ''
+
+
+examples: []
