@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1776'
 origen: Jeneral
+
 versions:
--   accented: enkontro
-    ladino: enkontro
+  - ladino: enkontro
+    accented: enkontro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: meeting
         french: ''
         portuguese: ''
         spanish: encuentro
         turkish: karşilaşma
+
+  - ladino: enkontros
+    accented: enkontros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: meetings
+        french: ''
+        portuguese: ''
+        spanish: encuentros
+        turkish: karşilaşma
+
+
+examples: []
