@@ -15,7 +15,51 @@ versions:
         spanish: borrar
         turkish: silmek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: efaso
+      translations:
+        english: erase
+        spanish: borro
+
+    tu:
+      ladino: efasas
+      translations:
+        english: erase
+        spanish: borras
+
+    el:
+      ladino: efasa
+      translations:
+        english: erases
+        spanish: borra
+
+    mozotros:
+      ladino: efasamos
+      translations:
+        english: erase
+        spanish: borramos
+
+    vozotros:
+      ladino: efasash
+      translations:
+        english: erase
+        spanish: borráis
+
+    eyos:
+      ladino: efasan
+      translations:
+        english: erase
+        spanish: borran
+
+  other:
+    yo:
+      ladino: efasi
+      translations:
+        english: erased
+        spanish: borré
+
 examples:
   - ladino: Yo perkuri, i finalmente lo efasi los de esta letra.
 
