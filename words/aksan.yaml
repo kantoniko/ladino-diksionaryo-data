@@ -1,19 +1,24 @@
-examples:
--   ladino: Avlavan el Turko kon un aksan de Espanyol.
 grammar: null
 id: '60'
 origen: Jeneral
+
 versions:
--   accented: aksán
+  - ladino: aksan
+    accented: aksán
+
     alternative-spelling:
-    -   accented: aksénto
-        ladino: aksento
+      - ladino: aksento
+        accented: aksénto
+
     gender: masculine
-    ladino: aksan
     number: singular
+
     translations:
         english: accent
         french: ''
         portuguese: ''
         spanish: acento
         turkish: aksan
+
+examples:
+  - ladino: Avlavan el Turko kon un aksan de Espanyol.

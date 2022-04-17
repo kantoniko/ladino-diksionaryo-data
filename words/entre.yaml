@@ -1,10 +1,11 @@
-examples: []
 grammar: null
 id: '342'
 origen: Jeneral
+
 versions:
--   accented: entre
-    ladino: entre
+  - ladino: entre
+    accented: entre
+
     translations:
         english:
         - between
@@ -13,3 +14,5 @@ versions:
         portuguese: ''
         spanish: entre
         turkish: arasında
+
+examples: []

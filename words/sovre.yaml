@@ -1,17 +1,19 @@
-examples: []
 grammar: null
 id: '1509'
 origen: Jeneral
+
 versions:
--   accented: sovre
-    ladino: sovre
+  - ladino: sovre
+    accented: sovre
     translations:
         english:
-        - upon
-        - 'on'
+          - upon
+          - 'on'
         french: ''
         portuguese: ''
         spanish: sobre
         turkish:
-        - üstünde
-        - hakkında
+          - üstünde
+          - hakkında
+
+examples: []

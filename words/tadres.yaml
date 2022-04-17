@@ -1,16 +1,15 @@
 grammar: null
-id: '1749'
 origen: Jeneral
 
 versions:
-  - ladino: edad
-    accented: edad
+  - ladino: tadres
+    accented: tadres
 
     translations:
-        english: age
+        english: afternoon
         french: ''
         portuguese: ''
-        spanish: edad
-        turkish: yaş
+        spanish: tardes
+        turkish: ''
 
 examples: []

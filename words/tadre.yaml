@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1053'
 origen: Jeneral
+
 versions:
--   accented: tadre
-    ladino: tadre
+  - ladino: tadre
+    accented: tadre
+
     translations:
         english: late
         french: ''
         portuguese: ''
         spanish: tarde
         turkish: geç
+
+examples: []
