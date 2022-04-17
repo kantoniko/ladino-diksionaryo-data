@@ -1,10 +1,11 @@
-examples: []
 grammar: null
 id: '1712'
 origen: Jeneral
+
 versions:
--   accented: dezeo
-    ladino: dezeo
+  - ladino: dezeo
+    accented: dezeo
+
     translations:
         english:
         - wish
@@ -15,3 +16,5 @@ versions:
         turkish:
         - arzu
         - heves
+
+examples: []
