@@ -1,13 +1,61 @@
-examples: []
-grammar: null
+grammar: verb
 id: '853'
 origen: Jeneral
+
 versions:
--   accented: pensar
-    ladino: pensar
+  - ladino: pensar
+    accented: pensar
+
     translations:
         english: think
         french: ''
         portuguese: ''
         spanish: pensar
         turkish: düşünmek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: penso
+      translations:
+        english: think
+        spanish: pienso
+
+    tu:
+      ladino: pensas
+      translations:
+        english: think
+        spanish: piensas
+
+    el:
+      ladino: pensa
+      translations:
+        english: thinks
+        spanish: piensa
+
+    mozotros:
+      ladino: pensamos
+      translations:
+        english: think
+        spanish: pensamos
+
+    vozotros:
+      ladino: pensash
+      translations:
+        english: think
+        spanish: pensáis
+
+    eyos:
+      ladino: pensan
+      translations:
+        english: think
+        spanish: piensan
+
+  other:
+    yo:
+      ladino: pensi
+      translations:
+        english: thought
+        spanish: pensé
+
+examples: []
