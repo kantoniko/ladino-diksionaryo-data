@@ -1,14 +1,34 @@
-examples:
--   ladino: Los miembros de esta lista ya estan viendo komo lo eskrivimos.
 grammar: null
 id: '2520'
 origen: Jeneral
+
 versions:
--   accented: lísta
-    ladino: lista
+  - ladino: lista
+    accented: lísta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: list
         french: ''
         portuguese: ''
         spanish: lista
         turkish: liste
+
+  - ladino: listas
+    accented: lístas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lists
+        french: ''
+        portuguese: ''
+        spanish: listas
+        turkish: liste
+
+
+examples:
+  - ladino: Los miembros de esta lista ya estan viendo komo lo eskrivimos.
