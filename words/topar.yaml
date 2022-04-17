@@ -1,15 +1,70 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1089'
 origen: Jeneral
+
 versions:
--   accented: topar
-    ladino: topar
+  - ladino: topar
+    accented: topar
+
     translations:
         english: find
         french: ''
         portuguese: ''
         spanish:
-        - hallar
-        - encontrar
+          - hallar
+          - encontrar
         turkish: bulmak
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: topo
+      translations:
+        english: find
+        spanish: encontro
+
+    tu:
+      ladino: topas
+      translations:
+        english: find
+        spanish: encontras
+
+    el:
+      ladino: topa
+      translations:
+        english: finds
+        spanish: encontras
+
+    mozotros:
+      ladino: topamos
+      translations:
+        english: find
+        spanish: encontramos
+
+    vozotros:
+      ladino: topash
+      translations:
+        english: find
+        spanish: encontráis
+
+    eyos:
+      ladino: topan
+      translations:
+        english: find
+        spanish: encontran
+
+  pasado simple:
+    yo:
+      ladino: topi
+      translations:
+        english: found
+        spanish: encontré
+
+  #other:
+  #  yo:
+  #    ladino: topava
+  #    english: (I was) found
+  #- found (oneself): toparon
+
+  #- finds (you):     (vos) tope
+examples: []
