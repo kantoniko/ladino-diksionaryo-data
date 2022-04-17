@@ -1,16 +1,35 @@
-examples:
--   ladino: Manda tu letra a su adreso.
 grammar: null
 id: '1176'
 origen: Jeneral
+
 versions:
--   accented: adréso
+  - ladino: adreso
+    accented: adréso
+
     gender: masculine
-    ladino: adreso
     number: singular
+
     translations:
         english: address
         french: adresse
         portuguese: ''
         spanish: dirección
         turkish: adres
+
+  - ladino: adresos
+    accented: adrésos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: addresses
+        french: adresse
+        portuguese: ''
+        spanish: direcciónes
+        turkish: adres
+
+
+examples:
+  - ladino: Manda tu letra a su adreso.
+
