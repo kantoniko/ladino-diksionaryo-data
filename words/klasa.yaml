@@ -1,13 +1,39 @@
-examples: []
 grammar: null
 id: '572'
 origen: Jeneral
+
 versions:
--   accented: klasa
-    ladino: klasa
+  - ladino: klasa
+    accented: klasa
+
+    gender: feminine
+    number: singular
+
+
     translations:
-        english: class
+        english:
+          - class
+          - classroom
         french: ''
         portuguese: ''
         spanish: clase
         turkish: sınıf
+
+  - ladino: klasas
+    accented: klasas
+
+    gender: feminine
+    number: plural
+
+
+    translations:
+        english:
+          - classes
+          - classrooms
+        french: ''
+        portuguese: ''
+        spanish: clases
+        turkish: sınıf
+
+
+examples: []
