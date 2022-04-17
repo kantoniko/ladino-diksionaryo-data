@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '474'
 origen: Jeneral
+
 versions:
--   accented: idea
-    ladino: idea
+  - ladino: idea
+    accented: idea
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: idea
         french: ''
         portuguese: ''
         spanish: idea
         turkish: fikir
+
+  - ladino: ideas
+    accented: ideas
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english: ideas
+        french: ''
+        portuguese: ''
+        spanish: ideas
+        turkish: fikir
+
+
+examples: []
