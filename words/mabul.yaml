@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: mabul
     accented: mabúl
+
     gender: masculine
     number: singular
 
