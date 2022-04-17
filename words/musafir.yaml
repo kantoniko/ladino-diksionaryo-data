@@ -5,6 +5,7 @@ origen: Estanbol
 versions:
   - ladino: musafir
     accented: musafir
+
     gender: masculine
     number: singular
 
@@ -18,5 +19,23 @@ versions:
         turkish:
         - misafir
         - konuk
+
+  - ladino: musafires
+    accented: musafires
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: guests
+        french: ''
+        portuguese: ''
+        spanish:
+        - huéspedes
+        - convidados
+        turkish:
+        - misafir
+        - konuk
+
 
 examples: []
