@@ -1,13 +1,19 @@
-examples: []
 grammar: null
 id: '626'
 origen: Jeneral
+
 versions:
--   accented: kravata
-    ladino: kravata
+  - ladino: kravata
+    accented: kravata
+
+    gender: feminine
+    number: singular
+
     translations:
         english: tie
         french: ''
         portuguese: ''
         spanish: corbata
         turkish: kravat
+
+examples: []

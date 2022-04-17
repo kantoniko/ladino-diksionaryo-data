@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '523'
 origen: Jeneral
+
 versions:
--   accented: kamiza
-    ladino: kamiza
+  - ladino: kamiza
+    accented: kamiza
+
+    gender: feminine
+    number: singular
+
     translations:
         english: shirt
         french: ''
         portuguese: ''
         spanish: camisa
         turkish: gömlek
+
+  - ladino: kamizas
+    accented: kamizas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: shirts
+        french: ''
+        portuguese: ''
+        spanish: camisas
+        turkish: gömlek
+
+
+examples: []

@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '210'
 origen: Jeneral
+
 versions:
--   accented: chanta de ombre
-    ladino: chanta de ombre
+  - ladino: chanta de ombre
+    accented: chanta de ombre
+
     translations:
         english: briefcase
         french: ''
         portuguese: ''
         spanish: cartera
         turkish: erkek çantası
+
+examples: []

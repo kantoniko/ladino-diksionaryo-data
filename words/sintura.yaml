@@ -1,13 +1,33 @@
-examples: []
-grammar: null
+grammar: noun
 id: '2188'
 origen: Jeneral
+
 versions:
--   accented: sintura
-    ladino: sintura
+  - ladino: sintura
+    accented: sintura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: belt
         french: ''
         portuguese: ''
         spanish: cinturón
         turkish: kuşak
+
+  - ladino: sinturas
+    accented: sinturas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: belts
+        french: ''
+        portuguese: ''
+        spanish: cinturónes
+        turkish: kuşak
+
+
+examples: []
