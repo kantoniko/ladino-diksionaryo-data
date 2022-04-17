@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '1892'
 origen: Jeneral
+
 versions:
--   accented: kavayo
-    ladino: kavayo
+  - ladino: kavayo
+    accented: kavayo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: horse
         french: ''
         portuguese: ''
         spanish: caballo
         turkish: at
+
+  - ladino: kavayos
+    accented: kavayos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: horses
+        french: ''
+        portuguese: ''
+        spanish: caballos
+        turkish: at
+
+examples: []

@@ -1,13 +1,14 @@
-examples:
--   ladino: Ya te izites kodjá azno para estas kozas.
 grammar: null
 id: '1656'
 origen: Jeneral
+
 versions:
--   accented: ázno
+  - ladino: azno
+    accented: ázno
+
     gender: masculine
-    ladino: azno
     number: singular
+
     translations:
         english: donkey
         french: âne
@@ -16,3 +17,21 @@ versions:
         - burro
         - asno
         turkish: eşek
+
+  - ladino: aznos
+    accented: áznos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: donkeys
+        french: âne
+        portuguese: asnos
+        spanish:
+        - burros
+        - asnos
+        turkish: eşek
+
+examples:
+  - ladino: Ya te izites kodjá azno para estas kozas.
