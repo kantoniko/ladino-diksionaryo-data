@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: djugo
+    accented: djugo
+
+    gender: masculine
+    number: singular
+
+    translations:
+        english: game
+        french: ''
+        portuguese: ''
+        spanish: juego
+        turkish: ''
+
+  - ladino: djugos
+    accented: djugos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: games
+        french: ''
+        portuguese: ''
+        spanish: juegos
+        turkish: ''
+
+
+examples: []
