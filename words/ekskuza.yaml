@@ -1,13 +1,28 @@
-examples: []
 grammar: null
 id: '297'
 origen: Jeneral
+
 versions:
--   accented: ekskuza
-    ladino: ekskuza
+  - ladino: ekskuza
+    accented: ekskuza
+
     translations:
         english: excuse
         french: ''
         portuguese: ''
         spanish: excusa
         turkish: mazeret
+
+
+  - ladino: ekskuzame
+    accented: ekskuzame
+
+    translations:
+        english: excuse me
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+
+examples: []
