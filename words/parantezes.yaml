@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: parantezes
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+      english: parenthesis
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: paréntesis
+      turkish: ''
+
+examples: []
