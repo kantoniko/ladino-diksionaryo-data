@@ -1,17 +1,32 @@
-examples: []
 grammar: null
 id: '824'
 origen: Jeneral
 versions:
--   accented: pareser
-    ladino: pareser
+  - ladino: pareser
+    accented: pareser
+
     translations:
         english:
-        - appear
-        - seem
+          - appear
+          - seem
         french: ''
         portuguese: ''
         spanish: parecer
         turkish:
-        - benzemek
-        - andırmak
+          - benzemek
+          - andırmak
+
+  - ladino: parese
+
+    translations:
+        english:
+          - appear to me
+          - seem to me
+        french: ''
+        portuguese: ''
+        spanish: me parece
+        turkish: ''
+
+examples:
+  - ladino: Me parese bien.
+    english: Seems good to me.
