@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '691'
 origen: Jeneral
+
 versions:
--   accented: mal
-    ladino: mal
+  - ladino: mal
+    accented: mal
+
     translations:
         english: evil
         french: ''
         portuguese: ''
         spanish: mal
         turkish: kötülük
+
+examples: []

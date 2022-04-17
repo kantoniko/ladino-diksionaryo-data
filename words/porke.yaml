@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '884'
 origen: Jeneral
+
 versions:
--   accented: porke
-    ladino: porke
+  - ladino: porke
+    accented: porke
+
     translations:
         english: because
         french: ''
         portuguese: ''
         spanish: porque
         turkish: çünkü
+
+examples: []

@@ -1,14 +1,17 @@
-examples:
--   ladino: Me demandates la alkunya ke teniya antes de kazarme.
 grammar: preposition
 id: '96'
 origen: Jeneral
+
 versions:
--   accented: ántes
-    ladino: antes
+  - ladino: antes
+    accented: ántes
+
     translations:
         english: before
         french: ''
         portuguese: ''
         spanish: antes
         turkish: önce
+
+examples:
+  - ladino: Me demandates la alkunya ke teniya antes de kazarme.
