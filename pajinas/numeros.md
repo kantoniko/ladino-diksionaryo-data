@@ -40,9 +40,17 @@
 ## Numeros en orden
 
 * 1. [primer](/words/ladino/primer), [primero](/words/ladino/primero), [primera](/words/ladino/primera)
-* 2. [segundo](/words/ladino/segundo), [segunda](/words/ladino/segunda)
+* 2. [segundo](/words/ladino/segundo), [segunda](/words/ladino/segunda), sigunda
 * 3. [treser](/words/ladino/treser), tresera
-* 4. [kuatren](/words/ladino/kuatren)
-* 5. [sinken](/words/ladino/sinken)
+* 4. [kuatren](/words/ladino/kuatren), kuatrena
+* 5. [sinken](/words/ladino/sinken), sinkenta
+* 6. sejeno, sejena
+* 7. seteno, setena
+* 8. ocheno, ochena
+* 9. mueveno, muevena
+* 10. diezeno, diezena
+* 11. onzeno, onzena
+* 12. dodjeno, dodjena
+* 13. trezeno, trezena
 * ...
 
