@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '418'
 origen: Jeneral
+
 versions:
--   accented: filmo
-    ladino: filmo
+  - ladino: filmo
+    accented: filmo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - film
@@ -13,3 +17,21 @@ versions:
         portuguese: ''
         spanish: película
         turkish: film
+
+  - ladino: filmos
+    accented: filmos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - films
+        - movies
+        french: ''
+        portuguese: ''
+        spanish: películas
+        turkish: film
+
+
+examples: []
