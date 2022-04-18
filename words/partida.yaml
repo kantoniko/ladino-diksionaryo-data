@@ -6,6 +6,9 @@ versions:
   - ladino: partida
     accented: partida
 
+    gender: feminine
+    number: singular
+
     translations:
         english:
           - part
@@ -15,6 +18,26 @@ versions:
         spanish:
           - parte
           - partida
+        turkish:
+          - kısım
+          - bölüm
+          - el (oyun)
+
+  - ladino: partidas
+    accented: partidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - parts
+          - games
+        french: ''
+        portuguese: ''
+        spanish:
+          - partes
+          - partidas
         turkish:
           - kısım
           - bölüm
