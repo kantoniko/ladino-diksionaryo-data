@@ -14,6 +14,7 @@ versions:
           - number
           - item
           - turn
+          - edition
         french: ''
         portuguese: ''
         spanish: número
@@ -33,6 +34,7 @@ versions:
           - numbers
           - items
           - turns
+          - editions
         french: ''
         portuguese: ''
         spanish: números
