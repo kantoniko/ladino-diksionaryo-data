@@ -5,11 +5,15 @@ origen: Jeneral
 versions:
   - ladino: djueves
     accented: djuéves
+
     alternative-spelling:
       - ladino: djugeves
         accented: djugéves
+      - ladino: djugueves
+
     gender: masculine
     number: singular
+
     translations:
         english: Thursday
         french: jeudi
