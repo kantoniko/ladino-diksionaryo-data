@@ -1,13 +1,11 @@
-comments:
-- 'grammar: lok. prep.'
-examples:
--   ladino: Está hazino por modre ke abuzó en el komer. (Neh.)
 grammar: null
 id: '3011'
 origen: Salonik
+
 versions:
--   accented: por módre
-    ladino: por modre
+  - ladino: por modre
+    accented: por módre
+
     translations:
         english: because of
         french: à cause de
@@ -19,3 +17,6 @@ versions:
         - dolayı
         - yüzünden
         - sebebiyle
+
+examples:
+  - ladino: Está hazino por modre ke abuzó en el komer. (Neh.)
