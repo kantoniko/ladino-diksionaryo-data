@@ -1,19 +1,55 @@
-examples:
--   ladino: 'Miller, para ser dramaturgo, tomo la dechizion de seguir sus estudios. '
 grammar: null
-id: '1688'
+id: '1688,2962'
 origen: Jeneral
+#origen: Ladinokomunita
+
 versions:
--   accented: dechizión
+  - ladino: dechizion
+    accented: dechizión
+
     alternative-spelling:
-    -   accented: dechizyón
-        ladino: dechizyon
+      - ladino: dechizyon
+        accented: dechizyón
+      - ladino: desizyon
+        accented: desizyón
+      - ladino: desizion
+        accented: desizión
+
     gender: feminine
-    ladino: dechizion
     number: singular
+
     translations:
         english: decision
         french: décision
         portuguese: ''
         spanish: decisión
         turkish: karar
+
+  - ladino: dechiziones
+    accented: dechiziónes
+
+    alternative-spelling:
+      - ladino: dechizyones
+        accented: dechizyónes
+      - ladino: desizyones
+        accented: desizyónes
+      - ladino: desiziones
+        accented: desiziónes
+
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: decisions
+        french: décision
+        portuguese: ''
+        spanish: decisiónes
+        turkish: karar
+
+
+
+examples:
+  - ladino: Miller, para ser dramaturgo, tomo la dechizion de seguir sus estudios.
+  - ladino: Esperamos ke vash a respektar muestra desizyon, i deshar la lengua de LK asigun esta.
+
