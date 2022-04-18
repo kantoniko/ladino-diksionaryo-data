@@ -1,16 +1,23 @@
-examples:
--   ladino: Mete tu nombre a la fin de tu letra.
 grammar: null
-id: '1561'
+id: '1561,26'
 origen: Jeneral
-versions:
--   accented: a la fin
-    ladino: a la fin
-    translations:
-        english: at the end
-        french: ''
-        portuguese: ''
-        spanish: al fin
-        turkish: sonunda
 
-# a la fin,"Despues de munchos anyos de lavoro, el reusho a la fin a inventar esta makina.",al final,finally,"sonunda, nihayet",Jeneral,26,no final,enfin
+versions:
+  - ladino: a la fin
+
+    translations:
+        english:
+          - at the end
+          - finally
+        french: enfin
+        portuguese: no final
+        spanish:
+          - al fin
+          - al final
+        turkish:
+          - sonunda
+          - nihayet
+
+examples:
+  - ladino: Mete tu nombre a la fin de tu letra.
+  - ladino: Despues de munchos anyos de lavoro, el reusho a la fin a inventar esta makina.
