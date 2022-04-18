@@ -1,23 +1,70 @@
-examples: []
 grammar: null
 id: '2280'
 origen: Jeneral
+
 versions:
--   accented: avuelo
-    alternative-spelling:
-    -   accented: avuela
-        ladino: avuela
-    ladino: avuelo
+  - ladino: avuelo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - grandfather
-        - grandmother
         french: ''
         portuguese: ''
         spanish:
         - abuelo
-        - abuela
         turkish:
         - büyükbaba
-        - büyükanne
         - ata
+
+  - ladino: avuela
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - grandmother
+        french: ''
+        portuguese: ''
+        spanish:
+        - abuela
+        turkish:
+        - büyükanne
+
+  - ladino: avuelos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - grandfathers
+        french: ''
+        portuguese: ''
+        spanish:
+        - abuelos
+        turkish:
+        - büyükbaba
+        - ata
+
+  - ladino: avuelas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - grandmothers
+        french: ''
+        portuguese: ''
+        spanish:
+        - abuelas
+        turkish:
+        - büyükanne
+
+
+examples: []
+
