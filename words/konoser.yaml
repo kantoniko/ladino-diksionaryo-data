@@ -53,11 +53,11 @@ conjugations:
         english: know
         spanish: conocen
 
-  past:
-    el:
-      ladino: konosia
-      translations:
-        english: knew
+  #past:
+  #  el:
+  #    ladino: konosia
+  #    translations:
+  #      english: knew
 
 
 examples: []

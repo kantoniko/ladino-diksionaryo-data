@@ -74,12 +74,12 @@ conjugations:
         english: had
         spanish: tuvimos
 
-  other2:
-    yo:
-      ladino: tenia
-      translations:
-        english: had
-        spanish: tenia
+#  other2:
+#    yo:
+#      ladino: tenia
+#      translations:
+#        english: had
+#        spanish: tenia
 
 
 examples:
