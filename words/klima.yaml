@@ -5,13 +5,14 @@ origen: Jeneral
 versions:
   - ladino: klima
     accented: klimá
+
     gender: masculine
     number: singular
 
     translations:
         english: climate
         french: climat
-        portuguese: clima.
+        portuguese: clima
         spanish: clima
         turkish: hava durumu
 
