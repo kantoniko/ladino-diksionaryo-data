@@ -1,13 +1,66 @@
-examples: []
 grammar: null
 id: '1070'
 origen: Jeneral
+
 versions:
--   accented: temprano
-    ladino: temprano
+  - ladino: temprano
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: demprano
+
     translations:
         english: early
         french: ''
         portuguese: ''
         spanish: temprano
         turkish: erken
+
+  - ladino: temprana
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: demprana
+
+    translations:
+        english: early
+        french: ''
+        portuguese: ''
+        spanish: temprana
+        turkish: erken
+
+  - ladino: tempranos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: dempranos
+
+    translations:
+        english: early
+        french: ''
+        portuguese: ''
+        spanish: tempranos
+        turkish: erken
+
+  - ladino: tempranas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: dempranas
+
+    translations:
+        english: early
+        french: ''
+        portuguese: ''
+        spanish: tempranas
+        turkish: erken
+
+examples: []
