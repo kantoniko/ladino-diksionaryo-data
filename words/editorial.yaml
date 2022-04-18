@@ -1,12 +1,14 @@
-examples: []
 grammar: null
 id: '2670'
 origen: Jeneral
+
 versions:
--   accented: editoriál
+  - ladino: editorial
+    accented: editoriál
+
     gender: masculine
-    ladino: editorial
     number: singular
+
     translations:
         english: editorial
         french: ''
@@ -15,3 +17,5 @@ versions:
         turkish:
         - başyazı
         - yazımla ilgili
+
+examples: []
