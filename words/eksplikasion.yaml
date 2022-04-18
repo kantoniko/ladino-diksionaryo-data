@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '300'
 origen: Jeneral
+
 versions:
--   accented: eksplikasion
-    ladino: eksplikasion
+  - ladino: eksplikasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: explanation
         french: ''
         portuguese: ''
         spanish: explicación
         turkish: izah
+
+  - ladino: eksplikasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: explanations
+        french: ''
+        portuguese: ''
+        spanish: explicaciónes
+        turkish: izah
+
+
+examples: []
