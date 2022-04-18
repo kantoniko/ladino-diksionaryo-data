@@ -1,6 +1,5 @@
 grammar: noun
 origen: Ladinokomunita
-comments: []
 
 versions:
   - ladino: komente
