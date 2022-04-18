@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '643'
 origen: Jeneral
+
 versions:
--   accented: kultura
-    ladino: kultura
+  - ladino: kultura
+    accented: kultura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: culture
         french: ''
         portuguese: ''
         spanish: cultura
         turkish: kültür
+
+  - ladino: kulturas
+    accented: kulturas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cultures
+        french: ''
+        portuguese: ''
+        spanish: culturas
+        turkish: kültür
+
+
+examples: []
