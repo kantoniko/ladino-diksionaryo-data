@@ -1,13 +1,54 @@
-examples: []
-grammar: null
+grammar: verb
 id: '527'
 origen: Jeneral
+
 versions:
--   accented: kantar
-    ladino: kantar
+  - ladino: kantar
+
     translations:
         english: sing
         french: ''
         portuguese: ''
         spanish: cantar
         turkish: şarkı söylemek
+
+conjugations:
+  present indicative:
+    yo:
+      ladino: kanto
+      translations:
+        english: sing
+        spanish: canto
+
+    tu:
+      ladino: kantas
+      translations:
+        english: sing
+        spanish: cantas
+
+    el:
+      ladino: kanta
+      translations:
+        english: sings
+        spanish: canta
+
+    mozotros:
+      ladino: kantamos
+      translations:
+        english: sing
+        spanish: cantamo
+
+    vozotros:
+      ladino: kantash
+      translations:
+        english: sing
+        spanish: cantáis
+
+    eyos:
+      ladino: kantan
+      translations:
+        english: sing
+        spanish: cantan
+
+
+examples: []
