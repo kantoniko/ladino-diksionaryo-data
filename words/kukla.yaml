@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '640'
 origen: Jeneral
+
 versions:
--   accented: kukla
-    ladino: kukla
+  - ladino: kukla
+    accented: kukla
+
+    gender: feminine
+    number: singular
+
     translations:
         english: doll
         french: ''
         portuguese: ''
         spanish: muñeca
         turkish: oyuncak bebek
+
+  - ladino: kuklas
+    accented: kuklas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: dolls
+        french: ''
+        portuguese: ''
+        spanish: muñecas
+        turkish: oyuncak bebek
+
+
+examples: []
