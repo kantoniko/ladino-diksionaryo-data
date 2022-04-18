@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '172'
 origen: Jeneral
+
 versions:
--   accented: bayle
-    ladino: bayle
+  - ladino: bayle
+    accented: bayle
+
+    gender: masculine
+    number: singular
+
     translations:
         english: dance
         french: ''
         portuguese: ''
         spanish: baile
         turkish: dans
+
+  - ladino: bayles
+    accented: bayles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: dances
+        french: ''
+        portuguese: ''
+        spanish: bailes
+        turkish: dans
+
+
+examples: []
