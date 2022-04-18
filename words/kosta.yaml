@@ -1,12 +1,14 @@
-examples: []
 grammar: null
 id: '2687'
 origen: Jeneral
+
 versions:
--   accented: kósta
+  - ladino: kosta
+    accented: kósta
+
     gender: feminine
-    ladino: kosta
     number: singular
+
     translations:
         english:
         - coast
@@ -17,3 +19,5 @@ versions:
         turkish:
         - kıyı
         - sahil
+
+examples: []
