@@ -7,7 +7,9 @@ versions:
     accented: mal
 
     translations:
-        english: evil
+        english:
+          - evil
+          - badly
         french: ''
         portuguese: ''
         spanish: mal
