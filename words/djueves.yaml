@@ -17,9 +17,13 @@ versions:
     translations:
         english: Thursday
         french: jeudi
+        hebrew:
+          - יום ה
+          - יום חמישי
         portuguese: quinta-feira
         spanish: jueves
         turkish: Perşembe
 
 examples:
   - ladino: Me akodro ke kada lunes i djugeves moz ivamoz al BAZAR .
+  - ladino: El nombre de la dia sinkenta de la semana djudia es djueves, djugeves, o djugueves. Rachel Bortnick de Izmir uza djugeves i Aldo Sevi de Estanbul uza djugueves.
