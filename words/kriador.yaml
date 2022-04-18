@@ -1,0 +1,58 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: kriador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: creator
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: creador
+      turkish: ''
+
+  - ladino: kriadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: creator
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: creadora
+      turkish: ''
+
+  - ladino: kriadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: creators
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: creadores
+      turkish: ''
+
+  - ladino: kriadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: creators
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: creadoras
+      turkish: ''
+
+examples: []
