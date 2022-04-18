@@ -1,18 +1,47 @@
-examples: []
 grammar: null
-id: '1392'
+id: '1392,1952'
 origen: Jeneral
+
 versions:
--   accented: kreatura
-    ladino: kreatura
+  - ladino: kreatura
+
+    alternative-spelling:
+      - ladino: kriatura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: child
         french: ''
         portuguese: ''
         spanish:
-        - niño
-        - criatura
+          - niño
+          - criatura
         turkish:
-        - evlât
-        - yavru
-        - çocuk
+          - evlât
+          - yavru
+          - çocuk
+
+  - ladino: kreaturas
+
+    alternative-spelling:
+      - ladino: kriaturas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: child
+        french: ''
+        portuguese: ''
+        spanish:
+          - niños
+          - criaturas
+        turkish:
+          - evlât
+          - yavru
+          - çocuk
+
+
+examples: []
