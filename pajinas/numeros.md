@@ -1,5 +1,6 @@
 # Numeros
 
+* 0
 * 1 [uno](/words/ladino/uno)
 * 2 [dos](/words/ladino/dos)
 * 3 [tres](/words/ladino/tres)
@@ -33,7 +34,14 @@
 * 90  noventa
 * 100 sien
 * 123 siento venti tres
-
+* 200
+* 300
+* 400
+* 500
+* 600
+* 700
+* 800
+* 900
 * 1,000
 * 1,000,000
 
@@ -52,5 +60,17 @@
 * 11. onzeno, onzena
 * 12. dodjeno, dodjena
 * 13. trezeno, trezena
+* 14.
+* 15.
+* 16.
+* 17.
+* 18.
+* 19.
+* 20.
+* 21.
+* 100.
+* 1,000.
+* 1,000,000.
+
 * ...
 
