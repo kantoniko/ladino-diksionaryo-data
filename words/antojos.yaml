@@ -5,11 +5,14 @@ origen: Jeneral
 versions:
   - ladino: antojos
     accented: antójos
+
     gender: masculine
     number: plural
 
     translations:
-        english: spectacles
+        english:
+          - spectacles
+          - glasses
         french: lunettes
         portuguese: ''
         spanish: gafas
