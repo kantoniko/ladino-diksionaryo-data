@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '1337'
 origen: Jeneral
+
 versions:
--   accented: fraza
-    ladino: fraza
+  - ladino: fraza
+    accented: fraza
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - sentence
@@ -13,3 +17,21 @@ versions:
         portuguese: ''
         spanish: frase
         turkish: cümle
+
+  - ladino: frazas
+    accented: frazas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - sentences
+        - phrases
+        french: ''
+        portuguese: ''
+        spanish: frases
+        turkish: cümle
+
+
+examples: []
