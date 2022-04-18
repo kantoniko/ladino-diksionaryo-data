@@ -1,13 +1,38 @@
-examples: []
 grammar: null
 id: '2301'
 origen: Jeneral
+
 versions:
--   accented: felisitasion
-    ladino: felisitasion
+  - ladino: felisitasion
+
+    gender: feminine
+    number: singular
+
+
+    alternative-spelling:
+      - ladino: felisitasyon
+
     translations:
         english: congratulation
         french: ''
         portuguese: ''
         spanish: felicitación
         turkish: tebrik
+
+  - ladino: felisitasiones
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: felisitasyones
+
+    translations:
+        english: congratulations
+        french: ''
+        portuguese: ''
+        spanish: felicitaciónes
+        turkish: tebrik
+
+
+examples: []
