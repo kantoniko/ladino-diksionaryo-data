@@ -1,0 +1,20 @@
+grammar: noun
+id: '2751'
+origen: Estanbol
+
+versions:
+  - ladino: para
+    accented: pará
+
+    gender: feminine
+    #number: singular plural
+
+    translations:
+        english: money
+        french: ''
+        portuguese: ''
+        spanish: dinero
+        turkish: para
+
+examples:
+  - ladino: La pará va i viene.
