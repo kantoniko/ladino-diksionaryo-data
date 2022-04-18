@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: kontenido
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: content
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contenido
+      turkish: ''
+
+  - ladino: kontenidos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: contents
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contenidos
+      turkish: ''
+
+
+examples: []
+
