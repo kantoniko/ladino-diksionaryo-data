@@ -1,0 +1,39 @@
+grammar: noun
+origen: Ladinokomunita
+comments: []
+
+versions:
+  - ladino: komente
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: komento
+
+    translations:
+      english: comment
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: comentario
+      turkish: ''
+
+  - ladino: komentes
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: komentos
+
+    translations:
+      english: comments
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: comentarios
+      turkish: ''
+
+
+examples: []
