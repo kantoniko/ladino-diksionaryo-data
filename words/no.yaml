@@ -1,18 +1,21 @@
-examples:
--   ladino: No save dizir no.
 grammar: adverb
 id: '2748'
 origen: Jeneral
+
 versions:
--   accented: 'no'
-    ladino: 'no'
+  - ladino: 'no'
+
     translations:
         english:
         - 'no'
         - not
+        - don't
         french: ''
         portuguese: ''
         spanish: 'no'
         turkish:
         - hayır
         - değil
+
+examples:
+  - ladino: No save dizir no.
