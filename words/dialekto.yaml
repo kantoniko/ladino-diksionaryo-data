@@ -1,11 +1,14 @@
-examples:
--   ladino: Es orijinaryo de Sarayevo, i tiene el dialekto de los djudios.
 grammar: null
 id: '2421'
 origen: Jeneral
+
 versions:
--   accented: dialékto
-    ladino: dialekto
+  - ladino: dialekto
+    accented: dialékto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: dialect
         french: ''
@@ -14,3 +17,22 @@ versions:
         turkish:
         - lehçe
         - diyalekt
+
+  - ladino: dialektos
+    accented: dialéktos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: dialects
+        french: ''
+        portuguese: ''
+        spanish: dialectos
+        turkish:
+        - lehçe
+        - diyalekt
+
+
+examples:
+  - ladino: Es orijinaryo de Sarayevo, i tiene el dialekto de los djudios.
