@@ -1,18 +1,19 @@
 grammar: null
-id: '270'
+id: '1727'
 origen: Jeneral
 
 versions:
-  - ladino: djenero
+  - ladino: klase
 
     translations:
-        english: gender
+        english:
+          - type
+          - class
         french: ''
         portuguese: ''
-        spanish: género
+        spanish: índole
         turkish:
-        - cins
+        - tip
         - tür
 
 examples: []
-
