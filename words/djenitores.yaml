@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1280'
 origen: Jeneral
+
 versions:
--   accented: djenitores
-    ladino: djenitores
+  - ladino: djenitores
+
+    gender: masculine
+    number: plural
+
     translations:
         english: parents
         french: ''
         portuguese: ''
         spanish: progenitores
         turkish: ebeveyn
+
+examples: []
