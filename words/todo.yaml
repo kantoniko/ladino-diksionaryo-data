@@ -9,7 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: all
+        english:
+          - all
+          - everything
         french: ''
         portuguese: ''
         spanish: todo
@@ -23,7 +25,9 @@ versions:
     number: singular
 
     translations:
-        english: all
+        english:
+          - all
+          - everything
         french: ''
         portuguese: ''
         spanish: toda
@@ -37,7 +41,9 @@ versions:
     number: plural
 
     translations:
-        english: all
+        english:
+          - all
+          - everyone
         french: ''
         portuguese: ''
         spanish: todos
