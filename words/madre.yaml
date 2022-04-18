@@ -1,11 +1,14 @@
-examples:
--   ladino: Mi madre i mi padre nasieron en Izmir.
 grammar: null
 id: '2526'
 origen: Jeneral
+
 versions:
--   accented: mádre
-    ladino: madre
+  - ladino: madre
+    accented: mádre
+
+    gender: feminine
+    number: singular
+
     translations:
         english: mother
         french: ''
@@ -14,3 +17,22 @@ versions:
         turkish:
         - anne
         - ana
+
+  - ladino: madres
+    accented: mádres
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: mothers
+        french: ''
+        portuguese: ''
+        spanish: madres
+        turkish:
+        - anne
+        - ana
+
+
+examples:
+  - ladino: Mi madre i mi padre nasieron en Izmir.
