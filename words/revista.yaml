@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '950'
 origen: Jeneral
+
 versions:
--   accented: revista
-    ladino: revista
+  - ladino: revista
+    accented: revista
+
+    gender: feminine
+    number: singular
+
     translations:
         english: magazine
         french: ''
         portuguese: ''
         spanish: revista
         turkish: dergi
+
+  - ladino: revistas
+    accented: revistas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: magazines
+        french: ''
+        portuguese: ''
+        spanish: revistas
+        turkish: dergi
+
+
+examples: []
