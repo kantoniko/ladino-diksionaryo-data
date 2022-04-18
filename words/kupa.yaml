@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '647'
 origen: Jeneral
+
 versions:
--   accented: kupa
-    ladino: kupa
+  - ladino: kupa
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - glass
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: vaso
         turkish: bardak
+
+  - ladino: kupas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - glasses
+        - tumblers
+        french: ''
+        portuguese: ''
+        spanish: vasos
+        turkish: bardak
+
+
+examples: []
