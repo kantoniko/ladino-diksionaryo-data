@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '1127'
 origen: Jeneral
+
 versions:
--   accented: vazo
-    ladino: vazo
+  - ladino: vazo
+
+    gender: masculine
+    number: singular
+
     translations:
-        english: vase
+        english:
+          - vase
+          - glass
         french: ''
         portuguese: ''
         spanish: florero
         turkish: vazo
+
+examples: []
