@@ -1,16 +1,14 @@
-comments:
-- 'grammar: adj.+ pron.'
-examples:
--   ladino: Mandá kuentos i konsejas ke oyitesh en vuestra chikez en djudeo-espanyol.
-grammar: null
+grammar: adjective
+comments: also pronoun
 id: '2650'
 origen: Jeneral
+
 versions:
--   accented: vuestro
-    alternative-spelling:
-    -   accented: vuestra
-        ladino: vuestra
-    ladino: vuestro
+  - ladino: vuestro
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - your
@@ -19,5 +17,23 @@ versions:
         portuguese: ''
         spanish:
         - vuestro
+        turkish: sizin
+
+  - ladino: vuestra
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - your
+        - yours
+        french: ''
+        portuguese: ''
+        spanish:
         - vuestra
         turkish: sizin
+
+
+examples:
+  - ladino: Mandá kuentos i konsejas ke oyitesh en vuestra chikez en djudeo-espanyol.
