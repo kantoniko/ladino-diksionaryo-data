@@ -1,10 +1,11 @@
-examples: []
 grammar: null
 id: '1218'
 origen: Jeneral
+
 versions:
--   accented: ardor
-    ladino: ardor
+  - ladino: ardor
+    accented: ardor
+
     translations:
         english: ardour
         french: ''
@@ -13,3 +14,5 @@ versions:
         turkish:
         - sevk
         - istek
+
+examples: []
