@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1721'
 origen: Jeneral
+
 versions:
--   accented: direktamente
-    ladino: direktamente
+  - ladino: direktamente
+
     translations:
         english: directly
         french: ''
         portuguese: ''
         spanish: directamente
         turkish: doğrudan doğruya
+
+examples: []
