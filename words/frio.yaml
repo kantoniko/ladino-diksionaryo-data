@@ -1,19 +1,42 @@
-examples:
--   ladino: No me faze ni friyo ni kalor.
 grammar: null
 id: '440'
 origen: Jeneral
+
 versions:
--   accented: frío
+  - ladino: frio
+    accented: frío
+
     alternative-spelling:
-    -   accented: fríyo
-        ladino: friyo
+      - ladino: friyo
+        accented: fríyo
+
     gender: masculine
-    ladino: frio
     number: singular
+
     translations:
         english: cold
         french: froid
         portuguese: frio
         spanish: frío
         turkish: soğuk
+
+  - ladino: frios
+    accented: fríos
+
+    alternative-spelling:
+      - ladino: friyos
+        accented: fríyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cold
+        french: froid
+        portuguese: frios
+        spanish: fríos
+        turkish: soğuk
+
+
+examples:
+  - ladino: No me faze ni friyo ni kalor.
