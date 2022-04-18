@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1826'
 origen: Jeneral
+
 versions:
--   accented: forma
-    ladino: forma
+  - ladino: forma
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - form
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: forma
         turkish: tarz
+
+  - ladino: formas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - forms
+        - shapes
+        french: ''
+        portuguese: ''
+        spanish: formas
+        turkish: tarz
+
+
+examples: []
