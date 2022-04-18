@@ -1,16 +1,17 @@
-examples:
--   ladino: Renée, ke ermozos son los kuentos de la tia de Sulucha!
 grammar: null
 id: '2858'
 origen: Jeneral
+
 versions:
--   accented: tía
+  - ladino: tia
+    accented: tía
+
     alternative-spelling:
-    -   accented: tiya
-        ladino: tiya
+      - ladino: tiya
+
     gender: feminine
-    ladino: tia
     number: singular
+
     translations:
         english: aunt
         french: ''
@@ -19,3 +20,26 @@ versions:
         turkish:
         - teyze
         - hala
+
+  - ladino: tias
+    accented: tías
+
+    alternative-spelling:
+      - ladino: tiyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: aunts
+        french: ''
+        portuguese: ''
+        spanish: tías
+        turkish:
+        - teyze
+        - hala
+
+
+examples:
+  - ladino: Renée, ke ermozos son los kuentos de la tia de Sulucha!
+
