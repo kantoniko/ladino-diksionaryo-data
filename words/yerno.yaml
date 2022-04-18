@@ -1,14 +1,56 @@
-examples:
--   ladino: Amistad de yerno, sol d'invierno.
 grammar: null
 id: '2353'
 origen: Jeneral
+
 versions:
--   accented: yerno
-    ladino: yerno
+  - ladino: yerno
+
+    gender: masculine
+    number: singular
+
     translations:
         english: son-in-law
         french: ''
         portuguese: ''
         spanish: yerno
         turkish: damat
+
+  - ladino: yerna
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: daughter-in-law
+        french: ''
+        portuguese: ''
+        spanish: yerna
+        turkish: ''
+
+  - ladino: yernos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sons-in-law
+        french: ''
+        portuguese: ''
+        spanish: yernos
+        turkish: damat
+
+  - ladino: yernas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: daughters-in-law
+        french: ''
+        portuguese: ''
+        spanish: yernas
+        turkish: ''
+
+
+examples:
+  - ladino: Amistad de yerno, sol d'invierno.
