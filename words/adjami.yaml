@@ -1,8 +1,6 @@
 grammar: adjective
 id: '3056'
 origen: Jeneral
-comments:
-  - Is "adjamia" de feminine version of the word or alternate spelling?
 
 versions:
   - ladino: adjami
