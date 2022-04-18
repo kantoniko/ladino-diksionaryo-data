@@ -1,14 +1,18 @@
-examples:
--   ladino: La komunidad de 900 Judios de Salonika supo organizar un kongreso.
 grammar: null
 id: '2499'
 origen: Jeneral
+
 versions:
--   accented: komunidád
+  - ladino: komunidad
+    accented: komunidád
+
     alternative-spelling:
-    -   accented: komunitá
-        ladino: komunita
-    ladino: komunidad
+      - ladino: komunita
+        accented: komunitá
+
+    gender: feminine
+    number: singular
+
     translations:
         english: community
         french: ''
@@ -17,3 +21,26 @@ versions:
         turkish:
         - cemaattopluluk
         - toplum
+
+  - ladino: komunidades
+    accented: komunidádes
+
+    alternative-spelling:
+      - ladino: komunitas
+        accented: komunitás
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: communities
+        french: ''
+        portuguese: ''
+        spanish: comunidades
+        turkish:
+        - cemaattopluluk
+        - toplum
+
+
+examples:
+  - ladino: La komunidad de 900 Judios de Salonika supo organizar un kongreso.
