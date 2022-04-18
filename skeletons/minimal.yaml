@@ -1,7 +1,6 @@
 grammar: null
 # verb noun
 origen: Ladinokomunita
-comments: []
 categories:
   - animales
   - lashon
