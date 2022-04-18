@@ -7,7 +7,9 @@ versions:
     accented: de
 
     translations:
-        english: of
+        english:
+          - of
+          - from
         french: ''
         portuguese: ''
         spanish: de
