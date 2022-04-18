@@ -1,16 +1,37 @@
-examples: []
 grammar: null
 id: '1390'
 origen: Jeneral
+
 versions:
--   accented: kopia
+  - ladino: kopia
+
+    gender: feminine
+    number: singular
+
     alternative-spelling:
-    -   accented: kopya
-        ladino: kopya
-    ladino: kopia
+      - ladino: kopya
+
     translations:
         english: copy
         french: ''
         portuguese: ''
         spanish: copia
         turkish: kopya
+
+  - ladino: kopias
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: kopyas
+
+    translations:
+        english: copies
+        french: ''
+        portuguese: ''
+        spanish: copias
+        turkish: kopya
+
+
+examples: []
