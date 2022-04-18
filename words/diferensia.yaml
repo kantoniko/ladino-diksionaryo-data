@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '259'
 origen: Jeneral
+
 versions:
--   accented: diferensia
-    ladino: diferensia
+  - ladino: diferensia
+    accented: diferensia
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - difference
@@ -17,3 +21,25 @@ versions:
         turkish:
         - fark
         - eşitsizlik
+
+  - ladino: diferensias
+    accented: diferensias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - differences
+        - disparities
+        french: ''
+        portuguese: ''
+        spanish:
+        - diferencias
+        - disparidades
+        turkish:
+        - fark
+        - eşitsizlik
+
+
+examples: []
