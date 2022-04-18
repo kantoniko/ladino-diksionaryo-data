@@ -1,13 +1,37 @@
-examples: []
 grammar: null
 id: '1217'
 origen: Jeneral
+
 versions:
--   accented: archivo
-    ladino: archivo
+  - ladino: archivo
+    accented: archivo
+
+    gender: masculine
+    number: singular
+
     translations:
-        english: archives
+        english:
+          - archive
+          - file
         french: ''
         portuguese: ''
         spanish: archivo
         turkish: arşiv
+
+  - ladino: archivos
+    accented: archivos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - archives
+          - files
+        french: ''
+        portuguese: ''
+        spanish: archivos
+        turkish: arşiv
+
+
+examples: []
