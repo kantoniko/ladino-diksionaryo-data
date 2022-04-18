@@ -1,11 +1,11 @@
-examples:
--   ladino: De Salonik asta Atena ay kinyentos kilometros.
 grammar: preposition
-id: '2507'
+id: '2507,422'
 origen: Jeneral
+
 versions:
--   accented: ásta
-    ladino: asta
+  - ladino: asta
+    accented: ásta
+
     translations:
         english:
         - till
@@ -19,3 +19,7 @@ versions:
         turkish:
         - kadar
         - dek
+
+
+examples:
+  - ladino: De Salonik asta Atena ay kinyentos kilometros.

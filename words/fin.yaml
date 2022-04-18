@@ -1,12 +1,13 @@
-comments:
-- 'grammar: la'
-examples: []
 grammar: null
 id: '420'
 origen: Jeneral
+
 versions:
--   accented: fin
-    ladino: fin
+  - ladino: fin
+
+    gender: feminine
+    number: singular
+
     translations:
         english: end
         french: ''
@@ -14,6 +15,5 @@ versions:
         spanish: fin (el)
         turkish: son
 
-# fin (la),,fin (el),end,son,Jeneral,420,,
-# "fin, asta",,hasta,till,kadar,Jeneral,422,,
+examples: []
 
