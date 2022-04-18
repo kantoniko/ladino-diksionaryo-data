@@ -1,19 +1,36 @@
-examples:
--   ladino: Al bohor de kada generasion se va la yave.
 grammar: null
 id: '1664'
 origen: Jeneral
+
 versions:
--   accented: bohór
-    alternative-spelling:
-    -   accented: bohóra
-        ladino: bohora
-    ladino: bohor
+  - ladino: bohor
+    accented: bohór
+
+    gender: masculine
+    number: singular
+
     translations:
         english: first-born
         french: ''
         portuguese: ''
         spanish:
         - primogénito
+        turkish: ilk çocuk
+
+  - ladino: bohora
+    accented: bohóra
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: first-born
+        french: ''
+        portuguese: ''
+        spanish:
         - primogénita
         turkish: ilk çocuk
+
+
+examples:
+  - ladino: Al bohor de kada generasion se va la yave.

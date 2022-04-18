@@ -1,14 +1,33 @@
-examples:
--   ladino: Tu fuites muy buen padre.
 grammar: null
 id: '2044'
 origen: Jeneral
+
 versions:
--   accented: padre
-    ladino: padre
+  - ladino: padre
+
+    gender: masculine
+    number: singular
+
     translations:
         english: father
-        french: pÃ¨re
+        french: ''
         portuguese: ''
         spanish: padre
         turkish: baba
+
+  - ladino: padres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fathers
+        french: ''
+        portuguese: ''
+        spanish: padres
+        turkish: baba
+
+
+examples:
+  - ladino: Tu fuites muy buen padre.
+
