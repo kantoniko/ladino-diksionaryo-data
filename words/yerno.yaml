@@ -15,18 +15,6 @@ versions:
         spanish: yerno
         turkish: damat
 
-  - ladino: yerna
-
-    gender: feminine
-    number: singular
-
-    translations:
-        english: daughter-in-law
-        french: ''
-        portuguese: ''
-        spanish: yerna
-        turkish: ''
-
   - ladino: yernos
 
     gender: masculine
@@ -38,18 +26,6 @@ versions:
         portuguese: ''
         spanish: yernos
         turkish: damat
-
-  - ladino: yernas
-
-    gender: feminine
-    number: plural
-
-    translations:
-        english: daughters-in-law
-        french: ''
-        portuguese: ''
-        spanish: yernas
-        turkish: ''
 
 
 examples:
