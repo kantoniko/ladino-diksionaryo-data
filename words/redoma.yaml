@@ -1,16 +1,18 @@
-examples:
--   ladino: Tomava la ridoma de Raki .
 grammar: null
 id: '186'
 origen: Jeneral
+
 versions:
--   accented: redóma
+  - ladino: redoma
+    accented: redóma
+
     alternative-spelling:
-    -   accented: ridóma
-        ladino: ridoma
+      - ladino: ridoma
+        accented: ridóma
+
     gender: feminine
-    ladino: redoma
     number: singular
+
     translations:
         english: bottle
         french:
@@ -21,3 +23,28 @@ versions:
         - botella
         - redoma
         turkish: şişe
+
+  - ladino: redomas
+    accented: redómas
+
+    alternative-spelling:
+      - ladino: ridomas
+        accented: ridómas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: bottles
+        french:
+        - bouteille
+        - fiole
+        portuguese: garafas
+        spanish:
+        - botellas
+        - redomas
+        turkish: şişe
+
+examples:
+  - ladino: Tomava la ridoma de Raki.
+
