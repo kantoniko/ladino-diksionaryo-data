@@ -1,14 +1,35 @@
-examples:
--   ladino: Gloria Ascher la va emplear en su kurso de kultura sefaradi.
 grammar: null
 id: '2512'
 origen: Jeneral
+
 versions:
--   accented: kúrso
-    ladino: kurso
+  - ladino: kurso
+    accented: kúrso
+
+    gender: masculine
+    number: singular
+
     translations:
         english: course
         french: ''
         portuguese: ''
         spanish: curso
         turkish: kurs
+
+  - ladino: kursos
+    accented: kúrsos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: courses
+        french: ''
+        portuguese: ''
+        spanish: cursos
+        turkish: kurs
+
+
+examples:
+  - ladino: Gloria Ascher la va emplear en su kurso de kultura sefaradi.
+
