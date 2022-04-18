@@ -4,7 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: yeno de djoya
-    accented: yeno de djoya
+
+    gender: masculine
+    number: singular
 
     translations:
         english: bejewelled
@@ -12,7 +14,20 @@ versions:
         portuguese: ''
         spanish:
           - enjoyado
+        turkish: mücevherle örtülü
+
+  - ladino: yena de djoya
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: bejewelled
+        french: ''
+        portuguese: ''
+        spanish:
           - enjoyada
         turkish: mücevherle örtülü
+
 
 examples: []
