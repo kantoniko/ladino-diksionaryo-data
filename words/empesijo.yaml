@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1300'
 origen: Jeneral
+
 versions:
--   accented: empesijo
-    ladino: empesijo
+  - ladino: empesijo
+    accented: empesijo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: beginning
         french: ''
         portuguese: ''
         spanish: comienzo
         turkish: başlangıç
+
+  - ladino: empesijos
+    accented: empesijos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: beginnings
+        french: ''
+        portuguese: ''
+        spanish: comienzos
+        turkish: başlangıç
+
+
+examples: []
