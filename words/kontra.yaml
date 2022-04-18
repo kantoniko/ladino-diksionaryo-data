@@ -1,10 +1,11 @@
-examples: []
 grammar: null
 id: '1387'
 origen: Jeneral
+
 versions:
--   accented: kontra
-    ladino: kontra
+  - ladino: kontra
+    accented: kontra
+
     translations:
         english:
         - against
@@ -13,3 +14,5 @@ versions:
         portuguese: ''
         spanish: contra
         turkish: karşı
+
+examples: []
