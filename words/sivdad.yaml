@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1026'
 origen: Jeneral
+
 versions:
--   accented: sivdad
-    ladino: sivdad
+  - ladino: sivdad
+    accented: sivdad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: city
         french: ''
         portuguese: ''
         spanish: ciudad
         turkish: şehir
+
+  - ladino: sivdades
+    accented: sivdades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cities
+        french: ''
+        portuguese: ''
+        spanish: ciudades
+        turkish: şehir
+
+
+examples: []
