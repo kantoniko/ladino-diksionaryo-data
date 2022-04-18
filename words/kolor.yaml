@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: kolor
     accented: kolor
+
     gender: feminine
     number: singular
 
@@ -14,6 +15,20 @@ versions:
         portuguese: ''
         spanish: color (el)
         turkish: renk
+
+  - ladino: kolores
+    accented: kolores
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: colours
+        french: ''
+        portuguese: ''
+        spanish: colores
+        turkish: renk
+
 
 examples: []
 
