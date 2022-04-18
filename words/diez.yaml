@@ -1,19 +1,21 @@
-comments:
-- 'grammar: adj. num.'
-examples:
--   ladino: Un bivo ke te mate i diez bovos ke no te abediguen.
 grammar: null
 id: '1716'
 origen: Jeneral
+
 versions:
--   accented: diéz
+  - ladino: diez
+    accented: diéz
+
     alternative-spelling:
-    -   accented: dyéz
-        ladino: dyez
-    ladino: diez
+      - ladino: dyez
+        accented: dyéz
+
     translations:
         english: ten
         french: ''
         portuguese: ''
         spanish: diez
         turkish: 'on'
+
+examples:
+  - ladino: Un bivo ke te mate i diez bovos ke no te abediguen.
