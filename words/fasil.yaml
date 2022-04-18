@@ -1,10 +1,10 @@
 grammar: adjective
 id: '406'
-origen: Estanbol
+origen: Jeneral
 
 versions:
-  - ladino: kolay
-    accented: koláy
+  - ladino: fasil
+    accented: fásil
 
     #gender: NA # masculine feminine
     number: singular
@@ -16,8 +16,8 @@ versions:
         spanish: fácil
         turkish: kolay
 
-  - ladino: kolayes
-    accented: koláyes
+  - ladino: fasiles
+    accented: fásiles
 
     #gender: NA # masculine feminine
     number: plural
@@ -30,5 +30,5 @@ versions:
         turkish: kolay
 
 examples:
-  - ladino: Kolay i livyano ke te se aga.
+  - ladino: Ke se les aga mas fasil i ke syerva a todos.
 
