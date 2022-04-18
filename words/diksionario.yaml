@@ -1,14 +1,18 @@
-examples:
--   ladino: Ayer merki un diksionario inglez-ladino, ladino-inglez.
 grammar: null
 id: '2426'
 origen: Jeneral
+
 versions:
--   accented: diksionário
+  - ladino: diksionario
+    accented: diksionário
+
     alternative-spelling:
-    -   accented: diksionáryo
-        ladino: diksionaryo
-    ladino: diksionario
+      - ladino: diksionaryo
+        accented: diksionáryo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: dictionary
         french: ''
@@ -17,3 +21,26 @@ versions:
         turkish:
         - lugat
         - sözlük
+
+  - ladino: diksionarios
+    accented: diksionários
+
+    alternative-spelling:
+      - ladino: diksionaryos
+        accented: diksionáryos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: dictionaries
+        french: ''
+        portuguese: ''
+        spanish: diccionarios
+        turkish:
+        - lugat
+        - sözlük
+
+
+examples:
+  - ladino: Ayer merki un diksionario inglez-ladino, ladino-inglez.
