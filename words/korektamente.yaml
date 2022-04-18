@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1941'
 origen: Jeneral
+
 versions:
--   accented: korektamente
-    ladino: korektamente
+  - ladino: korektamente
+
     translations:
         english: correctly
         french: ''
         portuguese: ''
         spanish: correctamente
         turkish: doğru bir şekilde
+
+examples: []
