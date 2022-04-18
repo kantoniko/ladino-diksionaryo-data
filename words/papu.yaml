@@ -1,18 +1,17 @@
-examples: []
 grammar: null
 id: '822'
 origen: Jeneral
+
 versions:
--   accented: papu
+  - ladino: papu
     alternative-spelling:
-    -   accented: nono
-        ladino: nono
-    -   accented: granpapa
-        ladino: granpapa
-    ladino: papu
+      - ladino: granpapa
+
     translations:
         english: grandfather
         french: ''
         portuguese: ''
         spanish: abuelo
         turkish: büyükbaba
+
+examples: []
