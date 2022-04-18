@@ -1,15 +1,33 @@
-examples: []
 grammar: null
 id: '2709'
 origen: Estanbol
+
 versions:
--   accented: bóyo
+  - ladino: boyo
+    accented: bóyo
+
     gender: masculine
-    ladino: boyo
     number: singular
+
     translations:
         english: savoury flaky pastry
         french: ''
         portuguese: ''
         spanish: bollo
         turkish: hamur işi
+
+  - ladino: boyos
+    accented: bóyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: savoury flaky pastry
+        french: ''
+        portuguese: ''
+        spanish: bollos
+        turkish: hamur işi
+
+
+examples: []
