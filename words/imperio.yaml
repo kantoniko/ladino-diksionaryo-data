@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '481'
 origen: Jeneral
+
 versions:
--   accented: imperio
-    ladino: imperio
+  - ladino: imperio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: empire
         french: ''
         portuguese: ''
         spanish: imperio
         turkish: imparatorluk
+
+  - ladino: imperios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: empires
+        french: ''
+        portuguese: ''
+        spanish: imperios
+        turkish: imparatorluk
+
+
+examples: []
