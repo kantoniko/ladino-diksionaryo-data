@@ -1,12 +1,11 @@
-examples:
--   ladino: Meldimos kon muncha atension e interes los komentarios echos por muestros
-        amigos.
 grammar: null
 id: '2498'
 origen: Jeneral
+
 versions:
--   accented: komentário
-    ladino: komentario
+  - ladino: komentario
+    accented: komentário
+
     translations:
         english:
         - comments
@@ -18,3 +17,6 @@ versions:
         turkish:
         - açıklama
         - yorum
+
+examples:
+  - ladino: Meldimos kon muncha atension e interes los komentarios echos por muestros amigos.
