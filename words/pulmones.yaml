@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '918'
 origen: Jeneral
+
 versions:
--   accented: pulmones
-    ladino: pulmones
+  - ladino: pulmon
+
+    gender: masculine
+    number: singular
+
+    translations:
+        english: lung
+        french: ''
+        portuguese: ''
+        spanish: pulmon
+        turkish: akciğerler
+
+  - ladino: pulmones
+
+    gender: masculine
+    number: plural
+
     translations:
         english: lungs
         french: ''
         portuguese: ''
         spanish: pulmones
         turkish: akciğerler
+
+examples: []
