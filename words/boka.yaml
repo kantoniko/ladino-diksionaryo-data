@@ -1,16 +1,34 @@
-examples:
--   ladino: Se kito el pan de la boka para mantener a sus ermanos.
 grammar: null
 id: '2410'
 origen: Jeneral
+
 versions:
--   accented: bóka
+  - ladino: boka
+    accented: bóka
+
     gender: feminine
-    ladino: boka
     number: singular
+
     translations:
         english: mouth
         french: bouche
         portuguese: boca
         spanish: boca
         turkish: ağız
+
+  - ladino: bokas
+    accented: bókas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: mouths
+        french: bouche
+        portuguese: bocas
+        spanish: bocas
+        turkish: ağız
+
+
+examples:
+  - ladino: Se kito el pan de la boka para mantener a sus ermanos.
