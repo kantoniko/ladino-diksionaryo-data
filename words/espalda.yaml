@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '362'
 origen: Jeneral
+
 versions:
--   accented: espalda
-    ladino: espalda
+  - ladino: espalda
+
+    gender: feminine
+    number: singular
+
     translations:
         english: back
         french: ''
         portuguese: ''
         spanish: espalda
         turkish: sırt
+
+  - ladino: espaldas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: backs
+        french: ''
+        portuguese: ''
+        spanish: espaldas
+        turkish: sırt
+
+
+examples: []
