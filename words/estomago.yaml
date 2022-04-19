@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '388'
 origen: Jeneral
+
 versions:
--   accented: estomago
-    ladino: estomago
+  - ladino: estomago
+
     translations:
         english: stomach
         french: ''
         portuguese: ''
         spanish: estómago
         turkish: mide
+
+examples: []
