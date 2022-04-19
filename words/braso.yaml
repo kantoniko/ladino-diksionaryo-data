@@ -1,16 +1,34 @@
-examples:
--   ladino: 'Yo fui su braso derecho, '
 grammar: null
 id: '197'
 origen: Jeneral
+
 versions:
--   accented: bráso
+  - ladino: braso
+    accented: bráso
+
     gender: masculine
-    ladino: braso
     number: singular
+
     translations:
         english: arm
         french: bras
         portuguese: braço
         spanish: brazo
         turkish: kol
+
+  - ladino: brasos
+    accented: brásos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: arms
+        french: bras
+        portuguese: braços
+        spanish: brazos
+        turkish: kol
+
+
+examples:
+  - ladino: Yo fui su braso derecho
