@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '267'
 origen: Jeneral
+
 versions:
--   accented: diz
-    ladino: diz
+  - ladino: diz
+
+    gender: masculine
+    number: singular
+
     translations:
         english: knee
         french: ''
         portuguese: ''
         spanish: rodilla
         turkish: diz
+
+  - ladino: dizes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: knees
+        french: ''
+        portuguese: ''
+        spanish: rodillas
+        turkish: diz
+
+
+examples: []
