@@ -1,13 +1,14 @@
-examples:
--   ladino: La razon diferensia al ombre de las bestias. (Neh.)
 grammar: null
-id: '2586'
+id: '2586,720'
 origen: Jeneral
+
 versions:
--   accented: razón
+  - ladino: razon
+    accented: razón
+
     gender: feminine
-    ladino: razon
     number: singular
+
     translations:
         english:
         - reason
@@ -21,3 +22,8 @@ versions:
         - hak
         - us
         - mantık
+        - akıl
+
+examples:
+  - ladino: La razon diferensia al ombre de las bestias. (Neh.)
+
