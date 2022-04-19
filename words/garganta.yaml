@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '451'
 origen: Jeneral
+
 versions:
--   accented: garganta
-    ladino: garganta
+  - ladino: garganta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: neck
         french: ''
         portuguese: ''
         spanish: cuello
         turkish: boyun
+
+  - ladino: gargantas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: necks
+        french: ''
+        portuguese: ''
+        spanish: cuellos
+        turkish: boyun
+
+
+examples: []
