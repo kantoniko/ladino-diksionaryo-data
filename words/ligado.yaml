@@ -22,5 +22,25 @@ versions:
         - ciğer
         - karaciğer
 
+  - ladino: ligados
+    accented: lígados
+
+    alternative-spelling:
+      - ladino: fegados
+        accented: fégados
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: livers
+        french: ''
+        portuguese: ''
+        spanish: hígados
+        turkish:
+        - ciğer
+        - karaciğer
+
+
 examples:
   - ladino: Se le kemo el ligado, de tanto bever alkol.
