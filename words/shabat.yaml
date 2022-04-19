@@ -21,3 +21,8 @@ versions:
 
 examples:
   - ladino: Shabat Shalom
+  - ladino: En Israel la djente no lavoran en shabat.
+    english: In Israel the people don't work on Saturday
+  - ladino: Los djudios religiosos no lavoran en shabat.
+    english: Religious jews don't work on Saturday.
+

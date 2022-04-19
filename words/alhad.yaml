@@ -20,4 +20,10 @@ versions:
 examples:
   - ladino: Shabat por la tadre es Noche de Alhad.
   - ladino: Se kazan todos los djudios de Izmir, siempre en dia de alhad.
+  - ladino: En Israel alhad es el primer dia de la semana.
+    english: In Israel Sunday is the first day of the week.
+  - ladino: En Inglez alhad es el dia del sol.
+    english: In English Sunday is the day of the sun.
+  - ladino: En Evropa alhad es el ultimo dia de la semana.
+    english: In Europe alhad is the last day of the week.
 
