@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '762'
 origen: Jeneral
+
 versions:
--   accented: mustacho
-    ladino: mustacho
+  - ladino: mustacho
+
+    gender: masculine
+    number: singular
+
     translations:
         english: moustache
         french: ''
         portuguese: ''
         spanish: bigote
         turkish: bıyık
+
+  - ladino: mustachos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: moustaches
+        french: ''
+        portuguese: ''
+        spanish: bigotes
+        turkish: bıyık
+
+
+examples: []
