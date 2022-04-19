@@ -1,19 +1,21 @@
-comments:
-- 'grammar: lok. adv.'
-examples:
--   ladino: Kaminando a pie komo 10 minutos.
 grammar: null
 id: '1564'
 origen: Jeneral
 versions:
--   accented: a pié
+  - ladino: a pie
+    accented: a pié
+
     alternative-spelling:
-    -   accented: a pyé
-        ladino: a pye
-    ladino: a pie
+      - ladino: a pye
+        accented: a pyé
+
     translations:
         english: on foot
         french: à pied
         portuguese: a pé
         spanish: a pie
         turkish: yayan
+
+examples:
+  - ladino: Kaminando a pie komo 10 minutos.
+
