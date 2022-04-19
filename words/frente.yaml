@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '437'
 origen: Jeneral
+
 versions:
--   accented: frente
-    ladino: frente
+  - ladino: frente
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: forehead
         french: ''
         portuguese: ''
         spanish: frente
         turkish: alın
+
+examples: []
