@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '611'
 origen: Jeneral
+
 versions:
--   accented: korason
-    ladino: korason
+  - ladino: korason
+
+    gender: masculine
+    number: singular
+
     translations:
         english: heart
         french: ''
         portuguese: ''
         spanish: corazón
         turkish: kalp
+
+  - ladino: korasones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hearts
+        french: ''
+        portuguese: ''
+        spanish: corazónes
+        turkish: kalp
+
+
+examples: []
