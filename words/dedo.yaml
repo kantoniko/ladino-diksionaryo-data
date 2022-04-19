@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '228'
 origen: Jeneral
+
 versions:
--   accented: dedo
-    ladino: dedo
+  - ladino: dedo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: finger
         french: ''
         portuguese: ''
         spanish: dedo
         turkish: parmak
+
+  - ladino: dedos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fingers
+        french: ''
+        portuguese: ''
+        spanish: dedos
+        turkish: parmak
+
+
+examples: []
