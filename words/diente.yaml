@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '257'
 origen: Jeneral
+
 versions:
--   accented: diente
-    ladino: diente
+  - ladino: diente
+
+    gender: masculine
+    number: singular
+
     translations:
         english: tooth
         french: ''
         portuguese: ''
         spanish: diente
         turkish: diş
+
+  - ladino: dientes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: teeth
+        french: ''
+        portuguese: ''
+        spanish: dientes
+        turkish: diş
+
+
+examples: []
