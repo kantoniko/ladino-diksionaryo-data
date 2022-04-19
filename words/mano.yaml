@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '697'
 origen: Jeneral
+
 versions:
--   accented: mano
-    ladino: mano
+  - ladino: mano
+
+    gender: masculine
+    number: singular
+
     translations:
         english: hand
         french: ''
         portuguese: ''
         spanish: mano
         turkish: el
+
+  - ladino: manos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hands
+        french: ''
+        portuguese: ''
+        spanish: manos
+        turkish: el
+
+
+examples: []
