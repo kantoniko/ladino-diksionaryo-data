@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1838'
 origen: Jeneral
+
 versions:
--   accented: garon
-    ladino: garon
+  - ladino: garon
+
     translations:
         english: throat
         french: ''
         portuguese: ''
         spanish: garganta
         turkish: boğaz
+
+examples: []
