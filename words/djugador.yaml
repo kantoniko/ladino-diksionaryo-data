@@ -1,0 +1,58 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: djugador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: player
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: jugador
+      turkish: ''
+
+  - ladino: djugadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: player
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: jugadora
+      turkish: ''
+
+  - ladino: djugadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: players
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: jugadores
+      turkish: ''
+
+  - ladino: djugadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: players
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: jugadoras
+      turkish: ''
+
+
+examples: []
