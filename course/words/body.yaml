@@ -1,22 +1,16 @@
-Skill:
-  Name: Body
-  Id: 229
-
-New words: []
-
-Two-way-dictionary:
   - arm:        braso
-  - arms:       brasos
   - back:       espalda
   - brain:      meoyo
   - cheek:      kara
+  - face:       (la) kara
+  - faces:      (las) karas
   - ear:        oyido
   - ear:        oreja
   - elbow:      kovdo
   - eye:        ojo
   - eyes:       ojos
-  - face:       (la) kara
-  - faces:      (las) karas
+
+Two-way-dictionary:
   - foot:       pie
   - foot:       pye
   - forehead:   frente
@@ -46,6 +40,5 @@ Two-way-dictionary:
   - on foot:    a pie
   - on foot:    a pye
 
-Phrases: []
 
 
