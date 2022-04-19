@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '622'
 origen: Jeneral
+
 versions:
--   accented: kovdo
-    ladino: kovdo
+  - ladino: kovdo
+    accented: kovdo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: elbow
         french: ''
         portuguese: ''
         spanish: codo
         turkish: dirsek
+
+  - ladino: kovdos
+    accented: kovdos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: elbows
+        french: ''
+        portuguese: ''
+        spanish: codos
+        turkish: dirsek
+
+
+examples: []
