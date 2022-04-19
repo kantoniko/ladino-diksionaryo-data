@@ -1,13 +1,34 @@
-examples: []
 grammar: null
 id: '802'
 origen: Jeneral
+
 versions:
--   accented: oreja
-    ladino: oreja
+  - ladino: oreja
+    accented: oréja
+
+    gender: feminine
+    number: singular
+
     translations:
         english: ear
         french: ''
         portuguese: ''
         spanish: oreja
         turkish: kulak
+
+  - ladino: orejas
+    accented: oréjas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: ears
+        french: ''
+        portuguese: ''
+        spanish: orejas
+        turkish: kulak
+
+
+examples: []
+

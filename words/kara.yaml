@@ -1,16 +1,34 @@
-examples:
--   ladino: En kada kara tiene una kondja. (Neh.)
 grammar: null
-id: '531'
+id: '531,2490'
 origen: Jeneral
+
 versions:
--   accented: kára
-    ladino: kara
+  - ladino: kara
+    accented: kára
+
+    gender: feminine
+    number: singular
+
     translations:
-        english: cheek
+        english:
+          - cheek
+          - face
+          - side
         french: ''
         portuguese: ''
-        spanish: mejilla
-        turkish: yanak
+        spanish:
+          - mejilla
+          - cara
+          - rostro
+          - semblante
+          - faz
+        turkish:
+          - yanak
+          - surat
+          - yüz
 
-# kára,"El mal i el bien en la kara se ven. (Neh.) Kara de riza.  Kosta los ojos de la kara.","cara, rostro, semblante, faz","face, side","surat, yüz",Jeneral,2490,,
+examples:
+  - ladino: En kada kara tiene una kondja. (Neh.)
+  - ladino: El mal i el bien en la kara se ven. (Neh.)
+  - ladino: Kara de riza.
+  - ladino: Kosta los ojos de la kara.
