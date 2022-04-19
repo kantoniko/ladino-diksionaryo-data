@@ -1,13 +1,37 @@
-examples: []
 grammar: null
 id: '863'
 origen: Jeneral
+
 versions:
--   accented: pie
-    ladino: pie
+  - ladino: pie
+
+    alternative-spelling:
+      - ladino: pye
+
+    gender: masculine
+    number: singular
+
     translations:
         english: foot
         french: ''
         portuguese: ''
         spanish: pié
         turkish: ayak
+
+  - ladino: pies
+
+    alternative-spelling:
+      - ladino: pyes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: feet
+        french: ''
+        portuguese: ''
+        spanish: piés
+        turkish: ayak
+
+
+examples: []
