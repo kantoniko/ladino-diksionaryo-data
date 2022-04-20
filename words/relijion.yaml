@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '936'
 origen: Jeneral
+
 versions:
--   accented: relijion
-    ladino: relijion
+  - ladino: relijion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: religion
         french: ''
         portuguese: ''
         spanish: religión
         turkish: din
+
+  - ladino: relijiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: religions
+        french: ''
+        portuguese: ''
+        spanish: religiónes
+        turkish: din
+
+
+examples: []
