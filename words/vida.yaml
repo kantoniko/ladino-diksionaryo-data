@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2254'
 origen: Jeneral
+
 versions:
--   accented: vida
-    ladino: vida
+  - ladino: vida
+
+    gender: feminine
+    number: singular
+
     translations:
         english: life
         french: ''
         portuguese: ''
         spanish: vida
         turkish: hayat
+
+  - ladino: vidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lifes
+        french: ''
+        portuguese: ''
+        spanish: vidas
+        turkish: hayat
+
+
+examples: []
