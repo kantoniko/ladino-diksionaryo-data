@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '490'
 origen: Jeneral
+
 versions:
--   accented: intelijente
-    ladino: intelijente
+  - ladino: intelijente
+
+    #gender: NA # masculine feminine
+    number: singular
+
     translations:
         english: intelligent
         french: ''
         portuguese: ''
         spanish: inteligente
         turkish: zeki
+
+  - ladino: intelijentes
+
+    #gender: NA # masculine feminine
+    number: plural
+
+    translations:
+        english: intelligents
+        french: ''
+        portuguese: ''
+        spanish: inteligentes
+        turkish: zeki
+
+
+examples: []
