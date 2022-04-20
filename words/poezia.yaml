@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1454'
 origen: Jeneral
+
 versions:
--   accented: poezia
-    ladino: poezia
+  - ladino: poezia
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - poem
@@ -17,3 +20,5 @@ versions:
         turkish:
         - şiir
         - şiirler
+
+examples: []
