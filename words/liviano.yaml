@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1967'
 origen: Jeneral
+
 versions:
--   accented: liviano
-    ladino: liviano
+  - ladino: liviano
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - light
@@ -15,3 +18,55 @@ versions:
         turkish:
         - hafif
         - önemsiz
+
+  - ladino: liviana
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - light
+        - trivial
+        french: ''
+        portuguese: ''
+        spanish: leve
+        turkish:
+        - hafif
+        - önemsiz
+
+  - ladino: livianos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - light
+        - trivials
+        french: ''
+        portuguese: ''
+        spanish: leve
+        turkish:
+        - hafif
+        - önemsiz
+
+  - ladino: livianas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - light
+        - trivials
+        french: ''
+        portuguese: ''
+        spanish: leve
+        turkish:
+        - hafif
+        - önemsiz
+
+
+
+examples: []
