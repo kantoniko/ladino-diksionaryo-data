@@ -1,11 +1,13 @@
-examples:
--   ladino: Yo so investigador de Ladino.
 grammar: null
 id: '2316'
 origen: Jeneral
+
 versions:
--   accented: investigador
-    ladino: investigador
+  - ladino: investigador
+
+    gender: masculine
+    number: singular
+
     translations:
         english: investigator
         french: ''
@@ -14,3 +16,50 @@ versions:
         turkish:
         - araştırıcı
         - müfettiş
+
+  - ladino: investigadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: investigator
+        french: ''
+        portuguese: ''
+        spanish: investigadora
+        turkish:
+        - araştırıcı
+        - müfettiş
+
+  - ladino: investigadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: investigators
+        french: ''
+        portuguese: ''
+        spanish: investigadores
+        turkish:
+        - araştırıcı
+        - müfettiş
+
+  - ladino: investigadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: investigators
+        french: ''
+        portuguese: ''
+        spanish: investigadoras
+        turkish:
+        - araştırıcı
+        - müfettiş
+
+
+
+examples:
+  - ladino: Yo so investigador de Ladino.
