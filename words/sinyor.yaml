@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1020'
 origen: Jeneral
+
 versions:
--   accented: sinyor
-    ladino: sinyor
+  - ladino: sinyor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: gentleman
         french: ''
         portuguese: ''
-        spanish: caballero
+        spanish:
+          - caballero
+          - señor
         turkish: beyefendi
+
+  - ladino: sinyora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: lady
+        french: ''
+        portuguese: ''
+        spanish: señora
+        turkish: ''
+
+
+examples: []
