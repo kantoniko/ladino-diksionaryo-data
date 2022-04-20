@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '688'
 origen: Jeneral
+
 versions:
--   accented: makina
-    ladino: makina
+  - ladino: makina
+
+    gender: feminine
+    number: singular
+
     translations:
         english: machine
         french: ''
         portuguese: ''
         spanish: máquina
         turkish: makine
+
+  - ladino: makinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: machines
+        french: ''
+        portuguese: ''
+        spanish: máquinas
+        turkish: makine
+
+
+examples: []
