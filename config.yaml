@@ -28,6 +28,7 @@ gramatika:
 gender:
   - feminine
   - masculine
+  - both
   - NA
 numero:
   - singular
