@@ -1,11 +1,14 @@
-examples:
--   ladino: Su padre era el direktor de un koro de kantar i de musika.
 grammar: null
 id: '1723'
 origen: Jeneral
+
 versions:
--   accented: direktór
-    ladino: direktor
+  - ladino: direktor
+    accented: direktór
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - director
@@ -19,3 +22,67 @@ versions:
         - yönetici
         - müdür
         - direktör
+
+  - ladino: direktora
+    accented: direktóra
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - director
+        - manager
+        french: ''
+        portuguese: ''
+        spanish:
+        - directora
+        - empresaria
+        turkish:
+        - yönetici
+        - müdür
+        - direktör
+
+  - ladino: direktores
+    accented: direktóres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - directors
+        - managers
+        french: ''
+        portuguese: ''
+        spanish:
+        - directores
+        - empresarios
+        turkish:
+        - yönetici
+        - müdür
+        - direktör
+
+  - ladino: direktoras
+    accented: direktóras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - directors
+        - managers
+        french: ''
+        portuguese: ''
+        spanish:
+        - directoras
+        - empresarias
+        turkish:
+        - yönetici
+        - müdür
+        - direktör
+
+
+examples:
+  - ladino: Su padre era el direktor de un koro de kantar i de musika.
