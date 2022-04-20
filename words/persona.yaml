@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '857'
 origen: Jeneral
+
 versions:
--   accented: persona
-    ladino: persona
+  - ladino: persona
+
+    gender: feminine
+    number: singular
+
     translations:
         english: person
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - adam
         - insan
+
+  - ladino: personas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: people
+        french: ''
+        portuguese: ''
+        spanish: personas
+        turkish:
+        - adam
+        - insan
+
+
+examples: []
