@@ -1,13 +1,14 @@
-examples:
--   ladino: Para el mentirozo, un sarnudo es un ayudo. (Neh.)
 grammar: null
 id: '2657'
 origen: Jeneral
+
 versions:
--   accented: ayúdo
+  - ladino: ayudo
+    accented: ayúdo
+
     gender: masculine
-    ladino: ayudo
     number: singular
+
     translations:
         english:
         - help
@@ -18,3 +19,6 @@ versions:
         turkish:
         - yardım
         - imdat
+
+examples:
+  - ladino: Para el mentirozo, un sarnudo es un ayudo. (Neh.)
