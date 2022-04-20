@@ -21,4 +21,23 @@ versions:
         - şiir
         - şiirler
 
+  - ladino: poezias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - poems
+        - poetry
+        french: ''
+        portuguese: ''
+        spanish:
+        - poemas
+        - poesías
+        turkish:
+        - şiir
+        - şiirler
+
+
 examples: []
