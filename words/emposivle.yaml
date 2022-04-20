@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '316'
 origen: Jeneral
+
 versions:
--   accented: emposivle
-    ladino: emposivle
+  - ladino: emposivle
+
     translations:
         english: impossible
         french: ''
         portuguese: ''
         spanish: imposible
         turkish: imkânsız
+
+examples: []
