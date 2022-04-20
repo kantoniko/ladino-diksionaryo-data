@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '791'
 origen: Jeneral
+
 versions:
--   accented: ombre
-    ladino: ombre
+  - ladino: ombre
+
+    gender: masculine
+    number: singular
+
     translations:
         english: man
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - adam
         - erkek
+
+  - ladino: ombres
+
+    gender: masculine
+    number: plurel
+
+    translations:
+        english: men
+        french: ''
+        portuguese: ''
+        spanish: hombres
+        turkish:
+        - adam
+        - erkek
+
+
+examples: []
