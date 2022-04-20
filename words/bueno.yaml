@@ -1,10 +1,13 @@
-examples: []
-grammar: null
+grammar: adjective
 id: '201'
 origen: Jeneral
+
 versions:
--   accented: bueno
-    ladino: bueno
+  - ladino: bueno
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - good
@@ -15,3 +18,54 @@ versions:
         turkish:
         - peki
         - iyi
+
+  - ladino: buena
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - good
+        - OK
+        french: ''
+        portuguese: ''
+        spanish: buena
+        turkish:
+        - peki
+        - iyi
+
+  - ladino: buenos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - good
+        - OK
+        french: ''
+        portuguese: ''
+        spanish: buenos
+        turkish:
+        - peki
+        - iyi
+
+  - ladino: buenas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - good
+        - OK
+        french: ''
+        portuguese: ''
+        spanish: buenas
+        turkish:
+        - peki
+        - iyi
+
+
+examples: []
