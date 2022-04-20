@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1436'
 origen: Jeneral
+
 versions:
--   accented: paras
-    ladino: paras
+  - ladino: paras
+
     translations:
         english: money
         french: ''
         portuguese: ''
         spanish: dinero
         turkish: para
+
+examples: []
