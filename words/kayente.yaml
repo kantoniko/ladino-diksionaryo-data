@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '542'
 origen: Jeneral
+
 versions:
--   accented: kayente
-    ladino: kayente
+  - ladino: kayente
+
     translations:
         english: hot
         french: ''
         portuguese: ''
         spanish: caliente
         turkish: sıcak
+
+examples: []
