@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '696'
 origen: Jeneral
+
 versions:
--   accented: mankar
+  - ladino: mankar
+
     alternative-spelling:
-    -   accented: faltar
-        ladino: faltar
-    ladino: mankar
+      - ladino: faltar
+
     translations:
         english: lack
         french: ''
@@ -16,3 +16,5 @@ versions:
         turkish:
         - eksik olmak
         - yanılmak
+
+examples: []
