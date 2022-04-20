@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1062'
 origen: Jeneral
+
 versions:
--   accented: tefter
-    ladino: tefter
+  - ladino: tefter
+
+    gender: masculine
+    number: singular
+
     translations:
         english: notebook
         french: ''
         portuguese: ''
         spanish: cuaderno
         turkish: defter
+
+  - ladino: tefteres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: notebooks
+        french: ''
+        portuguese: ''
+        spanish: cuadernos
+        turkish: defter
+
+
+examples: []
