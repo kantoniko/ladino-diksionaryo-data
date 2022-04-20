@@ -1,16 +1,34 @@
-examples:
--   ladino: Ay tambyen pajinas en muestra lingua ke son de tresalir.
 grammar: null
 id: '2847'
 origen: Jeneral
+
 versions:
--   accented: pájina
+  - ladino: pajina
+    accented: pájina
+
     gender: feminine
-    ladino: pajina
     number: singular
+
     translations:
         english: page
         french: page
-        portuguese: p&#940;gina
+        portuguese: ''
         spanish: página
         turkish: sayfa
+
+  - ladino: pajinas
+    accented: pájinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pagees
+        french: page
+        portuguese: ''
+        spanish: páginas
+        turkish: sayfa
+
+
+examples:
+  - ladino: Ay tambyen pajinas en muestra lingua ke son de tresalir.
