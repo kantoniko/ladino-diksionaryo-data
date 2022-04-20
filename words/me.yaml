@@ -1,11 +1,10 @@
-examples:
--   ladino: Me miró.
 grammar: null
 id: '2534'
 origen: Jeneral
+
 versions:
--   accented: me
-    ladino: me
+  - ladino: me
+
     translations:
         english:
         - me
@@ -17,3 +16,6 @@ versions:
         turkish:
         - beni
         - bana
+
+examples:
+  - ladino: Me miró.
