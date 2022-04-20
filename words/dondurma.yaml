@@ -1,16 +1,34 @@
-examples:
--   ladino: Mos keriya enkomendar una dondurma (yelada) famoza de Cesme .
 grammar: null
 id: '2942'
 origen: Jeneral
+
 versions:
--   accented: dondurmá
+  - ladino: dondurma
+    accented: dondurmá
+
     gender: feminine
-    ladino: dondurma
     number: singular
+
     translations:
         english: ice cream
         french: crème glacée
         portuguese: ''
         spanish: helado
         turkish: dordurma
+
+  - ladino: dondurmas
+    accented: dondurmás
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: ice creams
+        french: crème glacée
+        portuguese: ''
+        spanish: helados
+        turkish: dordurma
+
+
+examples:
+  - ladino: Mos keriya enkomendar una dondurma (yelada) famoza de Cesme .
