@@ -1,14 +1,17 @@
-examples:
--   ladino: Ke bushkas por aki?
 grammar: adverb
 id: '54'
 origen: Jeneral
+
 versions:
--   accented: akí
-    ladino: aki
+  - ladino: aki
+    accented: akí
+
     translations:
         english: here
         french: ''
         portuguese: ''
         spanish: aquí
         turkish: burada
+
+examples:
+  - ladino: Ke bushkas por aki?
