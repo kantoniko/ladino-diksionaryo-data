@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1968'
 origen: Jeneral
+
 versions:
--   accented: lojika
-    ladino: lojika
+  - ladino: lojika
+
+    gender: feminine
+    number: singular
+
     translations:
         english: logic
         french: ''
         portuguese: ''
         spanish: lógica
         turkish: mantık
+
+examples: []
