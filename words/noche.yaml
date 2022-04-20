@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '777'
 origen: Jeneral
+
 versions:
--   accented: noche
-    ladino: noche
+  - ladino: noche
+
+    gender: feminine
+    number: singular
+
     translations:
         english: night
         french: ''
         portuguese: ''
         spanish: noche
         turkish: gece
+
+  - ladino: noches
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: nights
+        french: ''
+        portuguese: ''
+        spanish: noches
+        turkish: gece
+
+
+examples: []
