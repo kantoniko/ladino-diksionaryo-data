@@ -15,4 +15,17 @@ versions:
         spanish: precio
         turkish: fiyat
 
+  - ladino: presios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: prices
+        french: ''
+        portuguese: ''
+        spanish: precios
+        turkish: fiyat
+
+
 examples: []
