@@ -1,11 +1,14 @@
-examples:
--   ladino: Se desha 10 minutos en el orno.
 grammar: null
-id: '2541'
+id: '2541,2542'
 origen: Jeneral
+
 versions:
--   accented: minúto
-    ladino: minuto
+  - ladino: minuto
+    accented: minúto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: minute
         french: ''
@@ -13,5 +16,20 @@ versions:
         spanish: minuto
         turkish: dakika
 
-# minúto,Se desha 10 minutos en el orno.,minuto,minute,dakika,Jeneral,2541,,
-# minúto,Se desha 10 minutos en el orno.,minuto,minute,dakika,Jeneral,2542,,
+  - ladino: minutos
+    accented: minútos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: minutes
+        french: ''
+        portuguese: ''
+        spanish: minutos
+        turkish: dakika
+
+
+examples:
+  - ladino: Se desha 10 minutos en el orno.
+
