@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1410'
 origen: Jeneral
+
 versions:
--   accented: material
-    ladino: material
+  - ladino: material
+
+    gender: masculine
+    number: singular
+
     translations:
         english: material
         french: ''
         portuguese: ''
         spanish: material
         turkish: madde
+
+  - ladino: materiales
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: materials
+        french: ''
+        portuguese: ''
+        spanish: materiales
+        turkish: madde
+
+
+examples: []
