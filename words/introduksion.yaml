@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1357'
 origen: Jeneral
+
 versions:
--   accented: introduksion
-    ladino: introduksion
+  - ladino: introduksion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: introduction
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - sunuş
         - takdim
+
+  - ladino: introduksiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: introductions
+        french: ''
+        portuguese: ''
+        spanish: introducciónes
+        turkish:
+        - sunuş
+        - takdim
+
+
+examples: []
