@@ -1,19 +1,42 @@
-examples:
--   ladino: El farmasisto echava algujas a los hazinos.
 grammar: null
 id: '2867'
 origen: Jeneral
+
 versions:
--   accented: algúja
+  - ladino: alguja
+    accented: algúja
+
     alternative-spelling:
-    -   accented: agúja
-        ladino: aguja
+      - ladino: aguja
+        accented: agúja
+
     gender: feminine
-    ladino: alguja
     number: singular
+
     translations:
         english: needle
         french: ''
         portuguese: ''
         spanish: aguja
         turkish: iğne
+
+  - ladino: algujas
+    accented: algújas
+
+    alternative-spelling:
+      - ladino: agujas
+        accented: agújas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: needles
+        french: ''
+        portuguese: ''
+        spanish: agujas
+        turkish: iğne
+
+
+examples:
+  - ladino: El farmasisto echava algujas a los hazinos.
