@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '681'
 origen: Jeneral
+
 versions:
--   accented: luz
-    ladino: luz
+  - ladino: luz
+
+    gender: feminine
+    number: singular
+
     translations:
         english: light
         french: ''
         portuguese: ''
         spanish: luz
         turkish: ışık
+
+  - ladino: luzes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lights
+        french: ''
+        portuguese: ''
+        spanish: luzes
+        turkish: ışık
+
+
+examples: []
