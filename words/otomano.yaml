@@ -1,16 +1,18 @@
-comments:
-- 'grammar: m+adj.'
-examples:
--   ladino: El Ladino se formo en el Imperio Otomano.
 grammar: null
 id: '2562'
 origen: Jeneral
+
 versions:
--   accented: otománo
-    ladino: otomano
+  - ladino: otomano
+    accented: otománo
+
     translations:
         english: Ottoman
         french: ''
         portuguese: ''
         spanish: otomano
         turkish: Osmanlı
+
+examples:
+  - ladino: El Ladino se formo en el Imperio Otomano.
+
