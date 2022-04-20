@@ -6,7 +6,7 @@ versions:
   - ladino: manera
     accented: manera
 
-    #gender: NA # masculine feminine
+    gender: feminine
     number: singular
 
     translations:
@@ -21,7 +21,7 @@ versions:
   - ladino: maneras
     accented: maneras
 
-    #gender: NA # masculine feminine
+    gender: feminine
     number: plural
 
     translations:
