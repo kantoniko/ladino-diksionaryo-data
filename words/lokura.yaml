@@ -1,16 +1,34 @@
-examples:
--   ladino: Todos tenemos muestras pasiones i lokuras.
 grammar: null
 id: '2940'
 origen: Jeneral
+
 versions:
--   accented: lokúra
+  - ladino: lokura
+    accented: lokúra
+
     gender: feminine
-    ladino: lokura
     number: singular
+
     translations:
         english: madness
         french: folie
         portuguese: ''
         spanish: locura
         turkish: delilik
+
+  - ladino: lokuras
+    accented: lokúras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: madnesses
+        french: folie
+        portuguese: ''
+        spanish: locuras
+        turkish: delilik
+
+
+examples:
+  - ladino: Todos tenemos muestras pasiones i lokuras.
