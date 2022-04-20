@@ -1,11 +1,13 @@
-examples:
--   ladino: Apretad mano solo delas djentes buenas i vertuozas.
 grammar: null
 id: '14'
 origen: Jeneral
+
 versions:
--   accented: djente
-    ladino: djente
+  - ladino: djente
+
+    gender: feminine
+    number: singular
+
     translations:
         english: people
         french: ''
@@ -15,3 +17,6 @@ versions:
         - ahali
         - halk
         - elâlem
+
+examples:
+  - ladino: Apretad mano solo delas djentes buenas i vertuozas.
