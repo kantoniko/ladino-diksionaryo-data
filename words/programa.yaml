@@ -1,16 +1,18 @@
-examples: []
 grammar: null
 id: '906'
 origen: Jeneral
+
 versions:
--   accented: programa
+  - ladino: programa
+
     alternative-spelling:
-    -   accented: program
-        ladino: program
-    ladino: programa
+      - ladino: program
+
     translations:
         english: program
         french: ''
         portuguese: ''
         spanish: programa
         turkish: program
+
+examples: []
