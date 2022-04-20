@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2014'
 origen: Jeneral
+
 versions:
--   accented: nivel
-    ladino: nivel
+  - ladino: nivel
+
+    gender: masculine
+    number: singular
+
     translations:
         english: level
         french: ''
         portuguese: ''
         spanish: nivel
         turkish: seviye
+
+  - ladino: niveles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: levels
+        french: ''
+        portuguese: ''
+        spanish: niveles
+        turkish: seviye
+
+
+examples: []
