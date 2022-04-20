@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: saludes
     accented: salúdes
+
     gender: feminine
     number: plural
 
