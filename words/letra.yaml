@@ -1,13 +1,14 @@
-examples:
--   ladino: Espero ke mi letra te tope sano i saludozo.
 grammar: null
 id: '669'
 origen: Jeneral
+
 versions:
--   accented: létra
+  - ladino: letra
+    accented: létra
+
     gender: feminine
-    ladino: letra
     number: singular
+
     translations:
         english: letter
         french: lettre
@@ -20,3 +21,26 @@ versions:
         turkish:
         - mektup
         - harf
+
+  - ladino: letras
+    accented: létras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: letters
+        french: lettre
+        portuguese:
+        - letras
+        - cartas
+        spanish:
+        - cartas
+        - letras
+        turkish:
+        - mektup
+        - harf
+
+
+examples:
+  - ladino: Espero ke mi letra te tope sano i saludozo.
