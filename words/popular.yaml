@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2076'
 origen: Jeneral
+
 versions:
--   accented: popular
-    ladino: popular
+  - ladino: popular
+
     translations:
         english: popular
         french: ''
         portuguese: ''
         spanish: popular
         turkish: popüler
+
+examples: []
