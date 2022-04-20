@@ -1,19 +1,19 @@
-comments:
-- 'grammar: interj.'
-examples:
--   ladino: 'No tengo razon? Ansina ke sea: Adiyo!'
 grammar: null
 id: '2799'
 origen: Estanbol
+
 versions:
--   accented: adío
+  - ladino: adio
+
     alternative-spelling:
-    -   accented: adiyo
-        ladino: adiyo
-    ladino: adio
+      - ladino: adiyo
+
     translations:
         english: good-bye
         french: adieu
         portuguese: adeus
         spanish: adiós
         turkish: allaha ısmarladık
+
+examples:
+  - ladino: 'No tengo razon? Ansina ke sea: Adiyo!'
