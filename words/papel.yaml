@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2046'
 origen: Jeneral
+
 versions:
--   accented: papel
-    ladino: papel
+  - ladino: papel
+
+    gender: masculine
+    number: singular
+
     translations:
         english: paper
         french: ''
         portuguese: ''
         spanish: papel
         turkish: kâğıt
+
+  - ladino: papeles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: papers
+        french: ''
+        portuguese: ''
+        spanish: papeles
+        turkish: kâğıt
+
+
+examples: []
