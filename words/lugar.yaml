@@ -6,7 +6,7 @@ versions:
   - ladino: lugar
     accented: lugar
 
-    #gender: NA # masculine feminine
+    gender: masculine
     number: singular
 
     translations:
@@ -19,7 +19,7 @@ versions:
   - ladino: lugares
     accented: lugares
 
-    #gender: NA # masculine feminine
+    gender: masculine
     number: plural
 
     translations:
