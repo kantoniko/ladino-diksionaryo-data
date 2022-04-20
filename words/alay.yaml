@@ -1,13 +1,14 @@
-examples:
--   ladino: Mos kedaron un alay de kozas a estudiar.
 grammar: null
 id: '3020'
 origen: Jeneral
+
 versions:
--   accented: aláy
+  - ladino: alay
+    accented: aláy
+
     gender: masculine
-    ladino: alay
     number: singular
+
     translations:
         english: multitude
         french: multitude
@@ -18,3 +19,6 @@ versions:
         turkish:
         - çokluk
         - bir alay
+
+examples:
+  - ladino: Mos kedaron un alay de kozas a estudiar.
