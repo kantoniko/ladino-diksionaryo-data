@@ -1,11 +1,11 @@
-examples:
--   ladino: Dizir las kozas en lashon i ladino. (Neh.)
 grammar: null
 id: '2516'
 origen: Jeneral
+
 versions:
--   accented: lashón
-    ladino: lashon
+  - ladino: lashon
+    accented: lashón
+
     translations:
         english:
         - language
@@ -18,3 +18,6 @@ versions:
         turkish:
         - lisan
         - dil
+
+examples:
+  - ladino: Dizir las kozas en lashon i ladino. (Neh.)
