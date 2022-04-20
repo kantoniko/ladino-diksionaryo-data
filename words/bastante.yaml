@@ -1,11 +1,11 @@
-examples:
--   ladino: Lavorava muncho, ma no ganava bastante.
 grammar: null
 id: '2405'
 origen: Jeneral
+
 versions:
--   accented: bastánte
-    ladino: bastante
+  - ladino: bastante
+    accented: bastánte
+
     translations:
         english:
         - enough
@@ -16,3 +16,6 @@ versions:
         turkish:
         - yeterince
         - kâfi
+
+examples:
+  - ladino: Lavorava muncho, ma no ganava bastante.
