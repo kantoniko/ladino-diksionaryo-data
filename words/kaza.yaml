@@ -9,7 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: house
+        english:
+          - house
+          - home
         french: ''
         portuguese: ''
         spanish: casa
@@ -21,7 +23,9 @@ versions:
     number: plural
 
     translations:
-        english: houses
+        english:
+          - houses
+          - homes
         french: ''
         portuguese: ''
         spanish: casas
