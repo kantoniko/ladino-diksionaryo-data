@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1547'
 origen: Jeneral
+
 versions:
--   accented: pekado
-    ladino: pekado
+  - ladino: pekado
+
     translations:
         english: a pity
         french: ''
         portuguese: ''
         spanish: lástima
         turkish: yazık
+
+examples: []
