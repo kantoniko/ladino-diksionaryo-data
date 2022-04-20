@@ -1,16 +1,19 @@
-examples:
--   ladino: Ke el Dio de paz en los reynados.
 grammar: null
 id: '2569'
 origen: Jeneral
+
 versions:
--   accented: paz
+  - ladino: paz
+
     gender: feminine
-    ladino: paz
     number: singular
+
     translations:
         english: peace
         french: ''
         portuguese: ''
         spanish: paz
         turkish: barış
+
+examples:
+  - ladino: Ke el Dio de paz en los reynados.
