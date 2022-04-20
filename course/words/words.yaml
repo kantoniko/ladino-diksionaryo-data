@@ -1,76 +1,4 @@
 ------------------------------------
-  - page:                pajina
-  - paper:               (el) papel
-  - papers:              (los) papeles
-  - parallel:            paralela
-  - parallel:            paralelo
-  - partner:             kompanyera
-  - partner:             kompanyero
-  - partner:             haver
-  - partners:            haverim
-  - party:               fiesta
-  - peace:               (la) paz
-  - people:              personas
-  - people:              djente
-  - person:              persona
-  - phone:               (el) telefon
-  - mobile phone:        (el) telefon selular
-  - photo:               (la) foto
-  - phrase:              (la) fraza
-  - phrases:             (las) frazas
-  - pity:                pekado
-  - place:               (el) lugar
-  - places:              (los) lugares
-  - pleasure:            plazer
-  - please:              por favor
-  - poet:                poeta
-  - poets:               poetas
-  - poem:                (la) poezia
-  - poems:               (las) poezias
-  - poetry:              (la) poezia
-  - police:              (la) polisiya
-  - popular:             populare
-  - populars:            populares
-  - possible:            posivle
-  - presence:            (la) prezensia
-  - pretty:              lindo
-  - pretty:              linda
-  - pretty:              ermozo
-  - pretty:              ermoza
-  - price:               (el) presio
-  - prices:              (los) presio
-  - primary:             primarias
-  - private:             privada
-  - private:             privado
-  - product:             produkto
-  - products:            produktos
-  - program:             (el) program
-  - propaganda:          (la) propaganda
-  - proverb:             (el) refran
-  - to be pronunced:     pronunsiado
-  - psychopatology:      (la) psikopatologia
-  - public:              publiko
-  - public:              publikos
-  - publications:        publikasiones
-  - Purim:               Purim
-  - purse:               (la) chanta
-
-  - quite:               bastante
-  - quick:               presto
-  - quickly:             presto
-
-  - rabbi:               haham
-  - reason:              meoyo
-  - reason:              razon
-  - rebirth:             renasimiento
-  - recently:            resientemente
-  - refugees:            refujiados
-  - relation:            relasion
-  - relations:           relasiones
-  - religion:            relijion
-  - religions:           relijiones
-  - remark:              remarka
-  - respect:             respekto
   - response:            (la) repuesta
   - restaurant:          (el) restoran
   - restroom:            tualet
@@ -409,4 +337,25 @@ Phrases:
   - open:                aviertos
   - other:               otruno
   - other:               otruna
+  - mobile phone:        (el) telefon selular
+  - pleasure:            plazer
+  - please:              por favor
+  - popular:             populare
+  - populars:            populares
+  - presence:            (la) prezensia
+  - primary:             primarias
+  - product:             produkto
+  - products:            produktos
+  - propaganda:          (la) propaganda
+  - to be pronunced:     pronunsiado
+  - psychopatology:      (la) psikopatologia
+  - publications:        publikasiones
+  - Purim:               Purim
+  - purse:               (la) chanta
+  - rebirth:             renasimiento
+  - recently:            resientemente
+  - refugees:            refujiados
+  - relation:            relasion
+  - relations:           relasiones
+  - remark:              remarka
 
