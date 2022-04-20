@@ -1,12 +1,14 @@
-examples: []
 grammar: null
 id: '2677'
 origen: Jeneral
+
 versions:
--   accented: fotó
+  - ladino: foto
+    accented: fotó
+
     gender: feminine
-    ladino: foto
     number: singular
+
     translations:
         english: photo
         french: ''
@@ -15,3 +17,21 @@ versions:
         turkish:
         - resim
         - fotograf
+
+  - ladino: fotos
+    accented: fotós
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: photos
+        french: ''
+        portuguese: ''
+        spanish: fotos
+        turkish:
+        - resim
+        - fotograf
+
+
+examples: []
