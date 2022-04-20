@@ -1,16 +1,35 @@
-comments:
-- 'grammar: m+f'
-examples:
--   ladino: Enkuentro de poetas ke eskriven en Ladino.
 grammar: null
 id: '2574'
 origen: Jeneral
+
 versions:
--   accented: poéta
-    ladino: poeta
+  - ladino: poeta
+    accented: poéta
+
+    gender: both
+    number: singular
+
     translations:
         english: poet
         french: ''
         portuguese: ''
         spanish: poeta
         turkish: şair
+
+  - ladino: poetas
+    accented: poétas
+
+    gender: both
+    number: plural
+
+    translations:
+        english: poets
+        french: ''
+        portuguese: ''
+        spanish: poetas
+        turkish: şair
+
+
+
+examples:
+  - ladino: Enkuentro de poetas ke eskriven en Ladino.
