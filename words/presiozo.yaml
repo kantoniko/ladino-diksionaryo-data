@@ -10,6 +10,9 @@ versions:
       - ladino: presyozo
         accented: presyózo
 
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - precious
@@ -20,6 +23,70 @@ versions:
         turkish:
         - değerli
         - kıymetli
+
+  - ladino: presioza
+    accented: presióza
+
+    alternative-spelling:
+      - ladino: presyoza
+        accented: presyóza
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - precious
+        - valuable
+        french: ''
+        portuguese: ''
+        spanish: preciosa
+        turkish:
+        - değerli
+        - kıymetli
+
+  - ladino: presiozos
+    accented: presiózos
+
+    alternative-spelling:
+      - ladino: presyozos
+        accented: presyózos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - precious
+        - valuable
+        french: ''
+        portuguese: ''
+        spanish: preciosos
+        turkish:
+        - değerli
+        - kıymetli
+
+  - ladino: presiozas
+    accented: presiózas
+
+    alternative-spelling:
+      - ladino: presyozas
+        accented: presyózas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - precious
+        - valuable
+        french: ''
+        portuguese: ''
+        spanish: preciosas
+        turkish:
+        - değerli
+        - kıymetli
+
 
 examples:
   - ladino: Keremos salvar muestra lingua presioza.
