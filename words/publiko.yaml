@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2119'
 origen: Jeneral
+
 versions:
--   accented: publiko
-    ladino: publiko
+  - ladino: publiko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: public
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - halk
         - seyirciler
+
+  - ladino: publikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: public
+        french: ''
+        portuguese: ''
+        spanish: públicos
+        turkish:
+        - halk
+        - seyirciler
+
+
+examples: []
