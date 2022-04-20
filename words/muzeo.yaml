@@ -1,17 +1,42 @@
-examples:
--   ladino: Komo dize H.-V. Sephiha, somos un muzeo bivo.
 grammar: null
 id: '2549'
 origen: Jeneral
+
 versions:
--   accented: muzéo
+  - ladino: muzeo
+    accented: muzéo
+
     alternative-spelling:
-    -   accented: muséo
-        ladino: museo
-    ladino: muzeo
+      - ladino: museo
+        accented: muséo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: museum
         french: ''
         portuguese: ''
         spanish: museo
         turkish: müze
+
+  - ladino: muzeos
+    accented: muzéos
+
+    alternative-spelling:
+      - ladino: museos
+        accented: muséos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: museums
+        french: ''
+        portuguese: ''
+        spanish: museos
+        turkish: müze
+
+
+examples:
+  - ladino: Komo dize H.-V. Sephiha, somos un muzeo bivo.
