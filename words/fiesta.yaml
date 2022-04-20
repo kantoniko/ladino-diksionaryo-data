@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '416'
 origen: Jeneral
+
 versions:
--   accented: fiesta
-    ladino: fiesta
+  - ladino: fiesta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: feast
         french: ''
         portuguese: ''
         spanish: fiesta
         turkish: bayram
+
+  - ladino: fiestas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: feasts
+        french: ''
+        portuguese: ''
+        spanish: fiestas
+        turkish: bayram
+
+
+examples: []
