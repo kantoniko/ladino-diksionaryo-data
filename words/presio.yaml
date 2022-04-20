@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2097'
 origen: Jeneral
+
 versions:
--   accented: presio
-    ladino: presio
+  - ladino: presio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: price
         french: ''
         portuguese: ''
         spanish: precio
         turkish: fiyat
+
+examples: []
