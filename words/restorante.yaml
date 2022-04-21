@@ -1,13 +1,34 @@
-examples: []
 grammar: null
 id: '945'
 origen: Jeneral
+
 versions:
--   accented: restorante
-    ladino: restorante
+  - ladino: restorante
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: restorant
+
     translations:
         english: restaurant
         french: ''
         portuguese: ''
         spanish: restaurante
         turkish: lokanta
+
+  - ladino: restorantes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: restaurants
+        french: ''
+        portuguese: ''
+        spanish: restaurantes
+        turkish: lokanta
+
+
+examples: []
