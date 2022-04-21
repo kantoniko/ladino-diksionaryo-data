@@ -1,11 +1,10 @@
-examples:
--   ladino: Es tan grande ke no kave por la puerta.
 grammar: adverb
 id: '2631'
 origen: Jeneral
+
 versions:
--   accented: tan
-    ladino: tan
+  - ladino: tan
+
     translations:
         english: so
         french: ''
@@ -14,3 +13,6 @@ versions:
         turkish:
         - o kadar
         - o derece
+
+examples:
+  - ladino: Es tan grande ke no kave por la puerta.
