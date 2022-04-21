@@ -1,16 +1,20 @@
-examples:
--   ladino: Lo bushkaron kon el nombre i la alkunya.
 grammar: null
 id: '79'
 origen: Jeneral
+
 versions:
--   accented: alkúnya
+  - ladino: alkunya
+    accented: alkúnya
+
     gender: feminine
-    ladino: alkunya
     number: singular
+
     translations:
         english: surname
         french: ''
         portuguese: ''
         spanish: apellido
         turkish: soyadı
+
+examples:
+  - ladino: Lo bushkaron kon el nombre i la alkunya.
