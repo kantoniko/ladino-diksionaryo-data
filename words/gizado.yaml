@@ -1,0 +1,18 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: gizado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: stew
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: guisado
+      turkish: ''
+
+examples: []
