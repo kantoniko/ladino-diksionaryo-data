@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2043'
 origen: Jeneral
+
 versions:
--   accented: ovra
-    ladino: ovra
+  - ladino: ovra
+
     translations:
         english: work
         french: ''
         portuguese: ''
         spanish: obra
         turkish: eser
+
+examples: []
