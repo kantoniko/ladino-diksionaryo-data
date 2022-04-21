@@ -11,7 +11,7 @@ versions:
   - ladino:
     #accented:
 
-    #gender: NA # masculine feminine
+    #gender: NA # masculine feminine both
     #number: singular plural
 
     #alternative-spelling:
