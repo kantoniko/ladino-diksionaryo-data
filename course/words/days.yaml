@@ -1,11 +1,3 @@
-Skill:
-  Name: Days
-  Id: 203
-
-New words: []
-
-
-Two-way-dictionary:
   - day:                  dia
   - days:                 dias
   - day:                  diya
@@ -24,15 +16,3 @@ Two-way-dictionary:
 
   - hour:                 ora
   - hours:                oras
-
-Phrases:
-  - Phrase: oy es la amanyana del ayer
-    Translation: Today is the tomorrow of yesterday
-  - Phrase: A las diez de la manyana
-    Translation: At ten o'clock in the morning
-  - Phrase: Yo komo la sena tadre
-    Translation: I eat the dinner late
-  - Phrase: Yo komo la sena tadre
-    Translation: I eat the dinner late
-
-

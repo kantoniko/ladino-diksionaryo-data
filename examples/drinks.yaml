@@ -1,0 +1,14 @@
+examples:
+  - ladino: Puedes dar un sumo de portokal?
+    english: Can you give an orange juice?
+  - ladino: Un vazo del vino, por favor.
+    english: A glass of wine, please.
+  - ladino: Me puedes dar una redoma de agua, por favor?
+    english: Can you give me a bottle of water, please?
+  - ladino: Yo bevo un findjan de kafe.
+    english: I drink a cup of coffee.
+  - ladino: Ke prefieres bever, un kafe espreso o un kapuchino?
+    english: What do your prefer to drink, an espresso or a capuchino?
+  - ladino: Yo kero una redoma de agua i un vazo de {agua kon gaz}
+    english: I {would like} a bottle of water and a glass of {sparkling water}
+

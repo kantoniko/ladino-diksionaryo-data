@@ -1,10 +1,3 @@
-Skill:
-  Name: Colors
-  Id: 209
-
-New words: []
-
-Two-way-dictionary:
   - azure: blu de syelo
   - azure: azul
   - blue: blu
@@ -15,17 +8,4 @@ Two-way-dictionary:
   - purple: mor
   - purple: mov
   - purple: morado
-
-Phrases:
-  - Phrase:  kolor blu
-    Translation: blue color
-  - Phrase:  flor amariyo
-    Translation: yellow flower
-  - Phrase: Kolorado es una de las tres kolores primarias.
-    Translation: Red is one of the primary colors.
-  - Phrase: Amariyo es una de las tres kolores primarias.
-    Translation: Yellow is one of the primary colors.
-  - Phrase: Mavi es una de las tres kolores primarias.
-    Translation: Blue is one of the primary colors.
-
 

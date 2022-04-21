@@ -1,0 +1,12 @@
+examples:
+  - ladino:  kolor blu
+    english: blue color
+  - ladino:  flor amariyo
+    english: yellow flower
+  - ladino: Kolorado es una de las tres kolores primarias.
+    english: Red is one of the primary colors.
+  - ladino: Amariyo es una de las tres kolores primarias.
+    english: Yellow is one of the primary colors.
+  - ladino: Mavi es una de las tres kolores primarias.
+    english: Blue is one of the primary colors.
+
