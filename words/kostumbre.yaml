@@ -6,6 +6,9 @@ versions:
   - ladino: kostumbre
     accented: kostúmbre
 
+    gender: both
+    number: singular
+
     translations:
         english:
         - custom
@@ -19,6 +22,27 @@ versions:
         - töre
         - anane
         - alışkanlık
+
+  - ladino: kostumbres
+    accented: kostúmbres
+
+    gender: both
+    number: plural
+
+    translations:
+        english:
+        - customs
+        - habits
+        french: ''
+        portuguese: ''
+        spanish: costumbres
+        turkish:
+        - örf
+        - âdet
+        - töre
+        - anane
+        - alışkanlık
+
 
 examples:
   - ladino: Muestra erensia kultural, ke es la lingua, kultura, uzos i kostumbres...
