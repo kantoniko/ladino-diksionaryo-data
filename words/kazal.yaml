@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '546'
 origen: Jeneral
+
 versions:
--   accented: kazal
-    ladino: kazal
+  - ladino: kazal
+
     translations:
         english: village
         french: ''
         portuguese: ''
         spanish: pueblo
         turkish: köy
+
+examples: []
