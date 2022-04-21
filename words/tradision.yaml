@@ -1,11 +1,18 @@
-examples:
--   ladino: Entre los djudios de Izmir ay una tradision ke es unika en el mundo entero.
 grammar: null
-id: '2349'
+id: '2349,2350,2637'
 origen: Jeneral
+
 versions:
--   accented: tradision
-    ladino: tradision
+  - ladino: tradision
+    accented: tradisión
+
+    alternative-spelling:
+      - ladino: tradisyon
+        accented: tradisyón
+
+    gender: feminine
+    number: singular
+
     translations:
         english: tradition
         french: ''
@@ -15,6 +22,27 @@ versions:
         - gelenek
         - anane
 
-# tradision,Entre los djudios de Izmir ay una tradision ke es unika en el mundo entero.,tradición,tradition,"gelenek, anane",Jeneral,2349,,
-# tradision,"Entre los djudios de Izmir, ay una tradision ke es unika en el mundo entero.",tradición,tradition,"gelenek, anane",Jeneral,2350,,
-# "tradisión, tradisyón (f)",Entre los djudios de Izmir ay una tradision ke es unika en el mundo entero.,tradición,tradition,"gelenek, anane",Jeneral,2637,,
+  - ladino: tradisiones
+    accented: tradisiónes
+
+    alternative-spelling:
+      - ladino: tradisyones
+        accented: tradisyónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: traditions
+        french: ''
+        portuguese: ''
+        spanish: tradiciónes
+        turkish:
+        - gelenek
+        - anane
+
+
+examples:
+  - ladino: Entre los djudios de Izmir ay una tradision ke es unika en el mundo entero.
+
+
