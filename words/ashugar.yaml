@@ -1,16 +1,20 @@
-examples:
--   ladino: Ashugar i kontado te puedo dar, la buena ventura vátela a bushkar. (Neh.)
 grammar: null
 id: '2663'
 origen: Jeneral
+
 versions:
--   accented: ashugár
+  - ladino: ashugar
+    accented: ashugár
+
     gender: masculine
-    ladino: ashugar
     number: singular
+
     translations:
         english: trousseau
         french: ''
         portuguese: ''
         spanish: ajuar
         turkish: çeyiz
+
+examples:
+  - ladino: Ashugar i kontado te puedo dar, la buena ventura vátela a bushkar. (Neh.)
