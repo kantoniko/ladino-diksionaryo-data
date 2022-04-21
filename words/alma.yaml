@@ -1,17 +1,14 @@
-examples:
--   ladino: 'Ke su alma repoze en paz.
-
-        Lo kero komo mi alma.
-
-        El ojo ve, la alma dezea.'
 grammar: null
 id: '2381'
 origen: Jeneral
+
 versions:
--   accented: álma
+  - ladino: alma
+    accented: álma
+
     gender: feminine
-    ladino: alma
     number: singular
+
     translations:
         english:
         - soul
@@ -23,3 +20,8 @@ versions:
         - can
         - ruh
         - tin
+
+examples:
+  - ladino: Ke su alma repoze en paz.
+  - ladino: Lo kero komo mi alma.
+  - ladino: El ojo ve, la alma dezea.
