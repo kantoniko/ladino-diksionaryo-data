@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '194'
 origen: Jeneral
+
 versions:
--   accented: bovo
+  - ladino: bovo
+
     alternative-spelling:
-    -   accented: torpe
-        ladino: torpe
-    ladino: bovo
+      - ladino: torpe
+
     translations:
         english:
         - silly
@@ -20,3 +20,5 @@ versions:
         turkish:
         - salak
         - aptal
+
+examples: []
