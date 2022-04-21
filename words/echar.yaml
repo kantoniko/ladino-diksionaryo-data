@@ -1,17 +1,24 @@
-examples: []
-grammar: null
-id: '286'
+grammar: verb
+id: '286,1748'
 origen: Jeneral
+
 versions:
--   accented: echar
-    ladino: echar
+  - ladino: echar
+
     translations:
-        english: throw
+        english:
+          - throw
+          - hurl
         french: ''
         portuguese: ''
         spanish:
-        - echar
-        - arrojar
-        turkish: atmak
+          - echar
+          - arrojar
+          - abalanzar
+        turkish:
+          - atmak
+          - sallamak
 
-# echar,,abalanzar,hurl,sallamak,Jeneral,1748,,
+conjugations: {}
+
+examples: []
