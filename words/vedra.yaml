@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1532'
 origen: Jeneral
+
 versions:
--   accented: vedra
-    ladino: vedra
+  - ladino: vedra
+    accented: vedra
+
     translations:
         english: truth
         french: ''
         portuguese: ''
         spanish: verdad
         turkish: gerçek
+
+examples: []
