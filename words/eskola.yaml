@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '356'
 origen: Jeneral
+
 versions:
--   accented: eskola
-    ladino: eskola
+  - ladino: eskola
+
+    gender: feminine
+    number: singular
+
     translations:
         english: school
         french: ''
         portuguese: ''
         spanish: escuela
         turkish: okul
+
+  - ladino: eskolas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: schools
+        french: ''
+        portuguese: ''
+        spanish: escuelas
+        turkish: okul
+
+
+examples: []
