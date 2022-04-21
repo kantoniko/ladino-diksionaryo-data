@@ -1,10 +1,3 @@
-Skill:
-  Name: Kitchen
-  Id: 232
-
-New words: []
-
-Two-way-dictionary:
   - bottle:              (la) redoma
   - bottle:              (la) ridoma
   - cup:                 (la) tasa
@@ -28,12 +21,4 @@ Two-way-dictionary:
   - refrigerator:        (el) frijider
   - spoon:               (la) kuchara
 
-Phrases:
-  - Phrase: Mozotros kozemos en la kozina
-    Translation: We cook in the kitchen
-  - Phrase: Un findjan de chay, por favor.
-    Translation: A cup of tea, please.
-  - Phrase: Un findjan de kafe, por favor.
-    Translation: A cup of coffee, please.
-  - Phrase: Me puedes dar una redoma de agua, por favor?
-    Translation: Can you give me a bottle of water, please?
+

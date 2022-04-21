@@ -1,0 +1,30 @@
+examples:
+  - ladino: el pan
+    english: the bread
+  - ladino: "{Tengo menester} kozer el arroz"
+    english: "I need help to cook the rice"
+  - ladino: Yo kero estudiar Ladino.
+    english: I want to study Ladino.
+  - ladino: "{Tengo menester} kon Ladino"
+    english: "I need help with Ladino"
+  - ladino: Puedes meldar en Ladino?
+    english: Can you read in Ladino?
+  - ladino: "{Tengo ambre}"
+    english: "{I am hungry}"
+  - ladino: David beve agua
+    english: David drinks water
+  - ladino: Mozotros dos bevemos bira
+    english: The two of us drink beer
+  - ladino: David kome pan
+    english: David eats bread
+  - ladino: Yo komo un pastel
+    english: I eat a cake
+  - ladino: Yo kero bever un chay
+    english: I want to drink a tea
+  - ladino: Yo bevo una tasa de chay
+    english: I drink a cup of tea
+  - ladino: Me plazer sopa kayente
+    english: I like hot soup
+  - ladino: el kartof
+    english: the potato
+

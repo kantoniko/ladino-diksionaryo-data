@@ -1,10 +1,3 @@
-Skill:
-  Name: Questions
-  Id: 202
-
-New words: []
-
-Two-way-dictionary:
   - how:       ke
   - how:       komo
   - how many:  kuanto
@@ -27,27 +20,4 @@ Two-way-dictionary:
   - whose:     de ken
   - why:       de ke
 
-Phrases:
-  - Phrase: "Komo {te yamas}"
-    Translation: What is your name
-  - Phrase: De ke alkunya sos?
-    Translation: What is your surname?
-  - Phrase: Ke linguas avlas?
-    Translation: What languages do you speak?
-  - Phrase: Ke edad tyenes?
-    Translation: How old are you?
-  - Phrase: Ande lavoras?
-    Alternative versions:
-      - Onde lavoras?
-    Translation: Where do you work?
-  - Phrase: Ande moras?
-    Alternative versions:
-      - Onde moras?
-    Translation: Where do you live?
-  - Phrase: Kuantos anyos tienes?
-    Translation: How old are you?
-  - Phrase: "Komo {te plaze} la sivdad?"
-    Translation: How do you like the city?
-  - Phrase: Kualo es esto?
-    Translation: What is this?
 

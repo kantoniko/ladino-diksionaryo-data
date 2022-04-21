@@ -1,18 +1,7 @@
-Skill:
-  Name: house
-  Id: 222
-
-New words: []
-
-Two-way-dictionary:
   - armchair: (el) fotolyo
   - bathroom: (el) banyo
   - bedroom:  (el) dormitoro
   - chair:    (la) siya
   - table:    (la) meza
   - window:   (la) ventana
-
-Phrases:
-  - Phrase: la meza
-    Translation: table
 

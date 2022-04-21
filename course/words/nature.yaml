@@ -1,10 +1,3 @@
-Skill:
-  Name: nature
-  Id: 220
-
-New words: []
-
-Two-way-dictionary:
   - air:      aire
   - air:      ayre
   - beach:    plaj
@@ -21,17 +14,4 @@ Two-way-dictionary:
   - tree:     arvol
   - wind:     aire
 
-Phrases:
-  - Phrase: Buen viaje!
-    Translation: Have a good trip!
-    Also accepted:
-      - Have a nice trip!
 
-  - Phrase: Vamos a plaj!
-    Translation: Let's go to the beach!
-
-  - Phrase: Mar o montanya?
-    Translation: Sea or mountain?
-
-  - Phrase: El sol sale atraves de las nuves
-    Translation: The sun {comes out} accross the clouds
