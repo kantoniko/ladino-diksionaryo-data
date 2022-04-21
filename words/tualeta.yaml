@@ -1,13 +1,34 @@
-examples: []
 grammar: null
 id: '1107'
 origen: Jeneral
+
 versions:
--   accented: tualeta
-    ladino: tualeta
+  - ladino: tualeta
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: tualet
+
     translations:
         english: water closet
         french: ''
         portuguese: ''
         spanish: wáter
         turkish: tualet
+
+  - ladino: tualetas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: water closet
+        french: ''
+        portuguese: ''
+        spanish: wáter
+        turkish: tualet
+
+
+examples: []
