@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1302'
 origen: Jeneral
+
 versions:
--   accented: endjuntos
-    ladino: endjuntos
+  - ladino: endjuntos
+
     translations:
         english:
         - together
@@ -17,3 +17,5 @@ versions:
         turkish:
         - beraber
         - hep birlikte
+
+examples: []
