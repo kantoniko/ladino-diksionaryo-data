@@ -1,16 +1,18 @@
-examples:
--   ladino: El tiempo no tiene ni empesijo, ni fin. (Neh.)
 grammar: null
 id: '1078'
 origen: Jeneral
+
 versions:
--   accented: tiémpo
+  - ladino: tiempo
+    accented: tiémpo
+
     alternative-spelling:
-    -   accented: tyémpo
-        ladino: tyempo
+      - ladino: tyempo
+        accented: tyémpo
+
     gender: masculine
-    ladino: tiempo
     number: singular
+
     translations:
         english:
         - while
@@ -25,3 +27,6 @@ versions:
         - süre
         - hava
         - zaman
+
+examples:
+  - ladino: El tiempo no tiene ni empesijo, ni fin. (Neh.)
