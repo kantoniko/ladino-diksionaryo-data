@@ -1,16 +1,32 @@
-examples:
--   ladino: Toparon de debasho de la tierra una kamareta muy vieja.
 grammar: null
 id: '520'
 origen: Jeneral
+
 versions:
--   accented: kamareta
+  - ladino: kamareta
+
     gender: feminine
-    ladino: kamareta
     number: singular
+
     translations:
         english: room
         french: chambre
         portuguese: quarto
         spanish: cuarto
         turkish: oda
+
+  - ladino: kamaretas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: rooms
+        french: chambre
+        portuguese: quarto
+        spanish: cuartos
+        turkish: oda
+
+
+examples:
+  - ladino: Toparon de debasho de la tierra una kamareta muy vieja.
