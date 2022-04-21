@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '1098'
 origen: Jeneral
 versions:
--   accented: trezoro
-    ladino: trezoro
+  - ladino: trezoro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: treasure
         french: ''
         portuguese: ''
         spanish: tesoro
         turkish: hazine
+
+  - ladino: trezoros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: treasures
+        french: ''
+        portuguese: ''
+        spanish: tesoros
+        turkish: hazine
+
+
+examples: []
