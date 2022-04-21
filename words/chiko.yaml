@@ -10,7 +10,9 @@ versions:
     number: singular
 
     translations:
-        english: small
+        english:
+          - small
+          - young
         french: petit
         portuguese: pequeno
         spanish: pequeño
@@ -23,7 +25,9 @@ versions:
     number: singular
 
     translations:
-        english: small
+        english:
+          - small
+          - young
         french: petite
         portuguese: pequena
         spanish: pequeña
