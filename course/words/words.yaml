@@ -1,165 +1,4 @@
 ------------------------------------
-  - response:            (la) repuesta
-  - restaurant:          (el) restoran
-  - restroom:            tualet
-  - right:               derecha
-  - right:               djusta
-  - right:               djusto
-  - right:               razon
-  - ring:                (el) aniyo
-  - room:                kamareta
-  - rule:                (la) regla
-  - rules:               (las) reglas
-
-  - same:                mizma
-  - same:                mizmas
-  - same:                mizmo
-  - same:                mizmos
-  - sarcastic:           sarkastika
-  - saying:              (la) dicha
-  - sayings:             (las) dichas
-  - saying:              (el) refran
-  - school:              (la) eskola
-  - schools:             (la) eskolas
-  - sect:                (el) sekto
-  - sects:               (los) sektos
-  - section:             seksion
-  - sections:            seksiones
-  - sentence:            (la) fraza
-  - sentences:           (las) frazas
-  - Sephardic:           Sefaradi
-  - Sephardic:           Sefaradim
-  - Sephardic:           Sefaradis
-  - serial:              serial
-  - settled down:        instalaron
-  - several:             varias
-  - shabat:              shabat
-  - shabat:              shabad
-  - shalom:              shalom
-  - short film:          filmiko
-  - short films:         filmikos
-  - short story:         kuentiziko
-  - short stories:       kuentizikos
-  - sick:                hazino
-  - sick:                hazina
-  - side:                vanda
-  - silly:               bovo
-  - similar:             semejante
-  - since:               desde
-  - since:               deste
-  - site:                sitio
-  - small:               chiko
-  - small:               chika
-  - small boy:           (el) ijiko
-  - so:                  ansi (adv.)
-  - so:                  tan (adv.)
-  - some:                unos
-  - song:                (la) kantika
-  - songs:               (las) kantikas
-  - sorrow:              pena
-  - soul:                alma
-  - speech:              diskurso
-  - spirit:              alma
-  - sport:               espor
-  - stew:                gizado
-  - stereotip:           stereotipo
-  - stupid:              bovo
-  - subject:             subjeto
-  - substantial:         sostansiozos
-  - substantial:         sostansiozo
-  - such:                komo
-  - sure:                seguro
-  - surname:             alkunya
-
-  - trousseau:           (el) ashugar
-  - take out:            echar
-  - tall:                alta
-  - teacher:             profesor
-  - teachers:            profesores
-  - teacher:             profesora
-  - teachers:            profesoras
-  - team:                ekipo
-  - thank:               grasias
-  - thank you:           mersi
-  - that:                eso
-  - that:                ke
-  - that:                akel
-  - that:                akeya
-  - time:                tiempo
-  - time:                tyempo
-  - time:                vez
-  - time:                vezes
-  - times:               tiempos
-  - the whole:           toda la
-  - themselves:          eyos
-  - then:                entonses
-  - there:               ai
-  - there are:           ay
-  - there:               ayi
-  - these:               estas
-  - these:               estes
-  - these:               estos
-  - this:                este
-  - those:               esos
-  - to:                  a
-  - to:                  al
-  - too:                 tambien
-  - to be given:         akavidarse
-  - together:            djuntos
-  - together:            endjuntos
-  - toilet:              kabine
-  - Torah:               (la) Tora
-  - totally:             totalmente
-  - tradition:           (el/la) kostumbre
-  - tradition:           (la) tradisyon
-  - traditionally:       tradisionalmente
-  - translated:          tresladado
-  - transportation:      transportasyon
-  - treasure:            (la) trezoro
-  - trouble:             pena
-  - true:                vedrad
-  - true:                verdad
-  - type:                djenero
-
-  - yes:                 si
-  - young:               chikos
-  - young:               djoven
-  - young:               djovina
-  - young age:           chikes
-  - young person:        manseva
-  - young person:        mansevo
-  - younger:             mas djoven
-  - younger:             mas djovenes
-  - your:                tu
-
-  - variation:           variasion
-  - Venezualan:          venezuelano
-  - version:             (la) version
-  - versions:            (las) versiones
-  - very:                muy
-  - veteran:             veteranos
-  - village:             kazal
-  - villager:            kazalina
-  - villager:            kazalino
-  - violence:            violensia
-  - virtue:              (la) virtud
-
-  - wallet:              (el) portofolio
-  - warm:                kaliente
-  - warm:                kalientes
-  - was:                 fue
-  - watch:               (la) ora
-  - well:                bien (adv.)
-  - well done:           kol akavod (Hebrew)
-  - web:                 web
-  - with me:             kon mi
-  - without:             sin
-  - woman's:             de mujeres
-  - work:                echo
-  - work:                ovra
-  - works:               ovras
-  - world:               (el) mundo
-  - world-wide:          mundial
 
 
 Phrases:
@@ -358,4 +197,56 @@ Phrases:
   - relation:            relasion
   - relations:           relasiones
   - remark:              remarka
+  - sarcastic:           sarkastika
+  - sect:                (el) sekto
+  - sects:               (los) sektos
+  - section:             seksion
+  - sections:            seksiones
+  - Sephardic:           Sefaradi
+  - Sephardic:           Sefaradim
+  - Sephardic:           Sefaradis
+  - serial:              serial
+  - settled down:        instalaron
+  - several:             varias
+  - short film:          filmiko
+  - short films:         filmikos
+  - short story:         kuentiziko
+  - short stories:       kuentizikos
+  - side:                vanda
+  - similar:             semejante
+  - since:               deste
+  - small boy:           (el) ijiko
+  - speech:              diskurso
+  - stereotip:           stereotipo
+  - subject:             subjeto
+  - substantial:         sostansiozo
+  - substantial:         sostansiozos
+  - team:                ekipo
+  - that:                eso
+  - times:               tiempos
+  - the whole:           toda la
+  - themselves:          eyos
+  - there:               ai
+  - to be given:         akavidarse
+  - toilet:              kabine
+  - totally:             totalmente
+  - traditionally:       tradisionalmente
+  - translated:          tresladado
+  - transportation:      transportasyon
+  - young age:           chikes
+  - younger:             mas djoven
+  - younger:             mas djovenes
+  - variation:           variasion
+  - Venezualan:          venezuelano
+  - veteran:             veteranos
+  - violence:            violensia
+  - virtue:              (la) virtud
+  - warm:                kaliente
+  - warm:                kalientes
+  - was:                 fue
+  - well done:           kol akavod (Hebrew)
+  - web:                 web
+  - with me:             kon mi
+  - without:             sin
+  - woman's:             de mujeres
 
