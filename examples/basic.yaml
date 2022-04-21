@@ -60,8 +60,8 @@ examples:
     english: They eat a lot of bread
   - ladino: Ke keres komer? Pan o mansana?
     english: What do you want to eat? Bread or apple?
-  - ladino: Yo kero komer {un poko} de pan.
-    english: I want to eat {a bit} of bread.
+  - ladino: Yo kero komer un poko de pan.
+    english: I want to eat a bit of bread.
   - ladino: Ke keres bever? Leche o Agua?
     english: What do you want to drink? Milk or water?
   - ladino: la agua
@@ -76,12 +76,12 @@ examples:
     english: Where do you live?
   - ladino: Yo moro en Yerushalayim
     english: I live in Jerusalem
-  - ladino: Yo moro en {Mueva York}
-    english: I live in {New York}
+  - ladino: Yo moro en Mueva York
+    english: I live in New York
   - ladino: Tu moras en Yerushalayim? Si, yo moro en Yerushalayim
     english: Do you live in Jerusalem? Yes, I live in Jerusalem
-  - ladino: Tu moras en {Tel Aviv?} No, yo no moro en {Tel Aviv}
-    english: Do you live in {Tel Aviv?} No, I don't live in {Tel Aviv}
+  - ladino: Tu moras en Tel Aviv? No, yo no moro en Tel Aviv
+    english: Do you live in Tel Aviv? No, I don't live in Tel Aviv
   - ladino: Eyos moran en sus kaza
     english: They live in their house
 
