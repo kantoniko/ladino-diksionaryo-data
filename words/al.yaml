@@ -2,8 +2,6 @@ grammar: preposition
 id: '2377'
 origen: Jeneral
 
-comments:
-  - 'al = a el'
 
 versions:
   - ladino: al
@@ -24,4 +22,5 @@ versions:
 
 examples:
   - ladino: Kere amostrar su mujer al mundo entero.
+  - ladino: "al" es igual a "a el"
 
