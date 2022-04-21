@@ -1,19 +1,42 @@
-examples:
--   ladino: Una de las kantikas ke kanto es una ke tengo sintido en Izmir.
 grammar: null
 id: '1364'
 origen: Jeneral
+
 versions:
--   accented: kantíka
+  - ladino: kantika
+    accented: kantíka
+
     alternative-spelling:
-    -   accented: kantíga
-        ladino: kantiga
+      - ladino: kantiga
+        accented: kantíga
+
     gender: feminine
-    ladino: kantika
     number: singular
+
     translations:
         english: song
         french: ''
         portuguese: ''
         spanish: canción
         turkish: şarkı
+
+  - ladino: kantikas
+    accented: kantíkas
+
+    alternative-spelling:
+      - ladino: kantigas
+        accented: kantígas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: songs
+        french: ''
+        portuguese: ''
+        spanish: canciónes
+        turkish: şarkı
+
+
+examples:
+  - ladino: Una de las kantikas ke kanto es una ke tengo sintido en Izmir.
