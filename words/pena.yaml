@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '850'
 origen: Jeneral
+
 versions:
--   accented: pena
-    ladino: pena
+  - ladino: pena
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - sorrow
@@ -15,3 +18,5 @@ versions:
         turkish:
         - zahmet
         - üzüntü
+
+examples: []
