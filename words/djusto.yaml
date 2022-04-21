@@ -1,11 +1,14 @@
-examples:
--   ladino: Pagan djustos por pekadores. (Neh.)
 grammar: null
 id: '2428'
 origen: Jeneral
+
 versions:
--   accented: djústo
-    ladino: djusto
+  - ladino: djusto
+    accented: djústo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - just
@@ -19,3 +22,67 @@ versions:
         - tamam
         - doğru
         - adil
+
+  - ladino: djusta
+    accented: djústa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - just
+        - right
+        - fair
+        french: ''
+        portuguese: ''
+        spanish: justa
+        turkish:
+        - tam
+        - tamam
+        - doğru
+        - adil
+
+  - ladino: djustos
+    accented: djústos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - just
+        - right
+        - fair
+        french: ''
+        portuguese: ''
+        spanish: justos
+        turkish:
+        - tam
+        - tamam
+        - doğru
+        - adil
+
+  - ladino: djustas
+    accented: djústas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - just
+        - right
+        - fair
+        french: ''
+        portuguese: ''
+        spanish: justa
+        turkish:
+        - tam
+        - tamam
+        - doğru
+        - adil
+
+
+examples:
+  - ladino: Pagan djustos por pekadores. (Neh.)
