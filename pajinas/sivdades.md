@@ -2,24 +2,26 @@
 
 * [sivdad](/words/ladino/sivdad) -  [sivdad](https://lad.wikipedia.org/wiki/Sivdad) - city
 
-* Belgrado                  - Belgrad
-* Estambul                  - Istanbula - [Istanbul](https://en.wikipedia.org/wiki/Istanbul) - [Estambol](https://lad.wikipedia.org/wiki/Estambol)
-* Estambol                  - Istanbul
-* Hayfa                     - Haifa
-* Izmir                     - Izmir, Turkey
-* Kastoria                  - Kastoria  - [Kastoria](https://en.wikipedia.org/wiki/Kastoria)
-* Livorno                   - Leghorn
-* Monastir                  - Bitoal, N Macedonia  - [Monastir](https://www.jewishvirtuallibrary.org/monastir)
-* Mueva York                - New York  - [New York City](https://en.wikipedia.org/wiki/New_York_City) - [Sivdad de Mueva York](https://lad.wikipedia.org/wiki/Sivdad_de_Mueva_York)
-* Ragusa                    - Dubrovnik, Croatia
-* Smyrna                    - Izmir, Turkey
-* Salonik                   - Thessaloniki
-* Saloniko                  - Thessaloniki [Saloniko](https://lad.wikipedia.org/wiki/Selanik) - [Thessaloniki](https://en.wikipedia.org/wiki/Thessaloniki)
-* Saragosa                  - Saragosa
-* Saray                     - Sarajevo
-* Sofya                     - Sofia
-* Tel Aviv                  - Tel Aviv
-* Tsfat                     - Safed
-* Yeni-Bazar                - Novi Pazar
-* Yerushalayim              - Jerusalem
+Ladino        | Inglez/Lokal                 | Enlases
+------------- | ---------------------------- | -------
+Belgrado      | Belgrad, Serbia              |
+Estambul      | Istanbul, Turkey             | [Estambol](https://lad.wikipedia.org/wiki/Estambol)
+Estambol      | Istanbul, Turkey             |
+Hayfa         | Haifa, Israel                |
+Izmir         | Izmir, Turkey                |
+Kastoria      | Kastoria, Greece             | [Kastoria](https://en.wikipedia.org/wiki/Kastoria)
+Livorno       | Leghorn                      |
+Monastir      | Bitoal, North Macedonia      | [Monastir](https://www.jewishvirtuallibrary.org/monastir), [Bitola](https://en.wikipedia.org/wiki/Bitola)
+Mueva York    | New York, USA                | [Sivdad de Mueva York](https://lad.wikipedia.org/wiki/Sivdad_de_Mueva_York)
+Ragusa        | Dubrovnik, Croatia           | [Dubrovnik](https://en.wikipedia.org/wiki/Dubrovnik)
+Smyrna        | Izmir, Turkey                | [Izmir](https://en.wikipedia.org/wiki/%C4%B0zmir)
+Salonik       | Thessaloniki, Greece         |
+Saloniko      | Thessaloniki, Greece         | [Saloniko](https://lad.wikipedia.org/wiki/Selanik)
+Saragosa      | Saragosa, Spain              |
+Saray         | Sarajevo, Bosnia Herzegovina |
+Sofya         | Sofia, Bulgaria              |
+Tel Aviv      | Tel Aviv, Israel             |
+Tsfat         | Safed, Israel                |
+Yeni-Bazar    | Novi Pazar, Serbia           |
+Yerushalayim  | Jerusalem, Israel            |
 

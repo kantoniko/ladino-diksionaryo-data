@@ -1,41 +1,49 @@
 # Paises
 
+Ladino        | Inglez/Lokal
+------------- | ------------
+Ardjentina    | Argentina
+Bosna         | Bosnia
+Bulgaria      | Bulgaria
+Bulgariya     | Bulgaria
+Fransia       | France
+Ungaria       | Hungary
+Israel        | Israel
+Italya        | Italy
+Meksiko       | Mexico
+Polonya       | Poland
+Espanya       | Spain
+Suedia        | Sweden
+Turkia        | Turkey
 
-* Argentina: Ardjentina
-* Bosnia:    Bosna
-* Bulgaria:  Bulgaria
-* Bulgaria:  Bulgariya
-* France:    Fransia
-* Hungary:   Ungaria
-* Israel:    Israel
-* Italy:     Italya
-* Mexico:    Meksiko
-* Poland:    Polonya
-* Spain:     Espanya
-* Suedia:    Sweden
-* Turkey:    Turkia
 
 
-* Hungarian: ungara
-* Hungarian: ungaro
-* Italian:   italyana
-* Italian:   italiano
-* Spanish:   espanyol
-* Spanish:   espanyola
-* Turkish:   turko
+Ladino    | Ladino    | Inglez/Lokal
+--------- | --------- | ------------
+ungara    | ungaro    | Hungarian
+italyana  | italiano  | Italian
+espanyola | espanyol  | Spanish
+turka     | turko     | Turkish
+
 
 ## [Kontinentes](/words/ladino/kontinentes)
 
-* Africa:    Afrika
-* America:   Amerika
-* Antartica:
-* Asia:      Asia
-* Australia/Oceania:   Asutralia
-* Europe:    Evropa
-* North America: Amerika del Norte / Norte Amerika
-* South America: Amerika del Sur / Sur Amerkia
+Ladino                | Inglez/Lokal
+--------------------- | ------------
+Afrika                | Africa
+Amerika               | America
+                      | Antartica
+Asia                  | Asia
+Asutralia             | Australia/Oceania
+Evropa                | Europe
+Norte Amerika         | North America
+Amerika del Norte     |
+Sur Amerkia           | South America
+Amerika del Sur       |
 
 ## Estados in Estados Unidos
 
-* California: Kalifornia
+Ladino                | Inglez/Lokal
+--------------------- | ------------
+Kalifornia            | California
 
