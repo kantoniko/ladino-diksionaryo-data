@@ -5,6 +5,7 @@ origen: Izmir
 versions:
   - ladino: zirguela
     accented: zirguéla
+
     gender: feminine
     number: singular
 
@@ -17,6 +18,7 @@ versions:
 
   - ladino: zirguelas
     accented: zirguélas
+
     gender: feminine
     number: plural
 

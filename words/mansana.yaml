@@ -1,13 +1,31 @@
-examples: []
-grammar: null
+grammar: noun
 id: '1975'
 origen: Jeneral
+
 versions:
--   accented: mansana
-    ladino: mansana
+  - ladino: mansana
+
+    gender: feminine
+    number: singular
+
     translations:
         english: apple
         french: ''
         portuguese: ''
         spanish: manzana
         turkish: elma
+
+  - ladino: mansanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: apples
+        french: ''
+        portuguese: ''
+        spanish: manzanas
+        turkish: elma
+
+
+examples: []

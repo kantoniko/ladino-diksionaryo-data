@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1657'
 origen: Jeneral
+
 versions:
--   accented: banana
-    ladino: banana
+  - ladino: banana
+
+    gender: feminine
+    number: singular
+
     translations:
         english: banana
         french: ''
         portuguese: ''
         spanish: plátano
         turkish: muz
+
+  - ladino: bananas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: bananas
+        french: ''
+        portuguese: ''
+        spanish: plátanos
+        turkish: muz
+
+
+examples: []

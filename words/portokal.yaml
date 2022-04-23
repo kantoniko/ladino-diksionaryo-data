@@ -4,7 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: portokal
-    accented: portokal
+
+    gender: both
+    number: singular
 
     translations:
         english: orange
@@ -12,5 +14,18 @@ versions:
         portuguese: ''
         spanish: naranja
         turkish: portakal
+
+  - ladino: portokales
+
+    gender: both
+    number: plural
+
+    translations:
+        english: oranges
+        french: ''
+        portuguese: ''
+        spanish: naranjas
+        turkish: portakal
+
 
 examples: []
