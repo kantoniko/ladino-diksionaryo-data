@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: uva
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: grape
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: uva
+      turkish: ''
+
+  - ladino: uvas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: grapes
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: uvas
+      turkish: ''
+
+
+examples: []

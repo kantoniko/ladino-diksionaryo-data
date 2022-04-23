@@ -1,13 +1,31 @@
-examples: []
-grammar: null
+grammar: noun
 id: '1369'
 origen: Jeneral
+
 versions:
--   accented: karpuz
-    ladino: karpuz
+  - ladino: karpuz
+
+    gender: masculine
+    number: singular
+
     translations:
         english: watermelon
         french: ''
         portuguese: ''
         spanish: sandia
         turkish: karpuz
+
+  - ladino: karpuzes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: watermelons
+        french: ''
+        portuguese: ''
+        spanish: sandias
+        turkish: karpuz
+
+
+examples: []

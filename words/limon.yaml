@@ -1,14 +1,32 @@
-examples:
--   ladino: '"Pishkado i limon i agua de mar, i tu ke no tengas dingun mal"!'
 grammar: null
 id: '2325'
 origen: Jeneral
+
 versions:
--   accented: limon
-    ladino: limon
+  - ladino: limon
+
+    gender: masculine
+    number: singular
+
     translations:
         english: lemon
         french: ''
         portuguese: ''
         spanish: limón
         turkish: limon
+
+  - ladino: limones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: lemons
+        french: ''
+        portuguese: ''
+        spanish: limónes
+        turkish: limon
+
+
+examples:
+  - ladino: Pishkado i limon i agua de mar, i tu ke no tengas dingun mal!
