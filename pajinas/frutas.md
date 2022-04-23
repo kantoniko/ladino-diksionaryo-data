@@ -16,6 +16,6 @@ orange      | (el/la) [portokal](/words/ladino/portokal) | [portokal](https://la
 grape       | (la) [uva](/words/ladino/uva)              | [uva](https://lad.wikipedia.org/wiki/Uva)
 lemon       | (el) [limon](/words/ladino/limon)          | [limon](https://lad.wikipedia.org/wiki/Limon)
 plum        | (la) [zirguela](/words/ladino/zirguela)    | [zirguela](https://lad.wikipedia.org/wiki/Zirguela)
-pomegranate | (la) agranada   ?                          |
+pomegranate | (la) [agranada](/words/ladino/agranada)    |
 
 

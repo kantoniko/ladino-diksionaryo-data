@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: agranada
     accented: agranáda
+
     gender: feminine
     number: singular
 
@@ -14,6 +15,20 @@ versions:
         portuguese: romã
         spanish: granada (fruta)
         turkish: nar
+
+  - ladino: agranadas
+    accented: agranádas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pomegranates
+        french: grenade (fruit)
+        portuguese: romã
+        spanish: granadas (fruta)
+        turkish: nar
+
 
 examples:
   - ladino: Mi tiya morava en un moshav i teniyan arvoles de agranadas.
