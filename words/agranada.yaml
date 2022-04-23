@@ -6,6 +6,9 @@ versions:
   - ladino: agranada
     accented: agranáda
 
+    alternative-spelling:
+      - ladino: mangrana
+
     gender: feminine
     number: singular
 
@@ -18,6 +21,9 @@ versions:
 
   - ladino: agranadas
     accented: agranádas
+
+    alternative-spelling:
+      - ladino: mangranas
 
     gender: feminine
     number: plural

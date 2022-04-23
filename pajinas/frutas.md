@@ -17,5 +17,5 @@ grape       | (la) [uva](/words/ladino/uva)              | [uva](https://lad.wik
 lemon       | (el) [limon](/words/ladino/limon)          | [limon](https://lad.wikipedia.org/wiki/Limon)
 plum        | (la) [zirguela](/words/ladino/zirguela)    | [zirguela](https://lad.wikipedia.org/wiki/Zirguela)
 pomegranate | (la) [agranada](/words/ladino/agranada)    |
-
+pomegranate | (la) mangrana                              |
 
