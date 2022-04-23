@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: kontinente
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: continent
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: continente
+      turkish: ''
+
+  - ladino: kontinentes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: continents
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: continentes
+      turkish: ''
+
+
+examples: []
