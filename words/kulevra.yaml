@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '641'
 origen: Jeneral
+categories:
+  - animales
+
 versions:
--   accented: kulevra
-    ladino: kulevra
+  - ladino: kulevra
+
+    gender: feminine
+    number: singular
+
     translations:
         english: snake
         french: ''
         portuguese: ''
         spanish: serpiente
         turkish: yılan
+
+  - ladino: kulevras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: snakes
+        french: ''
+        portuguese: ''
+        spanish: serpientes
+        turkish: yılan
+
+examples: []

@@ -1,19 +1,44 @@
-examples:
--   ladino: 'Avlaremos de otra koza: De peshkado i agua de mar.'
 grammar: null
 id: '2069'
 origen: Jeneral
+categories:
+  - animales
+
 versions:
--   accented: peshkádo
+  - ladino: peshkado
+    accented: peshkádo
+
     alternative-spelling:
-    -   accented: pishkádo
-        ladino: pishkado
+      - ladino: pishkado
+        accented: pishkádo
+
     gender: masculine
-    ladino: peshkado
     number: singular
+
     translations:
         english: fish
         french: poisson
         portuguese: peixe
         spanish: pescado
         turkish: balık
+
+  - ladino: peshkados
+    accented: peshkádos
+
+    alternative-spelling:
+      - ladino: pishkados
+        accented: pishkádos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fish
+        french: poisson
+        portuguese: peixe
+        spanish: pescados
+        turkish: balık
+
+
+examples:
+  - ladino: 'Avlaremos de otra koza: De peshkado i agua de mar.'

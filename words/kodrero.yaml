@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '575'
 origen: Jeneral
+categories:
+  - animales
+
 versions:
--   accented: kodrero
-    ladino: kodrero
+  - ladino: kodrero
+
+    gender: masculine
+    number: singular
+
     translations:
         english: lamb
         french: ''
         portuguese: ''
         spanish: cordero
         turkish: kuzu
+
+  - ladino: kodreros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: lambs
+        french: ''
+        portuguese: ''
+        spanish: corderos
+        turkish: kuzu
+
+
+examples: []

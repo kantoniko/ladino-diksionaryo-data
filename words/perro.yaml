@@ -1,6 +1,8 @@
 grammar: null
 id: '856'
 origen: Jeneral
+categories:
+  - animales
 
 versions:
   - ladino: perro

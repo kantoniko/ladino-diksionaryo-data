@@ -1,0 +1,37 @@
+grammar: noun
+origen: Ladinokomunita
+categories:
+  - animales
+
+versions:
+  - ladino: gayna
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+          - chicken
+          - chick
+        french: poulet
+        hebrew: תרנגולת
+        portuguese: frango
+        spanish: pollo
+        turkish: piliç
+
+  - ladino: gaynas
+
+    gender: feminine 
+    number: plural
+
+    translations:
+        english:
+          - chickens
+          - chicks
+        french: ''
+        hebrew: תרנגולות
+        portuguese: ''
+        spanish: pollos
+        turkish: ''
+
+examples: []

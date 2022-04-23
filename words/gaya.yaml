@@ -1,6 +1,8 @@
 grammar: null
 id: '454'
 origen: Jeneral
+categories:
+  - animales
 
 versions:
   - ladino: gaya

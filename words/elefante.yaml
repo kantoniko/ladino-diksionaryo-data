@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - animales
+
+versions:
+  - ladino: elefante
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: elephant
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: elefante
+      turkish: ''
+
+examples: []

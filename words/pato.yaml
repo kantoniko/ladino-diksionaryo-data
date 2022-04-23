@@ -1,6 +1,8 @@
 grammar: null
 id: '2888'
 origen: Jeneral
+categories:
+  - animales
 
 versions:
   - ladino: pato
