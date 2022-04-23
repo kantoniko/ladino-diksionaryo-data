@@ -7,6 +7,9 @@ versions:
     gender: masculine
     number: singular
 
+    alternative-spelling:
+      - ladino: relijiozo
+
     translations:
       english: religious
       french: ''
@@ -19,6 +22,9 @@ versions:
 
     gender: feminine
     number: singular
+
+    alternative-spelling:
+      - ladino: relijioza
 
     translations:
       english: religious
@@ -33,6 +39,9 @@ versions:
     gender: masculine
     number: plural
 
+    alternative-spelling:
+      - ladino: relijiozos
+
     translations:
       english: religious
       french: ''
@@ -45,6 +54,9 @@ versions:
 
     gender: feminine
     number: plural
+
+    alternative-spelling:
+      - ladino: relijiozas
 
     translations:
       english: religious

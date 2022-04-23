@@ -3,14 +3,14 @@ id: '2175'
 origen: Jeneral
 
 versions:
-  - ladino: shabat
-    accented: shabát
+  - ladino: Shabat
+    accented: Shabát
 
     gender: masculine
     number: singular
 
     alternative-spelling:
-      - ladino: shabad
+      - ladino: Shabad
 
     translations:
         english: Saturday
@@ -21,8 +21,8 @@ versions:
 
 examples:
   - ladino: Shabat Shalom
-  - ladino: En Israel la djente no lavoran en shabat.
+  - ladino: En Israel la djente no lavora en Shabat.
     english: In Israel the people don't work on Saturday
-  - ladino: Los djudios religiosos no lavoran en shabat.
+  - ladino: Los djudios relijiozos no lavoran en Shabat.
     english: Religious jews don't work on Saturday.
 
