@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: enlase
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: link
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enlace
+      turkish: ''
+
+  - ladino: enlases
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: links
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enlaces
+      turkish: ''
+
+
+examples: []
