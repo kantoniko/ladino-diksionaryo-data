@@ -13,6 +13,7 @@ versions:
     translations:
         english: apple
         french: ''
+        hebrew: תפוח עץ
         portuguese: ''
         spanish: manzana
         turkish: elma
@@ -25,6 +26,9 @@ versions:
     translations:
         english: apples
         french: ''
+        hebrew:
+          - תפוחי עץ
+          - תפוחים
         portuguese: ''
         spanish: manzanas
         turkish: elma

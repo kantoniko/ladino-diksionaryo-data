@@ -17,6 +17,7 @@ versions:
     translations:
         english: pomegranate
         french: grenade (fruit)
+        hebrew: רימון
         portuguese: romã
         spanish: granada (fruta)
         turkish: nar
@@ -33,6 +34,7 @@ versions:
     translations:
         english: pomegranates
         french: grenade (fruit)
+        hebrew: רימונים
         portuguese: romã
         spanish: granadas (fruta)
         turkish: nar

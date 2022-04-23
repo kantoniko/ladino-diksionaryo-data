@@ -13,6 +13,7 @@ versions:
     translations:
         english: orange
         french: ''
+        hebrew: תפוז
         portuguese: ''
         spanish: naranja
         turkish: portakal
@@ -25,6 +26,7 @@ versions:
     translations:
         english: oranges
         french: ''
+        hebrew: תפוזים
         portuguese: ''
         spanish: naranjas
         turkish: portakal
