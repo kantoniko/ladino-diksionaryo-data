@@ -1,6 +1,8 @@
 grammar: null
 id: '1657'
 origen: Jeneral
+categories:
+  - frutas
 
 versions:
   - ladino: banana

@@ -1,6 +1,8 @@
 grammar: null
 id: '887'
 origen: Jeneral
+categories:
+  - frutas
 
 versions:
   - ladino: portokal

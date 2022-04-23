@@ -1,6 +1,8 @@
 grammar: null
 id: '2325'
 origen: Jeneral
+categories:
+  - frutas
 
 versions:
   - ladino: limon

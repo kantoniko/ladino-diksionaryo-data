@@ -1,6 +1,8 @@
 grammar: noun
 id: '1369'
 origen: Jeneral
+categories:
+  - frutas
 
 versions:
   - ladino: karpuz

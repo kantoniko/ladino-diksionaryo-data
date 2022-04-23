@@ -1,6 +1,8 @@
 grammar: noun
 id: '2744'
 origen: Izmir
+categories:
+  - frutas
 
 versions:
   - ladino: zirguela

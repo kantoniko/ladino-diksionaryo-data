@@ -1,5 +1,7 @@
 grammar: noun
 origen: Ladinokomunita
+categories:
+  - frutas
 
 versions:
   - ladino: uva

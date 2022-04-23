@@ -1,6 +1,8 @@
 grammar: noun
 id: '1975'
 origen: Jeneral
+categories:
+  - frutas
 
 versions:
   - ladino: mansana

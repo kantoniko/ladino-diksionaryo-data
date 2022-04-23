@@ -1,16 +1,35 @@
-examples:
--   ladino: El Dio da almendras al ke no tyene muelas. (Prov.)
 grammar: null
 id: '3039'
 origen: Jeneral
+categories:
+  - frutas
+
 versions:
--   accented: alméndra
+  - ladino: almendra
+    accented: alméndra
+
     gender: feminine
-    ladino: almendra
     number: singular
+
     translations:
         english: almond
         french: amande
         portuguese: ''
         spanish: almendra
         turkish: badem
+
+  - ladino: almendras
+    accented: alméndras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: almonds
+        french: amande
+        portuguese: ''
+        spanish: almendras
+        turkish: badem
+
+examples:
+  - ladino: El Dio da almendras al ke no tyene muelas. (Prov.)
