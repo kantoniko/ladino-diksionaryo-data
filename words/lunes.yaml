@@ -11,6 +11,9 @@ versions:
     translations:
         english: Monday
         french: ''
+        hebrew:
+          - יום שני
+          - יום ב
         portuguese: ''
         spanish: lunes
         turkish: Pazartesi

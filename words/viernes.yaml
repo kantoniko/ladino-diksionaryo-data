@@ -15,6 +15,9 @@ versions:
     translations:
         english: Friday
         french: ''
+        hebrew:
+          - יום שישי
+          - יום ו
         portuguese: ''
         spanish: viernes
         turkish: cuma

@@ -11,6 +11,9 @@ versions:
     translations:
         english: Sunday
         french: dimanche
+        hebrew:
+          - יום ראשון
+          - יום א
         portuguese: domingo
         spanish: domingo
         turkish:

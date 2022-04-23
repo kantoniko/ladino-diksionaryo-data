@@ -15,6 +15,9 @@ versions:
     translations:
         english: Saturday
         french: samedi
+        hebrew:
+          - יום שבת
+          - שבת
         portuguese: sábado
         spanish: sábado
         turkish: Cumartesi

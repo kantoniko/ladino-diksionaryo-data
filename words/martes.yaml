@@ -11,6 +11,9 @@ versions:
     translations:
         english: Tuesday
         french: ''
+        hebrew:
+          - יום שלישי
+          - יום ג
         portuguese: ''
         spanish: martes
         turkish: Salı
