@@ -1,0 +1,46 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: freza
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: fragula
+        accented: frágula
+      - ladino: frangula
+        accented: frángula
+
+
+    translations:
+      english: strawberry
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: fresa
+      turkish: ''
+
+  - ladino: frezas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: fragulas
+        accented: frágulas
+      - ladino: frangulas
+        accented: frángulas
+
+    translations:
+      english: strawberries
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: fresas
+      turkish: ''
+
+examples: []
