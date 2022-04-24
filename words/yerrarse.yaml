@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1157'
 origen: Jeneral
+
 versions:
--   accented: yerrarse
-    ladino: yerrarse
+  - ladino: yerrarse
+
     translations:
         english:
         - be wrong
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: equivocarse
         turkish: yanilmak
+
+conjugations: {}
+
+examples: []
