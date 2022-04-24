@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: bevida
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: drink
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bebida
+      turkish: ''
+
+  - ladino: bevidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: drinks
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bebidas
+      turkish: ''
+
+
+examples: []
