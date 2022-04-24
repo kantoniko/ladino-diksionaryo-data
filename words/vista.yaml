@@ -1,13 +1,14 @@
-examples:
--   ladino: Lo konosko solo de vista.
 grammar: null
 id: '2647'
 origen: Jeneral
+
 versions:
--   accented: vísta
+  - ladino: vista
+    accented: vísta
+
     gender: feminine
-    ladino: vista
     number: singular
+
     translations:
         english:
         - view
@@ -18,3 +19,24 @@ versions:
         turkish:
         - manzara
         - görüş
+
+  - ladino: vistas
+    accented: vístas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - views
+        - sights
+        french: ''
+        portuguese: ''
+        spanish: vistas
+        turkish:
+        - manzara
+        - görüş
+
+
+examples:
+  - ladino: Lo konosko solo de vista.
