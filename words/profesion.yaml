@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: profesion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: profession
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: profesión
+      turkish: ''
+
+  - ladino: profesiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: professions
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: profesiónes
+      turkish: ''
+
+
+examples: []
