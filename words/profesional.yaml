@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '904'
 origen: Jeneral
+
 versions:
--   accented: profesional
-    ladino: profesional
+  - ladino: profesional
+
     translations:
         english: professional
         french: ''
         portuguese: ''
         spanish: profesional
         turkish: profesyonel
+
+examples: []
