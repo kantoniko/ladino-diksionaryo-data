@@ -1,13 +1,43 @@
-examples: []
 grammar: null
 id: '2179'
 origen: Jeneral
+categories:
+  - frutas
+
 versions:
--   accented: shefteli
-    ladino: shefteli
+  - ladino: shefteli
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: sheftali
+        accented: sheftalí
+      - ladino: brisko
+
     translations:
         english: peach
         french: ''
         portuguese: ''
         spanish: melocotón
         turkish: şeftali
+
+  - ladino: sheftelis
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: sheftalis
+        accented: sheftalís
+      - ladino: briskos
+
+    translations:
+        english: peaches
+        french: ''
+        portuguese: ''
+        spanish: melocotónes
+        turkish: şeftali
+
+
+examples: []
