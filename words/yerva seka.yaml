@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '2264'
 origen: Jeneral
+categories:
+  - plantas
+
 versions:
--   accented: yerva seka
-    ladino: yerva seka
+  - ladino: yerva seka
+
     translations:
         english: hay
         french: ''
         portuguese: ''
         spanish: heno
         turkish: kuru ot
+
+examples: []
