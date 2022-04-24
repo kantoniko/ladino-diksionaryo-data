@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1149'
 origen: Jeneral
+
 versions:
--   accented: vitamina
-    ladino: vitamina
+  - ladino: vitamina
+
+    gender: feminine
+    number: singular
+
     translations:
         english: vitamin
         french: ''
         portuguese: ''
         spanish: vitamina
         turkish: vitamin
+
+examples: []
