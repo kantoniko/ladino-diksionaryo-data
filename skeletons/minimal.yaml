@@ -3,10 +3,12 @@ grammar: null
 origen: Ladinokomunita
 categories:
   - animales
+  - frutas
+  - komida
+  - gramer
   - lashon
   - lavoro
   - numeros
-  - frutas
   - plantas
 
 versions:
