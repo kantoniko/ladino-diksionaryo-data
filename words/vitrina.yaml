@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '2258'
 origen: Jeneral
+
 versions:
--   accented: vitrina
-    ladino: vitrina
+  - ladino: vitrina
+
     translations:
         english:
         - showplace
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: escaparate
         turkish: vitrin
+
+examples: []

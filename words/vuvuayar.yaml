@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1151'
 origen: Jeneral
+
 versions:
--   accented: vuvuayar
-    ladino: vuvuayar
+  - ladino: vuvuayar
+
     translations:
         english: address as plural you
         french: ''
         portuguese: ''
         spanish: tratar de usted
         turkish: sizli bizli konuşmak
+
+examples: []

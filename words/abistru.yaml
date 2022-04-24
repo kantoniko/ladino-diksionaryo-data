@@ -1,6 +1,8 @@
 grammar: null
 id: '3053'
 origen: Estanbol
+categories:
+  - animales
 
 versions:
   - ladino: abistru

@@ -1,11 +1,10 @@
-examples:
--   ladino: A todos vozotros vos enkorajo de abonarvos.
 grammar: pronoun
 id: '2649'
 origen: Jeneral
+
 versions:
--   accented: vos
-    ladino: vos
+  - ladino: vos
+
     translations:
         english:
         - you
@@ -18,3 +17,7 @@ versions:
         - siz
         - size
         - kendinize
+
+examples:
+  - ladino: A todos vozotros vos enkorajo de abonarvos.
+

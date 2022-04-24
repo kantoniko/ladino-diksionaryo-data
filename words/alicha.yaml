@@ -1,13 +1,16 @@
-examples:
--   ladino: Alichas fritas son muy savrozas.
 grammar: null
 id: '2693'
 origen: Izmir
+categories:
+  - animales
+
 versions:
--   accented: alícha
+  - ladino: alicha
+    accented: alícha
+
     gender: feminine
-    ladino: alicha
     number: singular
+
     translations:
         english:
         - fish
@@ -18,3 +21,7 @@ versions:
         turkish:
         - kıraça
         - küçük balık
+
+examples:
+  - ladino: Alichas fritas son muy savrozas.
+

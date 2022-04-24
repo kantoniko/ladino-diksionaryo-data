@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1150'
 origen: Jeneral
+
 versions:
--   accented: vokal
-    ladino: vokal
+  - ladino: vokal
+
     translations:
         english: vowel
         french: ''
         portuguese: ''
         spanish: vocal
         turkish: sesli harf
+
+examples: []
