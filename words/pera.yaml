@@ -1,0 +1,33 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: pera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: pear
+      french: ''
+      hebrew: אגס
+      portuguese: ''
+      spanish: pera
+      turkish: ''
+
+  - ladino: peras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: pears
+      french: ''
+      hebrew: אגסים
+      portuguese: ''
+      spanish: peras
+      turkish: ''
+
+examples: []
