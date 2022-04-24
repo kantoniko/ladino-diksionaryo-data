@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1146'
 origen: Jeneral
+categories:
+  - bevidas
+
 versions:
--   accented: víno kolorádo
-    ladino: vino kolorado
+  - ladino: vino kolorado
+    accented: víno kolorádo
+
     translations:
         english: red wine
         french: vin rouge
         portuguese: ''
         spanish: vino tinto
         turkish: kırmızı şarap
+
+examples: []

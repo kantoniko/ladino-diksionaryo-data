@@ -1,17 +1,16 @@
 grammar: null
-id: '179'
 origen: Jeneral
 categories:
   - bevidas
 
 versions:
-  - ladino: bira
+  - ladino: kafe
 
     translations:
-        english: beer
+        english: coffee
         french: ''
         portuguese: ''
-        spanish: cerveza
-        turkish: bira
+        spanish: café
+        turkish: ''
 
 examples: []
