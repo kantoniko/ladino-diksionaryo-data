@@ -1,0 +1,25 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: abrikok
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kayisi
+        accented: kayisí
+
+
+    translations:
+      english: apricot
+      french: ''
+      hebrew: מִשׁמֵשׁ
+      portuguese: ''
+      spanish: albaricoque
+      turkish: ''
+
+examples: []
