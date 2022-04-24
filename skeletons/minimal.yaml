@@ -3,6 +3,7 @@ grammar: null
 origen: Ladinokomunita
 categories:
   - animales
+  - bevidas
   - frutas
   - komida
   - gramer
