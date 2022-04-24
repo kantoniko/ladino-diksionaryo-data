@@ -1,6 +1,8 @@
 grammar: null
 id: '2942'
 origen: Jeneral
+categories:
+  - komida
 
 versions:
   - ladino: dondurma
