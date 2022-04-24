@@ -2,7 +2,7 @@ grammar: null
 id: '1155'
 origen: Jeneral
 categories:
-  - komida
+  - komidas
 
 versions:
   - ladino: yelada
