@@ -1,19 +1,27 @@
-examples:
--   ladino: Empeso kon una kantika en Yiddish.
 grammar: null
 id: '2653'
 origen: Jeneral
+categories:
+  - lashon
+
 versions:
--   accented: yíddish
+  - ladino: yiddish
+    accented: yíddish
+
     alternative-spelling:
-    -   accented: yídish
-        ladino: yidish
+      - ladino: yidish
+        accented: yídish
+
     gender: masculine
-    ladino: yiddish
     number: singular
+
     translations:
         english: yiddish
         french: ''
         portuguese: ''
         spanish: lengua de los judios askenazis
         turkish: yidiş
+
+examples:
+  - ladino: Empeso kon una kantika en Yiddish.
+
