@@ -1,18 +1,23 @@
-examples: []
 grammar: null
 id: '2741'
 origen: Izmir
+
 versions:
--   accented: yéma
+  - ladino: yema
+    accented: yéma
+
     alternative-spelling:
-    -   accented: géma
-        ladino: gema
+      - ladino: gema
+        accented: géma
+
     gender: feminine
-    ladino: yema
     number: singular
+
     translations:
         english: yolk
         french: ''
         portuguese: ''
         spanish: yema
         turkish: yumurta sarısı
+
+examples: []
