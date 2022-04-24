@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: planta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: plant
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: planta
+      turkish: ''
+
+  - ladino: plantas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: plants
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: plantas
+      turkish: ''
+
+
+examples: []
