@@ -1,18 +1,25 @@
-examples: []
 grammar: null
 id: '2652'
 origen: Jeneral
+categories:
+  - profesion
+
 versions:
--   accented: yaurtchí
+  - ladino: yaurtchi
+    accented: yaurtchí
+
     alternative-spelling:
-    -   accented: yaurchí
-        ladino: yaurchi
+      - ladino: yaurchi
+        accented: yaurchí
+
     gender: masculine
-    ladino: yaurtchi
     number: singular
+
     translations:
         english: yogurt pedlar
         french: ''
         portuguese: ''
         spanish: vendedor de yogurt
         turkish: yoğurtçu
+
+examples: []
