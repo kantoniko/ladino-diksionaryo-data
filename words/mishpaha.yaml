@@ -1,13 +1,14 @@
-examples:
--   ladino: Shalom a toda la mishpaha sefaradi i al mundo entero.
 grammar: null
 id: '2945'
 origen: Jeneral
+
 versions:
--   accented: mishpahá
+  - ladino: mishpaha
+    accented: mishpahá
+
     gender: feminine
-    ladino: mishpaha
     number: singular
+
     translations:
         english:
         - clan
@@ -20,3 +21,7 @@ versions:
         - clan
         - familia
         turkish: sülale
+
+
+examples:
+  - ladino: Shalom a toda la mishpaha sefaradi i al mundo entero.
