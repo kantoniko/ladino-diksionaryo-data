@@ -2,7 +2,7 @@ grammar: null
 id: '905'
 origen: Jeneral
 categories:
-  - lavoro
+  - profesion
 
 versions:
   - ladino: profesor
