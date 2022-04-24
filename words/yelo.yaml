@@ -1,17 +1,17 @@
-examples:
--   ladino: 'Metiyamos el karpuz en el pozo para ke se yele, porke no teniyamos yelo
-        (buz). '
 grammar: null
 id: '1156'
 origen: Jeneral
+
 versions:
--   accented: yélo
+  - ladino: yelo
+    accented: yélo
+
     alternative-spelling:
-    -   accented: buz
-        ladino: buz
+      - ladino: buz
+
     gender: masculine
-    ladino: yelo
     number: singular
+
     translations:
         english:
         - ice
@@ -22,3 +22,6 @@ versions:
         turkish:
         - buz
         - don
+
+examples:
+  - ladino: Metiyamos el karpuz en el pozo para ke se yele, porke no teniyamos yelo (buz).
