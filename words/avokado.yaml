@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: avokado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: avocado
+      french: ''
+      hebrew: אבוקדו
+      portuguese: ''
+      spanish: avocado
+      turkish: ''
+
+examples: []
