@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: mandarina
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: mandarin
+      french: ''
+      hebrew: מנדרין
+      portuguese: ''
+      spanish: mandarín
+      turkish: ''
+
+examples: []
