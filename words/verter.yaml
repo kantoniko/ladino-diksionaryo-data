@@ -1,11 +1,10 @@
-examples:
--   ladino: Su konseja triste me izo verter lagrimas.
-grammar: null
+grammar: verb
 id: '2307'
 origen: Jeneral
+
 versions:
--   accented: verter
-    ladino: verter
+  - ladino: verter
+
     translations:
         english:
         - pour
@@ -16,3 +15,8 @@ versions:
         turkish:
         - dökmek
         - saçmak
+
+conjugations: {}
+
+examples:
+  - ladino: Su konseja triste me izo verter lagrimas.

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1133'
 origen: Jeneral
+
 versions:
--   accented: ver
-    ladino: ver
+  - ladino: ver
+
     translations:
         english: see
         french: ''
         portuguese: ''
         spanish: ver
         turkish: görmek
+
+conjugations: {}
+
+examples: []
