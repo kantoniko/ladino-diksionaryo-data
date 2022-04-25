@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: datile
+    accented: datilé
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: date
+      french: ''
+      hebrew: תמר
+      portuguese: ''
+      spanish: dátil
+      turkish: ''
+
+examples: []
