@@ -1,13 +1,14 @@
-examples:
--   ladino: Donde vas ijo varon? A meldar la ley del Dio.
 grammar: null
 id: '2987'
 origen: Jeneral
+
 versions:
--   accented: varón
+  - ladino: varon
+    accented: varón
+
     gender: masculine
-    ladino: varon
     number: singular
+
     translations:
         english:
         - man
@@ -22,3 +23,7 @@ versions:
         turkish:
         - adam
         - erkek
+
+examples:
+  - ladino: Donde vas ijo varon? A meldar la ley del Dio.
+

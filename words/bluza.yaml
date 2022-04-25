@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - ropa
+
+versions:
+  - ladino: bluza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: blouse
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: blusa
+      turkish: ''
+
+  - ladino: bluzas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: blouses
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: blusas
+      turkish: ''
+
+
+examples: []

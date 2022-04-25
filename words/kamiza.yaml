@@ -1,6 +1,8 @@
 grammar: null
 id: '523'
 origen: Jeneral
+categories:
+  - ropa
 
 versions:
   - ladino: kamiza

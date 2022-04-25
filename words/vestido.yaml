@@ -1,16 +1,20 @@
-examples:
--   ladino: El vistido le viene estrecho.
 grammar: null
 id: '2252'
 origen: Jeneral
+categories:
+  - ropa
+
 versions:
--   accented: vestído
+  - ladino: vestido
+    accented: vestído
+
     alternative-spelling:
-    -   accented: vistído
-        ladino: vistido
+      - ladino: vistido
+        accented: vistído
+
     gender: masculine
-    ladino: vestido
     number: singular
+
     translations:
         english:
         - clothing
@@ -21,3 +25,28 @@ versions:
         turkish:
         - giysi
         - kostüm
+
+  - ladino: vestidos
+    accented: vestídos
+
+    alternative-spelling:
+      - ladino: vistidos
+        accented: vistídos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - clothing
+        - suits
+        french: ''
+        portuguese: ''
+        spanish: vestidos
+        turkish:
+        - giysi
+        - kostüm
+
+
+examples:
+  - ladino: El vistido le viene estrecho.

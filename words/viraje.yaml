@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1147'
 origen: Jeneral
+
 versions:
--   accented: viraje
-    ladino: viraje
+  - ladino: viraje
+
     translations:
         english: curve
         french: ''
         portuguese: ''
         spanish: curva
         turkish: viraj
+
+examples: []

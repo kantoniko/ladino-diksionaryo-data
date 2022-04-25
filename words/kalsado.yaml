@@ -1,16 +1,20 @@
-examples: []
 grammar: null
 id: '518'
 origen: Jeneral
+categories:
+  - ropa
+
 versions:
--   accented: kalsado
+  - ladino: kalsado
+
     alternative-spelling:
-    -   accented: sapato
-        ladino: sapato
-    ladino: kalsado
+      - ladino: sapato
+
     translations:
         english: shoe
         french: ''
         portuguese: ''
         spanish: zapato
         turkish: ayakkabı
+
+examples: []

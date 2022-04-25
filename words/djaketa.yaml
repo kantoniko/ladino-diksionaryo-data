@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '269'
 origen: Jeneral
+categories:
+  - ropa
+
 versions:
--   accented: djaketa
-    ladino: djaketa
+  - ladino: djaketa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: jacket
         french: ''
         portuguese: ''
         spanish: chaqueta
         turkish: ceket
+
+examples: []

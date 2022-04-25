@@ -1,16 +1,22 @@
-examples:
--   ladino: Mi madre ke vino de la Bulgariya los yamava Chapines(kalsados).
 grammar: null
 id: '2840'
 origen: Izmir
+categories:
+  - ropa
+
 versions:
--   accented: chapín
+  - ladino: chapin
+    accented: chapín
+
     gender: masculine
-    ladino: chapin
     number: singular
+
     translations:
         english: shoe
         french: ''
         portuguese: ''
         spanish: zapato
         turkish: ayakkabı
+
+examples:
+  - ladino: Mi madre ke vino de la Bulgariya los yamava Chapines(kalsados).

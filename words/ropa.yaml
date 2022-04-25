@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: ropa
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: cloth
+      french: ''
+      hebrew: בגדים
+      portuguese: ''
+      spanish: ropa
+      turkish: ''
+
+examples: []

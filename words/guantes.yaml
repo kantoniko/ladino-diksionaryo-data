@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - ropa
+
+versions:
+  - ladino: guantes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: gloves
+      french: ''
+      hebrew: כפפות
+      portuguese: ''
+      spanish: guantes
+      turkish: ''
+
+examples: []

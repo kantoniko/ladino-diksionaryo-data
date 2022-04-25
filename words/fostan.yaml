@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - ropa
+
+versions:
+  - ladino: fostan
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: dress
+      french: ''
+      hebrew: שמלה
+      portuguese: ''
+      spanish: vestido
+      turkish: ''
+
+  - ladino: fostanes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: dresses
+      french: ''
+      hebrew: שמלות
+      portuguese: ''
+      spanish: vestidos
+      turkish: ''
+
+
+examples: []
