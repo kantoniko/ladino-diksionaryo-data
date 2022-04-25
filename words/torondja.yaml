@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: torondja
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: grapefruit
+      french: ''
+      hebrew: אשכולית
+      portuguese: ''
+      spanish: toronja
+      turkish: ''
+
+examples: []
