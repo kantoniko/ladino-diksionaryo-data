@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: viktima
 
+    gender: feminine
+    number: singular
+
     translations:
         english: victim
         french: ''
@@ -13,5 +16,20 @@ versions:
         turkish:
         - kurban
         - mağdur
+
+  - ladino: viktimas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: victims
+        french: ''
+        portuguese: ''
+        spanish: víctimas
+        turkish:
+        - kurban
+        - mağdur
+
 
 examples: []

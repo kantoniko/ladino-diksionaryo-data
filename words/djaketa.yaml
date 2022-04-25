@@ -17,4 +17,17 @@ versions:
         spanish: chaqueta
         turkish: ceket
 
+  - ladino: djaketas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: jackets
+        french: ''
+        portuguese: ''
+        spanish: chaquetas
+        turkish: ceket
+
+
 examples: []

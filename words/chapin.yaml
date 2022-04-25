@@ -18,5 +18,19 @@ versions:
         spanish: zapato
         turkish: ayakkabı
 
+  - ladino: chapines
+    accented: chapínes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: shoes
+        french: ''
+        portuguese: ''
+        spanish: zapatos
+        turkish: ayakkabı
+
+
 examples:
-  - ladino: Mi madre ke vino de la Bulgariya los yamava Chapines(kalsados).
+  - ladino: Mi madre ke vino de la Bulgariya los yamava chapines (kalsados).

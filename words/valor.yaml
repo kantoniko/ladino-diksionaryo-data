@@ -18,5 +18,21 @@ versions:
         spanish: valor
         turkish: kıymet
 
+  - ladino: valores
+    accented: valóres
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - valuees
+        - worth
+        french: ''
+        portuguese: ''
+        spanish: valores
+        turkish: kıymet
+
+
 examples:
   - ladino: Es koza de valor.

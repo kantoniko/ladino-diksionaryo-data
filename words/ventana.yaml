@@ -5,11 +5,27 @@ origen: Jeneral
 versions:
   - ladino: ventana
 
+    gender: feminine
+    number: singular
+
     translations:
         english: window
         french: ''
         portuguese: ''
         spanish: ventana
         turkish: pencere
+
+  - ladino: ventanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: windows
+        french: ''
+        portuguese: ''
+        spanish: ventanas
+        turkish: pencere
+
 
 examples: []

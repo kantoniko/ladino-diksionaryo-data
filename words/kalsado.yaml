@@ -7,6 +7,9 @@ categories:
 versions:
   - ladino: kalsado
 
+    gender: masculine
+    number: singular
+
     alternative-spelling:
       - ladino: sapato
 
@@ -16,5 +19,21 @@ versions:
         portuguese: ''
         spanish: zapato
         turkish: ayakkabı
+
+  - ladino: kalsados
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: sapatos
+
+    translations:
+        english: shoes
+        french: ''
+        portuguese: ''
+        spanish: zapatos
+        turkish: ayakkabı
+
 
 examples: []

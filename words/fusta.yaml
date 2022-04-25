@@ -17,4 +17,17 @@ versions:
         spanish: falda
         turkish: etek
 
+  - ladino: fustas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: skirts
+        french: ''
+        portuguese: ''
+        spanish: faldas
+        turkish: etek
+
+
 examples: []
