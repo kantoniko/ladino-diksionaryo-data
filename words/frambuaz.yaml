@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: frambuaz
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: raspberry
+      french: ''
+      hebrew: פטל
+      portuguese: ''
+      spanish: frambuaz
+      turkish: ''
+
+examples: []
