@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: sereza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: cherry
+      french: ''
+      hebrew: דובדבן
+      portuguese: ''
+      spanish: cereza
+      turkish: ''
+
+  - ladino: serezas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: cherries
+      french: ''
+      hebrew: דובדבנים
+      portuguese: ''
+      spanish: cerezas
+      turkish: ''
+
+
+examples: []
