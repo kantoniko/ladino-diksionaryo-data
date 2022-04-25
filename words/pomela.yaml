@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: pomela
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: pomela
+      french: ''
+      hebrew: פומלה
+      portuguese: ''
+      spanish: pomela
+      turkish: ''
+
+examples: []
