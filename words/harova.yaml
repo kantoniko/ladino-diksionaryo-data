@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: harova
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: carob
+      french: ''
+      hebrew:  חרוב
+      portuguese: ''
+      spanish: algarroba
+      turkish: ''
+
+examples: []
