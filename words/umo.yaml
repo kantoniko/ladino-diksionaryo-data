@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1112'
 origen: Jeneral
+
 versions:
--   accented: umo
-    ladino: umo
+  - ladino: umo
+
     translations:
         english: smoke
         french: ''
         portuguese: ''
         spanish: gas
         turkish: duman
+
+examples: []
