@@ -1,0 +1,42 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: eshkidunya
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: míshpola
+        accented: míshpola
+
+    translations:
+      english: loquat
+      french: ''
+      hebrew: שסק
+      portuguese: ''
+      spanish: níspero
+      turkish: ''
+
+  - ladino: eshkidunyas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: míshpolas
+        accented: míshpolas
+
+    translations:
+      english: loquats
+      french: ''
+      hebrew: שסק
+      portuguese: ''
+      spanish: nísperos
+      turkish: ''
+
+
+examples: []
