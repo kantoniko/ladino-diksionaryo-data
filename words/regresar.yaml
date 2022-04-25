@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: regresar
+
+    translations:
+      english: return
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: regresa
+      turkish: ''
+
+conjugations: {}
+
+examples: []
