@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: salsamora
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      english: blackberry
+      french: ''
+      hebrew: אוכמניות
+      portuguese: ''
+      spanish: zarzamora
+      turkish: ''
+
+examples: []
