@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: ahududu
+    accented: ahududú
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: raspberry
+      french: ''
+      hebrew: פטל
+      portuguese: ''
+      spanish: frambuesa
+      turkish: ahududu
+
+examples: []
