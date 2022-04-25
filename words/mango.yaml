@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: mango
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: mango
+      french: ''
+      hebrew: מנגו
+      portuguese: ''
+      spanish: mango
+      turkish: ''
+
+examples: []
