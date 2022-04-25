@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '1145'
 origen: Jeneral
+
 versions:
--   accented: vijita
-    ladino: vijita
+  - ladino: vijita
+
+    gender: feminine
+    number: singular
+
     translations:
         english: visit
         french: ''
         portuguese: ''
         spanish: visita
         turkish: misafirlik
+
+  - ladino: vijitas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: visits
+        french: ''
+        portuguese: ''
+        spanish: visitas
+        turkish: misafirlik
+
+examples: []

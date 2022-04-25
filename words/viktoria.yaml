@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1537'
 origen: Jeneral
+
 versions:
--   accented: viktoria
-    ladino: viktoria
+  - ladino: viktoria
+
+    gender: feminine
+    number: singular
+
     translations:
         english: victory
         french: ''
         portuguese: ''
         spanish: victoria
         turkish: zafer
+
+  - ladino: viktorias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: victories
+        french: ''
+        portuguese: ''
+        spanish: victorias
+        turkish: zafer
+
+
+examples: []
