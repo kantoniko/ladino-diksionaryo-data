@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: sabra
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: sabra
+      french: ''
+      hebrew: צבר
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
