@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: melon
+    accented: melón
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: melon
+      french: ''
+      hebrew: מלון
+      portuguese: ''
+      spanish: melón
+      turkish: ''
+
+examples: []
