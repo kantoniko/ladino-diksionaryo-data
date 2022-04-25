@@ -1,0 +1,26 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: greyfrut
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: pamplemus
+        accented: pamplemús
+
+    translations:
+      english: grapefruit
+      french: ''
+      hebrew: אשכוליות
+      portuguese: ''
+      spanish:
+        - pomelo
+        - toronja
+      turkish: ''
+
+examples: []
