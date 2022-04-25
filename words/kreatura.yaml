@@ -1,6 +1,9 @@
 grammar: null
 id: '1392,1952'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: kreatura

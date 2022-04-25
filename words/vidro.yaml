@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '1142'
 origen: Jeneral
+
 versions:
--   accented: vidro
-    ladino: vidro
+  - ladino: vidro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: glass
         french: ''
         portuguese: ''
         spanish: cristal
         turkish: cam
+
+  - ladino: vidros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: glasses
+        french: ''
+        portuguese: ''
+        spanish: cristals
+        turkish: cam
+
+
+examples:
+  - ladino: En 24 Febrero muestra vida en paz se termino komo un vidro roto.

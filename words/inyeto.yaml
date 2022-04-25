@@ -1,6 +1,9 @@
 grammar: null
 id: '1358'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: inyeto

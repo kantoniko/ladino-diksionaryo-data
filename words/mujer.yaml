@@ -1,6 +1,9 @@
 grammar: null
 id: '754'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: mujer

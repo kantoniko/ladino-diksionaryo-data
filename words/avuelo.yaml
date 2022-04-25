@@ -1,6 +1,9 @@
 grammar: null
 id: '2280'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: avuelo

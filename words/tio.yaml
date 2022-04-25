@@ -1,6 +1,9 @@
 grammar: null
 id: '1080'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: tio

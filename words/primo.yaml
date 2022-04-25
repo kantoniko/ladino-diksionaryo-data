@@ -1,6 +1,9 @@
 grammar: null
 id: '1463'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: primo

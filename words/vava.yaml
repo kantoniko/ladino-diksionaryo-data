@@ -1,18 +1,21 @@
-examples: []
 grammar: null
 id: '1125'
 origen: Jeneral
+categories:
+  - famiya
+
 versions:
--   accented: vava
+  - ladino: vava
+
     alternative-spelling:
-    -   accented: nona
-        ladino: nona
-    -   accented: granmama
-        ladino: granmama
-    ladino: vava
+      - ladino: nona
+      - ladino: granmama
+
     translations:
         english: grandmother
         french: ''
         portuguese: ''
         spanish: abuela
         turkish: büyükanne
+
+examples: []

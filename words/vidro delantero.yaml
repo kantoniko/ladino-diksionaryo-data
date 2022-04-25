@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2255'
 origen: Jeneral
+
 versions:
--   accented: vidro delantero
-    ladino: vidro delantero
+  - ladino: vidro delantero
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - windscreen
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: parabrisas
         turkish: ön cam
+
+examples: []

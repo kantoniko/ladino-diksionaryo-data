@@ -1,6 +1,9 @@
 grammar: null
 id: '13'
 origen: Jeneral
+categories:
+  - famiya
+
 
 versions:
   - ladino: nono
