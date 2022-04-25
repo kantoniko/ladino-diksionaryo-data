@@ -1,0 +1,22 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: hurma
+    accented: hurmá
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: persimmon
+      french: ''
+      hebrew:  אפרסמון
+      portuguese: ''
+      spanish: caqui
+      turkish: ''
+
+
+examples: []
