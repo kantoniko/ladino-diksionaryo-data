@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: ilustrasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: ilustration
+      french: ''
+      hebrew: איור
+      portuguese: ''
+      spanish: ilustración
+      turkish: ''
+
+  - ladino: ilustrasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: ilustrations
+      french: ''
+      hebrew: איורים
+      portuguese: ''
+      spanish: ilustraciónes
+      turkish: ''
+
+
+examples: []
