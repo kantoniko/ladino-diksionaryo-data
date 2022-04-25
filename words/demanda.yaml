@@ -1,11 +1,14 @@
-examples:
--   ladino: Tuvimos munchas demandas de ayudar en la gramatika de ladino.
 grammar: null
 id: '2418'
 origen: Jeneral
+
 versions:
--   accented: demánda
-    ladino: demanda
+  - ladino: demanda
+    accented: demánda
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - question
@@ -17,3 +20,26 @@ versions:
         - soru
         - sual
         - talep
+
+  - ladino: demandas
+    accented: demándas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - questions
+        - requests
+        french: ''
+        portuguese: ''
+        spanish: preguntas
+        turkish:
+        - soru
+        - sual
+        - talep
+
+
+examples:
+  - ladino: Tuvimos munchas demandas de ayudar en la gramatika de ladino.
+
