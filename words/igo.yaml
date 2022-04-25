@@ -1,13 +1,22 @@
-examples: []
 grammar: null
 id: '475'
 origen: Jeneral
+categories:
+  - frutas
+
 versions:
--   accented: igo
-    ladino: igo
+  - ladino: igo
+
+    alternative-spelling:
+      - ladino: figo
+
     translations:
         english: fig
         french: ''
+        hebrew: תאנה
         portuguese: ''
         spanish: higo
         turkish: incir
+
+examples: []
+
