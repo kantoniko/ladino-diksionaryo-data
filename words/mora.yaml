@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: mora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: blackberry
+      french: ''
+      hebrew: אוכמניות
+      portuguese: ''
+      spanish: mora
+      turkish: ''
+
+examples: []
