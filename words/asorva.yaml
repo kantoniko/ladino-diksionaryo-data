@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - frutas
+
+versions:
+  - ladino: asorva
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: currant
+      french: ''
+      hebrew: דומדמנית
+      portuguese: ''
+      spanish: grosella
+      turkish: ''
+
+examples: []
