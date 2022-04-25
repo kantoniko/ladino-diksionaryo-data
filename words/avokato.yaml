@@ -1,13 +1,57 @@
-examples: []
 grammar: null
 id: '1240'
 origen: Jeneral
+categories:
+  - profesion
+
 versions:
--   accented: avokato
-    ladino: avokato
+  - ladino: avokato
+
+    gender: masculine
+    number: singular
+
     translations:
         english: lawyer
         french: ''
         portuguese: ''
         spanish: abogado
         turkish: avukat
+
+  - ladino: avokata
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: lawyer
+        french: ''
+        portuguese: ''
+        spanish: abogada
+        turkish: avukat
+
+  - ladino: avokatos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: lawyers
+        french: ''
+        portuguese: ''
+        spanish: abogados
+        turkish: avukat
+
+  - ladino: avokatas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lawyers
+        french: ''
+        portuguese: ''
+        spanish: abogadas
+        turkish: avukat
+
+
+examples: []
