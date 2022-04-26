@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1024'
 origen: Jeneral
+
 versions:
--   accented: situar
-    ladino: situar
+  - ladino: situar
+
     translations:
         english: situate
         french: ''
         portuguese: ''
         spanish: situar
         turkish: yerleştirmek
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,18 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2212'
 origen: Jeneral
+
 versions:
--   accented: tartalear
-    ladino: tartalear
+  - ladino: tartalear
+
     translations:
         english: stutter
         french: ''
         portuguese: ''
         spanish: balbucear
         turkish: dili dolaşmak
+
+
+conjugations: {}
+
+examples: []

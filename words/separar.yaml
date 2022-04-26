@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2173'
 origen: Jeneral
+
 versions:
--   accented: separar
-    ladino: separar
+  - ladino: separar
+
     translations:
         english: separate
         french: ''
         portuguese: ''
         spanish: separar
         turkish: ayırmak
+
+conjugations: {}
+
+examples: []

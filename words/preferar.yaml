@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '893'
 origen: Jeneral
+
 versions:
--   accented: preferar
-    ladino: preferar
+  - ladino: preferar
+
     translations:
         english: prefer
         french: ''
         portuguese: ''
         spanish: preferir
         turkish: tercih etmek
+
+conjugations: {}
+
+examples: []

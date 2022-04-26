@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1057'
 origen: Jeneral
+
 versions:
--   accented: tapar
-    ladino: tapar
+  - ladino: tapar
+
     translations:
         english: put the lid on
         french: ''
         portuguese: ''
         spanish: tapar
         turkish: kapatmak
+
+conjugations: {}
+
+examples: []

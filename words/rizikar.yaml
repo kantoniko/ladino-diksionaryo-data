@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2152'
 origen: Jeneral
+
 versions:
--   accented: rizikar
-    ladino: rizikar
+  - ladino: rizikar
+
     translations:
         english: risk
         french: ''
         portuguese: ''
         spanish: arriesgarse
         turkish: risketmek
+
+conjugations: {}
+
+examples: []

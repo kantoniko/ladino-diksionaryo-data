@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1481'
 origen: Jeneral
+
 versions:
--   accented: regretar
-    ladino: regretar
+  - ladino: regretar
+
     translations:
         english: regret
         french: ''
@@ -13,3 +13,7 @@ versions:
         turkish:
         - esef etmek
         - pişman olmak
+
+conjugations: {}
+
+examples: []

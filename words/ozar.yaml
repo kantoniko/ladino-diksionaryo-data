@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1434'
 origen: Jeneral
+
 versions:
--   accented: ozar
-    ladino: ozar
+  - ladino: ozar
+
     translations:
         english: dare
         french: ''
         portuguese: ''
         spanish: osar
         turkish: cüret etmek
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2203'
 origen: Jeneral
+
 versions:
--   accented: sugjerar
-    ladino: sugjerar
+  - ladino: sugjerar
+
     translations:
         english: suggest
         french: ''
         portuguese: ''
         spanish: sugerir
         turkish: telkin etmek
+
+conjugations: {}
+
+examples: []

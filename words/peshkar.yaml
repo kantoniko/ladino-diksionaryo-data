@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '859'
 origen: Jeneral
+
 versions:
--   accented: peshkar
-    ladino: peshkar
+  - ladino: peshkar
+
     translations:
         english: fish
         french: ''
         portuguese: ''
         spanish: pescar
         turkish: balık tutmak
+
+conjugations: {}
+
+examples: []

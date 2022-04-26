@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '870'
 origen: Jeneral
+
 versions:
--   accented: pizar
-    ladino: pizar
+  - ladino: pizar
+
     translations:
         english: step on
         french: ''
         portuguese: ''
         spanish: pisar
         turkish: basmak
+
+conjugations: {}
+
+examples: []

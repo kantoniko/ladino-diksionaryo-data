@@ -1,16 +1,20 @@
-examples: []
-grammar: null
+grammar: verb
 id: '935'
 origen: Jeneral
+
 versions:
--   accented: rekuperar
+  - ladino: rekuperar
+
     alternative-spelling:
-    -   accented: rekovrar
-        ladino: rekovrar
-    ladino: rekuperar
+      - ladino: rekovrar
+
     translations:
         english: recuperate
         french: ''
         portuguese: ''
         spanish: recuperar
         turkish: geri kazanmak
+
+conjugations: {}
+
+examples: []

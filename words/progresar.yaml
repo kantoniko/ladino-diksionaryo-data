@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '907'
 origen: Jeneral
+
 versions:
--   accented: progresar
-    ladino: progresar
+  - ladino: progresar
+
     translations:
         english: progress
         french: ''
         portuguese: ''
         spanish: progresar
         turkish: ilerlemek
+
+conjugations: {}
+
+examples: []
