@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1130'
 origen: Jeneral
+
 versions:
--   accented: vendida
-    ladino: vendida
+  - ladino: vendida
+
+    gender: feminine
+    number: singular
+
     translations:
         english: sale
         french: ''
         portuguese: ''
         spanish: venta
         turkish: satış
+
+  - ladino: vendidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sales
+        french: ''
+        portuguese: ''
+        spanish: ventas
+        turkish: satış
+
+
+examples: []

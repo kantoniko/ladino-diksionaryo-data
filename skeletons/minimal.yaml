@@ -10,6 +10,7 @@ categories:
   - gramer
   - lashon
   - numeros
+  - paises
   - plantas
   - profesion
   - ropa
@@ -33,6 +34,7 @@ versions:
       portuguese: ''
       spanish: ''
       turkish: ''
+
 # conjugations: {}
 
 examples: []

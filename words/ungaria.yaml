@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1529'
 origen: Jeneral
+categories:
+  - paises
+
 versions:
--   accented: Ungaria
-    ladino: Ungaria
+  - ladino: Ungaria
+
     translations:
         english: Hungary
         french: ''
         portuguese: ''
         spanish: Hungría
         turkish: Macaristan
+
+examples: []

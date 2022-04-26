@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2247'
 origen: Jeneral
+
 versions:
--   accented: vengansa
-    ladino: vengansa
+  - ladino: vengansa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: vengeance
         french: ''
         portuguese: ''
         spanish: venganza
         turkish: intikam
+
+  - ladino: vengansas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: vengeances
+        french: ''
+        portuguese: ''
+        spanish: venganzas
+        turkish: intikam
+
+
+examples: []

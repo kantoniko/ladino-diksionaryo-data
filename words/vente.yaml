@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2248'
 origen: Jeneral
+
 versions:
--   accented: vente
-    ladino: vente
+  - ladino: vente
+
     translations:
         english: twenty
         french: ''
         portuguese: ''
         spanish: veinte
         turkish: yirmi
+
+examples: []

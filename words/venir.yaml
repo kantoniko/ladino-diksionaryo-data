@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1131'
 origen: Jeneral
+
 versions:
--   accented: venir
-    ladino: venir
+  - ladino: venir
+
     translations:
         english: come
         french: ''
         portuguese: ''
         spanish: venir
         turkish: gelmek
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,16 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1129'
 origen: Jeneral
+
 versions:
--   accented: vender
-    ladino: vender
+  - ladino: vender
     translations:
         english: sell
         french: ''
         portuguese: ''
         spanish: vender
         turkish: satmak
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1123'
 origen: Jeneral
+
 versions:
--   accented: validja
-    ladino: validja
+  - ladino: validja
+
+    gender: feminine
+    number: singular
+
     translations:
         english: suitcase
         french: ''
         portuguese: ''
         spanish: maleta
         turkish: valiz
+
+  - ladino: validjas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: suitcases
+        french: ''
+        portuguese: ''
+        spanish: maletas
+        turkish: valiz
+
+
+examples: []

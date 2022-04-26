@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2250'
 origen: Jeneral
+
 versions:
--   accented: ventozo
-    ladino: ventozo
+  - ladino: ventozo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: windy
         french: ''
         portuguese: ''
         spanish: ventoso
         turkish: rüzgârlı
+
+examples: []
