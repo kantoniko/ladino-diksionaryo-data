@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '181'
 origen: Jeneral
+
 versions:
--   accented: bivir
-    ladino: bivir
+  - ladino: bivir
+
     translations:
         english: live
         french: ''
         portuguese: ''
         spanish: vivir
         turkish: yaşamak
+
+conjugations: {}
+
+examples: []

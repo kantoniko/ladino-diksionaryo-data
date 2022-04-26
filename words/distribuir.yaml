@@ -1,19 +1,19 @@
 grammar: verb
-id: '449'
+id: '369'
 origen: Jeneral
 
 versions:
-  - ladino: fuyir
+  - ladino: distribuir
 
     translations:
         english:
-        - run away
-        - escape
+        - distribute
+        - share out
         french: ''
         portuguese: ''
-        spanish: huir
-        turkish: kaçmak
+        spanish: repartir
+        turkish: dağıtmak
 
 conjugations: {}
-
 examples: []
+

@@ -1,18 +1,21 @@
-examples: []
-grammar: null
+grammar: verb
 id: '973'
 origen: Jeneral
+
 versions:
--   accented: seguir
+  - ladino: seguir
+
     alternative-spelling:
-    -   accented: perseguir
-        ladino: perseguir
-    -   accented: ir detras
-        ladino: ir detras
-    ladino: seguir
+      - ladino: perseguir
+      - ladino: ir detras
+
     translations:
         english: follow
         french: ''
         portuguese: ''
         spanish: seguir
         turkish: takip etmek
+
+conjugations: {}
+
+examples: []

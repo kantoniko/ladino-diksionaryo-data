@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1258'
 origen: Jeneral
+
 versions:
--   accented: buyir
-    ladino: buyir
+  - ladino: buyir
+
     translations:
         english: boil
         french: ''
         portuguese: ''
         spanish: hervir
         turkish: kaynatmak
+
+conjugations: {}
+
+examples: []

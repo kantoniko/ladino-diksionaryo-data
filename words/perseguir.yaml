@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2068'
 origen: Jeneral
+
 versions:
--   accented: perseguir
-    ladino: perseguir
+  - ladino: perseguir
+
     translations:
         english: pursue
         french: ''
         portuguese: ''
         spanish: perseguir
         turkish: takip etmek
+
+conjugations: {}
+
+examples: []
