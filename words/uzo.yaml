@@ -1,13 +1,14 @@
-examples:
--   ladino: Empesó a azerlo por reir, avagar avagar se le izo uzo.
 grammar: null
 id: '2641'
 origen: Jeneral
+
 versions:
--   accented: úzo
+  - ladino: uzo
+    accented: úzo
+
     gender: masculine
-    ladino: uzo
     number: singular
+
     translations:
         english:
         - use
@@ -20,3 +21,7 @@ versions:
         - âdet
         - alışkanlık
         - örf
+
+examples:
+  - ladino: Empesó a azerlo por reir, avagar avagar se le izo uzo.
+

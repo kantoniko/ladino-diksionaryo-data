@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1119'
 origen: Jeneral
+
 versions:
--   accented: unya
-    ladino: unya
+  - ladino: unya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: nail
         french: ''
         portuguese: ''
         spanish: uña
         turkish: tırnak
+
+  - ladino: unyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: nails
+        french: ''
+        portuguese: ''
+        spanish: uñas
+        turkish: tırnak
+
+
+examples: []

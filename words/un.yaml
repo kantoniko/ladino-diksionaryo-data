@@ -1,14 +1,17 @@
-examples:
--   ladino: 'Tiene un ijo solo: un ijo regalado.'
 grammar: adjective
 id: '2640'
 origen: Jeneral
+
 versions:
--   accented: un
-    ladino: un
+  - ladino: un
+
     translations:
         english: one
         french: ''
         portuguese: ''
         spanish: un
         turkish: bir
+
+examples:
+  - ladino: 'Tiene un ijo solo: un ijo regalado.'
+

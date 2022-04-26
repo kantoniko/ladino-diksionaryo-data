@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2244'
 origen: Jeneral
+
 versions:
--   accented: uno a otro
-    ladino: uno a otro
+  - ladino: uno a otro
+
     translations:
         english: mutually
         french: ''
         portuguese: ''
         spanish: mutuamente
         turkish: karşılıklı
+
+examples: []
