@@ -1,13 +1,14 @@
-examples: []
 grammar: null
 id: '1135'
 origen: Jeneral
+
 versions:
--   accented: veremos
-    ladino: veremos
+  - ladino: veremos
     translations:
         english: let us see
         french: ''
         portuguese: ''
         spanish: A ver
         turkish: bakalım
+
+examples: []
