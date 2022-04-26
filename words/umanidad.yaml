@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2240'
 origen: Jeneral
+
 versions:
--   accented: umanidad
-    ladino: umanidad
+  - ladino: umanidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: humanity
         french: ''
         portuguese: ''
         spanish: humanidad
         turkish: insanlık
+
+  - ladino: umanidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: humanities
+        french: ''
+        portuguese: ''
+        spanish: humanidades
+        turkish: insanlık
+
+
+examples: []

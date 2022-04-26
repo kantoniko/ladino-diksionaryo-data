@@ -1,4 +1,3 @@
-examples: []
 grammar: null
 id: '1046'
 origen: Jeneral
@@ -11,3 +10,5 @@ versions:
         portuguese: ''
         spanish: suponer
         turkish: farzetmek
+
+examples: []

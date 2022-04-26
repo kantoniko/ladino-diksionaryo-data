@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1525'
 origen: Jeneral
+
 versions:
--   accented: tresladar
-    ladino: tresladar
+  - ladino: tresladar
+
     translations:
         english: translate
         french: ''
         portuguese: ''
         spanish: traducir
         turkish: tercüme etmek
+
+conjugations: {}
+
+examples: []

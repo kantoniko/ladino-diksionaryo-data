@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2237'
 origen: Jeneral
+
 versions:
--   accented: tremblar
-    ladino: tremblar
+  - ladino: tremblar
+
     translations:
         english: tremble
         french: ''
         portuguese: ''
         spanish: temblar
         turkish: titremek
+
+conjugations: {}
+
+examples: []

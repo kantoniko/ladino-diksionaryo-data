@@ -1,17 +1,60 @@
-examples:
--   ladino: Solo los sefaradim turkanos van a konoser esta palavra "alikobeni"!
 grammar: adjective
 id: '2639'
 origen: Jeneral
+
 versions:
--   accented: turkáno
-    alternative-spelling:
-    -   accented: turkána
-        ladino: turkana
-    ladino: turkano
+  - ladino: turkano
+    accented: turkáno
+
+    gender: masculine
+    number: singular
+
     translations:
         english: of Turkish origin
         french: ''
         portuguese: ''
         spanish: de Turquía
         turkish: Türkiyeli
+
+  - ladino: turkana
+    accented: turkána
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: of Turkish origin
+        french: ''
+        portuguese: ''
+        spanish: de Turquía
+        turkish: Türkiyeli
+
+  - ladino: turkanos
+    accented: turkános
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: of Turkish origin
+        french: ''
+        portuguese: ''
+        spanish: de Turquía
+        turkish: Türkiyeli
+
+  - ladino: turkanas
+    accented: turkánas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: of Turkish origin
+        french: ''
+        portuguese: ''
+        spanish: de Turquía
+        turkish: Türkiyeli
+
+
+examples:
+  - ladino: Solo los sefaradim turkanos van a konoser esta palavra "alikobeni"!

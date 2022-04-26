@@ -1,16 +1,20 @@
-examples: []
-grammar: null
+grammar: verb
 id: '983'
 origen: Jeneral
+
 versions:
--   accented: senar
+  - ladino: senar
+
     alternative-spelling:
-    -   accented: komer por la noche
-        ladino: komer por la noche
-    ladino: senar
+      - ladino: komer por la noche
+
     translations:
         english: dine
         french: ''
         portuguese: ''
         spanish: cenar
         turkish: akşam yemeği yemek
+
+conjugations: {}
+
+examples: []

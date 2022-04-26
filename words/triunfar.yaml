@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1102'
 origen: Jeneral
+
 versions:
--   accented: triunfar
-    ladino: triunfar
+  - ladino: triunfar
+
     translations:
         english: triumph
         french: ''
         portuguese: ''
         spanish: triunfar
         turkish: galip gelmek
+
+conjugations: {}
+
+examples: []

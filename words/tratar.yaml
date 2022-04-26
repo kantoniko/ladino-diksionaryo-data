@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1096'
 origen: Jeneral
+
 versions:
--   accented: tratar
-    ladino: tratar
+  - ladino: tratar
+
     translations:
         english:
         - treat
@@ -15,3 +15,7 @@ versions:
         turkish:
         - davranmak
         - pazarlık etmek
+
+conjugations: {}
+
+examples: []
