@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '722'
 origen: Jeneral
+
 versions:
--   accented: mereser
-    ladino: mereser
+  - ladino: mereser
+
     translations:
         english: deserve
         french: ''
         portuguese: ''
         spanish: merecer
         turkish: hak etmek
+
+conjugations: {}
+
+examples: []

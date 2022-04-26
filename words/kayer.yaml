@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '544'
 origen: Jeneral
+
 versions:
--   accented: kayer
-    ladino: kayer
+  - ladino: kayer
+
     translations:
         english: fall
         french: ''
         portuguese: ''
         spanish: caer
         turkish: düşmek
+
+conjugations: {}
+
+examples: []

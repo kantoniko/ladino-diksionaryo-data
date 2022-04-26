@@ -1,13 +1,13 @@
-examples: []
-grammar: null
+grammar: verb
 id: '847'
 origen: Jeneral
+
 versions:
--   accented: pedrer
+  - ladino: pedrer
+
     alternative-spelling:
-    -   accented: piedrer
-        ladino: piedrer
-    ladino: pedrer
+      - ladino: piedrer
+
     translations:
         english: lose
         french: ''
@@ -16,3 +16,7 @@ versions:
         turkish:
         - kaybetmek
         - zarar etmek
+
+conjugations: {}
+
+examples: []

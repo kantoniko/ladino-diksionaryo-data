@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '959'
 origen: Jeneral
+
 versions:
--   accented: romper
-    ladino: romper
+  - ladino: romper
+
     translations:
         english: break
         french: ''
         portuguese: ''
         spanish: romper
         turkish: kırmak
+
+conjugations: {}
+
+examples: []

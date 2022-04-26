@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '355'
 origen: Jeneral
+
 versions:
--   accented: eskojer
-    ladino: eskojer
+  - ladino: eskojer
+
     translations:
         english: choose
         french: ''
         portuguese: ''
         spanish: escoger
         turkish: seçmek
+
+conjugations: {}
+
+examples: []

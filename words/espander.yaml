@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1798'
 origen: Jeneral
+
 versions:
--   accented: espander
-    ladino: espander
+  - ladino: espander
+
     translations:
         english: stick out
         french: ''
         portuguese: ''
         spanish: asomar
         turkish: uzatmak
+
+conjugations: {}
+
+examples: []

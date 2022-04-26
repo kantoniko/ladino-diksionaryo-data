@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2143'
 origen: Jeneral
+
 versions:
--   accented: responder
-    ladino: responder
+  - ladino: responder
+
     translations:
         english:
         - respond
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: responder
         turkish: cevap vermek
+
+conjugations: {}
+
+examples: []

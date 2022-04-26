@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1511'
 origen: Jeneral
+
 versions:
--   accented: sorprender
-    ladino: sorprender
+  - ladino: sorprender
+
     translations:
         english: surprise
         french: ''
         portuguese: ''
         spanish: sorprender
         turkish: şaşırtmak
+
+conjugations: {}
+
+examples: []

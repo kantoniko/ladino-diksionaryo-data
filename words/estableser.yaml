@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '381'
 origen: Jeneral
+
 versions:
--   accented: estableser
-    ladino: estableser
+  - ladino: estableser
+
     translations:
         english: establish
         french: ''
@@ -13,3 +13,7 @@ versions:
         - establecer
         - plantear
         turkish: tesis etmek
+
+conjugations: {}
+
+examples: []

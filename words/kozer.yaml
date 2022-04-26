@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '624'
 origen: Jeneral
+
 versions:
--   accented: kozer
-    ladino: kozer
+  - ladino: kozer
+
     translations:
         english: cook
         french: ''
         portuguese: ''
         spanish: cocinar
         turkish: pişirmek
+
+conjugations: {}
+
+examples: []
