@@ -1,11 +1,14 @@
-examples:
--   ladino: El lavado kedó úmido.
 grammar: adjective
 id: '2907'
 origen: Jeneral
+
 versions:
--   accented: úmido
-    ladino: umido
+  - ladino: umido
+    accented: úmido
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - damp
@@ -16,3 +19,58 @@ versions:
         turkish:
         - nemli
         - rutubetli
+
+  - ladino: umida
+    accented: úmida
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - damp
+        - humid
+        french: ''
+        portuguese: ''
+        spanish: húmeda
+        turkish:
+        - nemli
+        - rutubetli
+
+  - ladino: umidos
+    accented: úmidos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - damp
+        - humid
+        french: ''
+        portuguese: ''
+        spanish: húmedos
+        turkish:
+        - nemli
+        - rutubetli
+
+  - ladino: umidas
+    accented: úmidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - damp
+        - humid
+        french: ''
+        portuguese: ''
+        spanish: húmedas
+        turkish:
+        - nemli
+        - rutubetli
+
+
+examples:
+  - ladino: El lavado kedó úmido.

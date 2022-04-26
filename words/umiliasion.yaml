@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1528'
 origen: Jeneral
+
 versions:
--   accented: umiliasion
-    ladino: umiliasion
+  - ladino: umiliasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: humiliation
         french: ''
         portuguese: ''
         spanish: humillación
         turkish: aşağılanma
+
+  - ladino: umiliasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: humiliations
+        french: ''
+        portuguese: ''
+        spanish: humillaciónes
+        turkish: aşağılanma
+
+
+examples: []

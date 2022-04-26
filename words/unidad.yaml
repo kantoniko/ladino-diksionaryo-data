@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1114'
 origen: Jeneral
+
 versions:
--   accented: unidad
-    ladino: unidad
+  - ladino: unidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: unity
         french: ''
         portuguese: ''
         spanish: unidad
         turkish: birlik
+
+  - ladino: unidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: unities
+        french: ''
+        portuguese: ''
+        spanish: unidades
+        turkish: birlik
+
+
+examples: []

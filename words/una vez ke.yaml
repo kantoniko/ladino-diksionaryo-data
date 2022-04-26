@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '2242'
 origen: Jeneral
+
 versions:
--   accented: una vez ke
-    ladino: una vez ke
+  - ladino: una vez ke
+
     translations:
         english:
         - since
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: como quiera que
         turkish: madem ki
+
+examples: []

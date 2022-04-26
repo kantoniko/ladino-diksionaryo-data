@@ -1,13 +1,55 @@
-examples: []
 grammar: null
 id: '1117'
 origen: Jeneral
+
 versions:
--   accented: universal
-    ladino: universal
+  - ladino: universal
+
+    gender: masculine
+    number: singular
+
     translations:
         english: universal
         french: ''
         portuguese: ''
         spanish: universal
         turkish: evrensel
+
+  - ladino: universala
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: universal
+        french: ''
+        portuguese: ''
+        spanish: universala
+        turkish: evrensel
+
+  - ladino: universales
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: universal
+        french: ''
+        portuguese: ''
+        spanish: universales
+        turkish: evrensel
+
+  - ladino: universalas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: universal
+        french: ''
+        portuguese: ''
+        spanish: universalas
+        turkish: evrensel
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1108'
 origen: Jeneral
+
 versions:
--   accented: tubo
-    ladino: tubo
+  - ladino: tubo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: tube
         french: ''
         portuguese: ''
         spanish: tubo
         turkish: tüp
+
+  - ladino: tubos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tubes
+        french: ''
+        portuguese: ''
+        spanish: tubos
+        turkish: tüp
+
+
+examples: []
