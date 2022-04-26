@@ -1,10 +1,9 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1049'
 origen: Jeneral
+
 versions:
--   accented: suvir
-    ladino: suvir
+  - ladino: suvir
     translations:
         english:
         - mount
@@ -13,3 +12,7 @@ versions:
         portuguese: ''
         spanish: montar
         turkish: binmek
+
+conjugations: {}
+
+examples: []

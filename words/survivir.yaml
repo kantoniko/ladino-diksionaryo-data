@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1047'
 origen: Jeneral
+
 versions:
--   accented: survivir
-    ladino: survivir
+  - ladino: survivir
+
     translations:
         english: survive
         french: ''
         portuguese: ''
         spanish: sobrevivir
         turkish: hayatta kalmak
+
+conjugations: {}
+
+examples: []

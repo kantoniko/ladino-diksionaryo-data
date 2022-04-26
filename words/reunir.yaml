@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '947'
 origen: Jeneral
+
 versions:
--   accented: reunir
-    ladino: reunir
+  - ladino: reunir
+
     translations:
         english: reunite
         french: ''
         portuguese: ''
         spanish: reunir
         turkish: birleştirmek
+
+conjugations: {}
+
+examples: []

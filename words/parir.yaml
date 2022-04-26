@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '829'
 origen: Jeneral
+
 versions:
--   accented: parir
-    ladino: parir
+  - ladino: parir
+
     translations:
         english: give birth
         french: ''
         portuguese: ''
         spanish: parir
         turkish: doğurmak
+
+conjugations: {}
+
+examples: []

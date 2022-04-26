@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1041'
 origen: Jeneral
+
 versions:
--   accented: sufrir
-    ladino: sufrir
+  - ladino: sufrir
+
     translations:
         english: suffer
         french: ''
         portuguese: ''
         spanish: sufrir
         turkish: acı çekmek
+
+conjugations: {}
+
+examples: []

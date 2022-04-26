@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2210'
 origen: Jeneral
+
 versions:
--   accented: surjir
-    ladino: surjir
+  - ladino: surjir
+
     translations:
         english: arise
         french: ''
         portuguese: ''
         spanish: surgir
         turkish: ortaya çıkmak
+
+conjugations: {}
+
+examples: []

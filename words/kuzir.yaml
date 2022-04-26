@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '655'
 origen: Jeneral
+
 versions:
--   accented: kuzir
-    ladino: kuzir
+  - ladino: kuzir
     translations:
         english: saw
         french: ''
+        hebrew: לתפור
         portuguese: ''
         spanish: coser
         turkish: dıkış dikmek
+
+conjugations: {}
+
+examples: []

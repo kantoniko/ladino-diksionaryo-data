@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '144'
 origen: Jeneral
+
 versions:
--   accented: avrir
-    ladino: avrir
+  - ladino: avrir
+
     translations:
         english: open
         french: ''
         portuguese: ''
         spanish: abrir
         turkish: açmak
+
+conjugations: {}
+
+examples: []

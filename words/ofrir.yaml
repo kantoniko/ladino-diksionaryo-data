@@ -1,13 +1,18 @@
-examples: []
-grammar: null
+grammar: verb
 id: '784'
 origen: Jeneral
+
 versions:
--   accented: ofrir
-    ladino: ofrir
+  - ladino: ofrir
+
     translations:
         english: offer
         french: ''
         portuguese: ''
         spanish: ofrecer
         turkish: ikram etmek
+
+conjugations: {}
+
+examples: []
+
