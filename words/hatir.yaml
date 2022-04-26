@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1349'
 origen: Jeneral
+
 versions:
--   accented: hatir
-    ladino: hatir
+  - ladino: hatir
+
     translations:
         english: favour
         french: ''
         portuguese: ''
         spanish: favor
         turkish: hatır
+
+conjugations: {}
+
+examples: []

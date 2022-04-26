@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '943'
 origen: Jeneral
+
 versions:
--   accented: resivir
-    ladino: resivir
+  - ladino: resivir
+
     translations:
         english: receive
         french: ''
@@ -13,3 +13,7 @@ versions:
         turkish:
         - almak
         - kabul etmek
+
+conjugations: {}
+
+examples: []

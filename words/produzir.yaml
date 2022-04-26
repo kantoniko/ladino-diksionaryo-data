@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2108'
 origen: Jeneral
+
 versions:
--   accented: produzir
-    ladino: produzir
+  - ladino: produzir
+
     translations:
         english: produce
         french: ''
         portuguese: ''
         spanish: producir
         turkish: üretmek
+
+conjugations: {}
+
+examples: []

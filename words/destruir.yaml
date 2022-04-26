@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '251'
 origen: Jeneral
+
 versions:
--   accented: destruir
-    ladino: destruir
+  - ladino: destruir
+
     translations:
         english: destroy
         french: ''
         portuguese: ''
         spanish: destruir
         turkish: yıkmak
+
+conjugations: {}
+
+examples: []

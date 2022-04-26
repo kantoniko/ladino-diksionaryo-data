@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1501'
 origen: Jeneral
+
 versions:
--   accented: siguir
-    ladino: siguir
+  - ladino: siguir
+
     translations:
         english: follow
         french: ''
         portuguese: ''
         spanish: seguir
         turkish: izlemek
+
+conjugations: {}
+
+examples: []

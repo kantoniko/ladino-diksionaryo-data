@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '949'
 origen: Jeneral
+
 versions:
--   accented: reushir
-    ladino: reushir
+  - ladino: reushir
+
     translations:
         english: be successful
         french: ''
         portuguese: ''
         spanish: tener éxito
         turkish: başarılı olmak
+
+conjugations: {}
+
+examples: []

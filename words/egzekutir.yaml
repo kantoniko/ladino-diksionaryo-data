@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1753'
 origen: Jeneral
+
 versions:
--   accented: egzekutir
-    ladino: egzekutir
+  - ladino: egzekutir
+
     translations:
         english: execute
         french: ''
         portuguese: ''
         spanish: ejecutar
         turkish: infaz etmek
+
+conjugations: {}
+
+examples: []

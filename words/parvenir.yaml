@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1439'
 origen: Jeneral
+
 versions:
--   accented: parvenir
-    ladino: parvenir
+  - ladino: parvenir
+
     translations:
         english:
         - succeed
@@ -15,3 +15,7 @@ versions:
         turkish:
         - becermek
         - erişmek
+
+conjugations: {}
+
+examples: []

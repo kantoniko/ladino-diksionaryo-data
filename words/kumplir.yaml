@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '644'
 origen: Jeneral
+
 versions:
--   accented: kumplir
-    ladino: kumplir
+  - ladino: kumplir
+
     translations:
         english: accomplish
         french: ''
         portuguese: ''
         spanish: cumplir
         turkish: tamamlamak
+
+conjugations: {}
+
+examples: []

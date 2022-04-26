@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1801'
 origen: Jeneral
+
 versions:
--   accented: espedir
-    ladino: espedir
+  - ladino: espedir
+
     translations:
         english: despatch
         french: ''
         portuguese: ''
         spanish: despachar
         turkish: sevk etmek
+
+conjugations: {}
+
+examples: []
