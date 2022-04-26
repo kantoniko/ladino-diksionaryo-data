@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2299'
 origen: Gresia
+
 versions:
--   accented: fazer
-    ladino: fazer
+  - ladino: fazer
+
     translations:
         english:
         - do
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: hacer
         turkish: yapmak
+
+conjugations: {}
+
+examples: []

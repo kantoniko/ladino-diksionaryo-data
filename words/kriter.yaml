@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1955'
 origen: Jeneral
+
 versions:
--   accented: kriter
-    ladino: kriter
+  - ladino: kriter
+
     translations:
         english: criterion
         french: ''
         portuguese: ''
         spanish: criterio
         turkish: kriter
+
+examples: []

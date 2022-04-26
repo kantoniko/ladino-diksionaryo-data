@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '174'
 origen: Jeneral
+
 versions:
--   accented: bever
-    ladino: bever
+  - ladino: bever
+
     translations:
         english: drink
         french: ''
         portuguese: ''
         spanish: beber
         turkish: içmek
+
+conjugations: {}
+
+examples: []

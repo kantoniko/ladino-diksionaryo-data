@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '782'
 origen: Jeneral
+
 versions:
--   accented: obtener
-    ladino: obtener
+  - ladino: obtener
+
     translations:
         english: obtain
         french: ''
@@ -13,3 +13,7 @@ versions:
         - obtener
         - conseguir
         turkish: elde etmek
+
+conjugations: {}
+
+examples: []

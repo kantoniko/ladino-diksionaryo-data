@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1609'
 origen: Jeneral
+
 versions:
--   accented: apareser
-    ladino: apareser
+  - ladino: apareser
+
     translations:
         english: appear
         french: ''
         portuguese: ''
         spanish: aparecer
         turkish: belirmek
+
+conjugations: {}
+
+examples: []

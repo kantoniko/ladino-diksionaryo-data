@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1305'
 origen: Jeneral
+
 versions:
--   accented: engrandeser
-    ladino: engrandeser
+  - ladino: engrandeser
+
     translations:
         english: grow
         french: ''
         portuguese: ''
         spanish: crecer
         turkish: büyümek
+
+conjugations: {}
+
+examples: []

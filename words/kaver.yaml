@@ -1,13 +1,16 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1893'
 origen: Jeneral
+
 versions:
--   accented: kaver
-    ladino: kaver
+  - ladino: kaver
+
     translations:
         english: fit
         french: ''
         portuguese: ''
         spanish: caber
         turkish: sığmak
+
+conjugations: {}
+examples: []

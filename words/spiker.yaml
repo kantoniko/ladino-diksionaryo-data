@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2200'
 origen: Jeneral
+
 versions:
--   accented: spiker
-    ladino: spiker
+  - ladino: spiker
+
+    gender: masculine
+    number: singular
+
     translations:
         english: announcer
         french: ''
         portuguese: ''
         spanish: locutor
         turkish: spiker
+
+examples: []

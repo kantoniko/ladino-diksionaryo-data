@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1389'
 origen: Jeneral
+
 versions:
--   accented: konvenser
-    ladino: konvenser
+  - ladino: konvenser
+
     translations:
         english: convince
         french: ''
         portuguese: ''
         spanish: convencer
         turkish: ikna etmek
+
+conjugations: {}
+
+examples: []

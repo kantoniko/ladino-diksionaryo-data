@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '908'
 origen: Jeneral
+
 versions:
--   accented: prometer
-    ladino: prometer
+  - ladino: prometer
+
     translations:
         english: promise
         french: ''
         portuguese: ''
         spanish: prometer
         turkish: söz vermek
+
+conjugations: {}
+
+examples: []

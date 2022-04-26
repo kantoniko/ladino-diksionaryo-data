@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1490'
 origen: Jeneral
+
 versions:
--   accented: rezolver
-    ladino: rezolver
+  - ladino: rezolver
+
     translations:
         english: solve
         french: ''
@@ -13,3 +13,7 @@ versions:
         turkish:
         - halletmek
         - çözümlemek
+
+conjugations: {}
+
+examples: []

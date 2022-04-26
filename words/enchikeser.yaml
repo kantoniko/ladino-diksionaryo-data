@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1768'
 origen: Jeneral
+
 versions:
--   accented: enchikeser
-    ladino: enchikeser
+  - ladino: enchikeser
+
     translations:
         english: reduce
         french: ''
         portuguese: ''
         spanish: reducir
         turkish: küçültmek
+
+conjugations: {}
+
+examples: []

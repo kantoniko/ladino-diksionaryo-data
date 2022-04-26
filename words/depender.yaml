@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '236'
 origen: Jeneral
+
 versions:
--   accented: depender
-    ladino: depender
+  - ladino: depender
+
     translations:
         english: depend
         french: ''
         portuguese: ''
         spanish: depender
         turkish: bağımlı olmak
+
+conjugations: {}
+
+examples: []

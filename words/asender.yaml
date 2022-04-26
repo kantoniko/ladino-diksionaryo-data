@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1230'
 origen: Jeneral
+
 versions:
--   accented: asender
-    ladino: asender
+  - ladino: asender
+
     translations:
         english:
         - light
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: encender
         turkish: yakmak
+
+conjugations: {}
+
+examples: []

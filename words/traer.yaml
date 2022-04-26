@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1094'
 origen: Jeneral
+
 versions:
--   accented: traer
-    ladino: traer
+  - ladino: traer
+
     translations:
         english: bring
         french: ''
         portuguese: ''
         spanish: traer
         turkish: getirmek
+
+conjugations: {}
+
+examples: []

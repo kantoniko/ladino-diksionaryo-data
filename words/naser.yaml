@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1424'
 origen: Jeneral
+
 versions:
--   accented: naser
-    ladino: naser
+  - ladino: naser
+
     translations:
         english: be born
         french: ''
         portuguese: ''
         spanish: nacer
         turkish: doğmak
+
+conjugations: {}
+
+examples: []

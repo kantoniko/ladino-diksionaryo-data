@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1951'
 origen: Jeneral
+
 versions:
--   accented: kreser
-    ladino: kreser
+  - ladino: kreser
+
     translations:
         english:
         - grow
@@ -15,3 +15,7 @@ versions:
         turkish:
         - büyümek
         - çoğalmak
+
+conjugations: {}
+
+examples: []

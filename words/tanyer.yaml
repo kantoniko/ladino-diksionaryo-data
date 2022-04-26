@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1515'
 origen: Jeneral
+
 versions:
--   accented: tanyer
-    ladino: tanyer
+  - ladino: tanyer
+
     translations:
         english:
         - ring
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: tañer
         turkish: çalgı çalmak
+
+conjugations: {}
+
+examples: []

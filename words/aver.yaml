@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '141'
 origen: Jeneral
+
 versions:
--   accented: aver
-    ladino: aver
+  - ladino: aver
+
     translations:
         english: have
         french: ''
         portuguese: ''
         spanish: haber
         turkish: olmak
+
+conjugations: {}
+
+examples: []

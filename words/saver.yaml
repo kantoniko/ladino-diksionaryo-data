@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '970'
 origen: Jeneral
+
 versions:
--   accented: saver
-    ladino: saver
+  - ladino: saver
+
     translations:
         english: know
         french: ''
         portuguese: ''
         spanish: saber
         turkish: bilmek
+
+conjugations: {}
+
+examples: []

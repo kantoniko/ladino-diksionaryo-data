@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '558'
 origen: Jeneral
+
 versions:
--   accented: kerer
-    ladino: kerer
+  - ladino: kerer
+
     translations:
         english:
         - want
@@ -15,3 +15,7 @@ versions:
         turkish:
         - istemek
         - sevmek
+
+conjugations: {}
+
+examples: []
