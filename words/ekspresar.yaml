@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1295'
 origen: Jeneral
+
 versions:
--   accented: ekspresar
-    ladino: ekspresar
+  - ladino: ekspresar
+
     translations:
         english: express
         french: ''
         portuguese: ''
         spanish: expresar
         turkish: beyan etmek
+
+conjugations: {}
+
+examples: []

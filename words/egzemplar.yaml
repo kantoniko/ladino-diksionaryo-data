@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1754'
 origen: Jeneral
+
 versions:
--   accented: egzemplar
-    ladino: egzemplar
+  - ladino: egzemplar
+
     translations:
         english: exemplary
         french: ''
         portuguese: ''
         spanish: ejemplar
         turkish: órnek olabilecek
+
+conjugations: {}
+
+examples: []

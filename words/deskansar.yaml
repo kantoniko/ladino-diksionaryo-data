@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '242'
 origen: Jeneral
+
 versions:
--   accented: deskansar
-    ladino: deskansar
+  - ladino: deskansar
+
     translations:
         english: rest
         french: ''
         portuguese: ''
         spanish: descansar
         turkish: dinlenmek
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1289'
 origen: Jeneral
+
 versions:
--   accented: editar
-    ladino: editar
+  - ladino: editar
+
     translations:
         english: edit
         french: ''
         portuguese: ''
         spanish: editar
         turkish: düzenlemek (yazı)
+
+conjugations: {}
+
+examples: []

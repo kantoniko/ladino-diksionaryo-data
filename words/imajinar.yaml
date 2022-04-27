@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1351'
 origen: Jeneral
+
 versions:
--   accented: imajinar
-    ladino: imajinar
+  - ladino: imajinar
+
     translations:
         english: imagine
         french: ''
         portuguese: ''
         spanish: imaginar
         turkish: tahayyül etmek
+
+conjugations: {}
+
+examples: []

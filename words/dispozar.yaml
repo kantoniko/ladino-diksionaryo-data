@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '265'
 origen: Jeneral
+
 versions:
--   accented: dispozar
-    ladino: dispozar
+  - ladino: dispozar
+
     translations:
         english: make use of
         french: ''
         portuguese: ''
         spanish: disponer
         turkish: kullanabilmek
+
+conjugations: {}
+
+examples: []

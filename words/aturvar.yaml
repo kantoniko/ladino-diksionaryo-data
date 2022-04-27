@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1647'
 origen: Jeneral
+
 versions:
--   accented: aturvar
-    ladino: aturvar
+  - ladino: aturvar
+
     translations:
         english: disturb
         french: ''
         portuguese: ''
         spanish: azorar
         turkish: rahatsız etmek
+
+conjugations: {}
+
+examples: []

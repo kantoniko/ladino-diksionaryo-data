@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1755'
 origen: Jeneral
+
 versions:
--   accented: ekonomizar
-    ladino: ekonomizar
+  - ladino: ekonomizar
+
     translations:
         english: save
         french: ''
         portuguese: ''
         spanish: ahorrar
         turkish: tasarruf etmek
+
+conjugations: {}
+
+examples: []

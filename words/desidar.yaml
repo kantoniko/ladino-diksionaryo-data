@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1265'
 origen: Jeneral
+
 versions:
--   accented: desidar
-    ladino: desidar
+  - ladino: desidar
+
     translations:
         english: decide
         french: ''
         portuguese: ''
         spanish: decidir
         turkish: karar vermek
+
+conjugations: {}
+
+examples: []
