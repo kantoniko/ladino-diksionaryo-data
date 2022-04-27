@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1321'
 origen: Jeneral
+
 versions:
--   accented: eskuzar
-    ladino: eskuzar
+  - ladino: eskuzar
+
     translations:
         english: excuse
         french: ''
@@ -13,3 +13,7 @@ versions:
         - excusar
         - disculpar
         turkish: mazur görmek
+
+conjugations: {}
+
+examples: []

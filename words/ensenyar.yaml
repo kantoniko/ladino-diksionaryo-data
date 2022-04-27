@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1310'
 origen: Jeneral
+
 versions:
--   accented: ensenyar
-    ladino: ensenyar
+  - ladino: ensenyar
+
     translations:
         english: teach
         french: ''
         portuguese: ''
         spanish: enseñar
         turkish: öğretmek
+
+conjugations: {}
+
+examples: []

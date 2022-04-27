@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '364'
 origen: Jeneral
+
 versions:
--   accented: espantar
-    ladino: espantar
+  - ladino: espantar
+
     translations:
         english: frighten
         french: ''
         portuguese: ''
         spanish: asustar
         turkish: korkutmak
+
+conjugations: {}
+
+examples: []

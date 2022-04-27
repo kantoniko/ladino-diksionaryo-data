@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '341'
 origen: Jeneral
+
 versions:
--   accented: entrar
-    ladino: entrar
+  - ladino: entrar
+
     translations:
         english: enter
         french: ''
         portuguese: ''
         spanish: entrar
         turkish: girmek
+
+conjugations: {}
+
+examples: []

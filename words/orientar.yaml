@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '804'
 origen: Jeneral
+
 versions:
--   accented: orientar
-    ladino: orientar
+  - ladino: orientar
+
     translations:
         english: orientate
         french: ''
         portuguese: ''
         spanish: orientar
         turkish: yönlendirmek
+
+conjugations: {}
+
+examples: []

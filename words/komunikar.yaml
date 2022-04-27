@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1378'
 origen: Jeneral
+
 versions:
--   accented: komunikar
-    ladino: komunikar
+  - ladino: komunikar
+
     translations:
         english: communicate
         french: ''
@@ -13,3 +13,7 @@ versions:
         turkish:
         - bildirmek
         - iletmek
+
+conjugations: {}
+
+examples: []

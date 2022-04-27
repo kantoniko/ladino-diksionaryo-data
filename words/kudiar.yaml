@@ -1,10 +1,9 @@
-examples: []
-grammar: null
+grammar: verb
 id: '637'
 origen: Jeneral
 versions:
--   accented: kudiar
-    ladino: kudiar
+  - ladino: kudiar
+
     translations:
         english:
         - take care
@@ -17,3 +16,7 @@ versions:
         - merak etmek
         - dikkat etmek
         - ilgilenmek
+
+conjugations: {}
+
+examples: []

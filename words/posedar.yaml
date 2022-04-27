@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2085'
 origen: Jeneral
+
 versions:
--   accented: posedar
-    ladino: posedar
+  - ladino: posedar
+
     translations:
         english: possess
         french: ''
         portuguese: ''
         spanish: poseer
         turkish: sahip olmak
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1757'
 origen: Jeneral
+
 versions:
--   accented: eksplorar
-    ladino: eksplorar
+  - ladino: eksplorar
+
     translations:
         english: explore
         french: ''
         portuguese: ''
         spanish: explorar
         turkish: keşfetmek
+
+conjugations: {}
+
+examples: []

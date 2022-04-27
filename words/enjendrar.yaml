@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1306'
 origen: Jeneral
+
 versions:
--   accented: enjendrar
-    ladino: enjendrar
+  - ladino: enjendrar
+
     translations:
         english:
         - beget
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: engendrar
         turkish: dünyaya getirmek
+
+conjugations: {}
+
+examples: []

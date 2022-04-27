@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1828'
 origen: Jeneral
+
 versions:
--   accented: forsar
-    ladino: forsar
+  - ladino: forsar
+
     translations:
         english: impose
         french: ''
         portuguese: ''
         spanish: imponer
         turkish: kabul ettirmek
+
+conjugations: {}
+
+examples: []

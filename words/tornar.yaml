@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1091'
 origen: Jeneral
+
 versions:
--   accented: tornar
-    ladino: tornar
+  - ladino: tornar
+
     translations:
         english: turn
         french: ''
         portuguese: ''
         spanish: tornar
         turkish: dönmek
+
+conjugations: {}
+
+examples: []
