@@ -1,20 +1,43 @@
-comments:
-- 'grammar: adj'
-examples:
--   ladino: Los artikolos ke meldamos en Ladinokomunita son uno mas enteresante del
-        otro.
-grammar: null
+grammar: adjective
 id: '2311'
 origen: Jeneral
+
 versions:
--   accented: enteresánte
+  - ladino: enteresante
+    accented: enteresánte
+
     alternative-spelling:
-    -   accented: interesánte
-        ladino: interesante
-    ladino: enteresante
+      - ladino: interesante
+        accented: interesánte
+
+    #gender: masculine
+    number: singular
+
     translations:
         english: interesting
         french: ''
         portuguese: ''
         spanish: interesante
         turkish: ilginç
+
+  - ladino: enteresantes
+    accented: enteresántes
+
+    alternative-spelling:
+      - ladino: interesantes
+        accented: interesántes
+
+    #gender: masculine
+    number: plural
+
+    translations:
+        english: interesting
+        french: ''
+        portuguese: ''
+        spanish: interesantes
+        turkish: ilginç
+
+
+examples:
+  - ladino: Los artikolos ke meldamos en Ladinokomunita son uno mas enteresante del otro.
+

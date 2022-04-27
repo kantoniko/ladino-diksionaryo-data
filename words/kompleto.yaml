@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: kompleto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: complete
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: completo
+      turkish: ''
+
+  - ladino: kompleta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: complete
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: completa
+      turkish: ''
+
+  - ladino: kompletos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: complete
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: completos
+      turkish: ''
+
+  - ladino: kompletas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: complete
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: completas
+      turkish: ''
+
+examples: []

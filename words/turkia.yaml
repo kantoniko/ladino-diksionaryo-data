@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - paises
+
+versions:
+  - ladino: Turkia
+
+    translations:
+      english: Turkey
+      french: ''
+      hebrew: טורקיה
+      portuguese: ''
+      spanish: Turquía
+      turkish: ''
+
+examples: []

@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: biblioteka
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: library
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: biblioteca
+      turkish: ''
+
+  - ladino: bibliotekas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: libraries
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bibliotecas
+      turkish: ''
+
+
+examples: []
