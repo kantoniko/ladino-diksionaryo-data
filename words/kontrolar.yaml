@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '608'
 origen: Jeneral
+
 versions:
--   accented: kontrolar
-    ladino: kontrolar
+  - ladino: kontrolar
+
     translations:
         english: control
         french: ''
         portuguese: ''
         spanish: controlar
         turkish: kontrol etmek
+
+conjugations: {}
+
+examples: []

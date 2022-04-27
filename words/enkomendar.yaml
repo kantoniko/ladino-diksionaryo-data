@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2293'
 origen: Jeneral
+
 versions:
--   accented: enkomendar
-    ladino: enkomendar
+  - ladino: enkomendar
+
     translations:
         english:
         - recommend
@@ -17,3 +17,7 @@ versions:
         turkish:
         - tembih etmek
         - sipariş etmek
+
+conjugations: {}
+
+examples: []

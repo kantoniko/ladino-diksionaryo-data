@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1891'
 origen: Jeneral
+
 versions:
--   accented: kasar
-    ladino: kasar
+  - ladino: kasar
+
     translations:
         english: hunt
         french: ''
         portuguese: ''
         spanish: cazar
         turkish: avlamak
+
+conjugations: {}
+
+examples: []

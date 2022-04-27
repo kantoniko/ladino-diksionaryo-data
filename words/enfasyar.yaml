@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '322'
 origen: Jeneral
+
 versions:
--   accented: enfasyar
-    ladino: enfasyar
+  - ladino: enfasyar
+
     translations:
         english: bore
         french: ''
         portuguese: ''
         spanish: aburrir
         turkish: can sıkmak
+
+conjugations: {}
+
+examples: []

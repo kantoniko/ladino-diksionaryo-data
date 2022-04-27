@@ -1,16 +1,20 @@
-examples: []
-grammar: null
+grammar: verb
 id: '299'
 origen: Jeneral
+
 versions:
--   accented: eksplikar
+  - ladino: eksplikar
+
     alternative-spelling:
-    -   accented: dar a entender
-        ladino: dar a entender
-    ladino: eksplikar
+      - ladino: dar a entender
+
     translations:
         english: explain
         french: ''
         portuguese: ''
         spanish: explicar
         turkish: izah etmek
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1316'
 origen: Jeneral
+
 versions:
--   accented: envitar
-    ladino: envitar
+  - ladino: envitar
+
     translations:
         english: invite
         french: ''
         portuguese: ''
         spanish: invitar
         turkish: dâvet etmek
+
+conjugations: {}
+
+examples: []

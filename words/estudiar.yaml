@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '394'
 origen: Jeneral
+
 versions:
--   accented: estudiar
-    ladino: estudiar
+  - ladino: estudiar
+
     translations:
         english: study
         french: ''
         portuguese: ''
         spanish: estudiar
         turkish: ders çalışmak
+
+conjugations: {}
+
+examples: []

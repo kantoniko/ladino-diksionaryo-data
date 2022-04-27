@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1918'
 origen: Jeneral
+
 versions:
--   accented: konfirmar
-    ladino: konfirmar
+  - ladino: konfirmar
+
     translations:
         english: corroborate
         french: ''
         portuguese: ''
         spanish: corroborar
         turkish: teyid etmek
+
+conjugations: {}
+
+examples: []

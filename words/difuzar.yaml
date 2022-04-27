@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1271'
 origen: Jeneral
+
 versions:
--   accented: difuzar
-    ladino: difuzar
+  - ladino: difuzar
+
     translations:
         english: diffuse
         french: ''
         portuguese: ''
         spanish: difundir
         turkish: yaymak
+
+conjugations: {}
+
+examples: []

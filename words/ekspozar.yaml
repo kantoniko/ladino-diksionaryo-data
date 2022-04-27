@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1759'
 origen: Jeneral
+
 versions:
--   accented: ekspozar
-    ladino: ekspozar
+  - ladino: ekspozar
+
     translations:
         english: expose
         french: ''
@@ -13,3 +13,7 @@ versions:
         turkish:
         - teşhir etmek
         - maruz bırakmak
+
+conjugations: {}
+
+examples: []

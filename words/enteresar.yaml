@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1780'
 origen: Jeneral
+
 versions:
--   accented: enteresar
-    ladino: enteresar
+  - ladino: enteresar
+
     translations:
         english: interest
         french: ''
         portuguese: ''
         spanish: interesar
         turkish: alâkadar etmek
+
+conjugations: {}
+
+examples: []

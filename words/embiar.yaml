@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1297'
 origen: Jeneral
+
 versions:
--   accented: embiar
-    ladino: embiar
+  - ladino: embiar
+
     translations:
         english: send
         french: ''
         portuguese: ''
         spanish: enviar
         turkish: göndermek
+
+conjugations: {}
+
+examples: []

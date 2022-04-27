@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2232'
 origen: Jeneral
+
 versions:
--   accented: trankilizar
-    ladino: trankilizar
+  - ladino: trankilizar
+
     translations:
         english: reassure
         french: ''
         portuguese: ''
         spanish: tranquilizar
         turkish: yatıştırmak
+
+conjugations: {}
+
+examples: []
