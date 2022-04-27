@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1028'
 origen: Jeneral
+categories:
+  - mobles
+
 versions:
--   accented: siya
-    ladino: siya
+  - ladino: siya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: chair
         french: ''
         portuguese: ''
         spanish: silla
         turkish: sandalye
+
+  - ladino: siyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: chairs
+        french: ''
+        portuguese: ''
+        spanish: sillas
+        turkish: sandalye
+
+
+examples: []

@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '730'
 origen: Jeneral
+categories:
+  - mobles
+
 versions:
--   accented: meza
-    ladino: meza
+  - ladino: meza
+
+    gender: feminine
+    number: singular
+
     translations:
         english: table
         french: ''
         portuguese: ''
         spanish: mesa
         turkish: masa
+
+  - ladino: mezas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: tables
+        french: ''
+        portuguese: ''
+        spanish: mesas
+        turkish: masa
+
+
+examples: []

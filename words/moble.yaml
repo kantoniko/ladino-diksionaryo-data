@@ -1,13 +1,34 @@
-examples: []
 grammar: null
 id: '739'
 origen: Jeneral
+
 versions:
--   accented: moble
-    ladino: moble
+  - ladino: moble
+    accented: moble
+
+    gender: masculine
+    number: singular
+
     translations:
         english: furniture
         french: ''
         portuguese: ''
         spanish: mueble
         turkish: mobilya
+
+  - ladino: mobles
+    accented: mobles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: furniture
+        french: ''
+        portuguese: ''
+        spanish: muebles
+        turkish: mobilya
+
+
+examples:
+  - ladino: En la kaza ay algunos muebles. Por egzempio siyas, mezas, kamas.
