@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '130'
 origen: Jeneral
+
 versions:
--   accented: asukar
-    ladino: asukar
+  - ladino: asukar
+
     translations:
         english: sugar
         french: ''
         portuguese: ''
         spanish: azúcar
         turkish: şeker
+
+examples: []

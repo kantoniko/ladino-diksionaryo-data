@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1228'
 origen: Jeneral
+
 versions:
--   accented: arrufyar
-    ladino: arrufyar
+  - ladino: arrufyar
+
     translations:
         english: irrigate
         french: ''
@@ -13,3 +13,7 @@ versions:
         - irrigar
         - regar
         turkish: sulamak
+
+conjugations: {}
+
+examples: []

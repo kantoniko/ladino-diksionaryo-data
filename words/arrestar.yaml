@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '112'
 origen: Jeneral
+
 versions:
--   accented: arrestar
-    ladino: arrestar
+  - ladino: arrestar
+
     translations:
         english:
         - arrest
@@ -17,3 +17,7 @@ versions:
         turkish:
         - tevkif etmek
         - durdurmak
+
+conjugations: {}
+
+examples: []

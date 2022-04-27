@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '132'
 origen: Jeneral
+
 versions:
--   accented: atar
-    ladino: atar
+  - ladino: atar
+
     translations:
         english: tie
         french: ''
         portuguese: ''
         spanish: atar
         turkish: bağlamak
+
+conjugations: {}
+
+examples: []

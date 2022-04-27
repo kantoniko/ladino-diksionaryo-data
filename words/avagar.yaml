@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '137'
 origen: Jeneral
+
 versions:
--   accented: avagar
-    ladino: avagar
+  - ladino: avagar
+
     translations:
         english: slowly
         french: ''
         portuguese: ''
         spanish: despacio
         turkish: yavaş
+
+examples: []
