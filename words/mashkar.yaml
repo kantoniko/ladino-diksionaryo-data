@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1979'
 origen: Jeneral
+
 versions:
--   accented: mashkar
-    ladino: mashkar
+  - ladino: mashkar
+
     translations:
         english: chew
         french: ''
         portuguese: ''
         spanish: mascar
         turkish: çiğnemek
+
+conjugations: {}
+
+examples: []

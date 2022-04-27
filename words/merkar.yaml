@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '724'
 origen: Jeneral
+
 versions:
--   accented: merkar
-    ladino: merkar
+  - ladino: merkar
+
     translations:
         english: buy
         french: ''
         portuguese: ''
         spanish: comprar
         turkish: satın almak
+
+conjugations: {}
+
+examples: []

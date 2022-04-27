@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '831'
 origen: Jeneral
+
 versions:
--   accented: partajar
-    ladino: partajar
+  - ladino: partajar
+
     translations:
         english: share
         french: ''
         portuguese: ''
         spanish: compartir
         turkish: paylaşmak
+
+conjugations: {}
+
+examples: []

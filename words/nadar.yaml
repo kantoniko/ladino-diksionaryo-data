@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '767'
 origen: Jeneral
+
 versions:
--   accented: nadar
-    ladino: nadar
+  - ladino: nadar
+
     translations:
         english: swim
         french: ''
         portuguese: ''
         spanish: nadar
         turkish: yüzmek
+
+conjugations: {}
+
+examples: []

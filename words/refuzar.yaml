@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '932'
 origen: Jeneral
+
 versions:
--   accented: refuzar
-    ladino: refuzar
+  - ladino: refuzar
+
     translations:
         english: refuse
         french: ''
         portuguese: ''
         spanish: rehusar
         turkish: reddetmek
+
+conjugations: {}
+
+examples: []

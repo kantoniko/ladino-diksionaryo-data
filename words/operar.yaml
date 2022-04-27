@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '793'
 origen: Jeneral
+
 versions:
--   accented: operar
-    ladino: operar
+  - ladino: operar
+
     translations:
         english: operate
         french: ''
         portuguese: ''
         spanish: operar
         turkish: ameliyat etmek
+
+conjugations: {}
+
+examples: []

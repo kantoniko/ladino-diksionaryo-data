@@ -1,0 +1,20 @@
+grammar: verb
+id: '2109'
+origen: Jeneral
+
+versions:
+  - ladino: ganar
+
+    translations:
+        english: gain
+        french: ''
+        portuguese: ''
+        spanish:
+          - ganar
+          - lucrarse
+        turkish: kazanç sağlamak
+
+conjugations: {}
+
+examples: []
+
