@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '521'
 origen: Jeneral
+
 versions:
--   accented: kaminar
-    ladino: kaminar
+  - ladino: kaminar
+
     translations:
         english: walk
         french: ''
         portuguese: ''
         spanish: caminar
         turkish: yürümek
+
+conjugations: {}
+
+examples: []

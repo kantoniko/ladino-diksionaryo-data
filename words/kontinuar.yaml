@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1386'
 origen: Jeneral
+
 versions:
--   accented: kontinuar
-    ladino: kontinuar
+  - ladino: kontinuar
+
     translations:
         english:
         - continue
@@ -15,3 +15,7 @@ versions:
         - continuar
         - proseguir
         turkish: devam etmek
+
+conjugations: {}
+
+examples: []

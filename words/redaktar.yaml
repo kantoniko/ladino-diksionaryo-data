@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2127'
 origen: Jeneral
+
 versions:
--   accented: redaktar
-    ladino: redaktar
+  - ladino: redaktar
+
     translations:
         english: write
         french: ''
         portuguese: ''
         spanish: redactar
         turkish: kaleme almak
+
+conjugations: {}
+
+examples: []

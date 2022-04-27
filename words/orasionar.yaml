@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '799'
 origen: Jeneral
+
 versions:
--   accented: orasionar
-    ladino: orasionar
+  - ladino: orasionar
+
     translations:
         english: pray
         french: ''
         portuguese: ''
         spanish: orar
         turkish: dua etmek
+
+conjugations: {}
+
+examples: []

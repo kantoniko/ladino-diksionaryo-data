@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '994'
 origen: Jeneral
+
 versions:
--   accented: serrar
-    ladino: serrar
+  - ladino: serrar
+
     translations:
         english: shut
         french: ''
         portuguese: ''
         spanish: cerrar
         turkish: kapamak
+
+conjugations: {}
+
+examples: []

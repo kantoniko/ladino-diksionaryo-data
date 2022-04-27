@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '627'
 origen: Jeneral
+
 versions:
--   accented: krear
-    ladino: krear
+  - ladino: krear
+
     translations:
         english: create
         french: ''
         portuguese: ''
         spanish: crear
         turkish: yaratmak
+
+conjugations: {}
+
+examples: []

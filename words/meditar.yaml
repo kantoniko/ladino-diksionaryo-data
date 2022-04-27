@@ -1,13 +1,18 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1982'
 origen: Jeneral
+
 versions:
--   accented: meditar
-    ladino: meditar
+  - ladino: meditar
+
     translations:
         english: meditate
         french: ''
         portuguese: ''
         spanish: meditar
         turkish: tefekkür etmek
+
+conjugations: {}
+
+examples: []
+

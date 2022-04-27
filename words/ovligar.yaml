@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2042'
 origen: Jeneral
+
 versions:
--   accented: ovligar
-    ladino: ovligar
+  - ladino: ovligar
+
     translations:
         english:
         - force
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: obligar
         turkish: mecbur etmek
+
+conjugations: {}
+
+examples: []
