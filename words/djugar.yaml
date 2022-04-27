@@ -1,16 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Se ajuntavan para djugar POKER.
 grammar: verb
 id: '272'
 origen: Jeneral
+
 versions:
--   accented: djugar
-    ladino: djugar
+  - ladino: djugar
+
     translations:
         english: play
         french: jouer
         portuguese: jogar
         spanish: jugar
         turkish: oynamak
+
+conjugations: {}
+
+examples:
+  - ladino: Se ajuntavan para djugar POKER.
 

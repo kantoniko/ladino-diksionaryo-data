@@ -1,24 +1,22 @@
-examples:
--   ladino: 'Al anyo ke viene, keremos dedikar
-
-        uno de los maratones a la medikeria
-
-        (milizinas, doktores, ospitales ets.)
-
-        en las komunidades de los ladinoavlantes.
-
-        '
 grammar: null
 id: '649'
 origen: Jeneral
+
 versions:
--   accented: medikería
+  - ladino: medikeria
+    accented: medikería
+
     gender: feminine
-    ladino: medikeria
     number: singular
+
     translations:
         english: medicine
         french: ''
         portuguese: ''
         spanish: medicina
         turkish: tıp
+
+examples:
+  - ladino: 'Al anyo ke viene, keremos dedikar uno de los maratones a la medikeria
+        (milizinas, doktores, ospitales ets.) en las komunidades de los ladinoavlantes.'
+

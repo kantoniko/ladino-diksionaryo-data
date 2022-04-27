@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1668'
 origen: Jeneral
+
 versions:
--   accented: brodar
-    ladino: brodar
+  - ladino: brodar
+
     translations:
         english: embroider
         french: ''
         portuguese: ''
         spanish: bordar
         turkish: nakış işlemek
+
+conjugations: {}
+
+examples: []

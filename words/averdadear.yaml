@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1651'
 origen: Jeneral
+
 versions:
--   accented: averdadear
-    ladino: averdadear
+  - ladino: averdadear
+
     translations:
         english: make evident
         french: ''
         portuguese: ''
         spanish: evidenciar
         turkish: belirtmek
+
+conjugations: {}
+
+examples: []

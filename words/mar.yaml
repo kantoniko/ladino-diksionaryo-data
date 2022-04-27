@@ -1,15 +1,18 @@
-comments:
-- 'grammar: la'
-examples: []
 grammar: null
 id: '702'
 origen: Jeneral
+
 versions:
--   accented: mar
-    ladino: mar
+  - ladino: mar
+
+    gender: feminine
+    number: singular
+
     translations:
         english: sea
         french: ''
         portuguese: ''
         spanish: mar
         turkish: deniz
+
+examples: []

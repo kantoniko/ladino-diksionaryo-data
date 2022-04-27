@@ -1,18 +1,22 @@
-examples: []
-grammar: null
+grammar: verb
 id: '119'
 origen: Jeneral
+
 versions:
--   accented: arrelumbrar
+  - ladino: arrelumbrar
+
     alternative-spelling:
-    -   accented: asender
-        ladino: asender
-    ladino: arrelumbrar
+      - ladino: asender
+
     translations:
         english: illuminate
         french: ''
         portuguese: ''
         spanish: alumbrar
         turkish: aydınlatmak
+
+conjugations: {}
+
+examples: []
 
 # "arrelumbrar, briyar",,lucir,"sparkle, shine",ışıldamak,Jeneral,1624,,

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '741'
 origen: Jeneral
+
 versions:
--   accented: mojar
-    ladino: mojar
+  - ladino: mojar
+
     translations:
         english: wet
         french: ''
         portuguese: ''
         spanish: mojar
         turkish: ıslatmak
+
+examples: []

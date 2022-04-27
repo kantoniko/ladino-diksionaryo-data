@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '346'
 origen: Jeneral
+
 versions:
--   accented: enyegar
-    ladino: enyegar
+  - ladino: enyegar
+
     translations:
         english: deny
         french: ''
         portuguese: ''
         spanish: negar
         turkish: inkâr etmek
+
+conjugations: {}
+
+examples: []

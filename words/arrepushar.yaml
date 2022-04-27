@@ -1,13 +1,12 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1627'
 origen: Jeneral
 versions:
--   accented: arrepushar
+  - ladino: arrepushar
+
     alternative-spelling:
-    -   accented: arrondjar
-        ladino: arrondjar
-    ladino: arrepushar
+      - ladino: arrondjar
+
     translations:
         english:
         - push
@@ -16,3 +15,7 @@ versions:
         portuguese: ''
         spanish: empujar
         turkish: itmek
+
+conjugations: {}
+
+examples: []

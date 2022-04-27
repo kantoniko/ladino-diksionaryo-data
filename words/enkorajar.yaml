@@ -1,15 +1,24 @@
-examples: []
-grammar: null
-id: '1309'
+grammar: verb
+id: '1309,1777'
 origen: Jeneral
+
 versions:
--   accented: enkorajar
-    ladino: enkorajar
+  - ladino: enkorajar
+
     translations:
-        english: encourage
+        english:
+          - encourage
+          - urge on
         french: ''
         portuguese: ''
-        spanish: animar
-        turkish: cesaretlendirmek
+        spanish:
+          - animar
+          - jalear
+        turkish:
+          - cesaretlendirmek
+          - teşvik etmek
 
-# enkorajar,,jalear,"urge on, encourage",teşvik etmek,Jeneral,1777,,
+conjugations: {}
+
+examples: []
+

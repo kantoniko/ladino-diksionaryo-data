@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '244'
 origen: Jeneral
+
 versions:
--   accented: deskorajar
-    ladino: deskorajar
+  - ladino: deskorajar
+
     translations:
         english: discourage
         french: ''
         portuguese: ''
         spanish: desanimar
         turkish: cesareti kırılmak
+
+conjugations: {}
+
+examples: []

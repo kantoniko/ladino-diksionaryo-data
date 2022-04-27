@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1290'
 origen: Jeneral
+
 versions:
--   accented: egzaminar
-    ladino: egzaminar
+  - ladino: egzaminar
+
     translations:
         english: examine
         french: ''
         portuguese: ''
         spanish: examinar
         turkish: imtihan etmek
+
+conjugations: {}
+
+examples: []

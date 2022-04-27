@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '280'
 origen: Jeneral
+
 versions:
--   accented: dublar
-    ladino: dublar
+  - ladino: dublar
+
     translations:
         english:
         - double
@@ -15,3 +15,7 @@ versions:
         turkish:
         - çiftlemek
         - katlamak
+
+conjugations: {}
+
+examples: []

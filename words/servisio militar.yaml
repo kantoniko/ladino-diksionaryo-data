@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '995'
 origen: Jeneral
+
 versions:
--   accented: servisio militar
-    ladino: servisio militar
+  - ladino: servisio militar
+
     translations:
         english: military service
         french: ''
         portuguese: ''
         spanish: servicio militar
         turkish: askerlik
+
+examples: []
