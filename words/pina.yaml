@@ -1,13 +1,37 @@
-examples: []
 grammar: null
 id: '2267'
 origen: Otros
+
 versions:
--   accented: pina
-    ladino: pina
+  - ladino: pina
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: piedra
+
     translations:
         english: stone
         french: ''
         portuguese: ''
         spanish: piedra
         turkish: taş
+
+  - ladino: pinas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: piedras
+
+    translations:
+        english: stones
+        french: ''
+        portuguese: ''
+        spanish: piedras
+        turkish: taş
+
+
+examples: []
