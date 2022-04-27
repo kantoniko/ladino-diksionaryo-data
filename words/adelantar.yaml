@@ -10,6 +10,7 @@ versions:
         english:
           - advance
           - make progress
+          - be fast (clock)
         french:
           - avancer
           - faire progresser
@@ -17,6 +18,7 @@ versions:
         spanish: adelantar
         turkish:
           - ilerlemek
+          - ilerlemek (saat)
           - ilerletmek
 
 conjugations:

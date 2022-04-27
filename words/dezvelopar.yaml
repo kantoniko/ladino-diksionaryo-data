@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1270'
 origen: Jeneral
+
 versions:
--   accented: dezvelopar
-    ladino: dezvelopar
+  - ladino: dezvelopar
+
     translations:
         english: develop
         french: ''
@@ -14,3 +14,8 @@ versions:
         - geliştirmek
         - kalkındırmak
         - tevsi etmek
+
+
+conjugations: {}
+
+examples: []

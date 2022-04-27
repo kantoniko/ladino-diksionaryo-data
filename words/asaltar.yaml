@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1632'
 origen: Jeneral
+
 versions:
--   accented: asaltar
-    ladino: asaltar
+  - ladino: asaltar
+
     translations:
         english: assault
         french: ''
         portuguese: ''
         spanish: embestir
         turkish: saldırmak
+
+conjugations: {}
+
+examples: []

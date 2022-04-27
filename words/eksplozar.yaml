@@ -1,15 +1,24 @@
-examples: []
-grammar: null
-id: '301'
+grammar: verb
+id: '301,1758'
 origen: Jeneral
+
 versions:
--   accented: eksplozar
-    ladino: eksplozar
+  - ladino: eksplozar
+
     translations:
-        english: explode
+        english:
+          - explode
+          - burst
         french: ''
         portuguese: ''
-        spanish: explotar
-        turkish: infilâk etmek
-# eksplozar,,estallar,burst,patlamak,Jeneral,1758,,
+        spanish:
+          - explotar
+          - estallar
+        turkish:
+          - infilâk etmek
+          - patlamak
+
+conjugations: {}
+
+examples: []
 

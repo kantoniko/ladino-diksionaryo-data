@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1791'
 origen: Jeneral
+
 versions:
--   accented: esklamar
-    ladino: esklamar
+  - ladino: esklamar
+
     translations:
         english: exclaim
         french: ''
         portuguese: ''
         spanish: exclamar
         turkish: haykırmak
+
+conjugations: {}
+
+examples: []

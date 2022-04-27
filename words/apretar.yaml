@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1616'
 origen: Jeneral
+
 versions:
--   accented: apretar
-    ladino: apretar
+  - ladino: apretar
+
     translations:
         english:
         - tighten
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: apretar
         turkish: sıkmak
+
+conjugations: {}
+
+examples: []

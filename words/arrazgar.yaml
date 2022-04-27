@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '110'
 origen: Jeneral
+
 versions:
--   accented: arrazgar
-    ladino: arrazgar
+  - ladino: arrazgar
+
     translations:
         english: tear
         french: ''
         portuguese: ''
         spanish: rasgar
         turkish: yırtmak
+
+conjugations: {}
+
+examples: []

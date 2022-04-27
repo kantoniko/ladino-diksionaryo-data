@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1219'
 origen: Jeneral
+
 versions:
--   accented: arregalar
-    ladino: arregalar
+  - ladino: arregalar
+
     translations:
         english: make a present of
         french: ''
         portuguese: ''
         spanish: regalar
         turkish: hediye etmek
+
+conjugations: {}
+
+examples: []

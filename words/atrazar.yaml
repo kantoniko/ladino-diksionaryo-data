@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1234'
 origen: Jeneral
+
 versions:
--   accented: atrazar
-    ladino: atrazar
+  - ladino: atrazar
+
     translations:
         english:
           - retard
@@ -15,3 +15,7 @@ versions:
         turkish:
           - tehir etmek
           - gerilemek (saat)
+
+conjugations: {}
+
+examples: []

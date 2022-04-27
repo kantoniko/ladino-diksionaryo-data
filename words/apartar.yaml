@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1611'
 origen: Jeneral
+
 versions:
--   accented: apartar
-    ladino: apartar
+  - ladino: apartar
+
     translations:
         english: separate
         french: ''
         portuguese: ''
         spanish: apartar
         turkish: ayırmak
+
+conjugations: {}
+
+examples: []

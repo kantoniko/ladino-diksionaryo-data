@@ -1,15 +1,18 @@
-examples: []
-grammar: null
-# "adelantar, avansar",,adelantar,be fast (clock),ilerlemek (saat),Jeneral,139,,
-id: '138'
+grammar: verb
+id: '138,139'
 origen: Jeneral
+
 versions:
--   accented: avansar
-    ladino: avansar
+  - ladino: avansar
+
     translations:
         english: advance
         french: ''
         portuguese: ''
         spanish: avanzar
         turkish: ilerlemek
+
+conjugations: {}
+
+examples: []
 

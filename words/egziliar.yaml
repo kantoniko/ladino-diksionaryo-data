@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1292'
 origen: Jeneral
+
 versions:
--   accented: egziliar
-    ladino: egziliar
+  - ladino: egziliar
+
     translations:
         english: exile
         french: ''
         portuguese: ''
         spanish: exiliar
         turkish: sürgüne göndermek
+
+conjugations: {}
+
+examples: []

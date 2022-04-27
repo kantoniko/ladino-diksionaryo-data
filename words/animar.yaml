@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '93'
 origen: Jeneral
+
 versions:
--   accented: animar
-    ladino: animar
+  - ladino: animar
+
     translations:
         english: animate
         french: ''
         portuguese: ''
         spanish: animar
         turkish: canlandırmak
+
+conjugations: {}
+
+examples: []
