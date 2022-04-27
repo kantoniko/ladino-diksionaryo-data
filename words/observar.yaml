@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2023'
 origen: Jeneral
+
 versions:
--   accented: observar
-    ladino: observar
+  - ladino: observar
+
     translations:
         english: notice
         french: ''
         portuguese: ''
         spanish: observar
         turkish: müşahade - riayet etmek
+
+conjugations: {}
+
+examples: []

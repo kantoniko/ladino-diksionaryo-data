@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2191'
 origen: Jeneral
+
 versions:
--   accented: sinyifikar
-    ladino: sinyifikar
+  - ladino: sinyifikar
+
     translations:
         english: signify
         french: ''
         portuguese: ''
         spanish: significar
         turkish: anlamına gelmek
+
+conjugations: {}
+
+examples: []

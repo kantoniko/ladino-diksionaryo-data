@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1484'
 origen: Jeneral
+
 versions:
--   accented: renovelar
-    ladino: renovelar
+  - ladino: renovelar
+
     translations:
         english: renew
         french: ''
         portuguese: ''
         spanish: renovar
         turkish: yenilemek
+
+conjugations: {}
+
+examples: []

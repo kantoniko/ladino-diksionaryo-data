@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2116'
 origen: Jeneral
+
 versions:
--   accented: protestar
-    ladino: protestar
+  - ladino: protestar
+
     translations:
         english: protest
         french: ''
         portuguese: ''
         spanish: protestar
         turkish: itiraz etmek
+
+conjugations: {}
+
+examples: []

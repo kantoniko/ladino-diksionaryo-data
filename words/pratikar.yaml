@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '891'
 origen: Jeneral
+
 versions:
--   accented: pratikar
-    ladino: pratikar
+  - ladino: pratikar
+
     translations:
         english: practice
         french: ''
         portuguese: ''
         spanish: practicar
         turkish: uygulamak
+
+conjugations: {}
+
+examples: []

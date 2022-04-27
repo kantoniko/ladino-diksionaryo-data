@@ -1,13 +1,13 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2037'
 origen: Jeneral
+
 versions:
--   accented: ordenar
+  - ladino: ordenar
+
     alternative-spelling:
-    -   accented: meter orden
-        ladino: meter orden
-    ladino: ordenar
+      - ladino: meter orden
+
     translations:
         english:
         - order
@@ -16,3 +16,7 @@ versions:
         portuguese: ''
         spanish: ordenar
         turkish: düzenlemek
+
+conjugations: {}
+
+examples: []

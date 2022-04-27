@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '946'
 origen: Jeneral
+
 versions:
--   accented: restorar
-    ladino: restorar
+  - ladino: restorar
+
     translations:
         english: restore
         french: ''
         portuguese: ''
         spanish: restaurar
         turkish: onarmak
+
+conjugations: {}
+
+examples: []

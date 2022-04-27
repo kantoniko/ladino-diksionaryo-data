@@ -1,14 +1,17 @@
-grammar: null
+grammar: verb
 id: '1046'
 origen: Jeneral
+
 versions:
--   accented: supozar
-    ladino: supozar
+  - ladino: supozar
+
     translations:
         english: suppose
         french: ''
         portuguese: ''
         spanish: suponer
         turkish: farzetmek
+
+conjugations: {}
 
 examples: []

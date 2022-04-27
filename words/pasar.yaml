@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '837'
 origen: Jeneral
+
 versions:
--   accented: pasar
-    ladino: pasar
+  - ladino: pasar
+
     translations:
         english: pass
         french: ''
         portuguese: ''
         spanish: pasar
         turkish: geçmek
+
+conjugations: {}
+
+examples: []

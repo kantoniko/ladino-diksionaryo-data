@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '819'
 origen: Jeneral
+
 versions:
--   accented: pagar
-    ladino: pagar
+  - ladino: pagar
+
     translations:
         english: pay
         french: ''
         portuguese: ''
         spanish: pagar
         turkish: ödemek
+
+conjugations: {}
+
+examples: []

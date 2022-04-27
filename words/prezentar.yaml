@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1460'
 origen: Jeneral
+
 versions:
--   accented: prezentar
-    ladino: prezentar
+  - ladino: prezentar
+
     translations:
         english: present
         french: ''
         portuguese: ''
         spanish: presentar
         turkish: takdim etmek
+
+conjugations: {}
+
+examples: []
