@@ -1,0 +1,70 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: avierto
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: avyerto
+
+    translations:
+      english: open
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abierto
+      turkish: ''
+
+  - ladino: avierta
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: avyerta
+
+    translations:
+      english: open
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abierta
+      turkish: ''
+
+  - ladino: aviertos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: avyertos
+
+    translations:
+      english: open
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abiertos
+      turkish: ''
+
+  - ladino: aviertas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: avyertas
+
+    translations:
+      english: open
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abiertas
+      turkish: ''
+
+
+examples: []
