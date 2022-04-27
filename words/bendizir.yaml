@@ -1,19 +1,23 @@
-conjugations: {}
-examples:
--   ladino: Por lo ke estamos, bendigamos.
 grammar: verb
 id: '1252'
 origen: Jeneral
+
 versions:
--   accented: bendizír
-    ladino: bendizir
+  - ladino: bendizir
+    accented: bendizír
+
     alternative-spelling:
       - ladino: bendezir
         accented: bendezír
+
     translations:
         english: bless
         french: bénir
         portuguese: ''
         spanish: bendecir
         turkish: kutsamak
+
+conjugations: {}
+examples:
+  - ladino: Por lo ke estamos, bendigamos.
 

@@ -1,16 +1,18 @@
-examples:
--   ladino: 'Vido a la ija del gevir i se namoro de eya. '
 grammar: null
 id: '2985'
 origen: Jeneral
+
 versions:
--   accented: givír
+  - ladino: givir
+    accented: givír
+
     alternative-spelling:
-    -   accented: gevír
-        ladino: gevir
+      - ladino: gevir
+        accented: gevír
+
     gender: masculine
-    ladino: givir
     number: singular
+
     translations:
         english:
         - lord
@@ -23,3 +25,6 @@ versions:
         - señor
         - amo
         turkish: ağa
+
+examples:
+  - ladino: 'Vido a la ija del gevir i se namoro de eya. '

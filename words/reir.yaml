@@ -1,21 +1,27 @@
-conjugations: {}
-examples:
--   ladino: Me azes reir muncho kon akeya fraza.
 grammar: verb
 id: '934'
 origen: Jeneral
+
 versions:
--   accented: reír
-    ladino: reir
+  - ladino: reir
+    accented: reír
+
     alternative-spelling:
       - ladino: riir
         accented: riír
+
       - ladino: riyir
         accented: riyír
+
     translations:
         english: laugh
         french: rire
         portuguese: rir
         spanish: reír
         turkish: gülmek
+
+conjugations: {}
+
+examples:
+  - ladino: Me azes reir muncho kon akeya fraza.
 

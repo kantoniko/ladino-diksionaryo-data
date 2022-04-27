@@ -1,19 +1,24 @@
-conjugations: {}
-examples:
--   ladino: No son kozas ke se dizen.
 grammar: verb
 id: '268'
 origen: Jeneral
+
 versions:
--   accented: dizír
-    ladino: dizir
+  - ladino: dizir
+    accented: dizír
+
     alternative-spelling:
       - ladino: dezir
         accented: dezír
+
     translations:
         english: say
         french: dire
         portuguese: dizer
         spanish: decir
         turkish: söylemek
+
+conjugations: {}
+
+examples:
+  - ladino: No son kozas ke se dizen.
 

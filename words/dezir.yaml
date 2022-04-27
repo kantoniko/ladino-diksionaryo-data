@@ -1,15 +1,15 @@
-conjugations: {}
-examples:
--   ladino: No es kon dezirlo solo.
 grammar: verb
 id: '1269'
 origen: Jeneral
+
 versions:
--   accented: dezír
-    ladino: dezir
+  - ladino: dezir
+    accented: dezír
+
     alternative-spelling:
       - ladino: dizir
         accented: dizír
+
     translations:
         english: say
         french: dire
@@ -17,4 +17,8 @@ versions:
         spanish: decir
         turkish: söylemek
 
+conjugations: {}
+
+examples:
+  - ladino: No es kon dezirlo solo.
 
