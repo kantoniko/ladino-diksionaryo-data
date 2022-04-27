@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1470'
 origen: Jeneral
+
 versions:
--   accented: pronunsiar
-    ladino: pronunsiar
+  - ladino: pronunsiar
+
     translations:
         english: pronounce
         french: ''
         portuguese: ''
         spanish: pronunciar
         turkish: telâffuz etmek
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1980'
 origen: Jeneral
+
 versions:
--   accented: matar
-    ladino: matar
+  - ladino: matar
+
     translations:
         english: kill
         french: ''
         portuguese: ''
         spanish: matar
         turkish: óldürmek
+
+conjugations: {}
+
+examples: []

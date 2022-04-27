@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1038'
 origen: Jeneral
+
 versions:
--   accented: sonyar
-    ladino: sonyar
+  - ladino: sonyar
+
     translations:
         english: dream
         french: ''
         portuguese: ''
         spanish: soñar
         turkish: rüya görmek
+
+conjugations: {}
+
+examples: []

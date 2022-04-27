@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2029'
 origen: Jeneral
+
 versions:
--   accented: okupar
-    ladino: okupar
+  - ladino: okupar
+
     translations:
         english: occupy
         french: ''
         portuguese: ''
         spanish: ocupar
         turkish: meşgul etmek
+
+conjugations: {}
+
+examples: []
