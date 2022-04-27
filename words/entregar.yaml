@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '343'
 origen: Jeneral
+
 versions:
--   accented: entregar
-    ladino: entregar
+  - ladino: entregar
+
     translations:
         english: deliver
         french: ''
         portuguese: ''
         spanish: entregar
         turkish: teslim etmek
+
+conjugations: {}
+
+examples: []

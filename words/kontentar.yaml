@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '604'
 origen: Jeneral
+
 versions:
--   accented: kontentar
-    ladino: kontentar
+  - ladino: kontentar
+
     translations:
         english: please
         french: ''
         portuguese: ''
         spanish: contentar
         turkish: memnun etmek
+
+conjugations: {}
+
+examples: []

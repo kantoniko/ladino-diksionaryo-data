@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1372'
 origen: Jeneral
+
 versions:
--   accented: kavzar
-    ladino: kavzar
+  - ladino: kavzar
+
     translations:
         english: cause
         french: ''
         portuguese: ''
         spanish: causar
         turkish: sebep olmak
+
+conjugations: {}
+
+examples: []

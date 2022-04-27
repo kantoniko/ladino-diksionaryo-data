@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1807'
 origen: Jeneral
+
 versions:
--   accented: estampar
-    ladino: estampar
+  - ladino: estampar
+
     translations:
         english: stamp
         french: ''
         portuguese: ''
         spanish: estampar
         turkish: mühürlemek
+
+conjugations: {}
+
+examples: []

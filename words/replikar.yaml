@@ -1,13 +1,13 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2137'
 origen: Jeneral
+
 versions:
--   accented: replikar
+  - ladino: replikar
+
     alternative-spelling:
-    -   accented: kontestar
-        ladino: kontestar
-    ladino: replikar
+      - ladino: kontestar
+
     translations:
         english:
         - answer back
@@ -20,3 +20,7 @@ versions:
         turkish:
         - mukabele etmek
         - cevap vermek
+
+conjugations: {}
+
+examples: []

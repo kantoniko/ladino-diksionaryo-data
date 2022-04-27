@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1926'
 origen: Jeneral
+
 versions:
--   accented: konsiderar
-    ladino: konsiderar
+  - ladino: konsiderar
+
     translations:
         english: consider
         french: ''
         portuguese: ''
         spanish: considerar
         turkish: dikkate almak
+
+conjugations: {}
+
+examples: []

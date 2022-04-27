@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1402'
 origen: Jeneral
+
 versions:
--   accented: lavar
-    ladino: lavar
+  - ladino: lavar
+
     translations:
         english: wash
         french: ''
         portuguese: ''
         spanish: lavar
         turkish: yıkamak
+
+conjugations: {}
+
+examples: []

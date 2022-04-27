@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '554'
 origen: Jeneral
+
 versions:
--   accented: kemar
-    ladino: kemar
+  - ladino: kemar
+
     translations:
         english: burn
         french: ''
         portuguese: ''
         spanish: quemar
         turkish: yakmak
+
+conjugations: {}
+
+examples: []

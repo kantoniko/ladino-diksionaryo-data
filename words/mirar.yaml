@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '736'
 origen: Jeneral
+
 versions:
--   accented: mirar
-    ladino: mirar
+  - ladino: mirar
+
     translations:
         english: look
         french: ''
         portuguese: ''
         spanish: mirar
         turkish: bakmak
+
+conjugations: {}
+
+examples: []

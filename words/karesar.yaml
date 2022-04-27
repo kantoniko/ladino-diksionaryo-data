@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1367'
 origen: Jeneral
+
 versions:
--   accented: karesar
-    ladino: karesar
+  - ladino: karesar
+
     translations:
         english:
         - caress
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: acariciar
         turkish: okşamak
+
+conjugations: {}
+
+examples: []

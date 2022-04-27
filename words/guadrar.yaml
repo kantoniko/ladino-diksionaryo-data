@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '467'
 origen: Jeneral
+
 versions:
--   accented: guadrar
-    ladino: guadrar
+  - ladino: guadrar
+
     translations:
         english:
         - hide
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: guardar
         turkish: saklamak
+
+conjugations: {}
+
+examples: []

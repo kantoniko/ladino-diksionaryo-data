@@ -1,13 +1,18 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2158'
 origen: Jeneral
+
 versions:
--   accented: salvar
-    ladino: salvar
+  - ladino: salvar
+
     translations:
         english: save
         french: ''
         portuguese: ''
         spanish: salvar
         turkish: kurtarmak
+
+conjugations: {}
+
+examples: []
+

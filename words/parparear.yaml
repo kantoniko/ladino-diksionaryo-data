@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2052'
 origen: Jeneral
+
 versions:
--   accented: parparear
-    ladino: parparear
+  - ladino: parparear
+
     translations:
         english: show-off
         french: ''
         portuguese: ''
         spanish: lucir
         turkish: gósteriş yapmak
+
+conjugations: {}
+
+examples: []

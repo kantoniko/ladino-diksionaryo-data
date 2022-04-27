@@ -1,13 +1,18 @@
-examples: []
-grammar: null
+grammar: verb
 id: '616'
 origen: Jeneral
+
 versions:
--   accented: kortar
-    ladino: kortar
+  - ladino: kortar
+
     translations:
         english: cut
         french: ''
         portuguese: ''
         spanish: cortar
         turkish: kesmek
+
+conjugations: {}
+
+examples: []
+

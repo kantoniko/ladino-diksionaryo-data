@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1803'
 origen: Jeneral
+
 versions:
--   accented: espekular
-    ladino: espekular
+  - ladino: espekular
+
     translations:
         english: speculate
         french: ''
         portuguese: ''
         spanish: especular
         turkish: zihinde tartmak
+
+conjugations: {}
+
+examples: []

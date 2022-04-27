@@ -1,17 +1,22 @@
-examples: []
-grammar: null
-id: '570'
+grammar: verb
+id: '570,1900'
 origen: Jeneral
+
 versions:
--   accented: kitar
-    ladino: kitar
+  - ladino: kitar
+
     translations:
         english:
         - take out
         - remove
+        - extract
         french: ''
         portuguese: ''
-        spanish: quitar
+        spanish:
+          - quitar
+          - sacar
         turkish: çıkarmak
 
-# "kitar, echar",,sacar,"take out, extract",çıkarmak,Jeneral,1900,,
+conjugations: {}
+
+examples: []

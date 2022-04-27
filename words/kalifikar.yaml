@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '514'
 origen: Jeneral
+
 versions:
--   accented: kalifikar
-    ladino: kalifikar
+  - ladino: kalifikar
+
     translations:
         english: qualify
         french: ''
         portuguese: ''
         spanish: calificar
         turkish: nitelemek
+
+conjugations: {}
+
+examples: []

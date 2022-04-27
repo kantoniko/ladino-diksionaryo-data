@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1851'
 origen: Jeneral
+
 versions:
--   accented: imitar
-    ladino: imitar
+  - ladino: imitar
+
     translations:
         english: imitate
         french: ''
         portuguese: ''
         spanish: imitar
         turkish: taklit etmek
+
+conjugations: {}
+
+examples: []

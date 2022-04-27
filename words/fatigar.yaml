@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '408'
 origen: Jeneral
+
 versions:
--   accented: fatigar
-    ladino: fatigar
+  - ladino: fatigar
+
     translations:
         english: tire
         french: ''
         portuguese: ''
         spanish: fatigar
         turkish: yorulmak
+
+conjugations: {}
+
+examples: []

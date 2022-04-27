@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1075'
 origen: Jeneral
+
 versions:
--   accented: terminar
-    ladino: terminar
+  - ladino: terminar
+
     translations:
         english:
         - terminate
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: terminar
         turkish: bitirmek
+
+conjugations: {}
+
+examples: []

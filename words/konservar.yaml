@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1383'
 origen: Jeneral
+
 versions:
--   accented: konservar
-    ladino: konservar
+  - ladino: konservar
+
     translations:
         english: preserve
         french: ''
         portuguese: ''
         spanish: conservar
         turkish: muhafaza etmek
+
+conjugations: {}
+
+examples: []

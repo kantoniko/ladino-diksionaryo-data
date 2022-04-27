@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1789'
 origen: Jeneral
+
 versions:
--   accented: eskalonar
-    ladino: eskalonar
+  - ladino: eskalonar
+
     translations:
         english: spread out at intervals
         french: ''
         portuguese: ''
         spanish: escalonar
         turkish: sıraya koymak
+
+conjugations: {}
+
+examples: []

@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '399'
 origen: Jeneral
+
 versions:
--   accented: falitar
-    ladino: falitar
+  - ladino: falitar
+
     translations:
         english:
         - be ruined
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: arruinarse
         turkish: iflâs etmek
+
+conjugations: {}
+
+examples: []
