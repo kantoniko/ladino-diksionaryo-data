@@ -1,15 +1,15 @@
-conjugations: {}
-examples:
--   ladino: Merkaron peshkados afumados.
 grammar: verb
 id: '2878'
 origen: Aki Yerushalayim
+
 versions:
--   accented: aumár
+  - ladino: aumar
+    accented: aumár
+
     alternative-spelling:
-    -   accented: afumár
-        ladino: afumar
-    ladino: aumar
+      - ladino: afumar
+        accented: afumár
+
     translations:
         english:
         - smoke
@@ -19,5 +19,10 @@ versions:
         spanish: ahumar
         turkish:
         - tütsülemek
-        - dumana tutmak (et
-        - balık v.s.)
+        - dumana tutmak (et balık v.s.)
+
+conjugations: {}
+
+examples:
+  - ladino: Merkaron peshkados afumados.
+

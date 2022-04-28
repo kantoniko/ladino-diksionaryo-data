@@ -1,16 +1,19 @@
-conjugations: {}
-examples:
--   ladino: 'Ayudáte i el Dio te ayudará. (Prov.) '
 grammar: verb
 id: '148'
 origen: Jeneral
+
 versions:
--   accented: ayudár
-    ladino: ayudar
+  - ladino: ayudar
+    accented: ayudár
+
     translations:
         english: help
         french: ''
         portuguese: ''
         spanish: ayudar
         turkish: yardım etmek
+
+conjugations: {}
+examples:
+  - ladino: 'Ayudáte i el Dio te ayudará. (Prov.) '
 

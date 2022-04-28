@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Alesharon la boda.
 grammar: verb
 id: '1592'
 origen: Jeneral
+
 versions:
--   accented: aleshár
-    ladino: aleshar
+  - ladino: aleshar
+    accented: aleshár
+
     translations:
         english: move away
         french: ''
         portuguese: ''
         spanish: alejar
         turkish: uzaklaştırmak
+
+conjugations: {}
+
+examples:
+  - ladino: Alesharon la boda.

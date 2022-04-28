@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Siertos privilejios de minoridad fueron akordados en Lausanne.
 grammar: verb
 id: '1584'
 origen: Jeneral
+
 versions:
--   accented: akordár
-    ladino: akordar
+  - ladino: akordar
+    accented: akordár
+
     translations:
         english:
         - grant
@@ -17,3 +16,8 @@ versions:
         turkish:
         - uzlaşmak
         - anlaşmak
+
+conjugations: {}
+
+examples:
+  - ladino: Siertos privilejios de minoridad fueron akordados en Lausanne.

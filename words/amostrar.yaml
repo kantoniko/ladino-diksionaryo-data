@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: El vendedor amostra la ropa al kliente.
 grammar: verb
 id: '2359'
 origen: Jeneral
+
 versions:
--   accented: amostrár
-    ladino: amostrar
+  - ladino: amostrar
+    accented: amostrár
+
     translations:
         english: show
         french: ''
         portuguese: ''
         spanish: mostrar
         turkish: göstermek
+
+conjugations: {}
+
+examples:
+  - ladino: El vendedor amostra la ropa al kliente.
