@@ -1,15 +1,20 @@
-conjugations: {}
-examples:
--   ladino: Mi abuela favlava el Djudeo-Espanyol.
 grammar: verb
 id: '2925'
 origen: Salonik
+
 versions:
--   accented: favlár
-    ladino: favlar
+  - ladino: favlar
+    accented: favlár
+
     translations:
         english: speak
         french: parler
         portuguese: falar
         spanish: hablar
         turkish: konuşmak
+
+conjugations: {}
+
+examples:
+  - ladino: Mi abuela favlava el Djudeo-Espanyol.
+

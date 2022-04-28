@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: 'Morar ande se arrapa el guerko: Leshos de todo.'
 grammar: verb
 id: '2547'
 origen: Jeneral
+
 versions:
--   accented: morár
-    ladino: morar
+  - ladino: morar
+    accented: morár
+
     translations:
         english:
         - live
@@ -20,3 +19,8 @@ versions:
         turkish:
         - oturmak
         - ikâmet etmek
+
+conjugations: {}
+
+examples:
+  - ladino: 'Morar ande se arrapa el guerko: Leshos de todo.'

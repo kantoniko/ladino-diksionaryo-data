@@ -1,11 +1,11 @@
-conjugations: {}
-examples: []
 grammar: verb
 id: '2812'
 origen: Jeneral
+
 versions:
--   accented: inklinár
-    ladino: inklinar
+  - ladino: inklinar
+    accented: inklinár
+
     translations:
         english:
         - incline
@@ -16,3 +16,8 @@ versions:
         turkish:
         - meyletmek
         - eğmek
+
+conjugations: {}
+
+examples: []
+

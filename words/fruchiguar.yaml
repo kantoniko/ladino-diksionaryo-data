@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Fruchiguaremos en la tierra.
 grammar: verb
 id: '2953'
 origen: Jeneral
+
 versions:
--   accented: fruchiguár
-    ladino: fruchiguar
+  - ladino: fruchiguar
+    accented: fruchiguár
+
     translations:
         english:
         - produce
@@ -21,3 +20,9 @@ versions:
         turkish:
         - üremek
         - çoğalmak
+
+conjugations: {}
+
+examples:
+  - ladino: Fruchiguaremos en la tierra.
+

@@ -1,15 +1,11 @@
-conjugations: {}
-examples:
--   ladino: 'Mi mama mos dizia, "antes de dizir ''no m''agrada'' (alguna komida),
-        provala."
-
-        '
 grammar: verb
 id: '2762'
 origen: Izmir
+
 versions:
--   accented: provár
-    ladino: provar
+  - ladino: provar
+    accented: provár
+
     translations:
         english:
         - prove
@@ -22,3 +18,9 @@ versions:
         turkish:
         - kanıtlamak
         - denemek
+
+conjugations: {}
+
+examples:
+  - ladino: 'Mi mama mos dizia, "antes de dizir ''no m''agrada'' (alguna komida), provala."'
+
