@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: koleksion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: collection
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: colección
+      turkish: ''
+
+  - ladino: koleksiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: collections
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: colecciónes
+      turkish: ''
+
+
+examples: []
