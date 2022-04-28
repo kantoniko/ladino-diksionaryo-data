@@ -1,6 +1,8 @@
 grammar: null
 id: '2696'
 origen: Izmir
+categories:
+  - puerpo
 
 versions:
   - ladino: luenga

@@ -11,6 +11,7 @@ kategorias:
   - paises
   - plantas
   - profesion
+  - puerpo
   - ropa
 origenes:
   - Jeneral
@@ -50,7 +51,6 @@ pajinas:
   ser.md:                  ser.html
   estar.md:                estar.html
   sezones.md:              sezones.html
-  puerpo.md:               puerpo.html
   sivdades.md:             sivdades.html
   idiomas.md:              idiomas.html
   nombres.md:              nombres.html

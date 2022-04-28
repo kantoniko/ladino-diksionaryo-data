@@ -1,6 +1,8 @@
 grammar: null
 id: '622'
 origen: Jeneral
+categories:
+  - puerpo
 
 versions:
   - ladino: kovdo

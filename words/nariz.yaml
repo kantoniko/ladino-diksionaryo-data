@@ -1,6 +1,8 @@
 grammar: null
 id: '768'
 origen: Jeneral
+categories:
+  - puerpo
 
 versions:
   - ladino: nariz

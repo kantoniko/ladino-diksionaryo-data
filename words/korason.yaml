@@ -1,6 +1,8 @@
 grammar: null
 id: '611'
 origen: Jeneral
+categories:
+  - puerpo
 
 versions:
   - ladino: korason
