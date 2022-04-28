@@ -1,6 +1,6 @@
 # Numeros
 
-* 0
+* 0 zero
 * 1 [uno](/words/ladino/uno)
 * 2 [dos](/words/ladino/dos)
 * 3 [tres](/words/ladino/tres)
@@ -28,16 +28,16 @@
 * 31  trenti uno
 * 40  kuarenta
 * 50  sinkuenta
-* 60
+* 60  sesenta
 * 70  setenta
 * 80  ochenta
 * 90  noventa
 * 100 sien
 * 123 siento venti tres
-* 200
-* 300
-* 400
-* 500
+* 200 dosientos
+* 300 tresientos
+* 400 kuatrosientos
+* 500 kinyentos
 * 600
 * 700
 * 800
