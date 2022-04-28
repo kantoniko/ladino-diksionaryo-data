@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: seksion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: section
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sección
+      turkish: ''
+
+  - ladino: seksiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: sections
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: secciónes
+      turkish: ''
+
+
+examples: []
