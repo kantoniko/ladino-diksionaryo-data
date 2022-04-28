@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: afish
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: poster
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: afiche
+      turkish: ''
+
+  - ladino: afishes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: posters
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: afiches
+      turkish: ''
+
+
+examples: []
