@@ -1,11 +1,11 @@
-examples:
--   ladino: Ke haber? - Todo bueno.
 grammar: null
 id: '2468'
 origen: Estanbol
+
 versions:
--   accented: habér
-    ladino: haber
+  - ladino: haber
+    accented: habér
+
     translations:
         english:
         - news
@@ -16,3 +16,6 @@ versions:
         - noticia
         - información
         turkish: haber
+
+examples:
+  - ladino: Ke haber? - Todo bueno.

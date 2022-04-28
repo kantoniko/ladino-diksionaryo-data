@@ -1,13 +1,15 @@
-examples: []
-grammar: null
+grammar: verb
 id: '221'
 origen: Jeneral
+
 versions:
--   accented: dar haber
+  - ladino: dar haber
+    accented: dar haber
+
     alternative-spelling:
-    -   accented: informar
-        ladino: informar
-    ladino: dar haber
+      - ladino: informar
+        accented: informar
+
     translations:
         english: inform
         french: ''
@@ -16,3 +18,7 @@ versions:
         turkish:
         - bildirmek
         - haber vermek
+
+conjugations: {}
+
+examples: []

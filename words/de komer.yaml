@@ -1,13 +1,14 @@
-examples: []
 grammar: null
 id: '226'
 origen: Jeneral
 versions:
--   accented: de komer
-    ladino: de komer
+  - ladino: de komer
+
     translations:
         english: comestible
         french: ''
         portuguese: ''
         spanish: comestible
         turkish: yiyecek
+
+examples: []

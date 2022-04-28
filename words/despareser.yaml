@@ -1,16 +1,20 @@
-conjugations: {}
-examples:
--   ladino: Yo no kreo ke muestra lingua va despareser.
 grammar: verb
 id: '249'
 origen: Jeneral
+
 versions:
--   accented: desparesér
-    ladino: despareser
+  - ladino: despareser
+    accented: desparesér
+
     translations:
         english: disappear
         french: ''
         portuguese: ''
         spanish: desaparecer
         turkish: yok olmak
+
+conjugations: {}
+
+examples:
+  - ladino: Yo no kreo ke muestra lingua va despareser.
 

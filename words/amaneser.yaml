@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Kuando mas eskura está la nochada, mas presto amanese. (Neh.)
 grammar: verb
 id: '1596'
 origen: Jeneral
+
 versions:
--   accented: amanesér
-    ladino: amaneser
+  - ladino: amaneser
+    accented: amanesér
+
     translations:
         english: dawn
         french: lever du soleil
         portuguese: amanheser
         spanish: amanecer
         turkish: gün doğmak
+
+conjugations: {}
+
+examples:
+  - ladino: Kuando mas eskura está la nochada, mas presto amanese. (Neh.)

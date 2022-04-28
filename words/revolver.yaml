@@ -1,16 +1,20 @@
-examples:
--   ladino: Metiya el revolver al lado de la kavesa.
 grammar: null
 id: '2891'
 origen: Jeneral
+
 versions:
--   accented: revolvér
+  - ladino: revolver
+    accented: revolvér
+
     gender: masculine
-    ladino: revolver
     number: singular
+
     translations:
         english: revolver
         french: ''
         portuguese: ''
         spanish: revólver
         turkish: tabanca
+
+examples:
+  - ladino: Metiya el revolver al lado de la kavesa.

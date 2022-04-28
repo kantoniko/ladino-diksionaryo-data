@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Devesh de konseder ke si en un pais ay munchas linguas, en akel pais...
 grammar: verb
 id: '1678'
 origen: Jeneral
+
 versions:
--   accented: konsedér
-    ladino: konseder
+  - ladino: konseder
+    accented: konsedér
+
     translations:
         english: concede
         french: ''
         portuguese: ''
         spanish: conceder
         turkish: tâviz vermek
+
+conjugations: {}
+
+examples:
+  - ladino: Devesh de konseder ke si en un pais ay munchas linguas, en akel pais...

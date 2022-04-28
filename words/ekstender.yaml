@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Es una famiya ekstendida de todos los Sefaradim del mundo.
 grammar: verb
 id: '2920'
 origen: Jeneral
+
 versions:
--   accented: ekstendér
-    ladino: ekstender
+  - ladino: ekstender
+    accented: ekstendér
+
     translations:
         english: extend
         french: ''
@@ -15,3 +14,9 @@ versions:
         turkish:
         - uzamak
         - uzatmak
+
+conjugations: {}
+
+examples:
+  - ladino: Es una famiya ekstendida de todos los Sefaradim del mundo.
+

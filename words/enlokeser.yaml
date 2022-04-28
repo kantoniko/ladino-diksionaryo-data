@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: El bruido de los ijikos me enlokesen.
 grammar: verb
 id: '1778'
 origen: Jeneral
+
 versions:
--   accented: enlokesér
-    ladino: enlokeser
+  - ladino: enlokeser
+    accented: enlokesér
+
     translations:
         english:
         - madden
@@ -15,3 +14,8 @@ versions:
         portuguese: ''
         spanish: enloquecer
         turkish: delirtmek
+
+conjugations: {}
+
+examples:
+  - ladino: El bruido de los ijikos me enlokesen.

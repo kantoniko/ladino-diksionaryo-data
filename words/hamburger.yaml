@@ -1,13 +1,21 @@
-examples: []
 grammar: null
 id: '1847'
 origen: Jeneral
+categories:
+  - komidas
+
 versions:
--   accented: hamburger
-    ladino: hamburger
+  - ladino: hamburger
+    accented: hamburger
+
+    gender: masculine
+    number: singular
+
     translations:
         english: hamburger
         french: ''
         portuguese: ''
         spanish: hamburguesa
         turkish: hamburger
+
+examples: []
