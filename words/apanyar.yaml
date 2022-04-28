@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Esta asentada en la siya, apanyando moshkas.
 grammar: verb
 id: '1607'
 origen: Jeneral
+
 versions:
--   accented: apanyár
-    ladino: apanyar
+  - ladino: apanyar
+    accented: apanyár
+
     translations:
         english: seize
         french: saisir
         portuguese: ''
         spanish: embargar
         turkish: ele geçirmek
+
+conjugations: {}
+
+examples:
+  - ladino: Esta asentada en la siya, apanyando moshkas.

@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Enfinkarse por las tiralanyas.
 grammar: verb
 id: '2827'
 origen: Jeneral
+
 versions:
--   accented: enfinkár
-    ladino: enfinkar
+  - ladino: enfinkar
+    accented: enfinkár
+
     translations:
         english: stick something pointed
         french: ''
@@ -15,3 +14,8 @@ versions:
         turkish:
         - batırmak
         - sokmak (sivri bir şey)
+
+conjugations: {}
+
+examples:
+  - ladino: Enfinkarse por las tiralanyas.

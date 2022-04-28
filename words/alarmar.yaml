@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: No ay koza de alarmar.
 grammar: verb
 id: '1591'
 origen: Jeneral
+
 versions:
--   accented: alarmár
-    ladino: alarmar
+  - ladino: alarmar
+    accented: alarmár
+
     translations:
         english: alarm
         french: ''
         portuguese: ''
         spanish: alarmar
         turkish: telâşa düşürmek
+
+conjugations: {}
+
+examples:
+  - ladino: No ay koza de alarmar.
