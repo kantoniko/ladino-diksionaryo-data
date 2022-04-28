@@ -1,18 +1,23 @@
-conjugations: {}
-examples:
--   ladino: En MEXICO se dize "hechar plomo" en lugar de "tirar balas kon revolver".
 grammar: verb
 id: '1081'
 origen: Jeneral
+
 versions:
--   accented: tirár
+  - ladino: tirar
+    accented: tirár
+
     alternative-spelling:
-    -   accented: travár sóvre
-        ladino: travar sovre
-    ladino: tirar
+      - ladino: travar sovre
+        accented: travár sóvre
+
     translations:
         english: shoot
         french: ''
         portuguese: ''
         spanish: disparar
         turkish: ateş etmek
+
+conjugations: {}
+
+examples:
+  - ladino: En MEXICO se dize "hechar plomo" en lugar de "tirar balas kon revolver".

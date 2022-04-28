@@ -1,15 +1,15 @@
-conjugations: {}
-examples:
--   ladino: Prunta i te responderé.
 grammar: verb
 id: '913'
 origen: Jeneral
+
 versions:
--   accented: pruntár
-    ladino: pruntar
+  - ladino: pruntar
+    accented: pruntár
+
     alternative-spelling:
       - ladino: demandar
         accented: demandár
+
     translations:
         english: ask
         french: ''
@@ -17,3 +17,6 @@ versions:
         spanish: preguntar
         turkish: sormak
 
+conjugations: {}
+examples:
+  - ladino: Prunta i te responderé.

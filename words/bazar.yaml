@@ -1,13 +1,14 @@
-examples:
--   ladino: El martes, era diya de bazar en Milas.
 grammar: null
 id: '2982'
 origen: Jeneral
+
 versions:
--   accented: bazár
+  - ladino: bazar
+    accented: bazár
+
     gender: masculine
-    ladino: bazar
     number: singular
+
     translations:
         english:
         - bazaar
@@ -26,3 +27,7 @@ versions:
         turkish:
         - pazar
         - çarşı
+
+examples:
+  - ladino: El martes, era diya de bazar en Milas.
+

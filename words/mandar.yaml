@@ -1,14 +1,19 @@
-examples:
--   ladino: Pasensia ke te mande el Dio. (Neh.)
-grammar: null
+grammar: verb
 id: '2529'
 origen: Jeneral
+
 versions:
--   accented: mandár
-    ladino: mandar
+  - ladino: mandar
+    accented: mandár
+
     translations:
         english: send
         french: ''
         portuguese: ''
         spanish: mandar
         turkish: göndermek
+
+conjugations: {}
+
+examples:
+  - ladino: Pasensia ke te mande el Dio. (Neh.)

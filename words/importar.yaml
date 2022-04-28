@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Mi papa importava esensyas para azer kolonya.
 grammar: verb
 id: '2782'
 origen: Jeneral
+
 versions:
--   accented: importár
-    ladino: importar
+  - ladino: importar
+    accented: importár
+
     translations:
         english: import
         french: ''
         portuguese: ''
         spanish: importar
         turkish: ithal etmek
+
+conjugations: {}
+
+examples:
+  - ladino: Mi papa importava esensyas para azer kolonya.

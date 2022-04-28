@@ -1,17 +1,28 @@
-examples:
--   ladino: Sintimos al shofar kon respekto i kon grande amor.
 grammar: null
 id: '2971'
 origen: Jeneral
 versions:
--   accented: shofár
+  - ladino: shofar
+    accented: shofár
+
     gender: masculine
-    ladino: shofar
     number: singular
     translations:
-        english: ram horn used as Jewish traditional musical instrument.
-        french: corne de bélier usé comme instrument musical traditionnel.
-        portuguese: chifre de carneiro usado como instrumento musical tradisional
-            judeu.
-        spanish: cuerno de carnero usado como instrumento musical tradicional judio.
-        turkish: bazı Musevi ayinlerinde müzik için kullanılan koç boynuzu.
+        english: shofar
+        french: chophar
+        hebrew: שופר
+        portuguese: shofar
+        spanish: shofar
+        turkish: Şofar
+
+
+examples:
+  - ladino: Sintimos al shofar kon respekto i kon grande amor.
+  - ladino: El shofar es un instrumento de muzika tradisional.
+    english: ram horn used as Jewish traditional musical instrument.
+    french: corne de bélier usé comme instrument musical traditionnel.
+    portuguese: chifre de carneiro usado como instrumento musical tradisional judeu.
+    spanish: cuerno de carnero usado como instrumento musical tradicional judio.
+    turkish: bazı Musevi ayinlerinde müzik için kullanılan koç boynuzu.
+
+

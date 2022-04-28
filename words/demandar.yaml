@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Vites al ombre, demanda por el nombre. (Neh.)
 grammar: verb
 id: '1263'
 origen: Jeneral
+
 versions:
--   accented: demandár
-    ladino: demandar
+  - ladino: demandar
+    accented: demandár
+
     translations:
         english:
           - request
@@ -20,3 +19,7 @@ versions:
           - istemek
           - sormak
 
+conjugations: {}
+
+examples:
+  - ladino: Vites al ombre, demanda por el nombre. (Neh.)

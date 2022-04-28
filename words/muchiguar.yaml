@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Muchiguar rikezas es muchiguar ansyas. (Neh.)
 grammar: verb
 id: '3012'
 origen: Jeneral
+
 versions:
--   accented: muchiguár
-    ladino: muchiguar
+  - ladino: muchiguar
+    accented: muchiguár
+
     translations:
         english:
         - increase
@@ -24,3 +23,9 @@ versions:
         turkish:
         - çoğalmak
         - artmak
+
+conjugations: {}
+
+examples:
+  - ladino: Muchiguar rikezas es muchiguar ansyas. (Neh.)
+

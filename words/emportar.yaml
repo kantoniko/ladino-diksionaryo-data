@@ -1,19 +1,22 @@
-conjugations: {}
-examples:
--   ladino: 'No emporta.
-
-        No m''emporta.
-
-        Ke t''emporta?'
 grammar: verb
 id: '1857'
 origen: Jeneral
+
 versions:
--   accented: emportár
-    ladino: emportar
+  - ladino: emportar
+    accented: emportár
+
     translations:
         english: matter
         french: ''
         portuguese: ''
         spanish: importar
         turkish: önemli olmak
+
+conjugations: {}
+
+examples:
+  - ladino: No emporta.
+  - ladino: No m''emporta.
+  - ladino: Ke t''emporta?
+

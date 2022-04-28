@@ -1,12 +1,10 @@
-conjugations: {}
-examples:
--   ladino: El bebe se deskuvijava en durmiendo.
 grammar: verb
 id: '247'
 origen: Jeneral
+
 versions:
--   accented: deskuvijár
-    ladino: deskuvijar
+  - ladino: deskuvijar
+    accented: deskuvijár
 
     alternative-spelling:
       - ladino: deskuvrir
@@ -19,3 +17,8 @@ versions:
         spanish: descubrir
         turkish: üstünü açmak
 
+
+conjugations: {}
+
+examples:
+  - ladino: El bebe se deskuvijava en durmiendo.
