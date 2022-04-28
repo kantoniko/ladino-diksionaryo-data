@@ -51,7 +51,13 @@ pajinas:
   numeros.md:              numeros.html
   ser.md:                  ser.html
   estar.md:                estar.html
-  sezones.md:              sezones.html
   sivdades.md:             sivdades.html
   idiomas.md:              idiomas.html
   nombres.md:              nombres.html
+listas:
+  sezones:
+    - primavera
+    - enverano
+    - otonyo
+    - invyerno
+
