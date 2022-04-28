@@ -1,16 +1,15 @@
-conjugations: {}
-examples:
-  - ladino: Las ventanas estavan chafteando del aire.
-  - ladino: Dos personas se chafteyaron.
 grammar: verb
 id: '1675'
 origen: Jeneral
+
 versions:
--   accented: chapteár
+  - ladino: chaptear
+    accented: chapteár
+
     alternative-spelling:
-    -   accented: chafteár
-        ladino: chaftear
-    ladino: chaptear
+      - ladino: chaftear
+        accented: chafteár
+
     translations:
         english:
           - clash
@@ -24,4 +23,10 @@ versions:
         turkish:
           - çarpmak
           - çarpışmak
+
+conjugations: {}
+
+examples:
+  - ladino: Las ventanas estavan chafteando del aire.
+  - ladino: Dos personas se chafteyaron.
 

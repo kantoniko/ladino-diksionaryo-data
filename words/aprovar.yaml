@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Aprova de ambezarte el Ladino.
 grammar: verb
 id: '1072'
 origen: Jeneral
+
 versions:
--   accented: aprovár
-    ladino: aprovar
+  - ladino: aprovar
+    accented: aprovár
+
     translations:
         english: try
         french: ''
@@ -17,3 +16,7 @@ versions:
         turkish:
         - niyet etmek
         - denemek
+
+conjugations: {}
+examples:
+  - ladino: Aprova de ambezarte el Ladino.

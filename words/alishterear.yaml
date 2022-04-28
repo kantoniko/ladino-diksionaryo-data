@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Mozotros ya mos aviamos alishtereado a esto.
 grammar: verb
 id: '3025'
 origen: Jeneral
+
 versions:
--   accented: alishtereár
-    ladino: alishterear
+  - ladino: alishterear
+    accented: alishtereár
+
     translations:
         english: accustom
         french: habituer
         portuguese: acostumar
         spanish: acostumbrar
         turkish: alıştırmak
+
+conjugations: {}
+
+examples:
+  - ladino: Mozotros ya mos aviamos alishtereado a esto.

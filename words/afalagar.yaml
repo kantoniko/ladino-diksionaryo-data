@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Afalagar kon palavras vanas. (Katalán)
 grammar: verb
 id: '2804'
 origen: Otros
+
 versions:
--   accented: afalagár
-    ladino: afalagar
+  - ladino: afalagar
+    accented: afalagár
+
     translations:
         english:
         - console
@@ -21,3 +20,8 @@ versions:
         turkish:
         - avutmak
         - teselli etmek
+
+conjugations: {}
+
+examples:
+  - ladino: Afalagar kon palavras vanas. (Katalán)

@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: No keriyamos abashar i suvir las eskaleras.
 grammar: verb
 id: '2271'
 origen: Jeneral
+
 versions:
--   accented: abashár
-    ladino: abashar
+  - ladino: abashar
+    accented: abashár
+
     translations:
         english:
         - take down
@@ -23,3 +22,8 @@ versions:
         turkish:
         - indirmek
         - inmek
+
+conjugations: {}
+
+examples:
+  - ladino: No keriyamos abashar i suvir las eskaleras.

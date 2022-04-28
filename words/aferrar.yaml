@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Aferraron al ladron.
 grammar: verb
 id: '1576'
 origen: Jeneral
+
 versions:
--   accented: aferrár
-    ladino: aferrar
+  - ladino: aferrar
+    accented: aferrár
+
     translations:
         english:
         - seize
@@ -21,3 +20,7 @@ versions:
         - coger
         - prender
         turkish: yakalamak
+
+conjugations: {}
+examples:
+  - ladino: Aferraron al ladron.

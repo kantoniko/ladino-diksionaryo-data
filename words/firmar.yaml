@@ -1,15 +1,18 @@
-conjugations: {}
-examples:
--   ladino: No vos olvidesh de firmar i azer firmar la petisyon de Salonik.
 grammar: verb
 id: '2454'
 origen: Jeneral
+
 versions:
--   accented: firmár
-    ladino: firmar
+  - ladino: firmar
+    accented: firmár
+
     translations:
         english: sign
         french: ''
         portuguese: ''
         spanish: firmar
         turkish: imzalamak
+
+conjugations: {}
+examples:
+  - ladino: No vos olvidesh de firmar i azer firmar la petisyon de Salonik.

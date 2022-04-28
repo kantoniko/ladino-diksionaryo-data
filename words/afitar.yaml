@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Ayer afito una koza muy agradavle
 grammar: verb
 id: '2270'
 origen: Jeneral
+
 versions:
--   accented: afitár
-    ladino: afitar
+  - ladino: afitar
+    accented: afitár
+
     translations:
         english:
         - happen
@@ -20,3 +19,8 @@ versions:
         turkish:
         - meydana gelmek
         - vuku bulmak
+
+conjugations: {}
+
+examples:
+  - ladino: Ayer afito una koza muy agradavle

@@ -1,18 +1,23 @@
-conjugations: {}
-examples:
--   ladino: No tengo kon ken desbafar.
 grammar: verb
 id: '2911'
 origen: Jeneral
+
 versions:
--   accented: desbafár
+  - ladino: desbafar
+    accented: desbafár
+
     alternative-spelling:
-    -   accented: esbafár
-        ladino: esbafar
-    ladino: desbafar
+      - ladino: esbafar
+        accented: esbafár
+
     translations:
         english: relieve oneself
         french: ''
         portuguese: ''
         spanish: desahogarse
         turkish: içini dökmek
+
+conjugations: {}
+
+examples:
+  - ladino: No tengo kon ken desbafar.

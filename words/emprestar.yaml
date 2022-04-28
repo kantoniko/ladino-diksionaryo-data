@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Si el emprestar era bueno, empresteriya el Rey a su mujer. (Neh.)
 grammar: verb
 id: '2790'
 origen: Jeneral
+
 versions:
--   accented: emprestár
-    ladino: emprestar
+  - ladino: emprestar
+    accented: emprestár
+
     translations:
         english:
         - lend
@@ -15,3 +14,8 @@ versions:
         portuguese: ''
         spanish: prestar
         turkish: ödünç vermek
+
+conjugations: {}
+
+examples:
+  - ladino: Si el emprestar era bueno, empresteriya el Rey a su mujer. (Neh.)

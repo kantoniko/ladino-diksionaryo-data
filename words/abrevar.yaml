@@ -1,9 +1,10 @@
 grammar: verb
 id: '3054'
 origen: Jeneral
+
 versions:
--   accented: abrevár
-    ladino: abrevar
+  - ladino: abrevar
+    accented: abrevár
     translations:
         english:
           - water (animal)
@@ -18,6 +19,7 @@ versions:
           - sulamak
 
 conjugations: {}
+
 examples:
   - ladino: El pastor abreva sus ovejas.
   - ladino: Yaakov abrevó a las ovejas.
