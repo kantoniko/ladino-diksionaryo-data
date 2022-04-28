@@ -1,14 +1,15 @@
-conjugations: {}
-examples: []
 grammar: verb
 id: '2880'
 origen: Jeneral
+
 versions:
--   accented: atagantár
+  - ladino: atagantar
+    accented: atagantár
+
     alternative-spelling:
-    -   accented: atagentár
-        ladino: atagentar
-    ladino: atagantar
+      - ladino: atagentar
+        accented: atagentár
+
     translations:
         english:
         - annoy
@@ -19,3 +20,7 @@ versions:
         - molestar
         - fastidiar
         turkish: can sıkmak
+
+conjugations: {}
+
+examples: []

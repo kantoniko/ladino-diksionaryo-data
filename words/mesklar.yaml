@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Los djudyos mesklan biervos ebreos kuando avlan de la ley.
 grammar: verb
 id: '726'
 origen: Jeneral
+
 versions:
--   accented: mesklár
-    ladino: mesklar
+  - ladino: mesklar
+    accented: mesklár
+
     translations:
         english: mix
         french: mélanger
         portuguese: mesclar
         spanish: mezclar
         turkish: karıştırmak
+
+conjugations: {}
+
+examples:
+  - ladino: Los djudyos mesklan biervos ebreos kuando avlan de la ley.

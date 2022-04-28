@@ -1,11 +1,11 @@
-conjugations: {}
-examples: []
 grammar: verb
 id: '2968'
 origen: Jeneral
+
 versions:
--   accented: arár
-    ladino: arar
+  - ladino: arar
+    accented: arár
+
     translations:
         english: plough
         french: labourer
@@ -15,3 +15,6 @@ versions:
           - toprağı sürmek
           - çift sürmek
 
+conjugations: {}
+
+examples: []

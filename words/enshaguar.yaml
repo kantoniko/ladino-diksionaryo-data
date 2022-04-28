@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Enshaguate la boka!
 grammar: verb
 id: '2916'
 origen: Jeneral
+
 versions:
--   accented: enshaguár
-    ladino: enshaguar
+  - ladino: enshaguar
+    accented: enshaguár
+
     translations:
         english:
         - rinse
@@ -19,3 +18,8 @@ versions:
         turkish:
         - çalkalamak
         - yıkamak
+
+conjugations: {}
+
+examples:
+  - ladino: Enshaguate la boka!

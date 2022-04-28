@@ -1,16 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Ke bushkas por estas partes?
 grammar: verb
 id: '24'
 origen: Jeneral
+
 versions:
--   accented: bushkár
-    ladino: bushkar
+  - ladino: bushkar
+    accented: bushkár
+
     translations:
         english: search
         french: ''
         portuguese: ''
         spanish: buscar
         turkish: aramak
+
+conjugations: {}
+examples:
+  - ladino: Ke bushkas por estas partes?
 

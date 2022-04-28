@@ -1,11 +1,11 @@
-conjugations: {}
-examples: []
 grammar: verb
 id: '2995'
 origen: Jeneral
+
 versions:
--   accented: destakár
-    ladino: destakar
+  - ladino: destakar
+    accented: destakár
+
     translations:
         english:
         - detach
@@ -14,3 +14,7 @@ versions:
         portuguese: ''
         spanish: destacar
         turkish: ifraz etmek
+
+conjugations: {}
+
+examples: []
