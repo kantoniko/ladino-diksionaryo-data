@@ -47,7 +47,6 @@ pajinas:
   biervos-de-la-gramer.md: gramer.html
   dias-de-la-semana.md:    dias-de-la-semana.html
   pronombres.md:           pronombres.html
-  mezes.md:                mezes.html
   numeros.md:              numeros.html
   ser.md:                  ser.html
   estar.md:                estar.html
@@ -60,4 +59,17 @@ listas:
     - enverano
     - otonyo
     - invyerno
+  mezes:
+    - enero
+    - fevrero
+    - marso
+    - avril
+    - mayo
+    - junio
+    - djulio
+    - agosto
+    - septembre
+    - oktobre
+    - novembre
+    - decembre
 
