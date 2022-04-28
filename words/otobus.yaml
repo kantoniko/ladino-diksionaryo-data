@@ -1,10 +1,16 @@
-examples: []
 grammar: null
 id: '808'
 origen: Jeneral
+categories:
+  - veikolos
+
 versions:
--   accented: otobus
-    ladino: otobus
+  - ladino: otobus
+    accented: otobus
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - bus
@@ -15,3 +21,23 @@ versions:
         - autobús
         - autocar
         turkish: otobüs
+
+  - ladino: otobuses
+    accented: otobuses
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - buses
+        - motor-coaches
+        french: ''
+        portuguese: ''
+        spanish:
+        - autobúses
+        - autocar
+        turkish: otobüs
+
+
+examples: []

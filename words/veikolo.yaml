@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: veikolo
+    accented: veíkolo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: vehicle
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vehículo
+      turkish: ''
+
+  - ladino: veikolos
+    accented: veíkolos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: vehicles
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vehículos
+      turkish: ''
+
+
+examples: []

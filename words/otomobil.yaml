@@ -1,13 +1,16 @@
-comments:
-- 'grammar: m), araba (f'
-examples:
--   ladino: Mi papa mos yevava a pasear kon otomobil.
 grammar: null
 id: '809'
 origen: Jeneral
+categories:
+  - veikolos
+
 versions:
--   accented: otomobíl
-    ladino: otomobil
+  - ladino: otomobil
+    accented: otomobíl
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - car
@@ -20,3 +23,26 @@ versions:
         turkish:
         - araba
         - otomobil
+
+  - ladino: otomobiles
+    accented: otomobíles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - cars
+        - automobiles
+        french: ''
+        portuguese: ''
+        spanish:
+        - carros
+        - automóviles
+        turkish:
+        - araba
+        - otomobil
+
+
+examples:
+  - ladino: Mi papa mos yevava a pasear kon otomobil.

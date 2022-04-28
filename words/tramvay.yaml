@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '2231'
 origen: Jeneral
+categories:
+  - veikolos
+
 versions:
--   accented: tramvay
-    ladino: tramvay
+  - ladino: tramvay
+
+    gender: masculine
+    number: singular
+
     translations:
         english: streetcar
         french: ''
         portuguese: ''
         spanish: tranvía
         turkish: tramvay
+
+  - ladino: tramvayes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: streetcars
+        french: ''
+        portuguese: ''
+        spanish: tranvías
+        turkish: tramvay
+
+
+examples: []
