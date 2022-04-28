@@ -45,7 +45,6 @@ numero:
   - plural
 pajinas:
   biervos-de-la-gramer.md: gramer.html
-  dias-de-la-semana.md:    dias-de-la-semana.html
   pronombres.md:           pronombres.html
   numeros.md:              numeros.html
   ser.md:                  ser.html
@@ -72,4 +71,12 @@ listas:
     - oktobre
     - novembre
     - decembre
+  dias-de-la-semana:
+    - alhad
+    - lunes
+    - martes
+    - mierkoles
+    - djueves
+    - viernes
+    - shabat
 
