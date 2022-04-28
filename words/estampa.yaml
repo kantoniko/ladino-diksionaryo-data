@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '384'
 origen: Jeneral
+
 versions:
--   accented: estampa
-    ladino: estampa
+  - ladino: estampa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: stamp
         french: ''
         portuguese: ''
         spanish: estampa
         turkish: mühür ıstampa
+
+  - ladino: estampas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: stamps
+        french: ''
+        portuguese: ''
+        spanish: estampas
+        turkish: mühür ıstampa
+
+
+examples: []
