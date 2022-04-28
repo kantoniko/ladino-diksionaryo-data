@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - paises
+
+versions:
+  - ladino: Bulgaria
+
+    alternative-spelling:
+      - ladino: Bulgariya
+
+    translations:
+      english: Bulgaria
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

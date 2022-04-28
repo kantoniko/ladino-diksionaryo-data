@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - paises
+
+versions:
+  - ladino: Meksiko
+
+    translations:
+      english: Mexico
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - paises
+
+versions:
+  - ladino: Espanya
+
+    translations:
+      english: Spain
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - paises
+
+versions:
+  - ladino: Italya
+
+    translations:
+      english: Italy
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

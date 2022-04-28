@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - paises
+
+versions:
+  - ladino: Suedia
+
+    translations:
+      english: Sweden
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+# conjugations: {}
+
+examples: []

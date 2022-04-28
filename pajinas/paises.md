@@ -1,23 +1,5 @@
 # Paises
 
-Ladino        | Inglez/Lokal
-------------- | ------------
-Ardjentina    | Argentina
-Bosna         | Bosnia
-Bulgaria      | Bulgaria
-Bulgariya     | Bulgaria
-Fransia       | France
-Ungaria       | Hungary
-Israel        | Israel
-Italya        | Italy
-Meksiko       | Mexico
-Polonya       | Poland
-Espanya       | Spain
-Suedia        | Sweden
-Turkia        | Turkey
-
-
-
 Ladino    | Ladino    | Inglez/Lokal
 --------- | --------- | ------------
 ungara    | ungaro    | Hungarian
