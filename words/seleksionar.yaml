@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: seleksionar
+
+    translations:
+      english: select
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: seleccionar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
