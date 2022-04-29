@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '2219'
 origen: Jeneral
+
 versions:
--   accented: timbro
+  - ladino: timbro
+
     alternative-spelling:
-    -   accented: muur
-        ladino: muur
-    ladino: timbro
+      - ladino: muur
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - stamp
@@ -18,3 +21,25 @@ versions:
         turkish:
         - pul
         - mühür
+
+  - ladino: timbros
+
+    alternative-spelling:
+      - ladino: muures
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - stamps
+        - seals
+        french: ''
+        portuguese: ''
+        spanish: sellos
+        turkish:
+        - pul
+        - mühür
+
+
+examples: []

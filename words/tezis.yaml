@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1077'
 origen: Jeneral
+
 versions:
--   accented: tezis
-    ladino: tezis
+  - ladino: tezis
+
+    gender: feminine
+    number: singular
+
     translations:
         english: thesis
         french: ''
         portuguese: ''
         spanish: tesis
         turkish: tez
+
+examples: []

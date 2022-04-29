@@ -1,13 +1,16 @@
-examples:
--   ladino: 'La kama es una buena koza,
-
-        si no se durme se arrepoza. (Neh.)'
 grammar: null
 id: '2485'
 origen: Jeneral
+categories:
+  - mobles
+
 versions:
--   accented: káma
-    ladino: kama
+  - ladino: kama
+    accented: káma
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - bed
@@ -19,3 +22,23 @@ versions:
         - yatak
         - döşek
 
+  - ladino: kamas
+    accented: kámas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - bed
+        - bedding
+        french: ''
+        portuguese: ''
+        spanish: camas
+        turkish:
+        - yatak
+        - döşek
+
+
+examples:
+  - ladino: 'La kama es una buena koza, si no se durme se arrepoza. (Neh.)'

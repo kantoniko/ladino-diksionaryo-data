@@ -1,20 +1,46 @@
-comments:
-- 'grammar: en teatro'
-examples: []
 grammar: null
-id: '435'
+id: '435,436'
 origen: Jeneral
+categories:
+  - mobles
+
 versions:
--   accented: fotolyo
-    ladino: fotolyo
+  - ladino: fotolyo
+
+    gender: masculine
+    number: singular
+
     translations:
-        english: orchestra seat
+        english:
+          - orchestra seat
+          - armchair
         french: ''
         portuguese: ''
-        spanish: butaca
+        spanish:
+          - butaca
+          - sillón
         turkish:
         - koltuk
-        - ( tiyatroda)
 
-# fotolyo (en teatro),,butaca,orchestra seat,"koltuk, ( tiyatroda)",Jeneral,435,,
-# fotolyo,,sillón,armchair,koltuk,Jeneral,436,,
+  - ladino: fotolyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - orchestra seats
+          - armchairs
+        french: ''
+        portuguese: ''
+        spanish:
+          - butacas
+          - sillónes
+        turkish:
+        - koltuk
+
+
+examples:
+  - ladino: Es un plazer asentar en el fotolyo i meldar un livro.
+  - ladino: fotolyo en teatro
+    turkish: koltuk tiyatroda

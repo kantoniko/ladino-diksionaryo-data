@@ -1,13 +1,34 @@
-examples: []
 grammar: null
 id: '1433'
 origen: Jeneral
+categories:
+  - mobles
+
 versions:
--   accented: orno
-    ladino: orno
+  - ladino: orno
+    accented: orno
+
+    gender: masculine
+    number: singular
+
     translations:
         english: oven
         french: ''
         portuguese: ''
         spanish: horno
         turkish: fırın
+
+  - ladino: ornos
+    accented: ornos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: ovens
+        french: ''
+        portuguese: ''
+        spanish: hornos
+        turkish: fırın
+
+examples: []

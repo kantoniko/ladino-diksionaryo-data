@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1522'
 origen: Jeneral
+
 versions:
--   accented: trajedia
-    ladino: trajedia
+  - ladino: trajedia
+
     translations:
         english: tragedy
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - facia
         - trajedi
+
+examples: []

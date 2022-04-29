@@ -20,6 +20,22 @@ versions:
         - refrigerador
         turkish: boz dolabı
 
+  - ladino: frijideres
+    accented: frijidéres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: refrigerators
+        french: ''
+        portuguese: ''
+        spanish:
+        - neveras
+        - refrigeradores
+        turkish: boz dolabı
+
+
 examples:
   - ladino: Lo metiya en un bokal i lo metiya en el frijider.
 
