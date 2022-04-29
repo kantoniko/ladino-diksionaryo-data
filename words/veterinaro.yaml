@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - profesion
+
+versions:
+  - ladino: veterinaro
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: veterinarian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: veterinario
+      turkish: ''
+
+  - ladino: veterinara
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: veterinarian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: veterinaria
+      turkish: ''
+
+  - ladino: veterinaros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: veterinarian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: veterinarios
+      turkish: ''
+
+  - ladino: veterinaras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: veterinarian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: veterinarias
+      turkish: ''
+
+
+examples: []

@@ -1,11 +1,13 @@
 grammar: null
 id: '2200'
 origen: Jeneral
+categories:
+  - profesion
 
 versions:
   - ladino: spiker
 
-    gender: masculine
+    gender: both
     number: singular
 
     translations:
@@ -14,5 +16,18 @@ versions:
         portuguese: ''
         spanish: locutor
         turkish: spiker
+
+  - ladino: spikeres
+
+    gender: both
+    number: plural
+
+    translations:
+        english: announcers
+        french: ''
+        portuguese: ''
+        spanish: locutores
+        turkish: spiker
+
 
 examples: []

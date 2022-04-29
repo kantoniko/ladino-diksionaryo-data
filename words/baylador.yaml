@@ -1,6 +1,8 @@
 grammar: null
 id: '1660'
 origen: Jeneral
+categories:
+  - profesion
 
 versions:
   - ladino: baylador

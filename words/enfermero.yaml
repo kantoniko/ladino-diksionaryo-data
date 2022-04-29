@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+categories:
+  - profesion
+
+versions:
+  - ladino: enfermero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: nurse
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enfermero
+      turkish: ''
+
+  - ladino: enfermera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: nurse
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enfermera
+      turkish: ''
+
+  - ladino: enfermeros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: nurses
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enfermeros
+      turkish: ''
+
+  - ladino: enfermeras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: nurses
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enfermeras
+      turkish: ''
+
+examples: []
+

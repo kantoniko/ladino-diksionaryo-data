@@ -1,13 +1,56 @@
-examples: []
 grammar: null
 id: '1735'
 origen: Jeneral
+categories:
+  - profesion
+
 versions:
--   accented: doktor
-    ladino: doktor
+  - ladino: doktor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: doctor
         french: ''
         portuguese: ''
         spanish: doctor
         turkish: doktor
+
+  - ladino: doktora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: doctor
+        french: ''
+        portuguese: ''
+        spanish: doctora
+        turkish: doktor
+
+  - ladino: doktores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: doctors
+        french: ''
+        portuguese: ''
+        spanish: doctores
+        turkish: doktor
+
+  - ladino: doktoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: doctors
+        french: ''
+        portuguese: ''
+        spanish: doctoras
+        turkish: doktor
+
+examples: []

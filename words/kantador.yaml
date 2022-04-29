@@ -1,16 +1,56 @@
-examples: []
 grammar: null
 id: '1881'
 origen: Jeneral
+categories:
+  - profesion
+
 versions:
--   accented: kantador
-    alternative-spelling:
-    -   accented: dera
-        ladino: dera
-    ladino: kantador
+  - ladino: kantador
+
+    gender: masculine
+    number: singular
+
     translations:
         english: singer
         french: ''
         portuguese: ''
-        spanish: cantor - a
+        spanish: cantor
         turkish: şarkıcı
+
+  - ladino: kantadera
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: singer
+        french: ''
+        portuguese: ''
+        spanish: cantora
+        turkish: şarkıcı
+
+  - ladino: kantadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: singers
+        french: ''
+        portuguese: ''
+        spanish: cantors
+        turkish: şarkıcı
+
+  - ladino: kantaderas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: singers
+        french: ''
+        portuguese: ''
+        spanish: cantoras
+        turkish: şarkıcı
+
+examples: []
