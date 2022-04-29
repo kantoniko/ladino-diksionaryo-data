@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1090'
 origen: Jeneral
+
 versions:
--   accented: toparse
-    ladino: toparse
+  - ladino: toparse
+
     translations:
         english: to be present
         french: ''
         portuguese: ''
         spanish: meterse
         turkish: bulunmak
+
+examples: []

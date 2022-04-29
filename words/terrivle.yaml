@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1076'
 origen: Jeneral
+
 versions:
--   accented: terrivle
-    ladino: terrivle
+  - ladino: terrivle
+
     translations:
         english: terrible
         french: ''
         portuguese: ''
         spanish: terrible
         turkish: feci
+
+examples: []
