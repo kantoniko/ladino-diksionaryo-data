@@ -1,10 +1,14 @@
 grammar: null
 id: '1093'
 origen: Jeneral
+categories:
+  - profesion
 
 versions:
   - ladino: traduktor
-    accented: traduktor
+
+    gender: masculine
+    number: singular
 
     translations:
         english: translator
@@ -13,4 +17,43 @@ versions:
         spanish: traductor
         turkish: tercüman
 
-examples: []
+  - ladino: traduktora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: translator
+        french: ''
+        portuguese: ''
+        spanish: traductora
+        turkish: tercüman
+
+  - ladino: traduktores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: translators
+        french: ''
+        portuguese: ''
+        spanish: traductores
+        turkish: tercüman
+
+  - ladino: traduktoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: translators
+        french: ''
+        portuguese: ''
+        spanish: traductoras
+        turkish: tercüman
+
+examples:
+  - Un traduktor o una traduktora es una persona ke puede tresladar frazas de un idioma a otro idioma.
+
+

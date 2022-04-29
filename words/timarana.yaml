@@ -1,13 +1,14 @@
-examples:
--   ladino: Este lugar parese una timarana.
 grammar: null
 id: '2941'
 origen: Jeneral
+
 versions:
--   accented: timaraná
+  - ladino: timarana
+    accented: timaraná
+
     gender: feminine
-    ladino: timarana
     number: singular
+
     translations:
         english:
         - madhouse
@@ -16,3 +17,6 @@ versions:
         portuguese: hospício
         spanish: manicomio
         turkish: tımarhane
+
+examples:
+  - ladino: Este lugar parese una timarana.

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2216'
 origen: Jeneral
+
 versions:
--   accented: tenta
-    ladino: tenta
+  - ladino: tenta
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - marquee
@@ -13,3 +16,19 @@ versions:
         portuguese: ''
         spanish: marquesina
         turkish: tente
+
+  - ladino: tentas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - marquees
+        - canopies
+        french: ''
+        portuguese: ''
+        spanish: marquesinas
+        turkish: tente
+
+examples: []

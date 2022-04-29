@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1101'
 origen: Jeneral
+
 versions:
--   accented: triste
-    ladino: triste
+  - ladino: triste
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: sad
         french: ''
         portuguese: ''
         spanish: triste
         turkish: hüzünlü
+
+  - ladino: tristes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: sad
+        french: ''
+        portuguese: ''
+        spanish: tristes
+        turkish: hüzünlü
+
+
+examples: []

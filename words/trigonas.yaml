@@ -1,12 +1,14 @@
-examples: []
 grammar: null
 id: '2739'
 origen: Izmir
+
 versions:
--   accented: trigónas
+  - ladino: trigonas
+    accented: trigónas
+
     gender: feminine
-    ladino: trigonas
     number: singular
+
     translations:
         english: walnut-filled fila triangles
         french: ''
@@ -15,3 +17,5 @@ versions:
         - fila con nuez
         - triangular
         turkish: cevizli muska böreği
+
+examples: []

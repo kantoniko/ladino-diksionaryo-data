@@ -1,16 +1,18 @@
-examples:
--   ladino: Se echa en un 'tepsi' i se mete a sekar.
 grammar: null
 id: '2855'
 origen: Estanbol
+
 versions:
--   accented: tepsí
+  - ladino: tepsi
+    accented: tepsí
+
     alternative-spelling:
-    -   accented: tipzím
-        ladino: tipzim
+      - ladino: tipzim
+        accented: tipzím
+
     gender: masculine
-    ladino: tepsi
     number: singular
+
     translations:
         english:
         - oven pan
@@ -21,3 +23,6 @@ versions:
         - cazuela
         - bandeja
         turkish: tepsi
+
+examples:
+  - ladino: Se echa en un 'tepsi' i se mete a sekar.

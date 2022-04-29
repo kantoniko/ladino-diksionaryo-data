@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1099'
 origen: Jeneral
+categories:
+  - ropa
+
 versions:
--   accented: triko
+  - ladino: triko
+
     alternative-spelling:
-    -   accented: sueter
-        ladino: sueter
-    ladino: triko
+      - ladino: sueter
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - jersey
@@ -16,3 +21,5 @@ versions:
         portuguese: ''
         spanish: jersey
         turkish: kazak
+
+examples: []

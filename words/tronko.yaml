@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '1104'
 origen: Jeneral
+
 versions:
--   accented: tronko
-    ladino: tronko
+  - ladino: tronko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: trunk
         french: ''
         portuguese: ''
         spanish: tronco
         turkish: kütük
+
+  - ladino: tronkos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: trunks
+        french: ''
+        portuguese: ''
+        spanish: troncos
+        turkish: kütük
+
+
+examples:
+  - En el tronko de los elefantes ay mas de 100.000 muskulos.

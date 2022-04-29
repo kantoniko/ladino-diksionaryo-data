@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '2227'
 origen: Jeneral
+categories:
+  - animales
+
 versions:
--   accented: toro
-    ladino: toro
+  - ladino: toro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: bull
         french: ''
         portuguese: ''
         spanish: toro
         turkish: boğa
+
+  - ladino: toros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: bulls
+        french: ''
+        portuguese: ''
+        spanish: toros
+        turkish: boğa
+
+
+examples: []

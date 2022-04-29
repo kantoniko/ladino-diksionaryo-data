@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1100'
 origen: Jeneral
+categories:
+  - puerpo
+
 versions:
--   accented: tripa
-    ladino: tripa
+  - ladino: tripa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: belly
         french: ''
         portuguese: ''
         spanish: vientre
         turkish: karın
+
+  - ladino: tripas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: bellies
+        french: ''
+        portuguese: ''
+        spanish: vientres
+        turkish: karın
+
+
+examples: []

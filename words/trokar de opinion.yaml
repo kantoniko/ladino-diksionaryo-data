@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2239'
 origen: Jeneral
+
 versions:
--   accented: trokar de opinion
-    ladino: trokar de opinion
+  - ladino: trokar de opinion
+
     translations:
         english: change one's mind
         french: ''
         portuguese: ''
         spanish: cambiar de opinión
         turkish: caymak
+
+examples: []

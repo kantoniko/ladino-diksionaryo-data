@@ -1,0 +1,33 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: trupa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: troop
+        french: ''
+        hebrew: ''
+        portuguese: ''
+        spanish: tropa
+        turkish: ''
+
+  - ladino: trupas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: troops
+        french: ''
+        hebrew: ''
+        portuguese: ''
+        spanish: tropas
+        turkish: ''
+
+
+examples:
+  - La Fransia, Italia,Ostria, Polonia, etc.fueron paizes okupados de las trupas alemanas.
