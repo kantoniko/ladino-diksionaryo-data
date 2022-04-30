@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2737'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: tomát reynádo
+  - ladino: tomat reynado
+    accented: tomát reynádo
+
     gender: masculine
-    ladino: tomat reynado
     number: singular
+
     translations:
         english: meat-filled tomatoes
         french: ''
         portuguese: ''
         spanish: tomates rellenados de carne
         turkish: etli domates dolması
+
+examples: []

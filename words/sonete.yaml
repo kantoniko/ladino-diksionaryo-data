@@ -1,14 +1,21 @@
-examples:
--   ladino: Se oye el sonete de la kampana.
 grammar: null
 id: '1036'
 origen: Jeneral
+
 versions:
--   accented: sonéte
-    ladino: sonete
+  - ladino: sonete
+    accented: sonéte
+
+    gender: masculine
+    number: singular
+
     translations:
         english: sound
         french: son
         portuguese: ''
         spanish: sonido
         turkish: ses
+
+examples:
+  - ladino: Se oye el sonete de la kampana.
+

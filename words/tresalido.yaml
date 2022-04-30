@@ -1,14 +1,14 @@
-examples:
--   ladino: Estó tresalido de vervos despues de tanto tiempo.
 grammar: adjective
 id: '2800'
 origen: Jeneral
+
 versions:
--   accented: tresalído
-    alternative-spelling:
-    -   accented: tresalída
-        ladino: tresalida
-    ladino: tresalido
+  - ladino: tresalido
+    accented: tresalído
+
+    gender: masculine
+    number: singular
+
     translations:
         english: delighted
         french: ''
@@ -17,3 +17,52 @@ versions:
         - encantado
         - deleitado
         turkish: çok mutlu
+
+  - ladino: tresalida
+    accented: tresalída
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: delighted
+        french: ''
+        portuguese: ''
+        spanish:
+        - encantada
+        - deleitada
+        turkish: çok mutlu
+
+  - ladino: tresalidos
+    accented: tresalídos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: delighted
+        french: ''
+        portuguese: ''
+        spanish:
+        - encantados
+        - deleitados
+        turkish: çok mutlu
+
+  - ladino: tresalidas
+    accented: tresalídas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: delighted
+        french: ''
+        portuguese: ''
+        spanish:
+        - encantadas
+        - deleitadas
+        turkish: çok mutlu
+
+examples:
+  - ladino: Estó tresalido de vervos despues de tanto tiempo.
+

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1095'
 origen: Jeneral
+
 versions:
--   accented: traidor
-    ladino: traidor
+  - ladino: traidor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: traitor
         french: ''
         portuguese: ''
         spanish: traidor
         turkish: hain
+
+  - ladino: traidores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: traitors
+        french: ''
+        portuguese: ''
+        spanish: traidores
+        turkish: hain
+
+
+examples: []

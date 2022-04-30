@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1508'
 origen: Jeneral
+
 versions:
--   accented: sosyal
-    ladino: sosyal
+  - ladino: sosyal
+
     translations:
         english: social
         french: ''
         portuguese: ''
         spanish: social
         turkish: sosyal
+
+examples: []

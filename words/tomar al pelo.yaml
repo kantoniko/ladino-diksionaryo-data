@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1084'
 origen: Jeneral
+
 versions:
--   accented: tomar al pelo
-    ladino: tomar al pelo
+  - ladino: tomar al pelo
+
     translations:
         english: pull one's leg
         french: ''
         portuguese: ''
         spanish: tomar el pelo
         turkish: dalga geçmek
+
+examples: []

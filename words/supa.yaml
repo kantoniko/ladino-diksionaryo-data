@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '1043'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: supa
-    ladino: supa
+  - ladino: supa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: soup
         french: ''
         portuguese: ''
         spanish: sopa
         turkish: çorba
+
+  - ladino: supas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: soups
+        french: ''
+        portuguese: ''
+        spanish: sopas
+        turkish: çorba
+
+examples: []

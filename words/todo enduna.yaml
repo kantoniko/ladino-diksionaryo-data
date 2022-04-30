@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '2224'
 origen: Jeneral
+
 versions:
--   accented: todo enduna
-    ladino: todo enduna
+  - ladino: todo enduna
+    accented: todo enduna
+
     translations:
         english: all at once
         french: ''
         portuguese: ''
         spanish: tomo y lomo
         turkish: tamamen
+
+examples: []

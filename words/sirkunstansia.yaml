@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1506'
 origen: Jeneral
+
 versions:
--   accented: sirkunstansia
-    ladino: sirkunstansia
+  - ladino: sirkunstansia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: circumstance
         french: ''
         portuguese: ''
         spanish: circunstancia
         turkish: durum
+
+  - ladino: sirkunstansias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: circumstances
+        french: ''
+        portuguese: ''
+        spanish: circunstancias
+        turkish: durum
+
+
+examples: []

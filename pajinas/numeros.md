@@ -29,7 +29,7 @@ No        | Ladino
 30        | trenta
 31        | trenti uno
 40        | kuarenta
-50        | sinkuenta
+50        | [sinkuenta](/words/ladino/sinkuenta)
 60        | sesenta
 70        | setenta
 80        | ochenta

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1510'
 origen: Jeneral
+
 versions:
--   accented: sujeto
-    ladino: sujeto
+  - ladino: sujeto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: subject
         french: ''
@@ -13,3 +16,19 @@ versions:
         - tema
         - sujeto
         turkish: konu
+
+  - ladino: sujetos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: subjects
+        french: ''
+        portuguese: ''
+        spanish:
+        - temas
+        - sujetos
+        turkish: konu
+
+examples: []

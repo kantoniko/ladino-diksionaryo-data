@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1027'
 origen: Jeneral
+
 versions:
--   accented: sivil
-    ladino: sivil
+  - ladino: sivil
+
     translations:
         english: civil
         french: ''
         portuguese: ''
         spanish: civil
         turkish: sivil
+
+examples: []
