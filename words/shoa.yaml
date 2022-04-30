@@ -1,16 +1,21 @@
-examples:
--   ladino: El sujeto de los sefaradim en la Shoa es muy poko konosido.
 grammar: null
 id: '2614'
 origen: Jeneral
+
 versions:
--   accented: shoá
+  - ladino: shoa
+    accented: shoá
+
     gender: feminine
-    ladino: shoa
     number: singular
+
     translations:
         english: holocaust
         french: ''
         portuguese: ''
         spanish: holocausto
         turkish: soykırım
+
+
+examples:
+  - ladino: El sujeto de los sefaradim en la Shoa es muy poko konosido.

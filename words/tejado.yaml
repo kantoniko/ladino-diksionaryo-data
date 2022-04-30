@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1064'
 origen: Jeneral
+
 versions:
--   accented: tejado
-    ladino: tejado
+  - ladino: tejado
+
     translations:
         english: roof (tiled)
         french: ''
         portuguese: ''
         spanish: tejado
         turkish: dam (kiremitli)
+
+examples: []

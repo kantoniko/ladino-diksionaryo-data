@@ -1,16 +1,16 @@
-examples:
--   ladino: En los sokos, la lakerda parvino ser muy rara.
 grammar: null
 id: '2786'
 origen: Salonik
 versions:
--   accented: soko
+  - ladino: soko
+
     alternative-spelling:
-    -   accented: merkádo
-        ladino: merkado
+      - ladino: merkado
+        accented: merkádo
+
     gender: masculine
-    ladino: soko
     number: singular
+
     translations:
         english:
         - market
@@ -18,8 +18,12 @@ versions:
         french:
         - marché
         - souk
+        hebrew: שוק
         portuguese: ''
         spanish: mercado
         turkish:
         - çarşı
         - pazar
+
+examples:
+  - ladino: En los sokos, la lakerda parvino ser muy rara.

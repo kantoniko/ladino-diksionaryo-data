@@ -1,16 +1,21 @@
-examples:
--   ladino: El profesor eskriviya sovre el tablo preto.
 grammar: null
 id: '1052'
 origen: Jeneral
+
 versions:
--   accented: tabló préto
+  - ladino: tablo preto
+    accented: tabló préto
+
     gender: masculine
-    ladino: tablo preto
     number: singular
+
     translations:
         english: blackboard
         french: tableau noir
         portuguese: quadro-preto
         spanish: pizarra
         turkish: kara tahta
+
+examples:
+  - ladino: El profesor eskriviya sovre el tablo preto.
+

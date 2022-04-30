@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2206'
 origen: Jeneral
+
 versions:
--   accented: suksesivamente
-    ladino: suksesivamente
+  - ladino: suksesivamente
+
     translations:
         english: successively
         french: ''
         portuguese: ''
         spanish: sucesivamente
         turkish: müteakiben
+
+examples: []

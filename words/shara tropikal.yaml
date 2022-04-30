@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2178'
 origen: Jeneral
+
 versions:
--   accented: shara tropikal
-    ladino: shara tropikal
+  - ladino: shara tropikal
+
     translations:
         english: jungle
         french: ''
         portuguese: ''
         spanish: selva
         turkish: tropik orman
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '997'
 origen: Jeneral
+
 versions:
--   accented: shaka
-    ladino: shaka
+  - ladino: shaka
+
     translations:
         english: joke
         french: ''
         portuguese: ''
         spanish: broma
         turkish: şaka
+
+examples: []

@@ -1,16 +1,20 @@
-examples:
--   ladino: Onde kaye la senteya, es ojo de la syega. (Neh.)
 grammar: null
 id: '2922'
 origen: Jeneral
+
 versions:
--   accented: sentéya
+  - ladino: senteya
+    accented: sentéya
+
     gender: feminine
-    ladino: senteya
     number: singular
+
     translations:
         english: spark
         french: ''
         portuguese: ''
         spanish: chispa
         turkish: kıvılcım
+
+examples:
+  - ladino: Onde kaye la senteya, es ojo de la syega. (Neh.)

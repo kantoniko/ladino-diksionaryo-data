@@ -2,9 +2,10 @@ examples: []
 grammar: null
 id: '1004'
 origen: Jeneral
+
 versions:
--   accented: si no
-    ladino: si no
+  - ladino: si no
+
     translations:
         english: except
         french: ''

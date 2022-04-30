@@ -1,13 +1,14 @@
-examples:
--   ladino: Todos kon sira (a su torno), chikos i grandes.
 grammar: null
 id: '2906'
 origen: Estanbol
+
 versions:
--   accented: sirá
+  - ladino: sira
+    accented: sirá
+
     gender: feminine
-    ladino: sira
     number: singular
+
     translations:
         english:
         - row
@@ -20,3 +21,7 @@ versions:
         - rango
         - momento oportuno
         turkish: sıra
+
+examples:
+  - ladino: Todos kon sira (a su torno), chikos i grandes.
+

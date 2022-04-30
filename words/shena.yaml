@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '1002'
 origen: Jeneral
+
 versions:
--   accented: shena
-    ladino: shena
+  - ladino: shena
+
+    gender: feminine
+    number: singular
+
     translations:
         english: scene
         french: ''
         portuguese: ''
         spanish: escena
         turkish: sahne
+
+  - ladino: shenas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: scenes
+        french: ''
+        portuguese: ''
+        spanish: escenas
+        turkish: sahne
+
+examples: []

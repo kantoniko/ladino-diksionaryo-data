@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '988'
 origen: Jeneral
+
 versions:
--   accented: seremonia de aviertura
-    ladino: seremonia de aviertura
+  - ladino: seremonia de aviertura
+
     translations:
         english:
         - inauguration
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: inauguración
         turkish: açılış töreni
+
+examples: []

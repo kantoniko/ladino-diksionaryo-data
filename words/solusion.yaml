@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '1035'
 origen: Jeneral
+
 versions:
--   accented: solusion
-    ladino: solusion
+  - ladino: solusion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: solution
         french: ''
         portuguese: ''
         spanish: solución
         turkish: çözüm
+
+  - ladino: solusiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: solutions
+        french: ''
+        portuguese: ''
+        spanish: soluciónes
+        turkish: çözüm
+
+examples: []

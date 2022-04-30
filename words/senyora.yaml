@@ -1,16 +1,17 @@
-examples:
--   ladino: La sinyora maestra.
 grammar: null
 id: '2619'
 origen: Jeneral
 versions:
--   accented: senyóra
+  - ladino: senyora
+    accented: senyóra
+
     alternative-spelling:
-    -   accented: sinyóra
-        ladino: sinyora
+      - ladino: sinyora
+        accented: sinyóra
+
     gender: feminine
-    ladino: senyora
     number: singular
+
     translations:
         english:
         - lady
@@ -22,3 +23,7 @@ versions:
         turkish:
         - hanımefendi
         - hanım
+
+examples:
+  - ladino: La sinyora maestra.
+

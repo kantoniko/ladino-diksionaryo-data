@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1056'
 origen: Jeneral
+
 versions:
--   accented: tank
-    ladino: tank
+  - ladino: tank
+
     translations:
         english: tank
         french: ''
         portuguese: ''
         spanish: tanque
         turkish: tank
+
+examples: []

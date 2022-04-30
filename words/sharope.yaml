@@ -1,13 +1,14 @@
-examples:
--   ladino: Es un sharope de ombre. (Neh.)
 grammar: null
 id: '2613'
 origen: Jeneral
+
 versions:
--   accented: sharópe
+  - ladino: sharope
+    accented: sharópe
+
     gender: masculine
-    ladino: sharope
     number: singular
+
     translations:
         english:
         - syrup
@@ -20,3 +21,6 @@ versions:
         turkish:
         - şurup
         - tatlı
+
+examples:
+  - ladino: Es un sharope de ombre. (Neh.)

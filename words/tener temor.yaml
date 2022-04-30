@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1074'
 origen: Jeneral
+
 versions:
--   accented: tener temor
-    ladino: tener temor
+  - ladino: tener temor
+
     translations:
         english: fear
         french: ''
         portuguese: ''
         spanish: temer
         turkish: ürkmek
+
+examples: []

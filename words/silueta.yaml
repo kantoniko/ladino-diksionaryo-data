@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2185'
 origen: Jeneral
+
 versions:
--   accented: silueta
-    ladino: silueta
+  - ladino: silueta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: silhouette
         french: ''
         portuguese: ''
         spanish: silueta
         turkish: siluet
+
+examples: []

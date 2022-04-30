@@ -1,16 +1,32 @@
-examples: []
 grammar: null
 id: '393'
 origen: Jeneral
+
 versions:
--   accented: estudiante
-    alternative-spelling:
-    -   accented: elevo
-        ladino: elevo
-    ladino: estudiante
+  - ladino: estudiante
+
+    #gender: NA # masculine feminine both
+    number: singular
+
+
     translations:
         english: student
         french: ''
         portuguese: ''
         spanish: estudiante
         turkish: öğrenci
+
+  - ladino: estudiantes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+
+    translations:
+        english: students
+        french: ''
+        portuguese: ''
+        spanish: estudiantes
+        turkish: öğrenci
+
+examples: []

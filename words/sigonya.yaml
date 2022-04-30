@@ -1,13 +1,19 @@
-examples: []
 grammar: null
 id: '1010'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: sigonya
-    ladino: sigonya
+  - ladino: sigonya
+    accented: sigonya
+
     translations:
         english: stork
         french: ''
+        hebrew: חסידה
         portuguese: ''
         spanish: cigüeña
         turkish: leylek
+
+examples: []
