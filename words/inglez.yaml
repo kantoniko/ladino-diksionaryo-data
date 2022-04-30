@@ -1,12 +1,13 @@
 grammar: noun
 origen: Ladinokomunita
 kategorias:
-  - lashon
+  - idiomas
 
 versions:
   - ladino: Inglez
     accented: Inglez
-    gender: NA # masculine feminine
+
+    gender: masculine
     number: singular
 
     translations:

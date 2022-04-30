@@ -2,12 +2,13 @@ grammar: noun
 id: '1336'
 origen: Jeneral
 kategorias:
-  - lashon
+  - idiomas
 
 versions:
   - ladino: fransez
     accented: fransez
-    gender: NA # masculine feminine
+
+    gender: masculine
     number: singular
 
     translations:

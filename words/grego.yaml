@@ -1,23 +1,40 @@
-comments:
-- 'grammar: m+f'
-examples:
--   ladino: Se eskondieron en kazas de amigos gregos durante el tiempo de la gerra.
 grammar: null
 id: '2462'
 origen: Jeneral
+
 versions:
--   accented: grégo
-    alternative-spelling:
-    -   accented: gréga
-        ladino: grega
-    ladino: grego
+  - ladino: grego
+    accented: grégo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: Greek
         french: ''
         portuguese: ''
         spanish:
         - griego
+        turkish:
+        - Rum
+        - Yunanlı
+
+  - ladino: grega
+    accented: gréga
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Greek
+        french: ''
+        portuguese: ''
+        spanish:
         - griega
         turkish:
         - Rum
         - Yunanlı
+
+
+examples:
+  - ladino: Se eskondieron en kazas de amigos gregos durante el tiempo de la gerra.

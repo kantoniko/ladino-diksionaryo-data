@@ -1,20 +1,19 @@
 grammar: null
-id: '1288'
-origen: Jeneral
+origen: Ladinokomunita
 kategorias:
   - idiomas
 
 versions:
-  - ladino: ebreo
+  - ladino: portugez
 
     gender: masculine
     number: singular
 
     translations:
-        english: Hebrew
+        english: Portuguese
         french: ''
         portuguese: ''
-        spanish: hebreo
-        turkish: ıbranıce
+        spanish: portugués
+        turkish: ''
 
 examples: []

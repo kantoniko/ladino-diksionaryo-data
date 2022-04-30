@@ -2,11 +2,12 @@ grammar: noun
 id: '2380'
 origen: Jeneral
 kategorias:
-  - lashon
+  - idiomas
 
 versions:
   - ladino: aleman
     accented: alemán
+
     gender: masculine
     number: singular
 

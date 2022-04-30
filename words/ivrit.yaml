@@ -1,14 +1,20 @@
-examples:
--   ladino: Avlo en ivrit sovre la lingua i los uzos.
 grammar: null
 id: '2478'
 origen: Jeneral
+kategorias:
+  - idiomas
+
 versions:
--   accented: ivrít
-    ladino: ivrit
+  - ladino: ivrit
+    accented: ivrít
+
     translations:
         english: Hebrew
         french: ''
         portuguese: ''
         spanish: hebreo
         turkish: Ibranice
+
+examples:
+  - ladino: Avlo en ivrit sovre la lingua i los uzos.
+

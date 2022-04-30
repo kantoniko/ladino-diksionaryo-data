@@ -2,7 +2,7 @@ grammar: null
 id: '2653'
 origen: Jeneral
 kategorias:
-  - lashon
+  - idiomas
 
 versions:
   - ladino: yiddish

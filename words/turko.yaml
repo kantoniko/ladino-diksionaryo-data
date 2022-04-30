@@ -2,11 +2,14 @@ grammar: null
 id: '25'
 origen: Jeneral
 kategorias:
-  - lashon
+  - idiomas
 
 versions:
   - ladino: turko
     accented: turko
+
+    gender: masculine
+    number: singular
 
     translations:
         english: Turkish

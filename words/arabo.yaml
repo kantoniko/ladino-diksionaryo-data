@@ -2,12 +2,13 @@ grammar: noun
 id: '1216'
 origen: Jeneral
 kategorias:
-  - lashon
+  - idiomas
 
 versions:
   - ladino: arabo
     accented: arabo
-    gender: NA # masculine feminine
+
+    gender: masculine
     number: singular
 
     translations:
