@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '1054'
 origen: Jeneral
+categories:
+  - ropa
+
 versions:
--   accented: takia
-    ladino: takia
+  - ladino: takia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: cap
         french: ''
         portuguese: ''
         spanish: gorro
         turkish: takke
+
+  - ladino: takias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: caps
+        french: ''
+        portuguese: ''
+        spanish: gorros
+        turkish: takke
+
+examples: []

@@ -1,16 +1,18 @@
-examples:
--   ladino: Amanesimos kon un dia enuvlado en el sud de la Florida.
 grammar: null
 id: '2622'
 origen: Jeneral
+categories:
+  - direksion
+
 versions:
--   accented: sud
+  - ladino: sud
+
     alternative-spelling:
-    -   accented: sur
-        ladino: sur
+      - ladino: sur
+
     gender: masculine
-    ladino: sud
     number: singular
+
     translations:
         english: south
         french: ''
@@ -19,3 +21,7 @@ versions:
         turkish:
         - güney
         - cenup
+
+examples:
+  - ladino: Amanesimos kon un dia enuvlado en el sud de la Florida.
+

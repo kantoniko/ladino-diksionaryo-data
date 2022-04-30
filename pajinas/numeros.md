@@ -34,7 +34,7 @@ No        | Ladino
 70        | setenta
 80        | ochenta
 90        | noventa
-100       | sien
+100       | [sien](/words/ladino/sien) syen
 123       | siento venti tres
 200       | dosientos
 300       | tresientos

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1370'
 origen: Jeneral
+
 versions:
--   accented: kasha
-    ladino: kasha
+  - ladino: kasha
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - case
@@ -15,3 +18,5 @@ versions:
         turkish:
         - kasa
         - vezne
+
+examples: []

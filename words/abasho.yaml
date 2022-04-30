@@ -1,6 +1,8 @@
 grammar: adverb
 id: '2369'
 origen: Jeneral
+categories:
+  - direksion
 
 versions:
   - ladino: abasho
@@ -21,5 +23,4 @@ versions:
 
 examples:
   - ladino: Kale ser modesto i mirar mas abasho de si. Yamavan "los de abasho", "los negros," o "los ke danyan".
-
 

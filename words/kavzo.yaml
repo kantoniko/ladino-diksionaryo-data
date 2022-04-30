@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '1895'
 origen: Jeneral
+
 versions:
--   accented: kavzo
-    ladino: kavzo
+  - ladino: kavzo
+
+    #gender: NA # masculine feminine both
+    number: singular
+
+
     translations:
         english:
         - case
@@ -15,3 +19,22 @@ versions:
         turkish:
         - olay
         - durum
+
+  - ladino: kavzos
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+
+    translations:
+        english:
+        - cases
+        - events
+        french: ''
+        portuguese: ''
+        spanish: casos
+        turkish:
+        - olay
+        - durum
+
+examples: []

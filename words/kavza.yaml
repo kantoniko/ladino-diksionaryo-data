@@ -1,16 +1,16 @@
-examples:
--   ladino: 'Ay muncho tiempo ke no vos eskrivo por kavza de mi grande okupasyon.
-
-        Kita la kavza, kita el pekado.'
 grammar: null
 id: '2314'
 origen: Jeneral
+
 versions:
--   accented: kavza
-    ladino: kavza
+  - ladino: kavza
+
     translations:
         english: cause
         french: ''
         portuguese: ''
         spanish: causa
         turkish: sebep
+
+examples:
+  - ladino: 'Ay muncho tiempo ke no vos eskrivo por kavza de mi grande okupasyon.  Kita la kavza, kita el pekado.'

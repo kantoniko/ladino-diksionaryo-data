@@ -1,8 +1,9 @@
-examples:
--   ladino: Metyó todo de arriva abasho.
 grammar: adverb
 id: '115'
 origen: Jeneral
+categories:
+  - direksion
+
 versions:
 -   accented: arríva
     ladino: arriva
@@ -20,3 +21,6 @@ versions:
         - üst
         - üstte
         - yukarda
+
+examples:
+  - ladino: Metyó todo de arriva abasho.

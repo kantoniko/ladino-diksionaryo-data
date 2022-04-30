@@ -1,13 +1,30 @@
-examples: []
 grammar: null
 id: '1060'
 origen: Jeneral
+
 versions:
--   accented: teatro
-    ladino: teatro
+  - ladino: teatro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: theatre
         french: ''
         portuguese: ''
         spanish: teatro
         turkish: tiyatro
+
+  - ladino: teatros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: theaters
+        french: ''
+        portuguese: ''
+        spanish: teatros
+        turkish: tiyatro
+
+examples: []

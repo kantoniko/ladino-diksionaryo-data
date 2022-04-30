@@ -6,6 +6,9 @@ versions:
   - ladino: archivo
     accented: archivo
 
+    alternative-spelling:
+      - ladino: arkivo
+
     gender: masculine
     number: singular
 
@@ -20,6 +23,9 @@ versions:
 
   - ladino: archivos
     accented: archivos
+
+    alternative-spelling:
+      - ladino: arkivos
 
     gender: masculine
     number: plural

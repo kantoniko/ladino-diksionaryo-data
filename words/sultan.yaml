@@ -1,12 +1,11 @@
-comments:
-- 'grammar: m), sultána (f'
-examples: []
 grammar: null
 id: '2623'
 origen: Aki Yerushalayim
+
 versions:
--   accented: sultán
-    ladino: sultan
+  - ladino: sultan
+    accented: sultán
+
     translations:
         english: sultan
         french: ''
@@ -18,6 +17,8 @@ versions:
         - padişah
         - sultan
         - ''
+
+examples: []
 
 # "sultán (m), sultána (f)",,"sultán, sultana",sultan,"padişah, sultan,",Aki Yerushalayim,2623,,
 # "sultán (m), sultána (f)","El Sultan teniya munchos savios, doktores, avokatos djudios.","sultán, sultana",sultan,"padişah, sultan, hanım sultan",Jeneral,2624,,

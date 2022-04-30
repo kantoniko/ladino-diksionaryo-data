@@ -1,16 +1,20 @@
-examples:
--   ladino: Los sefardim de oriente avlan djudeo-espanyol, ladino, djudezmo.
 grammar: null
 id: '2557'
 origen: Jeneral
+categories:
+  - direksion
+
 versions:
--   accented: oriénte
+  - ladino: oriente
+    accented: oriénte
+
     alternative-spelling:
-    -   accented: oryénte
-        ladino: oryente
+      - ladino: oryente
+        accented: oryénte
+
     gender: masculine
-    ladino: oriente
     number: singular
+
     translations:
         english:
         - east
@@ -19,3 +23,6 @@ versions:
         portuguese: ''
         spanish: oriente
         turkish: doğu
+
+examples:
+  - ladino: Los sefardim de oriente avlan djudeo-espanyol, ladino, djudezmo.

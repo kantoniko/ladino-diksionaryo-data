@@ -1,13 +1,15 @@
-examples:
--   ladino: Los "pasharos de inviero" se van al Norte por la sezon.
 grammar: null
 id: '2551'
 origen: Jeneral
+categories:
+  - direksion
+
 versions:
--   accented: norte
+  - ladino: norte
+
     gender: masculine
-    ladino: norte
     number: singular
+
     translations:
         english: north
         french: ''
@@ -16,3 +18,6 @@ versions:
         turkish:
         - kuzey
         - şimal
+
+examples:
+  - ladino: Los "pasharos de inviero" se van al Norte por la sezon.
