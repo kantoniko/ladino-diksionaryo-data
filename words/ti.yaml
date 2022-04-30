@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2217'
 origen: Jeneral
+
 versions:
--   accented: ti
-    ladino: ti
+  - ladino: ti
+
     translations:
         english: you
         french: ''
         portuguese: ''
         spanish: ti
         turkish: sen
+
+examples: []

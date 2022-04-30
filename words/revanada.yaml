@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1488'
 origen: Jeneral
+
 versions:
--   accented: revanada
-    ladino: revanada
+  - ladino: revanada
+    accented: revanada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: slice
         french: ''
         portuguese: ''
         spanish: tajada
         turkish: dilim
+
+  - ladino: revanadas
+    accented: revanadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: slices
+        french: ''
+        portuguese: ''
+        spanish: tajadas
+        turkish: dilim
+
+
+examples: []

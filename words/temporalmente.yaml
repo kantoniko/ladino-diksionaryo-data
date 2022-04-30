@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1069'
 origen: Jeneral
+
 versions:
--   accented: temporalmente
-    ladino: temporalmente
+  - ladino: temporalmente
+    accented: temporalmente
+
     translations:
         english: temporarily
         french: ''
         portuguese: ''
         spanish: temporalmente
         turkish: geçici olarak
+
+examples: []

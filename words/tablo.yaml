@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1051'
 origen: Jeneral
+
 versions:
--   accented: tablo
-    ladino: tablo
+  - ladino: tablo
+
     translations:
         english:
         - picture
@@ -15,3 +15,5 @@ versions:
         turkish:
         - resim
         - tablo
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2228'
 origen: Jeneral
+
 versions:
--   accented: total
-    ladino: total
+  - ladino: total
+
     translations:
         english: total
         french: ''
         portuguese: ''
         spanish: total
         turkish: toplam
+
+examples: []

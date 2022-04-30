@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '2236'
 origen: Jeneral
+
 versions:
--   accented: tremblante
-    ladino: tremblante
+  - ladino: tremblante
+    accented: tremblante
+
     translations:
         english: trembling
         french: ''
         portuguese: ''
         spanish: tembloroso
         turkish: titrek
+
+examples: []

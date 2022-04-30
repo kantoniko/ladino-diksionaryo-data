@@ -1,13 +1,35 @@
-examples: []
 grammar: null
 id: '1516'
 origen: Jeneral
+
 versions:
--   accented: tajada
-    ladino: tajada
+  - ladino: tajada
+    accented: tajada
+
+    gender: feminine
+    number: singular
+
     translations:
-        english: big slice
+        english:
+          - big slice
+          - slice
         french: ''
         portuguese: ''
         spanish: tajada
         turkish: büyük dilim
+
+  - ladino: tajadas
+    accented: tajadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: big slices
+        french: ''
+        portuguese: ''
+        spanish: tajadas
+        turkish: büyük dilim
+
+
+examples: []

@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1514'
 origen: Jeneral
+categories:
+  - muzika
+
 versions:
--   accented: tambur
-    ladino: tambur
+  - ladino: tambur
+
+    gender: masculine
+    number: singular
+
     translations:
         english: drum
         french: ''
         portuguese: ''
         spanish: tambor
         turkish: davul
+
+  - ladino: tambures
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: drums
+        french: ''
+        portuguese: ''
+        spanish: tambores
+        turkish: davul
+
+
+examples: []

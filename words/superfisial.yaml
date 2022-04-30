@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2209'
 origen: Jeneral
+
 versions:
--   accented: superfisial
-    ladino: superfisial
+  - ladino: superfisial
+
     translations:
         english: superficial
         french: ''
         portuguese: ''
         spanish: superficial
         turkish: yüzeysel
+
+examples: []

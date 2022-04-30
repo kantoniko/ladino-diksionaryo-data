@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2230'
 origen: Jeneral
+
 versions:
--   accented: trafiko
-    ladino: trafiko
+  - ladino: trafiko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: traffic
         french: ''
         portuguese: ''
         spanish: tráfico
         turkish: trafik
+
+examples: []
