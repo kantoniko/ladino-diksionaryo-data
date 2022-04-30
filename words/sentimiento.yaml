@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '986'
 origen: Jeneral
+
 versions:
--   accented: sentimiento
-    ladino: sentimiento
+  - ladino: sentimiento
+
+    gender: masculine
+    number: singular
+
     translations:
         english: feeling
         french: ''
         portuguese: ''
         spanish: sentimiento
         turkish: duygu
+
+  - ladino: sentimientos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: feelings
+        french: ''
+        portuguese: ''
+        spanish: sentimientos
+        turkish: duygu
+
+
+examples: []

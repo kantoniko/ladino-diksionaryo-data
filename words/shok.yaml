@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2181'
 origen: Jeneral
+
 versions:
--   accented: shok
-    ladino: shok
+  - ladino: shok
+
+    gender: masculine
+    number: singular
+
     translations:
         english: shock
         french: ''
         portuguese: ''
         spanish: choque
         turkish: şok
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '979'
 origen: Jeneral
+
 versions:
--   accented: selo
-    ladino: selo
+  - ladino: selo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: jealousy
         french: ''
         portuguese: ''
         spanish: celo
         turkish: kıskançlık
+
+  - ladino: selos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: jealousy
+        french: ''
+        portuguese: ''
+        spanish: celos
+        turkish: kıskançlık
+
+
+examples: []

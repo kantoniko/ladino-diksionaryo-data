@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1003'
 origen: Jeneral
+
 versions:
--   accented: shavon
-    ladino: shavon
+  - ladino: shavon
+
+    gender:  masculine
+    number: singular
+
     translations:
         english: soap
         french: ''
         portuguese: ''
         spanish: jabón
         turkish: sabun
+
+  - ladino: shavones
+
+    gender:  masculine
+    number: plural
+
+    translations:
+        english: soaps
+        french: ''
+        portuguese: ''
+        spanish: jabónes
+        turkish: sabun
+
+
+examples: []

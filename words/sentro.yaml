@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2172'
 origen: Jeneral
+
 versions:
--   accented: sentro
-    ladino: sentro
+  - ladino: sentro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: center
         french: ''
         portuguese: ''
         spanish: centro
         turkish: merkez
+
+  - ladino: sentros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: centers
+        french: ''
+        portuguese: ''
+        spanish: centros
+        turkish: merkez
+
+
+examples: []

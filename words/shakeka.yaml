@@ -1,16 +1,35 @@
-examples:
--   ladino: Para kurar dolor de shakeka , se metiyan una rida apretada en la frente.
 grammar: null
 id: '2937'
 origen: Jeneral
+
 versions:
--   accented: shakéka
+  - ladino: shakeka
+    accented: shakéka
+
     gender: feminine
-    ladino: shakeka
     number: singular
+
     translations:
         english: headache
         french: mal de tête
         portuguese: enxaqueca
         spanish: jaqueca
         turkish: baş ağrısı
+
+  - ladino: shakekas
+    accented: shakékas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: headaches
+        french: mal de tête
+        portuguese: enxaqueca
+        spanish: jaquecas
+        turkish: baş ağrısı
+
+
+examples:
+  - ladino: Para kurar dolor de shakeka, se metiyan una rida apretada en la frente.
+  - ladino: Shakeka es dolor de kavesa.

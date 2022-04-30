@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1012'
 origen: Jeneral
+
 versions:
--   accented: silaba
-    ladino: silaba
+  - ladino: silaba
+
+    gender: feminine
+    number: singular
+
     translations:
         english: syllable
         french: ''
         portuguese: ''
         spanish: sílaba
         turkish: hece
+
+  - ladino: silabas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: syllables
+        french: ''
+        portuguese: ''
+        spanish: sílabas
+        turkish: hece
+
+
+examples: []

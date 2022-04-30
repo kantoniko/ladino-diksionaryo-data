@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '2229'
 origen: Jeneral
+kategorias:
+  - veikolos
+
 versions:
--   accented: tractor
-    ladino: tractor
+  - ladino: tractor
+
     translations:
         english: tractor
         french: ''
         portuguese: ''
         spanish: tractor
         turkish: traktör
+
+examples: []

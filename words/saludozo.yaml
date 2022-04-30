@@ -1,13 +1,14 @@
-comments:
-- 'grammar: m), saludóza (f'
-examples:
--   ladino: Le demandi un emprestimo i me refuzo; saludozo m'esté!
 grammar: null
 id: '2603'
 origen: Jeneral
+
 versions:
--   accented: saludózo
-    ladino: saludozo
+  - ladino: saludozo
+    accented: saludózo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: healthy
         french:
@@ -20,3 +21,66 @@ versions:
         turkish:
         - sıhhatli
         - sağlıklı
+
+  - ladino: saludoza
+    accented: saludóza
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: healthy
+        french:
+        - sain
+        - en bonne santé
+        portuguese: são
+        spanish:
+        - sana
+        - saludabla
+        turkish:
+        - sıhhatli
+        - sağlıklı
+
+  - ladino: saludozos
+    accented: saludózos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: healthy
+        french:
+        - sain
+        - en bonne santé
+        portuguese: são
+        spanish:
+        - sanos
+        - saludables
+        turkish:
+        - sıhhatli
+        - sağlıklı
+
+  - ladino: saludozas
+    accented: saludózas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: healthy
+        french:
+        - sain
+        - en bonne santé
+        portuguese: são
+        spanish:
+        - sanas
+        - saludablas
+        turkish:
+        - sıhhatli
+        - sağlıklı
+
+
+
+examples:
+  - ladino: Le demandi un emprestimo i me refuzo; saludozo m'esté!
+

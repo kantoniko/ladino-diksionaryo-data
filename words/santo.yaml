@@ -1,14 +1,14 @@
-examples:
--   ladino: Azerse del santo.
 grammar: adjective
 id: '2606'
 origen: Jeneral
+
 versions:
--   accented: sánto
-    alternative-spelling:
-    -   accented: sánta
-        ladino: santa
-    ladino: santo
+  - ladino: santo
+    accented: sánto
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - saint
@@ -17,8 +17,67 @@ versions:
         portuguese: ''
         spanish:
         - santo
+        turkish:
+        - aziz
+        - kutsal
+        - mukaddes
+
+  - ladino: santa
+    accented: sánta
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - saint
+        - holy
+        french: ''
+        portuguese: ''
+        spanish:
         - santa
         turkish:
         - aziz
         - kutsal
         - mukaddes
+
+  - ladino: santos
+    accented: sántos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - saint
+        - holy
+        french: ''
+        portuguese: ''
+        spanish:
+        - santos
+        turkish:
+        - aziz
+        - kutsal
+        - mukaddes
+
+  - ladino: santas
+    accented: sántas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - saint
+        - holy
+        french: ''
+        portuguese: ''
+        spanish:
+        - santas
+        turkish:
+        - aziz
+        - kutsal
+        - mukaddes
+
+examples:
+  - ladino: Azerse del santo.

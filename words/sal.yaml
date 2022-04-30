@@ -1,12 +1,13 @@
-examples:
--   ladino: Mantenerse de pan kon sal. (Neh.)
 grammar: null
 id: '2600'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: sal
+  - ladino: sal
+
     gender: feminine
-    ladino: sal
     number: singular
     translations:
         english: salt
@@ -14,3 +15,6 @@ versions:
         portuguese: ''
         spanish: sal
         turkish: tuz
+
+examples:
+  - ladino: Mantenerse de pan kon sal. (Neh.)

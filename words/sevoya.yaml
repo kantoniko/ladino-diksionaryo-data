@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1500'
 origen: Jeneral
+kategorias:
+  - zarzavates
+
 versions:
--   accented: sevoya
-    ladino: sevoya
+  - ladino: sevoya
+
     translations:
         english: onion
         french: ''
         portuguese: ''
         spanish: cebolla
         turkish: soğan
+
+examples: []

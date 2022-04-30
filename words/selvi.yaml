@@ -1,13 +1,14 @@
-examples:
--   ladino: Oy mis padres sembraron un selví en el kampo para fyestar Tu-Bishvat.
 grammar: null
 id: '2936'
 origen: Jeneral
+
 versions:
--   accented: selví
+  - ladino: selvi
+    accented: selví
+
     gender: masculine
-    ladino: selvi
     number: singular
+
     translations:
         english: cypress
         french: cyprès
@@ -16,3 +17,6 @@ versions:
         turkish:
         - selvi
         - servi
+
+examples:
+  - ladino: Oy mis padres sembraron un selví en el kampo para fyestar Tu-Bishvat.

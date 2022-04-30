@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '971'
 origen: Jeneral
+
 versions:
--   accented: savor
-    ladino: savor
+  - ladino: savor
+
+    gender: feminine
+    number: singular
+
     translations:
         english: taste
         french: ''
         portuguese: ''
         spanish: sabor
         turkish: tad
+
+  - ladino: savores
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: tastes
+        french: ''
+        portuguese: ''
+        spanish: sabores
+        turkish: tad
+
+
+examples: []

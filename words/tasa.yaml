@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1059'
 origen: Jeneral
+
 versions:
--   accented: tasa
+  - ladino: tasa
+
     alternative-spelling:
-    -   accented: kupa
-        ladino: kupa
-    ladino: tasa
+      - ladino: kupa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: cup
         french: ''
@@ -16,3 +19,23 @@ versions:
         turkish:
         - fincan
         - kupa
+
+  - ladino: tasas
+
+    alternative-spelling:
+      - ladino: kupas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cups
+        french: ''
+        portuguese: ''
+        spanish: copas
+        turkish:
+        - fincan
+        - kupa
+
+
+examples: []

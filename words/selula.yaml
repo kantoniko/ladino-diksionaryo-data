@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2170'
 origen: Jeneral
+
 versions:
--   accented: selula
-    ladino: selula
+  - ladino: selula
+
+    gender: feminine
+    number: singular
+
     translations:
         english: cell
         french: ''
         portuguese: ''
         spanish: calabozo
         turkish: hücre
+
+  - ladino: selulas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cells
+        french: ''
+        portuguese: ''
+        spanish: calabozos
+        turkish: hücre
+
+
+examples: []

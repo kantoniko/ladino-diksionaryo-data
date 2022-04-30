@@ -1,16 +1,18 @@
-examples:
--   ladino: Para el mentirozo, un sarnudo es un ayudo. (Neh.)
 grammar: null
 id: '2658'
 origen: Jeneral
+
 versions:
--   accented: sarnúdo
+  - ladino: sarnudo
+    accented: sarnúdo
+
     alternative-spelling:
-    -   accented: estornúdo
-        ladino: estornudo
+      - ladino: estornudo
+        accented: estornúdo
+
     gender: masculine
-    ladino: sarnudo
     number: singular
+
     translations:
         english: sneeze
         french: ''
@@ -19,3 +21,26 @@ versions:
         turkish:
         - aksırık
         - hapşırık
+
+  - ladino: sarnudos
+    accented: sarnúdos
+
+    alternative-spelling:
+      - ladino: estornudos
+        accented: estornúdos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sneezes
+        french: ''
+        portuguese: ''
+        spanish: estornudos
+        turkish:
+        - aksırık
+        - hapşırık
+
+
+examples:
+  - ladino: Para el mentirozo, un sarnudo es un ayudo. (Neh.)
