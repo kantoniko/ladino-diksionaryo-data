@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2738'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: travádos
+  - ladino: travados
+    accented: travádos
+
     gender: masculine
-    ladino: travados
     number: singular
+
     translations:
         english: nut-filled pastry
         french: ''
         portuguese: ''
         spanish: pasta rellenada de nuez
         turkish: cevizli börek
+
+examples: []

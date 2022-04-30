@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1030'
 origen: Jeneral
+
 versions:
--   accented: solamente
-    ladino: solamente
+  - ladino: solamente
+
     translations:
         english: only
         french: ''
         portuguese: ''
         spanish: solamente
         turkish: sadece
+
+examples: []

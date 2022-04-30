@@ -1,17 +1,77 @@
-examples:
--   ladino: No lo tomes por sierto.
 grammar: adverb
 id: '2752'
 origen: Jeneral
+
 versions:
--   accented: siérto
+  - ladino: sierto
+    accented: siérto
+
     alternative-spelling:
-    -   accented: syérto
-        ladino: syerto
-    ladino: sierto
+      - ladino: syerto
+        accented: syérto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: certain
         french: ''
         portuguese: ''
         spanish: cierto
         turkish: muhakkak
+
+  - ladino: sierta
+    accented: siérta
+
+    alternative-spelling:
+      - ladino: syerta
+        accented: syérta
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: certain
+        french: ''
+        portuguese: ''
+        spanish: cierta
+        turkish: muhakkak
+
+  - ladino: siertos
+    accented: siértos
+
+    alternative-spelling:
+      - ladino: syertos
+        accented: syértos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: certain
+        french: ''
+        portuguese: ''
+        spanish: ciertos
+        turkish: muhakkak
+
+  - ladino: siertas
+    accented: siértas
+
+    alternative-spelling:
+      - ladino: syertas
+        accented: syértas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: certain
+        french: ''
+        portuguese: ''
+        spanish: ciertas
+        turkish: muhakkak
+
+
+examples:
+  - ladino: No lo tomes por sierto.
+

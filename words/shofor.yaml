@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '2180'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: shofor
-    ladino: shofor
+  - ladino: shofor
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: driver
         french: ''
         portuguese: ''
         spanish: chofer
         turkish: şoför
+
+  - ladino: shofores
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: drivers
+        french: ''
+        portuguese: ''
+        spanish: choferes
+        turkish: şoför
+
+
+examples: []

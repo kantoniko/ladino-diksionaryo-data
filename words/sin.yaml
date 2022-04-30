@@ -1,13 +1,14 @@
-examples: []
 grammar: null
 id: '1014'
 origen: Jeneral
 versions:
--   accented: sin ...
-    ladino: sin ...
+  - ladino: sin
+
     translations:
         english: without
         french: ''
         portuguese: ''
-        spanish: sin ...
-        turkish: '...suz'
+        spanish: sin
+        turkish: 'suz'
+
+examples: []

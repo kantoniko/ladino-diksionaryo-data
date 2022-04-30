@@ -1,13 +1,58 @@
-examples: []
 grammar: null
 id: '1013'
 origen: Jeneral
+
 versions:
--   accented: simpatiko
-    ladino: simpatiko
+  - ladino: simpatiko
+    accented: simpatiko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: sympathetic
         french: ''
         portuguese: ''
         spanish: simpático
         turkish: sempatik
+
+  - ladino: simpatika
+    accented: simpatika
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: sympathetic
+        french: ''
+        portuguese: ''
+        spanish: simpática
+        turkish: sempatik
+
+  - ladino: simpatikos
+    accented: simpatikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sympathetic
+        french: ''
+        portuguese: ''
+        spanish: simpáticos
+        turkish: sempatik
+
+  - ladino: simpatikas
+    accented: simpatikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sympathetic
+        french: ''
+        portuguese: ''
+        spanish: simpáticas
+        turkish: sempatik
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1022'
 origen: Jeneral
+
 versions:
--   accented: sistema
-    ladino: sistema
+  - ladino: sistema
+
+    gender: masculine
+    number: singular
+
     translations:
         english: system
         french: ''
         portuguese: ''
         spanish: sistema
         turkish: sistem
+
+  - ladino: sistemas
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: systems
+        french: ''
+        portuguese: ''
+        spanish: sistemas
+        turkish: sistem
+
+
+examples: []

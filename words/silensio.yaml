@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2184'
 origen: Jeneral
+
 versions:
--   accented: silensio
-    ladino: silensio
+  - ladino: silensio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: silence
         french: ''
         portuguese: ''
         spanish: silencio
         turkish: sükût
+
+  - ladino: silensios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: silences
+        french: ''
+        portuguese: ''
+        spanish: silencios
+        turkish: sükût
+
+
+examples: []

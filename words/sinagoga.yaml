@@ -1,13 +1,14 @@
-examples:
--   ladino: Aki en kaza i en la sinagoga, konto tus poemas.
 grammar: null
 id: '2618'
 origen: Jeneral
+
 versions:
--   accented: sinagóga
+  - ladino: sinagoga
+    accented: sinagóga
+
     gender: feminine
-    ladino: sinagoga
     number: singular
+
     translations:
         english: synagogue
         french: ''
@@ -16,3 +17,23 @@ versions:
         turkish:
         - sinagog
         - havra
+
+  - ladino: sinagogas
+    accented: sinagógas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: synagogues
+        french: ''
+        portuguese: ''
+        spanish: sinagogas
+        turkish:
+        - sinagog
+        - havra
+
+
+examples:
+  - ladino: Aki en kaza i en la sinagoga, konto tus poemas.
+

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1061'
 origen: Jeneral
+
 versions:
--   accented: techo
-    ladino: techo
+  - ladino: techo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - roof
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: techo
         turkish: tavan
+
+  - ladino: techos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - roofs
+        - ceilings
+        french: ''
+        portuguese: ''
+        spanish: techos
+        turkish: tavan
+
+
+examples: []

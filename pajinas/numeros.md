@@ -58,7 +58,7 @@ No   | Femininos                                  | Maskulinos, adj             
 4.   | kuatrena                                   | [kuatren](/words/ladino/kuatren)| kuaterno
 5.   | sinkenta                                   | [sinken](/words/ladino/sinken)  | sinkeno
 6.   | seshena (sejena)                           | seshen                          | sejeno
-7.   | sietena (setena)                           | sieten                          | seteno
+7.   | sietena (setena)                           | [sieten](/words/ladino/sieten)  | seteno
 8.   | ochena                                     |                                 | ocheno
 9.   | muevena                                    |                                 | mueveno
 10.  | diezena                                    |                                 | diezeno

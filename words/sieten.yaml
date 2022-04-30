@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1008'
 origen: Jeneral
+
 versions:
--   accented: sieten
-    ladino: sieten
+  - ladino: sieten
+
     translations:
         english: seventh
         french: ''
         portuguese: ''
         spanish: séptimo
         turkish: yedinci
+
+examples: []
