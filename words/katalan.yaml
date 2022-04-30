@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - idiomas
+
+versions:
+  - ladino: katalan
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: Catalan
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: catalán
+      turkish: ''
+
+examples: []
