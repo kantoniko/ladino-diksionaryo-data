@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '993'
 origen: Jeneral
+
 versions:
--   accented: serradura
-    ladino: serradura
+  - ladino: serradura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: lock
         french: ''
         portuguese: ''
         spanish: cerradura
         turkish: kilit
+
+  - ladino: serraduras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: locks
+        french: ''
+        portuguese: ''
+        spanish: cerraduras
+        turkish: kilit
+
+
+examples: []

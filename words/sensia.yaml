@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '984'
 origen: Jeneral
+
 versions:
--   accented: sensia
-    ladino: sensia
+  - ladino: sensia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: science
         french: ''
         portuguese: ''
         spanish: ciencia
         turkish: bilim
+
+  - ladino: sensias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sciences
+        french: ''
+        portuguese: ''
+        spanish: ciencias
+        turkish: bilim
+
+
+examples: []

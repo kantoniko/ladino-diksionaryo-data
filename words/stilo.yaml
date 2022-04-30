@@ -1,15 +1,37 @@
-examples: []
 grammar: null
 id: '1040'
 origen: Jeneral
+
 versions:
--   accented: stilo
-    ladino: stilo
+  - ladino: stilo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
-        - ballpoint pen
-        - fountain pen
+          - ballpoint pen
+          - fountain pen
+          - pen
         french: ''
         portuguese: ''
         spanish: bolígrafo
         turkish: tükenmez kalem
+
+  - ladino: stilos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - ballpoint pens
+          - fountain pens
+          - pens
+        french: ''
+        portuguese: ''
+        spanish: bolígrafos
+        turkish: tükenmez kalem
+
+
+examples: []

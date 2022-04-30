@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '972'
 origen: Jeneral
+
 versions:
--   accented: savor de boka
-    ladino: savor de boka
+  - ladino: savor de boka
+
     translations:
         english: desert
         french: ''
         portuguese: ''
         spanish: postre
         turkish: tatlı (yemek üstü)
+
+examples: []

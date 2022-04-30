@@ -1,13 +1,56 @@
-examples: []
 grammar: null
 id: '1503'
 origen: Jeneral
+
 versions:
--   accented: sinsero
-    ladino: sinsero
+  - ladino: sinsero
+
+    gender: masculine
+    number: singular
+
     translations:
         english: sincere
         french: ''
         portuguese: ''
         spanish: sincero
         turkish: samimî
+
+  - ladino: sinsera
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: sincere
+        french: ''
+        portuguese: ''
+        spanish: sincera
+        turkish: samimî
+
+  - ladino: sinseros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sincere
+        french: ''
+        portuguese: ''
+        spanish: sinceros
+        turkish: samimî
+
+  - ladino: sinseras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sincere
+        french: ''
+        portuguese: ''
+        spanish: sinceras
+        turkish: samimî
+
+
+
+examples: []

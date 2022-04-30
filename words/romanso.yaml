@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '957'
 origen: Jeneral
+
 versions:
--   accented: romanso
-    ladino: romanso
+  - ladino: romanso
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - novel
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: novela
         turkish: roman
+
+  - ladino: romansos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - novels
+        - romances
+        french: ''
+        portuguese: ''
+        spanish: novelas
+        turkish: roman
+
+
+examples: []

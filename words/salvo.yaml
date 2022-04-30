@@ -1,17 +1,16 @@
-examples:
--   ladino: 'Salio sano i salvo del aksidente.
-
-        Lavora kada diya, salvo el Shabat.'
 grammar: adjective
 id: '2604'
 origen: Jeneral
+
 versions:
--   accented: sálvo
-    ladino: salvo
+  - ladino: salvo
+    accented: sálvo
+
     translations:
         english:
         - safe
-        - saved; except
+        - saved
+        - except
         - save
         french: ''
         portuguese: ''
@@ -20,3 +19,7 @@ versions:
         - saği salim
         - hariç
         - maada
+
+examples:
+  - ladino: Salio sano i salvo del aksidente.
+  - ladino: Lavora kada diya, salvo el Shabat.

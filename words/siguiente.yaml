@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1011'
 origen: Jeneral
+
 versions:
--   accented: siguiente
-    ladino: siguiente
+  - ladino: siguiente
+
     translations:
         english:
         - next
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: siguiente
         turkish: takip eden
+
+examples: []

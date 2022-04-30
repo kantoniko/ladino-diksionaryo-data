@@ -1,10 +1,15 @@
-examples: []
 grammar: null
 id: '1495'
 origen: Jeneral
+kategorias:
+  - ropa
+
 versions:
--   accented: sapato
-    ladino: sapato
+  - ladino: sapato
+
+    gender: masculine
+    number: singular
+
     translations:
         english: slipper
         french: ''
@@ -13,3 +18,20 @@ versions:
         turkish:
         - terlik
         - çarık
+
+  - ladino: sapatos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: slippers
+        french: ''
+        portuguese: ''
+        spanish: zapatillas
+        turkish:
+        - terlik
+        - çarık
+
+
+examples: []

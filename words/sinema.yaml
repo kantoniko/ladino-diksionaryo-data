@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1016'
 origen: Jeneral
+
 versions:
--   accented: sinema
-    ladino: sinema
+  - ladino: sinema
+
+    gender: masculine
+    number: singular
+
     translations:
         english: cinema
         french: ''
         portuguese: ''
         spanish: cine
         turkish: sinema
+
+  - ladino: sinemas
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cinemas
+        french: ''
+        portuguese: ''
+        spanish: cines
+        turkish: sinema
+
+
+examples: []

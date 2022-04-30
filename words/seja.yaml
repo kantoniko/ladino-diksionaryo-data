@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '975'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: seja
-    ladino: seja
+  - ladino: seja
+
+    gender: feminine
+    number: singular
+
     translations:
         english: eyebrow
         french: ''
         portuguese: ''
         spanish: ceja
         turkish: kaş
+
+  - ladino: sejas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: eyebrows
+        french: ''
+        portuguese: ''
+        spanish: ceja
+        turkish: kaş
+
+
+examples: []

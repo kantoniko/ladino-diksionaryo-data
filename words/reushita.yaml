@@ -1,13 +1,14 @@
-examples:
--   ladino: Le dezeamos viaje bueno i reushita buena.
 grammar: null
 id: '2355'
 origen: Jeneral
+
 versions:
--   accented: reushitá
+  - ladino: reushita
+    accented: reushitá
+
     gender: feminine
-    ladino: reushita
     number: singular
+
     translations:
         english:
         - success
@@ -18,3 +19,24 @@ versions:
         - éxito
         - logro
         turkish: başarı
+
+  - ladino: reushitas
+    accented: reushitás
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - successes
+        - achievements
+        french: réussite
+        portuguese: êxito
+        spanish:
+        - éxitos
+        - logros
+        turkish: başarı
+
+
+examples:
+  - ladino: Le dezeamos viaje bueno i reushita buena.

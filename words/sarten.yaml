@@ -1,16 +1,20 @@
-examples:
--   ladino: Algunos de vozotros se akodran de la sarten de bimuelos de Pesah?
 grammar: null
 id: '2861'
 origen: Jeneral
+
 versions:
--   accented: sartén
+  - ladino: sarten
+    accented: sartén
+
     gender: feminine
-    ladino: sarten
     number: singular
+
     translations:
         english: frying-pan
         french: ''
         portuguese: ''
         spanish: sartén
         turkish: tava
+
+examples:
+  - ladino: Algunos de vozotros se akodran de la sarten de bimuelos de Pesah?

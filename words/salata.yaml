@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1493'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: salata
-    ladino: salata
+  - ladino: salata
+
+    gender: feminine
+    number: singular
+
     translations:
         english: salad
         french: ''
         portuguese: ''
         spanish: ensalada
         turkish: salata
+
+  - ladino: salatas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: salads
+        french: ''
+        portuguese: ''
+        spanish: ensaladas
+        turkish: salata
+
+
+examples: []

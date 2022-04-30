@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '999'
 origen: Jeneral
+
 versions:
--   accented: shashearse
-    ladino: shashearse
+  - ladino: shashearse
+
     translations:
         english: be stunned
         french: ''
         portuguese: ''
         spanish: aturdirse
         turkish: şaşmak
+
+examples: []

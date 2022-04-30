@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '2149'
 origen: Jeneral
+
 versions:
--   accented: rezerva
-    ladino: rezerva
+  - ladino: rezerva
+    accented: rezerva
+
     translations:
         english: reserve
         french: ''
         portuguese: ''
         spanish: reserva
         turkish: ihtiyat
+
+examples: []

@@ -1,16 +1,34 @@
-examples:
--   ladino: Por dolor de shakeka, se metiyan una rida apretada en la frente.
 grammar: null
 id: '2150'
 origen: Jeneral
+
 versions:
--   accented: ridá
+  - ladino: rida
+    accented: ridá
+
     gender: feminine
-    ladino: rida
     number: singular
+
     translations:
         english: handkerchief
         french: mouchoir
         portuguese: lenço
         spanish: pañuelo
         turkish: mendil
+
+  - ladino: ridas
+    accented: ridás
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: handkerchiefs
+        french: mouchoir
+        portuguese: lenço
+        spanish: pañuelos
+        turkish: mendil
+
+
+examples:
+  - ladino: Por dolor de shakeka, se metiyan una rida apretada en la frente.

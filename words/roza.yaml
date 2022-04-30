@@ -1,16 +1,37 @@
-examples:
--   ladino: No ay roza sin espino.
 grammar: null
 id: '2599'
 origen: Jeneral
+kategorias:
+  - flores
+
 versions:
--   accented: róza
+  - ladino: roza
+    accented: róza
+
     gender: feminine
-    ladino: roza
     number: singular
+
     translations:
         english: rose
         french: ''
         portuguese: ''
         spanish: rosa
         turkish: gül
+
+  - ladino: rozas
+    accented: rózas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: roses
+        french: ''
+        portuguese: ''
+        spanish: rosas
+        turkish: gül
+
+
+examples:
+  - ladino: No ay roza sin espino.
+

@@ -1,13 +1,21 @@
-examples: []
 grammar: null
 id: '996'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: sesamo
-    ladino: sesamo
+  - ladino: sesamo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: sesame
         french: ''
+        hebrew: שומשום
         portuguese: ''
         spanish: sésamo
         turkish: susam
+
+examples: []

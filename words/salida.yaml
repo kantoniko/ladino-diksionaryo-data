@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2156'
 origen: Jeneral
+
 versions:
--   accented: salida
-    ladino: salida
+  - ladino: salida
+
+    gender: feminine
+    number: singular
+
     translations:
         english: exit
         french: ''
         portuguese: ''
         spanish: salida
         turkish: çıkış
+
+  - ladino: salidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: exits
+        french: ''
+        portuguese: ''
+        spanish: salidas
+        turkish: çıkış
+
+
+examples: []

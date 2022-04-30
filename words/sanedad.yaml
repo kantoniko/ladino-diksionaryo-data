@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1494'
 origen: Jeneral
+
 versions:
--   accented: sanedad
-    ladino: sanedad
+  - ladino: sanedad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: health
         french: ''
@@ -13,3 +16,5 @@ versions:
         - sanıdad
         - salud
         turkish: sıhhat
+
+examples: []

@@ -1,13 +1,55 @@
-examples: []
 grammar: null
 id: '1001'
 origen: Jeneral
+
 versions:
--   accented: shef
-    ladino: shef
+  - ladino: shef
+
+    gender: masculine
+    number: singular
+
     translations:
         english: chief
         french: ''
         portuguese: ''
         spanish: jefe
         turkish: şef
+
+  - ladino: shefa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: chief
+        french: ''
+        portuguese: ''
+        spanish: jefa
+        turkish: şef
+
+  - ladino: shefes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: chiefs
+        french: ''
+        portuguese: ''
+        spanish: jefes
+        turkish: şef
+
+  - ladino: shefas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: chiefs
+        french: ''
+        portuguese: ''
+        spanish: jefas
+        turkish: şef
+
+
+examples: []

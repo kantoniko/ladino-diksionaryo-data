@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1487'
 origen: Jeneral
+
 versions:
--   accented: repozo
-    ladino: repozo
+  - ladino: repozo
+    accented: repozo
+
     translations:
         english: rest
         french: ''
         portuguese: ''
         spanish: reposo
         turkish: huzur istirahat
+
+examples: []

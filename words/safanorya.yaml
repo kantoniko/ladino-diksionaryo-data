@@ -1,19 +1,44 @@
-examples:
--   ladino: Komimos una salata de safanorya.
 grammar: null
 id: '2356'
 origen: Estanbol
+kategorias:
+  - zarzavates
+
 versions:
--   accented: safanórya
+  - ladino: safanorya
+    accented: safanórya
+
     alternative-spelling:
-    -   accented: karóta
-        ladino: karota
+      - ladino: karota
+        accented: karóta
+
     gender: feminine
-    ladino: safanorya
     number: singular
+
     translations:
         english: carrot
         french: ''
         portuguese: ''
         spanish: zanahoria
         turkish: havuç
+
+  - ladino: safanoryas
+    accented: safanóryas
+
+    alternative-spelling:
+      - ladino: karotas
+        accented: karótas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: carrots
+        french: ''
+        portuguese: ''
+        spanish: zanahorias
+        turkish: havuç
+
+
+examples:
+  - ladino: Komimos una salata de safanorya.

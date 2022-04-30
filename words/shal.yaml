@@ -1,13 +1,35 @@
-examples: []
 grammar: null
 id: '2176'
 origen: Jeneral
+kategorias:
+  - ropa
+
 versions:
--   accented: shal
-    ladino: shal
+  - ladino: shal
+
+    gender: masculine
+    number: singular
+
     translations:
         english: shawl
         french: ''
+        hebrew: צעיף
         portuguese: ''
         spanish: chal
         turkish: şal
+
+  - ladino: shales
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: shawls
+        french: ''
+        hebrew: צעיפים
+        portuguese: ''
+        spanish: chales
+        turkish: şal
+
+
+examples: []

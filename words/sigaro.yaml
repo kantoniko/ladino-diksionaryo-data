@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1009'
 origen: Jeneral
+
 versions:
--   accented: sigaro
-    ladino: sigaro
+  - ladino: sigaro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: cigarette
         french: ''
         portuguese: ''
         spanish: cigarrillo
         turkish: sigara
+
+  - ladino: sigaros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cigarettes
+        french: ''
+        portuguese: ''
+        spanish: cigarrillos
+        turkish: sigara
+
+
+examples: []

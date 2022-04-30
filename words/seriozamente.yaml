@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '989'
 origen: Jeneral
+
 versions:
--   accented: seriozamente
-    ladino: seriozamente
+  - ladino: seriozamente
+
     translations:
         english: seriously
         french: ''
         portuguese: ''
         spanish: seriamente
         turkish: ciddi olarak
+
+examples: []
