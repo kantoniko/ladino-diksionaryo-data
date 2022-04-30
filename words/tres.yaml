@@ -1,7 +1,7 @@
 grammar: null
 id: '1523'
 origen: Jeneral
-categories:
+kategorias:
   - numeros
 
 versions:

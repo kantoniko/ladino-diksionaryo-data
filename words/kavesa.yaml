@@ -1,7 +1,7 @@
 grammar: noun
 id: '540'
 origen: Jeneral
-categories:
+kategorias:
   - puerpo
 
 versions:

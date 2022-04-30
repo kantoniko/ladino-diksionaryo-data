@@ -1,7 +1,7 @@
 grammar: null
 id: '2200'
 origen: Jeneral
-categories:
+kategorias:
   - profesion
 
 versions:

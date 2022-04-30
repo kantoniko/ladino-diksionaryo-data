@@ -1,7 +1,7 @@
 grammar: noun
 id: '1975'
 origen: Jeneral
-categories:
+kategorias:
   - frutas
 
 versions:
