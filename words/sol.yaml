@@ -1,16 +1,20 @@
-examples:
--   ladino: Aki en la primavera ay bastante sol.
 grammar: null
 id: '1029'
 origen: Jeneral
+
 versions:
--   accented: sol
+  - ladino: sol
+
     gender: masculine
-    ladino: sol
     number: singular
+
     translations:
         english: sun
         french: soleil
         portuguese: sol
         spanish: sol
         turkish: güneş
+
+examples:
+  - ladino: Aki en la primavera ay bastante sol.
+

@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '706'
 origen: Jeneral
+
 versions:
--   accented: suerte
-    ladino: suerte
+  - ladino: suerte
+
     translations:
         english:
         - luck
@@ -15,3 +15,5 @@ versions:
         turkish:
         - şans
         - kader
+
+examples: []

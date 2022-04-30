@@ -1,14 +1,17 @@
-examples:
--   ladino: Se oye el son de la kampana.
 grammar: null
 id: '2348'
 origen: Jeneral
+
 versions:
--   accented: son
-    ladino: son
+  - ladino: son
+
     translations:
         english: sound
         french: ''
         portuguese: ''
         spanish: son
         turkish: ses
+
+examples:
+  - ladino: Se oye el son de la kampana.
+

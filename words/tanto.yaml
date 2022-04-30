@@ -1,14 +1,14 @@
-examples:
--   ladino: Tanto me vino afuerte ke me saltaron las lagrimas.
 grammar: adverb
 id: '2627'
 origen: Jeneral
+
 versions:
--   accented: tánto
-    alternative-spelling:
-    -   accented: tánta
-        ladino: tanta
-    ladino: tanto
+  - ladino: tanto
+    accented: tánto
+
+    gender: masculine
+    #number: singular plural
+
     translations:
         english:
         - so much
@@ -17,5 +17,25 @@ versions:
         portuguese: ''
         spanish:
         - tanto
+        turkish: o kadar
+
+  - ladino: tanta
+    accented: tánta
+
+    gender: feminine
+    #number: singular plural
+
+    translations:
+        english:
+        - so much
+        - so many
+        french: ''
+        portuguese: ''
+        spanish:
         - tanta
         turkish: o kadar
+
+
+examples:
+  - ladino: Tanto me vino afuerte ke me saltaron las lagrimas.
+

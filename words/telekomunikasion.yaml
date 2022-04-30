@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1066'
 origen: Jeneral
+
 versions:
--   accented: telekomunikasion
-    ladino: telekomunikasion
+  - ladino: telekomunikasion
+
     translations:
         english: telecommunication
         french: ''
         portuguese: ''
         spanish: telecomunicación
         turkish: telekomünikasyon
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1048'
 origen: Jeneral
+
 versions:
--   accented: suvida
-    ladino: suvida
+  - ladino: suvida
+
     translations:
         english: slope
         french: ''
         portuguese: ''
         spanish: cuesta
         turkish: yokuş
+
+examples: []

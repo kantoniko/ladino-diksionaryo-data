@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1088'
 origen: Jeneral
+kategorias:
+  - zarzavates
+
 versions:
--   accented: tomat
-    ladino: tomat
+  - ladino: tomat
+
     translations:
         english: tomato
         french: ''
         portuguese: ''
         spanish: tomate
         turkish: domates
+
+examples: []
