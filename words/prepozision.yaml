@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '2096'
 origen: Jeneral
+kategorias:
+  - gramer
+
 versions:
--   accented: prepozision
-    ladino: prepozision
+  - ladino: prepozision
+
+    gender: feminine
+    number: singular
+
     translations:
         english: preposition
         french: ''
         portuguese: ''
         spanish: preposición
         turkish: edat
+
+  - ladino: prepozisiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: prepositions
+        french: ''
+        portuguese: ''
+        spanish: preposiciónes
+        turkish: edat
+
+
+examples: []

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '923'
 origen: Jeneral
+
 versions:
--   accented: puso
-    ladino: puso
+  - ladino: puso
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - wrist
@@ -17,3 +20,5 @@ versions:
         turkish:
         - el bileği
         - nabız
+
+examples: []

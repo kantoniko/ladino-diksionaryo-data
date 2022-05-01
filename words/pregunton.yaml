@@ -1,20 +1,40 @@
-comments:
-- 'grammar: m), preguntóna (f'
-examples:
--   ladino: Buen pregunton!
 grammar: null
 id: '2578'
 origen: Jeneral
+
 versions:
--   accented: preguntón
-    ladino: pregunton
+  - ladino: pregunton
+    accented: preguntón
+
+    gender: masculine
+    number: singular
+
     translations:
         english: inquisitive
         french: ''
         portuguese: ''
         spanish:
         - preguntón
+        turkish:
+        - çok soru soran
+        - meraklı
+
+  - ladino: preguntona
+    accented: preguntóna
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: inquisitive
+        french: ''
+        portuguese: ''
+        spanish:
         - preguntona
         turkish:
         - çok soru soran
         - meraklı
+
+examples:
+  - ladino: Buen pregunton!
+

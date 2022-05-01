@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1468'
 origen: Jeneral
+
 versions:
--   accented: profundo
-    ladino: profundo
+  - ladino: profundo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - deep
@@ -13,3 +16,48 @@ versions:
         portuguese: ''
         spanish: profundo
         turkish: derin
+
+  - ladino: profunda
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - deep
+        - profound
+        french: ''
+        portuguese: ''
+        spanish: profunda
+        turkish: derin
+
+  - ladino: profundos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - deep
+        - profound
+        french: ''
+        portuguese: ''
+        spanish: profundos
+        turkish: derin
+
+  - ladino: profundas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - deep
+        - profound
+        french: ''
+        portuguese: ''
+        spanish: profundas
+        turkish: derin
+
+
+examples: []

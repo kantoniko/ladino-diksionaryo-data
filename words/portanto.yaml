@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '885'
 origen: Jeneral
+
 versions:
--   accented: portanto
+  - ladino: portanto
+
     alternative-spelling:
-    -   accented: aser ke
-        ladino: aser ke
-    ladino: portanto
+      - ladino: aser ke
+
     translations:
         english:
         - since
@@ -24,3 +24,5 @@ versions:
         - zira
         - halbuki
         - oysa
+
+examples: []

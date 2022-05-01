@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '879'
 origen: Jeneral
+
 versions:
--   accented: ponte
-    ladino: ponte
+  - ladino: ponte
+
+    gender: masculine
+    number: singular
+
     translations:
         english: bridge
         french: ''
         portuguese: ''
         spanish: puente
         turkish: köprü
+
+  - ladino: pontes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: bridges
+        french: ''
+        portuguese: ''
+        spanish: puentes
+        turkish: köprü
+
+
+examples: []

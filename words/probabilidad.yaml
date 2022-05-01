@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2106'
 origen: Jeneral
+
 versions:
--   accented: probabilidad
-    ladino: probabilidad
+  - ladino: probabilidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: probability
         french: ''
         portuguese: ''
         spanish: probabilidad
         turkish: ihtimal
+
+  - ladino: probabilidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: probability
+        french: ''
+        portuguese: ''
+        spanish: probabilidad
+        turkish: ihtimal
+
+
+examples: []

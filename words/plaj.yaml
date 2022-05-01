@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '871'
 origen: Jeneral
+
 versions:
--   accented: plaj
-    ladino: plaj
+  - ladino: plaj
+
+    gender: feminine
+    number: singular
+
     translations:
         english: beach
         french: ''
         portuguese: ''
         spanish: playa
         turkish: plaj
+
+  - ladino: plajas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: beaches
+        french: ''
+        portuguese: ''
+        spanish: playas
+        turkish: plaj
+
+
+examples: []

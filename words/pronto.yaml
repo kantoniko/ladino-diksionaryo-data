@@ -1,20 +1,63 @@
-examples:
--   ladino: El sharope esta pronto.
 grammar: null
 id: '2345'
 origen: Jeneral
+
 versions:
--   accented: pronto
-    alternative-spelling:
-    -   accented: pronta
-        ladino: pronta
-    ladino: pronto
+  - ladino: pronto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: ready
         french: ''
         portuguese: ''
         spanish:
         - pronto
-        - pronta; preparado
+        - preparado
+        turkish: hazır
+
+  - ladino: pronta
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: ready
+        french: ''
+        portuguese: ''
+        spanish:
+        - pronta
         - preparada
         turkish: hazır
+
+  - ladino: prontos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: ready
+        french: ''
+        portuguese: ''
+        spanish:
+        - prontos
+        - preparados
+        turkish: hazır
+
+  - ladino: prontas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: ready
+        french: ''
+        portuguese: ''
+        spanish:
+        - prontas
+        - preparadas
+        turkish: hazır
+
+examples:
+  - ladino: El sharope esta pronto.

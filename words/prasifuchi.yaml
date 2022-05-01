@@ -1,15 +1,35 @@
-examples: []
 grammar: null
 id: '2734'
 origen: Estanbol
+kategorias:
+  - komidas
+
 versions:
--   accented: prasifúchi
+  - ladino: prasifuchi
+    accented: prasifúchi
+
     gender: masculine
-    ladino: prasifuchi
     number: singular
+
     translations:
         english: leek pastry
         french: ''
         portuguese: ''
         spanish: fritada de puerro
         turkish: pırasa kayganası
+
+  - ladino: prasifuchis
+    accented: prasifúchis
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: leek pastries
+        french: ''
+        portuguese: ''
+        spanish: fritadas de puerro
+        turkish: pırasa kayganası
+
+
+examples: []

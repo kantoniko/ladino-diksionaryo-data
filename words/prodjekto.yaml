@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '903'
 origen: Jeneral
+
 versions:
--   accented: prodjekto
-    ladino: prodjekto
+  - ladino: prodjekto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: project
         french: ''
         portuguese: ''
         spanish: proyecto
         turkish: proje
+
+examples: []

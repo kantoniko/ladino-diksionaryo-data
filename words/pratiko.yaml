@@ -1,13 +1,54 @@
-examples: []
 grammar: null
 id: '892'
 origen: Jeneral
+
 versions:
--   accented: pratiko
-    ladino: pratiko
+  - ladino: pratiko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: practical
         french: ''
         portuguese: ''
         spanish: práctico
         turkish: pratik
+
+  - ladino: pratika
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: practical
+        french: ''
+        portuguese: ''
+        spanish: práctica
+        turkish: pratik
+
+  - ladino: pratikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: practical
+        french: ''
+        portuguese: ''
+        spanish: prácticos
+        turkish: pratik
+
+  - ladino: pratikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: practical
+        french: ''
+        portuguese: ''
+        spanish: prácticas
+        turkish: pratik
+
+examples: []

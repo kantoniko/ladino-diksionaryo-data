@@ -1,14 +1,17 @@
-examples:
--   ladino: El kezo está pinya.
 grammar: adjective
 id: '2789'
 origen: Jeneral
+
 versions:
--   accented: pínya
-    ladino: pinya
+  - ladino: pinya
+    accented: pínya
+
     translations:
         english: too salty
         french: ''
         portuguese: ''
         spanish: salado (demasiado)
         turkish: şap gibi (fazla tuzlu)
+
+examples:
+  - ladino: El kezo está pinya.

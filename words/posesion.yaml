@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2086'
 origen: Jeneral
+
 versions:
--   accented: posesion
-    ladino: posesion
+  - ladino: posesion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: possession
         french: ''
         portuguese: ''
         spanish: posesión
         turkish: mülkiyet
+
+  - ladino: posesiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: possessions
+        french: ''
+        portuguese: ''
+        spanish: posesiónes
+        turkish: mülkiyet
+
+
+examples: []

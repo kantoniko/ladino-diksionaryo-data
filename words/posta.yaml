@@ -1,15 +1,14 @@
-examples:
--   ladino: 'Los kuatro livros kostan 80 $ kon posta aerea.
-
-        Echar una karta a la posta.'
 grammar: null
 id: '2088'
 origen: Jeneral
+
 versions:
--   accented: pósta
+  - ladino: posta
+    accented: pósta
+
     gender: feminine
-    ladino: posta
     number: singular
+
     translations:
         english:
         - mail
@@ -18,3 +17,7 @@ versions:
         portuguese: ''
         spanish: correo
         turkish: posta
+
+examples:
+  - ladino: Los kuatro livros kostan 80 $ kon posta aerea.
+  - ladino: Echar una karta a la posta.'

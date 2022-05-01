@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1455'
 origen: Jeneral
+
 versions:
--   accented: portreto
-    ladino: portreto
+  - ladino: portreto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: portrait
         french: ''
         portuguese: ''
         spanish: retrato
         turkish: portre
+
+  - ladino: portretos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: portrait
+        french: ''
+        portuguese: ''
+        spanish: retrato
+        turkish: portre
+
+
+examples: []

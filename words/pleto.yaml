@@ -1,16 +1,18 @@
-examples:
--   ladino: 'Despues de un buen pleto, una buena paz. '
 grammar: null
 id: '2766'
 origen: Jeneral
+
 versions:
--   accented: pléto
+  - ladino: pleto
+    accented: pléto
+
     alternative-spelling:
-    -   accented: pléyto
-        ladino: pleyto
+      - ladino: pleyto
+        accented: pléyto
+
     gender: masculine
-    ladino: pleto
     number: singular
+
     translations:
         english:
         - quarrel
@@ -21,3 +23,28 @@ versions:
         - disputa
         - riña
         turkish: kavga
+
+  - ladino: pletos
+    accented: plétos
+
+    alternative-spelling:
+      - ladino: pleytos
+        accented: pléytos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - quarrels
+        - disputes
+        french: ''
+        portuguese: ''
+        spanish:
+        - disputas
+        - riñas
+        turkish: kavga
+
+
+examples:
+  - ladino: Despues de un buen pleto, una buena paz.

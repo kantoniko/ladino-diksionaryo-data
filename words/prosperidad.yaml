@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1471'
 origen: Jeneral
+
 versions:
--   accented: prosperidad
-    ladino: prosperidad
+  - ladino: prosperidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: prosperity
         french: ''
         portuguese: ''
         spanish: prosperidad
         turkish: refah
+
+examples: []

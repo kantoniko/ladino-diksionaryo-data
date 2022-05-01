@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '912'
 origen: Jeneral
+
 versions:
--   accented: proverbio
-    ladino: proverbio
+  - ladino: proverbio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: proverb
         french: ''
         portuguese: ''
         spanish: proverbio
         turkish: atasözü
+
+  - ladino: proverbios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: proverbs
+        french: ''
+        portuguese: ''
+        spanish: proverbios
+        turkish: atasözü
+
+
+examples: []

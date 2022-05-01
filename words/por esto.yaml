@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2078'
 origen: Jeneral
+
 versions:
--   accented: por esto
-    ladino: por esto
+  - ladino: por esto
+
     translations:
         english: therefore
         french: ''
         portuguese: ''
         spanish: por eso
         turkish: bu sebepten
+
+examples: []

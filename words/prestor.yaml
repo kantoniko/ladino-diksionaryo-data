@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '897'
 origen: Jeneral
+
 versions:
--   accented: prestor
-    ladino: prestor
+  - ladino: prestor
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - speed
@@ -15,3 +18,5 @@ versions:
         turkish:
         - hız
         - çabukluk
+
+examples: []
