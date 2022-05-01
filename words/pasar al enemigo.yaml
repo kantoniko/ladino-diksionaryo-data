@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2056'
 origen: Jeneral
+
 versions:
--   accented: pasar al enemigo
-    ladino: pasar al enemigo
+  - ladino: pasar al enemigo
+
     translations:
         english: go over (to enemy)
         french: ''
         portuguese: ''
         spanish: pasarse
         turkish: düşmana geçmek
+
+examples: []

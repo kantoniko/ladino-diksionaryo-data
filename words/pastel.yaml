@@ -5,9 +5,9 @@ kategorias:
   - komidas
 
 versions:
-  - ladino: pasta
+  - ladino: pastel
 
-    gender: feminine
+    gender: masculine
     number: singular
 
     translations:
@@ -17,9 +17,9 @@ versions:
         spanish: pastel
         turkish: pasta
 
-  - ladino: pastas
+  - ladino: pasteles
 
-    gender: feminine
+    gender: masculine
     number: plural
 
     translations:

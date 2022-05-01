@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '834'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: pasa
-    ladino: pasa
+  - ladino: pasa
+
     translations:
         english: raisin
         french: ''
         portuguese: ''
         spanish: pasa
         turkish: kuru üzüm
+
+examples: []

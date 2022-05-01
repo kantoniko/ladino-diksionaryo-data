@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '830'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: parparo
-    ladino: parparo
+  - ladino: parparo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: eyelid
         french: ''
         portuguese: ''
         spanish: párpado
         turkish: göz kapağı
+
+examples: []

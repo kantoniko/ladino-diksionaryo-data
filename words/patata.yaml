@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1442'
 origen: Jeneral
+
 versions:
--   accented: patata
-    ladino: patata
+  - ladino: patata
+
+    gender: feminine
+    number: singular
+
     translations:
         english: potato
         french: ''
@@ -13,3 +16,20 @@ versions:
         - papa
         - patata
         turkish: patates
+
+  - ladino: patatas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: potatoes
+        french: ''
+        portuguese: ''
+        spanish:
+        - papas
+        - patatas
+        turkish: patates
+
+
+examples: []

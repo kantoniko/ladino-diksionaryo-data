@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2728'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: pandispánya
+  - ladino: pandispanya
+    accented: pandispánya
+
     gender: masculine
-    ladino: pandispanya
     number: singular
+
     translations:
         english: sponge cake
         french: ''
         portuguese: ''
         spanish: bizcocho
         turkish: pandispanya
+
+examples: []

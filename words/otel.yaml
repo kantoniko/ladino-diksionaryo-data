@@ -1,16 +1,34 @@
-examples:
--   ladino: El abasho a un chiko otel.
 grammar: null
 id: '2561'
 origen: Jeneral
+
 versions:
--   accented: otél
+  - ladino: otel
+    accented: otél
+
     gender: masculine
-    ladino: otel
     number: singular
+
     translations:
         english: hotel
         french: ''
         portuguese: ''
         spanish: hotel
         turkish: otel
+
+  - ladino: oteles
+    accented: otéles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hotels
+        french: ''
+        portuguese: ''
+        spanish: hoteles
+        turkish: otel
+
+
+examples:
+  - ladino: El abasho a un chiko otel.

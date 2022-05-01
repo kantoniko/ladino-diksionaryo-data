@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2051'
 origen: Jeneral
+
 versions:
--   accented: pared
-    ladino: pared
+  - ladino: pared
+
+    gender: feminine
+    number: singular
+
     translations:
         english: wall
         french: ''
         portuguese: ''
         spanish: pared
         turkish: duvar
+
+  - ladino: paredes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: walls
+        french: ''
+        portuguese: ''
+        spanish: paredes
+        turkish: duvar
+
+
+examples: []

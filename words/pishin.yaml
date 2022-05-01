@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1453'
 origen: Jeneral
+
 versions:
--   accented: pishin
-    ladino: pishin
+  - ladino: pishin
+
     translations:
         english: at once
         french: ''
         portuguese: ''
         spanish: en seguida
         turkish: derhal
+
+examples: []

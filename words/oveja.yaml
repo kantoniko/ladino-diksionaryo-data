@@ -1,16 +1,36 @@
-examples:
--   ladino: Teniyamos una oveja ke parió tres kodrerikos.
 grammar: null
 id: '2815'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: ovéja
+  - ladino: oveja
+    accented: ovéja
+
     gender: feminine
-    ladino: oveja
     number: singular
+
     translations:
         english: sheep
         french: brebis
-        portuguese: ' ovelha'
+        portuguese: ovelha
         spanish: oveja
         turkish: koyun
+
+  - ladino: ovejas
+    accented: ovéjas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sheep
+        french: brebis
+        portuguese: ovelha
+        spanish: ovejas
+        turkish: koyun
+
+
+examples:
+  - ladino: Teniyamos una oveja ke parió tres kodrerikos.

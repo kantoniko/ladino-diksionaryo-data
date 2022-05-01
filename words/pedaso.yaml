@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2060'
 origen: Jeneral
+
 versions:
--   accented: pedaso
-    ladino: pedaso
+  - ladino: pedaso
+
+    gender: masculine
+    number: singular
+
     translations:
         english: piece
         french: ''
@@ -13,3 +16,20 @@ versions:
         - pedazo
         - trozo
         turkish: parça
+
+  - ladino: pedasos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: pieces
+        french: ''
+        portuguese: ''
+        spanish:
+        - pedazos
+        - trozos
+        turkish: parça
+
+
+examples: []

@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1441'
 origen: Jeneral
+
 versions:
--   accented: pasto
-    ladino: pasto
+  - ladino: pasto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: taste
         french: ''
         portuguese: ''
         spanish: sabor
         turkish: lezzet
+
+examples: []

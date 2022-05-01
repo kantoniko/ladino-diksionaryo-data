@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2061'
 origen: Jeneral
+
 versions:
--   accented: pelea
-    ladino: pelea
+  - ladino: pelea
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - quarrel
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: pelea
         turkish: kavga
+
+  - ladino: peleas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - quarrels
+        - fights
+        french: ''
+        portuguese: ''
+        spanish: peleas
+        turkish: kavga
+
+
+examples: []

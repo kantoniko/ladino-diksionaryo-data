@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '836'
 origen: Jeneral
+
 versions:
--   accented: pasaporto
-    ladino: pasaporto
+  - ladino: pasaporto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: passport
         french: ''
         portuguese: ''
         spanish: pasaporte
         turkish: pasaport
+
+  - ladino: pasaportos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: passports
+        french: ''
+        portuguese: ''
+        spanish: pasaportes
+        turkish: pasaport
+
+
+examples: []

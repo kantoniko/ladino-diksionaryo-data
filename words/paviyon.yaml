@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1444'
 origen: Jeneral
+
 versions:
--   accented: paviyon
-    ladino: paviyon
+  - ladino: paviyon
+
+    gender: masculine
+    number: singular
+
     translations:
         english: pavilion
         french: ''
         portuguese: ''
         spanish: pabellón
         turkish: paviyon
+
+examples: []

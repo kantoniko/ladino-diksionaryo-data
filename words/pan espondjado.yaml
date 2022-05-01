@@ -1,15 +1,20 @@
-examples: []
 grammar: null
 id: '2727'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: pan espondjádo
+  - ladino: pan espondjado
+
     gender: masculine
-    ladino: pan espondjado
     number: singular
+
     translations:
         english: sponge cake
         french: ''
         portuguese: ''
         spanish: bizcocho
         turkish: pandispanya
+
+examples: []

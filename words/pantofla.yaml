@@ -1,19 +1,26 @@
-examples:
--   ladino: Kon "la robe de chambre" ekose i las pantuflas en el pie...
 grammar: null
 id: '2909'
 origen: Estanbol
+kategorias:
+  - ropa
+
 versions:
--   accented: pantófla
+  - ladino: pantofla
+    accented: pantófla
+
     alternative-spelling:
-    -   accented: pantúfla
-        ladino: pantufla
+      - ladino: pantufla
+        accented: pantúfla
+
     gender: feminine
-    ladino: pantofla
     number: singular
+
     translations:
         english: slipper
         french: ''
         portuguese: ''
         spanish: zapatilla
         turkish: terlik
+
+examples:
+  - ladino: Kon "la robe de chambre" ekose i las pantuflas en el pie...

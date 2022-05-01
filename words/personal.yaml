@@ -1,13 +1,55 @@
-examples: []
 grammar: null
 id: '858'
 origen: Jeneral
+
 versions:
--   accented: personal
-    ladino: personal
+  - ladino: personal
+
+    gender: masculine
+    number: singular
+
     translations:
         english: personal
         french: ''
         portuguese: ''
         spanish: personal
         turkish: şahsî
+
+  - ladino: personala
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: personal
+        french: ''
+        portuguese: ''
+        spanish: personala
+        turkish: şahsî
+
+  - ladino: personales
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: personal
+        french: ''
+        portuguese: ''
+        spanish: personales
+        turkish: şahsî
+
+  - ladino: personalas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: personal
+        french: ''
+        portuguese: ''
+        spanish: personalas
+        turkish: şahsî
+
+
+examples: []

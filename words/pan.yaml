@@ -1,16 +1,31 @@
-examples:
--   ladino: Este pan para este kezo.
 grammar: null
 id: '821'
 origen: Jeneral
+
 versions:
--   accented: pan
+  - ladino: pan
+
     gender: masculine
-    ladino: pan
     number: singular
+
     translations:
         english: bread
         french: pain
         portuguese: pão
         spanish: pan
         turkish: ekmek
+
+  - ladino: panes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: bread
+        french: pain
+        portuguese: pão
+        spanish: panes
+        turkish: ekmek
+
+examples:
+  - ladino: Este pan para este kezo.

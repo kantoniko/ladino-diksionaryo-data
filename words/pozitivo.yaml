@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '890'
 origen: Jeneral
+
 versions:
--   accented: pozitivo
-    ladino: pozitivo
+  - ladino: pozitivo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: positive
         french: ''
@@ -13,3 +16,49 @@ versions:
         turkish:
         - olumlu
         - müspet
+
+  - ladino: pozitiva
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: positive
+        french: ''
+        portuguese: ''
+        spanish: positiva
+        turkish:
+        - olumlu
+        - müspet
+
+  - ladino: pozitivos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: positive
+        french: ''
+        portuguese: ''
+        spanish: positivos
+        turkish:
+        - olumlu
+        - müspet
+
+  - ladino: pozitivas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: positive
+        french: ''
+        portuguese: ''
+        spanish: positivas
+        turkish:
+        - olumlu
+        - müspet
+
+
+examples: []
+
