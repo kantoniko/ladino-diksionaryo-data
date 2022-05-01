@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '921'
 origen: Jeneral
+
 versions:
--   accented: punto
-    ladino: punto
+  - ladino: punto
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - moment
@@ -15,3 +18,5 @@ versions:
         turkish:
         - an
         - dakika
+
+examples: []

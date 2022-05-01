@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2114'
 origen: Jeneral
+
 versions:
--   accented: proprieta
-    ladino: proprieta
+  - ladino: proprieta
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - property
@@ -15,3 +18,5 @@ versions:
         turkish:
         - mal
         - mülk
+
+examples: []

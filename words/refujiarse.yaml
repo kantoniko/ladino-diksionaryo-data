@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1479'
 origen: Jeneral
+
 versions:
--   accented: refujiarse
-    ladino: refujiarse
+  - ladino: refujiarse
+
     translations:
         english: take refuge
         french: ''
@@ -13,3 +13,7 @@ versions:
         turkish:
         - barınmak
         - sığınmak
+
+conjugations: {}
+
+examples: []

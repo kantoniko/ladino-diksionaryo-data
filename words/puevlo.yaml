@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '917'
 origen: Jeneral
+
 versions:
--   accented: puevlo
-    ladino: puevlo
+  - ladino: puevlo
+
     translations:
         english: people
         french: ''
         portuguese: ''
         spanish: pueblo
         turkish: halk
+
+examples: []

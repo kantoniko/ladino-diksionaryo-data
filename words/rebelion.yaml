@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '930'
 origen: Jeneral
+
 versions:
--   accented: rebelion
-    ladino: rebelion
+  - ladino: rebelion
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: rebellion
         french: ''
         portuguese: ''
         spanish: rebelión
         turkish: isyan
+
+  - ladino: rebeliones
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: rebellions
+        french: ''
+        portuguese: ''
+        spanish: rebeliónes
+        turkish: isyan
+
+
+examples: []

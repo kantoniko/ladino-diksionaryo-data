@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '2151'
 origen: Jeneral
+
 versions:
--   accented: rigorozamente
-    ladino: rigorozamente
+  - ladino: rigorozamente
+
     translations:
         english: rigorously
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - dikkatle
         - inceden inceye
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '929'
 origen: Jeneral
+
 versions:
--   accented: rayo
-    ladino: rayo
+  - ladino: rayo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: lightning
         french: ''
         portuguese: ''
         spanish: rayo
         turkish: şimşek
+
+  - ladino: rayos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: lightnings
+        french: ''
+        portuguese: ''
+        spanish: rayos
+        turkish: şimşek
+
+
+examples: []

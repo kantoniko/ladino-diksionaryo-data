@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2115'
 origen: Jeneral
+
 versions:
--   accented: prospero
-    ladino: prospero
+  - ladino: prospero
+
     translations:
         english: prosperous
         french: ''
         portuguese: ''
         spanish: próspero
         turkish: refah içinde
+
+examples: []

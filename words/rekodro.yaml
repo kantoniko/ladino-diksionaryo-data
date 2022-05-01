@@ -1,13 +1,14 @@
-examples:
--   ladino: Meldi kon grande plazer las konsejas i rekodros de tantos amigos.
 grammar: null
 id: '2590'
 origen: Jeneral
+
 versions:
--   accented: rekódro
+  - ladino: rekodro
+    accented: rekódro
+
     gender: masculine
-    ladino: rekodro
     number: singular
+
     translations:
         english:
         - memory
@@ -18,3 +19,24 @@ versions:
         turkish:
         - hatıra
         - anı
+
+  - ladino: rekodros
+    accented: rekódros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - memories
+        - recollections
+        french: ''
+        portuguese: ''
+        spanish: recuerdos
+        turkish:
+        - hatıra
+        - anı
+
+
+examples:
+  - ladino: Meldi kon grande plazer las konsejas i rekodros de tantos amigos.

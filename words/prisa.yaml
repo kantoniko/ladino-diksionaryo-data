@@ -1,10 +1,15 @@
-examples: []
 grammar: null
 id: '901'
 origen: Jeneral
+# ,Gresia,2798,,
+
 versions:
--   accented: prisa
-    ladino: prisa
+  - ladino: prisa
+    accented: prísa
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - hurry
@@ -16,4 +21,6 @@ versions:
         - acele
         - telâş
 
-# prísa (f),"Por mas de prisa, en pyes se pisha. (Neh.)",prisa,"haste, hurry",acele,Gresia,2798,,
+examples:
+  - ladino: Por mas de prisa, en pyes se pisha. (Neh.)
+

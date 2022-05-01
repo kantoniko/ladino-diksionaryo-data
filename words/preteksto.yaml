@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '898'
 origen: Jeneral
+
 versions:
--   accented: preteksto
-    ladino: preteksto
+  - ladino: preteksto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: pretext
         french: ''
         portuguese: ''
         spanish: pretexto
         turkish: bahane
+
+  - ladino: pretekstos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: pretexts
+        french: ''
+        portuguese: ''
+        spanish: pretextos
+        turkish: bahane
+
+
+examples: []

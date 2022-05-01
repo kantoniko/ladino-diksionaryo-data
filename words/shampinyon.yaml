@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '2177'
 origen: Jeneral
+kategorias:
+  - zarzavates
+
 versions:
--   accented: shampinyon
-    ladino: shampinyon
+  - ladino: shampinyon
+
     translations:
         english: mushroom
         french: ''
         portuguese: ''
         spanish: champiñón
         turkish: mantar
+
+examples: []

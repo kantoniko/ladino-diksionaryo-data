@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '2128'
 origen: Jeneral
+
 versions:
--   accented: redresarse
-    ladino: redresarse
+  - ladino: redresarse
+
     translations:
         english: sit up
         french: ''
         portuguese: ''
         spanish: incorporarse
         turkish: doğrulmak
+
+conjugations: {}
+
+examples: []

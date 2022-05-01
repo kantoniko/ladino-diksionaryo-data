@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '925'
 origen: Jeneral
+
 versions:
--   accented: rapidamente
-    ladino: rapidamente
+  - ladino: rapidamente
+
     translations:
         english: rapidly
         french: ''
         portuguese: ''
         spanish: rápidamente
         turkish: çabuk
+
+examples: []

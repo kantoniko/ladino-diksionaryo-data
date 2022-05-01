@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '926'
 origen: Jeneral
+
 versions:
--   accented: rasa
-    ladino: rasa
+  - ladino: rasa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: race
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - soy
         - ırk
+
+  - ladino: rasas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: races
+        french: ''
+        portuguese: ''
+        spanish: razas
+        turkish:
+        - soy
+        - ırk
+
+
+examples: []

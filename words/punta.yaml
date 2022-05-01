@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '920'
 origen: Jeneral
+
 versions:
--   accented: punta
-    ladino: punta
+  - ladino: punta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: point
         french: ''
@@ -14,5 +17,6 @@ versions:
         - ufuk
         - uç
 
-# punta,,confín,point,"ufuk, uç",Jeneral,920,,
+examples: []
+
 # punta,Ya avia arivado a la punta de la kaleja de Klara.,esquina,corner,dış köşe,Jeneral,1166,,

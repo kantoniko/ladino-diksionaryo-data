@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '2160'
 origen: Jeneral
+
 versions:
--   accented: sangre fria
+  - ladino: sangre fria
+
     alternative-spelling:
-    -   accented: kalmo
-        ladino: kalmo
-    ladino: sangre fria
+      - ladino: kalmo
+
     translations:
         english:
         - cold blood
@@ -16,3 +16,5 @@ versions:
         portuguese: ''
         spanish: sangre fría
         turkish: soğuk kanlılık
+
+examples: []

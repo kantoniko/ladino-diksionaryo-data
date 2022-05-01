@@ -1,13 +1,14 @@
-examples:
--   ladino: Dava a komer a un revanyo de palomas.
 grammar: null
 id: '2882'
 origen: Torah-Tanah
+
 versions:
--   accented: reványo
+  - ladino: revanyo
+    accented: reványo
+
     gender: masculine
-    ladino: revanyo
     number: singular
+
     translations:
         english:
         - flock
@@ -16,3 +17,6 @@ versions:
         portuguese: ''
         spanish: rebaño
         turkish: sürü
+
+examples:
+  - ladino: Dava a komer a un revanyo de palomas.

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '909'
 origen: Jeneral
+
 versions:
--   accented: prova
-    ladino: prova
+  - ladino: prova
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - trial
@@ -15,3 +18,22 @@ versions:
         turkish:
         - prova
         - ispat
+
+  - ladino: provas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - trials
+        - proofs
+        french: ''
+        portuguese: ''
+        spanish: pruebas
+        turkish:
+        - prova
+        - ispat
+
+
+examples: []

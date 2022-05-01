@@ -1,13 +1,14 @@
-examples:
--   ladino: Esto no troka la realidad.
 grammar: null
 id: '2589'
 origen: Jeneral
+
 versions:
--   accented: realidád
+  - ladino: realidad
+    accented: realidád
+
     gender: feminine
-    ladino: realidad
     number: singular
+
     translations:
         english:
         - reality
@@ -18,3 +19,6 @@ versions:
         turkish:
         - gerçek
         - hakikat
+
+examples:
+  - ladino: Esto no troka la realidad.

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1486'
 origen: Jeneral
+
 versions:
--   accented: reportaje
-    ladino: reportaje
+  - ladino: reportaje
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - article
@@ -13,3 +16,19 @@ versions:
         portuguese: ''
         spanish: reportaje
         turkish: röportaj
+
+  - ladino: reportajes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - articles
+        - reports
+        french: ''
+        portuguese: ''
+        spanish: reportajes
+        turkish: röportaj
+
+examples: []

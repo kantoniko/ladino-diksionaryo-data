@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2169'
 origen: Jeneral
+
 versions:
--   accented: sekso
-    ladino: sekso
+  - ladino: sekso
+
+    gender: masculine
+    number: singular
+
     translations:
         english: sex
         french: ''
         portuguese: ''
         spanish: sexo
         turkish: seks
+
+  - ladino: seksos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sexes
+        french: ''
+        portuguese: ''
+        spanish: sexos
+        turkish: seks
+
+
+examples: []
