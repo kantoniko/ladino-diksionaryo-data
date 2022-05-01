@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2021'
 origen: Jeneral
+
 versions:
--   accented: novle
-    ladino: novle
+  - ladino: novle
+
     translations:
         english: noble
         french: ''
         portuguese: ''
         spanish: noble
         turkish: asil
+
+examples: []

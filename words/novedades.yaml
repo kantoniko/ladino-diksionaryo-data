@@ -1,16 +1,18 @@
-examples: []
 grammar: null
 id: '2019'
 origen: Jeneral
+
 versions:
--   accented: novedades
+  - ladino: novedades
+
     alternative-spelling:
-    -   accented: avizos
-        ladino: avizos
-    ladino: novedades
+      - ladino: avizos
+
     translations:
         english: news
         french: ''
         portuguese: ''
         spanish: informativo
         turkish: haberler
+
+examples: []

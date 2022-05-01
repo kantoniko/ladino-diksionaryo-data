@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2008'
 origen: Jeneral
+
 versions:
--   accented: nasional
-    ladino: nasional
+  - ladino: nasional
+
     translations:
         english: national
         french: ''
         portuguese: ''
         spanish: nacional
         turkish: millî
+
+examples: []

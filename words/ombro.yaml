@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '792'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: ombro
-    ladino: ombro
+  - ladino: ombro
+
     translations:
         english: shoulder
         french: ''
         portuguese: ''
         spanish: hombro
         turkish: omuz
+
+examples: []

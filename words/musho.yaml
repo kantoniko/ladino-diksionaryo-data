@@ -1,16 +1,20 @@
-examples:
--   ladino: Koryó afuera en riendose entre los mushos.
 grammar: null
 id: '761'
 origen: Jeneral
+
 versions:
--   accented: músho
+  - ladino: musho
+    accented: músho
+
     gender: masculine
-    ladino: musho
     number: singular
+
     translations:
         english: lip
         french: lèvre
         portuguese: l&#940;bio
         spanish: labio
         turkish: dudak
+
+examples:
+  - ladino: Koryó afuera en riendose entre los mushos.

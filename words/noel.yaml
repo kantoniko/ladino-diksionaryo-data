@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2016'
 origen: Jeneral
+
 versions:
--   accented: Noel
-    ladino: Noel
+  - ladino: Noel
+
     translations:
         english: Christmas
         french: ''
         portuguese: ''
         spanish: Navidad
         turkish: Noel
+
+examples: []

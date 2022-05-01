@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '752'
 origen: Jeneral
+
 versions:
--   accented: muela
-    ladino: muela
+  - ladino: muela
+
+    gender: feminine
+    number: singular
+
     translations:
         english: molar tooth
         french: ''
         portuguese: ''
         spanish: muela
         turkish: azı dişi
+
+examples: []
