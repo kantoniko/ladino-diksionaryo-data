@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '931'
 origen: Jeneral
+
 versions:
--   accented: redaksion
-    ladino: redaksion
+  - ladino: redaksion
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - writing
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: redacción
         turkish: tahrir
+
+examples: []

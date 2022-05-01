@@ -1,18 +1,22 @@
-examples:
--   ladino: Para todo ay remedyo, para la muerte no. (Neh.)
 grammar: null
-id: '1694'
+id: '1694,2130'
 origen: Jeneral
+
 versions:
--   accented: remédio
+  - ladino: remedio
+    accented: remédio
+
     alternative-spelling:
-    -   accented: remédyo
-        ladino: remedyo
+      - ladino: remedyo
+        accented: remédyo
+
     gender: masculine
-    ladino: remedio
     number: singular
+
     translations:
-        english: remedy
+        english:
+          - remedy
+          - solution
         french: ''
         portuguese: ''
         spanish: remedio
@@ -20,4 +24,28 @@ versions:
         - çare
         - derman
 
-# remedio,,remedio,"remedy, solution",çare,Jeneral,2130,,
+  - ladino: remedios
+    accented: remédios
+
+    alternative-spelling:
+      - ladino: remedyos
+        accented: remédyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - remedies
+          - solutions
+        french: ''
+        portuguese: ''
+        spanish: remedios
+        turkish:
+        - çare
+        - derman
+
+
+examples:
+  - ladino: Para todo ay remedyo, para la muerte no. (Neh.)
+

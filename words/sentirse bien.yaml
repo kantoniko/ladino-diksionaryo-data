@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2171'
 origen: Jeneral
+
 versions:
--   accented: sentirse bien
-    ladino: sentirse bien
+  - ladino: sentirse bien
+
     translations:
         english: feel good
         french: ''
         portuguese: ''
         spanish: encontrarse bien
         turkish: iyi hissetmek
+
+examples: []

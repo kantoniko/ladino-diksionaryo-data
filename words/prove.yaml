@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '910'
 origen: Jeneral
+
 versions:
--   accented: prove
-    ladino: prove
+  - ladino: prove
+
+    gender: masculine
+    number: singular
+
     translations:
         english: poor
         french: ''
         portuguese: ''
         spanish: pobre
         turkish: fakir
+
+  - ladino: proves
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: poor
+        french: ''
+        portuguese: ''
+        spanish: pobres
+        turkish: fakir
+
+
+examples: []

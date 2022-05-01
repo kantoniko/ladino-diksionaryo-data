@@ -1,13 +1,14 @@
-examples:
--   ladino: No tomes la pena de bushkar el resto de la kantika.
 grammar: null
 id: '2593'
 origen: Jeneral
+
 versions:
--   accented: résto
+  - ladino: resto
+    accented: résto
+
     gender: masculine
-    ladino: resto
     number: singular
+
     translations:
         english:
         - rest
@@ -20,3 +21,6 @@ versions:
         - kalan
         - artık
         - kusur
+
+examples:
+  - ladino: No tomes la pena de bushkar el resto de la kantika.

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1507'
 origen: Jeneral
+
 versions:
--   accented: solombra
-    ladino: solombra
+  - ladino: solombra
+
+    gender: feminine
+    number: singular
+
     translations:
         english: shadow
         french: ''
         portuguese: ''
         spanish: sombra
         turkish: gölge
+
+  - ladino: solombras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: shadows
+        french: ''
+        portuguese: ''
+        spanish: sombras
+        turkish: gölge
+
+
+examples: []

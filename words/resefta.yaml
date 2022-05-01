@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2139'
 origen: Jeneral
+
 versions:
--   accented: resefta
-    ladino: resefta
+  - ladino: resefta
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - recipe
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: receta
         turkish: reçete
+
+  - ladino: reseftas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - recipes
+        - prescriptions
+        french: ''
+        portuguese: ''
+        spanish: recetas
+        turkish: reçete
+
+
+examples: []

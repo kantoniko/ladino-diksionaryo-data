@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '2165'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: segundo dedo
-    ladino: segundo dedo
+  - ladino: segundo dedo
+
     translations:
         english: index-finger
         french: ''
         portuguese: ''
         spanish: índice
         turkish: işaret parmağı
+
+examples: []

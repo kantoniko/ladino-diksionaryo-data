@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '927'
 origen: Jeneral
+
 versions:
--   accented: rasizmo
-    ladino: rasizmo
+  - ladino: rasizmo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: racism
         french: ''
         portuguese: ''
         spanish: racismo
         turkish: ırkçılık
+
+examples: []

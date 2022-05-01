@@ -1,16 +1,33 @@
-examples:
--   ladino: 'El Romansero Sefaradi dize: ...'
 grammar: null
 id: '2597'
 origen: Jeneral
+
 versions:
--   accented: romanséro
+  - ladino: romansero
+    accented: romanséro
+
     gender: masculine
-    ladino: romansero
     number: singular
+
     translations:
         english: collection of ballads
         french: ''
         portuguese: ''
         spanish: romancero
         turkish: balad koleksiyonu
+
+  - ladino: romanseros
+    accented: romanséros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: collection of ballads
+        french: ''
+        portuguese: ''
+        spanish: romancero
+        turkish: balad koleksiyonu
+
+examples:
+  - ladino: 'El Romansero Sefaradi dize: ...'

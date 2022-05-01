@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: umano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: human
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: humano
+      turkish: ''
+
+  - ladino: umana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: human
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: humana
+      turkish: ''
+
+  - ladino: umanos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: human
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: humanos
+      turkish: ''
+
+  - ladino: umanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: human
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: humanas
+      turkish: ''
+
+
+examples: []

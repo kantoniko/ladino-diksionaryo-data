@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2147'
 origen: Jeneral
+
 versions:
--   accented: reushir el egzamen
-    ladino: reushir el egzamen
+  - ladino: reushir el egzamen
+
     translations:
         english: pass the exam.
         french: ''
         portuguese: ''
         spanish: aprobar (el examen)
         turkish: sınavı başarmak
+
+examples: []

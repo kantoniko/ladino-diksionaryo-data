@@ -1,13 +1,56 @@
-examples: []
 grammar: null
 id: '940'
 origen: Jeneral
+
 versions:
--   accented: repetido
-    ladino: repetido
+  - ladino: repetido
+
+    gender: masculine
+    number: singular
+
     translations:
         english: repeated
         french: ''
         portuguese: ''
         spanish: repetido
         turkish: tekrarlanan
+
+  - ladino: repetida
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: repeated
+        french: ''
+        portuguese: ''
+        spanish: repetida
+        turkish: tekrarlanan
+
+  - ladino: repetidos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: repeated
+        french: ''
+        portuguese: ''
+        spanish: repetidos
+        turkish: tekrarlanan
+
+  - ladino: repetidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: repeated
+        french: ''
+        portuguese: ''
+        spanish: repetidas
+        turkish: tekrarlanan
+
+
+
+examples: []

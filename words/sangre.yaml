@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '969'
 origen: Jeneral
+
 versions:
--   accented: sangre
-    ladino: sangre
+  - ladino: sangre
+
+    gender: feminine
+    number: singular
+
     translations:
         english: blood
         french: ''
         portuguese: ''
         spanish: sangre
         turkish: kan
+
+examples: []

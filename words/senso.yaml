@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '985'
 origen: Jeneral
+
 versions:
--   accented: senso
-    ladino: senso
+  - ladino: senso
+
     translations:
         english: sense
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - anlam
         - duygu
+
+examples: []

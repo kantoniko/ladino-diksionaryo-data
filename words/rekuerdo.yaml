@@ -1,13 +1,14 @@
-examples:
--   ladino: Trushimos komo rekuerdo una lampara.
 grammar: null
 id: '2591'
 origen: Jeneral
+
 versions:
--   accented: rekuérdo
+  - ladino: rekuerdo
+    accented: rekuérdo
+
     gender: masculine
-    ladino: rekuerdo
     number: singular
+
     translations:
         english:
         - memory
@@ -19,3 +20,7 @@ versions:
         - hatıra
         - anı
         - yadigâr
+
+examples:
+  - ladino: Trushimos komo rekuerdo una lampara.
+

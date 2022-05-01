@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2136'
 origen: Jeneral
+
 versions:
--   accented: reperkusion
-    ladino: reperkusion
+  - ladino: reperkusion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: repercussion
         french: ''
         portuguese: ''
         spanish: repercusión
         turkish: etki
+
+  - ladino: reperkusiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: repercussions
+        french: ''
+        portuguese: ''
+        spanish: repercusiónes
+        turkish: etki
+
+
+examples: []

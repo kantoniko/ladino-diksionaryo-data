@@ -1,11 +1,13 @@
-examples:
--   ladino: 'Se puede azer una reunion en la universita. '
 grammar: null
 id: '2347'
 origen: Aki Yerushalayim
+
 versions:
--   accented: reunion
-    ladino: reunion
+  - ladino: reunion
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - reunion
@@ -15,3 +17,22 @@ versions:
         portuguese: ''
         spanish: reunión
         turkish: toplantı
+
+  - ladino: reuniones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - reunions
+        - meetings
+        - gatherings
+        french: ''
+        portuguese: ''
+        spanish: reuniónes
+        turkish: toplantı
+
+
+examples:
+  - ladino: 'Se puede azer una reunion en la universita.'

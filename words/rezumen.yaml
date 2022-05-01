@@ -1,18 +1,21 @@
-examples:
--   ladino: '...en forma de "resumen" (todos los mesajes del diya en uno).'
 grammar: null
 id: '2594'
 origen: Jeneral
+
 versions:
--   accented: rezúmen
+  - ladino: rezumen
+    accented: rezúmen
+
     alternative-spelling:
-    -   accented: resúmen
-        ladino: resumen
-    -   accented: resumé
-        ladino: resume
+      - ladino: resumen
+        accented: resúmen
+
+      - ladino: resume
+        accented: resumé
+
     gender: masculine
-    ladino: rezumen
     number: singular
+
     translations:
         english:
         - summary
@@ -21,3 +24,6 @@ versions:
         portuguese: ''
         spanish: resumen
         turkish: özet
+
+examples:
+  - ladino: '...en forma de "resumen" (todos los mesajes del diya en uno).'

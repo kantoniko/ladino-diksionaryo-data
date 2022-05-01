@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '954'
 origen: Jeneral
+
 versions:
--   accented: rio
-    ladino: rio
+  - ladino: rio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: river
         french: ''
         portuguese: ''
         spanish: río
         turkish: nehir
+
+  - ladino: rios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: rivers
+        french: ''
+        portuguese: ''
+        spanish: ríos
+        turkish: nehir
+
+
+examples: []

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2129'
 origen: Jeneral
+
 versions:
--   accented: rejion
-    ladino: rejion
+  - ladino: rejion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: region
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - bölge
         - yöre
+
+  - ladino: rejiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: regions
+        french: ''
+        portuguese: ''
+        spanish: regiónes
+        turkish:
+        - bölge
+        - yöre
+
+
+examples: []

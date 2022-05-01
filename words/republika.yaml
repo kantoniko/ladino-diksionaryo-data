@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '941'
 origen: Jeneral
+
 versions:
--   accented: republika
-    ladino: republika
+  - ladino: republika
+
+    gender: feminine
+    number: singular
+
     translations:
         english: republic
         french: ''
         portuguese: ''
         spanish: república
         turkish: cumhuriyet
+
+  - ladino: republikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: republics
+        french: ''
+        portuguese: ''
+        spanish: repúblicas
+        turkish: cumhuriyet
+
+
+examples: []

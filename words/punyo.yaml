@@ -1,13 +1,32 @@
-examples: []
 grammar: null
 id: '922'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: punyo
-    ladino: punyo
+  - ladino: punyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: fist
         french: ''
         portuguese: ''
         spanish: puño
         turkish: yumruk
+
+  - ladino: punyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fists
+        french: ''
+        portuguese: ''
+        spanish: puños
+        turkish: yumruk
+
+examples: []

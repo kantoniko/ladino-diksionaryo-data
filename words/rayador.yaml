@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2122'
 origen: Jeneral
+
 versions:
--   accented: rayador
-    ladino: rayador
+  - ladino: rayador
+
     translations:
         english: grate
         french: ''
         portuguese: ''
         spanish: rallador
         turkish: rendelemek
+
+examples: []

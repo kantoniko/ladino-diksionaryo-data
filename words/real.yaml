@@ -1,11 +1,11 @@
-examples:
--   ladino: Korte real.
 grammar: adjective
 id: '2587'
 origen: Jeneral
+
 versions:
--   accented: reál
-    ladino: real
+  - ladino: real
+    accented: reál
+
     translations:
         english: royal
         french: ''
@@ -13,6 +13,7 @@ versions:
         spanish: real
         turkish: kral ile ilgili
 
+examples:
+  - ladino: Korte real.
 
-# reál (adj.),Korte real.,real,royal,kral ile ilgili,Jeneral,2587,,
 # reál (adj.),Esto avlando de un dezeo real kon un programa.,real,"real, genuine","gerçek, hakiki",Jeneral,2588,,

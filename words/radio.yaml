@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2121'
 origen: Jeneral
+
 versions:
--   accented: radio
-    ladino: radio
+  - ladino: radio
+
+    gender: feminine
+    number: singular
+
     translations:
         english: radio
         french: ''
         portuguese: ''
         spanish: radio
         turkish: radio
+
+  - ladino: radios
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: radios
+        french: ''
+        portuguese: ''
+        spanish: radios
+        turkish: radio
+
+
+examples: []

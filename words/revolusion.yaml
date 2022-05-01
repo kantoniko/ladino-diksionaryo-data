@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '951'
 origen: Jeneral
+
 versions:
--   accented: revolusion
-    ladino: revolusion
+  - ladino: revolusion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: revolution
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - devrim
         - ihtilâl
+
+  - ladino: revolusiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: revolutions
+        french: ''
+        portuguese: ''
+        spanish: revoluciónes
+        turkish:
+        - devrim
+        - ihtilâl
+
+
+examples: []
