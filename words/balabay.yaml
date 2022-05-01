@@ -15,7 +15,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: hospedador
-      turkish: ''
+      turkish: sahip
 
   - ladino: balabaya
 
@@ -28,7 +28,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: hospedadora
-      turkish: ''
+      turkish: sahibe
 
   - ladino: balabayes
 
@@ -42,7 +42,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: hospedadores
-      turkish: ''
+      turkish: sahibeler
 
   - ladino: balabayas
 
@@ -55,7 +55,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: hospedadoras
-      turkish: ''
+      turkish: sahipler
 
 
 examples: []

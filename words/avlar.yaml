@@ -19,10 +19,12 @@ conjugations:
       ladino: avlo
       translations:
         english: speak
+        turkish: konuştu
     tu:
       ladino: avlas
       translations:
         english: speak
+        turkish: konuşursun
     el:
       ladino: avla
       translations:
@@ -32,16 +34,19 @@ conjugations:
       ladino: avlamos
       translations:
         english: speak
+        turkish: konuşuruz
 
     vozotros:
       ladino: avlash
       translations:
         english: speak
+        turkish: konuşur
 
     eyos:
       ladino: avlan
       translations:
         english: speak
+        turkish: konuşurlar
 
 examples:
   - ladino: Sera posivle de avlar sovre alguna unika  kultura?

@@ -13,7 +13,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: bebida
-      turkish: ''
+      turkish:  içki
 
   - ladino: bevidas
 
@@ -26,7 +26,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: bebidas
-      turkish: ''
+      turkish:  içkiler
 
 
 examples: []

@@ -37,7 +37,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: astronautas
-        turkish: ''
+        turkish: asronotlar
 
   - ladino: astronotas
     accented: astronotas
@@ -49,7 +49,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: astronautas
-        turkish: ''
+        turkish: astronot
 
 
 examples: []

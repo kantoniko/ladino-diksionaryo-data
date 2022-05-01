@@ -32,36 +32,45 @@ conjugations:
       translations:
         english: like
         spanish: gusto
+        turkish: beğenildi
 
     tu:
       ladino: agradas
       translations:
         english: like
         spanish: gustas
+        turkish: beğenildi
 
     el:
       ladino: agrada
       translations:
         english: likes
         spanish: gusta
+        turkish:
+          - beğeniyorum
+          - beğeniyorsun
+          - beğeniyor
 
     mozotros:
       ladino: agradamos
       translations:
         english: like
         spanish: gustamos
+        turkish: beğeniyoruz
 
     vozotros:
       ladino: agradash
       translations:
         english: like
         spanish: gustáis
+        turkish: beğenildiniz
 
     eyos:
       ladino: agradan
       translations:
         english: like
         spanish: gustan
+        turkish: beğenilir
 
   #- I like:       me agrada
   #- pleasant:     agradavle

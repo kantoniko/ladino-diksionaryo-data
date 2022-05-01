@@ -16,7 +16,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: abierto
-      turkish: ''
+      turkish: açık
 
   - ladino: avierta
 
@@ -32,7 +32,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: abierta
-      turkish: ''
+      turkish: açık
 
   - ladino: aviertos
 
@@ -48,7 +48,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: abiertos
-      turkish: ''
+      turkish: açıklar
 
   - ladino: aviertas
 
@@ -64,7 +64,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: abiertas
-      turkish: ''
+      turkish: açıklar
 
 
 examples: []
