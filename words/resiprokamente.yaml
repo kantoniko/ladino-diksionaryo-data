@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2140'
 origen: Jeneral
+
 versions:
--   accented: resiprokamente
-    ladino: resiprokamente
+  - ladino: resiprokamente
+
     translations:
         english: reciprocally
         french: ''
         portuguese: ''
         spanish: recíprocamente
         turkish: karşılıklı
+
+examples: []

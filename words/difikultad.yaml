@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1718'
 origen: Jeneral
+
 versions:
--   accented: difikultad
-    ladino: difikultad
+  - ladino: difikultad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: difficulty
         french: ''
         portuguese: ''
         spanish: dificultad
         turkish: güçlük
+
+  - ladino: difikultades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: difficulties
+        french: ''
+        portuguese: ''
+        spanish: dificultades
+        turkish: güçlük
+
+
+examples: []

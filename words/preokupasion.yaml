@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '894'
 origen: Jeneral
+
 versions:
--   accented: preokupasion
-    ladino: preokupasion
+  - ladino: preokupasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - worry
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: preocupación
         turkish: endişe
+
+examples: []

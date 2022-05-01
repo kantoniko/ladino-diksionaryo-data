@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2102'
 origen: Jeneral
+
 versions:
--   accented: previsto
-    ladino: previsto
+  - ladino: previsto
+
     translations:
         english: forecast
         french: ''
         portuguese: ''
         spanish: pronostico
         turkish: öngörü
+
+examples: []
