@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '801'
 origen: Jeneral
+
 versions:
--   accented: ordovres
+  - ladino: ordovres
+
     alternative-spelling:
-    -   accented: apetites
-        ladino: apetites
-    ladino: ordovres
+      - ladino: apetites
+
     translations:
         english:
         - snacks
@@ -18,3 +18,5 @@ versions:
         turkish:
         - aperitif
         - meze
+
+examples: []

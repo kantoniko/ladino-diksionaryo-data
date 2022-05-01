@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '2031'
 origen: Jeneral
+kategorias:
+  - numeros
+
 versions:
--   accented: onze
-    ladino: onze
+  - ladino: onze
+
     translations:
         english: eleven
         french: ''
         portuguese: ''
         spanish: once
         turkish: onbir
+
+examples: []

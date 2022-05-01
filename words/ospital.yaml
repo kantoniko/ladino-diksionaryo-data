@@ -1,20 +1,41 @@
-examples: []
 grammar: null
 id: '806'
 origen: Jeneral
+
 versions:
--   accented: ospital
+  - ladino: ospital
+
     alternative-spelling:
-    -   accented: espital
-        ladino: espital
-    -   accented: eshpital
-        ladino: eshpital
-    -   accented: ispital
-        ladino: ispital
-    ladino: ospital
+      - ladino: espital
+      - ladino: eshpital
+      - ladino: ispital
+
+    gender: masculine
+    number: singular
+
     translations:
         english: hospital
         french: ''
         portuguese: ''
         spanish: hospital
         turkish: hastane
+
+  - ladino: ospitale
+
+    alternative-spelling:
+      - ladino: espital
+      - ladino: eshpital
+      - ladino: ispital
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hospitals
+        french: ''
+        portuguese: ''
+        spanish: hospitales
+        turkish: ''
+
+
+examples: []

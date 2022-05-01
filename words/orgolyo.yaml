@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1432'
 origen: Jeneral
+
 versions:
--   accented: orgolyo
-    ladino: orgolyo
+  - ladino: orgolyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: pride
         french: ''
         portuguese: ''
         spanish: orgullo
         turkish: gurur
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2036'
 origen: Jeneral
+
 versions:
--   accented: orden
-    ladino: orden
+  - ladino: orden
+
+    gender: masculine
+    number: singular
+
     translations:
         english: order
         french: ''
         portuguese: ''
         spanish: orden
         turkish: intizam
+
+  - ladino: ordenes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: orders
+        french: ''
+        portuguese: ''
+        spanish: ordenes
+        turkish: ''
+
+
+examples: []

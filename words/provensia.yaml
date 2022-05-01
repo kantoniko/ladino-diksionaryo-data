@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2117'
 origen: Jeneral
+
 versions:
--   accented: provensia
-    ladino: provensia
+  - ladino: provensia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: province
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - eyalet
         - taşra
+
+examples: []

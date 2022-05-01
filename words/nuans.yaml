@@ -1,17 +1,18 @@
-examples:
--   ladino: La lingua muestra tiene munchas enteresantes nuanses, ke vale la pena
-        de estudiar.
 grammar: null
 id: '2974'
 origen: Jeneral
+
 versions:
--   accented: nuáns
+  - ladino: nuans
+    accented: nuáns
+
     alternative-spelling:
-    -   accented: nuánsa
-        ladino: nuansa
+      - ladino: nuansa
+        accented: nuánsa
+
     gender: feminine
-    ladino: nuans
     number: singular
+
     translations:
         english:
         - nuance
@@ -23,3 +24,25 @@ versions:
         - ayırtı
         - nüans
         - ince fark
+
+  - ladino: nuanses
+    accented: nuánses
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - nuances
+        - minute difference
+        french: nuance
+        portuguese: nuance
+        spanish: matizes
+        turkish:
+        - ayırtı
+        - nüans
+        - ince fark
+
+
+examples:
+  - ladino: La lingua muestra tiene munchas enteresantes nuanses, ke vale la pena de estudiar.

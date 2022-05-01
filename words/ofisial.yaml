@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2025'
 origen: Jeneral
+
 versions:
--   accented: ofisial
-    ladino: ofisial
+  - ladino: ofisial
+
     translations:
         english: official
         french: ''
         portuguese: ''
         spanish: oficial
         turkish: resmí
+
+examples: []

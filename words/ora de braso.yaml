@@ -1,13 +1,14 @@
-comments:
-- 'grammar: f - m'
-examples:
--   ladino: Por su Bar-Mitzva, le regalaron una ora de braso.
 grammar: null
 id: '798'
 origen: Jeneral
+
 versions:
--   accented: óra de bráso
-    ladino: ora de braso
+  - ladino: ora de braso
+    accented: óra de bráso
+
+    gender: both
+    number: singular
+
     translations:
         english: wrist-watch
         french: montre-bracelet
@@ -16,3 +17,6 @@ versions:
         - reloj
         - muñequera
         turkish: kol saati
+
+examples:
+  - ladino: Por su Bar-Mitzva, le regalaron una ora de braso.

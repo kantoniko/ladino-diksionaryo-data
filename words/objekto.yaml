@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '781'
 origen: Jeneral
+
 versions:
--   accented: objekto
-    ladino: objekto
+  - ladino: objekto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: object
         french: ''
         portuguese: ''
         spanish: objeto
         turkish: cisim
+
+  - ladino: objektos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: objects
+        french: ''
+        portuguese: ''
+        spanish: objetos
+        turkish: cisim
+
+
+examples: []

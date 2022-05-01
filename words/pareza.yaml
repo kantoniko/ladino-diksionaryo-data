@@ -1,16 +1,18 @@
-examples: []
 grammar: null
 id: '827'
 origen: Jeneral
+
 versions:
--   accented: pareza
+  - ladino: pareza
+
     alternative-spelling:
-    -   accented: haraganud
-        ladino: haraganud
-    ladino: pareza
+      - ladino: haraganud
+
     translations:
         english: laziness
         french: ''
         portuguese: ''
         spanish: pereza
         turkish: tembellik
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '852'
 origen: Jeneral
+
 versions:
--   accented: pensada
-    ladino: pensada
+  - ladino: pensada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: thought
         french: ''
         portuguese: ''
         spanish: pensamiento
         turkish: düşünce
+
+  - ladino: pensadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: thoughts
+        french: ''
+        portuguese: ''
+        spanish: pensamientos
+        turkish: düşünce
+
+
+examples: []

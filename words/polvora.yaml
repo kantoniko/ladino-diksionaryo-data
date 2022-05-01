@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '878'
 origen: Jeneral
+
 versions:
--   accented: polvora
-    ladino: polvora
+  - ladino: polvora
+
+    gender: feminine
+    number: singular
+
     translations:
         english: gunpowder
         french: ''
         portuguese: ''
         spanish: pólvora
         turkish: barut
+
+examples: []

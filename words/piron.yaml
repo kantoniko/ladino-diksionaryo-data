@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '867'
 origen: Jeneral
+
 versions:
--   accented: piron
-    ladino: piron
+  - ladino: piron
+
+    gender: masculine
+    number: singular
+
     translations:
         english: fork
         french: ''
         portuguese: ''
         spanish: tenedor
         turkish: çatal
+
+  - ladino: pirones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: forks
+        french: ''
+        portuguese: ''
+        spanish: tenedores
+        turkish: çatal
+
+
+examples: []

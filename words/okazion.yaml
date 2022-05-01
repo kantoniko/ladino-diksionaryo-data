@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1429'
 origen: Jeneral
+
 versions:
--   accented: okazion
-    ladino: okazion
+  - ladino: okazion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: occasion
         french: ''
         portuguese: ''
         spanish: ocasión
         turkish: fırsat
+
+  - ladino: okaziones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: occasions
+        french: ''
+        portuguese: ''
+        spanish: ocasiónes
+        turkish: fırsat
+
+
+examples: []

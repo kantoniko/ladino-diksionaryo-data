@@ -1,10 +1,15 @@
-examples: []
 grammar: null
 id: '2050'
 origen: Jeneral
+kategorias:
+  - ropa
+
 versions:
--   accented: pardesu
-    ladino: pardesu
+  - ladino: pardesu
+
+    gender: masculine
+    number: singular
+
     translations:
         english: over-coat
         french: ''
@@ -13,3 +18,5 @@ versions:
         turkish:
         - pardesü
         - palto
+
+examples: []

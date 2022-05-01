@@ -1,14 +1,32 @@
-examples:
--   ladino: Los partisipantes veniyan para diskutir.
 grammar: null
 id: '2342'
 origen: Jeneral
+
 versions:
--   accented: partisipante
-    ladino: partisipante
+  - ladino: partisipante
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: participant
         french: ''
         portuguese: ''
         spanish: participante
         turkish: iştirakçi
+
+  - ladino: partisipantes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: participants
+        french: ''
+        portuguese: ''
+        spanish: participantes
+        turkish: iştirakçi
+
+
+examples:
+  - ladino: Los partisipantes veniyan para diskutir.

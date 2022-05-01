@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '868'
 origen: Jeneral
+
 versions:
--   accented: pisina
-    ladino: pisina
+  - ladino: pisina
+
+    gender: feminine
+    number: singular
+
     translations:
         english: swimming pool
         french: ''
         portuguese: ''
         spanish: piscina
         turkish: yüzme havuzu
+
+  - ladino: pisinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: swimming pools
+        french: ''
+        portuguese: ''
+        spanish: piscinas
+        turkish: yüzme havuzu
+
+
+examples: []

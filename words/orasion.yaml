@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2035'
 origen: Jeneral
+
 versions:
--   accented: orasion
-    ladino: orasion
+  - ladino: orasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: prayer
         french: ''
         portuguese: ''
         spanish: plegaria
         turkish: dua
+
+  - ladino: orasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: prayers
+        french: ''
+        portuguese: ''
+        spanish: plegarias
+        turkish: dua
+
+
+examples: []

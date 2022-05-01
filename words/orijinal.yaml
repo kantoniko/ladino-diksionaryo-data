@@ -1,11 +1,13 @@
-examples:
--   ladino: Los orijinales estan en la biblioteka.
 grammar: null
 id: '2337'
 origen: Jeneral
+
 versions:
--   accented: orijinal
-    ladino: orijinal
+  - ladino: orijinal
+
+    gender: masculine
+    number: singular
+
     translations:
         english: original
         french: ''
@@ -14,3 +16,21 @@ versions:
         turkish:
         - orijinal
         - özgün
+
+  - ladino: orijinales
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: original
+        french: ''
+        portuguese: ''
+        spanish: originales
+        turkish:
+        - orijinal
+        - özgün
+
+
+examples:
+  - ladino: Los orijinales estan en la biblioteka.

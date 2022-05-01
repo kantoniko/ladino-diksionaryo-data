@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '815'
 origen: Jeneral
+
 versions:
--   accented: ovligasion
-    ladino: ovligasion
+  - ladino: ovligasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: obligation
         french: ''
         portuguese: ''
         spanish: obligación
         turkish: mecburiyet
+
+  - ladino: ovligasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: obligations
+        french: ''
+        portuguese: ''
+        spanish: obligaciónes
+        turkish: mecburiyet
+
+
+examples: []

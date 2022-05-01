@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2080'
 origen: Jeneral
+
 versions:
--   accented: por konsekuensa
-    ladino: por konsekuensa
+  - ladino: por konsekuensa
+
     translations:
         english: consequently
         french: ''
         portuguese: ''
         spanish: por consiguiente
         turkish: sonuç olarak
+
+examples: []

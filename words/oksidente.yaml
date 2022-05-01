@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '788'
 origen: Jeneral
+kategorias:
+  - direksion
+
 versions:
--   accented: oksidente
-    ladino: oksidente
+  - ladino: oksidente
+
+    gender: masculine
+    number: singular
+
     translations:
         english: west
         french: ''
         portuguese: ''
         spanish: occidente
         turkish: batı
+
+examples: []

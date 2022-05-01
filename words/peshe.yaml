@@ -1,15 +1,19 @@
-examples: []
 grammar: null
 id: '2730'
 origen: Izmir
+
 versions:
--   accented: péshe
+  - ladino: peshe
+    accented: péshe
+
     gender: masculine
-    ladino: peshe
     number: singular
+
     translations:
         english: shank meat
         french: ''
         portuguese: ''
         spanish: caña (zanca)
         turkish: paça eti
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2039'
 origen: Jeneral
+
 versions:
--   accented: orivle
-    ladino: orivle
+  - ladino: orivle
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: horrible
         french: ''
         portuguese: ''
         spanish: horrible
         turkish: fecí
+
+  - ladino: orivles
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: horrible
+        french: ''
+        portuguese: ''
+        spanish: horrible
+        turkish: ''
+
+
+examples: []

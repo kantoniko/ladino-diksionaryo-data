@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '795'
 origen: Jeneral
+
 versions:
--   accented: oportunidad
-    ladino: oportunidad
+  - ladino: oportunidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: opportunity
         french: ''
         portuguese: ''
         spanish: oportunidad
         turkish: olanak
+
+  - ladino: oportunidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: opportunities
+        french: ''
+        portuguese: ''
+        spanish: oportunidades
+        turkish: ''
+
+
+examples: []

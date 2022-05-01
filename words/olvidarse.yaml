@@ -1,15 +1,15 @@
-conjugations: {}
-examples:
--   ladino: Ya me olvidi kualo era ke keriya dizir.
 grammar: verb
 id: '790'
 origen: Jeneral
+
 versions:
--   accented: olvidárse
-    ladino: olvidarse
+  - ladino: olvidarse
+    accented: olvidárse
+
     alternative-spelling:
       - ladino: ulvidárse
         accented: ulvidárse
+
     translations:
         english: forget
         french: oublier
@@ -17,3 +17,7 @@ versions:
         spanish: olvidarse
         turkish: unutmak
 
+conjugations: {}
+
+examples:
+  - ladino: Ya me olvidi kualo era ke keriya dizir.

@@ -1,13 +1,22 @@
-examples: []
 grammar: null
 id: '1443'
 origen: Jeneral
+
 versions:
--   accented: patrimonyo
-    ladino: patrimonyo
+  - ladino: patrimonyo
+
+    alternative-spelling:
+      - ladino: patrimonio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: inheritance
         french: ''
         portuguese: ''
         spanish: patrimonio
         turkish: miras
+
+
+examples: []
