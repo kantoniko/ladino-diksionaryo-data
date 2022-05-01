@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '840'
 origen: Jeneral
+
 versions:
--   accented: pasensia
-    ladino: pasensia
+  - ladino: pasensia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: patience
         french: ''
         portuguese: ''
         spanish: paciencia
         turkish: sabır
+
+examples: []

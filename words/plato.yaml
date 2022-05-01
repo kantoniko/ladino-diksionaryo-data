@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2073'
 origen: Jeneral
+
 versions:
--   accented: plato
-    ladino: plato
+  - ladino: plato
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - plate
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: plato
         turkish: tabak
+
+  - ladino: platos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - plates
+        - dishes
+        french: ''
+        portuguese: ''
+        spanish: platos
+        turkish: tabak
+
+
+examples: []

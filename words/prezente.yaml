@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '900'
 origen: Jeneral
+kategorias:
+  - gramer
+
 versions:
--   accented: prezente
-    ladino: prezente
+  - ladino: prezente
+
     translations:
         english: present
         french: ''
         portuguese: ''
         spanish: presente
         turkish: şimdiki zaman
+
+examples: []

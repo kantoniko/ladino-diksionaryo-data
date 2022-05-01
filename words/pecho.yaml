@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '845'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: pecho
-    ladino: pecho
+  - ladino: pecho
+
+    gender: masculine
+    number: singular
+
     translations:
         english: chest
         french: ''
         portuguese: ''
         spanish: pecho
         turkish: göğüs
+
+  - ladino: pechos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: chests
+        french: ''
+        portuguese: ''
+        spanish: pechos
+        turkish: göğüs
+
+
+examples: []

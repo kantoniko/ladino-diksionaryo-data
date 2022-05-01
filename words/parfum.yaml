@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '828'
 origen: Jeneral
+
 versions:
--   accented: parfum
-    ladino: parfum
+  - ladino: parfum
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - perfume
@@ -15,3 +18,22 @@ versions:
         turkish:
         - koku
         - rayiha
+
+  - ladino: parfumes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - perfume
+        - aroma
+        french: ''
+        portuguese: ''
+        spanish: aromas
+        turkish:
+        - koku
+        - rayiha
+
+
+examples: []

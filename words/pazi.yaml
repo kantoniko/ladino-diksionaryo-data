@@ -1,16 +1,20 @@
-examples:
--   ladino: Kalavasa, pishkado, agranada, pazi, etc.
 grammar: null
 id: '2961'
 origen: Estanbol
+
 versions:
--   accented: pazí
+  - ladino: pazi
+    accented: pazí
+
     gender: masculine
-    ladino: pazi
     number: singular
+
     translations:
         english: chard
         french: ''
         portuguese: ''
         spanish: acelga
         turkish: pazi
+
+examples:
+  - ladino: Kalavasa, pishkado, agranada, pazi, etc.

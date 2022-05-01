@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '2058'
 origen: Jeneral
+
 versions:
--   accented: patrania
-    ladino: patrania
+  - ladino: patrania
+
     translations:
         english: gibberish
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - zırva
         - saçma
+
+examples: []

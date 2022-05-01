@@ -1,16 +1,20 @@
-examples: []
 grammar: null
 id: '2064'
 origen: Jeneral
 versions:
--   accented: perfil
+  - ladino: perfil
+
     alternative-spelling:
-    -   accented: profil
-        ladino: profil
-    ladino: perfil
+      - ladino: profil
+
+    gender: masculine
+    number: singular
+
     translations:
         english: profile
         french: ''
         portuguese: ''
         spanish: perfil
         turkish: profil
+
+examples: []

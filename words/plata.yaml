@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '873'
 origen: Jeneral
+
 versions:
--   accented: plata
-    ladino: plata
+  - ladino: plata
+
+    gender: feminine
+    number: singular
+
     translations:
         english: silver
         french: ''
         portuguese: ''
         spanish: plata
         turkish: gümüş
+
+examples: []

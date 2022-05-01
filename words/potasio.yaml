@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '888'
 origen: Jeneral
+
 versions:
--   accented: potasio
-    ladino: potasio
+  - ladino: potasio
+
     translations:
         english: potassium
         french: ''
         portuguese: ''
         spanish: potasio
         turkish: potasyum
+
+examples: []

@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '864'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: pierna
-    ladino: pierna
+  - ladino: pierna
+
+    gender: feminine
+    number: singular
+
     translations:
         english: thigh
         french: ''
         portuguese: ''
         spanish: muslo
         turkish: baldır
+
+  - ladino: piernas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: thigh
+        french: ''
+        portuguese: ''
+        spanish: muslos
+        turkish: baldır
+
+
+examples: []

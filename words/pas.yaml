@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '833'
 origen: Jeneral
+
 versions:
--   accented: pas
-    ladino: pas
+  - ladino: pas
+
+    gender: feminine
+    number: singular
+
     translations:
         english: peace
         french: ''
         portuguese: ''
         spanish: paz
         turkish: barış
+
+examples: []

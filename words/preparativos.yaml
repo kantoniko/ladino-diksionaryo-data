@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2095'
 origen: Jeneral
+
 versions:
--   accented: preparativos
-    ladino: preparativos
+  - ladino: preparativos
+
+    gender: masculine
+    number: singular
+
     translations:
         english: preparation
         french: ''
         portuguese: ''
         spanish: preparación
         turkish: hazrlk
+
+examples: []

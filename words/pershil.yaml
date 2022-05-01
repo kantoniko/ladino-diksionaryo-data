@@ -1,20 +1,27 @@
-examples: []
 grammar: null
 id: '2735'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: pershíl
+  - ladino: pershil
+    accented: pershíl
+
     alternative-spelling:
-    -   accented: pirshíl
-        ladino: pirshil
-    -   accented: prishíl
-        ladino: prishil
+      - ladino: pirshil
+        accented: pirshíl
+      - ladino: prishil
+        accented: prishíl
+
     gender: masculine
-    ladino: pershil
     number: singular
+
     translations:
         english: parsley
         french: ''
         portuguese: ''
         spanish: perejil
         turkish: maydanoz
+
+examples: []

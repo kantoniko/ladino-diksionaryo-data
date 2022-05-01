@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2118'
 origen: Jeneral
+
 versions:
--   accented: psikiatriya
-    ladino: psikiatriya
+  - ladino: psikiatriya
+
     translations:
         english: psychiatry
         french: ''
         portuguese: ''
         spanish: psiquiatría
         turkish: psikiatri
+
+examples: []

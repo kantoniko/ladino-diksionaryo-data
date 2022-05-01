@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '880'
 origen: Jeneral
+
 versions:
--   accented: popa
-    ladino: popa
+  - ladino: popa
+
     translations:
         english: stern
         french: ''
         portuguese: ''
         spanish: popa
         turkish: pupa
+
+examples: []

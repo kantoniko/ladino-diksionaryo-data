@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2110'
 origen: Jeneral
+
 versions:
--   accented: prolungasion
-    ladino: prolungasion
+  - ladino: prolungasion
+
     translations:
         english: prolongation
         french: ''
         portuguese: ''
         spanish: prolongación
         turkish: uzatma
+
+examples: []

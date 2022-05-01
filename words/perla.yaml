@@ -1,16 +1,34 @@
-examples:
--   ladino: Kita perlas de la boka.
 grammar: null
 id: '2570'
 origen: Jeneral
+
 versions:
--   accented: pérla
+  - ladino: perla
+    accented: pérla
+
     gender: feminine
-    ladino: perla
     number: singular
+
     translations:
         english: pearl
         french: ''
         portuguese: ''
         spanish: perla
         turkish: inci
+
+  - ladino: perlas
+    accented: pérlas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pearls
+        french: ''
+        portuguese: ''
+        spanish: perlas
+        turkish: inci
+
+
+examples:
+  - ladino: Kita perlas de la boka.

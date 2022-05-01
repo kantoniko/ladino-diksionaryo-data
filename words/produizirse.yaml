@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '2107'
 origen: Jeneral
+
 versions:
--   accented: produizirse
-    ladino: produizirse
+  - ladino: produizirse
+
     translations:
         english:
         - take place
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: producirse
         turkish: meydana gelmek
+
+examples: []

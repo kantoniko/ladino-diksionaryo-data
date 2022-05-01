@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2062'
 origen: Jeneral
+
 versions:
--   accented: perfeksion
-    ladino: perfeksion
+  - ladino: perfeksion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: perfection
         french: ''
         portuguese: ''
         spanish: perfección
         turkish: mükemmellik
+
+examples: []

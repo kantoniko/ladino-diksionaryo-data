@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '872'
 origen: Jeneral
+
 versions:
--   accented: plasa
-    ladino: plasa
+  - ladino: plasa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: square
         french: ''
         portuguese: ''
         spanish: plaza
         turkish: meydan
+
+  - ladino: plasas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: squares
+        french: ''
+        portuguese: ''
+        spanish: plazas
+        turkish: meydan
+
+
+examples: []

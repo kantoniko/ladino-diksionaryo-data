@@ -1,13 +1,14 @@
-examples:
--   ladino: Si, Rosina, payla es un legen grande.
 grammar: null
 id: '2857'
 origen: Jeneral
+
 versions:
--   accented: páyla
+  - ladino: payla
+    accented: páyla
+
     gender: feminine
-    ladino: payla
     number: singular
+
     translations:
         english:
         - large  pan
@@ -18,3 +19,24 @@ versions:
         turkish:
         - leğen
         - büyük kap
+
+  - ladino: paylas
+    accented: páylas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - large  pans
+        - basins
+        french: ''
+        portuguese: ''
+        spanish: pailas
+        turkish:
+        - leğen
+        - büyük kap
+
+
+examples:
+  - ladino: Si, Rosina, payla es un legen grande.

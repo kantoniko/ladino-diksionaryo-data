@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1451'
 origen: Jeneral
+
 versions:
--   accented: pezgo
-    ladino: pezgo
+  - ladino: pezgo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: weight
         french: ''
         portuguese: ''
         spanish: peso
         turkish: ağırlık
+
+  - ladino: pezgos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: weights
+        french: ''
+        portuguese: ''
+        spanish: pesos
+        turkish: ağırlık
+
+
+examples: []

@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '2065'
 origen: Jeneral
+
 versions:
--   accented: perikolo
-    ladino: perikolo
+  - ladino: perikolo
+
     translations:
         english: peril
         french: ''
         portuguese: ''
         spanish: peligro
         turkish: tehlike
+
+examples: []
+

@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '796'
 origen: Jeneral
+
 versions:
--   accented: oportuno
-    ladino: oportuno
+  - ladino: oportuno
+
     translations:
         english: opportune
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - mümkün
         - uygun
+
+examples: []

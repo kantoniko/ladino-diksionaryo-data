@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '861'
 origen: Jeneral
+
 versions:
--   accented: petrolio
-    ladino: petrolio
+  - ladino: petrolio
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - gas
@@ -15,3 +18,5 @@ versions:
         turkish:
         - gaz
         - petrol
+
+examples: []

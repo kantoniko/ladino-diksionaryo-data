@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2079'
 origen: Jeneral
+
 versions:
--   accented: por ke
-    ladino: por ke
+  - ladino: por ke
+
     translations:
         english: for what
         french: ''
         portuguese: ''
         spanish: por qué   (razón)
         turkish: niçin
+
+examples: []

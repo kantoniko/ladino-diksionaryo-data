@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '948'
 origen: Jeneral
+
 versions:
--   accented: reunirse
-    ladino: reunirse
+  - ladino: reunirse
+
     translations:
         english: get together
         french: ''
         portuguese: ''
         spanish: reunirse
         turkish: bir araya gelmek
+
+conjugations: {}
+
+examples: []

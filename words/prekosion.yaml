@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2093'
 origen: Jeneral
+
 versions:
--   accented: prekosion
-    ladino: prekosion
+  - ladino: prekosion
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - measure
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: medida
         turkish: önlem
+
+examples: []

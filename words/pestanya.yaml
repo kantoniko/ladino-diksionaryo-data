@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '860'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: pestanya
-    ladino: pestanya
+  - ladino: pestanya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: eyelash
         french: ''
         portuguese: ''
         spanish: pestaña
         turkish: kirpik
+
+  - ladino: pestanyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: eyelashes
+        french: ''
+        portuguese: ''
+        spanish: pestañas
+        turkish: kirpik
+
+
+examples: []

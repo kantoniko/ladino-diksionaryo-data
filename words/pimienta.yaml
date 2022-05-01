@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2732'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: pimiénta
+  - ladino: pimienta
+    accented: pimiénta
+
     gender: feminine
-    ladino: pimienta
     number: singular
+
     translations:
         english: black pepper
         french: ''
         portuguese: ''
         spanish: pimienta
         turkish: kara biber
+
+examples: []

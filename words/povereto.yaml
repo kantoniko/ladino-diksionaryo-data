@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1458'
 origen: Jeneral
+
 versions:
--   accented: povereto
+  - ladino: povereto
+
     alternative-spelling:
-    -   accented: ax
-        ladino: ax
-    ladino: povereto
+      - ladino: ax
+
     translations:
         english:
         - poor
@@ -20,3 +20,6 @@ versions:
         turkish:
         - fakir
         - zavallı
+
+examples: []
+

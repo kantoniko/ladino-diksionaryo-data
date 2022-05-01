@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2082'
 origen: Jeneral
+
 versions:
--   accented: portmone
-    ladino: portmone
+  - ladino: portmone
+
+    gender: masculine
+    number: singular
+
     translations:
         english: purse
         french: ''
         portuguese: ''
         spanish: monedero
         turkish: kadın cüzdanı
+
+  - ladino: portmones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: purses
+        french: ''
+        portuguese: ''
+        spanish: monederos
+        turkish: kadın cüzdanı
+
+
+examples: []
