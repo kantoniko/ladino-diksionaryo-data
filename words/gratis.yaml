@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: gratis
+
+    translations:
+      english: free
+      french: ''
+      hebrew: חינם
+      portuguese: ''
+      spanish: gratis
+      turkish: ''
+
+examples:
+  - ladino: La entrada es gratis.
+    english: The entrance is free.

@@ -8,11 +8,29 @@ versions:
     alternative-spelling:
       - ladino: program
 
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: program
         french: ''
         portuguese: ''
         spanish: programa
+        turkish: program
+
+  - ladino: programas
+
+    alternative-spelling:
+      - ladino: programes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: programs
+        french: ''
+        portuguese: ''
+        spanish: programas
         turkish: program
 
 examples: []

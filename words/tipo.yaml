@@ -5,11 +5,28 @@ origen: Jeneral
 versions:
   - ladino: tipo
 
+    gender: masculine
+    number: singular
+
     translations:
         english: type
         french: ''
         portuguese: ''
         spanish: tipo
+        turkish:
+        - tip
+        - tür
+
+  - ladino: tipos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: type
+        french: ''
+        portuguese: ''
+        spanish: tipos
         turkish:
         - tip
         - tür

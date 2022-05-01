@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: propietario
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: proprietary
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: propietario
+      turkish: ''
+
+  - ladino: propietaria
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: proprietary
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: propietaria
+      turkish: ''
+
+
+examples: []

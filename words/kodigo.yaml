@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: kodigo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: code
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: código
+      turkish: ''
+
+  - ladino: kodigos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: codes
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: códigos
+      turkish: ''
+
+
+examples: []
