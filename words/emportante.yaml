@@ -1,14 +1,18 @@
-examples:
--   ladino: El internet es muy importante para mantener bivo el ladino.
 grammar: adjective
 id: '315'
 origen: Jeneral
+
 versions:
--   accented: emportánte
+  - ladino: emportante
+    accented: emportánte
+
     alternative-spelling:
-    -   accented: importánte
-        ladino: importante
-    ladino: emportante
+      - ladino: importante
+        accented: importánte
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english:
         - important
@@ -17,3 +21,26 @@ versions:
         portuguese: ''
         spanish: importante
         turkish: önemli
+
+  - ladino: emportantes
+    accented: emportántes
+
+    alternative-spelling:
+      - ladino: importantes
+        accented: importántes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english:
+        - important
+        - significant
+        french: ''
+        portuguese: ''
+        spanish: importantes
+        turkish: önemli
+
+
+examples:
+  - ladino: El internet es muy importante para mantener bivo el ladino.

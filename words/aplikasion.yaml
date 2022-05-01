@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: aplikasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: application
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aplicación
+      turkish: ''
+
+  - ladino: aplikasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: applications
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aplicaciónes
+      turkish: ''
+
+
+examples: []

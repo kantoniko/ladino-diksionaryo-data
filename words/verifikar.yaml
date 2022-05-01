@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: verifikar
+
+    translations:
+      english: verify
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: verificar
+      turkish: ''
+
+conjugations: {}
+
+examples: []

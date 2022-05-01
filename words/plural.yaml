@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: plural
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: plural
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: plural
+      turkish: ''
+
+  - ladino: plurales
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: plurals
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: plurales
+      turkish: ''
+
+
+examples: []

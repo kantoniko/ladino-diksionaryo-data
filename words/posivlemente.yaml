@@ -1,0 +1,16 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: posivlemente
+
+
+    translations:
+      english: possibly
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: posiblemente
+      turkish: ''
+
+examples: []
