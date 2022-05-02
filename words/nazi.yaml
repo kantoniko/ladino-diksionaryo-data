@@ -1,14 +1,32 @@
-examples:
--   ladino: Muestra famiya salvo de los nazis.
 grammar: null
 id: '2335'
 origen: Jeneral
+
 versions:
--   accented: nazi
-    ladino: nazi
+  - ladino: nazi
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: nazi
         french: ''
         portuguese: ''
         spanish: nazi
         turkish: nazi
+
+  - ladino: nazis
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: nazis
+        french: ''
+        portuguese: ''
+        spanish: nazis
+        turkish: ''
+
+
+examples:
+  - ladino: Muestra famiya salvo de los nazis.

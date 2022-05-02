@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '844'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: paylacho
-    ladino: paylacho
+  - ladino: paylacho
+
+    gender: masculine
+    number: singular
+
     translations:
         english: clown
         french: ''
         portuguese: ''
         spanish: payaso
         turkish: palyaço
+
+  - ladino: paylachos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: clowns
+        french: ''
+        portuguese: ''
+        spanish: payasos
+        turkish: palyaço
+
+
+examples: []

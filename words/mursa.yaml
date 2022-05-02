@@ -1,13 +1,14 @@
-examples:
--   ladino: Uno ke tyene kara de "mursa" i la djente no se azen amigos kon el .
 grammar: null
 id: '2959'
 origen: Jeneral
+
 versions:
--   accented: mursá
+  - ladino: mursa
+    accented: mursá
+
     gender: feminine
-    ladino: mursa
     number: singular
+
     translations:
         english:
         - unlovable
@@ -20,3 +21,6 @@ versions:
         turkish:
         - sevimsiz
         - somurtkan
+
+examples:
+  - ladino: Uno ke tyene kara de "mursa" i la djente no se azen amigos kon el.

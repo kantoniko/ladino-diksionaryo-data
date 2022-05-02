@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1425'
 origen: Jeneral
+
 versions:
--   accented: nasyon
-    ladino: nasyon
+  - ladino: nasyon
+
+    gender: feminine
+    number: singular
+
     translations:
         english: nation
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - millet
         - ulus
+
+  - ladino: nasyones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: nations
+        french: ''
+        portuguese: ''
+        spanish: naciónes
+        turkish:
+        - millet
+        - ulus
+
+
+examples: []

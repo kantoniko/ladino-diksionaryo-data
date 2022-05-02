@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1437'
 origen: Jeneral
+
 versions:
--   accented: parte
-    ladino: parte
+  - ladino: parte
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - part
@@ -16,3 +19,23 @@ versions:
         - kısım
         - taraf
         - pay
+
+  - ladino: partes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - parts
+        - sides
+        french: ''
+        portuguese: ''
+        spanish: partes
+        turkish:
+        - kısım
+        - taraf
+        - pay
+
+
+examples: []

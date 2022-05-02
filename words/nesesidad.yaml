@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '774'
 origen: Jeneral
+
 versions:
--   accented: nesesidad
-    ladino: nesesidad
+  - ladino: nesesidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: necessity
         french: ''
         portuguese: ''
         spanish: necesidad
         turkish: ihtiyaç
+
+  - ladino: nesesidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: necessities
+        french: ''
+        portuguese: ''
+        spanish: necesidades
+        turkish: ihtiyaç
+
+
+examples: []

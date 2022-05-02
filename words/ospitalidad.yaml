@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '807'
 origen: Jeneral
+
 versions:
--   accented: ospitalidad
-    ladino: ospitalidad
+  - ladino: ospitalidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: hospitality
         french: ''
         portuguese: ''
         spanish: hospitalidad
         turkish: konukseverlik
+
+  - ladino: ospitalidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: hospitality
+        french: ''
+        portuguese: ''
+        spanish: hospitalidades
+        turkish: konukseverlik
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2024'
 origen: Jeneral
+
 versions:
--   accented: obstakolo
-    ladino: obstakolo
+  - ladino: obstakolo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: obstacle
         french: ''
         portuguese: ''
         spanish: obstáculo
         turkish: engel
+
+  - ladino: obstakolos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: obstacles
+        french: ''
+        portuguese: ''
+        spanish: obstáculos
+        turkish: engel
+
+
+examples: []

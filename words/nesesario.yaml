@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '773'
 origen: Jeneral
+
 versions:
--   accented: nesesario
-    ladino: nesesario
+  - ladino: nesesario
+
     translations:
         english: necessary
         french: ''
         portuguese: ''
         spanish: necesario
         turkish: gerekli
+
+examples: []

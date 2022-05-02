@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '749'
 origen: Jeneral
+
 versions:
--   accented: motor
-    ladino: motor
+  - ladino: motor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: motor
         french: ''
         portuguese: ''
         spanish: motor
         turkish: motor
+
+  - ladino: motores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: motor
+        french: ''
+        portuguese: ''
+        spanish: motor
+        turkish: ''
+
+
+examples: []

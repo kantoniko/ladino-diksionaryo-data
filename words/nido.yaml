@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2013'
 origen: Jeneral
+
 versions:
--   accented: nido
-    ladino: nido
+  - ladino: nido
+
+    gender: masculine
+    number: singular
+
     translations:
         english: nest
         french: ''
         portuguese: ''
         spanish: nido
         turkish: kuş yuvası
+
+  - ladino: nidos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: nests
+        french: ''
+        portuguese: ''
+        spanish: nidos
+        turkish: kuş yuvası
+
+
+examples: []

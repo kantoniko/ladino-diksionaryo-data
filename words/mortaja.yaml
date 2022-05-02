@@ -1,16 +1,36 @@
-examples:
--   ladino: Ma botones no ay en mortaja!
 grammar: null
 id: '2947'
 origen: Jeneral
+kategorias:
+  - ropa
+
 versions:
--   accented: mortája
+  - ladino: mortaja
+    accented: mortája
+
     gender: feminine
-    ladino: mortaja
     number: singular
+
     translations:
         english: shroud
         french: linceul
         portuguese: ''
         spanish: mortaja
         turkish: kefen
+
+  - ladino: mortajas
+    accented: mortájas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: shrouds
+        french: ''
+        portuguese: ''
+        spanish: mortajas
+        turkish: ''
+
+
+examples:
+  - ladino: Ma botones no ay en mortaja!

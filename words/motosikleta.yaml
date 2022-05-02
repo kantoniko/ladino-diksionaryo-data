@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '750'
 origen: Jeneral
+
 versions:
--   accented: motosikleta
-    ladino: motosikleta
+  - ladino: motosikleta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: motorcycle
         french: ''
         portuguese: ''
         spanish: motocicleta
         turkish: motosiklet
+
+  - ladino: motosikletas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: motorcycles
+        french: ''
+        portuguese: ''
+        spanish: motocicletas
+        turkish: ''
+
+
+examples: []

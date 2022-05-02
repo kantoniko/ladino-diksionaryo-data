@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '758'
 origen: Jeneral
+
 versions:
--   accented: Munisipalidad
-    ladino: Munisipalidad
+  - ladino: munisipalidad
+
+    gender: feminine
+    number: singular
+
     translations:
-        english: Municipality
+        english: municipality
         french: ''
         portuguese: ''
-        spanish: Ayuntamiento
-        turkish: Belediye
+        spanish: ayuntamiento
+        turkish: belediye
+
+  - ladino: munisipalidades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: municipalities
+        french: ''
+        portuguese: ''
+        spanish: ayuntamientos
+        turkish: ''
+
+
+examples: []

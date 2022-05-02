@@ -1,16 +1,36 @@
-examples:
--   ladino: Mesklar la matsa, la asukar i la muez.
 grammar: null
 id: '2972'
 origen: Jeneral
+kategorias:
+  - frutas
+
 versions:
--   accented: muéz
+  - ladino: muez
+    accented: muéz
+
     gender: feminine
-    ladino: muez
     number: singular
+
     translations:
         english: walnut
         french: noix
         portuguese: noz
         spanish: nuez
         turkish: ceviz
+
+  - ladino: muezes
+    accented: muézes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: walnuts
+        french: noix
+        portuguese: noz
+        spanish: nuezes
+        turkish: ceviz
+
+
+examples:
+  - ladino: Mesklar la matsa, la asukar i la muez.

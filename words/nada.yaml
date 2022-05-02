@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '766'
 origen: Jeneral
+
 versions:
--   accented: nada
-    ladino: nada
+  - ladino: nada
+
     translations:
         english: nothing
         french: ''
         portuguese: ''
         spanish: nada
         turkish: hiçbir şey
+
+examples: []

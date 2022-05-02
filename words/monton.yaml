@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '747'
 origen: Jeneral
+
 versions:
--   accented: monton
-    ladino: monton
+  - ladino: monton
+
     translations:
         english: heap
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - bir sürü
         - bır tepe
+
+examples: []

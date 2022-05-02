@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2112'
 origen: Jeneral
+
 versions:
--   accented: propozision
-    ladino: propozision
+  - ladino: propozision
+
+    gender: feminine
+    number: singular
+
     translations:
         english: proposition
         french: ''
         portuguese: ''
         spanish: proposición
         turkish: teklif
+
+  - ladino: propozisiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: propositions
+        french: ''
+        portuguese: ''
+        spanish: proposiciónes
+        turkish: teklif
+
+
+examples: []

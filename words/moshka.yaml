@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1420'
 origen: Jeneral
+
 versions:
--   accented: moshka
-    ladino: moshka
+  - ladino: moshka
+
+    gender: feminine
+    number: singular
+
     translations:
         english: fly
         french: ''
         portuguese: ''
         spanish: mosca
         turkish: sinek
+
+  - ladino: moshkas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: flies
+        french: ''
+        portuguese: ''
+        spanish: moscas
+        turkish: sinek
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '2030'
 origen: Jeneral
+
 versions:
--   accented: onor
-    ladino: onor
+  - ladino: onor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: honour
         french: ''
         portuguese: ''
         spanish: honor
         turkish: şeref
+
+  - ladino: onores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: honour
+        french: ''
+        portuguese: ''
+        spanish: honores
+        turkish: şeref
+
+
+examples: []
