@@ -1,14 +1,14 @@
-examples:
--   ladino: Muera Shimshon kon kuantos son.
 grammar: null
 id: '2509'
 origen: Jeneral
+
 versions:
--   accented: kuántos
-    alternative-spelling:
-    -   accented: kuántas
-        ladino: kuantas
-    ladino: kuantos
+  - ladino: kuantos
+    accented: kuántos
+
+    gender: masculine
+    #number: singular plural
+
     translations:
         english:
         - how many
@@ -17,7 +17,28 @@ versions:
         portuguese: ''
         spanish:
         - cuantos
+        turkish:
+        - kaç tane
+        - hepsi
+
+  - ladino: kuantas
+    accented: kuántas
+
+    gender: feminine
+    #number: singular plural
+
+    translations:
+        english:
+        - how many
+        - all those
+        french: ''
+        portuguese: ''
+        spanish:
         - cuantas
         turkish:
         - kaç tane
         - hepsi
+
+
+examples:
+  - ladino: Muera Shimshon kon kuantos son.

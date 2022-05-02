@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1417'
 origen: Jeneral
+
 versions:
--   accented: milizina
-    ladino: milizina
+  - ladino: milizina
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - medicine
@@ -17,3 +20,5 @@ versions:
         turkish:
         - ilaç
         - deva
+
+examples: []

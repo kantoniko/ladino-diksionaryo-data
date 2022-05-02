@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '700'
 origen: Jeneral
+
 versions:
--   accented: mantel
-    ladino: mantel
+  - ladino: mantel
+
+    gender: masculine
+    number: singular
+
     translations:
         english: tablecloth
         french: ''
         portuguese: ''
         spanish: mantel
         turkish: masa örtüsü
+
+  - ladino: manteles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tableclothes
+        french: ''
+        portuguese: ''
+        spanish: manteles
+        turkish: masa örtüsü
+
+
+examples: []

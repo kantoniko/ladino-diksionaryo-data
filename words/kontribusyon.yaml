@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1388'
 origen: Jeneral
+
 versions:
--   accented: kontribusyon
-    ladino: kontribusyon
+  - ladino: kontribusyon
+
+    gender: feminine
+    number: singular
+
     translations:
         english: contribution
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - iştirak
         - katkı
+
+  - ladino: kontribusyones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: contributions
+        french: ''
+        portuguese: ''
+        spanish: contribuciónes
+        turkish:
+        - iştirak
+        - katkı
+
+
+examples: []

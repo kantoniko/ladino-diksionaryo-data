@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '670'
 origen: Jeneral
+
 versions:
--   accented: libertad
-    ladino: libertad
+  - ladino: libertad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: freedom
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - hürriyet
         - özgürlük
+
+examples: []

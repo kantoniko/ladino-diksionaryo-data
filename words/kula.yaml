@@ -1,17 +1,21 @@
-examples:
--   ladino: Teniya 4-5 anyos i biviya serka de la Kula de Galata.
 grammar: null
 id: '2511'
 origen: Estanbol
+
 versions:
--   accented: kulá
+  - ladino: kula
+    accented: kulá
+
     alternative-spelling:
-    -   accented: kulé
-        ladino: kule
-    ladino: kula
+      - ladino: kule
+        accented: kulé
+
     translations:
         english: tower
         french: ''
         portuguese: ''
         spanish: torre
         turkish: kule
+
+examples:
+  - ladino: Teniya 4-5 anyos i biviya serka de la Kula de Galata.

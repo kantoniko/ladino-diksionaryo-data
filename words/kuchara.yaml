@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '634'
 origen: Jeneral
+
 versions:
--   accented: kuchara
-    ladino: kuchara
+  - ladino: kuchara
+
+    gender:  feminine
+    number: singular
+
     translations:
         english: spoon
         french: ''
         portuguese: ''
         spanish: cuchara
         turkish: kaşık
+
+  - ladino: kucharas
+
+    gender:  feminine
+    number: plural
+
+    translations:
+        english: spoons
+        french: ''
+        portuguese: ''
+        spanish: cucharas
+        turkish: kaşık
+
+
+examples: []

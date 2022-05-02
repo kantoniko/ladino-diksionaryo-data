@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '630'
 origen: Jeneral
+
 versions:
--   accented: kruzada
-    ladino: kruzada
+  - ladino: kruzada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: crusade
         french: ''
         portuguese: ''
         spanish: cruzada
         turkish: Haçlı Seferi
+
+examples: []

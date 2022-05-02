@@ -1,13 +1,16 @@
-examples:
--   ladino: No tiene kunduryas al pye.
 grammar: null
 id: '2841'
 origen: Estanbol
+kategorias:
+  - ropa
+
 versions:
--   accented: kundúrya
+  - ladino: kundurya
+    accented: kundúrya
+
     gender: feminine
-    ladino: kundurya
     number: singular
+
     translations:
         english: shoe
         french: ''
@@ -16,3 +19,6 @@ versions:
         turkish:
         - ayakkabı
         - kundura
+
+examples:
+  - ladino: No tiene kunduryas al pye.

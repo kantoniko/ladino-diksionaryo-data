@@ -1,14 +1,17 @@
-examples:
--   ladino: Kualo te plaze?
 grammar: null
 id: '1395'
 origen: Jeneral
+
 versions:
--   accented: kuálo
-    ladino: kualo
+  - ladino: kualo
+    accented: kuálo
+
     translations:
         english: what
         french: ''
         portuguese: ''
         spanish: qué
         turkish: ne
+
+examples:
+  - ladino: Kualo te plaze?

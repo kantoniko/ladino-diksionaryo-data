@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '658'
 origen: Jeneral
+
 versions:
--   accented: lampas de trafik
-    ladino: lampas de trafik
+  - ladino: lampas de trafik
+
     translations:
         english: traffic light
         french: ''
         portuguese: ''
         spanish: semáforo
         turkish: trafik lambasiı
+
+examples: []

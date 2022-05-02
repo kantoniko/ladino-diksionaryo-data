@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '676'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: lovo
-    ladino: lovo
+  - ladino: lovo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: wolf
         french: ''
         portuguese: ''
         spanish: lobo
         turkish: kurt
+
+  - ladino: lovos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: wolfs
+        french: ''
+        portuguese: ''
+        spanish: lobos
+        turkish: kurt
+
+
+examples: []

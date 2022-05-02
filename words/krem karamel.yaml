@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1950'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: krem karamel
-    ladino: krem karamel
+  - ladino: krem karamel
+
     translations:
         english: cream caramel
         french: ''
         portuguese: ''
         spanish: flan
         turkish: krem karamel
+
+examples: []

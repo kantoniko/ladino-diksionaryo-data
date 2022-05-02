@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1945'
 origen: Jeneral
+
 versions:
--   accented: Korte
-    ladino: Korte
+  - ladino: Korte
+
     translations:
         english: Court
         french: ''
         portuguese: ''
         spanish: Corte
         turkish: Saray
+
+examples: []

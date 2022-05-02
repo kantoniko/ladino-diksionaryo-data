@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '692'
 origen: Jeneral
+
 versions:
--   accented: malorozamente
-    ladino: malorozamente
+  - ladino: malorozamente
+
     translations:
         english: unfortunately
         french: ''
         portuguese: ''
         spanish: desgraciadamente
         turkish: maalesef
+
+examples: []

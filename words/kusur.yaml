@@ -1,13 +1,14 @@
-examples:
--   ladino: No deshes kusures en el chini.
 grammar: null
 id: '2513'
 origen: Estanbol
+
 versions:
--   accented: kusúr
+  - ladino: kusur
+    accented: kusúr
+
     gender: masculine
-    ladino: kusur
     number: singular
+
     translations:
         english:
         - rest
@@ -20,3 +21,6 @@ versions:
         - kalan
         - artık
         - kusur
+
+examples:
+  - ladino: No deshes kusures en el chini.

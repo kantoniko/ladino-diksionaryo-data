@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '615'
 origen: Jeneral
+
 versions:
--   accented: korso
-    ladino: korso
+  - ladino: korso
+
+    gender: masculine
+    number: singular
+
     translations:
         english: course
         french: ''
         portuguese: ''
         spanish: curso
         turkish: kurs
+
+  - ladino: korsos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: courses
+        french: ''
+        portuguese: ''
+        spanish: cursos
+        turkish: kurs
+
+
+examples: []

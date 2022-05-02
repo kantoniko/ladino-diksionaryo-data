@@ -1,17 +1,39 @@
-examples: []
 grammar: null
-id: '1393'
+id: '1393,1956'
 origen: Jeneral
+
 versions:
--   accented: kuadro
-    ladino: kuadro
+  - ladino: kuadro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: frame
         french: ''
         portuguese: ''
-        spanish: cuadro
+        spanish:
+          - cuadro
+          - marco
         turkish:
         - kadro
         - çerçeve
 
-# kuadro,,marco,frame,çerçeve,Jeneral,1956,,
+  - ladino: kuadros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: frames
+        french: ''
+        portuguese: ''
+        spanish:
+          - cuadros
+          - marcos
+        turkish:
+        - kadro
+        - çerçeve
+
+
+examples: []

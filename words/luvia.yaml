@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1405'
 origen: Jeneral
+
 versions:
--   accented: luvia
-    ladino: luvia
+  - ladino: luvia
+
     translations:
         english: rain
         french: ''
         portuguese: ''
         spanish: lluvia
         turkish: yağmur
+
+examples: []

@@ -1,12 +1,16 @@
-examples: []
 grammar: null
 id: '2720'
 origen: Izmir
+kategorias:
+  - zarzavates
+
 versions:
--   accented: kuchundúrya
+  - ladino: kuchundurya
+    accented: kuchundúrya
+
     gender: feminine
-    ladino: kuchundurya
     number: singular
+
     translations:
         english: cauliflower
         french: ''
@@ -14,6 +18,7 @@ versions:
         spanish: coliflor
         turkish: karnıbahar
 
+examples: []
 
 # kuchundúrya (f),,coliflor,cauliflower,karnıbahar,Izmir,2720,,
 # kuchundúrya (f),,remolacha,beets,pancar,Izmir,2721,,

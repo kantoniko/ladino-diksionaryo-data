@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '638'
 origen: Jeneral
+
 versions:
--   accented: kuedra
-    ladino: kuedra
+  - ladino: kuedra
+
+    gender: feminine
+    number: singular
+
     translations:
         english: rope
         french: ''
         portuguese: ''
         spanish: cuerda
         turkish: ip
+
+  - ladino: kuedras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: rope
+        french: ''
+        portuguese: ''
+        spanish: cuerdas
+        turkish: ip
+
+
+examples: []

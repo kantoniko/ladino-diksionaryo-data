@@ -1,13 +1,13 @@
-examples: []
-grammar: null
+grammar: verb
 id: '660'
 origen: Jeneral
+
 versions:
--   accented: lansarse
+  - ladino: lansarse
+
     alternative-spelling:
-    -   accented: echarse
-        ladino: echarse
-    ladino: lansarse
+      - ladino: echarse
+
     translations:
         english:
         - jump
@@ -16,5 +16,8 @@ versions:
         portuguese: ''
         spanish: lanzarse
         turkish:
-        - atlamak (havuza
-        - işe)
+        - atlamak (havuza işe)
+
+conjugations: {}
+
+examples: []
