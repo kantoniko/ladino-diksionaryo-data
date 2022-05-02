@@ -1,16 +1,22 @@
-examples:
--   ladino: Te dezeo siempre kaminos de leche i miel.
 grammar: null
 id: '665'
 origen: Jeneral
+kategorias:
+  - bevidas
+
 versions:
--   accented: léche
+  - ladino: leche
+    accented: léche
+
     gender: feminine
-    ladino: leche
     number: singular
+
     translations:
         english: milk
         french: lait
         portuguese: leite
         spanish: leche
         turkish: süt
+
+examples:
+  - ladino: Te dezeo siempre kaminos de leche i miel.

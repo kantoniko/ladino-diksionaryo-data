@@ -1,14 +1,17 @@
-examples:
--   ladino: Kuanto me das por ir i venir?
 grammar: null
 id: '2508'
 origen: Jeneral
+
 versions:
--   accented: kuánto
-    ladino: kuanto
+  - ladino: kuanto
+    accented: kuánto
+
     translations:
         english: how much
         french: ''
         portuguese: ''
         spanish: cuanto
         turkish: ne kadar
+
+examples:
+  - ladino: Kuanto me das por ir i venir?

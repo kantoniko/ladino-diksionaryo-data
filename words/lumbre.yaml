@@ -1,13 +1,14 @@
-examples:
--   ladino: Abasha la komida de la lumbre.
 grammar: null
 id: '680'
 origen: Jeneral
+
 versions:
--   accented: lúmbre
+  - ladino: lumbre
+    accented: lúmbre
+
     gender: feminine
-    ladino: lumbre
     number: singular
+
     translations:
         english:
         - fire
@@ -18,3 +19,6 @@ versions:
         portuguese: fogo
         spanish: lumbre
         turkish: ateş
+
+examples:
+  - ladino: Abasha la komida de la lumbre.

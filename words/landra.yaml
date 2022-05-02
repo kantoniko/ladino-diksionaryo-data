@@ -1,16 +1,18 @@
-examples:
--   ladino: 'LA ESTREYA KE LE KAYGA, LANDRE KE LE DE! '
 grammar: null
 id: '2958'
 origen: Jeneral
+
 versions:
--   accented: lándra
+  - ladino: landra
+    accented: lándra
+
     alternative-spelling:
-    -   accented: lándre
-        ladino: landre
+      - ladino: landre
+        accented: lándre
+
     gender: feminine
-    ladino: landra
     number: singular
+
     translations:
         english: plague
         french: peste
@@ -19,3 +21,6 @@ versions:
         - peste
         spanish: peste
         turkish: veba
+
+examples:
+  - ladino: 'La estreya ke le kayga, landre ke le de!'

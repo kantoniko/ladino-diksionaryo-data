@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '687'
 origen: Jeneral
+
 versions:
--   accented: majorita
-    ladino: majorita
+  - ladino: majorita
+
+    gender: feminine
+    number: singular
+
     translations:
         english: majority
         french: ''
         portuguese: ''
         spanish: mayoría
         turkish: çoğunluk
+
+examples: []

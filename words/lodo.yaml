@@ -1,14 +1,20 @@
-examples:
--   ladino: No es un ombre - es lodo kon kanyo.
 grammar: null
 id: '2546'
 origen: Jeneral
+
 versions:
--   accented: lódo
-    ladino: lodo
+  - ladino: lodo
+    accented: lódo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: mud
         french: ''
         portuguese: ''
         spanish: lodo
         turkish: çamur
+
+examples:
+  - ladino: No es un ombre - es lodo kon kanyo.

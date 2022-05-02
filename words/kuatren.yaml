@@ -1,17 +1,21 @@
-examples:
--   ladino: Su kuatren ijo estudió mas muncho.
 grammar: adjective
 id: '2811'
 origen: Jeneral
+
 versions:
--   accented: kuatrén
+  - ladino: kuatren
+    accented: kuatrén
+
     alternative-spelling:
-    -   accented: kuartén
-        ladino: kuarten
-    ladino: kuatren
+      - ladino: kuarten
+        accented: kuartén
+
     translations:
         english: fourth
         french: ''
         portuguese: ''
         spanish: cuarto
         turkish: dördüncü
+
+examples:
+  - ladino: Su kuatren ijo estudió mas muncho.

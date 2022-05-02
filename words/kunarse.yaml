@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '646'
 origen: Jeneral
+
 versions:
--   accented: kunarse
-    ladino: kunarse
+  - ladino: kunarse
+
     translations:
         english: swing oneself
         french: ''
         portuguese: ''
         spanish: columpiarse
         turkish: sallanmak
+
+conjugations: {}
+
+examples: []

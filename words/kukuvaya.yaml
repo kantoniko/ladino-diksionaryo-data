@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '1960'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: kukuvaya
-    ladino: kukuvaya
+  - ladino: kukuvaya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: owl
         french: ''
         portuguese: ''
         spanish: lechuza
         turkish: baykuş
+
+examples: []

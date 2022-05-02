@@ -1,16 +1,70 @@
-examples: []
 grammar: null
 id: '710'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: mediko
+  - ladino: mediko
+
     alternative-spelling:
-    -   accented: doktor
-        ladino: doktor
-    ladino: mediko
+      - ladino: doktor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: doctor
         french: ''
         portuguese: ''
         spanish: médico
         turkish: doktor
+
+  - ladino: medika
+
+    alternative-spelling:
+      - ladino: doktora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: doctor
+        french: ''
+        portuguese: ''
+        spanish: médica
+        turkish: doktor
+
+  - ladino: medikos
+
+    alternative-spelling:
+      - ladino: doktores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: doctors
+        french: ''
+        portuguese: ''
+        spanish: médicos
+        turkish: doktor
+
+  - ladino: medikas
+
+    alternative-spelling:
+      - ladino: doktoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: doctors
+        french: ''
+        portuguese: ''
+        spanish: médicas
+        turkish: doktor
+
+
+
+examples: []

@@ -1,19 +1,23 @@
-examples:
--   ladino: La limpyeza es medya rikeza.
 grammar: null
 id: '2660'
 origen: Jeneral
 versions:
--   accented: limpiéza
+  - ladino: limpieza
+    accented: limpiéza
+
     alternative-spelling:
-    -   accented: limpyéza
-        ladino: limpyeza
+      - ladino: limpyeza
+        accented: limpyéza
+
     gender: feminine
-    ladino: limpieza
     number: singular
+
     translations:
         english: cleanliness
         french: ''
         portuguese: ''
         spanish: limpieza
         turkish: temizlik
+
+examples:
+  - ladino: La limpyeza es medya rikeza.

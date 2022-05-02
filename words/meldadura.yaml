@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1412'
 origen: Jeneral
+
 versions:
--   accented: meldadura
-    ladino: meldadura
+  - ladino: meldadura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: reading
         french: ''
         portuguese: ''
         spanish: lectura
         turkish: okuma
+
+  - ladino: meldaduras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: readings
+        french: ''
+        portuguese: ''
+        spanish: lecturas
+        turkish: okuma
+
+
+examples: []

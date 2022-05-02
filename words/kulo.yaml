@@ -1,13 +1,16 @@
-examples:
--   ladino: Lavorar por un kulo de pipino.
 grammar: null
 id: '2774'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: kúlo
+  - ladino: kulo
+    accented: kúlo
+
     gender: masculine
-    ladino: kulo
     number: singular
+
     translations:
         english:
         - behind
@@ -17,3 +20,6 @@ versions:
         portuguese: ''
         spanish: culo
         turkish: kıç
+
+examples:
+  - ladino: Lavorar por un kulo de pipino.
