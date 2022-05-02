@@ -1,0 +1,19 @@
+grammar: preposition
+id: '1681'
+origen: Jeneral
+
+versions:
+  - ladino: del
+    accented: del
+
+    translations:
+        english: of the
+        french: ''
+        portuguese: ''
+        spanish: del
+        turkish: ''
+
+
+examples:
+  - ladino: 'El livro del profesor.'
+  - ladino: del es "de el".

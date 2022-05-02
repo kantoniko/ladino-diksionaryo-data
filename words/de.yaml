@@ -15,18 +15,6 @@ versions:
         spanish: de
         turkish: den
 
-  - ladino: del
-    accented: del
-
-    translations:
-        english: of the
-        french: ''
-        portuguese: ''
-        spanish: del
-        turkish: ''
-
-
 examples:
   - ladino: 'De oy endelantre...'
   - ladino: 'Este livro es de mi ermano.'
-  - ladino: 'El livro del profesor.'
