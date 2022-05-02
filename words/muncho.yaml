@@ -1,13 +1,58 @@
-examples: []
 grammar: null
 id: '755'
-origen: Jeneral
+origen: Ladinokomunita
+
+
 versions:
--   accented: muncho
-    ladino: muncho
+  - ladino: muncho
+    gender: masculine
+    #number: singular plural
+
     translations:
-        english: much
-        french: ''
-        portuguese: ''
-        spanish: mucho
-        turkish: çok
+      english:
+        - a lot
+        - much
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'muncho'
+      turkish: çok
+
+  - ladino: muncha
+    gender: feminine
+    #number: singular plural
+
+    translations:
+      english: 'a lot'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'muncha'
+      turkish: ''
+
+  - ladino: munchos
+    gender: masculine
+    #number: singular plural
+
+    translations:
+      english: 'many'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'munchos'
+      turkish: ''
+
+  - ladino: munchas
+    gender: feminine
+    #number: singular plural
+
+    translations:
+      english: 'many'
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: 'munchas'
+      turkish: ''
+
+examples: []
+

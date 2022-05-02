@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '743'
 origen: Jeneral
+
 versions:
--   accented: momento
-    ladino: momento
+  - ladino: momento
+
+    gender: masculine
+    number: singular
+
     translations:
         english: moment
         french: ''
         portuguese: ''
         spanish: momento
         turkish: an
+
+  - ladino: momentos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: moments
+        french: ''
+        portuguese: ''
+        spanish: momentos
+        turkish: an
+
+
+examples: []

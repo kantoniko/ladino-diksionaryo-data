@@ -1,11 +1,10 @@
-examples:
--   ladino: El era mi ermano adoptado.
 grammar: null
 id: '2539'
 origen: Jeneral
+
 versions:
--   accented: mi
-    ladino: mi
+  - ladino: mi
+
     translations:
         english:
         - my
@@ -18,3 +17,6 @@ versions:
         turkish:
         - benim
         - ben
+
+examples:
+  - ladino: El era mi ermano adoptado.

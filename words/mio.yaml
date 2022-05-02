@@ -1,25 +1,83 @@
-examples:
--   ladino: Lo miyo miyo, i lo tuyo miyo.
 grammar: null
 id: '2545'
 origen: Jeneral
+
 versions:
--   accented: mío
+  - ladino: mio
+    accented: mío
+
     alternative-spelling:
-    -   accented: míyo
-        ladino: miyo
-    -   accented: mía
-        ladino: mia
-    -   accented: míya
-        ladino: miya
-    ladino: mio
+      - ladino: miyo
+        accented: míyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - mine
         - my
         french: ''
         portuguese: ''
-        spanish:
-        - mio
-        - mia
+        spanish: mio
         turkish: benim
+
+  - ladino: mia
+    accented: mía
+
+    alternative-spelling:
+      - ladino: miya
+        accented: míya
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - mine
+        - my
+        french: ''
+        portuguese: ''
+        spanish: mia
+        turkish: benim
+
+  - ladino: mios
+    accented: míos
+
+    alternative-spelling:
+      - ladino: miyos
+        accented: míyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - mine
+        - my
+        french: ''
+        portuguese: ''
+        spanish: mios
+        turkish: benim
+
+  - ladino: mias
+    accented: mías
+
+    alternative-spelling:
+      - ladino: miyas
+        accented: míyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - mine
+        - my
+        french: ''
+        portuguese: ''
+        spanish: mias
+        turkish: benim
+
+examples:
+  - ladino: Lo miyo miyo, i lo tuyo miyo.

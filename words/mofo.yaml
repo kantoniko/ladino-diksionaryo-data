@@ -1,16 +1,34 @@
-comments:
-- 'grammar: m), mófa (f'
-examples:
--   ladino: Ya le kresyó mofa.
 grammar: null
 id: '2875'
 origen: Jeneral
+
 versions:
--   accented: mófo
-    ladino: mofo
+  - ladino: mofo
+    accented: mófo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: mould
         french: ''
         portuguese: ''
         spanish: moho
         turkish: küf
+
+  - ladino: mofa
+    accented: mófa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: mould
+        french: ''
+        portuguese: ''
+        spanish: moho
+        turkish: küf
+
+
+examples:
+  - ladino: Ya le kresyó mofa.
