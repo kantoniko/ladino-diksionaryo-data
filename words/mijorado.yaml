@@ -1,14 +1,17 @@
-examples:
--   ladino: Kada anyo mijorado.
 grammar: adjective
 id: '1557'
 origen: Jeneral
+
 versions:
--   accented: mijorádo
-    ladino: mijorado
+  - ladino: mijorado
+    accented: mijorádo
+
     translations:
         english: improved
         french: amélioré
         portuguese: ''
         spanish: mejorado
         turkish: darısı başına
+
+examples:
+  - ladino: Kada anyo mijorado.

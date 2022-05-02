@@ -1,16 +1,21 @@
-examples: []
 grammar: null
 id: '712'
 origen: Jeneral
+
 versions:
--   accented: mediodia
+  - ladino: mediodia
+
     alternative-spelling:
-    -   accented: midi
-        ladino: midi
-    ladino: mediodia
+      - ladino: midi
+
+    gender: feminine
+    number: singular
+
     translations:
         english: noon
         french: ''
         portuguese: ''
         spanish: mediodía
         turkish: öğle
+
+examples: []

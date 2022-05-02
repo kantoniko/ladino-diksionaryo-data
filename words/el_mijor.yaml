@@ -1,14 +1,14 @@
 grammar: null
-id: '734'
 origen: Jeneral
+
 versions:
-  - ladino: milyon
+  - ladino: el mijor
 
     translations:
-        english: million
+        english: bese
         french: ''
         portuguese: ''
-        spanish: millón
-        turkish: milyon
+        spanish: el mejor
+        turkish: daha iyi
 
 examples: []

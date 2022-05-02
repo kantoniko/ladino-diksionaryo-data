@@ -1,13 +1,56 @@
-examples: []
 grammar: null
 id: '803'
 origen: Jeneral
+
 versions:
--   accented: organizador
-    ladino: organizador
+  - ladino: organizador
+
+    gender: masculine
+    number: singular
+
     translations:
         english: organizer
         french: ''
         portuguese: ''
         spanish: organizador
         turkish: organizatör
+
+  - ladino: organizadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: organizer
+        french: ''
+        portuguese: ''
+        spanish: organizadora
+        turkish: organizatör
+
+  - ladino: organizadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: organizers
+        french: ''
+        portuguese: ''
+        spanish: organizadores
+        turkish: organizatör
+
+  - ladino: organizadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: organizers
+        french: ''
+        portuguese: ''
+        spanish: organizadoras
+        turkish: organizatör
+
+
+
+examples: []

@@ -45,7 +45,7 @@ No        | Ladino
 800       | ochosientos
 900       | muevesyentos
 1,000     | mil
-1,000,000 | milion
+1,000,000 | [milyon](/words/ladino/milyon)
 
 ## Numeros ordinales
 

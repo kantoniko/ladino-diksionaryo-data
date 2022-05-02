@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '769'
 origen: Jeneral
+
 versions:
--   accented: natura
-    ladino: natura
+  - ladino: natura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: nature
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - tabiat
         - doğa
+
+examples: []

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1999'
 origen: Jeneral
+
 versions:
--   accented: motel
-    ladino: motel
+  - ladino: motel
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - inn
@@ -15,3 +18,22 @@ versions:
         turkish:
         - motel
         - han
+
+  - ladino: moteles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - inns
+        - motels
+        french: ''
+        portuguese: ''
+        spanish: fondas
+        turkish:
+        - motel
+        - han
+
+
+examples: []

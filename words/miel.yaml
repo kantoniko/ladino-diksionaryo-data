@@ -1,19 +1,26 @@
-examples:
--   ladino: Se aze kon mues mulida i miel kon klavo de komer.
 grammar: null
 id: '731'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: miél
+  - ladino: miel
+    accented: miél
+
     alternative-spelling:
-    -   accented: myél
-        ladino: myel
+      - ladino: myel
+        accented: myél
+
     gender: feminine
-    ladino: miel
     number: singular
+
     translations:
         english: honey
         french: miel
         portuguese: mel
         spanish: miel
         turkish: bal
+
+examples:
+  - ladino: Se aze kon mues mulida i miel kon klavo de komer.

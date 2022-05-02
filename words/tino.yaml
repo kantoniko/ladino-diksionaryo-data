@@ -1,14 +1,15 @@
 grammar: null
-id: '734'
+id: '714'
 origen: Jeneral
+
 versions:
-  - ladino: milyon
+  - ladino: tino
 
     translations:
-        english: million
+        english: memory
         french: ''
         portuguese: ''
-        spanish: millón
-        turkish: milyon
+        spanish: memoria
+        turkish: hafıza
 
 examples: []

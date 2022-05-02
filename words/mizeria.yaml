@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1418'
 origen: Jeneral
+
 versions:
--   accented: mizeria
-    ladino: mizeria
+  - ladino: mizeria
+
+    gender: feminine
+    number: singular
+
     translations:
         english: misery
         french: ''
         portuguese: ''
         spanish: miseria
         turkish: sefâlet
+
+  - ladino: mizerias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: miseries
+        french: ''
+        portuguese: ''
+        spanish: miserias
+        turkish: sefâlet
+
+
+examples: []

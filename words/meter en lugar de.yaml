@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1987'
 origen: Jeneral
+
 versions:
--   accented: meter en lugar de
-    ladino: meter en lugar de
+  - ladino: meter en lugar de
+
     translations:
         english: replace
         french: ''
         portuguese: ''
         spanish: reemplazar
         turkish: yerine koymak
+
+examples: []

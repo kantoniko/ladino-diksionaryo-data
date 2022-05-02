@@ -1,16 +1,18 @@
-examples: []
 grammar: null
 id: '744'
 origen: Jeneral
+
 versions:
--   accented: moneda
-    alternative-spelling:
-    -   accented: para
-        ladino: para
-    ladino: moneda
+  - ladino: moneda
+
+    gender: feminine
+    number: singular
+
     translations:
         english: money
         french: ''
         portuguese: ''
         spanish: dinero
         turkish: para
+
+examples: []

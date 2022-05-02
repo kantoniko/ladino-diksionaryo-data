@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2015'
 origen: Jeneral
+
 versions:
--   accented: no reushir el egzamen
-    ladino: no reushir el egzamen
+  - ladino: no reushir el egzamen
+
     translations:
         english: fail the exam.
         french: ''
         portuguese: ''
         spanish: suspender (el examen)
         turkish: sınavı başarmamak
+
+examples: []

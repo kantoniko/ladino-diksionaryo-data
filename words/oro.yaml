@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '805'
 origen: Jeneral
+
 versions:
--   accented: oro
-    ladino: oro
+  - ladino: oro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: gold
         french: ''
         portuguese: ''
         spanish: oro
         turkish: altın
+
+examples: []

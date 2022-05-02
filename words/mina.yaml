@@ -1,16 +1,36 @@
-examples:
--   ladino: Mos dio una recheta de mina de espinaka.
 grammar: null
 id: '2852'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: mína
+  - ladino: mina
+    accented: mína
+
     gender: feminine
-    ladino: mina
     number: singular
+
     translations:
         english: pastry
         french: ''
         portuguese: ''
         spanish: empanada
         turkish: börek
+
+  - ladino: minas
+    accented: mínas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pastries
+        french: ''
+        portuguese: ''
+        spanish: empanadas
+        turkish: börek
+
+
+examples:
+  - ladino: Mos dio una recheta de mina de espinaka.

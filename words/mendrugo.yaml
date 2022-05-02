@@ -1,19 +1,23 @@
-examples:
--   ladino: Aki m'enkasho, mindrugos mashko.
 grammar: null
 id: '2828'
 origen: Jeneral
 versions:
--   accented: mendrúgo
+  - ladino: mendrugo
+    accented: mendrúgo
+
     alternative-spelling:
-    -   accented: mindrúgo
-        ladino: mindrugo
+      - ladino: mindrugo
+        accented: mindrúgo
+
     gender: masculine
-    ladino: mendrugo
     number: singular
+
     translations:
         english: leftover bread
         french: ''
         portuguese: ''
         spanish: mendrugo
         turkish: kuru ekmek
+
+examples:
+  - ladino: Aki m'enkasho, mindrugos mashko.

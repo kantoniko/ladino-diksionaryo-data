@@ -1,11 +1,14 @@
-examples:
--   ladino: Me demando sovre el ministro de la edukasion.
 grammar: null
 id: '2540'
 origen: Jeneral
+
 versions:
--   accented: minístro
-    ladino: ministro
+  - ladino: ministro
+    accented: minístro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: minister
         french: ''
@@ -14,3 +17,22 @@ versions:
         turkish:
         - bakan
         - vekil
+
+  - ladino: ministros
+    accented: minístros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: ministers
+        french: ''
+        portuguese: ''
+        spanish: ministros
+        turkish:
+        - bakan
+        - vekil
+
+
+examples:
+  - ladino: Me demando sovre el ministro de la edukasion.

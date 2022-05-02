@@ -1,11 +1,10 @@
-examples:
--   ladino: Mos disho...
 grammar: pronoun
 id: '2548'
 origen: Jeneral
+
 versions:
--   accented: mos
-    ladino: mos
+  - ladino: mos
+
     translations:
         english:
         - us
@@ -17,3 +16,6 @@ versions:
         turkish:
         - bizi
         - bize
+
+examples:
+  - ladino: Mos disho...

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1408'
 origen: Jeneral
+
 versions:
--   accented: manya
-    ladino: manya
+  - ladino: manya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: habit
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - huy
         - alışkanlık
+
+  - ladino: manyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: habits
+        french: ''
+        portuguese: ''
+        spanish: mañas
+        turkish:
+        - huy
+        - alışkanlık
+
+
+examples: []

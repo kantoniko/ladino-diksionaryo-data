@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2724'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: marunchínos
+  - ladino: marunchinos
+    accented: marunchínos
+
     gender: masculine
-    ladino: marunchinos
     number: singular
+
     translations:
         english: almond macaroons
         french: ''
         portuguese: ''
         spanish: macarrón de almendras
         turkish: bademli beze
+
+examples: []

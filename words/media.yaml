@@ -1,11 +1,11 @@
-examples:
--   ladino: Es sekreto ke ya lo save la media sivdad.
 grammar: null
 id: '2535'
 origen: Jeneral
+
 versions:
--   accented: média
-    ladino: media
+  - ladino: media
+    accented: média
+
     translations:
         english: half
         french: ''
@@ -14,3 +14,6 @@ versions:
         turkish:
         - yarım
         - orta
+
+examples:
+  - ladino: Es sekreto ke ya lo save la media sivdad.

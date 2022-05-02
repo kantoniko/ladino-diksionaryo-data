@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1995'
 origen: Jeneral
+
 versions:
--   accented: miyope
-    ladino: miyope
+  - ladino: miyope
+
     translations:
         english: short-sighted
         french: ''
         portuguese: ''
         spanish: miope
         turkish: miyop
+
+examples: []

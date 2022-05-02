@@ -1,14 +1,15 @@
-examples:
--   ladino: Vino a las tres manko diez.
 grammar: adverb
-id: '716'
+id: '716,2536'
 origen: Jeneral
+
 versions:
--   accented: ménos
+  - ladino: menos
+    accented: ménos
+
     alternative-spelling:
-    -   accented: mánko
-        ladino: manko
-    ladino: menos
+      - ladino: manko
+        accented: mánko
+
     translations:
         english:
         - minus
@@ -19,5 +20,8 @@ versions:
         turkish:
         - az
         - eksik
+        - eksi
 
-# ménos (adv.),"Ya save el Inglez, mas o menos.",menos,mimus,eksi,Jeneral,2536,,
+examples:
+  - ladino: Vino a las tres manko diez.
+  - ladino: Ya save el Inglez, mas o menos.
