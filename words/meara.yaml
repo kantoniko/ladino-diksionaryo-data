@@ -1,12 +1,14 @@
-examples: []
 grammar: null
 id: '2849'
 origen: Torah-Tanah
+
 versions:
--   accented: meará
+  - ladino: meara
+    accented: meará
+
     gender: feminine
-    ladino: meara
     number: singular
+
     translations:
         english:
         - cave
@@ -19,3 +21,5 @@ versions:
         turkish:
         - mağara
         - in
+
+examples: []

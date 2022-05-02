@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1984'
 origen: Jeneral
+
 versions:
--   accented: memoravle
-    ladino: memoravle
+  - ladino: memoravle
+
     translations:
         english: memorable
         french: ''
         portuguese: ''
         spanish: memorable
         turkish: hatırlamaya değer
+
+examples: []

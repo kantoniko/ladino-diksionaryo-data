@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1991'
 origen: Jeneral
+
 versions:
--   accented: mil
-    ladino: mil
+  - ladino: mil
+
     translations:
         english: thousand
         french: ''
         portuguese: ''
         spanish: mil
         turkish: bin
+
+examples: []

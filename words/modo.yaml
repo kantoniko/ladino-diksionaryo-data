@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '740'
 origen: Jeneral
+
 versions:
--   accented: modo
-    ladino: modo
+  - ladino: modo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - mode
@@ -15,3 +18,22 @@ versions:
         turkish:
         - biçim
         - şekil
+
+  - ladino: modos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - mode
+        - manners
+        french: ''
+        portuguese: ''
+        spanish: modos
+        turkish:
+        - biçim
+        - şekil
+
+
+examples: []

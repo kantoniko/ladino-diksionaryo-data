@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '690'
 origen: Jeneral
+
 versions:
--   accented: maksimo
-    ladino: maksimo
+  - ladino: maksimo
+
     translations:
         english: maximum
         french: ''
         portuguese: ''
         spanish: máximo
         turkish: azami
+
+examples: []

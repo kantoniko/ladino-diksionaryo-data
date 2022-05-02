@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '1989'
 origen: Jeneral
+kategorias:
+  - veikolos
+
 versions:
--   accented: metro
-    ladino: metro
+  - ladino: metro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: subway
         french: ''
         portuguese: ''
         spanish: metro
         turkish: metro
+
+examples: []

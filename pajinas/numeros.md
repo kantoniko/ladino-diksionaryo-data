@@ -44,7 +44,7 @@ No        | Ladino
 700       | setesientos
 800       | ochosientos
 900       | muevesyentos
-1,000     | mil
+1,000     | [mil](/words/ladino/mil)
 1,000,000 | [milyon](/words/ladino/milyon)
 
 ## Numeros ordinales

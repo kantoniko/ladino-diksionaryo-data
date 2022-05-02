@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2022'
 origen: Jeneral
+
 versions:
--   accented: nuvlozo
-    ladino: nuvlozo
+  - ladino: nuvlozo
+
     translations:
         english: cloudy
         french: ''
         portuguese: ''
         spanish: nublado
         turkish: bulutlu
+
+examples: []

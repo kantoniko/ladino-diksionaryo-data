@@ -1,14 +1,14 @@
-examples:
--   ladino: A lo manko va ver a tu madre una vez a la semana.
 grammar: null
 id: '2530'
 origen: Jeneral
+
 versions:
--   accented: mánko
-    alternative-spelling:
-    -   accented: mánka
-        ladino: manka
-    ladino: manko
+  - ladino: manko
+    accented: mánko
+
+    gender: masculine
+    #number: singular plural
+
     translations:
         english: less
         french: ''
@@ -18,3 +18,23 @@ versions:
         - eksik
         - daha az
         - noksan
+
+  - ladino: manka
+    accented: mánka
+
+    gender: feminine
+    #number: singular plural
+
+    translations:
+        english: less
+        french: ''
+        portuguese: ''
+        spanish: menos
+        turkish:
+        - eksik
+        - daha az
+        - noksan
+
+
+examples:
+  - ladino: A lo manko va ver a tu madre una vez a la semana.

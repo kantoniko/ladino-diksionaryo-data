@@ -1,14 +1,34 @@
-examples:
--   ladino: Esta briyando komo la luna en kinze.
 grammar: null
 id: '2523'
 origen: Jeneral
+
 versions:
--   accented: lúna
-    ladino: luna
+  - ladino: luna
+    accented: lúna
+
+    gender: feminine
+    number: singular
+
     translations:
         english: moon
         french: ''
         portuguese: ''
         spanish: luna
         turkish: ay
+
+  - ladino: lunas
+    accented: lúnas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: moons
+        french: ''
+        portuguese: ''
+        spanish: lunas
+        turkish: ay
+
+
+examples:
+  - ladino: Esta briyando komo la luna en kinze.

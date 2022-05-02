@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1978'
 origen: Jeneral
+
 versions:
--   accented: marka
-    ladino: marka
+  - ladino: marka
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - mark
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: marca
         turkish: marka
+
+  - ladino: markas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - marks
+        - brands
+        french: ''
+        portuguese: ''
+        spanish: marcas
+        turkish: marka
+
+
+examples: []

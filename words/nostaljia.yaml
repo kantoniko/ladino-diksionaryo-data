@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1427'
 origen: Jeneral
+
 versions:
--   accented: nostaljia
-    ladino: nostaljia
+  - ladino: nostaljia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: nostalgia
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - özlem
         - hasret
+
+examples: []

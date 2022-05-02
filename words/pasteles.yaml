@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2729'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: pastéles
+  - ladino: pasteles
+    accented: pastéles
+
     gender: masculine
-    ladino: pasteles
     number: singular
+
     translations:
         english: meat pies
         french: ''
         portuguese: ''
         spanish: empanadas
         turkish: etli börek
+
+examples: []

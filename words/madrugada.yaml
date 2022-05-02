@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '685'
 origen: Jeneral
+
 versions:
--   accented: madrugada
-    ladino: madrugada
+  - ladino: madrugada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: dawn
         french: ''
         portuguese: ''
         spanish: madrugada
         turkish: şafak
+
+  - ladino: madrugadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: dawns
+        french: ''
+        portuguese: ''
+        spanish: madrugadas
+        turkish: şafak
+
+
+examples: []

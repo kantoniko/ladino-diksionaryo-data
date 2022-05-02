@@ -1,16 +1,20 @@
-examples:
--   ladino: La mansevez es una vez.
 grammar: null
 id: '2781'
 origen: Jeneral
+
 versions:
--   accented: mansevéz
+  - ladino: mansevez
+    accented: mansevéz
+
     gender: feminine
-    ladino: mansevez
     number: singular
+
     translations:
         english: youth
         french: ''
         portuguese: ''
         spanish: juventud
         turkish: gençlik
+
+examples:
+  - ladino: La mansevez es una vez.

@@ -1,11 +1,10 @@
-examples:
--   ladino: De la manyana se ve el buen diya.
 grammar: null
 id: '2328'
 origen: Jeneral
+
 versions:
--   accented: manyana
-    ladino: manyana
+  - ladino: manyana
+
     translations:
         english:
         - morning
@@ -16,3 +15,6 @@ versions:
         turkish:
         - sabah
         - yarın
+
+examples:
+  - ladino: De la manyana se ve el buen diya.

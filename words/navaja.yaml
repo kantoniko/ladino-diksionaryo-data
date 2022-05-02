@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2011'
 origen: Jeneral
+
 versions:
--   accented: navaja
-    ladino: navaja
+  - ladino: navaja
+
     translations:
         english: jack-knife
         french: ''
         portuguese: ''
         spanish: navaja
         turkish: çakı
+
+examples: []

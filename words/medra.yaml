@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1983'
 origen: Jeneral
+
 versions:
--   accented: medra
-    ladino: medra
+  - ladino: medra
+
     translations:
         english: shit
         french: ''
         portuguese: ''
         spanish: mierda
         turkish: bok
+
+examples: []

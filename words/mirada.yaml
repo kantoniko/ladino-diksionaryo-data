@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1993'
 origen: Jeneral
+
 versions:
--   accented: mirada
-    ladino: mirada
+  - ladino: mirada
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - look
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: mirada
         turkish: bakış
+
+  - ladino: miradas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - looks
+        - glances
+        french: ''
+        portuguese: ''
+        spanish: miradas
+        turkish: bakış
+
+
+examples: []
