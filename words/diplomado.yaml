@@ -37,7 +37,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: bachilleratos
-        turkish: ''
+        turkish: diplomalar
 
   - ladino: diplomadas
     accented: diplomadas
@@ -49,7 +49,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: bachilleratas
-        turkish: ''
+        turkish: diplomalar
 
 
 

@@ -11,7 +11,9 @@ versions:
         french: ''
         portuguese: ''
         spanish: del
-        turkish: ''
+        turkish:
+          - den
+          - dan
 
 
 examples:

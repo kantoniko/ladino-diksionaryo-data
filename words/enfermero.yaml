@@ -15,7 +15,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: enfermero
-      turkish: ''
+      turkish: hasta
 
   - ladino: enfermera
 
@@ -28,7 +28,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: enfermera
-      turkish: ''
+      turkish: hasta
 
   - ladino: enfermeros
 
@@ -41,7 +41,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: enfermeros
-      turkish: ''
+      turkish: hastalar
 
   - ladino: enfermeras
 
@@ -54,7 +54,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: enfermeras
-      turkish: ''
+      turkish: hastalar
 
 examples: []
 

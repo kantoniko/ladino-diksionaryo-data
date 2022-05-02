@@ -13,7 +13,7 @@ versions:
       hebrew: ראיון
       portuguese: ''
       spanish: entrevista
-      turkish: ''
+      turkish: görüşme
 
   - ladino: entrevistas
     gender: feminine
@@ -25,7 +25,7 @@ versions:
       hebrew: ראיונית
       portuguese: ''
       spanish: entrevistas
-      turkish: ''
+      turkish: görüşmeler
 
 
 examples: []

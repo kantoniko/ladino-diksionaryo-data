@@ -19,7 +19,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: desayuno
-      turkish: ''
+      turkish: kahvaltı
 
   - ladino: dezayunos
     #accented:
@@ -37,7 +37,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: desayunos
-      turkish: ''
+      turkish: kahvaltılar
 
 
 examples: []
