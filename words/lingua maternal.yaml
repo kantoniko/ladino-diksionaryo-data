@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1965'
 origen: Jeneral
+
 versions:
--   accented: lingua maternal
-    ladino: lingua maternal
+  - ladino: lingua maternal
+
     translations:
         english: mother tongue
         french: ''
         portuguese: ''
         spanish: lengua materna
         turkish: anadili
+
+examples: []

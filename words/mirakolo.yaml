@@ -1,16 +1,37 @@
-examples: []
 grammar: null
 id: '1994'
 origen: Jeneral
+
 versions:
--   accented: mirakolo
+  - ladino: mirakolo
+
     alternative-spelling:
-    -   accented: milagro
-        ladino: milagro
-    ladino: mirakolo
+      - ladino: milagro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: miracle
         french: ''
         portuguese: ''
         spanish: milagro
         turkish: mucize
+
+  - ladino: mirakolos
+
+    alternative-spelling:
+      - ladino: milagros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: miracles
+        french: ''
+        portuguese: ''
+        spanish: milagros
+        turkish: mucize
+
+
+examples: []

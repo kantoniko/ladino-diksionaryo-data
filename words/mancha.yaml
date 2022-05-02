@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1973'
 origen: Jeneral
+
 versions:
--   accented: mancha
-    ladino: mancha
+  - ladino: mancha
+
+    gender: feminine
+    number: singular
+
     translations:
         english: stain
         french: ''
         portuguese: ''
         spanish: mácula
         turkish: leke
+
+  - ladino: manchas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: stains
+        french: ''
+        portuguese: ''
+        spanish: máculas
+        turkish: leke
+
+
+examples: []

@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1964'
 origen: Jeneral
+
 versions:
--   accented: limito
-    ladino: limito
+  - ladino: limito
+
     translations:
         english: limit
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - had
         - limit
+
+examples: []

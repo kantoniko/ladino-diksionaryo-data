@@ -1,11 +1,12 @@
-examples:
--   ladino: Ay djente ke konfonden Ladino kon Latin.
 grammar: null
 id: '2323'
 origen: Jeneral
+kategorias:
+  - idiomas
+
 versions:
--   accented: latin
-    ladino: latin
+  - ladino: latin
+
     translations:
         english: latin
         french: ''
@@ -14,6 +15,10 @@ versions:
         turkish:
         - latin
         - latince
+
+examples:
+  - ladino: Ay djente ke konfonden Ladino kon Latin.
+
 # latin,Ay djente ke konfonden Ladino kon Latin.,latín,latin,"latin, latince",Jeneral,2323,,
 # "latin, latino",Ay djente ke konfonden Ladino kon Latin.,latín,latin,"latin, latince",Jeneral,2324,,
 

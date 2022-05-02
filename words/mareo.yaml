@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1977'
 origen: Jeneral
+
 versions:
--   accented: mareo
+  - ladino: mareo
+
     alternative-spelling:
-    -   accented: shasheo
-        ladino: shasheo
-    ladino: mareo
+      - ladino: shasheo
+
     translations:
         english:
         - vertigo
@@ -16,3 +16,5 @@ versions:
         portuguese: ''
         spanish: vértigo
         turkish: baş dónmesi
+
+examples: []

@@ -1,21 +1,75 @@
-examples:
--   ladino: La kaza estava limpia.
 grammar: adjective
 id: '673'
 origen: Jeneral
+
 versions:
--   accented: límpio
+  - ladino: limpio
+    accented: límpio
+
     alternative-spelling:
-    -   accented: límpyo
-        ladino: limpyo
-    -   accented: límpia
-        ladino: limpia
-    ladino: limpio
+      - ladino: limpyo
+        accented: límpyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: clean
         french: ''
         portuguese: ''
-        spanish:
-        - limpio
-        - limpia
+        spanish: limpio
         turkish: temiz
+
+  - ladino: limpia
+    accented: límpia
+
+    alternative-spelling:
+      - ladino: limpya
+        accented: límpya
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: clean
+        french: ''
+        portuguese: ''
+        spanish: limpia
+        turkish: temiz
+
+  - ladino: limpios
+    accented: límpios
+
+    alternative-spelling:
+      - ladino: limpyos
+        accented: límpyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: clean
+        french: ''
+        portuguese: ''
+        spanish: limpios
+        turkish: temiz
+
+  - ladino: limpias
+    accented: límpias
+
+    alternative-spelling:
+      - ladino: limpyas
+        accented: límpyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: clean
+        french: ''
+        portuguese: ''
+        spanish: limpias
+        turkish: temiz
+
+examples:
+  - ladino: La kaza estava limpia.

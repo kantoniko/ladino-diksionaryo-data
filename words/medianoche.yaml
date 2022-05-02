@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '709'
 origen: Jeneral
+
 versions:
--   accented: medianoche
-    ladino: medianoche
+  - ladino: medianoche
+
     translations:
         english: midnight
         french: ''
         portuguese: ''
         spanish: medianoche
         turkish: gece yarısı
+
+examples: []

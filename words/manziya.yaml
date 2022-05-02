@@ -1,11 +1,14 @@
-examples:
--   ladino: 'La para ke no vayga en manziya. Mozotros dizimos: Pekado i manziya.'
 grammar: null
 id: '1549'
 origen: Jeneral
+
 versions:
--   accented: manzíya
-    ladino: manziya
+  - ladino: manziya
+    accented: manzíya
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - misfortune
@@ -21,3 +24,6 @@ versions:
         turkish:
         - talihsizlik
         - ziyan
+
+examples:
+  - ladino: 'La para ke no vayga en manziya. Mozotros dizimos: Pekado i manziya.'

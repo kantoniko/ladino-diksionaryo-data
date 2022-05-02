@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '711'
 origen: Jeneral
+
 versions:
--   accented: medio
-    ladino: medio
+  - ladino: medio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: middle
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - yarım
         - orta
+
+  - ladino: medios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: middle
+        french: ''
+        portuguese: ''
+        spanish: medios
+        turkish:
+        - yarım
+        - orta
+
+
+examples: []

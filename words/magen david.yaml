@@ -1,19 +1,10 @@
-examples:
--   ladino: 'El Eskudo de David (Magen David) es el simbolo del puevlo djudio.
-
-        Eskudo de David: Una forma de dos triangulos ekuilateros pozados uno ensima
-        del otro en
-
-        arreves, formando una estreya de 6 puntas.
-
-
-        '
 grammar: null
 id: '2308'
 origen: Jeneral
+
 versions:
--   accented: Magen David
-    ladino: Magen David
+  - ladino: Magen David
+
     translations:
         english:
         - Magen David (Mogen David)
@@ -22,3 +13,7 @@ versions:
         portuguese: ''
         spanish: Estrella de David (Escudo de David)
         turkish: Magen David (Davud'un Kalkanı)
+
+examples:
+  - ladino: El Eskudo de David (Magen David) es el simbolo del puevlo djudio.
+  - ladino: 'Eskudo de David: Una forma de dos triangulos ekuilateros pozados uno ensima del otro en arreves, formando una estreya de 6 puntas.'

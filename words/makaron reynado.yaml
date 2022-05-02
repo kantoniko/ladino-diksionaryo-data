@@ -1,16 +1,20 @@
-examples:
--   ladino: Yevi a la kaza de mi ijo makaron reynado.
 grammar: null
 id: '2723'
 origen: Izmir
+
 versions:
--   accented: makarón reynádo
+  - ladino: makaron reynado
+    accented: makarón reynádo
+
     gender: masculine
-    ladino: makaron reynado
     number: singular
+
     translations:
         english: baked macaroni
         french: macaronis au gratin
         portuguese: macarrão no forno
         spanish: macarrones al horno
         turkish: fırında makarna
+
+examples:
+  - ladino: Yevi a la kaza de mi ijo makaron reynado.

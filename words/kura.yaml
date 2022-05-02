@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '648'
 origen: Jeneral
+
 versions:
--   accented: kura
-    ladino: kura
+  - ladino: kura
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - medicine
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: medicamento
         turkish: ilâç
+
+  - ladino: kuras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - medicine
+        - drugs
+        french: ''
+        portuguese: ''
+        spanish: medicamentos
+        turkish: ilâç
+
+
+examples: []

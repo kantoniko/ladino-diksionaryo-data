@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '723'
 origen: Jeneral
+
 versions:
--   accented: merikiarse
-    ladino: merikiarse
+  - ladino: merikiarse
+
     translations:
         english: worry
         french: ''
         portuguese: ''
         spanish: preocuparse
         turkish: endişe etmek
+
+examples: []

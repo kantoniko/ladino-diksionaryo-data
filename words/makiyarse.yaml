@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '689'
 origen: Jeneral
+
 versions:
--   accented: makiyarse
-    ladino: makiyarse
+  - ladino: makiyarse
+
     translations:
         english: make-up
         french: ''
         portuguese: ''
         spanish: maquillarse
         turkish: makiyaj yapmak
+
+examples: []

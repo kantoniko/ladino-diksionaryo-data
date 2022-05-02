@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '657'
 origen: Jeneral
+
 versions:
--   accented: lado
-    ladino: lado
+  - ladino: lado
+
+    gender: masculine
+    number: singular
+
     translations:
         english: side
         french: ''
         portuguese: ''
         spanish: lado
         turkish: yan
+
+  - ladino: lados
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: sides
+        french: ''
+        portuguese: ''
+        spanish: lados
+        turkish: yan
+
+
+examples: []

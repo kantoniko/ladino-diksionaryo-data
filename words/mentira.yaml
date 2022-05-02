@@ -1,16 +1,37 @@
-examples: []
 grammar: null
 id: '717'
 origen: Jeneral
+
 versions:
--   accented: mentira
+  - ladino: mentira
+
     alternative-spelling:
-    -   accented: mintira
-        ladino: mintira
-    ladino: mentira
+      - ladino: mintira
+
+    gender: feminine
+    number: singular
+
     translations:
         english: lie
         french: ''
         portuguese: ''
         spanish: mentira
         turkish: yalan
+
+  - ladino: mentiras
+
+    alternative-spelling:
+      - ladino: mintiras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lies
+        french: ''
+        portuguese: ''
+        spanish: mentiras
+        turkish: yalan
+
+
+examples: []

@@ -1,16 +1,32 @@
-examples:
--   ladino: Para azer boyikos, kale finyir muncho la masa.
 grammar: null
 id: '2532'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: mása
-    ladino: masa
+  - ladino: masa
+    accented: mása
+
     translations:
         english: dough
         french: ''
         portuguese: ''
         spanish: masa
         turkish: hamur
+
+  - ladino: masas
+    accented: másas
+
+    translations:
+        english: dough
+        french: ''
+        portuguese: ''
+        spanish: masas
+        turkish: hamur
+
+
+examples:
+  - ladino: Para azer boyikos, kale finyir muncho la masa.
 
 # "masá, matsa (f), matzot (m)","Ni Pesah sin matsa, ni ija sin kazar.",pan ázimo,unleavened bread,hamursuz ekmeği,Ladinokomunita,2853,,

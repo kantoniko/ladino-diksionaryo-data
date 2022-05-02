@@ -1,14 +1,16 @@
-examples:
--   ladino: La moneda de la Turkiya es la LIRA.
 grammar: null
 id: '2326'
 origen: Estanbol
+
 versions:
--   accented: lira
-    ladino: lira
+  - ladino: lira
+
     translations:
         english: Turkish currency
         french: ''
         portuguese: ''
         spanish: dinero turco
         turkish: lira
+
+examples:
+  - ladino: La moneda de la Turkiya es la LIRA.

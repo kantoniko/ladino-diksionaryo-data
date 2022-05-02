@@ -1,15 +1,20 @@
-conjugations: {}
-examples:
--   ladino: Se levaran las manos porke van a komer matsa.
 grammar: verb
 id: '662'
 origen: Jeneral
+
 versions:
--   accented: lavárse
-    ladino: lavarse
+  - ladino: lavarse
+    accented: lavárse
+
     translations:
         english: wash
         french: se laver
-        portuguese: ' lavar-se'
+        portuguese: lavar-se
         spanish: lavarse
         turkish: yıkanmak
+
+conjugations: {}
+
+examples:
+  - ladino: Se levaran las manos porke van a komer matsa.
+

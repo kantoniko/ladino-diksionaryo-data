@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '694'
 origen: Jeneral
+
 versions:
--   accented: manga
-    ladino: manga
+  - ladino: manga
+
+    gender: feminine
+    number: singular
+
     translations:
         english: sleeve
         french: ''
         portuguese: ''
         spanish: manga
         turkish: elbise kolu
+
+  - ladino: mangas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: sleeves
+        french: ''
+        portuguese: ''
+        spanish: mangas
+        turkish: elbise kolu
+
+
+examples: []
