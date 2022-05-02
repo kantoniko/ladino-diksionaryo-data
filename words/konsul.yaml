@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1385'
 origen: Jeneral
+
 versions:
--   accented: konsul
-    ladino: konsul
+  - ladino: konsul
+
+    gender: masculine
+    number: singular
+
     translations:
         english: consulate
         french: ''
         portuguese: ''
         spanish: cónsul
         turkish: konsolos
+
+  - ladino: konsules
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: consulate
+        french: ''
+        portuguese: ''
+        spanish: cónsul
+        turkish: konsolos
+
+
+examples: []

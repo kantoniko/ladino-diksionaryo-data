@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1916'
 origen: Jeneral
+
 versions:
--   accented: konduktor
-    ladino: konduktor
+  - ladino: konduktor
+
+    gender: masculine
+    number: singular
+
     translations:
         english: conductor
         french: ''
         portuguese: ''
         spanish: conductor
         turkish: sürücü
+
+  - ladino: konduktora
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: conductor
+        french: ''
+        portuguese: ''
+        spanish: conductor
+        turkish: sürücü
+
+
+examples: []

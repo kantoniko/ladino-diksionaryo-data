@@ -1,16 +1,18 @@
-examples:
--   ladino: Ay munchas kurvas en este kamino.
 grammar: null
 id: '1948'
 origen: Jeneral
+
 versions:
--   accented: kórva
+  - ladino: korva
+    accented: kórva
+
     alternative-spelling:
-    -   accented: kúrva
-        ladino: kurva
+      - ladino: kurva
+        accented: kúrva
+
     gender: feminine
-    ladino: korva
     number: singular
+
     translations:
         english:
         - bend
@@ -23,3 +25,30 @@ versions:
         turkish:
         - dönemeç
         - viraj
+
+  - ladino: korvas
+    accented: kórvas
+
+    alternative-spelling:
+      - ladino: kurvas
+        accented: kúrvas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - bends
+        - turns
+        french: ''
+        portuguese: ''
+        spanish:
+        - curvas
+        - travéses
+        turkish:
+        - dönemeç
+        - viraj
+
+
+examples:
+  - ladino: Ay munchas kurvas en este kamino.

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1382'
 origen: Jeneral
+
 versions:
--   accented: konserto
-    ladino: konserto
+  - ladino: konserto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: concert
         french: ''
         portuguese: ''
         spanish: concierto
         turkish: konser
+
+  - ladino: konsertos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: concerts
+        french: ''
+        portuguese: ''
+        spanish: conciertos
+        turkish: konser
+
+
+examples: []

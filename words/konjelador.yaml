@@ -1,16 +1,34 @@
-examples:
--   ladino: Mi ija tiene su konjelador en el garaj.
 grammar: null
 id: '216'
 origen: Jeneral
+
 versions:
--   accented: konjeladór
+  - ladino: konjelador
+    accented: konjeladór
+
     gender: masculine
-    ladino: konjelador
     number: singular
+
     translations:
         english: freezer
         french: ''
         portuguese: ''
         spanish: congelador
         turkish: dondurucu
+
+  - ladino: konjeladores
+    accented: konjeladóres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: freezers
+        french: ''
+        portuguese: ''
+        spanish: congeladores
+        turkish: dondurucu
+
+
+examples:
+  - ladino: Mi ija tiene su konjelador en el garaj.

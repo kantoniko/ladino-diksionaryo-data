@@ -1,16 +1,20 @@
-examples:
--   ladino: Komimos kada uno el kuarto del melon.
 grammar: null
 id: '633'
 origen: Jeneral
+
 versions:
--   accented: kuárto
+  - ladino: kuarto
+    accented: kuárto
+
     gender: masculine
-    ladino: kuarto
     number: singular
+
     translations:
         english: quarter
         french: ''
         portuguese: ''
         spanish: cuarto
         turkish: çeyrek
+
+examples:
+  - ladino: Komimos kada uno el kuarto del melon.

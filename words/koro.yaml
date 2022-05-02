@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1942'
 origen: Jeneral
+
 versions:
--   accented: koro
-    ladino: koro
+  - ladino: koro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: choir
         french: ''
         portuguese: ''
         spanish: coro
         turkish: koro
+
+  - ladino: koros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: choirs
+        french: ''
+        portuguese: ''
+        spanish: coros
+        turkish: koro
+
+
+examples: []

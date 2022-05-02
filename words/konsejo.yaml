@@ -1,11 +1,10 @@
-examples:
--   ladino: Es kon orgolyo ke resivimos sus mesajes i konsejos.
 grammar: null
 id: '2322'
 origen: Jeneral
+
 versions:
--   accented: konsejo
-    ladino: konsejo
+  - ladino: konsejo
+
     translations:
         english:
         - advice
@@ -17,3 +16,6 @@ versions:
         - tavsiye
         - nasihat
         - öğüt
+
+examples:
+  - ladino: Es kon orgolyo ke resivimos sus mesajes i konsejos.

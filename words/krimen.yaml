@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1953'
 origen: Jeneral
+
 versions:
--   accented: krimen
-    ladino: krimen
+  - ladino: krimen
+
+    gender: masculine
+    number: singular
+
     translations:
         english: crime
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - cinayet
         - cürüm
+
+  - ladino: krimenes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: crimes
+        french: ''
+        portuguese: ''
+        spanish: crimenes
+        turkish:
+        - cinayet
+        - cürüm
+
+
+examples: []

@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '631'
 origen: Jeneral
+
 versions:
--   accented: kuafor
+  - ladino: kuafor
+
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: berber
-        ladino: berber
-    ladino: kuafor
+      - ladino: berber
+
     translations:
         english:
         - hairdresser
@@ -18,3 +21,6 @@ versions:
         turkish:
         - kuaför
         - berber
+
+
+examples: []

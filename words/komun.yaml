@@ -1,13 +1,10 @@
-examples:
--   ladino: 'Sus lingua komun era el Fransez.
-
-        Es una persona muy komun.'
 grammar: null
 id: '2321'
 origen: Jeneral
+
 versions:
--   accented: komun
-    ladino: komun
+  - ladino: komun
+
     translations:
         english: common
         french: ''
@@ -17,3 +14,7 @@ versions:
         - ortak
         - müşterek
         - alelade
+
+examples:
+  - ladino: Sus lingua komun era el Fransez.
+  - ladino: Es una persona muy komun.

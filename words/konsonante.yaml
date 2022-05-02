@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '601'
 origen: Jeneral
+
 versions:
--   accented: konsonante
-    ladino: konsonante
+  - ladino: konsonante
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: consonant
         french: ''
         portuguese: ''
         spanish: consonante
         turkish: sessiz harf
+
+  - ladino: konsonantes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: consonants
+        french: ''
+        portuguese: ''
+        spanish: consonantes
+        turkish: sessiz harf
+
+
+examples: []
