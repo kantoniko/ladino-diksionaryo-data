@@ -3,10 +3,10 @@ id: '585'
 origen: Jeneral
 
 versions:
-  - ladino: komputadora
-    accented: komputadóra
+  - ladino: komputer
+    accented: kompúter
 
-    gender: feminine
+    gender: masculine
     number: singular
 
     translations:
@@ -16,10 +16,10 @@ versions:
         spanish: ordenador
         turkish: bilgisayar
 
-  - ladino: komputadoras
-    accented: komputadóras
+  - ladino: komputers
+    accented: kompúters
 
-    gender: feminine
+    gender: masculine
     number: plural
 
     translations:
@@ -30,5 +30,5 @@ versions:
         turkish: bilgisayar
 
 
-examples:
-  - ladino: Munchos amigos i konosidos no tienen komputadoras.
+examples: []
+

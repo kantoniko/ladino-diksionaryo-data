@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: botin
+    accented: botín
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: loot
+      french: ''
+      hebrew: שלל
+      portuguese: ''
+      spanish: botín
+      turkish: ''
+
+examples: []

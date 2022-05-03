@@ -1,13 +1,19 @@
-examples: []
 grammar: null
 id: '2286'
 origen: Jeneral
+
 versions:
--   accented: dinero
-    ladino: dinero
+  - ladino: dinero
+
+    gender: masculine
+    number: singular
+
     translations:
         english: money
         french: ''
+        hebrew: כסף
         portuguese: ''
         spanish: dinero
         turkish: para
+
+examples: []

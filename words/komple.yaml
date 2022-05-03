@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '586'
 origen: Jeneral
+
 versions:
--   accented: komple
+  - ladino: komple
+
     alternative-spelling:
-    -   accented: kostum
-        ladino: kostum
-    ladino: komple
+      - ladino: kostum
+
     translations:
         english:
         - costume
@@ -16,3 +16,5 @@ versions:
         portuguese: ''
         spanish: traje
         turkish: takım elbise
+
+examples: []

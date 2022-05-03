@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1380'
 origen: Jeneral
+
 versions:
--   accented: kongreso
-    ladino: kongreso
+  - ladino: kongreso
+
     translations:
         english: congress
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - kongre
         - kurultay
+
+examples: []

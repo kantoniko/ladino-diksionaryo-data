@@ -1,5 +1,5 @@
 grammar: null
-id: '204'
+id: '204,1672'
 origen: Jeneral
 
 versions:
@@ -10,12 +10,15 @@ versions:
     number: singular
 
     translations:
-        english: office
+        english:
+          - office
+          - study
         french: ''
         portuguese: ''
         spanish:
           - oficina
           - buró
+          - despacho
         turkish: büro
 
   - ladino: buros
@@ -31,6 +34,7 @@ versions:
         spanish:
           - oficinas
           - burós
+          - despachos
         turkish: büro
 
 
