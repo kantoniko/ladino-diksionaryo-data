@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1928'
 origen: Jeneral
+
 versions:
--   accented: konstante
-    ladino: konstante
+  - ladino: konstante
+
     translations:
         english: constant
         french: ''
         portuguese: ''
         spanish: constante
         turkish: daimî
+
+examples: []

@@ -1,13 +1,55 @@
-examples: []
 grammar: null
 id: '607'
 origen: Jeneral
+
 versions:
--   accented: kontinuado
-    ladino: kontinuado
+  - ladino: kontinuado
+
+    gender: masculine
+    number: singular
+
     translations:
         english: continuous
         french: ''
         portuguese: ''
         spanish: continuado
         turkish: devamlı
+
+  - ladino: kontinuada
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: continuous
+        french: ''
+        portuguese: ''
+        spanish: continuada
+        turkish: devamlı
+
+  - ladino: kontinuados
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: continuous
+        french: ''
+        portuguese: ''
+        spanish: continuados
+        turkish: devamlı
+
+  - ladino: kontinuadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: continuous
+        french: ''
+        portuguese: ''
+        spanish: continuadas
+        turkish: devamlı
+
+
+examples: []

@@ -1,13 +1,16 @@
-examples: []
 grammar: null
 id: '1381'
 origen: Jeneral
+
 versions:
--   accented: konsensia
+  - ladino: konsensia
+
     alternative-spelling:
-    -   accented: konsensya
-        ladino: konsensya
-    ladino: konsensia
+      - ladino: konsensya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: conscience
         french: ''
@@ -16,3 +19,5 @@ versions:
         turkish:
         - bilinç
         - vicdan
+
+examples: []

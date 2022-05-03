@@ -1,14 +1,16 @@
-examples:
--   ladino: Se kazo por la sigundo vez kon un ombre kito tambien.
 grammar: null
 id: '2320'
 origen: Jeneral
+
 versions:
--   accented: kito
-    ladino: kito
+  - ladino: kito
+
     translations:
         english: divorcee
         french: ''
         portuguese: ''
         spanish: divorciado
         turkish: boşanmış
+
+examples:
+  - ladino: Se kazo por la sigundo vez kon un ombre kito tambien.

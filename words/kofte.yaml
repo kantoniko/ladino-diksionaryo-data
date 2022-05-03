@@ -1,19 +1,26 @@
-examples:
--   ladino: Unos kuantos diyas antes, di la recheta de "koftes de prasa".
 grammar: null
 id: '2839'
 origen: Estanbol
+kategorias:
+  - komidas
+
 versions:
--   accented: kofté
+  - ladino: kofte
+    accented: kofté
+
     alternative-spelling:
-    -   accented: kyofté
-        ladino: kyofte
+      - ladino: kyofte
+        accented: kyofté
+
     gender: feminine
-    ladino: kofte
     number: singular
+
     translations:
         english: meatball
         french: ''
         portuguese: ''
         spanish: albóndiga
         turkish: köfte
+
+examples:
+  - ladino: Unos kuantos diyas antes, di la recheta de "koftes de prasa".

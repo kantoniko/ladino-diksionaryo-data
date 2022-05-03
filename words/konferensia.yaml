@@ -1,19 +1,40 @@
-examples:
--   ladino: Mis konferensias son siempre en ladino.
 grammar: null
 id: '2500'
 origen: Jeneral
+
 versions:
--   accented: Konferénsia
+  - ladino: konferensia
+    accented: konferénsia
+
     alternative-spelling:
-    -   accented: konferensya
-        ladino: konferensya
+      - ladino: konferensya
+
     gender: feminine
-    ladino: Konferensia
     number: singular
+
     translations:
         english: conference
         french: ''
         portuguese: ''
         spanish: conferencia
         turkish: konferans
+
+  - ladino: konferensias
+    accented: konferénsias
+
+    alternative-spelling:
+      - ladino: konferensyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: conferences
+        french: ''
+        portuguese: ''
+        spanish: conferencias
+        turkish: konferans
+
+
+examples:
+  - ladino: Mis konferensias son siempre en ladino.

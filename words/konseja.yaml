@@ -1,14 +1,18 @@
-examples:
--   ladino: Ke ermozos son los kuentos de la tiya de Sulucha!
 grammar: null
 id: '596'
 origen: Jeneral
+
 versions:
--   accented: konséja
+  - ladino: konseja
+    accented: konséja
+
+    gender: feminine
+    number: singular
+
     alternative-spelling:
-    -   accented: kuénto
-        ladino: kuento
-    ladino: konseja
+      - ladino: kuento
+        accented: kuénto
+
     translations:
         english: story
         french: ''
@@ -17,3 +21,6 @@ versions:
         - conseja
         - cuento
         turkish: masal
+
+examples:
+  - ladino: Ke ermozos son los kuentos de la tiya de Sulucha!

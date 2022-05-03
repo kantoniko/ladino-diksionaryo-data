@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1927'
 origen: Jeneral
+
 versions:
--   accented: konsiderarse
-    ladino: konsiderarse
+  - ladino: konsiderarse
+
     translations:
         english: consider oneself
         french: ''
         portuguese: ''
         spanish: considerarse
         turkish: kendini addetmek
+
+conjugations: {}
+
+examples: []

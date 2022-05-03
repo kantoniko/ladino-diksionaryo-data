@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1391'
 origen: Jeneral
+
 versions:
--   accented: kriansa
-    ladino: kriansa
+  - ladino: kriansa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: creature
         french: ''
         portuguese: ''
         spanish: criatura
         turkish: yaratık
+
+  - ladino: kriansas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: creatures
+        french: ''
+        portuguese: ''
+        spanish: criaturas
+        turkish: yaratık
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1903'
 origen: Jeneral
+
 versions:
--   accented: kolona
-    ladino: kolona
+  - ladino: kolona
+
+    gender: feminine
+    number: singular
+
     translations:
         english: column
         french: ''
         portuguese: ''
         spanish: columna
         turkish: sütun
+
+  - ladino: kolonas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: columns
+        french: ''
+        portuguese: ''
+        spanish: columnas
+        turkish: sütun
+
+
+examples: []

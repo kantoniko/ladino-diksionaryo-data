@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1379'
 origen: Jeneral
+
 versions:
--   accented: konfiensa
-    ladino: konfiensa
+  - ladino: konfiensa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: confidence
         french: ''
         portuguese: ''
         spanish: confianza
         turkish: güven
+
+examples: []

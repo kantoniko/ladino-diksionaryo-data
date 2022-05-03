@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1961'
 origen: Jeneral
+
 versions:
--   accented: kulpa
-    ladino: kulpa
+  - ladino: kulpa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: fault
         french: ''
         portuguese: ''
         spanish: culpa
         turkish: hata
+
+  - ladino: kulpas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: faults
+        french: ''
+        portuguese: ''
+        spanish: culpas
+        turkish: hata
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '617'
 origen: Jeneral
+
 versions:
--   accented: kortina
-    ladino: kortina
+  - ladino: kortina
+
+    gender: feminine
+    number: singular
+
     translations:
         english: curtain
         french: ''
         portuguese: ''
         spanish: cortina
         turkish: perde
+
+  - ladino: kortinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: curtains
+        french: ''
+        portuguese: ''
+        spanish: cortinas
+        turkish: perde
+
+
+examples: []

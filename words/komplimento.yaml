@@ -1,16 +1,37 @@
-examples: []
 grammar: null
 id: '588'
 origen: Jeneral
+
 versions:
--   accented: komplimento
+  - ladino: komplimento
+
+    gender: masculine
+    number: singular
+
     alternative-spelling:
-    -   accented: komplimieento
-        ladino: komplimieento
-    ladino: komplimento
+      - ladino: komplimieento
+
     translations:
         english: compliment
         french: ''
         portuguese: ''
         spanish: cumplimiento
         turkish: iltifat
+
+  - ladino: komplimentos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: komplimieentos
+
+    translations:
+        english: compliments
+        french: ''
+        portuguese: ''
+        spanish: cumplimientos
+        turkish: iltifat
+
+
+examples: []

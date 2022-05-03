@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1908'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: komersante
-    ladino: komersante
+  - ladino: komersante
+
     translations:
         english: merchant
         french: ''
         portuguese: ''
         spanish: comerciante
         turkish: tüccar
+
+examples: []

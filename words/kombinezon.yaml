@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1905'
 origen: Jeneral
+kategorias:
+  - ropa
+
 versions:
--   accented: kombinezon
+  - ladino: kombinezon
+
     alternative-spelling:
-    -   accented: jupon
-        ladino: jupon
-    ladino: kombinezon
+      - ladino: jupon
+
     translations:
         english: petticoat
         french: ''
@@ -16,3 +18,5 @@ versions:
         turkish:
         - kombinezon
         - jupon
+
+examples: []

@@ -1,24 +1,18 @@
-examples:
--   ladino: 'Kuando era chiko, mi ermano me ambezo estos versos:
-
-        "Yo so una kopeta
-
-        Kon sal i pimienta,
-
-        Me dan un bezo
-
-        Me kitan la savor."'
 grammar: null
 id: '2717'
 origen: Izmir
+
 versions:
--   accented: kopéta
+  - ladino: kopeta
+    accented: kopéta
+
     alternative-spelling:
-    -   accented: kofté
-        ladino: kofte
+      - ladino: kofte
+        accented: kofté
+
     gender: feminine
-    ladino: kopeta
     number: singular
+
     translations:
         english:
         - meat patty
@@ -27,3 +21,11 @@ versions:
         portuguese: ''
         spanish: albóndiga
         turkish: köfte
+
+examples:
+  - ladino: 'Kuando era chiko, mi ermano me ambezo estos versos:
+        "Yo so una kopeta
+        Kon sal i pimienta,
+        Me dan un bezo
+        Me kitan la savor."'
+

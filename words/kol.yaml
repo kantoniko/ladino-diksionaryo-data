@@ -1,11 +1,12 @@
-examples:
--   ladino: Entre kol i kol lechuga.
 grammar: null
 id: '2495'
 origen: Jeneral
+kategorias:
+  - zarzavates
+
 versions:
--   accented: kol
-    ladino: kol
+  - ladino: kol
+
     translations:
         english: cabbage
         french: ''
@@ -14,3 +15,6 @@ versions:
         - col
         - repollo
         turkish: lahana
+
+examples:
+  - ladino: Entre kol i kol lechuga.

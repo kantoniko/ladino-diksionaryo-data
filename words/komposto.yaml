@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '1910'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: komposto
-    ladino: komposto
+  - ladino: komposto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: stew (of fruit)
         french: ''
         portuguese: ''
         spanish: almíbar
         turkish: komposto
+
+  - ladino: kompostos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: stew (of fruit)
+        french: ''
+        portuguese: ''
+        spanish: almíbares
+        turkish: komposto
+
+
+examples: []

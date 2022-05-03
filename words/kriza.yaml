@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '629'
 origen: Jeneral
+
 versions:
--   accented: kriza
-    ladino: kriza
+  - ladino: kriza
+
+    gender: feminine
+    number: singular
+
     translations:
         english: crisis
         french: ''
         portuguese: ''
         spanish: crisis
         turkish: kriz
+
+  - ladino: krizas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: crisises
+        french: ''
+        portuguese: ''
+        spanish: crisises
+        turkish: kriz
+
+
+examples: []
