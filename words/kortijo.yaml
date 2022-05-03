@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1946'
 origen: Jeneral
+
 versions:
--   accented: kortijo
-    ladino: kortijo
+  - ladino: kortijo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - farmyard
@@ -15,3 +18,5 @@ versions:
         - corral
         - patio
         turkish: avlu
+
+examples: []

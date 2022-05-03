@@ -1,16 +1,20 @@
-examples:
--   ladino: Puede ofrirme de pagar parte de la kira de kaza.
 grammar: null
 id: '3016'
 origen: Jeneral
+
 versions:
--   accented: kirá
+  - ladino: kira
+    accented: kirá
+
     gender: feminine
-    ladino: kira
     number: singular
+
     translations:
         english: rent
         french: loyer
         portuguese: ''
         spanish: alquiler
         turkish: kira
+
+examples:
+  - ladino: Puede ofrirme de pagar parte de la kira de kaza.

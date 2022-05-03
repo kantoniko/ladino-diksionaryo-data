@@ -1,16 +1,34 @@
-examples:
--   ladino: Inchi un kestionario sovre el djudeo-espanyol.
 grammar: null
 id: '2682'
 origen: Jeneral
+
 versions:
--   accented: kestionário
+  - ladino: kestionario
+    accented: kestionário
+
     gender: masculine
-    ladino: kestionario
     number: singular
+
     translations:
         english: questionnaire
         french: ''
         portuguese: ''
         spanish: cuestionario
         turkish: soru listesi
+
+  - ladino: kestionarios
+    accented: kestionários
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: questionnaires
+        french: ''
+        portuguese: ''
+        spanish: cuestionarios
+        turkish: soru listesi
+
+
+examples:
+  - ladino: Inchi un kestionario sovre el djudeo-espanyol.

@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '567'
 origen: Jeneral
+
 versions:
--   accented: kimika
-    ladino: kimika
+  - ladino: kimika
+
+    gender: feminine
+    number: singular
+
     translations:
         english: chemistry
         french: ''
         portuguese: ''
         spanish: química
         turkish: kimya
+
+examples: []

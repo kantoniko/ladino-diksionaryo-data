@@ -1,18 +1,21 @@
-examples:
--   ladino: '"Sofo letav" kere dizir "kavo bueno ke tengamos"!!!.
-
-        Me vo kon ti al kavo del mundo. '
 grammar: null
 id: '2315'
 origen: Jeneral
+
 versions:
--   accented: kávo
+  - ladino: kavo
+    accented: kávo
+
     gender: masculine
-    ladino: kavo
     number: singular
+
     translations:
         english: end
         french: ''
         portuguese: ''
         spanish: cabo
         turkish: son
+
+examples:
+  - ladino: '"Sofo letav" kere dizir "kavo bueno ke tengamos"!!!.'
+  - ladino: Me vo kon ti al kavo del mundo.

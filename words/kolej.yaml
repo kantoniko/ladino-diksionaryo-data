@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1902'
 origen: Jeneral
+
 versions:
--   accented: kolej
+  - ladino: kolej
+
     alternative-spelling:
-    -   accented: lise
-        ladino: lise
-    ladino: kolej
+      - ladino: lise
+
     translations:
         english: high school
         french: ''
@@ -16,3 +16,5 @@ versions:
         turkish:
         - kolej
         - lise
+
+examples: []

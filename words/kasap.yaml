@@ -1,16 +1,20 @@
-examples: []
 grammar: null
 id: '536'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: kasap
+  - ladino: kasap
+
     alternative-spelling:
-    -   accented: karnesero
-        ladino: karnesero
-    ladino: kasap
+      - ladino: karnesero
+
     translations:
         english: butcher
         french: ''
         portuguese: ''
         spanish: carnicero
         turkish: kasap
+
+examples: []

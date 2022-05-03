@@ -1,16 +1,36 @@
-examples:
--   ladino: Izimos borekas de kezo i patata.
 grammar: null
 id: '565'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: kézo
+  - ladino: kezo
+    accented: kézo
+
     gender: masculine
-    ladino: kezo
     number: singular
+
     translations:
         english: cheese
         french: fromage
         portuguese: queijo
         spanish: queso
         turkish: peynir
+
+  - ladino: kezos
+    accented: kézos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cheeses
+        french: fromage
+        portuguese: queijos
+        spanish: quesos
+        turkish: peynir
+
+
+examples:
+  - ladino: Izimos borekas de kezo i patata.

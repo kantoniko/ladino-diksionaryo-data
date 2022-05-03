@@ -1,14 +1,18 @@
-examples:
--   ladino: Veniya a vijitarmos kada tadre a tomar el kafe kon la mama.
 grammar: null
 id: '2492'
 origen: Jeneral
+
 versions:
--   accented: kavé
+  - ladino: kave
+    accented: kavé
+
     alternative-spelling:
-    -   accented: kafé
-        ladino: kafe
-    ladino: kave
+      - ladino: kafe
+        accented: kafé
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - coffee
@@ -19,3 +23,6 @@ versions:
         turkish:
         - kahve
         - kahvehane
+
+examples:
+  - ladino: Veniya a vijitarmos kada tadre a tomar el kafe kon la mama.

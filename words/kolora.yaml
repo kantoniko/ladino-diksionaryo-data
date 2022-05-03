@@ -1,13 +1,14 @@
-examples:
--   ladino: Se inyervo muncho i se metyo en kolora.
 grammar: null
 id: '3009'
 origen: Jeneral
+
 versions:
--   accented: kolorá
+  - ladino: kolora
+    accented: kolorá
+
     gender: feminine
-    ladino: kolora
     number: singular
+
     translations:
         english:
         - anger
@@ -16,11 +17,12 @@ versions:
         - colère
         - courroux
         - emportement
-        portuguese:
-        - c&#7899;lera
-        - f&#7913;ia
+        portuguese: ''
         spanish: cólera
         turkish:
         - öfke
         - hiddet
         - kızgınlık
+
+examples:
+  - ladino: Se inyervo muncho i se metyo en kolora.

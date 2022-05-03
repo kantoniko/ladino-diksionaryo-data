@@ -1,15 +1,19 @@
-examples: []
 grammar: null
 id: '561'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: keshada
-    ladino: keshada
+  - ladino: keshada
+
     translations:
         english: chin
         french: ''
         portuguese: ''
         spanish:
         - barbilla
-        - mentón (m)
+        - mentón
         turkish: çene
+
+examples: []

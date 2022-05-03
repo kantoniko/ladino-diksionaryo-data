@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1917'
 origen: Jeneral
+
 versions:
--   accented: konfidensia
-    ladino: konfidensia
+  - ladino: konfidensia
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - confidence
@@ -15,3 +18,5 @@ versions:
         turkish:
         - sır
         - güven
+
+examples: []

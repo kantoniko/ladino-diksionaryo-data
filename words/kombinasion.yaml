@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '579'
 origen: Jeneral
+
 versions:
--   accented: kombinasion
-    ladino: kombinasion
+  - ladino: kombinasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: combination
         french: ''
         portuguese: ''
         spanish: combinación
         turkish: tertip
+
+  - ladino: kombinasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: combinations
+        french: ''
+        portuguese: ''
+        spanish: combinaciónes
+        turkish: tertip
+
+
+examples: []

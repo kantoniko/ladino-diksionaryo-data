@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '574'
 origen: Jeneral
+
 versions:
--   accented: kliente
-    ladino: kliente
+  - ladino: kliente
+
+    gender: masculine
+    number: singular
+
     translations:
         english: client
         french: ''
         portuguese: ''
         spanish: cliente
         turkish: müşteri
+
+  - ladino: klientes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: clients
+        french: ''
+        portuguese: ''
+        spanish: clientes
+        turkish: müşteri
+
+
+examples: []

@@ -1,11 +1,14 @@
-examples:
--   ladino: Lo ke le dishe, lo tomo por la kola.
 grammar: null
 id: '2496'
 origen: Jeneral
+
 versions:
--   accented: kóla
-    ladino: kola
+  - ladino: kola
+    accented: kóla
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - tail
@@ -17,3 +20,6 @@ versions:
         turkish:
         - kuyruk
         - sıra
+
+examples:
+  - ladino: Lo ke le dishe, lo tomo por la kola.

@@ -1,16 +1,16 @@
-examples:
--   ladino: 'Ya me se izo kayo.
-
-        '
 grammar: null
 id: '2317'
 origen: Jeneral
+
 versions:
--   accented: kayo
-    ladino: kayo
+  - ladino: kayo
+
     translations:
         english: corn (in foot)
         french: ''
         portuguese: ''
         spanish: callo
         turkish: nasır
+
+examples:
+  - ladino: Ya me se izo kayo.

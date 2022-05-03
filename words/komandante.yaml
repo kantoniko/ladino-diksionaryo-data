@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1904'
 origen: Jeneral
+
 versions:
--   accented: komandante
-    ladino: komandante
+  - ladino: komandante
+
+    gender: masculine
+    number: singular
+
     translations:
         english: commander
         french: ''
         portuguese: ''
         spanish: comandante
         turkish: kumandan
+
+  - ladino: komandantes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: commanders
+        french: ''
+        portuguese: ''
+        spanish: comandantes
+        turkish: kumandan
+
+
+examples: []
