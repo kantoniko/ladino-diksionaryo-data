@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1340'
 origen: Jeneral
+
 versions:
--   accented: giador
-    ladino: giador
+  - ladino: giador
+
+    gender: masculine
+    number: singular
+
     translations:
         english: guide
         french: ''
@@ -13,3 +16,16 @@ versions:
         turkish:
         - rehber
         - lıder
+
+  - ladino: giadora
+
+    translations:
+        english: guide
+        french: ''
+        portuguese: ''
+        spanish: guía
+        turkish:
+        - rehber
+        - lıder
+
+examples: []

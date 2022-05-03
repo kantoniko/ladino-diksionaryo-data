@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1869'
 origen: Jeneral
+
 versions:
--   accented: insidente
-    ladino: insidente
+  - ladino: insidente
+
+    gender: masculine
+    number: singular
+
     translations:
         english: incident
         french: ''
         portuguese: ''
         spanish: incidente
         turkish: olay (önemsiz)
+
+  - ladino: insidentes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: incidents
+        french: ''
+        portuguese: ''
+        spanish: incidentes
+        turkish: olay (önemsiz)
+
+
+examples: []

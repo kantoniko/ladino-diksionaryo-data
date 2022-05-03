@@ -1,12 +1,11 @@
-examples:
--   ladino: "En el \"Instituto Cervantes\" de Estanbol, ay kursos para los sefaradim.\
-        \ \n\n"
 grammar: null
 id: '2476'
 origen: Jeneral
+
 versions:
--   accented: institúto
-    ladino: instituto
+  - ladino: instituto
+    accented: institúto
+
     translations:
         english: institute
         french: ''
@@ -15,3 +14,19 @@ versions:
         turkish:
         - enstitü
         - müessese
+
+  - ladino: institutos
+    accented: institútos
+
+    translations:
+        english: institutes
+        french: ''
+        portuguese: ''
+        spanish: institutos
+        turkish:
+        - enstitü
+        - müessese
+
+
+examples:
+  - ladino: En el "Instituto Cervantes" de Estanbol, ay kursos para los sefaradim.

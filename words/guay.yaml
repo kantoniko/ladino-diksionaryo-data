@@ -1,20 +1,13 @@
-comments:
-- 'grammar: interj.'
-examples:
--   ladino: 'Guay de mi!
-
-        Guay de la madre ke me parió!
-
-        Ay! ke no ay! Ke si de lo ke no ay aviya, Ay! no aviya!'
 grammar: null
 id: '2822'
 origen: Jeneral
+
 versions:
--   accented: Guay!
+  - ladino: Guay!
+
     alternative-spelling:
-    -   accented: Ay!
-        ladino: Ay!
-    ladino: Guay!
+      - ladino: Ay!
+
     translations:
         english:
         - Alas!
@@ -25,3 +18,8 @@ versions:
         turkish:
         - Ah!
         - Vah!
+
+examples:
+  - ladino: Guay de mi!
+  - ladino: Guay de la madre ke me parió!
+  - ladino: Ay! ke no ay! Ke si de lo ke no ay aviya, Ay! no aviya!

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '543'
 origen: Jeneral
+
 versions:
--   accented: kayentura
-    ladino: kayentura
+  - ladino: kayentura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: fever
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - ateş
         - hararet
+
+  - ladino: kayenturas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fevers
+        french: ''
+        portuguese: ''
+        spanish: fiebres
+        turkish:
+        - ateş
+        - hararet
+
+
+examples: []

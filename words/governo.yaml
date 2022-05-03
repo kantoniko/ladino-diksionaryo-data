@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1841'
 origen: Jeneral
+
 versions:
--   accented: governo
-    ladino: governo
+  - ladino: governo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: government
         french: ''
         portuguese: ''
         spanish: gobierno
         turkish: hükûmet
+
+examples: []

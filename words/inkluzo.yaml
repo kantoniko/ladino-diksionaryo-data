@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '488'
 origen: Jeneral
+
 versions:
--   accented: inkluzo
-    ladino: inkluzo
+  - ladino: inkluzo
+
     translations:
         english: included
         french: ''
@@ -13,3 +13,5 @@ versions:
         - incluso
         - incluido
         turkish: dahil
+
+examples: []

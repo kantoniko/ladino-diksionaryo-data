@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Para byen no puede, para mal se hadra. (Neh.)
 grammar: verb
 id: '3003'
 origen: Salonik
+
 versions:
--   accented: hadrárse
-    ladino: hadrarse
+  - ladino: hadrarse
+    accented: hadrárse
+
     translations:
         english:
         - jostle
@@ -17,3 +16,7 @@ versions:
         turkish:
         - çabalama
         - debelenme
+
+conjugations: {}
+examples:
+  - ladino: Para byen no puede, para mal se hadra. (Neh.)

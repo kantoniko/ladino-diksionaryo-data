@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '471'
 origen: Jeneral
+
 versions:
--   accented: guzano
-    ladino: guzano
+  - ladino: guzano
+
+    gender: masculine
+    number: singular
+
     translations:
         english: worm
         french: ''
         portuguese: ''
         spanish: gusano
         turkish: solucan
+
+  - ladino: guzanos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: worms
+        french: ''
+        portuguese: ''
+        spanish: gusanos
+        turkish: solucan
+
+
+examples: []

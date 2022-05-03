@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1849'
 origen: Jeneral
+
 versions:
--   accented: iluzion
-    ladino: iluzion
+  - ladino: iluzion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: illusion
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - hayal
         - düş
+
+examples: []

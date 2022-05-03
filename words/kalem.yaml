@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '513'
 origen: Jeneral
+
 versions:
--   accented: kalem
-    ladino: kalem
+  - ladino: kalem
+
+    gender: masculine
+    number: singular
+
     translations:
         english: pencil
         french: ''
         portuguese: ''
         spanish: lápiz
         turkish: kurşun kalem
+
+  - ladino: kalemes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: pencils
+        french: ''
+        portuguese: ''
+        spanish: lápizes
+        turkish: kurşun kalem
+
+
+examples: []

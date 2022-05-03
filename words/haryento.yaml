@@ -1,10 +1,14 @@
-examples: []
 grammar: adjective
 id: '2718'
 origen: Izmir
+
 versions:
--   accented: haryénto
-    ladino: haryento
+  - ladino: haryento
+    accented: haryénto
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - worm-eaten
@@ -18,3 +22,5 @@ versions:
         - kurtlu
         - böcekli
         - çürümüş
+
+examples: []

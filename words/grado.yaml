@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '462'
 origen: Jeneral
+
 versions:
--   accented: grado
-    ladino: grado
+  - ladino: grado
+
+    gender: masculine
+    number: singular
+
     translations:
         english: grade
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - kadem
         - rütbe
+
+  - ladino: grados
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: grades
+        french: ''
+        portuguese: ''
+        spanish: escalafónes
+        turkish:
+        - kadem
+        - rütbe
+
+
+examples: []

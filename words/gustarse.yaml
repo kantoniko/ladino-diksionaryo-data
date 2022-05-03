@@ -1,14 +1,19 @@
-examples:
--   ladino: Mos gustimos de ver ke merkaron una kaza muy ermoza.
-grammar: null
+grammar: verb
 id: '2469'
 origen: Jeneral
+
 versions:
--   accented: gustárse
-    ladino: gustarse
+  - ladino: gustarse
+    accented: gustárse
+
     translations:
         english: rejoice
         french: ''
         portuguese: ''
         spanish: alegrarse
         turkish: sevinmek
+
+conjugations: {}
+
+examples:
+  - ladino: Mos gustimos de ver ke merkaron una kaza muy ermoza.

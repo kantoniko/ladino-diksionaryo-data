@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '494'
 origen: Jeneral
+
 versions:
--   accented: investigasion
-    ladino: investigasion
+  - ladino: investigasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: investigation
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - araştırma
         - tahkik
+
+examples: []

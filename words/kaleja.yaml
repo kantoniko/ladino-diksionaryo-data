@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1363'
 origen: Jeneral
+
 versions:
--   accented: kaleja
-    ladino: kaleja
+  - ladino: kaleja
+
+    gender: feminine
+    number: singular
+
     translations:
         english: street
         french: ''
         portuguese: ''
         spanish: calleja
         turkish: sokak
+
+  - ladino: kalejas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: streets
+        french: ''
+        portuguese: ''
+        spanish: callejas
+        turkish: sokak
+
+
+examples: []

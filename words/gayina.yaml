@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '455'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: gayina
-    ladino: gayina
+  - ladino: gayina
+
+    gender: feminine
+    number: singular
+
     translations:
         english: hen
         french: ''
         portuguese: ''
         spanish: gallina
         turkish: tavuk
+
+  - ladino: gayinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: hen
+        french: ''
+        portuguese: ''
+        spanish: gallinas
+        turkish: tavuk
+
+
+examples: []

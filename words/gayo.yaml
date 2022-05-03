@@ -1,13 +1,33 @@
-examples: []
 grammar: null
 id: '457'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: gayo
-    ladino: gayo
+  - ladino: gayo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: cock
         french: ''
         portuguese: ''
         spanish: gallo
         turkish: horoz
+
+  - ladino: gayos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cocks
+        french: ''
+        portuguese: ''
+        spanish: gallos
+        turkish: horoz
+
+
+examples: []

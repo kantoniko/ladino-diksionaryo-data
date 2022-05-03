@@ -1,16 +1,34 @@
-examples:
--   ladino: Las rompiyamos para goler el guesmo del pino.
 grammar: null
 id: '2866'
 origen: Jeneral
+
 versions:
--   accented: guésmo
+  - ladino: guesmo
+    accented: guésmo
+
     gender: masculine
-    ladino: guesmo
     number: singular
+
     translations:
         english: smell
         french: ''
         portuguese: ''
         spanish: olor
         turkish: koku
+
+  - ladino: guesmos
+    accented: guésmos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: smells
+        french: ''
+        portuguese: ''
+        spanish: olores
+        turkish: koku
+
+
+examples:
+  - ladino: Las rompiyamos para goler el guesmo del pino.

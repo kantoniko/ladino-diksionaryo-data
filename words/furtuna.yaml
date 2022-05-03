@@ -1,13 +1,14 @@
-examples:
--   ladino: Ay furtuna en la mar.
 grammar: null
 id: '2951'
 origen: Estanbol
+
 versions:
--   accented: furtúna
+  - ladino: furtuna
+    accented: furtúna
+
     gender: feminine
-    ladino: furtuna
     number: singular
+
     translations:
         english: storm
         french:
@@ -18,3 +19,6 @@ versions:
         - tormenta
         - tempesta
         turkish: fırtına
+
+examples:
+  - ladino: Ay furtuna en la mar.

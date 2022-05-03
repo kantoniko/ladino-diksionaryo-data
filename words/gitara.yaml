@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '460'
 origen: Jeneral
+
 versions:
--   accented: gitara
-    ladino: gitara
+  - ladino: gitara
+
+    gender: feminine
+    number: singular
+
     translations:
         english: guitar
         french: ''
         portuguese: ''
         spanish: guitarra
         turkish: gitar
+
+  - ladino: gitaras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: guitars
+        french: ''
+        portuguese: ''
+        spanish: guitarras
+        turkish: gitar
+
+
+examples: []

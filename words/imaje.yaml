@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '479'
 origen: Jeneral
+
 versions:
--   accented: imaje
-    ladino: imaje
+  - ladino: imaje
+
+    gender: feminine
+    number: singular
+
     translations:
         english: image
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - resim
         - tasvir
+
+  - ladino: imajes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: images
+        french: ''
+        portuguese: ''
+        spanish: imagenes
+        turkish:
+        - resim
+        - tasvir
+
+
+examples: []

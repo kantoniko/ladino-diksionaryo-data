@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '562'
 origen: Jeneral
+
 versions:
--   accented: kesharse
-    ladino: kesharse
+  - ladino: kesharse
+
     translations:
         english: complain
         french: ''
         portuguese: ''
         spanish: quejarse
         turkish: yakınmak
+
+examples: []

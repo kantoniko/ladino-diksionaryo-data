@@ -1,10 +1,14 @@
-examples: []
 grammar: null
-id: '1880'
+id: '1880,2794'
 origen: Jeneral
+
 versions:
--   accented: kanserya
-    ladino: kanserya
+  - ladino: kanserya
+    accented: kansérya
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - tiredness
@@ -14,4 +18,5 @@ versions:
         spanish: cansancio
         turkish: yorgunluk
 
-# kansérya (f),Estó muerta de kanserya.,cansancio,fatigue,yorgunluk,Jeneral,2794,,
+examples:
+  - ladino: Estó muerta de kanserya.
