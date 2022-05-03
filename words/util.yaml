@@ -1,0 +1,34 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: util
+
+    gender: both
+    number: singular
+
+    translations:
+      english: useful
+      french: ''
+      hebrew: שימושי
+      portuguese: ''
+      spanish: util
+      turkish: ''
+
+  - ladino: utiles
+
+    gender: both
+    number: plural
+
+    translations:
+      english: useful
+      french: ''
+      hebrew:
+       - שימושיים
+       - שימושיות
+      portuguese: ''
+      spanish: utiles
+      turkish: ''
+
+
+examples: []
