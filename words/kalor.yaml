@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '517'
 origen: Jeneral
+
 versions:
--   accented: kalor
-    ladino: kalor
+  - ladino: kalor
+
+    gender: feminine
+    number: singular
+
     translations:
         english: heat
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - hararet
         - sıcaklık
+
+  - ladino: kalores
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: heat
+        french: ''
+        portuguese: ''
+        spanish: calores
+        turkish:
+        - hararet
+        - sıcaklık
+
+
+examples: []

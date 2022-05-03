@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '508'
 origen: Jeneral
+
 versions:
--   accented: jeraniom
-    ladino: jeraniom
+  - ladino: jeraniom
+
     translations:
         english: geranium
         french: ''
         portuguese: ''
         spanish: geranio
         turkish: sardunya
+
+examples: []

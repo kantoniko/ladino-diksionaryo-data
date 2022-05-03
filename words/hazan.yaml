@@ -1,14 +1,17 @@
-examples:
--   ladino: Mas vale el hazan ke todo el kal. (Neh.)
 grammar: null
 id: '2472'
 origen: Jeneral
+
 versions:
--   accented: hazán
-    ladino: hazan
+  - ladino: hazan
+    accented: hazán
+
     translations:
         english: officiating rabbi
         french: ''
         portuguese: ''
         spanish: rabino oficiante
         turkish: görevli haham
+
+examples:
+  - ladino: Mas vale el hazan ke todo el kal. (Neh.)

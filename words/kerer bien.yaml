@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '559'
 origen: Jeneral
+
 versions:
--   accented: kerer bien
-    ladino: kerer bien
+  - ladino: kerer bien
+
     translations:
         english:
         - love
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: amar
         turkish: sevmek
+
+examples: []

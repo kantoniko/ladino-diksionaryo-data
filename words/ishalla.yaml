@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '505'
 origen: Jeneral
+
 versions:
--   accented: ishalla
-    ladino: ishalla
+  - ladino: ishalla
+
     translations:
         english: may God wish
         french: ''
         portuguese: ''
         spanish: Ojalá
         turkish: inşallah
+
+examples: []

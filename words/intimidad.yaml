@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '492'
 origen: Jeneral
+
 versions:
--   accented: intimidad
-    ladino: intimidad
+  - ladino: intimidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: intimacy
         french: ''
         portuguese: ''
         spanish: intimidad
         turkish: samimiyet
+
+examples: []

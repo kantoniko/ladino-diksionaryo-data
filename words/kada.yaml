@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '509'
 origen: Jeneral
+
 versions:
--   accented: kada
-    ladino: kada
+  - ladino: kada
+
     translations:
         english: every
         french: ''
         portuguese: ''
         spanish: cada
         turkish: her
+
+examples: []

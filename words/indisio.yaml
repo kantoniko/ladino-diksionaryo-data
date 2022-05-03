@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '483'
 origen: Jeneral
+
 versions:
--   accented: indisio
-    ladino: indisio
+  - ladino: indisio
+
+    gender: masculine
+    number: singular
+
     translations:
         english: clue
         french: ''
         portuguese: ''
         spanish: pista
         turkish: ipucu
+
+  - ladino: indisios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: clues
+        french: ''
+        portuguese: ''
+        spanish: pistas
+        turkish: ipucu
+
+
+examples: []

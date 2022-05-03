@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1873'
 origen: Jeneral
+
 versions:
--   accented: invitasion
-    ladino: invitasion
+  - ladino: invitasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: invitation
         french: ''
         portuguese: ''
         spanish: invitación
         turkish: dâvet
+
+  - ladino: invitasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: invitations
+        french: ''
+        portuguese: ''
+        spanish: invitaciónes
+        turkish: dâvet
+
+
+examples: []

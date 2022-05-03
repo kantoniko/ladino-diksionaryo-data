@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '529'
 origen: Jeneral
+
 versions:
--   accented: kapachi
-    ladino: kapachi
+  - ladino: kapachi
+
     translations:
         english: capable
         french: ''
         portuguese: ''
         spanish: capaz
         turkish: becerikli
+
+examples: []

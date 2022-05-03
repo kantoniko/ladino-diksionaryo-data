@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '491'
 origen: Jeneral
+
 versions:
--   accented: intestino
-    ladino: intestino
+  - ladino: intestino
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - intestine
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: intestino
         turkish: bağırsak
+
+examples: []

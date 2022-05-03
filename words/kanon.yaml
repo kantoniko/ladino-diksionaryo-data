@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '525'
 origen: Jeneral
+
 versions:
--   accented: kanon
-    ladino: kanon
+  - ladino: kanon
+
+    gender: masculine
+    number: singular
+
     translations:
         english: cannon
         french: ''
         portuguese: ''
         spanish: cañón
         turkish: top
+
+  - ladino: kanones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cannons
+        french: ''
+        portuguese: ''
+        spanish: cañónes
+        turkish: top
+
+
+examples: []

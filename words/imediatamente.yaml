@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '480'
 origen: Jeneral
+
 versions:
--   accented: imediatamente
-    ladino: imediatamente
+  - ladino: imediatamente
+
     translations:
         english: immediately
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - hemen
         - derhal
+
+examples: []

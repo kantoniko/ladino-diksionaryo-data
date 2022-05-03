@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '598'
 origen: Jeneral
+
 versions:
--   accented: konsekuensa
-    ladino: konsekuensa
+  - ladino: konsekuensa
+
+    gender: feminine
+    number: singular
+
     translations:
         english: consequence
         french: ''
         portuguese: ''
         spanish: consecuencia
         turkish: bir olayın sonucu
+
+  - ladino: konsekuensas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: consequences
+        french: ''
+        portuguese: ''
+        spanish: consecuencias
+        turkish: bir olayın sonucu
+
+
+examples: []

@@ -1,5 +1,5 @@
 grammar: null
-# verb noun
+# verb noun adjective
 origen: Ladinokomunita
 kategorias:
   - animales

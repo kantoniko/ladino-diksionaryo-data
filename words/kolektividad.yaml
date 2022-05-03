@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1374'
 origen: Jeneral
+
 versions:
--   accented: kolektividad
-    ladino: kolektividad
+  - ladino: kolektividad
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - whole
@@ -15,3 +18,21 @@ versions:
         turkish:
         - cemiyet
         - topluluk
+
+  - ladino: kolektividades
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - groups
+        french: ''
+        portuguese: ''
+        spanish: colectividades
+        turkish:
+        - cemiyet
+        - topluluk
+
+
+examples: []

@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '535'
 origen: Jeneral
+
 versions:
--   accented: karvon
-    ladino: karvon
+  - ladino: karvon
+
+    gender: masculine
+    number: singular
+
     translations:
         english: coal
         french: ''
         portuguese: ''
         spanish: carbón
         turkish: kömür
+
+examples: []

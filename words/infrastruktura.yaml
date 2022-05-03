@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '487'
 origen: Jeneral
+
 versions:
--   accented: infrastruktura
-    ladino: infrastruktura
+  - ladino: infrastruktura
+
+    gender: feminine
+    number: singular
+
     translations:
         english: infrastructure
         french: ''
         portuguese: ''
         spanish: infraestructura
         turkish: altyapı
+
+examples: []

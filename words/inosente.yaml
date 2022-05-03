@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '489'
 origen: Jeneral
+
 versions:
--   accented: inosente
-    ladino: inosente
+  - ladino: inosente
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: innocent
         french: ''
         portuguese: ''
         spanish: inocente
         turkish: masum
+
+  - ladino: inosentes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english: innocent
+        french: ''
+        portuguese: ''
+        spanish: inocentes
+        turkish: masum
+
+
+examples: []

@@ -1,16 +1,18 @@
-comments:
-- 'grammar: guevo) (adj.'
-examples:
--   ladino: Un dezayuno grande, kon boyos, burekas, guevos haminados, fritadas i frutas.
-grammar: null
+grammar: adjective
 id: '3001'
 origen: Jeneral
+
 versions:
--   accented: haminádo
-    ladino: haminado
+  - ladino: haminado
+    accented: haminádo
+
     translations:
         english: hard-boiled (egg)
         french: dur (oeuf)
         portuguese: ovo bem passado
         spanish: (huevo) duro
         turkish: katı (yumurta)
+
+examples:
+  - ladino: Un dezayuno grande, kon boyos, burekas, guevos haminados, fritadas i frutas.
+

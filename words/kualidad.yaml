@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1394'
 origen: Jeneral
+
 versions:
--   accented: kualidad
-    ladino: kualidad
+  - ladino: kualidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: quality
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - kalite
         - meziyet
+
+examples: []

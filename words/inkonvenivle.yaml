@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1867'
 origen: Jeneral
+
 versions:
--   accented: inkonvenivle
-    ladino: inkonvenivle
+  - ladino: inkonvenivle
+
     translations:
         english: inconvenient
         french: ''
         portuguese: ''
         spanish: inconveniente
         turkish: münasip olmayan
+
+examples: []

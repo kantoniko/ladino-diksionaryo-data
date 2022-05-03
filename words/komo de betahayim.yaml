@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1909'
 origen: Jeneral
+
 versions:
--   accented: komo de betahayim
-    ladino: komo de betahayim
+  - ladino: komo de betahayim
+
     translations:
         english: sepulchral
         french: ''
         portuguese: ''
         spanish: sepulcral
         turkish: mezardan çıkmıs gibi
+
+examples: []

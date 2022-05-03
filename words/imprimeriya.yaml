@@ -1,19 +1,24 @@
-examples:
--   ladino: Si Selim save la imprimeriya, o komo se puede enkomendar, ke mos eskriva.
 grammar: null
 id: '2845'
 origen: Jeneral
+
 versions:
--   accented: imprimeríya
+  - ladino: imprimeriya
+    accented: imprimeríya
+
     alternative-spelling:
-    -   accented: emprimeríya
-        ladino: emprimeriya
+      - ladino: emprimeriya
+        accented: emprimeríya
+
     gender: feminine
-    ladino: imprimeriya
     number: singular
+
     translations:
         english: printing-house
         french: ''
         portuguese: ''
         spanish: imprenta
         turkish: matbaa
+
+examples:
+  - ladino: Si Selim save la imprimeriya, o komo se puede enkomendar, ke mos eskriva.
