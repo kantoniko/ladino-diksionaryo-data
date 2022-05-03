@@ -1,13 +1,14 @@
-examples:
--   ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
 grammar: null
 id: '2970'
 origen: Jeneral
+
 versions:
--   accented: kampána
+  - ladino: kampana
+    accented: kampána
+
     gender: feminine
-    ladino: kampana
     number: singular
+
     translations:
         english: bell
         french: cloche
@@ -16,3 +17,6 @@ versions:
         turkish:
         - çan
         - kampana
+
+examples:
+  - ladino: A las ocho de la demanyana, la kampana de la eglisya sona.

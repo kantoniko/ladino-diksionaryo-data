@@ -1,16 +1,19 @@
-examples:
--   ladino: En el kruzero al Pasifiko, estuvimos en una kamara por dos personas.
 grammar: null
 id: '1877'
 origen: Jeneral
+
 versions:
--   accented: kamara
+  - ladino: kamara
+
     gender: feminine
-    ladino: kamara
     number: singular
+
     translations:
         english: cabin
         french: cabine
         portuguese: cabine
         spanish: cabina
         turkish: kabin
+
+examples:
+  - ladino: En el kruzero al Pasifiko, estuvimos en una kamara por dos personas.

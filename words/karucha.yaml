@@ -1,16 +1,34 @@
-examples:
--   ladino: El otomobil tiene kuatro karuchas.
 grammar: null
 id: '2836'
 origen: Estanbol
+
 versions:
--   accented: karúcha
+  - ladino: karucha
+    accented: karúcha
+
     gender: feminine
-    ladino: karucha
     number: singular
+
     translations:
         english: wheel
         french: ''
         portuguese: ''
         spanish: rueda
         turkish: tekerlek
+
+  - ladino: karuchas
+    accented: karúchas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: wheels
+        french: ''
+        portuguese: ''
+        spanish: ruedas
+        turkish: tekerlek
+
+
+examples:
+  - ladino: El otomobil tiene kuatro karuchas.

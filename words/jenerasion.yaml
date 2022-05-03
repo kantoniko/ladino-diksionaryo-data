@@ -1,14 +1,32 @@
-examples:
--   ladino: Se prestan maraviyozamente a edukar a las muevas jenerasiones.
 grammar: null
 id: '9'
 origen: Jeneral
+
 versions:
--   accented: jenerasion
-    ladino: jenerasion
+  - ladino: jenerasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: generation
         french: ''
         portuguese: ''
         spanish: generación
         turkish: nesil
+
+  - ladino: jenerasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: generations
+        french: ''
+        portuguese: ''
+        spanish: generaciónes
+        turkish: nesil
+
+
+examples:
+  - ladino: Se prestan maraviyozamente a edukar a las muevas jenerasiones.

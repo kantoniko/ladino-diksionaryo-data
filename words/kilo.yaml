@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '566'
 origen: Jeneral
+
 versions:
--   accented: kilo
-    ladino: kilo
+  - ladino: kilo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: kilo
         french: ''
         portuguese: ''
         spanish: kilo
         turkish: kilo
+
+  - ladino: kilos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: kilos
+        french: ''
+        portuguese: ''
+        spanish: kilos
+        turkish: kilo
+
+
+examples: []

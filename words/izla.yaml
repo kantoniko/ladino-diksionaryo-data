@@ -1,19 +1,42 @@
-examples:
--   ladino: Lo tuve un mez en mi kaza en la izla de Burgaz.
 grammar: null
 id: '1359'
 origen: Jeneral
+
 versions:
--   accented: ízla
+  - ladino: izla
+    accented: ízla
+
     alternative-spelling:
-    -   accented: ísla
-        ladino: isla
+      - ladino: isla
+        accented: ísla
+
     gender: feminine
-    ladino: izla
     number: singular
+
     translations:
         english: island
         french: ''
         portuguese: ''
         spanish: isla
         turkish: ada
+
+  - ladino: izlas
+    accented: ízlas
+
+    alternative-spelling:
+      - ladino: islas
+        accented: íslas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: islands
+        french: ''
+        portuguese: ''
+        spanish: islas
+        turkish: ada
+
+
+examples:
+  - ladino: Lo tuve un mez en mi kaza en la izla de Burgaz.

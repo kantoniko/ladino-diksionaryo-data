@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1921'
 origen: Jeneral
+
 versions:
--   accented: konkluzion
-    ladino: konkluzion
+  - ladino: konkluzion
+
+    gender:  feminine
+    number: singular
+
     translations:
         english: conclusion
         french: ''
         portuguese: ''
         spanish: conclusión
         turkish: sonuç
+
+  - ladino: konkluziones
+
+    gender:  feminine
+    number: plural
+
+    translations:
+        english: conclusions
+        french: ''
+        portuguese: ''
+        spanish: conclusiónes
+        turkish: sonuç
+
+
+examples: []

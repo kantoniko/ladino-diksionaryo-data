@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '528'
 origen: Jeneral
+
 versions:
--   accented: kanton
-    ladino: kanton
+  - ladino: kanton
+
     translations:
         english: corner
         french: ''
         portuguese: ''
         spanish: rincón
         turkish: iç köşe
+
+examples: []

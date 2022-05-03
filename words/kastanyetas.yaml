@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '538'
 origen: Jeneral
+
 versions:
--   accented: kastanyetas
-    ladino: kastanyetas
+  - ladino: kastanyetas
+
+    gender: feminine
+    number: plural
+
     translations:
         english: castanets
         french: ''
         portuguese: ''
         spanish: castañuelas
         turkish: kastanyet
+
+examples: []

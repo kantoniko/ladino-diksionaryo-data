@@ -1,11 +1,14 @@
-examples:
--   ladino: Ke tengan todos kaminos de leche i miel i al vermos.
 grammar: null
 id: '2486'
 origen: Jeneral
+
 versions:
--   accented: kamíno
-    ladino: kamino
+  - ladino: kamino
+    accented: kamíno
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - road
@@ -14,3 +17,21 @@ versions:
         portuguese: ''
         spanish: camino
         turkish: yol
+
+  - ladino: kaminos
+    accented: kamínos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - roads
+        - ways
+        french: ''
+        portuguese: ''
+        spanish: caminos
+        turkish: yol
+
+examples:
+  - ladino: Ke tengan todos kaminos de leche i miel i al vermos.

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '577'
 origen: Jeneral
+
 versions:
--   accented: koloniya
-    ladino: koloniya
+  - ladino: koloniya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: colony
         french: ''
         portuguese: ''
         spanish: colonia
         turkish: müstemleke
+
+  - ladino: koloniyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: colonies
+        french: ''
+        portuguese: ''
+        spanish: colonias
+        turkish: müstemleke
+
+
+examples: []

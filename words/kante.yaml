@@ -1,11 +1,14 @@
-examples:
--   ladino: Sintimos muchos kantes en djudeo-espanyol.
 grammar: null
 id: '2488'
 origen: Jeneral
+
 versions:
--   accented: kánte
-    ladino: kante
+  - ladino: kante
+    accented: kánte
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - singing
@@ -16,3 +19,24 @@ versions:
         turkish:
         - şarkı
         - türkü
+
+  - ladino: kantes
+    accented: kántes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - singing
+        - popular song
+        french: ''
+        portuguese: ''
+        spanish: cantes
+        turkish:
+        - şarkı
+        - türkü
+
+
+examples:
+  - ladino: Sintimos muchos kantes en djudeo-espanyol.

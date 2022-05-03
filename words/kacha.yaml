@@ -1,26 +1,27 @@
-examples:
--   ladino: La kacha del livro es un blu vibrante.
 grammar: null
 id: '2977'
 origen: Jeneral
+
 versions:
--   accented: kácha
+  - ladino: kacha
+    accented: kácha
+
     gender: feminine
-    ladino: kacha
     number: singular
+
     translations:
         english:
-        - cover (of book
-        - etc.)
+        - cover (of book)
         french:
-        - couverture (de livre
-        - jacquette etc.) étui
+        - couverture (de livre jacquette etc.) étui
         portuguese: capa
         spanish:
         - portado (de periódico)
         - tapa (de libro)
         turkish:
-        - kapak (kitap
-        - v.s.)
+        - kapak (kitap - v.s.)
         - kın
         - kılıf
+
+examples:
+  - ladino: La kacha del livro es un blu vibrante.

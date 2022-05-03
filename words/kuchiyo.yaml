@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '635'
 origen: Jeneral
+
 versions:
--   accented: kuchiyo
-    ladino: kuchiyo
+  - ladino: kuchiyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: knife
         french: ''
         portuguese: ''
         spanish: cuchillo
         turkish: bıçak
+
+  - ladino: kuchiyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: knifes
+        french: ''
+        portuguese: ''
+        spanish: cuchillos
+        turkish: bıçak
+
+
+examples: []
