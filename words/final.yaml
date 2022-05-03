@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '423'
 origen: Jeneral
+
 versions:
--   accented: final
-    ladino: final
+  - ladino: final
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - final
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: final
         turkish: son
+
+  - ladino: finales
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - final
+        - end
+        french: ''
+        portuguese: ''
+        spanish: finales
+        turkish: son
+
+
+examples: []

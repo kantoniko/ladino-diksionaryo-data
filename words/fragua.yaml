@@ -1,13 +1,14 @@
-examples:
--   ladino: La fragua mueva es komo un otel.
 grammar: null
 id: '2952'
 origen: Jeneral
+
 versions:
--   accented: frágua
+  - ladino: fragua
+    accented: frágua
+
     gender: feminine
-    ladino: fragua
     number: singular
+
     translations:
         english:
         - building
@@ -20,3 +21,26 @@ versions:
         turkish:
         - bina
         - inşaat
+
+  - ladino: fraguas
+    accented: fráguas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - buildings
+        - constructions
+        french:
+        - bâtisse
+        - bàtiment
+        portuguese: ''
+        spanish: construcciónes
+        turkish:
+        - bina
+        - inşaat
+
+
+examples:
+  - ladino: La fragua mueva es komo un otel.

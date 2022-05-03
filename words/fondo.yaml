@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '1824'
 origen: Jeneral
+
 versions:
--   accented: fondo
-    ladino: fondo
+  - ladino: fondo
+    accented: fondo
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - bottom
@@ -15,3 +19,24 @@ versions:
         turkish:
         - dip
         - fon
+
+  - ladino: fondos
+    accented: fondos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - bottom
+        - background
+        french: ''
+        portuguese: ''
+        spanish: fondos
+        turkish:
+        - dip
+        - fon
+
+
+
+examples: []

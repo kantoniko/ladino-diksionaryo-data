@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1833'
 origen: Jeneral
+
 versions:
--   accented: freno
-    ladino: freno
+  - ladino: freno
+
+    gender: masculine
+    number: singular
+
     translations:
         english: brake
         french: ''
         portuguese: ''
         spanish: freno
         turkish: fren
+
+  - ladino: frenos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: brakes
+        french: ''
+        portuguese: ''
+        spanish: frenos
+        turkish: fren
+
+
+examples: []

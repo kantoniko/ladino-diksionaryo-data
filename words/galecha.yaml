@@ -1,13 +1,14 @@
-examples:
--   ladino: Yevavamos galechas en el banyo.
 grammar: null
 id: '2908'
 origen: Jeneral
+
 versions:
--   accented: galécha
+  - ladino: galecha
+    accented: galécha
+
     gender: feminine
-    ladino: galecha
     number: singular
+
     translations:
         english: clog
         french: ''
@@ -16,3 +17,22 @@ versions:
         turkish:
         - nalın
         - takunya
+
+  - ladino: galechas
+    accented: galéchas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: clogs
+        french: ''
+        portuguese: ''
+        spanish: zuecas
+        turkish:
+        - nalın
+        - takunya
+
+
+examples:
+  - ladino: Yevavamos galechas en el banyo.

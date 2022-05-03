@@ -4,6 +4,8 @@ origen: Jeneral
 
 versions:
   - ladino: inisial
+    alternative-spelling:
+      - ladino: inisiala
 
     gender: feminine
     number: singular

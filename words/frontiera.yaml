@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '441'
 origen: Jeneral
+
 versions:
--   accented: frontiera
-    ladino: frontiera
+  - ladino: frontiera
+
+    gender: feminine
+    number: singular
+
     translations:
         english: frontier
         french: ''
         portuguese: ''
         spanish: frontera
         turkish: sınır
+
+  - ladino: frontieras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: frontiers
+        french: ''
+        portuguese: ''
+        spanish: fronteras
+        turkish: sınır
+
+
+examples: []

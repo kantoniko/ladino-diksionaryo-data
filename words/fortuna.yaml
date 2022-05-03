@@ -1,13 +1,14 @@
-examples:
--   ladino: La fortuna es por ken la perkura. (Neh.)
 grammar: null
 id: '2676'
 origen: Jeneral
+
 versions:
--   accented: fortúna
+  - ladino: fortuna
+    accented: fortúna
+
     gender: feminine
-    ladino: fortuna
     number: singular
+
     translations:
         english:
         - fortune
@@ -18,3 +19,6 @@ versions:
         turkish:
         - servet
         - şans
+
+examples:
+  - ladino: La fortuna es por ken la perkura. (Neh.)

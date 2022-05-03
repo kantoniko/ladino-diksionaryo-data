@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '432'
 origen: Jeneral
+
 versions:
--   accented: flota
-    ladino: flota
+  - ladino: flota
+
+    gender: feminine
+    number: singular
+
     translations:
         english: fleet
         french: ''
         portuguese: ''
         spanish: flota
         turkish: filo
+
+  - ladino: flotas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fleets
+        french: ''
+        portuguese: ''
+        spanish: flotas
+        turkish: filo
+
+
+examples: []

@@ -1,13 +1,45 @@
-examples: []
 grammar: null
 id: '452'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: garson
-    ladino: garson
+  - ladino: garson
+
+    gender: masculine
+    number: singular
+
     translations:
         english: waiter
         french: ''
         portuguese: ''
         spanish: camarero
         turkish: garson
+
+  - ladino: garsona
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: waitress
+        french: ''
+        portuguese: ''
+        spanish: camarera
+        turkish: garson
+
+  - ladino: garsones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: waiters
+        french: ''
+        portuguese: ''
+        spanish: camareros
+        turkish: garson
+
+
+examples: []

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '466'
 origen: Jeneral
+
 versions:
--   accented: grave
-    ladino: grave
+  - ladino: grave
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english:
         - grave
@@ -15,3 +18,22 @@ versions:
         turkish:
         - vahim
         - ciddî
+
+  - ladino: graves
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english:
+        - graves
+        - serious
+        french: ''
+        portuguese: ''
+        spanish: graves
+        turkish:
+        - vahim
+        - ciddî
+
+
+examples: []
