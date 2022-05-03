@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1365'
 origen: Jeneral
+
 versions:
--   accented: kapachedad
-    ladino: kapachedad
+  - ladino: kapachedad
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - capacity
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: capacidad
         turkish: beceri
+
+examples: []

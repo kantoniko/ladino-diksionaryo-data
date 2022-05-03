@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1899'
 origen: Jeneral
+
 versions:
--   accented: kilometro
-    ladino: kilometro
+  - ladino: kilometro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: kilometre
         french: ''
         portuguese: ''
         spanish: kilómetro
         turkish: kilometre
+
+  - ladino: kilometros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: kilometres
+        french: ''
+        portuguese: ''
+        spanish: kilómetros
+        turkish: kilometre
+
+
+examples: []

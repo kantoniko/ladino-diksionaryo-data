@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '605'
 origen: Jeneral
+
 versions:
--   accented: kontentarse
-    ladino: kontentarse
+  - ladino: kontentarse
+
     translations:
         english: manage
         french: ''
         portuguese: ''
         spanish: arreglarse
         turkish: idare etmek
+
+conjugations: {}
+
+examples: []

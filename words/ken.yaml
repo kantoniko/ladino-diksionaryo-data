@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '556'
 origen: Jeneral
+
 versions:
--   accented: ken
-    ladino: ken
+  - ladino: ken
+
     translations:
         english: who
         french: ''
         portuguese: ''
         spanish: quién
         turkish: kim
+
+examples: []

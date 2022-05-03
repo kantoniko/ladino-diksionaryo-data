@@ -1,10 +1,15 @@
-examples: []
 grammar: null
 id: '1368'
 origen: Jeneral
+kategorias:
+  - veikolos
+
 versions:
--   accented: karosa
-    ladino: karosa
+  - ladino: karosa
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - coach
@@ -13,3 +18,20 @@ versions:
         portuguese: ''
         spanish: carroza
         turkish: atlı araba
+
+  - ladino: karosas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - coaches
+        - carriages
+        french: ''
+        portuguese: ''
+        spanish: carrozas
+        turkish: atlı araba
+
+
+examples: []

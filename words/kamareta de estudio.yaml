@@ -1,13 +1,13 @@
-examples:
--   ladino: Empesimos a las 9:30 de la demanyana en una kamareta de estudio.
 grammar: null
 id: '1878'
 origen: Jeneral
+
 versions:
--   accented: kamareta de estudio
+  - ladino: kamareta de estudio
+
     gender: feminine
-    ladino: kamareta de estudio
     number: singular
+
     translations:
         english:
         - study
@@ -16,3 +16,6 @@ versions:
         portuguese: ''
         spanish: gabinete
         turkish: çalışma odası
+
+examples:
+  - ladino: Empesimos a las 9:30 de la demanyana en una kamareta de estudio.

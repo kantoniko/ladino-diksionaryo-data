@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '541'
 origen: Jeneral
+
 versions:
--   accented: kaye
-    ladino: kaye
+  - ladino: kaye
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - street
@@ -15,3 +18,22 @@ versions:
         turkish:
         - sokak
         - cadde
+
+  - ladino: kayes
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - streets
+        - roads
+        french: ''
+        portuguese: ''
+        spanish: calles
+        turkish:
+        - sokak
+        - cadde
+
+
+examples: []

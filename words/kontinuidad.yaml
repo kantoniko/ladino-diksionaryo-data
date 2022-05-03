@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1937'
 origen: Jeneral
+
 versions:
--   accented: kontinuidad
-    ladino: kontinuidad
+  - ladino: kontinuidad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: continuity
         french: ''
         portuguese: ''
         spanish: continuidad
         turkish: devam
+
+examples: []

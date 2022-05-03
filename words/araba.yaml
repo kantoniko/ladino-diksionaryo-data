@@ -1,10 +1,11 @@
 grammar: noun
-id: '2362'
+id: '2362,215'
 origen: Estanbol
 
 versions:
   - ladino: araba
     accented: arabá
+
     gender: feminine
     number: singular
 
@@ -21,4 +22,5 @@ versions:
 
 examples:
   - ladino: Un tiempo tomavamos "karosas" (araba o payton).
+  - ladino: Mos yevo al Bosfor kon su araba.
 

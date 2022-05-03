@@ -1,15 +1,36 @@
-examples:
--   ladino: Mos yevo al Bosfor kon su araba.
-# "kóche (m), arabá (f)",Mos yevo al Bosfor kon su araba.,coche,car,araba,Jeneral,215,,
 grammar: null
 id: '215'
 origen: Jeneral
+kategorias:
+  - veikolos
+
 versions:
--   accented: kóche
-    ladino: koche
+  - ladino: koche
+    accented: kóche
+
+    gender: masculine
+    number: singular
+
     translations:
         english: car
         french: ''
         portuguese: ''
         spanish: coche
         turkish: araba
+
+  - ladino: koches
+    accented: kóches
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cars
+        french: ''
+        portuguese: ''
+        spanish: coches
+        turkish: araba
+
+
+examples: []
+

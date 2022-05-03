@@ -1,16 +1,22 @@
-examples:
--   ladino: La koyadura era un poko mas grande de la sardela i de karne muy blanda.
 grammar: null
 id: '2883'
 origen: Estanbol
+kategorias:
+  - komidas
+
 versions:
--   accented: koyadúra
+  - ladino: koyadura
+    accented: koyadúra
+
     gender: feminine
-    ladino: koyadura
     number: singular
+
     translations:
         english: salted anchovy (colatura)
         french: anchois salés
         portuguese: ''
         spanish: anchoa salada
         turkish: tuzlanmış hamsi
+
+examples:
+  - ladino: La koyadura era un poko mas grande de la sardela i de karne muy blanda.

@@ -1,16 +1,22 @@
-examples:
--   ladino: Me se alevantaron los kaveyos de la kavesa.
 grammar: null
 id: '1894'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: kavéyo
+  - ladino: kaveyo
+    accented: kavéyo
+
     gender: masculine
-    ladino: kaveyo
     number: singular
+
     translations:
         english: hair
         french: ''
         portuguese: ''
         spanish: cabello
         turkish: saç
+
+examples:
+  - ladino: Me se alevantaron los kaveyos de la kavesa.

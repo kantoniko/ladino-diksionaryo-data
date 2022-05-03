@@ -1,11 +1,14 @@
-examples:
--   ladino: Estas palavras me sonan komo un kanto.
 grammar: null
 id: '2489'
 origen: Jeneral
+
 versions:
--   accented: kánto
-    ladino: kanto
+  - ladino: kanto
+    accented: kánto
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - chant
@@ -16,3 +19,24 @@ versions:
         turkish:
         - şarkı
         - dinî ezgi
+
+  - ladino: kantos
+    accented: kántos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - chants
+        - songs
+        french: ''
+        portuguese: ''
+        spanish: cantos
+        turkish:
+        - şarkı
+        - dinî ezgi
+
+
+examples:
+  - ladino: Estas palavras me sonan komo un kanto.
