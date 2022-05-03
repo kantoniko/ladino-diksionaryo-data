@@ -15,7 +15,9 @@ versions:
         english: pineapple
         french: ''
         hebrew: אננס
-        portuguese: ''
+        portuguese:
+          - abacaxi
+          - ananás
         spanish: piña tropical
         turkish: ananas
 
