@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: Ladinokomunita
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      english: Ladino community
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
