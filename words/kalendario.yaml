@@ -14,7 +14,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: calendario
-      turkish: ''
+      turkish: takvim
 
   - ladino: kalendarios
 
@@ -27,7 +27,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: calendarios
-      turkish: ''
+      turkish: takvimler
 
 
 examples: []

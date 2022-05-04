@@ -21,7 +21,7 @@ versions:
 
   - ladino: gaynas
 
-    gender: feminine 
+    gender: feminine
     number: plural
 
     translations:
@@ -32,6 +32,6 @@ versions:
         hebrew: תרנגולות
         portuguese: ''
         spanish: pollos
-        turkish: ''
+        turkish: tavuklar
 
 examples: []

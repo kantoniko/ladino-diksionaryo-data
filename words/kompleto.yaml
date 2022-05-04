@@ -13,7 +13,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: completo
-      turkish: ''
+      turkish: tamamlandı
 
   - ladino: kompleta
 
@@ -26,7 +26,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: completa
-      turkish: ''
+      turkish: tamamlandı
 
   - ladino: kompletos
 
@@ -39,7 +39,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: completos
-      turkish: ''
+      turkish: tamamlandılar
 
   - ladino: kompletas
 
@@ -52,6 +52,6 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: completas
-      turkish: ''
+      turkish: tamamlandılar
 
 examples: []

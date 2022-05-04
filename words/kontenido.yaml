@@ -14,7 +14,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: contenido
-      turkish: ''
+      turkish: içerik
 
   - ladino: kontenidos
 
@@ -27,7 +27,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: contenidos
-      turkish: ''
+      turkish: içerikler
 
 
 examples: []

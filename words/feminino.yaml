@@ -13,7 +13,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: ''
-      turkish: ''
+      turkish: dişil
 
   - ladino: femininos
     gender: masculine
@@ -25,7 +25,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: ''
-      turkish: ''
+      turkish: dişiller
 
 
 examples: []

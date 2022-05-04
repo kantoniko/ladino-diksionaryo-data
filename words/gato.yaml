@@ -29,7 +29,7 @@ versions:
         hebrew: חתולים
         portuguese: ''
         spanish: gatos
-        turkish: ''
+        turkish: kediler
 
   - ladino: gatiko
     gender: masculine
@@ -41,7 +41,7 @@ versions:
         hebrew: ''
         portuguese: ''
         spanish: ''
-        turkish: ''
+        turkish: yavru kedi
 
 
 examples: []

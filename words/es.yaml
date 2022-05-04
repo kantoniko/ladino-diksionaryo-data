@@ -13,7 +13,9 @@ versions:
         portuguese: ''
         spanish:
         - es
-        turkish: ''
+        turkish:
+          - dır
+          - dir
 
 examples: []
 

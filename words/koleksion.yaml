@@ -13,7 +13,9 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: colección
-      turkish: ''
+      turkish:
+        - biriktirme
+        - koleksyon
 
   - ladino: koleksiones
 
@@ -26,7 +28,9 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: colecciónes
-      turkish: ''
+      turkish:
+        - biriktirmeler
+        - koleksyonlar
 
 
 examples: []

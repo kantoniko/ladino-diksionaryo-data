@@ -63,7 +63,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: estes
-        turkish: ''
+        turkish: varsınız
 
   - ladino: estos
     accented: éstos
@@ -91,7 +91,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: estas
-        turkish: ''
+        turkish: varsın
 
 examples:
   - ladino: En esto vamos a kedar? Avlaremos de otra koza.

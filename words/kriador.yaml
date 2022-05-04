@@ -14,7 +14,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: creador
-      turkish: ''
+      turkish: yaratıcı
 
   - ladino: kriadora
 
@@ -27,7 +27,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: creadora
-      turkish: ''
+      turkish: yaratıcı
 
   - ladino: kriadores
 
@@ -40,7 +40,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: creadores
-      turkish: ''
+      turkish: yaratıcılar
 
   - ladino: kriadoras
 
@@ -53,6 +53,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: creadoras
-      turkish: ''
+      turkish: yaratıcılar
 
 examples: []
+

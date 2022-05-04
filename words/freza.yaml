@@ -22,7 +22,7 @@ versions:
       hebrew: ''
       portuguese: morango
       spanish: fresa
-      turkish: ''
+      turkish: çilek
 
   - ladino: frezas
 
@@ -41,6 +41,6 @@ versions:
       hebrew: ''
       portuguese: morangos
       spanish: fresas
-      turkish: ''
+      turkish: çilekler
 
 examples: []

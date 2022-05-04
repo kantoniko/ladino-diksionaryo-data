@@ -8,6 +8,7 @@ versions:
 
     translations:
       english: format
+      turkish: biçim
 
   - ladino: formatos
     gender: masculine
@@ -15,6 +16,7 @@ versions:
 
     translations:
       english: formats
+      turkish: biçimler
 
 
 examples:

@@ -37,7 +37,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: escondidos
-        turkish: ''
+        turkish: gizlenmişler
 
   - ladino: eskondidas
     accented: eskondidas
@@ -49,6 +49,6 @@ versions:
         french: ''
         portuguese: ''
         spanish: escondidas
-        turkish: ''
+        turkish: gizlenmişler
 
 examples: []

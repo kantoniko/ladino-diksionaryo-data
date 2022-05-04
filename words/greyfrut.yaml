@@ -21,6 +21,8 @@ versions:
       spanish:
         - pomelo
         - toronja
-      turkish: ''
+      turkish:
+        - greyfrut
+        - altıntop
 
 examples: []

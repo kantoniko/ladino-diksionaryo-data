@@ -29,7 +29,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: compañera
-        turkish: ''
+        turkish: yoldaş
 
   - ladino: kompanyeros
     accented: kompanyeros
@@ -44,7 +44,7 @@ versions:
         spanish: compañeros
         turkish:
           - eş
-          - yoldaş
+          - yoldaşlar
 
   - ladino: kompanyeras
     accented: kompanyeras
@@ -57,7 +57,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: compañeras
-        turkish: ''
+        turkish: yoldaşlar
 
 
 examples: []

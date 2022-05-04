@@ -16,7 +16,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: comentario
-      turkish: ''
+      turkish: yorum
 
   - ladino: komentes
 
@@ -32,7 +32,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: comentarios
-      turkish: ''
+      turkish: yorumlar
 
 
 examples: []

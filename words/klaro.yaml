@@ -43,7 +43,7 @@ versions:
       hebrew: ברורים
       portuguese: ''
       spanish: claros
-      turkish: ''
+      turkish: aydınlık
 
   - ladino: klaras
     accented: klaras
@@ -56,7 +56,7 @@ versions:
       hebrew: ברורות
       portuguese: ''
       spanish: claras
-      turkish: ''
+      turkish: aydınlık
 
 examples:
   - ladino: Mersi muncho por tu repuesta muy klara.
