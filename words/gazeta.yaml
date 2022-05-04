@@ -1,16 +1,34 @@
-examples:
--   ladino: Kreygo ke el Forward es la mas popular gazeta djudia en los Estados Unidos.
 grammar: null
 id: '458'
 origen: Jeneral
+
 versions:
--   accented: gazéta
+  - ladino: gazeta
+    accented: gazéta
+
     gender: feminine
-    ladino: gazeta
     number: singular
+
     translations:
         english: newspaper
         french: journal
         portuguese: jornal
         spanish: periódico
         turkish: gazete
+
+  - ladino: gazetas
+    accented: gazétas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: newspapers
+        french: journal
+        portuguese: jornal
+        spanish: periódicos
+        turkish: gazete
+
+
+examples:
+  - ladino: Kreygo ke el Forward es la mas popular gazeta djudia en los Estados Unidos.

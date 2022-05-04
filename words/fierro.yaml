@@ -1,19 +1,42 @@
-examples:
--   ladino: Ijo de kriar, fierro de mashkar.
 grammar: null
 id: '415'
 origen: Jeneral
+
 versions:
--   accented: fiérro
+  - ladino: fierro
+    accented: fiérro
+
     alternative-spelling:
-    -   accented: fyérro
-        ladino: fyerro
+      - ladino: fyerro
+        accented: fyérro
+
     gender: masculine
-    ladino: fierro
     number: singular
+
     translations:
         english: iron
         french: fer
         portuguese: ferro
         spanish: hierro
         turkish: demir
+
+  - ladino: fierros
+    accented: fiérros
+
+    alternative-spelling:
+      - ladino: fyerros
+        accented: fyérros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: irons
+        french: fer
+        portuguese: ferros
+        spanish: hierros
+        turkish: demir
+
+
+examples:
+  - ladino: Ijo de kriar, fierro de mashkar.

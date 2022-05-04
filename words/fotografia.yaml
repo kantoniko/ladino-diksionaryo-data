@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1829'
 origen: Jeneral
+
 versions:
--   accented: fotografia
-    ladino: fotografia
+  - ladino: fotografia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: photo
         french: ''
         portuguese: ''
         spanish: fotografía
         turkish: fotograf
+
+  - ladino: fotografias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: photos
+        french: ''
+        portuguese: ''
+        spanish: fotografías
+        turkish: fotograf
+
+
+examples: []

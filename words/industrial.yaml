@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '484'
 origen: Jeneral
+
 versions:
--   accented: industrial
-    ladino: industrial
+  - ladino: industrial
+
     translations:
         english: industrial
         french: ''
         portuguese: ''
         spanish: industrial
         turkish: sınaî
+
+examples: []

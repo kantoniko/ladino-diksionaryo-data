@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1890'
 origen: Jeneral
+
 versions:
--   accented: karinyo
-    ladino: karinyo
+  - ladino: karinyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: affection
         french: ''
         portuguese: ''
         spanish: cariño
         turkish: şefkat
+
+  - ladino: karinyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: affections
+        french: ''
+        portuguese: ''
+        spanish: cariños
+        turkish: şefkat
+
+
+examples: []

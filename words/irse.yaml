@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '503'
 origen: Jeneral
+
 versions:
--   accented: irse
-    ladino: irse
+  - ladino: irse
+
     translations:
         english: go
         french: ''
         portuguese: ''
         spanish: andar
         turkish: gitmek
+
+conjugations: {}
+
+examples: []

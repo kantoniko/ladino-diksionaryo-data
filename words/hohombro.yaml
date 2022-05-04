@@ -1,12 +1,16 @@
-examples: []
 grammar: null
 id: '2716'
 origen: Izmir
+kategorias:
+  - zarzavates
+
 versions:
--   accented: hohómbro
+  - ladino: hohombro
+    accented: hohómbro
+
     gender: masculine
-    ladino: hohombro
     number: singular
+
     translations:
         english: cucumber
         french: ''
@@ -15,3 +19,5 @@ versions:
         turkish:
         - hıyar
         - salatalık
+
+examples: []

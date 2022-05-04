@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '427'
 origen: Jeneral
+
 versions:
--   accented: flama
-    ladino: flama
+  - ladino: flama
+
+    gender: feminine
+    number: singular
+
     translations:
         english: flame
         french: ''
         portuguese: ''
         spanish: llama
         turkish: alev
+
+  - ladino: flamas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: flames
+        french: ''
+        portuguese: ''
+        spanish: llamas
+        turkish: alev
+
+
+examples: []

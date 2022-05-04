@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '433'
 origen: Jeneral
+
 versions:
--   accented: fondasion
-    ladino: fondasion
+  - ladino: fondasion
+
+    gender: feminine
+    number: singular
+
     translations:
         english: foundation
         french: ''
         portuguese: ''
         spanish: fundación
         turkish: kuruluş
+
+  - ladino: fondasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: foundationes
+        french: ''
+        portuguese: ''
+        spanish: fundaciónes
+        turkish: kuruluş
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '419'
 origen: Jeneral
+
 versions:
--   accented: filozofia
-    ladino: filozofia
+  - ladino: filozofia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: philosophy
         french: ''
         portuguese: ''
         spanish: filosofía
         turkish: felsefe
+
+  - ladino: filozofias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: philosophies
+        french: ''
+        portuguese: ''
+        spanish: filosofías
+        turkish: felsefe
+
+
+examples: []

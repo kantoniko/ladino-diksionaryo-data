@@ -1,11 +1,14 @@
-examples:
--   ladino: Rogamos ke en el futuro mos eskrivas en Ladino.
 grammar: null
 id: '2459'
 origen: Jeneral
+
 versions:
--   accented: futúro
-    ladino: futuro
+  - ladino: futuro
+    accented: futúro
+
+    gender: masculine
+    number: singular
+
     translations:
         english: future
         french: ''
@@ -14,3 +17,22 @@ versions:
         turkish:
         - gelecek zaman
         - ati
+
+  - ladino: futuros
+    accented: futúros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: futures
+        french: ''
+        portuguese: ''
+        spanish: futuros
+        turkish:
+        - gelecek zaman
+        - ati
+
+
+examples:
+  - ladino: Rogamos ke en el futuro mos eskrivas en Ladino.

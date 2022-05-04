@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '468'
 origen: Jeneral
+
 versions:
--   accented: guerta
-    ladino: guerta
+  - ladino: guerta
+
+    gender: feminine
+    number: singular
+
     translations:
         english: small garden
         french: ''
         portuguese: ''
         spanish: huerto
         turkish: küçük bahçe
+
+  - ladino: guertas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: small gardens
+        french: ''
+        portuguese: ''
+        spanish: huertos
+        turkish: küçük bahçe
+
+
+examples: []

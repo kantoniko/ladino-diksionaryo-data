@@ -1,17 +1,60 @@
-examples:
--   ladino: La gramatika tiene reglas fiksas para el uzo de las palavras.
 grammar: adjective
 id: '417'
 origen: Jeneral
 versions:
--   accented: fíkso
-    alternative-spelling:
-    -   accented: fíksa
-        ladino: fiksa
-    ladino: fikso
+  - ladino: fikso
+    accented: fíkso
+
+    gender: masculine
+    number: singular
+
     translations:
         english: fixed
         french: ''
         portuguese: ''
         spanish: fijo
         turkish: sabit
+
+  - ladino: fiksa
+    accented: fíksa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: fixed
+        french: ''
+        portuguese: ''
+        spanish: fija
+        turkish: sabit
+
+  - ladino: fiksos
+    accented: fíksos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fixed
+        french: ''
+        portuguese: ''
+        spanish: fijos
+        turkish: sabit
+
+  - ladino: fiksas
+    accented: fíksas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: fixed
+        french: ''
+        portuguese: ''
+        spanish: fijas
+        turkish: sabit
+
+
+
+examples:
+  - ladino: La gramatika tiene reglas fiksas para el uzo de las palavras.

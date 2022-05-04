@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '428'
 origen: Jeneral
+
 versions:
--   accented: flecha
-    ladino: flecha
+  - ladino: flecha
+
+    gender: feminine
+    number: singular
+
     translations:
         english: arrow
         french: ''
         portuguese: ''
         spanish: flecha
         turkish: ok
+
+  - ladino: flechas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: arrows
+        french: ''
+        portuguese: ''
+        spanish: flechas
+        turkish: ok
+
+
+examples: []

@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '443'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: frutero
-    ladino: frutero
+  - ladino: frutero
+
+    gender: masculine
+    number: singular
+
     translations:
         english: fruit seller
         french: ''
         portuguese: ''
         spanish: frutería
         turkish: meyvaci
+
+examples: []
