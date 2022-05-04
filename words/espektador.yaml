@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '372'
 origen: Jeneral
+
 versions:
--   accented: espektador
-    ladino: espektador
+  - ladino: espektador
+
+    gender: masculine
+    number: singular
+
     translations:
         english: spectator
         french: ''
         portuguese: ''
         spanish: espectador
         turkish: seyirci
+
+  - ladino: espektadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: spectators
+        french: ''
+        portuguese: ''
+        spanish: espectadores
+        turkish: seyirci
+
+
+examples: []

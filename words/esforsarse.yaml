@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '351'
 origen: Jeneral
+
 versions:
--   accented: esforsarse
-    ladino: esforsarse
+  - ladino: esforsarse
+
     translations:
         english:
         - strain
@@ -15,3 +15,7 @@ versions:
         turkish:
         - çabalamak
         - gayret etmek
+
+conjugations: {}
+
+examples: []

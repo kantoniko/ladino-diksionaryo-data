@@ -1,14 +1,34 @@
-examples:
--   ladino: Azen esforsos para no abandonar el folklor i la lingua de los avuelos.
 grammar: null
 id: '2455'
 origen: Jeneral
+
 versions:
--   accented: folklór
-    ladino: folklor
+  - ladino: folklor
+    accented: folklór
+
+    gender: masculine
+    number: singular
+
     translations:
         english: folklore
         french: ''
         portuguese: ''
         spanish: folklore
         turkish: folklor
+
+  - ladino: folklores
+    accented: folklóres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: folklores
+        french: ''
+        portuguese: ''
+        spanish: folklores
+        turkish: folklor
+
+
+examples:
+  - ladino: Azen esforsos para no abandonar el folklor i la lingua de los avuelos.

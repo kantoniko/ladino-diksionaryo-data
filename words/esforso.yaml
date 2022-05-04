@@ -1,10 +1,14 @@
-examples: []
 grammar: null
 id: '1318'
 origen: Jeneral
+
 versions:
--   accented: esforso
-    ladino: esforso
+  - ladino: esforso
+    accented: esforso
+
+    gender: masculine
+    number: singular
+
     translations:
         english: effort
         french: ''
@@ -13,3 +17,21 @@ versions:
         turkish:
         - gayret
         - çaba
+
+  - ladino: esforsos
+    accented: esforsos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: efforts
+        french: ''
+        portuguese: ''
+        spanish: esfuerzos
+        turkish:
+        - gayret
+        - çaba
+
+
+examples: []

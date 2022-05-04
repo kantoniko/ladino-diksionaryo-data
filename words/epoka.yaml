@@ -1,11 +1,14 @@
-examples:
--   ladino: Saves de ke epoka era esta kantika?
 grammar: null
 id: '2438'
 origen: Jeneral
+
 versions:
--   accented: epóka
-    ladino: epoka
+  - ladino: epoka
+    accented: epóka
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - epoch
@@ -17,3 +20,25 @@ versions:
         turkish:
         - devir
         - zaman
+
+  - ladino: epokas
+    accented: epókas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - epochs
+        - periods
+        - times
+        french: ''
+        portuguese: ''
+        spanish: épocas
+        turkish:
+        - devir
+        - zaman
+
+
+examples:
+  - ladino: Saves de ke epoka era esta kantika?

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1328'
 origen: Jeneral
+
 versions:
--   accented: fakto
-    ladino: fakto
+  - ladino: fakto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: fact
         french: ''
         portuguese: ''
         spanish: hecho
         turkish: olgu
+
+  - ladino: faktos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: facts
+        french: ''
+        portuguese: ''
+        spanish: hechos
+        turkish: olgu
+
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1783'
 origen: Jeneral
+
 versions:
--   accented: entision
-    ladino: entision
+  - ladino: entision
+
+    gender: feminine
+    number: singular
+
     translations:
         english: intention
         french: ''
         portuguese: ''
         spanish: intención
         turkish: maksat
+
+  - ladino: entisiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: intentions
+        french: ''
+        portuguese: ''
+        spanish: intenciónes
+        turkish: maksat
+
+
+examples: []

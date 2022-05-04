@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '361'
 origen: Jeneral
+
 versions:
--   accented: espada
-    ladino: espada
+  - ladino: espada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: sword
         french: ''
         portuguese: ''
         spanish: espada
         turkish: kılıç
+
+  - ladino: espadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: swords
+        french: ''
+        portuguese: ''
+        spanish: espadas
+        turkish: kılıç
+
+
+examples: []

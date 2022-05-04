@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1315'
 origen: Jeneral
+
 versions:
--   accented: entuziasmo
-    ladino: entuziasmo
+  - ladino: entuziasmo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: enthusiasm
         french: ''
         portuguese: ''
         spanish: entusiasmo
         turkish: coşku
+
+examples: []

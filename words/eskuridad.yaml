@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1794'
 origen: Jeneral
+
 versions:
--   accented: eskuridad
-    ladino: eskuridad
+  - ladino: eskuridad
+
+    gender: feminine
+    number: singular
+
     translations:
         english: darkness
         french: ''
@@ -13,3 +16,5 @@ versions:
         - oscuridad
         - tinieblas
         turkish: karanlık
+
+examples: []

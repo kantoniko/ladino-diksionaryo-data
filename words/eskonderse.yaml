@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '357'
 origen: Jeneral
+
 versions:
--   accented: eskonderse
-    ladino: eskonderse
+  - ladino: eskonderse
+
     translations:
         english: hide
         french: ''
         portuguese: ''
         spanish: esconderse
         turkish: saklanmak
+
+conjugations: {}
+
+examples: []

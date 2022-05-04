@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1809'
 origen: Jeneral
+
 versions:
--   accented: estar repozado
-    ladino: estar repozado
+  - ladino: estar repozado
+
     translations:
         english: feel comfortable
         french: ''
         portuguese: ''
         spanish: encontrarse a gusto
         turkish: rahat etmek
+
+examples: []

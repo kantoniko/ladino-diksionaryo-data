@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: pandemiya
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: pandemic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pandemia
+      turkish: ''
+
+  - ladino: pandemiyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: pandemics
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pandemias
+      turkish: ''
+
+
+examples: []

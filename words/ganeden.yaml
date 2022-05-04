@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1546'
 origen: Jeneral
+
 versions:
--   accented: ganeden
-    ladino: ganeden
+  - ladino: ganeden
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - paradise
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: paraíso
         turkish: cennet
+
+examples: []

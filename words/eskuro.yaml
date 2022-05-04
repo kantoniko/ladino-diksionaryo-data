@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '360'
 origen: Jeneral
+
 versions:
--   accented: eskuro
-    ladino: eskuro
+  - ladino: eskuro
+
     translations:
         english: dark
         french: ''
         portuguese: ''
         spanish: oscuro
         turkish: karanlık
+
+examples: []

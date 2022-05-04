@@ -1,13 +1,54 @@
-examples: []
 grammar: null
 id: '389'
 origen: Jeneral
+
 versions:
--   accented: estranyo
-    ladino: estranyo
+  - ladino: estranyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: strange
         french: ''
         portuguese: ''
         spanish: extraño
         turkish: acayip
+
+  - ladino: estranya
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: strange
+        french: ''
+        portuguese: ''
+        spanish: extraña
+        turkish: acayip
+
+  - ladino: estranyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: strange
+        french: ''
+        portuguese: ''
+        spanish: extraños
+        turkish: acayip
+
+  - ladino: estranyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: strange
+        french: ''
+        portuguese: ''
+        spanish: extrañas
+        turkish: acayip
+
+examples: []

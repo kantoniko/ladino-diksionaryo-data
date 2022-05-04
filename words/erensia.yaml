@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1317'
 origen: Jeneral
+
 versions:
--   accented: erensia
-    ladino: erensia
+  - ladino: erensia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: inheritance
         french: ''
@@ -13,3 +16,20 @@ versions:
         turkish:
         - miras
         - veraset
+
+  - ladino: erensias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: inheritances
+        french: ''
+        portuguese: ''
+        spanish: herencias
+        turkish:
+        - miras
+        - veraset
+
+
+examples: []
