@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1855'
 origen: Jeneral
+
 versions:
--   accented: imperador
-    ladino: imperador
+  - ladino: imperador
+
+    gender: masculine
+    number: singular
+
     translations:
         english: emperor
         french: ''
         portuguese: ''
         spanish: emperador
         turkish: imparator
+
+  - ladino: imperadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: emperors
+        french: ''
+        portuguese: ''
+        spanish: emperadores
+        turkish: imparator
+
+
+examples: []

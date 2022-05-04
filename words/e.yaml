@@ -1,11 +1,10 @@
-examples:
--   ladino: Estudios de lingua e istoria...
 grammar: null
 id: '2430'
 origen: Jeneral
+
 versions:
--   accented: e
-    ladino: e
+  - ladino: e
+
     translations:
         english: and
         french: ''
@@ -15,3 +14,6 @@ versions:
         - ve
         - veya
         - yahut
+
+examples:
+  - ladino: Estudios de lingua e istoria...

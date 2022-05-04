@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1844'
 origen: Jeneral
+
 versions:
--   accented: grito
-    ladino: grito
+  - ladino: grito
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - yell
@@ -16,3 +19,23 @@ versions:
         turkish:
         - nara
         - çığlık
+
+  - ladino: gritos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - yells
+        - screams
+        - shouts
+        french: ''
+        portuguese: ''
+        spanish: gritos
+        turkish:
+        - nara
+        - çığlık
+
+
+examples: []

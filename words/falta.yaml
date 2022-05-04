@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '400'
 origen: Jeneral
+
 versions:
--   accented: falta
-    ladino: falta
+  - ladino: falta
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - fault
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: error
         turkish: hata
+
+  - ladino: faltas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - faults
+        - errors
+        french: ''
+        portuguese: ''
+        spanish: errores
+        turkish: hata
+
+
+examples: []

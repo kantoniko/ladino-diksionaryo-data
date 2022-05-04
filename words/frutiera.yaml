@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '444'
 origen: Jeneral
+
 versions:
--   accented: frutiera
-    ladino: frutiera
+  - ladino: frutiera
+
     translations:
         english: fruit bowl
         french: ''
         portuguese: ''
         spanish: frutero
         turkish: meyvalik (kâse)
+
+examples: []

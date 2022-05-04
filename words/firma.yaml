@@ -1,16 +1,20 @@
-examples:
--   ladino: Un buen komersante onora su firma.
 grammar: null
 id: '2818'
 origen: Jeneral
+
 versions:
--   accented: fírma
+  - ladino: firma
+    accented: fírma
+
     gender: feminine
-    ladino: firma
     number: singular
+
     translations:
         english: signature
         french: ''
         portuguese: ''
         spanish: firma
         turkish: imza
+
+examples:
+  - ladino: Un buen komersante onora su firma.

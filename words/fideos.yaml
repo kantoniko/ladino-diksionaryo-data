@@ -1,16 +1,20 @@
-examples:
--   ladino: Vermicelle es fideo o tel fidé en muestra lingua.
 grammar: null
 id: '2714'
 origen: Estanbol
+
 versions:
--   accented: fidéos
+  - ladino: fideos
+    accented: fidéos
+
     gender: masculine
-    ladino: fideos
     number: singular
+
     translations:
         english: vermicelli
         french: vermicelle
-        portuguese: 'aletria '
+        portuguese: aletria
         spanish: fideos
         turkish: tel şehriye
+
+examples:
+  - ladino: Vermicelle es fideo o tel fidé en muestra lingua.

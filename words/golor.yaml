@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1344'
 origen: Jeneral
+
 versions:
--   accented: golor
-    ladino: golor
+  - ladino: golor
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - smell
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: olor
         turkish: koku
+
+examples: []

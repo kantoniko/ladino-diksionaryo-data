@@ -1,19 +1,24 @@
-examples:
--   ladino: Solo fueron fantazias.
 grammar: null
 id: '403'
 origen: Jeneral
+
 versions:
--   accented: fantazía
+  - ladino: fantazia
+    accented: fantazía
+
     alternative-spelling:
-    -   accented: fantezíya
-        ladino: fanteziya
+      - ladino: fanteziya
+        accented: fantezíya
+
     gender: feminine
-    ladino: fantazia
     number: singular
+
     translations:
         english: fantasy
         french: fantaisie
         portuguese: ''
         spanish: fantasía
         turkish: fantezi
+
+examples:
+  - ladino: Solo fueron fantazias.

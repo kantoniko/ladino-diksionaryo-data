@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1929'
 origen: Jeneral
+
 versions:
--   accented: konsternasion
-    ladino: konsternasion
+  - ladino: konsternasion
+
     translations:
         english: consternation
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - hayret
         - dehşet
+
+examples: []
