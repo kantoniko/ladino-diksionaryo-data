@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1814'
 origen: Jeneral
+kategorias:
+  - sivdades
+
 versions:
--   accented: Ezmirna
-    ladino: Ezmirna
+  - ladino: Ezmirna
+
     translations:
         english: Smyrna
         french: ''
         portuguese: ''
         spanish: Esmirna
         turkish: Izmir
+
+examples: []

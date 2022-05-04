@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '404'
 origen: Jeneral
+
 versions:
--   accented: farmasiya
-    ladino: farmasiya
+  - ladino: farmasiya
+
+    gender: feminine
+    number: singular
+
     translations:
         english: pharmacy
         french: ''
         portuguese: ''
         spanish: farmacia
         turkish: eczane
+
+  - ladino: farmasiyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pharmacies
+        french: ''
+        portuguese: ''
+        spanish: farmacias
+        turkish: eczane
+
+
+examples: []

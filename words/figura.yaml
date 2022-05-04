@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1818'
 origen: Jeneral
+
 versions:
--   accented: figura
-    ladino: figura
+  - ladino: figura
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - face
@@ -15,3 +18,5 @@ versions:
         turkish:
         - surat
         - figür
+
+examples: []

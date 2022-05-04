@@ -1,16 +1,19 @@
-examples:
--   ladino: Lo ke tienes de dizir, dimelo en facha.
 grammar: null
 id: '1330'
 origen: Jeneral
+
 versions:
--   accented: fácha
+  - ladino: facha
+    accented: fácha
+
     alternative-spelling:
-    -   accented: faz
-        ladino: faz
-    -   accented: kára
-        ladino: kara
-    ladino: facha
+      - ladino: faz
+      - ladino: kara
+        accented: kára
+
+    gender: feminine
+    number: singular
+
     translations:
         english: face
         french: ''
@@ -21,3 +24,29 @@ versions:
         turkish:
         - surat
         - yüz
+
+  - ladino: fachas
+    accented: fáchas
+
+    alternative-spelling:
+      - ladino: fazas
+      - ladino: karas
+        accented: káras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: faces
+        french: ''
+        portuguese: ''
+        spanish:
+        - fazas
+        - caras
+        turkish:
+        - surat
+        - yüz
+
+
+examples:
+  - ladino: Lo ke tienes de dizir, dimelo en facha.

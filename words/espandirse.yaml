@@ -1,13 +1,13 @@
-examples: []
-grammar: null
+grammar: verb
 id: '363'
 origen: Jeneral
+
 versions:
--   accented: espandirse
+  - ladino: espandirse
+
     alternative-spelling:
-    -   accented: echarse
-        ladino: echarse
-    ladino: espandirse
+      - ladino: echarse
+
     translations:
         english: lie down
         french: ''
@@ -16,3 +16,6 @@ versions:
         turkish:
         - uzanmak
         - yatmak
+
+conjugations: {}
+examples: []

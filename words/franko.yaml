@@ -1,14 +1,14 @@
-examples:
--   ladino: El lavoro era simple, ma lo izo kon hadras de franko. (Neh.)
 grammar: null
 id: '2456'
 origen: Jeneral
+
 versions:
--   accented: fránko
-    alternative-spelling:
-    -   accented: fránka
-        ladino: franka
-    ladino: franko
+  - ladino: franko
+    accented: fránko
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - frank
@@ -18,7 +18,29 @@ versions:
         portuguese: ''
         spanish:
         - franco
+        turkish:
+        - samimi
+        - frenk
+
+  - ladino: franka
+    accented: fránka
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - frank
+        - open
+        - Frankish
+        french: ''
+        portuguese: ''
+        spanish:
         - franca
         turkish:
         - samimi
         - frenk
+
+
+examples:
+  - ladino: El lavoro era simple, ma lo izo kon hadras de franko. (Neh.)

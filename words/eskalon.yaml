@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '353'
 origen: Jeneral
+
 versions:
--   accented: eskalon
-    ladino: eskalon
+  - ladino: eskalon
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - step
@@ -13,3 +16,20 @@ versions:
         portuguese: ''
         spanish: escalón
         turkish: basamak
+
+  - ladino: eskalone
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - steps
+        - grades
+        french: ''
+        portuguese: ''
+        spanish: escalónes
+        turkish: basamak
+
+
+examples: []

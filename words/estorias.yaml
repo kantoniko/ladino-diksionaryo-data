@@ -1,16 +1,17 @@
-examples:
--   ladino: No me kontes estoryas de mil i una noche.
 grammar: null
 id: '2479'
 origen: Jeneral
 versions:
--   accented: estórias
+  - ladino: estorias
+    accented: estórias
+
     alternative-spelling:
-    -   accented: istórias
-        ladino: istorias
-    -   accented: estóryas
-        ladino: estoryas
-    ladino: estorias
+      - ladino: istorias
+        accented: istórias
+
+      - ladino: estoryas
+        accented: estóryas
+
     translations:
         english: gossip
         french: ''
@@ -19,3 +20,6 @@ versions:
         turkish:
         - masal
         - martaval
+
+examples:
+  - ladino: No me kontes estoryas de mil i una noche.

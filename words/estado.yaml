@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '382'
 origen: Jeneral
+
 versions:
--   accented: estado
-    ladino: estado
+  - ladino: estado
+
+    gender: masculine
+    number: singular
+
     translations:
         english: state
         french: ''
@@ -12,4 +15,23 @@ versions:
         spanish: estado
         turkish:
         - durum
-        - hal; devlet
+        - hal
+        - devlet
+
+  - ladino: estados
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: states
+        french: ''
+        portuguese: ''
+        spanish: estados
+        turkish:
+        - durum
+        - hal
+        - devlet
+
+
+examples: []

@@ -1,13 +1,14 @@
-examples:
--   ladino: 'En la kortadura de la fashadura, se echava bombones blankos. '
 grammar: null
 id: '2948'
 origen: Jeneral
+
 versions:
--   accented: fashadúra
+  - ladino: fashadura
+    accented: fashadúra
+
     gender: feminine
-    ladino: fashadura
     number: singular
+
     translations:
         english: baby clothes
         french: layette
@@ -16,3 +17,6 @@ versions:
         - faja
         - ajuar del recien nacido
         turkish: kundak takımı
+
+examples:
+  - ladino: En la kortadura de la fashadura, se echava bombones blankos.

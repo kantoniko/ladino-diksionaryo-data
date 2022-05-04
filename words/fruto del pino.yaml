@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1834'
 origen: Jeneral
+kategorias:
+  - frutas
+
 versions:
--   accented: fruto del pino
-    ladino: fruto del pino
+  - ladino: fruto del pino
+
     translations:
         english: pine-cone
         french: ''
         portuguese: ''
         spanish: piña
         turkish: kozalak
+
+examples: []

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1331'
 origen: Jeneral
+
 versions:
--   accented: felisida
-    ladino: felisida
+  - ladino: felisida
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - happiness
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: felicidad
         turkish: mutluluk
+
+examples: []

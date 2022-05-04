@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '383'
 origen: Jeneral
+kategorias:
+  - sivdades
+
 versions:
--   accented: Estanbol
-    ladino: Estanbol
+  - ladino: Estanbol
+
     translations:
         english: Istanbul
         french: ''
         portuguese: ''
         spanish: Estambul
         turkish: Istanbul
+
+examples: []

@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '367'
 origen: Jeneral
+
 versions:
--   accented: espanto
-    ladino: espanto
+  - ladino: espanto
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - fear
@@ -16,3 +19,5 @@ versions:
         - miedo
         - espanto
         turkish: korku
+
+examples: []

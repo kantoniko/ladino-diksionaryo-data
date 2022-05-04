@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '391'
 origen: Jeneral
+kategorias:
+  - animales
+
 versions:
--   accented: estridia
-    ladino: estridia
+  - ladino: estridia
+
     translations:
         english: oyster
         french: ''
         portuguese: ''
         spanish: ostra
         turkish: istiridye
+
+examples: []

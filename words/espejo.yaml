@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '371'
 origen: Jeneral
+
 versions:
--   accented: espejo
-    ladino: espejo
+  - ladino: espejo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: mirror
         french: ''
         portuguese: ''
         spanish: espejo
         turkish: ayna
+
+  - ladino: espejos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: mirrors
+        french: ''
+        portuguese: ''
+        spanish: espejos
+        turkish: ayna
+
+
+examples: []

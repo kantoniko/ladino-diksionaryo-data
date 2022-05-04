@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1811'
 origen: Jeneral
+
 versions:
--   accented: estasion de benzin
-    ladino: estasion de benzin
+  - ladino: estasion de benzin
+
     translations:
         english: gas station
         french: ''
         portuguese: ''
         spanish: gasolinera
         turkish: benzin istasyonu
+
+examples: []

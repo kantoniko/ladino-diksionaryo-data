@@ -1,13 +1,14 @@
-examples:
--   ladino: Mi mama teniya una eskritura muy buena.
 grammar: null
 id: '2444'
 origen: Jeneral
+
 versions:
--   accented: eskritúra
+  - ladino: eskritura
+    accented: eskritúra
+
     gender: feminine
-    ladino: eskritura
     number: singular
+
     translations:
         english:
         - writing
@@ -19,3 +20,6 @@ versions:
         turkish:
         - yazı
         - elyazısı
+
+examples:
+  - ladino: Mi mama teniya una eskritura muy buena.

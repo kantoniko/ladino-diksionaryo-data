@@ -1,14 +1,60 @@
-examples:
--   ladino: Estimados Amigos de LK.
 grammar: null
 id: '2447'
 origen: Jeneral
+
 versions:
--   accented: estimádo
-    ladino: estimado
+  - ladino: estimado
+    accented: estimádo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: esteemed
         french: ''
         portuguese: ''
         spanish: estimado
         turkish: muhterem
+
+  - ladino: estimada
+    accented: estimáda
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: esteemed
+        french: ''
+        portuguese: ''
+        spanish: estimada
+        turkish: muhterem
+
+  - ladino: estimados
+    accented: estimádos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: esteemed
+        french: ''
+        portuguese: ''
+        spanish: estimados
+        turkish: muhterem
+
+  - ladino: estimadas
+    accented: estimádas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: esteemed
+        french: ''
+        portuguese: ''
+        spanish: estimadas
+        turkish: muhterem
+
+
+examples:
+  - ladino: Estimados Amigos de LK.
