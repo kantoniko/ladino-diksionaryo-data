@@ -16,6 +16,12 @@ versions:
         - istemek
         - sevmek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: kero
+      translations:
+        english: want
+        spanish: quiero
 
 examples: []

@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: natural
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: natural
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: natural
+      turkish: ''
+
+  - ladino: naturala
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: natural
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: naturala
+      turkish: ''
+
+  - ladino: naturalos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: natural
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: naturalos
+      turkish: ''
+
+  - ladino: naturalas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: natural
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: naturalas
+      turkish: ''
+
+examples: []
