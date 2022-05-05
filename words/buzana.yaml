@@ -1,14 +1,14 @@
-examples:
--   ladino: 'En izmir, kuando keremos dizir ke una koza o el tiempo esta muy yelado,
-        dizimos "esta buzaná"! '
 grammar: null
 id: '2895'
 origen: Izmir
+
 versions:
--   accented: buzaná
+  - ladino: buzana
+    accented: buzaná
+
     gender: feminine
-    ladino: buzana
     number: singular
+
     translations:
         english:
         - ice-box
@@ -21,3 +21,6 @@ versions:
         turkish:
         - buz kutusu
         - çok soğuk yer
+
+examples:
+  - ladino: 'En izmir, kuando keremos dizir ke una koza o el tiempo esta muy yelado, dizimos "esta buzaná"!'

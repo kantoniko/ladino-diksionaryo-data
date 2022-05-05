@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '2281'
 origen: Jeneral
+
 versions:
--   accented: boda
-    ladino: boda
+  - ladino: boda
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - wedding
@@ -13,3 +16,5 @@ versions:
         portuguese: ''
         spanish: boda
         turkish: düğün
+
+examples: []

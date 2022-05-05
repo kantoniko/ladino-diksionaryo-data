@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '2282'
 origen: Izmir
+
 versions:
--   accented: bonora
-    ladino: bonora
+  - ladino: bonora
+
     translations:
         english:
         - happiness
@@ -18,3 +18,5 @@ versions:
         turkish:
         - mutluluk
         - talih
+
+examples: []

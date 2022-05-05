@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1253'
 origen: Jeneral
+
 versions:
--   accented: bienfezensia
-    ladino: bienfezensia
+  - ladino: bienfezensia
+
     translations:
         english: charity
         french: ''
         portuguese: ''
         spanish: beneficencia
         turkish: hayırseverlik
+
+examples: []

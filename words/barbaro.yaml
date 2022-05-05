@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '164'
 origen: Jeneral
+
 versions:
--   accented: barbaro
-    ladino: barbaro
+  - ladino: barbaro
+
     translations:
         english: barbarian
         french: ''
         portuguese: ''
         spanish: bárbaro
         turkish: barbar
+
+examples: []

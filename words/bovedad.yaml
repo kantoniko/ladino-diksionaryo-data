@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1666'
 origen: Jeneral
+
 versions:
--   accented: bovedad
-    ladino: bovedad
+  - ladino: bovedad
+
     translations:
         english: silliness
         french: ''
         portuguese: ''
         spanish: tontería
         turkish: aptallık
+
+examples: []

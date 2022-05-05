@@ -1,16 +1,20 @@
-examples:
--   ladino: Avia un burako en la pared.
 grammar: null
 id: '3017'
 origen: Jeneral
+
 versions:
--   accented: buráko
+  - ladino: burako
+    accented: buráko
+
     gender: masculine
-    ladino: burako
     number: singular
+
     translations:
         english: hole
         french: trou
         portuguese: buraco
         spanish: agujero
         turkish: delik
+
+examples:
+  - ladino: Avia un burako en la pared.

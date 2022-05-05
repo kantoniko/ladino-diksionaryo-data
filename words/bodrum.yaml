@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '185'
 origen: Jeneral
+
 versions:
--   accented: bodrum
-    ladino: bodrum
+  - ladino: bodrum
+
     translations:
         english: basement
         french: ''
         portuguese: ''
         spanish: bodega
         turkish: bodrum
+
+examples: []

@@ -1,15 +1,17 @@
-examples: []
 grammar: null
 id: '200'
 origen: Jeneral
+
 versions:
--   accented: bruido
-    ladino: bruido
+  - ladino: bruido
+
     translations:
         english: noise
         french: ''
         portuguese: ''
         spanish: ruido
         turkish: gürültü
+
+examples: []
 
 # "bruído, ruído (m)",Baraná: Yo lo oyi empleado komo sinonimo de bruido.,ruido,noise,gürültü,Jeneral,2960,,bruit

@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2707'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: bilibíz
+  - ladino: bilibiz
+    accented: bilibíz
+
     gender: masculine
-    ladino: bilibiz
     number: singular
+
     translations:
         english: roasted chick pea
         french: ''
         portuguese: ''
         spanish: garbanzo tostado
         turkish: leblebi
+
+examples: []

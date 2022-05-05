@@ -1,25 +1,41 @@
-examples:
--   ladino: 'Admiro estos bravos djurnalistos.
-
-        '
 grammar: adjective
 id: '2412'
 origen: Jeneral
+
 versions:
--   accented: brávo
-    alternative-spelling:
-    -   accented: bráva
-        ladino: brava
-    ladino: bravo
+  - ladino: bravo
+    accented: brávo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: brave
         french: ''
         portuguese: ''
         spanish:
         - bravo
+        turkish: cesur
+
+  - ladino: brava
+    accented: bráva
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: brave
+        french: ''
+        portuguese: ''
+        spanish:
         - brava
         turkish: cesur
 
+
+examples:
+ - ladino: Admiro estos bravos djurnalistos.
+
 # "brávo, bráva (adj.)","Admiro estos bravos djurnalistos.  ","bravo, brava",brave,cesur,Jeneral,2412,,
 # brávo (interj.),"Bravo, i grasias por tus komentarios.",bravo,bravo,aferin,Jeneral,2656,,
+
 

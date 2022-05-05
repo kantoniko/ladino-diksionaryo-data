@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1669'
 origen: Jeneral
+
 versions:
--   accented: bruma
+  - ladino: bruma
+
     alternative-spelling:
-    -   accented: duman
-        ladino: duman
-    ladino: bruma
+      - ladino: duman
+
     translations:
         english:
         - mist
@@ -18,3 +18,5 @@ versions:
         turkish:
         - sis
         - pus
+
+examples: []
