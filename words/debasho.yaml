@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1683'
 origen: Jeneral
+
 versions:
--   accented: debasho
-    ladino: debasho
+  - ladino: debasho
+
     translations:
         english:
         - under
@@ -16,3 +16,5 @@ versions:
         - debajo
         - so
         turkish: altında
+
+examples: []

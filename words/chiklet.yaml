@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1677'
 origen: Jeneral
+
 versions:
--   accented: chiklet
-    ladino: chiklet
+  - ladino: chiklet
+
     translations:
         english: chewing-gum
         french: ''
         portuguese: ''
         spanish: chicle
         turkish: çiklet
+
+examples: []

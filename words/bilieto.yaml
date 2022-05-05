@@ -1,16 +1,37 @@
-examples: []
 grammar: null
 id: '178'
 origen: Jeneral
+
 versions:
--   accented: bilieto
+  - ladino: bilieto
+
     alternative-spelling:
-    -   accented: bilyeto
-        ladino: bilyeto
-    ladino: bilieto
+      - ladino: bilyeto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: ticket
         french: ''
         portuguese: ''
         spanish: billete
         turkish: bilet
+
+  - ladino: bilietos
+
+    alternative-spelling:
+      - ladino: bilyetos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: tickets
+        french: ''
+        portuguese: ''
+        spanish: billetes
+        turkish: bilet
+
+
+examples: []

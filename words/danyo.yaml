@@ -1,13 +1,14 @@
-examples:
--   ladino: No sale danyo de akavidarse.
 grammar: null
 id: '2666'
 origen: Jeneral
+
 versions:
--   accented: dányo
+  - ladino: danyo
+    accented: dányo
+
     gender: masculine
-    ladino: danyo
     number: singular
+
     translations:
         english:
         - damage
@@ -19,3 +20,6 @@ versions:
         - hasar
         - zarar
         - ziyan
+
+examples:
+  - ladino: No sale danyo de akavidarse.

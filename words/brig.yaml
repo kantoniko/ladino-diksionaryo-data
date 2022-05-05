@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1165'
 origen: Jeneral
+
 versions:
--   accented: brig ...
-    ladino: brig ...
+  - ladino: brig
+
     translations:
         english: brig
         french: ''
         portuguese: ''
         spanish: bergantín
         turkish: bir tür yelkenli
+
+examples: []

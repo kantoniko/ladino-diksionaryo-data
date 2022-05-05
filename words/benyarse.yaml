@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '173'
 origen: Jeneral
+
 versions:
--   accented: benyarse
-    ladino: benyarse
+  - ladino: benyarse
+
     translations:
         english: bathe
         french: ''
         portuguese: ''
         spanish: bañarse
         turkish: banyo yapmak
+
+conjugations: {}
+
+examples: []

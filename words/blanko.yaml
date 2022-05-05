@@ -1,6 +1,8 @@
 grammar: adjective
 id: '182'
 origen: Jeneral
+kategorias:
+  - kolores
 
 versions:
   - ladino: blanko

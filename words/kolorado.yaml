@@ -1,6 +1,8 @@
 grammar: adjective
 id: '1492'
 origen: Jeneral
+kategorias:
+  - kolores
 
 versions:
   - ladino: kolorado

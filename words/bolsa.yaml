@@ -1,16 +1,17 @@
-examples: []
 grammar: null
 id: '189'
 origen: Jeneral
 versions:
--   accented: bolsa
+  - ladino: bolsa
+
     alternative-spelling:
-    -   accented: sako
-        ladino: sako
-    ladino: bolsa
+      - ladino: sako
+
     translations:
         english: pouch
         french: ''
         portuguese: ''
         spanish: bolsa
         turkish: torba
+
+examples: []

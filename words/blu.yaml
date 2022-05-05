@@ -1,14 +1,18 @@
-examples:
--   ladino: Yehudi Menuhin era blondo kon ojos blu.
 grammar: adjective
 id: '184'
 origen: Jeneral
+kategorias:
+  - kolores
+
 versions:
--   accented: blu
-    ladino: blu
+  - ladino: blu
+
     translations:
         english: blue
         french: bleu
         portuguese: azul
         spanish: azul
         turkish: mavi
+
+examples:
+  - ladino: Yehudi Menuhin era blondo kon ojos blu.

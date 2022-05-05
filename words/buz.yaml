@@ -1,16 +1,19 @@
-examples:
--   ladino: No entiendo komo kitash la komida yelada buz i la metesh en el orno.
 grammar: null
 id: '2894'
 origen: Estanbol
+
 versions:
--   accented: buz
+  - ladino: buz
+
     gender: masculine
-    ladino: buz
     number: singular
+
     translations:
         english: ice
         french: ''
         portuguese: ''
         spanish: hielo
         turkish: buz
+
+examples:
+  - ladino: No entiendo komo kitash la komida yelada buz i la metesh en el orno.

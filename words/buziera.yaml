@@ -1,16 +1,18 @@
-examples:
--   ladino: Kero bever limonata yelada de la buzyera.
 grammar: null
 id: '206'
 origen: Jeneral
+
 versions:
--   accented: buziéra
+  - ladino: buziera
+    accented: buziéra
+
     alternative-spelling:
-    -   accented: buzyéra
-        ladino: buzyera
+      - ladino: buzyera
+        accented: buzyéra
+
     gender: feminine
-    ladino: buziera
     number: singular
+
     translations:
         english: refrigerator
         french: ''
@@ -19,3 +21,6 @@ versions:
         - nevera
         - frigorífico
         turkish: buzdolabı
+
+examples:
+  - ladino: Kero bever limonata yelada de la buzyera.
