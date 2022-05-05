@@ -5,8 +5,9 @@ kategorias:
   - direksion
 
 versions:
--   accented: arríva
-    ladino: arriva
+  - ladino: arriva
+    accented: arríva
+
     translations:
         english:
         - up

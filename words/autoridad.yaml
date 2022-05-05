@@ -1,13 +1,14 @@
-examples:
--   ladino: Eya es una autoridad en djudeo-espanyol.
 grammar: null
 id: '2397'
 origen: Jeneral
+
 versions:
--   accented: autoridád
+  - ladino: autoridad
+    accented: autoridád
+
     gender: feminine
-    ladino: autoridad
     number: singular
+
     translations:
         english: authority
         french: autorité
@@ -16,3 +17,6 @@ versions:
         turkish:
         - iktidar
         - merci
+
+examples:
+  - ladino: Eya es una autoridad en djudeo-espanyol.

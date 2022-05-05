@@ -1,12 +1,16 @@
-examples: []
 grammar: null
 id: '2700'
 origen: Izmir
+kategorias:
+  - zarzavates
+
 versions:
--   accented: áva fréska
+  - ladino: ava freska
+    accented: áva fréska
+
     gender: feminine
-    ladino: ava freska
     number: singular
+
     translations:
         english:
         - broad beans
@@ -17,3 +21,5 @@ versions:
         - habicuela
         - judía
         turkish: bakla
+
+examples: []

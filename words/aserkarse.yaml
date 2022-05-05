@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1637'
 origen: Jeneral
+
 versions:
--   accented: aserkarse
-    ladino: aserkarse
+  - ladino: aserkarse
+
     translations:
         english:
         - approach
@@ -13,3 +13,7 @@ versions:
         portuguese: ''
         spanish: acercarse
         turkish: yaklaşmak
+
+conjugations: {}
+
+examples: []

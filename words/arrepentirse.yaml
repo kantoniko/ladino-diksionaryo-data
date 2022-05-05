@@ -1,16 +1,20 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1626'
 origen: Jeneral
+
 versions:
--   accented: arrepentirse
+  - ladino: arrepentirse
+
     alternative-spelling:
-    -   accented: esvachearse
-        ladino: esvachearse
-    ladino: arrepentirse
+      - ladino: esvachearse
+
     translations:
         english: give up
         french: ''
         portuguese: ''
         spanish: renunciar
         turkish: vazgeçmek
+
+conjugations: {}
+
+examples: []

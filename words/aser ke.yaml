@@ -1,11 +1,11 @@
-examples:
--   ladino: Dizen ke es muy riko, aser ke yo se ke pedrio toda su fortuna al djugo.
 grammar: adverb
 id: '2363'
 origen: Jeneral
+
 versions:
--   accented: asér ke
-    ladino: aser ke
+  - ladino: aser ke
+    accented: asér ke
+
     translations:
         english: whereas
         french: ''
@@ -17,3 +17,6 @@ versions:
         turkish:
         - halbuki
         - oysa
+
+examples:
+  - ladino: Dizen ke es muy riko, aser ke yo se ke pedrio toda su fortuna al djugo.

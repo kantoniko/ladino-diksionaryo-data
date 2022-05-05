@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Para ke no se arravye, este ultimo mesaje suyo lo estamos pasando.
 grammar: verb
 id: '1620'
 origen: Jeneral
+
 versions:
--   accented: arraviárse
-    ladino: arraviarse
+  - ladino: arraviarse
+    accented: arraviárse
+
     translations:
         english: be crossed
         french: ''
@@ -15,3 +14,8 @@ versions:
         - enojarse
         - enfadarse con...
         turkish: darılmak
+
+conjugations: {}
+examples:
+  - ladino: Para ke no se arravye, este ultimo mesaje suyo lo estamos pasando.
+

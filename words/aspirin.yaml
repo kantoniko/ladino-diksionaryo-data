@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '128'
 origen: Jeneral
+
 versions:
--   accented: aspirin
-    ladino: aspirin
+  - ladino: aspirin
+
     translations:
         english: aspirin
         french: ''
         portuguese: ''
         spanish: aspirina
         turkish: aspirin
+
+examples: []

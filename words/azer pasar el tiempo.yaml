@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '151'
 origen: Jeneral
+
 versions:
--   accented: azer pasar el tiempo
-    ladino: azer pasar el tiempo
+  - ladino: azer pasar el tiempo
+
     translations:
         english: entertain
         french: ''
         portuguese: ''
         spanish: entretener
         turkish: eğlendirmek
+
+examples: []

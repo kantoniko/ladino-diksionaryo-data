@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '145'
 origen: Jeneral
+
 versions:
--   accented: aya
-    ladino: aya
+  - ladino: aya
+
     translations:
         english: there
         french: ''
         portuguese: ''
         spanish: allá
         turkish: orada
+
+examples: []

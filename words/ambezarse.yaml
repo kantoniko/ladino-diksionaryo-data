@@ -1,13 +1,11 @@
-conjugations: {}
-examples:
-  - ladino: El ombre deve ambezarse a lo bueno i a lo negro. (Neh.)
-  - ladino: Ambezate a favlar (kon korteziya). (Neh.)
 grammar: verb
 id: '2769'
 origen: Jeneral
+
 versions:
--   accented: ambezárse
-    ladino: ambezarse
+  - ladino: ambezarse
+    accented: ambezárse
+
     translations:
         english:
         - get accustomed
@@ -19,4 +17,11 @@ versions:
         - aprender
         turkish:
         - alışmak
-        - öğrenmek.
+        - öğrenmek
+
+conjugations: {}
+
+examples:
+  - ladino: El ombre deve ambezarse a lo bueno i a lo negro. (Neh.)
+  - ladino: Ambezate a favlar (kon korteziya). (Neh.)
+

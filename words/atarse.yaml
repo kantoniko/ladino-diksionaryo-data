@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '133'
 origen: Jeneral
+
 versions:
--   accented: atarse
-    ladino: atarse
+  - ladino: atarse
+
     translations:
         english: get attached
         french: ''
         portuguese: ''
         spanish: atarse
         turkish: bağlanmak
+
+conjugations: {}
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '142'
 origen: Jeneral
+
 versions:
--   accented: avizo
-    ladino: avizo
+  - ladino: avizo
+
     translations:
         english: news
         french: ''
         portuguese: ''
         spanish: noticia
         turkish: haber
+
+examples: []

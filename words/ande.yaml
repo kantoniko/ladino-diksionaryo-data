@@ -1,16 +1,15 @@
-examples:
--   ladino: 'Ande lo metes, ayí está.
-
-        Onde komen dos, komen tres.'
 grammar: adverb
 id: '90'
 origen: Jeneral
+
 versions:
--   accented: ánde
+  - ladino: ande
+    accented: ánde
+
     alternative-spelling:
-    -   accented: ónde
-        ladino: onde
-    ladino: ande
+      - ladino: onde
+        accented: ónde
+
     translations:
         english:
         - where
@@ -24,3 +23,7 @@ versions:
         - neresi
         - nerede
         - nereye
+
+examples:
+  - ladino: Ande lo metes, ayí está.
+  - ladino: Onde komen dos, komen tres.

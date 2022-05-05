@@ -1,11 +1,11 @@
-examples:
--   ladino: 'Todo lo ke disho, no tiene dinguna valor: es todo avladero.'
 grammar: null
 id: '2399'
 origen: Jeneral
+
 versions:
--   accented: avladéro
-    ladino: avladero
+  - ladino: avladero
+    accented: avladéro
+
     translations:
         english:
         - babbling
@@ -14,3 +14,6 @@ versions:
         portuguese: ''
         spanish: cháchara
         turkish: gevezelik
+
+examples:
+  - ladino: 'Todo lo ke disho, no tiene dinguna valor: es todo avladero.'

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1222'
 origen: Jeneral
+
 versions:
--   accented: arina
-    ladino: arina
+  - ladino: arina
+
     translations:
         english: flour
         french: ''
         portuguese: ''
         spanish: harina
         turkish: un
+
+examples: []

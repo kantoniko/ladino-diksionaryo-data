@@ -1,15 +1,14 @@
-examples:
--   ladino: 'Anyada (al lugar de anyo) se uza para auguros, kon el adjektivo "buena"
-        despues. Esto kere dizir el periodo del anyo entero. Eg.: Anyada dulse kon
-        alegriya i sanedad para todos.'
 grammar: null
 id: '1'
 origen: Jeneral
+
 versions:
--   accented: anyáda
+  - ladino: anyada
+    accented: anyáda
+
     gender: feminine
-    ladino: anyada
     number: singular
+
     translations:
         english: year
         french: ''
@@ -18,3 +17,9 @@ versions:
         turkish:
         - senelik
         - yıl
+
+examples:
+  - ladino: 'Anyada (al lugar de anyo) se uza para auguros, kon el adjektivo "buena"
+        despues. Esto kere dizir el periodo del anyo entero. Eg.: Anyada dulse kon
+        alegriya i sanedad para todos.'
+
