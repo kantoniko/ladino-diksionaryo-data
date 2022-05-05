@@ -1,16 +1,20 @@
-examples:
--   ladino: Kale azer atension a las reglas de aksentuasion.
 grammar: null
 id: '62'
 origen: Jeneral
+
 versions:
--   accented: aksentuasión
+  - ladino: aksentuasion
+    accented: aksentuasión
+
     gender: feminine
-    ladino: aksentuasion
     number: singular
+
     translations:
         english: accentuation
         french: accentuation
         portuguese: ''
         spanish: acentuación
         turkish: aksan koyma
+
+examples:
+  - ladino: Kale azer atension a las reglas de aksentuasion.

@@ -1,16 +1,34 @@
-examples:
--   ladino: Enriva l'almada aviya un livro de tefila.
 grammar: null
 id: '3028'
 origen: Jeneral
+
 versions:
--   accented: almáda
+  - ladino: almada
+    accented: almáda
+
     gender: feminine
-    ladino: almada
     number: singular
+
     translations:
         english: pillow
         french: oreiller
         portuguese: almoada
         spanish: almohada
         turkish: yastık
+
+  - ladino: almadas
+    accented: almádas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pillow
+        french: oreiller
+        portuguese: almoadas
+        spanish: almohadas
+        turkish: yastık
+
+
+examples:
+  - ladino: Enriva l'almada aviya un livro de tefila.

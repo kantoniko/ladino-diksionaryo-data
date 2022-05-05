@@ -1,16 +1,20 @@
-examples:
--   ladino: No guadri amargura kontra los ke me ekspulsaron.
 grammar: null
 id: '3040'
 origen: Jeneral
+
 versions:
--   accented: amargúra
+  - ladino: amargura
+    accented: amargúra
+
     gender: feminine
-    ladino: amargura
     number: singular
+
     translations:
         english: bitterness
         french: amertume
         portuguese: amargura
         spanish: amargura
         turkish: acılık
+
+examples:
+  - ladino: No guadri amargura kontra los ke me ekspulsaron.

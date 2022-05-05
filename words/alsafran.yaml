@@ -1,17 +1,20 @@
-examples:
--   ladino: Kon alsafrán, ajiko i otras espesias (spices) podemos azer lo ke yamamos
-        en Colombia "adobo".
 grammar: null
 id: '1542'
 origen: Jeneral
+
 versions:
--   accented: alsafrán
+  - ladino: alsafran
+    accented: alsafrán
+
     gender: masculine
-    ladino: alsafran
     number: singular
+
     translations:
         english: saffron
         french: safran
         portuguese: ''
         spanish: azafrán
         turkish: safran
+
+examples:
+  - ladino: Kon alsafrán, ajiko i otras espesias (spices) podemos azer lo ke yamamos en Colombia "adobo".

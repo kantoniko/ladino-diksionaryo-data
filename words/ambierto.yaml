@@ -1,17 +1,21 @@
-examples:
--   ladino: El arto no kreye al ambierto.
 grammar: adjective
 id: '1206'
 origen: Jeneral
+
 versions:
--   accented: ambiérto
+  - ladino: ambierto
+    accented: ambiérto
+
     alternative-spelling:
-    -   accented: fambrénto
-        ladino: fambrento
-    ladino: ambierto
+      - ladino: fambrento
+        accented: fambrénto
+
     translations:
         english: hungry
         french: ''
         portuguese: ''
         spanish: hambriento
         turkish: aç
+
+examples:
+  - ladino: El arto no kreye al ambierto.

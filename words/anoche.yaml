@@ -1,14 +1,17 @@
-examples:
--   ladino: No me akodro lo ke komi anoche.
 grammar: adverb
 id: '95'
 origen: Jeneral
+
 versions:
--   accented: anóche
-    ladino: anoche
+  - ladino: anoche
+    accented: anóche
+
     translations:
         english: last night
         french: ''
         portuguese: ''
         spanish: anoche
         turkish: dün gece
+
+examples:
+  - ladino: No me akodro lo ke komi anoche.

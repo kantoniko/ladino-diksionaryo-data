@@ -1,14 +1,15 @@
-examples:
--   ladino: Pan amofado
 grammar: adjective
 id: '2873'
 origen: Jeneral
+
 versions:
--   accented: amofádo
+  - ladino: amofado
+    accented: amofádo
+
     alternative-spelling:
-    -   accented: amufádo
-        ladino: amufado
-    ladino: amofado
+      - ladino: amufado
+        accented: amufádo
+
     translations:
         english: mouldy
         french: ''
@@ -17,3 +18,6 @@ versions:
         - con moho
         - mohoso
         turkish: küflü
+
+examples:
+  - ladino: Pan amofado

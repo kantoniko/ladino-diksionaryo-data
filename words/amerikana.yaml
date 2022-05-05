@@ -1,16 +1,18 @@
-examples:
--   ladino: Ize dodje ridas de amerikana para el bebe.
 grammar: null
 id: '2383'
 origen: Estanbol
+
 versions:
--   accented: amerikána
+  - ladino: amerikana
+    accented: amerikána
+
     alternative-spelling:
-    -   accented: merkána
-        ladino: merkana
+      - ladino: merkana
+        accented: merkána
+
     gender: feminine
-    ladino: amerikana
     number: singular
+
     translations:
         english:
         - Calico
@@ -19,3 +21,6 @@ versions:
         portuguese: ''
         spanish: tela de algodón
         turkish: Amerikan bezi
+
+examples:
+  - ladino: Ize dodje ridas de amerikana para el bebe.

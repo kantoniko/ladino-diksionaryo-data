@@ -1,16 +1,20 @@
-examples:
--   ladino: La gayina tiene alas, ma no bola.
 grammar: null
 id: '2378'
 origen: Jeneral
+
 versions:
--   accented: ála
+  - ladino: ala
+    accented: ála
+
     gender: feminine
-    ladino: ala
     number: singular
+
     translations:
         english: wing
         french: ''
         portuguese: ''
         spanish: ala
         turkish: kanat
+
+examples:
+  - ladino: La gayina tiene alas, ma no bola.

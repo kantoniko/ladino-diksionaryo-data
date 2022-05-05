@@ -1,13 +1,14 @@
-examples:
--   ladino: Kuando me kazi, las almenaras se trokaron i se uzava la de kandelas.
 grammar: null
 id: '3031'
 origen: Jeneral
+
 versions:
--   accented: almenára
+  - ladino: almenara
+    accented: almenára
+
     gender: feminine
-    ladino: almenara
     number: singular
+
     translations:
         english: chandelier
         french: lustre
@@ -16,3 +17,6 @@ versions:
         - lámpara
         - araña (de luces)
         turkish: avize
+
+examples:
+  - ladino: Kuando me kazi, las almenaras se trokaron i se uzava la de kandelas.

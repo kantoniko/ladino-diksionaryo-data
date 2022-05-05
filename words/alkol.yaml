@@ -1,17 +1,20 @@
-examples:
--   ladino: Uzavan un reshó ke se asendiya kon alkol i metiyan a buyir el kaviko de
-        la demanyana.
 grammar: null
 id: '78'
 origen: Jeneral
+
 versions:
--   accented: alkól
+  - ladino: alkol
+    accented: alkól
+
     gender: masculine
-    ladino: alkol
     number: singular
+
     translations:
         english: alcohol
         french: ''
         portuguese: ''
         spanish: alcohol
         turkish: alkol
+
+examples:
+  - ladino: Uzavan un reshó ke se asendiya kon alkol i metiyan a buyir el kaviko de la demanyana.
