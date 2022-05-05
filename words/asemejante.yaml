@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1634'
 origen: Jeneral
+
 versions:
--   accented: asemejante
-    ladino: asemejante
+  - ladino: asemejante
+
     translations:
         english: similar
         french: ''
         portuguese: ''
         spanish: semejante
         turkish: benzer
+
+examples: []

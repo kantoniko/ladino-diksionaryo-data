@@ -1,13 +1,14 @@
-examples:
--   ladino: Este mundo en un bonete, ken lo kita i ken lo mete. (Neh.)
 grammar: null
 id: '2838'
 origen: Jeneral
+
 versions:
--   accented: bonéte
+  - ladino: bonete
+    accented: bonéte
+
     gender: masculine
-    ladino: bonete
     number: singular
+
     translations:
         english: bonnet
         french: ''
@@ -17,3 +18,6 @@ versions:
         - bone
         - takke
         - külah
+
+examples:
+  - ladino: Este mundo en un bonete, ken lo kita i ken lo mete. (Neh.)

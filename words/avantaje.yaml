@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1650'
 origen: Jeneral
+
 versions:
--   accented: avantaje
-    ladino: avantaje
+  - ladino: avantaje
+
     translations:
         english: advantage
         french: ''
         portuguese: ''
         spanish: ventaja
         turkish: yarar
+
+examples: []

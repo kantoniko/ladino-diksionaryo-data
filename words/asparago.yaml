@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1641'
 origen: Jeneral
+kategorias:
+  - zarzavates
+
 versions:
--   accented: asparago
-    ladino: asparago
+  - ladino: asparago
+
     translations:
         english: asparagus
         french: ''
         portuguese: ''
         spanish: espárrago
         turkish: kuşkonmaz
+
+examples: []

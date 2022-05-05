@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1249'
 origen: Jeneral
+
 versions:
--   accented: batalyon
-    ladino: batalyon
+  - ladino: batalyon
+
+    gender: masculine
+    number: singular
+
     translations:
         english: battalion
         french: ''
         portuguese: ''
         spanish: batallón
         turkish: tabur
+
+examples: []

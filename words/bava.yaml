@@ -1,16 +1,20 @@
-examples:
--   ladino: Ya me kayo las bavas de ver este diksionario maraviyozo.
 grammar: null
 id: '3014'
 origen: Jeneral
+
 versions:
--   accented: báva
+  - ladino: bava
+    accented: báva
+
     gender: feminine
-    ladino: bava
     number: singular
+
     translations:
         english: spittle
         french: bave
         portuguese: ''
         spanish: baba
         turkish: salya
+
+examples:
+  - ladino: Ya me kayo las bavas de ver este diksionario maraviyozo.

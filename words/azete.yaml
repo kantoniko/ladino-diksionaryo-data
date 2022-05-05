@@ -1,14 +1,16 @@
-examples:
--   ladino: Oy le ize su meldalo i le kemi una mecha de azete en su buena memoria.
 grammar: null
 id: '1246'
 origen: Jeneral
+
 versions:
--   accented: azete
-    ladino: azete
+  - ladino: azete
+
     translations:
         english: oil
         french: huile
         portuguese: ''
         spanish: aceite
         turkish: yağ
+
+examples:
+  - ladino: Oy le ize su meldalo i le kemi una mecha de azete en su buena memoria.

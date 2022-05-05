@@ -1,14 +1,17 @@
-examples:
--   ladino: Este pleto lo travo al bet din.
 grammar: null
 id: '2407'
 origen: Torah-Tanah
+
 versions:
--   accented: bet din
-    ladino: bet din
+  - ladino: bet din
+    accented: bet din
+
     translations:
         english: rabbinical tribunal
         french: ''
         portuguese: ''
         spanish: tribunal rabinical
         turkish: dinî kurul
+
+examples:
+  - ladino: Este pleto lo travo al bet din.

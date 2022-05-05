@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2702'
 origen: Jeneral
+kategorias:
+  - frutas
+
 versions:
--   accented: avyána
+  - ladino: avyana
+    accented: avyána
+
     gender: feminine
-    ladino: avyana
     number: singular
+
     translations:
         english: hazelnut
         french: ''
         portuguese: ''
         spanish: avellana
         turkish: fındık
+
+examples: []

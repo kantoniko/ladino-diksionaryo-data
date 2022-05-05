@@ -1,16 +1,18 @@
-examples:
--   ladino: 'Va avlando la mizma koza: Bizba detras de la oreja.'
 grammar: null
 id: '1255'
 origen: Jeneral
+
 versions:
--   accented: bízba
+  - ladino: bizba
+    accented: bízba
+
     alternative-spelling:
-    -   accented: bézba
-        ladino: bezba
+      - ladino: bezba
+        accented: bézba
+
     gender: feminine
-    ladino: bizba
     number: singular
+
     translations:
         english:
         - wasp
@@ -23,3 +25,6 @@ versions:
         turkish:
         - eşek arısı
         - arı
+
+examples:
+  - ladino: 'Va avlando la mizma koza: Bizba detras de la oreja.'

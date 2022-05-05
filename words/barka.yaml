@@ -1,16 +1,22 @@
-examples:
--   ladino: En enverano, en las islas de Estanbol, ivamos a nadar kon barkas.
 grammar: null
 id: '2759'
 origen: Estanbol
+kategorias:
+  - veikolos
+
 versions:
--   accented: bárka
+  - ladino: barka
+    accented: bárka
+
     gender: masculine
-    ladino: barka
     number: singular
+
     translations:
         english: boat (small)
         french: ''
         portuguese: ''
         spanish: barca
         turkish: kayık
+
+examples:
+  - ladino: En enverano, en las islas de Estanbol, ivamos a nadar kon barkas.

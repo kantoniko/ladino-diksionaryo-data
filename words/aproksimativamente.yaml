@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1617'
 origen: Jeneral
+
 versions:
--   accented: aproksimativamente
-    ladino: aproksimativamente
+  - ladino: aproksimativamente
+
     translations:
         english: approximately
         french: ''
         portuguese: ''
         spanish: aproximadamente
         turkish: takriben
+
+examples: []

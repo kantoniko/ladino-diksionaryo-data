@@ -1,13 +1,20 @@
-examples: []
 grammar: null
 id: '177'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: biftek
-    ladino: biftek
+  - ladino: biftek
+
+    gender: masculine
+    number: singular
+
     translations:
         english: steak
         french: ''
         portuguese: ''
         spanish: bistec
         turkish: biftek
+
+examples: []

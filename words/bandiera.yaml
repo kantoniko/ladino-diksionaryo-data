@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '160'
 origen: Jeneral
+
 versions:
--   accented: bandiera
-    ladino: bandiera
+  - ladino: bandiera
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - banner
@@ -16,3 +19,23 @@ versions:
         - bandıra
         - sancak
         - bayrak
+
+  - ladino: bandieras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - banners
+        - flags
+        french: ''
+        portuguese: ''
+        spanish: banderas
+        turkish:
+        - bandıra
+        - sancak
+        - bayrak
+
+
+examples: []

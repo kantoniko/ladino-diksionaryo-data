@@ -1,11 +1,14 @@
-examples:
--   ladino: Munchos bezos a todos i asperemos ke en serka mos eskrivan aki...
 grammar: null
 id: '2408'
 origen: Jeneral
+
 versions:
--   accented: bézo
-    ladino: bezo
+  - ladino: bezo
+    accented: bézo
+
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english: kiss
         french: ''
@@ -14,3 +17,6 @@ versions:
         turkish:
         - buse
         - öpücük
+
+examples:
+  - ladino: Munchos bezos a todos i asperemos ke en serka mos eskrivan aki...

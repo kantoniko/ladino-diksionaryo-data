@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2704'
 origen: Izmir
+kategorias:
+  - zarzavates
+
 versions:
--   accented: barbúnya fasúlya
+  - ladino: barbunya fasulya
+    accented: barbúnya fasúlya
+
     gender: feminine
-    ladino: barbunya fasulya
     number: singular
+
     translations:
         english: beans (fresh butterbeans)
         french: ''
         portuguese: ''
         spanish: habichuela rosa
         turkish: barbunya fasulyesi
+
+examples: []

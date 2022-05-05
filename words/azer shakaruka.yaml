@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '155'
 origen: Jeneral
+
 versions:
--   accented: azer shakaruka
-    ladino: azer shakaruka
+  - ladino: azer shakaruka
+
     translations:
         english: make flirtatious remark
         french: ''
         portuguese: ''
         spanish: piropear
         turkish: lâf atmak
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '180'
 origen: Jeneral
+kategorias:
+  - veikolos
+
 versions:
--   accented: bisikleta
-    ladino: bisikleta
+  - ladino: bisikleta
+
     translations:
         english: bicycle
         french: ''
         portuguese: ''
         spanish: bicicleta
         turkish: bisiklet
+
+examples: []

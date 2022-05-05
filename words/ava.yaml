@@ -1,18 +1,25 @@
-examples: []
 grammar: null
 id: '2701'
 origen: Izmir
+kategorias:
+  - zarzavates
+
 versions:
--   accented: áva
+  - ladino: ava
+    accented: áva
+
     alternative-spelling:
-    -   accented: avíka
-        ladino: avika
+      - ladino: avika
+        accented: avíka
+
     gender: feminine
-    ladino: ava
     number: singular
+
     translations:
         english: dry beans
         french: ''
         portuguese: ''
         spanish: judía blanca
         turkish: kuru fasulye
+
+examples: []

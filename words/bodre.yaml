@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1663'
 origen: Jeneral
+
 versions:
--   accented: bodre
-    ladino: bodre
+  - ladino: bodre
+
     translations:
         english: edge
         french: ''
         portuguese: ''
         spanish: borde
         turkish: kenar
+
+examples: []

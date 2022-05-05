@@ -1,17 +1,19 @@
-examples:
--   ladino: Salud i Beraha se le aga todo lo ke komio.
 grammar: null
 id: '2406'
 origen: Jeneral
+
 versions:
--   accented: beraha
+  - ladino: beraha
+
     alternative-spelling:
-    -   accented: bendision
-        ladino: bendision
-    ladino: beraha
+      - ladino: bendision
+
     translations:
         english: benediction
         french: ''
         portuguese: ''
         spanish: bendición
         turkish: hayır duası
+
+examples:
+  - ladino: Salud i Beraha se le aga todo lo ke komio.

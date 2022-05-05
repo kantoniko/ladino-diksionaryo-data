@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '192'
 origen: Jeneral
+
 versions:
--   accented: bostan
-    ladino: bostan
+  - ladino: bostan
+
     translations:
         english: market garden
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - bostan
         - büyük bahçe
+
+examples: []
