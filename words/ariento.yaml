@@ -1,17 +1,21 @@
-examples:
--   ladino: Ay ladron ariento de la kaza.
 grammar: adverb
 id: '114'
 origen: Jeneral
+
 versions:
--   accented: ariénto
+  - ladino: ariento
+    accented: ariénto
+
     alternative-spelling:
-    -   accented: adyéntro
-        ladino: adyentro
-    ladino: ariento
+      - ladino: adyentro
+        accented: adyéntro
+
     translations:
         english: in
         french: ''
         portuguese: ''
         spanish: dentro
         turkish: içerde
+
+examples:
+  - ladino: Ay ladron ariento de la kaza.

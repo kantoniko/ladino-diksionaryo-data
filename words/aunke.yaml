@@ -1,11 +1,10 @@
-examples:
--   ladino: Te lo vo a dar aunke no lo mereskas.
 grammar: null
 id: '2396'
 origen: Jeneral
+
 versions:
--   accented: aunke
-    ladino: aunke
+  - ladino: aunke
+
     translations:
         english:
         - although
@@ -16,3 +15,6 @@ versions:
         turkish:
         - rağmen
         - olduğu halde
+
+examples:
+  - ladino: Te lo vo a dar aunke no lo mereskas.

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1625'
 origen: Jeneral
+
 versions:
--   accented: arrepintirse
-    ladino: arrepintirse
+  - ladino: arrepintirse
+
     translations:
         english: repent
         french: ''
         portuguese: ''
         spanish: arrepentirse
         turkish: pişman olmak
+
+conjugations: {}
+
+examples: []

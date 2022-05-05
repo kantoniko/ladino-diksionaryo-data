@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '105'
 origen: Jeneral
+
 versions:
--   accented: apresurarse
-    ladino: apresurarse
+  - ladino: apresurarse
+
     translations:
         english: hurry
         french: ''
         portuguese: ''
         spanish: darse prisa
         turkish: telâş etmek
+
+conjugations: {}
+
+examples: []

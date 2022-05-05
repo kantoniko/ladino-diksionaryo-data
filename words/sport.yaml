@@ -1,31 +1,30 @@
 grammar: null
-id: '1645'
-origen: Jeneral
+origen: Ladinokomunita
 
 versions:
-  - ladino: atamiento
+  - ladino: sport
 
     gender: masculine
     number: singular
 
     translations:
-        english: attachment
+        english: sport
         french: ''
         portuguese: ''
-        spanish: apego
-        turkish: bağlılık
+        spanish: deporte
+        turkish: spor
 
-  - ladino: atamientos
+  - ladino: sportes
 
     gender: masculine
     number: plural
 
     translations:
-        english: attachments
+        english: sports
         french: ''
         portuguese: ''
-        spanish: apegos
-        turkish: bağlılık
+        spanish: deportes
+        turkish: spor
 
 
 examples: []

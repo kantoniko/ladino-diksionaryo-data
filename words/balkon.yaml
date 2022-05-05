@@ -1,13 +1,14 @@
-examples:
--   ladino: La aviya visto arimada en el balkon de la kula.
 grammar: null
 id: '159'
 origen: Jeneral
+
 versions:
--   accented: balkón
+  - ladino: balkon
+    accented: balkón
+
     gender: masculine
-    ladino: balkon
     number: singular
+
     translations:
         english: balcony
         french: ''
@@ -16,3 +17,6 @@ versions:
         - balcón
         - palco
         turkish: balkon
+
+examples:
+  - ladino: La aviya visto arimada en el balkon de la kula.

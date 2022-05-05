@@ -1,9 +1,11 @@
 grammar: null
 id: '2395,1703'
 origen: Jeneral
+
 versions:
--   accented: atrás
-    ladino: atras
+  - ladino: atras
+    accented: atrás
+
     translations:
         english:
         - back

@@ -1,10 +1,10 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1226'
 origen: Jeneral
+
 versions:
--   accented: arresentarse
-    ladino: arresentarse
+  - ladino: arresentarse
+
     translations:
         english:
         - moderate oneself
@@ -17,3 +17,7 @@ versions:
         turkish:
         - uslanmak
         - düzene girmek
+
+conjugations: {}
+
+examples: []

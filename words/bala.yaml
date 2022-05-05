@@ -1,13 +1,14 @@
-examples:
--   ladino: Los ijikos djugavan en la kaye kon la bala.
 grammar: null
 id: '158'
 origen: Jeneral
+
 versions:
--   accented: bála
+  - ladino: bala
+    accented: bála
+
     gender: feminine
-    ladino: bala
     number: singular
+
     translations:
         english:
         - ball
@@ -24,3 +25,6 @@ versions:
         - fişek
         - denk
         - balya
+
+examples:
+  - ladino: Los ijikos djugavan en la kaye kon la bala.

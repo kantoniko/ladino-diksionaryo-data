@@ -1,14 +1,17 @@
-examples:
--   ladino: En la avla de Rodes, no entran munchos biervos en fransez.
 grammar: null
 id: '2398'
 origen: Jeneral
+
 versions:
--   accented: ávla
-    ladino: avla
+  - ladino: avla
+    accented: ávla
+
+    gender: feminine
+    number: singular
+
     translations:
         english:
-        - speeh
+        - speech
         - language
         - dialect
         french: ''
@@ -19,3 +22,27 @@ versions:
         - laf
         - dil
         - lehçe
+
+  - ladino: avlas
+    accented: ávlas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - speeches
+        - languages
+        - dialects
+        french: ''
+        portuguese: ''
+        spanish: hablas
+        turkish:
+        - konuşma
+        - laf
+        - dil
+        - lehçe
+
+
+examples:
+  - ladino: En la avla de Rodes, no entran munchos biervos en fransez.

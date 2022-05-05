@@ -1,13 +1,14 @@
-examples:
--   ladino: Azlaha ke te meta el Dio.
 grammar: null
 id: '2765'
 origen: Jeneral
+
 versions:
--   accented: azlahá
+  - ladino: azlaha
+    accented: azlahá
+
     gender: feminine
-    ladino: azlaha
     number: singular
+
     translations:
         english:
         - success
@@ -20,3 +21,6 @@ versions:
         turkish:
         - başarı
         - bereket
+
+examples:
+  - ladino: Azlaha ke te meta el Dio.

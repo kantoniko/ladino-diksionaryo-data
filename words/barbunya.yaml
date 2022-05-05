@@ -1,15 +1,21 @@
-examples: []
 grammar: null
 id: '2706'
 origen: Estanbol
+kategorias:
+  - animales
+
 versions:
--   accented: barbúnya
+  - ladino: barbunya
+    accented: barbúnya
+
     gender: feminine
-    ladino: barbunya
     number: singular
+
     translations:
         english: red mullet fish
         french: ''
         portuguese: ''
         spanish: salmonete
         turkish: barbunya balığı
+
+examples: []

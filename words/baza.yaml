@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1251'
 origen: Jeneral
+
 versions:
--   accented: baza
-    ladino: baza
+  - ladino: baza
+
+    gender: feminine
+    number: singular
+
     translations:
         english: basis
         french: ''
@@ -14,3 +17,5 @@ versions:
         - temel
         - esas
         - dayanak
+
+examples: []

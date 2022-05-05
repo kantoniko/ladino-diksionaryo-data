@@ -1,13 +1,11 @@
-examples:
--   ladino: 'Azme este plazer, asi tengas todo bueno, asi bivas munchos anyos.
-
-        Asi biva yo ke te dishe la vedra.'
 grammar: null
 id: '2391'
 origen: Jeneral
+
 versions:
--   accented: así
-    ladino: asi
+  - ladino: asi
+    accented: así
+
     translations:
         english:
         - so
@@ -18,3 +16,7 @@ versions:
         turkish:
         - böyle
         - böylece
+
+examples:
+  - ladino: Azme este plazer, asi tengas todo bueno, asi bivas munchos anyos.
+  - ladino: Asi biva yo ke te dishe la vedra.'

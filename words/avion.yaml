@@ -1,10 +1,15 @@
-examples: []
 grammar: null
 id: '1653'
 origen: Jeneral
+kategorias:
+  - veikolos
+
 versions:
--   accented: avion
-    ladino: avion
+  - ladino: avion
+
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - plane
@@ -13,3 +18,20 @@ versions:
         portuguese: ''
         spanish: avión
         turkish: uçak
+
+  - ladino: aviones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - planes
+        - airplanes
+        french: ''
+        portuguese: ''
+        spanish: aviónes
+        turkish: uçak
+
+
+examples: []
