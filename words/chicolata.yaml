@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '212'
 origen: Jeneral
+
 versions:
--   accented: chicolata
-    ladino: chicolata
+  - ladino: chicolata
+
     translations:
         english: chocolate
         french: ''
         portuguese: ''
         spanish: chocolate
         turkish: çukulata
+
+examples: []

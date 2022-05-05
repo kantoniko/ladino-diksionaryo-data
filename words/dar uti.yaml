@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '222'
 origen: Jeneral
+
 versions:
--   accented: dar uti
-    ladino: dar uti
+  - ladino: dar uti
+
     translations:
         english: iron
         french: ''
         portuguese: ''
         spanish: planchar
         turkish: ütülemek
+
+examples: []

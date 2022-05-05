@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '196'
 origen: Jeneral
+
 versions:
--   accented: bragas
-    ladino: bragas
+  - ladino: bragas
+
     translations:
         english: breeches
         french: ''
         portuguese: ''
         spanish: bragas
         turkish: külot
+
+examples: []

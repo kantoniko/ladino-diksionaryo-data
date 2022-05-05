@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '203'
 origen: Jeneral
+
 versions:
--   accented: burlarse de...
-    ladino: burlarse de...
+  - ladino: burlarse de
+
     translations:
         english: mock
         french: ''
         portuguese: ''
-        spanish: burlarse de...
+        spanish: burlarse de
         turkish: alay etmek
+
+examples: []
