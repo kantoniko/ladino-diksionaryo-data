@@ -1,14 +1,17 @@
-examples:
--   ladino: Algo akontesio?
 grammar: pronoun
 id: '71'
 origen: Jeneral
+
 versions:
--   accented: álgo
-    ladino: algo
+  - ladino: algo
+    accented: álgo
+
     translations:
         english: something
         french: ''
         portuguese: ''
         spanish: algo
         turkish: birşey
+
+examples:
+  - ladino: Algo akontesio?

@@ -1,18 +1,23 @@
-conjugations: {}
-examples:
--   ladino: Se aflijo porke peryo su echo.
 grammar: verb
 id: '1579'
 origen: Jeneral
+
 versions:
--   accented: aflijárse
+  - ladino: aflijarse
+    accented: aflijárse
+
     alternative-spelling:
-    -   accented: tenér péna
-        ladino: tener pena
-    ladino: aflijarse
+      - ladino: tener pena
+        accented: tenér péna
+
     translations:
         english: grieve
         french: ''
         portuguese: ''
         spanish: afligirse
         turkish: üzülmek
+
+conjugations: {}
+
+examples:
+  - ladino: Se aflijo porke peryo su echo.

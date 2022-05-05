@@ -1,14 +1,17 @@
-examples:
--   ladino: Alderredor de mi kaza ay yervado.
 grammar: preposition
 id: '66'
 origen: Jeneral
+
 versions:
--   accented: alderredór
-    ladino: alderredor
+  - ladino: alderredor
+    accented: alderredór
+
     translations:
         english: around
         french: ''
         portuguese: ''
         spanish: alrededor
         turkish: etrafında
+
+examples:
+  - ladino: Alderredor de mi kaza ay yervado.

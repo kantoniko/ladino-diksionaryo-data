@@ -1,13 +1,14 @@
-examples:
--   ladino: Uvo todo modo de frutas i zerzevates en abondansa!
 grammar: null
 id: '2870'
 origen: Jeneral
+
 versions:
--   accented: abondánsa
+  - ladino: abondansa
+    accented: abondánsa
+
     gender: feminine
-    ladino: abondansa
     number: singular
+
     translations:
         english: abundance
         french: abondance
@@ -16,3 +17,6 @@ versions:
         turkish:
         - bolluk
         - bereket
+
+examples:
+  - ladino: Uvo todo modo de frutas i zerzevates en abondansa!

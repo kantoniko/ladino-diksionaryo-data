@@ -1,11 +1,11 @@
-examples:
--   ladino: Les auguro ke la mueva anyada les seya abondante de luz.
 grammar: adjective
 id: '2871'
 origen: Jeneral
+
 versions:
--   accented: abondánte
-    ladino: abondante
+  - ladino: abondante
+    accented: abondánte
+
     translations:
         english:
         - abundant
@@ -16,3 +16,6 @@ versions:
         turkish:
         - bol
         - bereketli
+
+examples:
+  - ladino: Les auguro ke la mueva anyada les seya abondante de luz.

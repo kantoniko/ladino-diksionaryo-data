@@ -1,11 +1,11 @@
-examples:
--   ladino: Ademas vos kero rengrasiar por vuestras palavras de apresiasion.
 grammar: adverb
 id: '2274'
 origen: Jeneral
+
 versions:
--   accented: además
-    ladino: ademas
+  - ladino: ademas
+    accented: además
+
     translations:
         english:
         - besides
@@ -20,3 +20,6 @@ versions:
         turkish:
         - keza
         - üstelik
+
+examples:
+  - ladino: Ademas vos kero rengrasiar por vuestras palavras de apresiasion.

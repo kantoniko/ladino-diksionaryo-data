@@ -1,17 +1,61 @@
-examples:
--   ladino: Ansina pasavamos los alhades en akeyos diyas ke no aviya televizion o
-        video.
-comments:
-  - grammar was m+pron.
 grammar: null
 id: '53'
 origen: Jeneral
+
 versions:
--   accented: akéyo
-    ladino: akeyo
+  - ladino: akeyo
+    accented: akéyo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: that
         french: ''
         portuguese: ''
         spanish: aquello
         turkish: o
+
+  - ladino: akeya
+    accented: akéya
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: that
+        french: ''
+        portuguese: ''
+        spanish: aquella
+        turkish: o
+
+  - ladino: akeyos
+    accented: akéyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: those
+        french: ''
+        portuguese: ''
+        spanish: aquellos
+        turkish: o
+
+  - ladino: akeyas
+    accented: akéyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: those
+        french: ''
+        portuguese: ''
+        spanish: aquellas
+        turkish: o
+
+
+
+examples:
+  - ladino: Ansina pasavamos los alhades en akeyos diyas ke no aviya televizion o video.

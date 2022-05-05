@@ -1,16 +1,18 @@
-examples:
--   ladino: Ya tomo muncho i dainda demanda.
 grammar: adverb
 id: '2372'
 origen: Otros
+
 versions:
--   accented: aínda
+  - ladino: ainda
+    accented: aínda
+
     alternative-spelling:
-    -   accented: ayínda
-        ladino: ayinda
-    -   accented: daínda
-        ladino: dainda
-    ladino: ainda
+      - ladino: ayinda
+        accented: ayínda
+
+      - ladino: dainda
+        accented: daínda
+
     translations:
         english:
         - yet
@@ -24,3 +26,6 @@ versions:
         - henüz
         - hâlâ
         - hâlen
+
+examples:
+  - ladino: Ya tomo muncho i dainda demanda.

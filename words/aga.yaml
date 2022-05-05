@@ -1,13 +1,14 @@
-examples:
--   ladino: El aga le demando  ke echo aze.
 grammar: null
 id: '2986'
 origen: Jeneral
+
 versions:
--   accented: agá
+  - ladino: aga
+    accented: agá
+
     gender: masculine
-    ladino: aga
     number: singular
+
     translations:
         english:
         - lord
@@ -18,3 +19,6 @@ versions:
         - señor
         - amo
         turkish: ağa
+
+examples:
+  - ladino: El aga le demando  ke echo aze.

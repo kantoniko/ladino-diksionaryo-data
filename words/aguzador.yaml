@@ -1,16 +1,20 @@
-examples:
--   ladino: El aguzador de kuchiyos pasava por las kalejas.
 grammar: null
 id: '47'
 origen: Jeneral
+
 versions:
--   accented: aguzadór
+  - ladino: aguzador
+    accented: aguzadór
+
     gender: masculine
-    ladino: aguzador
     number: singular
+
     translations:
         english: sharpener
         french: aiguiseur
         portuguese: afiador
         spanish: afilador
         turkish: bileyici
+
+examples:
+  - ladino: El aguzador de kuchiyos pasava por las kalejas.

@@ -1,6 +1,7 @@
 grammar: verb
 id: '1578'
 origen: Jeneral
+
 versions:
   - ladino: aflijar
     accented: aflijár
@@ -16,6 +17,7 @@ versions:
         turkish: üzmek
 
 conjugations: {}
+
 examples:
   - ladino: Mi hazinura lo aflijo.
 

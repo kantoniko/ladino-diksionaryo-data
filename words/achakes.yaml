@@ -1,13 +1,14 @@
-examples:
--   ladino: Vino tadre achakes de la luvia.
 grammar: null
 id: '35'
 origen: Jeneral
+
 versions:
--   accented: achákes
+  - ladino: achakes
+    accented: achákes
+
     gender: masculine
-    ladino: achakes
     number: singular
+
     translations:
         english: because of
         french: à cause de
@@ -23,3 +24,5 @@ versions:
 comments:
   - achákes de
 
+examples:
+  - ladino: Vino tadre achakes de la luvia.

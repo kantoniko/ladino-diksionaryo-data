@@ -1,16 +1,20 @@
-examples:
--   ladino: Eya se engrandesio sin konoser djudios i se konvertio al kristianizmo,
-        ma kontinuo, a las eskondidas, a azer ayuno un diya al anyo porke se akodrava
-        ke ansina uzavan en su kaza en Diya de Kipur.
 grammar: null
 id: '27'
 origen: Jeneral
+
 versions:
--   accented: a las eskondídas
-    ladino: a las eskondidas
+  - ladino: a las eskondidas
+    accented: a las eskondídas
+
     translations:
         english: behind somebody's back (to do something)
         french: en cachette
         portuguese: às escondidas
         spanish: a escondidas (hacer algo )
         turkish: gizlice
+
+examples:
+  - ladino: Eya se engrandesio sin konoser djudios i se konvertio al kristianizmo,
+        ma kontinuo, a las eskondidas, a azer ayuno un diya al anyo porke se akodrava
+        ke ansina uzavan en su kaza en Diya de Kipur.
+

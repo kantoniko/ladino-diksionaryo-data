@@ -1,18 +1,20 @@
-examples:
--   ladino: 'La verdad i la sinseridad son los dos adjektivos ke resumen mi boletin.
-
-        '
 grammar: null
 id: '2629'
 origen: Jeneral
+
 versions:
--   accented: adjektívo
+  - ladino: adjektivo
+    accented: adjektívo
+
     gender: masculine
-    ladino: adjektivo
     number: singular
+
     translations:
         english: adjective
         french: ''
         portuguese: ''
         spanish: adjetivo
         turkish: sıfat
+
+examples:
+  - ladino: 'La verdad i la sinseridad son los dos adjektivos ke resumen mi boletin.'

@@ -1,16 +1,22 @@
-examples:
--   ladino: Kon las aluengas kolgando por afuera, lo miran al grego sin kreer...
 grammar: null
 id: '2745'
 origen: Estanbol
+kategorias:
+  - puerpo
+
 versions:
--   accented: aluénga
+  - ladino: aluenga
+    accented: aluénga
+
     gender: feminine
-    ladino: aluenga
     number: singular
+
     translations:
         english: tongue
         french: ''
         portuguese: ''
         spanish: luenga
         turkish: dil
+
+examples:
+  - ladino: Kon las aluengas kolgando por afuera, lo miran al grego sin kreer...

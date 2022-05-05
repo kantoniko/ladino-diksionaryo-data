@@ -1,16 +1,34 @@
-examples:
--   ladino: Keremos topar aktores ke puedan avlar esta lingua.
 grammar: null
 id: '1188'
 origen: Jeneral
+
 versions:
--   accented: aktór
+  - ladino: aktor
+    accented: aktór
+
     gender: masculine
-    ladino: aktor
     number: singular
+
     translations:
         english: actor
         french: ''
         portuguese: ''
         spanish: actor
         turkish: aktör
+
+  - ladino: aktores
+    accented: aktóres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: actors
+        french: ''
+        portuguese: ''
+        spanish: actores
+        turkish: aktör
+
+
+examples:
+  - ladino: Keremos topar aktores ke puedan avlar esta lingua.

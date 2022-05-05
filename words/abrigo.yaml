@@ -1,16 +1,18 @@
-examples:
--   ladino: Kada padre de famiya deve de asigurar un avrigo para los suyos.
 grammar: null
 id: '2813'
 origen: Jeneral
+
 versions:
--   accented: abrígo
+  - ladino: abrigo
+    accented: abrígo
+
     alternative-spelling:
-    -   accented: avrígo
-        ladino: avrigo
+      - ladino: avrigo
+        accented: avrígo
+
     gender: masculine
-    ladino: abrigo
     number: singular
+
     translations:
         english:
         - shelter
@@ -23,3 +25,30 @@ versions:
         turkish:
         - barınak
         - sığınak
+
+  - ladino: abrigos
+    accented: abrígos
+
+    alternative-spelling:
+      - ladino: avrigos
+        accented: avrígos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - shelters
+        - refuges
+        french: abris
+        portuguese: ''
+        spanish:
+        - abrigos
+        - refugios
+        turkish:
+        - barınak
+        - sığınak
+
+
+examples:
+  - ladino: Kada padre de famiya deve de asigurar un avrigo para los suyos.

@@ -1,14 +1,17 @@
-examples:
--   ladino: Esto abashamentada.
 grammar: adjective
 id: '2758'
 origen: Aki Yerushalayim
+
 versions:
--   accented: abashamentádo
-    ladino: abashamentado
+  - ladino: abashamentado
+    accented: abashamentádo
+
     translations:
         english: with cold
         french: enrhumé
         portuguese: constipado
         spanish: con resfriado
         turkish: nezleli
+
+examples:
+  - ladino: Esto abashamentada.

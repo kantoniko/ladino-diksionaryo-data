@@ -1,19 +1,20 @@
-examples:
--   ladino: Esto kon un abashamiento muy fuerte.
 grammar: null
 id: '2757'
 origen: Izmir
+
 versions:
--   accented: abashamiénto
+  - ladino: abashamiento
+    accented: abashamiénto
+
     gender: masculine
-    ladino: abashamiento
     number: singular
+
     translations:
         english:
         - cold
         - flu
         french: rhume
-        portuguese: ' constipacão'
+        portuguese: constipacão
         spanish:
         - resfriado
         - influenza
@@ -21,3 +22,6 @@ versions:
         turkish:
         - nezle
         - grip
+
+examples:
+  - ladino: Esto kon un abashamiento muy fuerte.

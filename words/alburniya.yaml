@@ -1,16 +1,22 @@
-examples:
--   ladino: '"alburniya" es una kumida de berendjena kon karne.'
 grammar: null
 id: '2692'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: alburníya
+  - ladino: alburniya
+    accented: alburníya
+
     gender: feminine
-    ladino: alburniya
     number: singular
+
     translations:
         english: fried eggplant in tomato sauce
         french: ''
         portuguese: ''
         spanish: berenjena frita con tomate
         turkish: domatesli patlıcan kızartma
+
+examples:
+  - ladino: '"alburniya" es una kumida de berendjena kon karne.'

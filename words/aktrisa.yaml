@@ -1,16 +1,34 @@
-examples:
--   ladino: Es una aktrisa formidavle.
 grammar: null
 id: '1189'
 origen: Jeneral
+
 versions:
--   accented: aktrísa
+  - ladino: aktrisa
+    accented: aktrísa
+
     gender: feminine
-    ladino: aktrisa
     number: singular
+
     translations:
         english: actress
         french: ''
         portuguese: ''
         spanish: actriz
         turkish: aktris
+
+  - ladino: aktrisas
+    accented: aktrísas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: actresses
+        french: ''
+        portuguese: ''
+        spanish: actrizas
+        turkish: aktris
+
+
+examples:
+  - ladino: Es una aktrisa formidavle.

@@ -1,14 +1,17 @@
-examples:
--   ladino: 'Teniya alfinetes espesiales kon kavesas de diferente kolores. '
 grammar: null
 id: '3023'
 origen: Jeneral
+
 versions:
--   accented: alfinéte
-    ladino: alfinete
+  - ladino: alfinete
+    accented: alfinéte
+
     translations:
         english: pin
         french: épingle
         portuguese: ''
         spanish: alfiler
         turkish: toplu iğne
+
+examples:
+  - ladino: Teniya alfinetes espesiales kon kavesas de diferente kolores.

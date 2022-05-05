@@ -1,16 +1,22 @@
-examples:
--   ladino: Me akodro de arankar aharovas i chuparlas komo chupamelas!
 grammar: null
 id: '2691'
 origen: Jeneral
+kategorias:
+  - plantas
+
 versions:
--   accented: aharóva
+  - ladino: aharova
+    accented: aharóva
+
     gender: feminine
-    ladino: aharova
     number: singular
+
     translations:
         english: carob
         french: caroube
         portuguese: ''
         spanish: algarroba
         turkish: keçi boynuzu
+
+examples:
+  - ladino: Me akodro de arankar aharovas i chuparlas komo chupamelas!

@@ -1,14 +1,17 @@
-examples:
--   ladino: Uvo muncho aire i aferri una abashada muy fuerte.
 grammar: null
 id: '1577'
 origen: Jeneral
+
 versions:
--   accented: aferrár abasháda
-    ladino: aferrar abashada
+  - ladino: aferrar abashada
+    accented: aferrár abasháda
+
     translations:
         english: catch cold
         french: s'enrhumer
         portuguese: ''
         spanish: resfriarse
         turkish: nezle olmak
+
+examples:
+  - ladino: Uvo muncho aire i aferri una abashada muy fuerte.

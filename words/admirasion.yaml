@@ -1,16 +1,20 @@
-examples:
--   ladino: Tengo grande admirasion por sus lavoros.
 grammar: null
 id: '1573'
 origen: Jeneral
+
 versions:
--   accented: admirasión
+  - ladino: admirasion
+    accented: admirasión
+
     gender: feminine
-    ladino: admirasion
     number: singular
+
     translations:
         english: admiration
         french: admiration
         portuguese: admiração
         spanish: admiración
         turkish: hayranlık
+
+examples:
+  - ladino: Tengo grande admirasion por sus lavoros.

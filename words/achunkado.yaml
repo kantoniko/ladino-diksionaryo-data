@@ -1,11 +1,11 @@
-examples:
--   ladino: Se kedo dos malas oras achunkado, no lo mirimos en la kara.
 grammar: adjective
 id: '1171'
 origen: Jeneral
+
 versions:
--   accented: achunkádo
-    ladino: achunkado
+  - ladino: achunkado
+    accented: achunkádo
+
     translations:
         english: crouched
         french: accroupi
@@ -18,3 +18,6 @@ versions:
         turkish:
         - çökmüş
         - çömelmiş
+
+examples:
+  - ladino: Se kedo dos malas oras achunkado, no lo mirimos en la kara.
