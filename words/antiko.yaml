@@ -1,17 +1,60 @@
-examples:
--   ladino: Este kal es antiko (500 anios).
 grammar: adjective
 id: '1211'
 origen: Jeneral
+
 versions:
--   accented: antíko
-    alternative-spelling:
-    -   accented: antíka
-        ladino: antika
-    ladino: antiko
+  - ladino: antiko
+    accented: antíko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: antique
         french: ''
         portuguese: ''
         spanish: antigua
         turkish: antika
+
+  - ladino: antika
+    accented: antíka
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: antique
+        french: ''
+        portuguese: ''
+        spanish: antigua
+        turkish: antika
+
+  - ladino: antikos
+    accented: antíkos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: antiques
+        french: ''
+        portuguese: ''
+        spanish: antiguas
+        turkish: antika
+
+  - ladino: antikas
+    accented: antíkas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: antiques
+        french: ''
+        portuguese: ''
+        spanish: antiguas
+        turkish: antika
+
+
+examples:
+  - ladino: Este kal es antiko (500 anios).

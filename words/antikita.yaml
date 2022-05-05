@@ -1,16 +1,20 @@
-examples:
--   ladino: Sokrate akel vertuozo ombre de la antikita...
 grammar: null
 id: '1606'
 origen: Jeneral
+
 versions:
--   accented: antikitá
+  - ladino: antikita
+    accented: antikitá
+
     gender: feminine
-    ladino: antikita
     number: singular
+
     translations:
         english: antiquity
         french: ''
         portuguese: ''
         spanish: antigüedad
         turkish: antikite
+
+examples:
+  - ladino: Sokrate akel vertuozo ombre de la antikita...

@@ -1,16 +1,22 @@
-examples:
--   ladino: Mavlacha era komo los bonbones de alkide shekeri.
 grammar: null
 id: '3027'
 origen: Jeneral
+kategorias:
+  - komidas
+
 versions:
--   accented: alkidé
+  - ladino: alkide
+    accented: alkidé
+
     gender: masculine
-    ladino: alkide
     number: singular
+
     translations:
         english: sugar candy
         french: sucre candi
         portuguese: asucar candi
         spanish: azúcar cande
         turkish: akide şekeri
+
+examples:
+  - ladino: Mavlacha era komo los bonbones de alkide shekeri.

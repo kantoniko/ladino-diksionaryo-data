@@ -1,15 +1,19 @@
-conjugations: {}
-examples:
--   ladino: Me apoyi a la meza para no kayer.
 grammar: verb
 id: '2388'
 origen: Jeneral
+
 versions:
--   accented: apoyárse
-    ladino: apoyarse
+  - ladino: apoyarse
+    accented: apoyárse
+
     translations:
         english: rest on
         french: ''
         portuguese: ''
         spanish: apoyarse
         turkish: dayanmak
+
+conjugations: {}
+examples:
+  - ladino: Me apoyi a la meza para no kayer.
+

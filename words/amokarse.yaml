@@ -1,15 +1,18 @@
-conjugations: {}
-examples:
--   ladino: A Djoha le disheron ke se amoke, se kito la nariz.
 grammar: verb
 id: '3038'
 origen: Jeneral
+
 versions:
--   accented: amokárse
-    ladino: amokarse
+  - ladino: amokarse
+    accented: amokárse
+
     translations:
         english: blow one's nose
         french: se moucher
         portuguese: soprar
         spanish: sonarse
         turkish: burnunu silmek
+
+conjugations: {}
+examples:
+  - ladino: A Djoha le disheron ke se amoke, se kito la nariz.

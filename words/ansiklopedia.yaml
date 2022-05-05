@@ -1,16 +1,20 @@
-examples:
--   ladino: De ansiklopedias a diksionarios, siempre emplean el nombre Ladino.
 grammar: null
 id: '1605'
 origen: Jeneral
+
 versions:
--   accented: ansiklopédia
+  - ladino: ansiklopedia
+    accented: ansiklopédia
+
     gender: feminine
-    ladino: ansiklopedia
     number: singular
+
     translations:
         english: encyclopaedia
         french: encyclopédie
         portuguese: ''
         spanish: enciclopedia
         turkish: ansiklopedi
+
+examples:
+  - ladino: De ansiklopedias a diksionarios, siempre emplean el nombre Ladino.

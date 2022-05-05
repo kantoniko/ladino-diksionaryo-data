@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '107'
 origen: Jeneral
+
 versions:
--   accented: araparse
-    ladino: araparse
+  - ladino: araparse
+
     translations:
         english: shave
         french: ''
         portuguese: ''
         spanish: afeitarse
         turkish: traş olmak
+
+conjugations: {}
+
+examples: []

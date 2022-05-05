@@ -1,13 +1,11 @@
-examples:
--   ladino: 'Kuando se kazo, biviya kon sus parientes; agora se salio aparte.
-
-        Me puedes eskrivir aparte si keres.'
 grammar: adverb
 id: '2386'
 origen: Jeneral
+
 versions:
--   accented: apárte
-    ladino: aparte
+  - ladino: aparte
+    accented: apárte
+
     translations:
         english:
         - apart
@@ -18,3 +16,7 @@ versions:
         turkish:
         - ayrı
         - ayrıca
+
+examples:
+  - ladino: Kuando se kazo, biviya kon sus parientes; agora se salio aparte.
+  - ladino: Me puedes eskrivir aparte si keres.

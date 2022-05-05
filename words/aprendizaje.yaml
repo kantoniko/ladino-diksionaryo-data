@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1615'
 origen: Jeneral
+
 versions:
--   accented: aprendizaje
-    ladino: aprendizaje
+  - ladino: aprendizaje
+
     translations:
         english: apprenticeship
         french: ''
         portuguese: ''
         spanish: aprendizaje
         turkish: çıraklık
+
+examples: []

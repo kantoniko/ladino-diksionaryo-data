@@ -1,16 +1,20 @@
-examples:
--   ladino: Las diferensias de enteres yelan la amistad. (Neh.)
 grammar: null
 id: '88'
 origen: Jeneral
+
 versions:
--   accented: amistád
+  - ladino: amistad
+    accented: amistád
+
     gender: feminine
-    ladino: amistad
     number: singular
+
     translations:
         english: friendship
         french: amitié
         portuguese: amizade
         spanish: amistad
         turkish: dostluk
+
+examples:
+  - ladino: Las diferensias de enteres yelan la amistad. (Neh.)

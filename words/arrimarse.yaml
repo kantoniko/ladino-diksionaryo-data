@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Ken en buen arvole se arrima, buena solombra lo kuvija. (Neh.)
 grammar: verb
 id: '1629'
 origen: Jeneral
+
 versions:
--   accented: arrimárse
-    ladino: arrimarse
+  - ladino: arrimarse
+    accented: arrimárse
+
     translations:
         english:
         - lean
@@ -17,3 +16,8 @@ versions:
         turkish:
         - dayanmak
         - yaslanmak
+
+conjugations: {}
+
+examples:
+  - ladino: Ken en buen arvole se arrima, buena solombra lo kuvija. (Neh.)

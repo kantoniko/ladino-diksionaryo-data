@@ -1,14 +1,17 @@
-examples:
--   ladino: Esto bushkando enformasion sovre la situasion aktual del ladino.
 grammar: adjective
 id: '1588'
 origen: Jeneral
+
 versions:
--   accented: aktuál
-    ladino: aktual
+  - ladino: aktual
+    accented: aktuál
+
     translations:
         english: actual
         french: ''
         portuguese: ''
         spanish: actual
         turkish: güncel
+
+examples:
+  - ladino: Esto bushkando enformasion sovre la situasion aktual del ladino.

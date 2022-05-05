@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '117'
 origen: Jeneral
+
 versions:
--   accented: armada
-    ladino: armada
+  - ladino: armada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: army
         french: ''
         portuguese: ''
         spanish: ejército
         turkish: ordu
+
+  - ladino: armadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: armies
+        french: ''
+        portuguese: ''
+        spanish: ejércitos
+        turkish: ordu
+
+
+examples: []

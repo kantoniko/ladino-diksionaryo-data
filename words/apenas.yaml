@@ -1,11 +1,11 @@
-examples:
--   ladino: Apenas aboltas la kara, ya se izo tadre.
 grammar: adverb
 id: '103'
 origen: Jeneral
+
 versions:
--   accented: apénas
-    ladino: apenas
+  - ladino: apenas
+    accented: apénas
+
     translations:
         english:
         - scarcely
@@ -17,3 +17,6 @@ versions:
         - henüz
         - ancak
         - zar zor
+
+examples:
+  - ladino: Apenas aboltas la kara, ya se izo tadre.

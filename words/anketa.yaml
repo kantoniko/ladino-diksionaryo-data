@@ -1,17 +1,20 @@
-examples:
--   ladino: Me parese ke vos va interesar esta anketa ke izo Klara Perahya en Istanbul
-        entre 805 personas.
 grammar: null
 id: '1208'
 origen: Jeneral
+
 versions:
--   accented: ankéta
+  - ladino: anketa
+    accented: ankéta
+
     gender: feminine
-    ladino: anketa
     number: singular
+
     translations:
         english: poll
         french: ''
         portuguese: ''
         spanish: encuesta
         turkish: anket
+
+examples:
+  - ladino: Me parese ke vos va interesar esta anketa ke izo Klara Perahya en Istanbul entre 805 personas.

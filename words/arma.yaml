@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1619'
 origen: Jeneral
+kategorias:
+  - puerpo
+
 versions:
--   accented: arma
-    ladino: arma
+  - ladino: arma
+
     translations:
         english: arm
         french: ''
         portuguese: ''
         spanish: arma
         turkish: silah
+
+examples: []
