@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+
+# Otros tambien uzan esta palavra LK, ama posivle ke es tiene ke ser "egziste" un konjugasion de egzistir.
+
+versions:
+  - ladino: eksiste
+
+    translations:
+      english: exists
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: existe
+      turkish: ''
+
+examples: []

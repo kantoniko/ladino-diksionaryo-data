@@ -12,6 +12,18 @@ versions:
         spanish: corregir
         turkish: tashih etmek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: korijo
+      translations:
+        english: correct
+        spanish: corrijo
+
+    eyos:
+      ladino: korijan
+      translations:
+        english: correct
+        spanish: corrigen
 
 examples: []

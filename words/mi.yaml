@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: mi
 
+    #gender: NA # masculine feminine both
+    number: singular
+
     translations:
         english:
         - my
@@ -18,5 +21,24 @@ versions:
         - benim
         - ben
 
+  - ladino: mis
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+        english:
+        - my
+        - me
+        french: ''
+        portuguese: ''
+        spanish:
+        - mis
+        - mís
+        turkish: ''
+
+
 examples:
   - ladino: El era mi ermano adoptado.
+  - ladino: Eyos eran mis ermanos adoptados.
+  - ladino: Eyos son mis livros.

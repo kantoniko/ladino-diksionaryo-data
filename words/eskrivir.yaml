@@ -12,7 +12,14 @@ versions:
         spanish: escribir
         turkish: yazmak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: eskrivo
+      translations:
+        english: write
+        spanish: escribo
+
 
 examples:
   - ladino: Este sitio no es el lugar para eskrivir toda una vida.

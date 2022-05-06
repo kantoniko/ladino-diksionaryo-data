@@ -12,6 +12,25 @@ versions:
         spanish: dar
         turkish: vermek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: do
+      translations:
+        english: give
+        spanish: doy
+
+    tu:
+      ladino: das
+      translations:
+        english: give
+        spanish: das
+
+    el:
+      ladino: da
+      translations:
+        english: gives
+        spanish: da
+
 
 examples: []

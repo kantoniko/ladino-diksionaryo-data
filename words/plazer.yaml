@@ -47,7 +47,13 @@ versions:
         spanish: gustar a...
         turkish: hoşuna gitmek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: plaze
+      translations:
+        english: like
+
 examples:
   - ladino: A las kreaturas, les plaze la chikolata.
   - ladino: Me izo plazer de konoserlo.
