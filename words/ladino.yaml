@@ -1,7 +1,7 @@
 grammar: noun
 origen: Jeneral
 kategorias:
-  - idiomas
+  - linguas
 
 versions:
   - ladino: ladino

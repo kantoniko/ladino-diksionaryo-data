@@ -2,7 +2,7 @@ grammar: noun
 id: '1216'
 origen: Jeneral
 kategorias:
-  - idiomas
+  - linguas
 
 versions:
   - ladino: arabo

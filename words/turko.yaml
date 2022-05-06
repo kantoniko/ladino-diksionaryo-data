@@ -2,7 +2,7 @@ grammar: null
 id: '25'
 origen: Jeneral
 kategorias:
-  - idiomas
+  - linguas
 
 versions:
   - ladino: turko
