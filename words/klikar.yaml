@@ -1,0 +1,20 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: klikar
+
+    translations:
+      english: click
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
+
+examples:
+  - ladino: Klikar aka para una vista de pasharo!
+    english: Click for a bird's eye view!
+

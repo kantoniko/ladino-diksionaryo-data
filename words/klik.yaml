@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: klik
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: click
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
