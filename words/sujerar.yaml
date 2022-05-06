@@ -3,7 +3,7 @@ id: '2203'
 origen: Jeneral
 
 versions:
-  - ladino: sugjerar
+  - ladino: sujerar
 
     translations:
         english: suggest
@@ -12,6 +12,13 @@ versions:
         spanish: sugerir
         turkish: telkin etmek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: sujero
+      translations:
+        english: suggest
+        spanish: sugiero
+
 
 examples: []
