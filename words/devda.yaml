@@ -1,16 +1,20 @@
-examples:
--   ladino: Ken apromete, en devda se mete. (Neh.)
 grammar: null
 id: '2771'
 origen: Jeneral
+
 versions:
--   accented: dévda
+  - ladino: devda
+    accented: dévda
+
     gender: feminine
-    ladino: devda
     number: singular
+
     translations:
         english: debt
         french: ''
         portuguese: ''
         spanish: deuda
         turkish: borç
+
+examples:
+  - ladino: Ken apromete, en devda se mete. (Neh.)

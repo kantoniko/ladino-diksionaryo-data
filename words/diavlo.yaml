@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1715'
 origen: Jeneral
+
 versions:
--   accented: diavlo
-    ladino: diavlo
+  - ladino: diavlo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: devil
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - şeytan
         - iblis
+
+examples: []

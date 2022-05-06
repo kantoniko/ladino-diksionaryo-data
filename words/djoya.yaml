@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1730'
 origen: Jeneral
+
 versions:
--   accented: djoya
-    ladino: djoya
+  - ladino: djoya
+
     translations:
         english: jewel
         french: ''
         portuguese: ''
         spanish: joya
         turkish: mücevher
+
+examples: []

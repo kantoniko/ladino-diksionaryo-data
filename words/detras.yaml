@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1708'
 origen: Jeneral
+
 versions:
--   accented: detras
+  - ladino: detras
+
     alternative-spelling:
-    -   accented: despues
-        ladino: despues
-    ladino: detras
+      - ladino: despues
+
     translations:
         english:
         - posterior
@@ -18,5 +18,7 @@ versions:
         turkish:
         - arka
         - sonra
+
+examples: []
 
 # detrás,Kaminavan uno detras del otro.,detrás,behind,"arkasında, gerisinde",Jeneral,2420,,

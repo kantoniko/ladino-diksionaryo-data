@@ -1,14 +1,15 @@
-examples:
--   ladino: Al desdichado no le kamina el kavayo, dize ke es ojo malo. (Neh.)
 grammar: adjective
 id: '2777'
 origen: Jeneral
+
 versions:
--   accented: desdichádo
+  - ladino: desdichado
+    accented: desdichádo
+
     alternative-spelling:
-    -   accented: desdicháda
-        ladino: desdichada
-    ladino: desdichado
+      - ladino: desdichada
+        accented: desdicháda
+
     translations:
         english:
         - unhappy
@@ -22,3 +23,6 @@ versions:
         - talihsiz
         - biçare
         - garip
+
+examples:
+  - ladino: Al desdichado no le kamina el kavayo, dize ke es ojo malo. (Neh.)

@@ -1,14 +1,15 @@
-examples:
--   ladino: Ningun ijo de djudio se tope en este sar.
 grammar: adjective
 id: '261'
 origen: Jeneral
+
 versions:
--   accented: dingún
+  - ladino: dingun
+    accented: dingún
+
     alternative-spelling:
-    -   accented: ningún
-        ladino: ningun
-    ladino: dingun
+      - ladino: ningun
+        accented: ningún
+
     translations:
         english:
         - 'no'
@@ -17,3 +18,6 @@ versions:
         portuguese: ''
         spanish: ninguno
         turkish: hiçbir
+
+examples:
+  - ladino: Ningun ijo de djudio se tope en este sar.

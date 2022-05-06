@@ -2,12 +2,13 @@ examples: []
 grammar: null
 id: '1714'
 origen: Jeneral
+
 versions:
--   accented: dezorden
+  - ladino: dezorden
+
     alternative-spelling:
-    -   accented: konfuzion
-        ladino: konfuzion
-    ladino: dezorden
+      - ladino: konfuzion
+
     translations:
         english:
         - disorder

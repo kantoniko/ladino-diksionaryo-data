@@ -1,16 +1,20 @@
-examples:
--   ladino: Mama i delantal ke tapan muncho mal.
 grammar: null
 id: '2980'
 origen: Jeneral
+
 versions:
--   accented: delantál
+  - ladino: delantal
+    accented: delantál
+
     gender: masculine
-    ladino: delantal
     number: singular
+
     translations:
         english: apron
         french: tablier
-        portuguese: ' avental'
+        portuguese: avental
         spanish: delantal
         turkish: önlük
+
+examples:
+  - ladino: Mama i delantal ke tapan muncho mal.

@@ -1,13 +1,11 @@
-comments:
-- 'grammar: m), djárra (f'
-examples:
--   ladino: Trusho un djarro de agua.
 grammar: null
 id: '2993'
 origen: Jeneral
+
 versions:
--   accented: djárro
-    ladino: djarro
+  - ladino: djarro
+    accented: djárro
+
     translations:
         english: jug
         french:
@@ -20,3 +18,8 @@ versions:
         turkish:
         - maşrapa
         - bakraç
+
+examples:
+  - ladino: Trusho un djarro de agua.
+
+# "djárro (m), djárra (f)",Trusho un djarro de agua.,"jarro, jarra",jug,"maşrapa, bakraç",Jeneral,2993,jarro,"jarre, broc"

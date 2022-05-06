@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '263'
 origen: Jeneral
+
 versions:
--   accented: disko
-    ladino: disko
+  - ladino: disko
+
+    gender: masculine
+    number: singular
+
     translations:
         english: disk
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - plak
         - disk
+
+examples: []

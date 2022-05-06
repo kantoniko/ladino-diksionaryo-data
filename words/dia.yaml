@@ -1,5 +1,5 @@
 grammar: null
-id: '255'
+id: '3,255'
 origen: Jeneral
 
 versions:
@@ -36,4 +36,5 @@ versions:
         turkish: gün
 
 
-examples: []
+examples:
+  - ladino: No era posible komer tanto dulse en un diya.

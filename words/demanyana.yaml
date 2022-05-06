@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '232'
 origen: Jeneral
+
 versions:
--   accented: demanyana
-    ladino: demanyana
+  - ladino: demanyana
+
+    gender: feminine
+    number: singular
+
     translations:
         english: morning
         french: ''
         portuguese: ''
         spanish: mañana
         turkish: sabah
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1704'
 origen: Jeneral
+
 versions:
--   accented: desrepozo
-    ladino: desrepozo
+  - ladino: desrepozo
+
     translations:
         english: ailment
         french: ''
         portuguese: ''
         spanish: achaque
         turkish: rahatsızlık
+
+examples: []

@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1728'
 origen: Jeneral
+
 versions:
--   accented: djesto
-    ladino: djesto
+  - ladino: djesto
+
+    gender: masculine
+    number: singular
+
     translations:
         english: gesture
         french: ''
         portuguese: ''
         spanish: gesto
         turkish: hareket
+
+  - ladino: djestos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: gestures
+        french: ''
+        portuguese: ''
+        spanish: gestos
+        turkish: hareket
+
+
+examples: []

@@ -1,17 +1,21 @@
-examples:
--   ladino: El Dyezen Kongreso de Estudios Djudeo-espanyoles...
 grammar: adjective
 id: '2912'
 origen: Jeneral
+
 versions:
--   accented: diezén
+  - ladino: diezen
+    accented: diezén
+
     alternative-spelling:
-    -   accented: dyezén
-        ladino: dyezen
-    ladino: diezen
+      - ladino: dyezen
+        accented: dyezén
+
     translations:
         english: tenth
         french: ''
         portuguese: ''
         spanish: décimo
         turkish: onuncu
+
+examples:
+  - ladino: El Dyezen Kongreso de Estudios Djudeo-espanyoles...

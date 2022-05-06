@@ -1,16 +1,18 @@
-examples:
--   ladino: Vos vo eskrivir detalyos kuando tengo un poko de tyempo.
 grammar: null
 id: '1706'
 origen: Jeneral
+
 versions:
--   accented: detálios
+  - ladino: detalios
+    accented: detálios
+
     alternative-spelling:
-    -   accented: detályos
-        ladino: detalyos
+      - ladino: detalyos
+        accented: detályos
+
     gender: masculine
-    ladino: detalios
     number: singular
+
     translations:
         english: details
         french: ''
@@ -19,3 +21,6 @@ versions:
         - detalles
         - minucia
         turkish: teferruat
+
+examples:
+  - ladino: Vos vo eskrivir detalyos kuando tengo un poko de tyempo.
