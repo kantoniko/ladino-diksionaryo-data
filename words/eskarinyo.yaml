@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1320'
 origen: Jeneral
+
 versions:
--   accented: eskarinyo
-    ladino: eskarinyo
+  - ladino: eskarinyo
+
     translations:
         english:
         - longing
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: añoranza
         turkish: özlem
+
+examples: []

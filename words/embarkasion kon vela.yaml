@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '311'
 origen: Jeneral
+
 versions:
--   accented: embarkasion kon vela
-    ladino: embarkasion kon vela
+  - ladino: embarkasion kon vela
+
     translations:
         english: sail boat
         french: ''
         portuguese: ''
         spanish: velero
         turkish: yelkenli
+
+examples: []

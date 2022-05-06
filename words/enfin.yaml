@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '323'
 origen: Jeneral
+
 versions:
--   accented: enfin
-    ladino: enfin
+  - ladino: enfin
+
     translations:
         english: finally
         french: ''
         portuguese: ''
         spanish: en fin
         turkish: nihayet
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1766'
 origen: Jeneral
+
 versions:
--   accented: en prezensia
-    ladino: en prezensia
+  - ladino: en prezensia
+
     translations:
         english: before
         french: ''
         portuguese: ''
         spanish: ante
         turkish: huzurunda
+
+examples: []

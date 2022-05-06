@@ -1,15 +1,17 @@
-examples: []
 grammar: null
 id: '2672'
 origen: Jeneral
 versions:
--   accented: embasadór
+  - ladino: embasador
+    accented: embasadór
+
     alternative-spelling:
-    -   accented: embashadór
-        ladino: embashador
+      - ladino: embashador
+        accented: embashadór
+
     gender: masculine
-    ladino: embasador
     number: singular
+
     translations:
         english: ambassador
         french: ''
@@ -18,3 +20,5 @@ versions:
         turkish:
         - elçi
         - sefir
+
+examples: []

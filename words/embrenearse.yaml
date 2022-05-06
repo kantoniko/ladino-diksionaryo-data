@@ -1,12 +1,11 @@
-conjugations: {}
-examples:
--   ladino: Vijitimos una guerta yena de flores i mos se embreneó la alma.
 grammar: verb
 id: '2957'
 origen: Jeneral
+
 versions:
--   accented: embreneárse
-    ladino: embrenearse
+  - ladino: embrenearse
+    accented: embreneárse
+
     translations:
         english: be delighted
         french: être ravi
@@ -15,3 +14,8 @@ versions:
         - tener gusto
         - estar encantado
         turkish: sevinmek
+
+conjugations: {}
+
+examples:
+  - ladino: Vijitimos una guerta yena de flores i mos se embreneó la alma.

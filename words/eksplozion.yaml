@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '302'
 origen: Jeneral
+
 versions:
--   accented: eksplozion
-    ladino: eksplozion
+  - ladino: eksplozion
+
     translations:
         english: explosion
         french: ''
         portuguese: ''
         spanish: explosión
         turkish: infilâk
+
+examples: []

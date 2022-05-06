@@ -1,13 +1,14 @@
-examples:
--   ladino: Paga el emporto de la fatura.
 grammar: null
 id: '1301'
 origen: Jeneral
+
 versions:
--   accented: empórto
+  - ladino: emporto
+    accented: empórto
+
     gender: masculine
-    ladino: emporto
     number: singular
+
     translations:
         english:
         - amount
@@ -19,3 +20,6 @@ versions:
         turkish:
         - miktar
         - meblağ
+
+examples:
+  - ladino: Paga el emporto de la fatura.

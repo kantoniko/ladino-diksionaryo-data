@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1303'
 origen: Jeneral
+
 versions:
--   accented: endriva
+  - ladino: endriva
+
     alternative-spelling:
-    -   accented: sovre
-        ladino: sovre
-    ladino: endriva
+      - ladino: sovre
+
     translations:
         english:
         - 'on'
@@ -19,3 +19,5 @@ versions:
         turkish:
         - üstünde
         - hakkında
+
+examples: []

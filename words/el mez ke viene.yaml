@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '306'
 origen: Jeneral
+
 versions:
--   accented: el mez ke viene
-    ladino: el mez ke viene
+  - ladino: el mez ke viene
+
     translations:
         english: next month
         french: ''
         portuguese: ''
         spanish: mes que viene (el)
         turkish: gelecek ay
+
+examples: []

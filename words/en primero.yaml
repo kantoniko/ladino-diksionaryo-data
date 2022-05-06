@@ -1,13 +1,12 @@
-examples: []
 grammar: null
 id: '319'
 origen: Jeneral
 versions:
--   accented: en primero
+  - ladino: en primero
+
     alternative-spelling:
-    -   accented: empesijo
-        ladino: empesijo
-    ladino: en primero
+      - ladino: empesijo
+
     translations:
         english: beginning
         french: ''
@@ -16,3 +15,5 @@ versions:
         turkish:
         - önce
         - başlangıç
+
+examples: []

@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1810'
 origen: Jeneral
+
 versions:
--   accented: estar seguro
-    ladino: estar seguro
+  - ladino: estar seguro
+
     translations:
         english: be certain
         french: ''
         portuguese: ''
         spanish: constar
         turkish: emin olmak
+
+examples: []

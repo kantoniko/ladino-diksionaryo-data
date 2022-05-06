@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1764'
 origen: Jeneral
+
 versions:
--   accented: embrolio
-    ladino: embrolio
+  - ladino: embrolio
+
     translations:
         english:
         - imbroglio
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: infundio
         turkish: karışıklık
+
+examples: []

@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '333'
 origen: Jeneral
+
 versions:
--   accented: enteresarse
-    ladino: enteresarse
+  - ladino: enteresarse
+
     translations:
         english: take interest
         french: ''
         portuguese: ''
         spanish: interesarse
         turkish: ilgilenmek
+
+conjugations: {}
+
+examples: []

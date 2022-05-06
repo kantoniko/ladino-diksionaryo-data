@@ -36,7 +36,7 @@ No        | Ladino
 90        | noventa
 100       | [sien](/words/ladino/sien) syen
 123       | siento venti tres
-200       | dosientos
+200       | [dozientos](/words/ladino/dozientos) dosientos
 300       | tresientos
 400       | kuatrosientos
 500       | kinyentos

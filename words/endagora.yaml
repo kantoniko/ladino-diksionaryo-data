@@ -1,11 +1,11 @@
-examples:
--   ladino: Endagora abolti de Quiberon ande pasi unos 10 diyas .
 grammar: adverb
 id: '2976'
 origen: Jeneral
+
 versions:
--   accented: endagóra
-    ladino: endagora
+  - ladino: endagora
+    accented: endagóra
+
     translations:
         english:
         - just now
@@ -18,3 +18,6 @@ versions:
         - ahora mismo
         - ahorita
         turkish: demin
+
+examples:
+  - ladino: Endagora abolti de Quiberon ande pasi unos 10 diyas.

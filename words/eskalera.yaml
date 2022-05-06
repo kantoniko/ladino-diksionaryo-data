@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '352'
 origen: Jeneral
+
 versions:
--   accented: eskalera
-    ladino: eskalera
+  - ladino: eskalera
+
     translations:
         english: staircase
         french: ''
         portuguese: ''
         spanish: escalera
         turkish: merdiven
+
+examples: []

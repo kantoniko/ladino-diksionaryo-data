@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '365'
 origen: Jeneral
+
 versions:
--   accented: espantarse
-    ladino: espantarse
+  - ladino: espantarse
+
     translations:
         english: be frightened
         french: ''
         portuguese: ''
         spanish: asustarse
         turkish: korkmak
+
+conjugations: {}
+
+examples: []

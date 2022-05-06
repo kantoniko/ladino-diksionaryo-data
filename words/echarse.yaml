@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '288'
 origen: Jeneral
+
 versions:
--   accented: echarse
-    ladino: echarse
+  - ladino: echarse
+
     translations:
         english: lie down
         french: ''
         portuguese: ''
         spanish: echarse
         turkish: yatmak
+
+conjugations: {}
+
+examples: []

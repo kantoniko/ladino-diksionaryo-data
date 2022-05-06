@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2294'
 origen: Jeneral
+
 versions:
--   accented: enteramente
-    ladino: enteramente
+  - ladino: enteramente
+
     translations:
         english: entirely
         french: ''
         portuguese: ''
         spanish: enteramente
         turkish: tamamen
+
+examples: []

@@ -1,13 +1,54 @@
-examples: []
 grammar: null
 id: '368'
 origen: Jeneral
+
 versions:
--   accented: espantozo
-    ladino: espantozo
+  - ladino: espantozo
+
+    gender: masculine
+    number: singular
+
     translations:
         english: coward
         french: ''
         portuguese: ''
         spanish: cobarde
         turkish: korkak
+
+  - ladino: espantoza
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: coward
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: korkak
+
+  - ladino: espantozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: cowards
+        french: ''
+        portuguese: ''
+        spanish: cobardes
+        turkish: korkak
+
+  - ladino: espantozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: cowards
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: korkak
+
+examples: []

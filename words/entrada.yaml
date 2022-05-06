@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1784'
 origen: Jeneral
+
 versions:
--   accented: entrada
-    ladino: entrada
+  - ladino: entrada
+
+    gender: feminine
+    number: singular
+
     translations:
         english: entrance
         french: ''
         portuguese: ''
         spanish: entrada
         turkish: giriş
+
+examples: []

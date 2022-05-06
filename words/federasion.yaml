@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2300'
 origen: Jeneral
+
 versions:
--   accented: federasion
-    ladino: federasion
+  - ladino: federasion
+
     translations:
         english: federation
         french: ''
         portuguese: ''
         spanish: federación
         turkish: federasyon
+
+examples: []

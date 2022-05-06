@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '1782'
 origen: Jeneral
+
 versions:
--   accented: enterramiento
-    ladino: enterramiento
+  - ladino: enterramiento
+
     translations:
         english:
         - burial
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: entierro
         turkish: cenaze
+
+examples: []

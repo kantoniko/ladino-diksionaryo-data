@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1771'
 origen: Jeneral
+
 versions:
--   accented: enfirmeria
-    ladino: enfirmeria
+  - ladino: enfirmeria
+
     translations:
         english: infirmary
         french: ''
         portuguese: ''
         spanish: enfermería
         turkish: revir
+
+examples: []

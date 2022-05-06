@@ -1,17 +1,17 @@
-examples:
--   ladino: 'Kazas enmofesidas kon kamaretas aleskuras.
-
-
-        '
 grammar: adjective
 id: '2874'
 origen: Jeneral
+
 versions:
--   accented: enmofesído
-    ladino: enmofesido
+  - ladino: enmofesido
+    accented: enmofesído
+
     translations:
         english: mouldy
         french: ''
         portuguese: ''
         spanish: enmohecido
         turkish: küflenmiş
+
+examples:
+  - ladino: Kazas enmofesidas kon kamaretas aleskuras.

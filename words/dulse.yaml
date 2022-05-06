@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '281'
 origen: Jeneral
+
 versions:
--   accented: dulse
-    ladino: dulse
+  - ladino: dulse
+
     translations:
         english: sweet
         french: ''
         portuguese: ''
         spanish: dulce
         turkish: tatliı
+
+examples: []

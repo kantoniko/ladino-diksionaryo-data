@@ -1,12 +1,16 @@
-examples: []
 grammar: null
 id: '2713'
 origen: Izmir
+kategorias:
+  - komidas
+
 versions:
--   accented: estragalákya
+  - ladino: estragalakya
+    accented: estragalákya
+
     gender: feminine
-    ladino: estragalakya
     number: singular
+
     translations:
         english:
         - roasted chick pea
@@ -15,3 +19,5 @@ versions:
         portuguese: ''
         spanish: garbanzo tostado blanco
         turkish: beyaz leblebi
+
+examples: []

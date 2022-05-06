@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '318'
 origen: Jeneral
+
 versions:
--   accented: en medio
-    ladino: en medio
+  - ladino: en medio
+
     translations:
         english:
         - in the middle
@@ -13,3 +13,5 @@ versions:
         portuguese: ''
         spanish: en medio
         turkish: ortada
+
+examples: []

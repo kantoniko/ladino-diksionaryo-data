@@ -1,13 +1,12 @@
-examples: []
 grammar: null
 id: '330'
 origen: Jeneral
 versions:
--   accented: enriva
+  - ladino: enriva
+
     alternative-spelling:
-    -   accented: sovre
-        ladino: sovre
-    ladino: enriva
+      - ladino: sovre
+
     translations:
         english:
         - 'on'
@@ -19,3 +18,5 @@ versions:
         turkish:
         - üstünde
         - hakkında
+
+examples: []
