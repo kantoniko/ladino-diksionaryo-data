@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '295'
 origen: Jeneral
+
 versions:
--   accented: eksepsion
-    ladino: eksepsion
+  - ladino: eksepsion
+
     translations:
         english: exception
         french: ''
         portuguese: ''
         spanish: excepción
         turkish: istisna
+
+examples: []

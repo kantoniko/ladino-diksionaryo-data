@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1273'
 origen: Jeneral
+
 versions:
--   accented: dinyidad
-    ladino: dinyidad
+  - ladino: dinyidad
+
     translations:
         english: dignity
         french: ''
         portuguese: ''
         spanish: dignidad
         turkish: haysiyet
+
+examples: []

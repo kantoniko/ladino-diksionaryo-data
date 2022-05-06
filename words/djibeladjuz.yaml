@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1729'
 origen: Jeneral
+
 versions:
--   accented: djibeladjuz
-    ladino: djibeladjuz
+  - ladino: djibeladjuz
+
     translations:
         english: shrew
         french: ''
         portuguese: ''
         spanish: arpía
         turkish: cadaloz
+
+examples: []

@@ -1,16 +1,20 @@
-examples:
--   ladino: Los chikos djugavan a la endevina.
 grammar: null
 id: '3047'
 origen: Jeneral
+
 versions:
--   accented: endevína
+  - ladino: endevina
+    accented: endevína
+
     gender: feminine
-    ladino: endevina
     number: singular
+
     translations:
         english: riddle
         french: devinette
         portuguese: adevinha
         spanish: adivinanza
         turkish: bilmece
+
+examples:
+  - ladino: Los chikos djugavan a la endevina.

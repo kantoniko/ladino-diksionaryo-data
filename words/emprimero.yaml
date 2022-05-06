@@ -1,16 +1,18 @@
-examples:
--   ladino: 'Emprimero, ¡SHANA TOVA U METUKA!! ANYADA BUENA I DULSE !
-
-        Kualo ke aga emprimero?'
 grammar: adverb
 id: '2292'
 origen: Jeneral
+
 versions:
--   accented: empriméro
-    ladino: emprimero
+  - ladino: emprimero
+    accented: empriméro
+
     translations:
         english: at first
         french: ''
         portuguese: ''
         spanish: al principio
         turkish: ilk önce
+
+examples:
+  - ladino: Emprimero, ¡SHANA TOVA U METUKA!! ANYADA BUENA I DULSE!
+  - ladino: Kualo ke aga emprimero?

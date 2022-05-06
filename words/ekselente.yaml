@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1756'
 origen: Jeneral
+
 versions:
--   accented: ekselente
-    ladino: ekselente
+  - ladino: ekselente
+
     translations:
         english: excellent
         french: ''
         portuguese: ''
         spanish: excelente
         turkish: mükemmel
+
+examples: []

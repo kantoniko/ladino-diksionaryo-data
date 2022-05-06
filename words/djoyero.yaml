@@ -1,13 +1,17 @@
-examples: []
 grammar: null
 id: '1731'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
--   accented: djoyero
-    ladino: djoyero
+  - ladino: djoyero
+
     translations:
         english: jeweler
         french: ''
         portuguese: ''
         spanish: joyero
         turkish: kuyumcu
+
+examples: []

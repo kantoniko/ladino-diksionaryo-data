@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '1291'
 origen: Jeneral
+
 versions:
--   accented: egzersis
-    ladino: egzersis
+  - ladino: egzersis
+
+    gender: masculine
+    number: singular
+
     translations:
         english: exercise
         french: ''
         portuguese: ''
         spanish: ejercicio
         turkish: alıştırma
+
+examples: []

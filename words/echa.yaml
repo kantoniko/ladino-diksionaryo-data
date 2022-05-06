@@ -1,11 +1,11 @@
-examples:
--   ladino: Le van a pagar segun sus echas.
 grammar: null
 id: '2431'
 origen: Jeneral
+
 versions:
--   accented: écha
-    ladino: echa
+  - ladino: echa
+    accented: écha
+
     translations:
         english: accomplished action
         french: ''
@@ -17,3 +17,6 @@ versions:
         turkish:
         - bitmiş iş
         - yapılmış iş
+
+examples:
+  - ladino: Le van a pagar segun sus echas.

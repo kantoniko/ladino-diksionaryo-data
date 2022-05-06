@@ -1,13 +1,14 @@
-examples:
--   ladino: La droga ya le izo efekto.
 grammar: null
 id: '278'
 origen: Jeneral
+
 versions:
--   accented: dróga
+  - ladino: droga
+    accented: dróga
+
     gender: feminine
-    ladino: droga
     number: singular
+
     translations:
         english:
         - drug
@@ -20,3 +21,26 @@ versions:
         turkish:
         - uyuşturucu
         - ilaç
+
+  - ladino: drogas
+    accented: drógas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - drugs
+        - medicines
+        french: ''
+        portuguese: ''
+        spanish:
+        - drogas
+        - medicamentos
+        turkish:
+        - uyuşturucu
+        - ilaç
+
+
+examples:
+  - ladino: La droga ya le izo efekto.

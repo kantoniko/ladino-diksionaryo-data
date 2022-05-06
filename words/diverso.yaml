@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1726'
 origen: Jeneral
+
 versions:
--   accented: diverso
-    ladino: diverso
+  - ladino: diverso
+
     translations:
         english: diverse
         french: ''
         portuguese: ''
         spanish: diverso
         turkish: muhtelif
+
+examples: []

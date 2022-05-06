@@ -1,13 +1,14 @@
-examples:
--   ladino: Meldar dokumentos en solitreo no es muy fasil, no es kolay.
 grammar: null
 id: '2429'
 origen: Jeneral
+
 versions:
--   accented: dokuménto
+  - ladino: dokumento
+    accented: dokuménto
+
     gender: masculine
-    ladino: dokumento
     number: singular
+
     translations:
         english:
         - document
@@ -22,3 +23,6 @@ versions:
         - evrak
         - vesika
         - doküman
+
+examples:
+  - ladino: Meldar dokumentos en solitreo no es muy fasil, no es kolay.

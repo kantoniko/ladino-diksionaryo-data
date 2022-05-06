@@ -1,10 +1,10 @@
-examples: []
 grammar: null
 id: '303'
 origen: Jeneral
+
 versions:
--   accented: ekspozision
-    ladino: ekspozision
+  - ladino: ekspozision
+
     translations:
         english: exposition
         french: ''
@@ -13,3 +13,5 @@ versions:
         turkish:
         - sergi
         - teşhir
+
+examples: []

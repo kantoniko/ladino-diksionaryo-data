@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '289'
 origen: Jeneral
+
 versions:
--   accented: echarse anyudo
-    ladino: echarse anyudo
+  - ladino: echarse anyudo
+
     translations:
         english: knot oneself
         french: ''
         portuguese: ''
         spanish: anudarse
         turkish: düğümlenmek
+
+examples: []

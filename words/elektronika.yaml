@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '2290'
 origen: Jeneral
+
 versions:
--   accented: elektronika
-    ladino: elektronika
+  - ladino: elektronika
+
     translations:
         english: electronics
         french: ''
         portuguese: ''
         spanish: electrónica
         turkish: elektronik
+
+examples: []

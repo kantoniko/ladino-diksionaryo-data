@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '310'
 origen: Jeneral
+
 versions:
--   accented: embargo
-    ladino: embargo
+  - ladino: embargo
+
     translations:
         english: embargo
         french: ''
         portuguese: ''
         spanish: embargo
         turkish: ambargo
+
+examples: []

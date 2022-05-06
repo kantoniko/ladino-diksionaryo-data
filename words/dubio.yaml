@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '279'
 origen: Jeneral
+
 versions:
--   accented: dubio
-    ladino: dubio
+  - ladino: dubio
+
     translations:
         english: doubt
         french: ''
         portuguese: ''
         spanish: duda
         turkish: şüphe
+
+examples: []

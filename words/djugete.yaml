@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '273'
 origen: Jeneral
+
 versions:
--   accented: djugete
-    ladino: djugete
+  - ladino: djugete
+
     translations:
         english: toy
         french: ''
         portuguese: ''
         spanish: juguete
         turkish: oyuncak
+
+examples: []
