@@ -24,4 +24,35 @@ conjugations:
         english: want
         spanish: quiero
 
+    tu:
+      ladino: keres
+      translations:
+        english: want
+        spanish: quieres
+
+    el:
+      ladino: kere
+      translations:
+        english: wants
+        spanish: quiere
+
+    mozotros:
+      ladino: keremos
+      translations:
+        english: want
+        spanish: queremos
+
+    vozotros:
+      ladino: keresh
+      translations:
+        english: want
+        spanish: querréis
+
+    eyos:
+      ladino: keren
+      translations:
+        english: want
+        spanish: querrán
+
+
 examples: []

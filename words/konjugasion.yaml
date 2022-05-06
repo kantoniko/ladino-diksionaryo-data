@@ -1,0 +1,40 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - gramer
+
+versions:
+  - ladino: konjugasion
+
+    alternative-spelling:
+      - ladino: konjugasyon
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: conjugation
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conjugación
+      turkish: ''
+
+  - ladino: konjugasiones
+
+    alternative-spelling:
+      - ladino: konjugasyones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: conjugations
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conjugaciónes
+      turkish: ''
+
+
+examples: []

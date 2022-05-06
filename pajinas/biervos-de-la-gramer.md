@@ -99,14 +99,14 @@
 
 * (la) gramatika
 
-* (el) feminino
+* (el) [feminino](/words/ladino/feminino)
 * (el) maskulino
-* (el) konjugasion
+* (la) [konjugasion](/words/ladino/konjugasion)
 * (el) sustantivo
 * (el) singular
 * (el) plural
-* (el) verbo
-* (el) adjektivo    / (el) ajektivo
+* (el) [verbo](/words/ladino/verbo)
+* (el) [adjektivo](/words/ladino/adjektivo)    / (el) ajektivo
 * (el) adverbio
 * (el) auksiliar
 

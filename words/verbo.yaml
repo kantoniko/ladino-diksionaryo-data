@@ -1,6 +1,8 @@
 grammar: noun
 id: '2643'
 origen: Jeneral
+kategorias:
+  - gramer
 
 versions:
   - ladino: verbo
