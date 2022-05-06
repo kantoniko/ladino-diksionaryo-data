@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '239'
 origen: Jeneral
+
 versions:
--   accented: desgrasia
-    ladino: desgrasia
+  - ladino: desgrasia
+
+    gender: feminine
+    number: singular
+
     translations:
         english: misfortune
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - felâket
         - talihsizlik
+
+examples: []

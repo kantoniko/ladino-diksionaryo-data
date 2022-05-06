@@ -1,14 +1,14 @@
-examples:
--   ladino: "No tenemos dirito de \ndizir a dingunos \"no es djusto lo ke dizish vozotros\"\
-        . \n"
 grammar: null
 id: '2772'
 origen: Izmir
+
 versions:
--   accented: diríto
+  - ladino: dirito
+    accented: diríto
+
     gender: masculine
-    ladino: dirito
     number: singular
+
     translations:
         english: right
         french: ''
@@ -17,3 +17,6 @@ versions:
         turkish:
         - hak
         - yetki
+
+examples:
+  - ladino: 'No tenemos dirito de dizir a dingunos "no es djusto lo ke dizish vozotros".'

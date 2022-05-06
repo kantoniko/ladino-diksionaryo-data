@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '1671'
 origen: Jeneral
+
 versions:
--   accented: burakito de alguja
-    ladino: burakito de alguja
+  - ladino: burakito de alguja
+
     translations:
         english: needle-hole
         french: ''
         portuguese: ''
         spanish: agujerito
         turkish: iğne deliği
+
+examples: []

@@ -1,13 +1,13 @@
-examples:
--   ladino: Kada uno tiene el derecho de eskrivir i avlar kome kere.
 grammar: null
 id: '2419'
 origen: Jeneral
 versions:
--   accented: derécho
+  - ladino: derecho
+    accented: derécho
+
     gender: masculine
-    ladino: derecho
     number: singular
+
     translations:
         english:
         - right
@@ -19,3 +19,6 @@ versions:
         - hak
         - yetki
         - doğru
+
+examples:
+  - ladino: Kada uno tiene el derecho de eskrivir i avlar kome kere.

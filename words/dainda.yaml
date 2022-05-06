@@ -1,16 +1,20 @@
-examples: []
 grammar: adverb
 id: '219'
 origen: Jeneral
+
 versions:
--   accented: daínda
+  - ladino: dainda
+    accented: daínda
+
     alternative-spelling:
-    -   accented: déynda
-        ladino: deynda
-    ladino: dainda
+      - ladino: deynda
+        accented: déynda
+
     translations:
         english: still
         french: ''
         portuguese: ''
         spanish: aún
         turkish: hâlâ
+
+examples: []

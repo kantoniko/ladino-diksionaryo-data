@@ -1,11 +1,11 @@
-examples:
--   ladino: No se deke en vezes el mizmo mesaj sale dos vezes.
 grammar: null
 id: '2417'
 origen: Jeneral
+
 versions:
--   accented: deké
-    ladino: deke
+  - ladino: deke
+    accented: deké
+
     translations:
         english: why
         french: ''
@@ -16,3 +16,6 @@ versions:
         turkish:
         - neden
         - niye
+
+examples:
+  - ladino: No se deke en vezes el mizmo mesaj sale dos vezes.

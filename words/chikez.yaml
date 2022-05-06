@@ -1,14 +1,14 @@
-examples:
--   ladino: En mi chikez en Izmir, Turkiya, las preparasyones para Los Muadim (Roshana
-        i Kipur) empesavan a lo menos de un mez de antes.
 grammar: null
 id: '2'
 origen: Jeneral
+
 versions:
--   accented: chikéz
+  - ladino: chikez
+    accented: chikéz
+
     gender: feminine
-    ladino: chikez
     number: singular
+
     translations:
         english: childhood
         french: ''
@@ -19,3 +19,6 @@ versions:
         turkish:
         - küçüklük
         - çocukluk
+
+examples:
+  - ladino: En mi chikez en Izmir, Turkiya, las preparasyones para Los Muadim (Roshana i Kipur) empesavan a lo menos de un mez de antes.

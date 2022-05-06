@@ -1,13 +1,18 @@
-examples: []
 grammar: null
 id: '2285'
 origen: Jeneral
+
 versions:
--   accented: diaspora
-    ladino: diaspora
+  - ladino: diaspora
+
+    gender: feminine
+    number: singular
+
     translations:
         english: diaspora
         french: ''
         portuguese: ''
         spanish: diáspora
         turkish: diaspora
+
+examples: []

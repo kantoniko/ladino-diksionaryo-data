@@ -1,11 +1,11 @@
-examples:
--   ladino: I yo respondi de muevo, i dishe ke mas no vo eskrivir.
 grammar: null
 id: '2416'
 origen: Jeneral
+
 versions:
--   accented: de muévo
-    ladino: de muevo
+  - ladino: de muevo
+    accented: de muévo
+
     translations:
         english: again
         french: ''
@@ -15,3 +15,6 @@ versions:
         - yeniden
         - yine
         - gene
+
+examples:
+  - ladino: I yo respondi de muevo, i dishe ke mas no vo eskrivir.

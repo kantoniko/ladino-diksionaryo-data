@@ -1,13 +1,31 @@
-examples: []
 grammar: null
 id: '1257'
 origen: Jeneral
+
 versions:
--   accented: bushkida
-    ladino: bushkida
+  - ladino: bushkida
+
+    gender: feminine
+    number: singular
+
     translations:
         english: search
         french: ''
         portuguese: ''
         spanish: búsqueda
         turkish: arama
+
+  - ladino: bushkidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: searches
+        french: ''
+        portuguese: ''
+        spanish: búsquedas
+        turkish: arama
+
+
+examples: []

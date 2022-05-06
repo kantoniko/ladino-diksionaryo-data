@@ -1,13 +1,15 @@
-examples: []
 grammar: null
 id: '229'
 origen: Jeneral
+
 versions:
--   accented: defile
-    ladino: defile
+  - ladino: defile
+
     translations:
         english: fashion show
         french: ''
         portuguese: ''
         spanish: desfile
         turkish: defile
+
+examples: []

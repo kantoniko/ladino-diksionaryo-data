@@ -1,16 +1,18 @@
-examples: []
 grammar: null
 id: '1268'
 origen: Jeneral
+
 versions:
--   accented: detalio
+  - ladino: detalio
+
     alternative-spelling:
-    -   accented: detalyo
-        ladino: detalyo
-    ladino: detalio
+      - ladino: detalyo
+
     translations:
         english: detail
         french: ''
         portuguese: ''
         spanish: detalle
         turkish: ayrıntı
+
+examples: []

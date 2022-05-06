@@ -1,14 +1,17 @@
-examples:
--   ladino: El yevava un vestido desmodrado.
 grammar: adjective
 id: '2914'
 origen: Jeneral
+
 versions:
--   accented: desmodrádo
-    ladino: desmodrado
+  - ladino: desmodrado
+    accented: desmodrádo
+
     translations:
         english: incongruous
         french: ''
         portuguese: ''
         spanish: incongruente
         turkish: rabıtasız
+
+examples:
+  - ladino: El yevava un vestido desmodrado.

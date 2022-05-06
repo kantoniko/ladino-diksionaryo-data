@@ -1,13 +1,17 @@
-examples: []
-grammar: null
+grammar: verb
 id: '1687'
 origen: Jeneral
+
 versions:
--   accented: dechidirse
-    ladino: dechidirse
+  - ladino: dechidirse
+
     translations:
         english: decide
         french: ''
         portuguese: ''
         spanish: decidirse
         turkish: karar vermek
+
+conjugations: {}
+
+examples: []

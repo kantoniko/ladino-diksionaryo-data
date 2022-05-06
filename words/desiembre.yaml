@@ -1,19 +1,24 @@
-examples:
--   ladino: Vo ir otra vez en el mez de Disiembre.
 grammar: null
 id: '1266'
 origen: Jeneral
+
 versions:
--   accented: desiémbre
+  - ladino: desiembre
+    accented: desiémbre
+
     alternative-spelling:
-    -   accented: disiémbre
-        ladino: disiembre
+      - ladino: disiembre
+        accented: disiémbre
+
     gender: masculine
-    ladino: desiembre
     number: singular
+
     translations:
         english: December
         french: ''
         portuguese: ''
         spanish: diciembre
         turkish: aralık
+
+examples:
+  - ladino: Vo ir otra vez en el mez de Disiembre.

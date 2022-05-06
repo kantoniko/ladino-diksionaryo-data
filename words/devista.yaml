@@ -1,13 +1,13 @@
-examples: []
 grammar: null
 id: '1710'
 origen: Jeneral
+
 versions:
--   accented: devista
+  - ladino: devista
+
     alternative-spelling:
-    -   accented: pishin
-        ladino: pishin
-    ladino: devista
+      - ladino: pishin
+
     translations:
         english:
         - immediately
@@ -18,3 +18,5 @@ versions:
         turkish:
         - derhal
         - hemen
+
+examples: []

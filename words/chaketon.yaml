@@ -1,10 +1,13 @@
-examples: []
 grammar: null
 id: '1674'
 origen: Jeneral
+
 versions:
--   accented: chaketon
-    ladino: chaketon
+  - ladino: chaketon
+
+    gender: masculine
+    number: singular
+
     translations:
         english: slap
         french: ''
@@ -13,3 +16,5 @@ versions:
         turkish:
         - sille
         - tokat
+
+examples: []
