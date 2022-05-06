@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: korreksion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: correction
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: corrección
+      turkish: ''
+
+  - ladino: korreksiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: corrections
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: correcciónes
+      turkish: ''
+
+
+examples: []
