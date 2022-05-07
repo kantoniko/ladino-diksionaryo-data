@@ -13,7 +13,47 @@ versions:
         spanish: ser
         turkish: olmak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: so
+      translations:
+        english: I am
+        spanish: soy
+
+    tu:
+      ladino: sos
+      translations:
+        english: you are
+        spanish: eres
+
+    el:
+      ladino: es
+      translations:
+        english:
+          - he is
+          - she is
+          - it is
+        spanish: es
+
+    mozotros:
+      ladino: semos
+      translations:
+        english: we are
+        spanish: somos
+
+    vozotros:
+      ladino: sosh
+      translations:
+        english: you are
+        spanish: sois
+
+    eyos:
+      ladino: son
+      translations:
+        english: they are
+        spanish: son
+
 examples:
   - ladino: Se retornarian a ser esklavos de Paro
 
