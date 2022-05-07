@@ -17,4 +17,44 @@ versions:
         spanish: hebreo
         turkish: ıbranıce
 
-examples: []
+  - ladino: ebrea
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Hebrew
+        french: ''
+        portuguese: ''
+        spanish: hebrea
+        turkish: ıbranıce
+
+  - ladino: ebreos
+
+    gender: masculine
+    number: plura
+
+    translations:
+        english: Hebrew
+        french: ''
+        portuguese: ''
+        spanish: hebreos
+        turkish: ıbranıce
+
+  - ladino: ebreas
+
+    gender: feminine
+    number: plura
+
+    translations:
+        english: Hebrew
+        french: ''
+        portuguese: ''
+        spanish: hebreas
+        turkish: ıbranıce
+
+examples:
+  - En Israel los djudios avlan en ebreo.
+  - En Israel puedes merkar livros ebreos.
+  - En un diksionaryo puedes topar las traduksiones ebreas de palavras en ladino.
+
