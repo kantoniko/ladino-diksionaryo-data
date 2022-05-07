@@ -54,7 +54,7 @@ versions:
         turkish: ıbranıce
 
 examples:
-  - En Israel los djudios avlan en ebreo.
-  - En Israel puedes merkar livros ebreos.
-  - En un diksionaryo puedes topar las traduksiones ebreas de palavras en ladino.
+  - ladino: En Israel los djudios avlan en ebreo.
+  - ladino: En Israel puedes merkar livros ebreos.
+  - ladino: En un diksionaryo puedes topar las traduksiones ebreas de palavras en ladino.
 
