@@ -1,5 +1,5 @@
 grammar: verb
-id: '252,1709'
+id: '252'
 origen: Jeneral
 
 versions:
@@ -15,23 +15,14 @@ versions:
           - borçlu olmak
           - gerekmek
 
-  - ladino: dever
-    translations:
-      english:
-        - task
-        - duty
-      spanish: faena
-      turkish: vazife (spor)
+conjugations:
+  present indicative:
+    yo:
+      ladino: devo
+      translations:
+        english: owe
+        spanish: debo
 
-  - ladino: mision
-    translations:
-      english:
-        - task
-        - duty
-      spanish: faena
-      turkish: vazife (spor)
-
-conjugations: {}
 
 examples:
   - ladino: Paga a ken deves, saves lo ke tienes (Neh.)

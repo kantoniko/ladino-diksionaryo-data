@@ -1,0 +1,23 @@
+grammar: null
+id: '1709'
+origen: Jeneral
+
+versions:
+  - ladino: dever
+    translations:
+      english:
+        - task
+        - duty
+      spanish: faena
+      turkish: vazife (spor)
+
+  - ladino: mision
+    translations:
+      english:
+        - task
+        - duty
+      spanish: faena
+      turkish: vazife (spor)
+
+examples: []
+
