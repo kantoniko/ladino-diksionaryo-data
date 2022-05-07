@@ -16,5 +16,19 @@ versions:
         spanish: adjetivo
         turkish: sıfat
 
+  - ladino: adjektivos
+    accented: adjektívos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: adjectives
+        french: ''
+        portuguese: ''
+        spanish: adjetivos
+        turkish: sıfat
+
+
 examples:
   - ladino: La verdad i la sinseridad son los dos adjektivos ke resumen mi boletin.
