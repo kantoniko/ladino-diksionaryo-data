@@ -14,7 +14,7 @@ versions:
         hebrew: דוב
         portuguese: ''
         spanish: oso
-        turkish: ''
+        turkish: ayı
 
   - ladino: lonsos
     gender: masculine
@@ -26,7 +26,7 @@ versions:
         hebrew: דובים
         portuguese: ''
         spanish: osos
-        turkish: ''
+        turkish: ayılar
 
 examples: []
 

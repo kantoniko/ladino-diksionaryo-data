@@ -43,7 +43,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: morenos
-        turkish: ''
+        turkish: esmerler
 
   - ladino: morenas
     accented: morenas
@@ -57,7 +57,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: morenas
-        turkish: ''
+        turkish: esmerler
 
 
 examples: []

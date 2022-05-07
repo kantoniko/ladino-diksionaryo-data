@@ -13,6 +13,8 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: omnipotente
-      turkish: ''
+      turkish:
+        - ulu
+        - yüce
 
 examples: []

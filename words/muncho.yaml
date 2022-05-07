@@ -28,7 +28,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: 'muncha'
-      turkish: ''
+      turkish: çok
 
   - ladino: munchos
     gender: masculine
@@ -40,7 +40,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: 'munchos'
-      turkish: ''
+      turkish: birçok
 
   - ladino: munchas
     gender: feminine
@@ -52,7 +52,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: 'munchas'
-      turkish: ''
+      turkish: birçok
 
 examples: []
 

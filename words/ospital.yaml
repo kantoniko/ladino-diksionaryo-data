@@ -20,12 +20,12 @@ versions:
         spanish: hospital
         turkish: hastane
 
-  - ladino: ospitale
+  - ladino: ospitales
 
     alternative-spelling:
-      - ladino: espital
-      - ladino: eshpital
-      - ladino: ispital
+      - ladino: espitales
+      - ladino: eshpitales
+      - ladino: ispitales
 
     gender: masculine
     number: plural

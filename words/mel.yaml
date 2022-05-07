@@ -15,7 +15,7 @@ versions:
       spanish:
         - correo electrónico
         - email
-      turkish: ''
+      turkish: posta
 
 examples:
   - ladino: Espero ke este mel vos tope buenikos.

@@ -14,7 +14,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: moderador
-      turkish: ''
+      turkish: moderatör
 
   - ladino: moderadora
 
@@ -27,7 +27,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: moderadora
-      turkish: ''
+      turkish: moderatör
 
   - ladino: moderadores
 
@@ -40,7 +40,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: moderadores
-      turkish: ''
+      turkish: moderatörler
 
   - ladino: moderadoras
 
@@ -53,7 +53,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: moderadoras
-      turkish: ''
+      turkish: moderatörler
 
 examples: []
 

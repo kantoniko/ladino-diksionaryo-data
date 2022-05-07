@@ -32,7 +32,9 @@ versions:
         french: ''
         portuguese: ''
         spanish: las
-        turkish: ''
+        turkish:
+          - bu
+          - bunlar
 
 
 examples:
