@@ -1,8 +1,12 @@
 grammar: null
 id: '734'
 origen: Jeneral
+
 versions:
   - ladino: milyon
+
+    gender: masculine
+    number: singular
 
     translations:
         english: million
@@ -10,5 +14,18 @@ versions:
         portuguese: ''
         spanish: millón
         turkish: milyon
+
+  - ladino: milyones
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: millions
+        french: ''
+        portuguese: ''
+        spanish: millónes
+        turkish: milyon
+
 
 examples: []

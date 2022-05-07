@@ -8,6 +8,9 @@ versions:
     alternative-spelling:
       - ladino: echo
 
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - business
@@ -16,5 +19,23 @@ versions:
         portuguese: ''
         spanish: negocio
         turkish: iş
+
+  - ladino: negosios
+
+    alternative-spelling:
+      - ladino: echos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - businesses
+        - trade
+        french: ''
+        portuguese: ''
+        spanish: negocios
+        turkish: iş
+
 
 examples: []
