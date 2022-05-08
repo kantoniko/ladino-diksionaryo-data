@@ -2,6 +2,7 @@ grammar: null
 origen: Ladinokomunita
 kategorias:
   - animales
+  - mamiferos
 
 versions:
   - ladino: elefante

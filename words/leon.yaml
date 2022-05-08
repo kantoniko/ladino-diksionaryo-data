@@ -1,10 +1,14 @@
 grammar: noun
 id: '3089'
 origen: Jeneral
+kategorias:
+  - animales
+  - mamiferos
 
 versions:
   - ladino: leon
     accented: león
+
     gender: masculine
     number: singular
 
@@ -14,6 +18,19 @@ versions:
         portuguese: leão
         spanish: león
         turkish: aslan
+
+  - ladino: leonesa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: lioness
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
 
   - ladino: leones
     accented: leónes
@@ -27,6 +44,20 @@ versions:
         spanish: leónes
         turkish: aslanlar
 
+  - ladino: leonesas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: lionesses
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+
+ 
 examples:
   - ladino: Boka de león ke te koma i no ojo de benadám.
 

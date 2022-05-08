@@ -1,6 +1,9 @@
 grammar: null
 id: '928'
 origen: Jeneral
+kategorias:
+  - animales
+  - mamiferos
 
 versions:
   - ladino: raton

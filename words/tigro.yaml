@@ -1,0 +1,35 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - animales
+  - mamiferos
+
+versions:
+  - ladino: tigro
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: tigre
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: tigresa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: tigre
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []

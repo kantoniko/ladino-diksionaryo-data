@@ -1,0 +1,35 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - animales
+  - mamiferos
+
+versions:
+  - ladino: lopardo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: leopard
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: leopardesa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: leopard
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []

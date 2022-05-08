@@ -1,0 +1,31 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: mamifero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: mammal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mamífero
+      turkish: ''
+
+  - ladino: mamiferos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: mammals
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mamíferos
+      turkish: ''
+
+examples: []

@@ -7,6 +7,7 @@ kategorias:
   - flores
   - frutas
   - komidas
+  - mamiferos
   - mobles
   - muzika
   - gramer
@@ -122,6 +123,28 @@ listas:
     - blando
     - liviano
     - pezgado
+  enverano:
+    - sol
+    - plaj
+    - banyo de sol
+    - banyo de mar
+    - parasol
+    - shezlong
+    - sudor
+    - umidita
+    - atabafarse de la kalor
+    - antojos de sol
+    - krema de sol
+    - vakansas
+    - kaza de kampanya
+    - dondurma
+    - yalada
+    - piknik
+    - fuego de shara
+    - erkondishen
+    - ayre kondisionado
+    - pisina
+    - havuz
 
 tiempos:
   - present indicative
