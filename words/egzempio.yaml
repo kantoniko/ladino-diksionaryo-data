@@ -8,6 +8,10 @@ versions:
     gender: masculine
     number: singular
 
+    bozes:
+      - person: szabgab
+        arkivo: egzempio.ogg
+
     translations:
         english: example
         french: ''
@@ -27,4 +31,5 @@ versions:
         spanish: ejemplos
         turkish: misâl
 
-examples: []
+examples:
+  - ladino: Para kada palavra nesesitamos un egzempio en una fraza.
