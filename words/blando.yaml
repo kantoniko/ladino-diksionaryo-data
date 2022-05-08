@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: blando
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: soft
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: blando
+      turkish: ''
+
+  - ladino: blanda
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: soft
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: blanda
+      turkish: ''
+
+  - ladino: blandos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: soft
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: blandos
+      turkish: ''
+
+  - ladino: blandas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: soft
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: blandas
+      turkish: ''
+
+examples: []

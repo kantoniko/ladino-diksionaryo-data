@@ -118,6 +118,10 @@ listas:
     - difisil
     - kolay
     - zor
+    - duro
+    - blando
+    - liviano
+    - pezgado
 
 tiempos:
   - present indicative

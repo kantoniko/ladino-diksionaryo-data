@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: pezgado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: heavy
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pesado
+      turkish: ''
+
+  - ladino: pezgada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: heavy
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pesada
+      turkish: ''
+
+  - ladino: pezgados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: heavy
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pesados
+      turkish: ''
+
+  - ladino: pezgadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: heavy
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pesadas
+      turkish: ''
+
+examples: []
