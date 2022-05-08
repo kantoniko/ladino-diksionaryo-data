@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: rekordar
+
+    translations:
+      english: record
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: grabar
+      turkish: ''
+
+conjugations: {}
+
+examples: []

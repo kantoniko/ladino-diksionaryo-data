@@ -1,0 +1,59 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: fondador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: founder
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: fundador
+      turkish: ''
+
+  - ladino: fondadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: founder
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: fundadora
+      turkish: ''
+
+  - ladino: fondadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: founders
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: fundadores
+      turkish: ''
+
+  - ladino: fondadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: founders
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: fundadorsas
+      turkish: ''
+
+
+examples: []
+

@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: banyo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: bathroom
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: baño
+      turkish: ''
+
+  - ladino: banyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: bathrooms
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: baños
+      turkish: ''
+
+
+examples: []

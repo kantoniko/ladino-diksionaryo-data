@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: transportasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: transportation
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: transportación
+      turkish: ''
+
+examples: []

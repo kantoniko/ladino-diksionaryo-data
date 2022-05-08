@@ -12,6 +12,42 @@ versions:
         spanish: ver
         turkish: görmek
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: veo
+      translations:
+        english: see
+        spanish: veo
+
+    tu:
+      ladino: ves
+      translations:
+        english: see
+        spanish: ves
+
+    el:
+      ladino: ve
+      translations:
+        english: sees
+        spanish: ve
+
+    mozotros:
+      ladino: vemos
+      translations:
+        english: see
+        spanish: vemos
+
+    vozotros:
+      ladino: vesh
+      translations:
+        english: see
+        spanish: veis
+
+    eyos:
+      ladino: ven
+      translations:
+        english: see
+        spanish: ven
 
 examples: []

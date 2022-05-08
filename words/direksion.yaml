@@ -5,8 +5,8 @@ origen: Jeneral
 versions:
   - ladino: direksion
 
-    alternative-spelling:
-      - ladino: adreso
+    gender: feminine
+    number: singular
 
     translations:
         english:
@@ -18,6 +18,23 @@ versions:
         turkish:
         - yön
         - adres
+
+  - ladino: direksiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - directions
+        - addresses
+        french: ''
+        portuguese: ''
+        spanish: direcciónes
+        turkish:
+        - yön
+        - adres
+
 
 examples: []
 

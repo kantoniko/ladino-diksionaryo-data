@@ -13,6 +13,17 @@ versions:
         spanish: usar
         turkish: kullanmak
 
+  - ladino: uzarlo
+    accented: uzárlo
+
+    translations:
+        english: to use it
+        french: ''
+        portuguese: ''
+        spanish: usarlo
+        turkish: ''
+
+
 conjugations:
   present indicative:
     yo:

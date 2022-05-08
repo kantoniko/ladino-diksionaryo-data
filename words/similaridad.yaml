@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: similaridad
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: similarity
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: similaridad
+      turkish: ''
+
+  - ladino: similaridades
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: similarities
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: similaridades
+      turkish: ''
+
+
+examples: []

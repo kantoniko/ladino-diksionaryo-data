@@ -1,0 +1,31 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: emerjensia
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: emergency
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: emergencia
+      turkish: ''
+
+  - ladino: emerjensias
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: emergencies
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: emergencias
+      turkish: ''
+
+examples: []

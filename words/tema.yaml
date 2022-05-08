@@ -19,6 +19,23 @@ versions:
         - konu
         - mevzu
 
+  - ladino: tema
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - themes
+        - subjects
+        french: ''
+        portuguese: ''
+        spanish: temas
+        turkish:
+        - konu
+        - mevzu
+
+
 examples:
   - ladino: Este tema es sujeto de mis lavoros i estudios.
 

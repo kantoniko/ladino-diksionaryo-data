@@ -17,6 +17,9 @@ versions:
 
   - ladino: telefones
 
+    alternative-not-recommended:
+      ladino: telefonos
+
     gender: masculine
     number: plural
 
@@ -26,7 +29,6 @@ versions:
         portuguese: ''
         spanish: teléfonos
         turkish: telefon
-
 
 examples:
   - ladino: Fue un plazer para mi avlar kon eya por telefon.

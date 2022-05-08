@@ -1,0 +1,40 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: teknolojia
+
+    alternative-not-recommended:
+      ladino: tekologia
+      accented: teknología
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: technology
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: tecnología
+      turkish: ''
+
+  - ladino: teknolojias
+
+    alternative-not-recommended:
+      ladino: tekologias
+      accented: teknologías
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: technologies
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: tecnologías
+      turkish: ''
+
+
+examples: []

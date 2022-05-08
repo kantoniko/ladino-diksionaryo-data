@@ -12,6 +12,17 @@ versions:
         spanish: crear
         turkish: yaratmak
 
+
+  # they past
+  - ladino: krearon
+
+    translations:
+        english: created
+        french: ''
+        portuguese: ''
+        spanish: crearo
+        turkish: ''
+
 conjugations: {}
 
 examples: []
