@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: baldes
+
+    alternative-spelling:
+      - ladino: debaldes
+
+    translations:
+      english: free
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: gratis
+      turkish: ''
+
+examples: []
