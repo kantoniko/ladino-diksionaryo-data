@@ -1,0 +1,59 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: seko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: dry
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: seco
+      turkish: ''
+
+  - ladino: seka
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: dry
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: seca
+      turkish: ''
+
+  - ladino: seka
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: dry
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: secos
+      turkish: ''
+
+  - ladino: sekas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: dry
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: secas
+      turkish: ''
+
+
+examples: []
+

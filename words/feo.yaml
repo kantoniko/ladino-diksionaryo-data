@@ -5,6 +5,10 @@ origen: Jeneral
 versions:
   - ladino: feo
     accented: feo
+
+    alternative-spelling:
+      - ladino: feyo
+
     gender: masculine
     number: singular
 

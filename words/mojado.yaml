@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: mojado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: wet
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mojado
+      turkish: ''
+
+  - ladino: mojada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: wet
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mojada
+      turkish: ''
+
+  - ladino: mojados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: wet
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mojados
+      turkish: ''
+
+  - ladino: mojadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: wet
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mojadas
+      turkish: ''
+
+examples: []

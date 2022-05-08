@@ -85,6 +85,39 @@ listas:
     - djueves
     - viernes
     - shabat
+  kontrarios:
+    - grande
+    - chiko
+    - flako
+    - godro
+    - alto
+    - basho
+    - alegre
+    - triste
+    - vazio
+    - yeno
+    - mansevo
+    - viejo
+    - mansevo
+    - aedado
+    - largo
+    - kurto
+    - ermozo
+    - feo
+    - muevo
+    - viejo
+    - bueno
+    - negro
+    - prove
+    - riko
+    - suzio
+    - limpio
+    - frio
+    - kayente
+    - fasil
+    - difisil
+    - kolay
+    - zor
 
 tiempos:
   - present indicative

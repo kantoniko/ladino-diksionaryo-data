@@ -8,6 +8,10 @@ versions:
     gender: masculine
     number: singular
 
+    alternative-spelling:
+      - ladino: vazio
+        accented: vazío
+
     translations:
         english: empty
         french: ''
