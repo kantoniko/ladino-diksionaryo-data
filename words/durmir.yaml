@@ -12,6 +12,18 @@ versions:
         spanish: dormir
         turkish: uyumak
 
+
+
+  - ladino: duri
+
+    translations:
+        english: I slept
+        french: ''
+        portuguese: ''
+        spanish: durmi
+        turkish: ''
+
+
 conjugations: {}
 
 examples:

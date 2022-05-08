@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: bien
 
+    alternative-spelling:
+      - ladino: byen
+
     translations:
         english: well
         french: ''
