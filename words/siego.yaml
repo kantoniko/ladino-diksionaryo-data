@@ -37,7 +37,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: ciegos
-        turkish: ''
+        turkish: körler
 
   - ladino: siegas
     accented: siegas
@@ -49,6 +49,6 @@ versions:
         french: ''
         portuguese: ''
         spanish: ciega
-        turkish: kör
+        turkish: körler
 
 examples: []

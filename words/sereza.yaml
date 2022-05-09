@@ -15,7 +15,7 @@ versions:
       hebrew: דובדבן
       portuguese: cereja
       spanish: cereza
-      turkish: ''
+      turkish: kiraz
 
   - ladino: serezas
 
@@ -28,7 +28,7 @@ versions:
       hebrew: דובדבנים
       portuguese: cerejas
       spanish: cerezas
-      turkish: ''
+      turkish: kirazlar
 
 
 examples: []

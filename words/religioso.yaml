@@ -16,7 +16,9 @@ versions:
       hebrew: דתי
       portuguese: ''
       spanish: religioso
-      turkish: ''
+      turkish:
+        - rahip
+        - dindar
 
   - ladino: religiosa
 
@@ -32,7 +34,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: religiosa
-      turkish: ''
+      turkish: rahibe
 
   - ladino: religiosos
 
@@ -48,7 +50,7 @@ versions:
       hebrew: דתי
       portuguese: ''
       spanish: religiosos
-      turkish: ''
+      turkish: rahipler
 
   - ladino: religiosas
 
@@ -64,7 +66,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: religiosas
-      turkish: ''
+      turkish: rahibeler
 
 examples: []
 

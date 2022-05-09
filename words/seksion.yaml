@@ -13,7 +13,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: sección
-      turkish: ''
+      turkish: bölüm
 
   - ladino: seksiones
 
@@ -26,7 +26,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: secciónes
-      turkish: ''
+      turkish:  bölümler
 
 
 examples: []

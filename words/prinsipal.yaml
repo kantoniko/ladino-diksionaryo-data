@@ -22,7 +22,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: principal
-      turkish: ''
+      turkish:  asıl
 
   - ladino: prinsipales
     #accented:
@@ -43,7 +43,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: principales
-      turkish: ''
+      turkish: asıllar
 
 
 examples: []

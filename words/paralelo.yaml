@@ -37,7 +37,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: paralelos
-        turkish: ''
+        turkish: paraleller
 
   - ladino: paralelas
     accented: paralelas
@@ -49,6 +49,6 @@ versions:
         french: ''
         portuguese: ''
         spanish: paralelas
-        turkish: ''
+        turkish: paraleller
 
 examples: []

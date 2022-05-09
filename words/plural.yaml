@@ -13,7 +13,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: plural
-      turkish: ''
+      turkish: çoğul
 
   - ladino: plurales
 
@@ -26,7 +26,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: plurales
-      turkish: ''
+      turkish: çoğullar
 
 
 examples: []

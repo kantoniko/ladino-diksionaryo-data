@@ -39,7 +39,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: profesores
-        turkish: ''
+        turkish: öğretmenler
 
   - ladino: profesoras
     accented: profesoras
@@ -51,6 +51,6 @@ versions:
         french: ''
         portuguese: ''
         spanish: profesoras
-        turkish: ''
+        turkish: öğretmenler
 
 examples: []

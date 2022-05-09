@@ -15,7 +15,7 @@ versions:
       hebrew: אגס
       portuguese: pera
       spanish: pera
-      turkish: ''
+      turkish: armut
 
   - ladino: peras
 
@@ -28,6 +28,6 @@ versions:
       hebrew: אגסים
       portuguese: peras
       spanish: peras
-      turkish: ''
+      turkish: armutlar
 
 examples: []
