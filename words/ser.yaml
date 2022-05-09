@@ -54,6 +54,203 @@ conjugations:
         english: they are
         spanish: son
 
+  pasado simple:
+    yo:
+      ladino: fui
+      translations:
+        english: I was
+        spanish: soy
+
+    tu:
+      ladino: fuites
+      translations:
+        english: you were
+        spanish: fuiste
+
+    el:
+      ladino: fue
+      translations:
+        english:
+          - he was
+          - she was
+          - it was
+        spanish: fue
+
+    mozotros:
+      ladino: fuimos
+      translations:
+        english: we were
+        spanish: fuimos
+
+    vozotros:
+      ladino: fuitesh
+      translations:
+        english: you were
+        spanish: fuisteis
+
+    eyos:
+      ladino: fueron
+      translations:
+        english: they were
+        spanish: fueron
+
+  imperfekto:
+    yo:
+      ladino: era
+      translations:
+        english: I was
+        spanish: era
+
+    tu:
+      ladino: eras
+      translations:
+        english: you were
+        spanish: eras
+
+    el:
+      ladino: era
+      translations:
+        english:
+          - he was
+          - she was
+          - it was
+        spanish: era
+
+    mozotros:
+      ladino: éramos
+      translations:
+        english: we were
+        spanish: éramos
+
+    vozotros:
+      ladino: erash
+      translations:
+        english: you were
+        spanish: erais
+
+    eyos:
+      ladino: eran
+      translations:
+        english: they were
+        spanish: eran
+
+  futuro:
+    yo:
+      ladino: seré
+      translations:
+        english: I will
+        spanish: era
+
+    tu:
+      ladino: serás
+      translations:
+        english: you will
+        spanish: eras
+
+    el:
+      ladino: será
+      translations:
+        english:
+          - he will
+          - she will
+          - it will
+        spanish: era
+
+    mozotros:
+      ladino: seremos
+      translations:
+        english: we will
+        spanish: éramos
+
+    vozotros:
+      ladino: serésh
+      translations:
+        english: you will
+        spanish: erais
+
+    eyos:
+      ladino: serán
+      translations:
+        english: they will
+        spanish: eran
+
+  subjunktivo:
+    yo:
+      ladino: sea
+      translations:
+        english: ''
+        spanish: sea
+
+    tu:
+      ladino: seas
+      translations:
+        english: ''
+        spanish: seas
+
+    el:
+      ladino: sea
+      translations:
+        english: ''
+        spanish: sea
+
+    mozotros:
+      ladino: seamos
+      translations:
+        english: ''
+        spanish: seamos
+
+    vozotros:
+      ladino: seásh
+      translations:
+        english: ''
+        spanish: seáis
+
+    eyos:
+      ladino: sean
+      translations:
+        english: ''
+        spanish: sean
+
+  subjunktivo imperfekto:
+
+    yo:
+      ladino: fuera
+      translations:
+        english: ''
+        spanish: fuera
+
+    tu:
+      ladino: fueras
+      translations:
+        english: ''
+        spanish: fueras
+
+    el:
+      ladino: fuera
+      translations:
+        english: ''
+        spanish: fuera
+
+    mozotros:
+      ladino: fuéramos
+      translations:
+        english: ''
+        spanish: fuéramos
+
+    vozotros:
+      ladino: fuerash
+      translations:
+        english: ''
+        spanish: fuerais
+
+    eyos:
+      ladino: fueran
+      translations:
+        english: ''
+        spanish: fueran
+
+
+
 examples:
   - ladino: Se retornarian a ser esklavos de Paro
 

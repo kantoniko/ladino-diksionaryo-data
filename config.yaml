@@ -149,6 +149,10 @@ listas:
 tiempos:
   - present indicative
   - pasado simple
+  - imperfekto
+  - futuro
+  - subjunktivo
+  - subjunktivo imperfekto
 pronombres:
   - yo
   - tu
