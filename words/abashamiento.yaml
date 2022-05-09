@@ -14,7 +14,9 @@ versions:
         - cold
         - flu
         french: rhume
-        portuguese: constipacão
+        portuguese:
+          - constipacão
+          - resfriado
         spanish:
         - resfriado
         - influenza

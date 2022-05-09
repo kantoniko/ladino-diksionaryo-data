@@ -17,7 +17,6 @@ versions:
         - âgée
         portuguese:
         - idoso
-        - idosa
         spanish: anciano
         turkish: yaşlı
 
@@ -34,7 +33,6 @@ versions:
         - âgé
         - âgée
         portuguese:
-        - idoso
         - idosa
         spanish: anciana
         turkish: yaşlı
@@ -52,8 +50,7 @@ versions:
         - âgé
         - âgée
         portuguese:
-        - idoso
-        - idosa
+        - idosos
         spanish: ancianos
         turkish: yaşlı
 
@@ -70,8 +67,7 @@ versions:
         - âgé
         - âgée
         portuguese:
-        - idoso
-        - idosa
+        - idosas
         spanish: ancianas
         turkish: yaşlı
 
