@@ -1,0 +1,72 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: korrekto
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: korekto
+
+    translations:
+      english: correct
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: correcto
+      turkish: ''
+
+  - ladino: korrekta
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: korekta
+
+
+    translations:
+      english: correct
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: correcta
+      turkish: ''
+
+  - ladino: korrektos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: korektos
+
+    translations:
+      english: correct
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: correctos
+      turkish: ''
+
+  - ladino: korrektas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: korektas
+
+
+    translations:
+      english: correct
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: correctas
+      turkish: ''
+
+
+examples: []
