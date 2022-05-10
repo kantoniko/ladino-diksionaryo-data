@@ -54,5 +54,36 @@ conjugations:
         english: want
         spanish: querrán
 
+  pasado simple:
+    yo:
+      ladino: kije
+      translations:
+        english: I wanted
+
+    tu:
+      ladino: kijite
+      translations:
+        english: you wanted
+
+    el:
+      ladino: kijo
+      translations:
+        english: he wanted
+
+    mozotros:
+      ladino: kijimos
+      translations:
+        english: wanted
+
+    vozotros:
+      ladino: kijitesh
+      translations:
+        english: wanted
+
+    eyos:
+      ladino: kijeron
+      translations:
+        english: wanted
+
 
 examples: []

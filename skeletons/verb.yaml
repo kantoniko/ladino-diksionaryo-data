@@ -19,39 +19,6 @@ conjugations:
       ladino:
       translations:
         english:
-
-    tu:
-      ladino:
-      translations:
-        english:
-
-    el:
-      ladino:
-      translations:
-        english:
-
-    mozotros:
-      ladino:
-      translations:
-        english:
-
-    vozotros:
-      ladino:
-      translations:
-        english:
-
-    eyos:
-      ladino:
-      translations:
-        english:
-
-
-conjugations:
-  present indicative:
-    yo:
-      ladino:
-      translations:
-        english:
         spanish:
 
     tu:
@@ -79,13 +46,6 @@ conjugations:
         spanish:
 
     eyos:
-      ladino:
-      translations:
-        english:
-        spanish:
-
-  other:
-    yo:
       ladino:
       translations:
         english:

@@ -20,6 +20,130 @@ versions:
           - gitmek
           - yakışmak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: vo
+      translations:
+        english: go
+        spanish: voy
+
+    tu:
+      ladino: vas
+      translations:
+        english: go
+        spanish: vas
+
+    el:
+      ladino: va
+      translations:
+        english: goes
+        spanish: va
+
+    mozotros:
+      ladino: vamos
+      translations:
+        english: go
+        spanish: vamos
+
+    vozotros:
+      ladino: vash
+      translations:
+        english: go
+        spanish: vais
+
+    eyos:
+      ladino: van
+      translations:
+        english: go
+        spanish: van
+
+  imperfekto:
+    yo:
+      ladino: iva
+      translations:
+        english: I was going
+        spanish: iba
+
+    tu:
+      ladino: ivas
+      translations:
+        english: you were going
+        spanish: ibas
+
+    el:
+      ladino: iva
+      translations:
+        english: he was going
+        spanish: iba
+
+    mozotros:
+      ladino: ívamos
+      translations:
+        english: we were going
+        spanish: ibamos
+
+    vozotros:
+      ladino: ivash
+      translations:
+        english: you were going
+        spanish: ibais
+
+    eyos:
+      ladino: ivan
+      translations:
+        english: they were going
+        spanish: iban
+
+  pasado simple:
+    yo:
+      ladino: fui
+      alternative-spelling:
+        - ladino: hui
+      translations:
+        english: was
+        spanish: fui
+
+    tu:
+      ladino: fuites
+      alternative-spelling:
+        - ladino: huites
+      translations:
+        english: were
+        spanish: fuiste
+
+    el:
+      ladino: fue
+      alternative-spelling:
+        - ladino: hue
+      translations:
+        english: was
+        spanish: fue
+
+    mozotros:
+      ladino: fuimos
+      alternative-spelling:
+        - ladino: huimos
+      translations:
+        english: were
+        spanish: fuimos
+
+    vozotros:
+      ladino: fuitesh
+      alternative-spelling:
+        - ladino: huitesh
+      translations:
+        english: were
+        spanish: fuites
+
+    eyos:
+      ladino: fueron
+      alternative-spelling:
+        - ladino: hueron
+      translations:
+        english: were
+        spanish: fueron
+
+
 
 examples: []
