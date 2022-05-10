@@ -6,7 +6,6 @@ kategorias:
 
 versions:
   - ladino: profesor
-    accented: profesor
     gender: masculine
     number: singular
 
@@ -18,7 +17,6 @@ versions:
         turkish: öğretmen
 
   - ladino: profesora
-    accented: profesora
     gender: feminine
     number: singular
 
@@ -30,7 +28,6 @@ versions:
         turkish: öğretmen
 
   - ladino: profesores
-    accented: profesores
     gender: masculine
     number: plural
 
@@ -42,7 +39,6 @@ versions:
         turkish: öğretmenler
 
   - ladino: profesoras
-    accented: profesoras
     gender: feminine
     number: plural
 

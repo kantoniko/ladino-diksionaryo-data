@@ -1,0 +1,38 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: sientista
+
+    gender: both
+    number: singular
+
+    translations:
+      english: scientist
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - científico
+        - científica
+      turkish: ''
+
+  - ladino: sientistas
+
+    gender: both
+    number: plural
+
+    translations:
+      english: scientists
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - científicos
+        - científicas
+      turkish: ''
+
+
+examples: []

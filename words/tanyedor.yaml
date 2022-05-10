@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: tanyedor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: musician
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: músico
+      turkish: ''
+
+  - ladino: tanyedora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: musician
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: música
+      turkish: ''
+
+  - ladino: tanyedores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: musicians
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: músicos
+      turkish: ''
+
+  - ladino: tanyedoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: musicians
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: músicas
+      turkish: ''
+
+
+examples: []

@@ -1,12 +1,15 @@
 grammar: null
 id: '866'
 origen: Jeneral
+kategorias:
+  - profesion
 
 versions:
   - ladino: pintador
-    accented: pintador
     gender: masculine
     number: singular
+    alternative-spelling:
+      - ladino: pintor
 
     translations:
         english: painter
@@ -16,9 +19,11 @@ versions:
         turkish: ressam
 
   - ladino: pintadora
-    accented: pintadora
     gender: feminine
     number: singular
+
+    alternative-spelling:
+      - ladino: pintora
 
     translations:
         english: painter
@@ -26,6 +31,34 @@ versions:
         portuguese: ''
         spanish: pintora
         turkish: ressam
+
+  - ladino: pintadores
+    gender: masculine
+    number: plural
+    alternative-spelling:
+      - ladino: pintores
+
+    translations:
+        english: painters
+        french: ''
+        portuguese: ''
+        spanish: pintores
+        turkish: ''
+
+  - ladino: pintadoras
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: pintoras
+
+
+    translations:
+        english: painters
+        french: ''
+        portuguese: ''
+        spanish: pintoras
+        turkish: ''
 
 
 examples: []
