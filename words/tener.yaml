@@ -68,18 +68,73 @@ conjugations:
       translations:
         english: had
         spanish: tuve
+
+    tu:
+      ladino: tuvites
+      translations:
+        english: had
+        spanish: tuviste
+
+    el:
+      ladino: tuvo
+      translations:
+        english: had
+        spanish: tuvo
+
     mozotros:
       ladino: tuvimos
       translations:
         english: had
         spanish: tuvimos
 
-#  other2:
-#    yo:
-#      ladino: tenia
-#      translations:
-#        english: had
-#        spanish: tenia
+    vozotros:
+      ladino: tuvitesh
+      translations:
+        english: had
+        spanish: tuvisteis
+
+    eyos:
+      ladino: tuvieron
+      translations:
+        english: had
+        spanish: tuvieron
+
+  imperfekto:
+    yo:
+      ladino: tenia
+      translations:
+        english: had
+        spanish: tenia
+
+    tu:
+      ladino: tenias
+      translations:
+        english: had
+        spanish: tenias
+
+    el:
+      ladino: tenia
+      translations:
+        english: had
+        spanish: tenia
+
+    mozotros:
+      ladino: teniamos
+      translations:
+        english: had
+        spanish: teniamos
+
+    vozotros:
+      ladino: teniash
+      translations:
+        english: had
+        spanish: teniais
+
+    eyos:
+      ladino: tenian
+      translations:
+        english: had
+        spanish: tenian
 
 
 examples:
