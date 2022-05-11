@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: orero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: watchmaker
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: relojero
+      turkish: ''
+
+  - ladino: orera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: watchmaker
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: relojera
+      turkish: ''
+
+  - ladino: oreros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: watchmakers
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: relojeros
+      turkish: ''
+
+  - ladino: oreras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: watchmakers
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: relojeras
+      turkish: ''
+
+
+examples: []
