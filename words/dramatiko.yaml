@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: dramatiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: dramatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: dramático
+      turkish: ''
+
+  - ladino: dramatika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: dramatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: dramática
+      turkish: ''
+
+  - ladino: dramatikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: dramatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: dramáticos
+      turkish: ''
+
+  - ladino: dramatikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: dramatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: dramáticas
+      turkish: ''
+
+
+examples: []
