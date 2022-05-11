@@ -1,6 +1,8 @@
 grammar: null
 id: '3000'
 origen: Jeneral
+kategorias:
+  - profesion
 
 versions:
   - ladino: hamal
@@ -21,6 +23,63 @@ versions:
         portuguese: carregador
         spanish: portador
         turkish: hamal
+
+  - ladino: hamala
+    accented: hamála
+
+    alternative-spelling:
+      - ladino: hammala
+        accented: hammála
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english:
+        - porter
+        - carrier
+        french: ''
+        portuguese: ''
+        spanish: portadora
+        turkish: ''
+
+  - ladino: hamales
+    accented: hamáles
+
+    alternative-spelling:
+      - ladino: hammales
+        accented: hammáles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - porters
+        - carriers
+        french: ''
+        portuguese: ''
+        spanish: portadores
+        turkish: ''
+
+  - ladino: hamalas
+    accented: hamálas
+
+    alternative-spelling:
+      - ladino: hammalas
+        accented: hammálas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+        - porters
+        - carriers
+        french: ''
+        portuguese: ''
+        spanish: portadoras
+        turkish: ''
 
 examples:
   - ladino: Yama un hamal, ke te yeve la validja fin al vapor.
