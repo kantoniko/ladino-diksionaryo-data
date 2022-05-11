@@ -1,0 +1,35 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - animales
+  - insektos
+
+versions:
+  - ladino: ormiga
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: ant
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hormiga
+      turkish: ''
+
+  - ladino: ormigas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: ants
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: hormigas
+      turkish: ''
+
+
+examples: []
