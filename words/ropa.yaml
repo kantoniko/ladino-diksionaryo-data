@@ -5,14 +5,28 @@ versions:
   - ladino: ropa
 
     gender: feminine
-    number: plural
+    number: singular
 
     translations:
       english: cloth
       french: ''
-      hebrew: בגדים
+      hebrew: בגד
       portuguese: ''
       spanish: ropa
       turkish: giyim
+
+  - ladino: ropas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: clothes
+      french: ''
+      hebrew: בגדים
+      portuguese: ''
+      spanish: ropas
+      turkish: giyim
+
 
 examples: []
