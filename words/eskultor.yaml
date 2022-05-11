@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: eskultor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: sculptor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: escultor
+      turkish: ''
+
+  - ladino: eskultora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: sculptor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: escultora
+      turkish: ''
+
+  - ladino: eskultores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: sculptors
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: escultores
+      turkish: ''
+
+  - ladino: eskultoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: sculptors
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: escultoras
+      turkish: ''
+
+
+examples: []
