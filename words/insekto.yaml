@@ -1,0 +1,35 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - animales
+  - insektos
+
+versions:
+  - ladino: insekto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: insect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: insecto
+      turkish: ''
+
+  - ladino: insektos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: insects
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: insectos
+      turkish: ''
+
+
+examples: []
