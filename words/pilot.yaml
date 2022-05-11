@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: pilot
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: pilot
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: piloto
+      turkish: ''
+
+  - ladino: pilota
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: pilot
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pilota
+      turkish: ''
+
+  - ladino: pilotes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: pilots
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pilotos
+      turkish: ''
+
+  - ladino: pilotas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: pilots
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pilotas
+      turkish: ''
+
+
+examples: []
