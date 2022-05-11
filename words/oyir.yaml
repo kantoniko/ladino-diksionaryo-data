@@ -21,7 +21,44 @@ versions:
           - dinlemek
           - duymak
 
-conjugations: {}
+conjugations:
+  present indicative:
+    yo:
+      ladino: oygo
+      translations:
+        english: hear
+        spanish: escucho
+
+    tu:
+      ladino: oyes
+      translations:
+        english: hear
+        spanish: escuchas
+
+    el:
+      ladino: oye
+      translations:
+        english: hears
+        spanish: escucha
+
+    mozotros:
+      ladino: oyemo
+      translations:
+        english: hear
+        spanish: escuchamos
+
+    vozotros:
+      ladino: oyesh
+      translations:
+        english: hear
+        spanish: escucháis
+
+    eyos:
+      ladino: oyen
+      translations:
+        english: hear
+        spanish: escuchan
+
 
 examples:
   - ladino: El Dio ke te oyga!
