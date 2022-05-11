@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: kompozitor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: compositor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: compositor
+      turkish: ''
+
+  - ladino: kompozitora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: compositor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: compositora
+      turkish: ''
+
+  - ladino: kompozitores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: compositors
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: compositores
+      turkish: ''
+
+  - ladino: kompozitoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: compositors
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: compositoras
+      turkish: ''
+
+
+examples: []
