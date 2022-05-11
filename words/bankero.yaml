@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: bankero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: banker
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: banchero
+      turkish: ''
+
+  - ladino: bankera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: banker
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: banchera
+      turkish: ''
+
+  - ladino: bankeros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: bankers
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bancheros
+      turkish: ''
+
+  - ladino: bankeras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: bankers
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bancheras
+      turkish: ''
+
+
+examples: []
