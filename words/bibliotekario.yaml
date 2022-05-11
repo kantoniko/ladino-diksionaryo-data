@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: bibliotekario
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: librarian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bibliotecario
+      turkish: ''
+
+  - ladino: bibliotekaria
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: librarian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bibliotecaria
+      turkish: ''
+
+  - ladino: bibliotekarios
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: librarians
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bibliotecarios
+      turkish: ''
+
+  - ladino: bibliotekarias
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: librarians
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bibliotecarias
+      turkish: ''
+
+
+examples: []
