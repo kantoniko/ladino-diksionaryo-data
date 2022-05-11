@@ -1,0 +1,60 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: peshkador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: fisherman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pescador
+      turkish: ''
+
+  - ladino: peshkadora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: fisherwoman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pescadora
+      turkish: ''
+
+  - ladino: peshkadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: fishermen
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pescadores
+      turkish: ''
+
+  - ladino: peshkadoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: fisherwomen
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: pescadoras
+      turkish: ''
+
+
+examples: []
