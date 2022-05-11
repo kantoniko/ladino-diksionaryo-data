@@ -1,6 +1,9 @@
 grammar: null
 id: '2885'
 origen: Jeneral
+kategorias:
+  - profesion
+
 versions:
   - ladino: ladron
     accented: ladrón
@@ -25,6 +28,31 @@ versions:
         portuguese: ''
         spanish: ladrona
         turkish: hırsız
+
+  - ladino: ladrones
+    accented: ladrónes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: thieves
+        french: ''
+        portuguese: ''
+        spanish: ladrones
+        turkish: ''
+
+  - ladino: ladronas
+    accented: ladrónas
+    gender: feminine
+    number: plural
+
+    translations:
+        english: thieves
+        french: ''
+        portuguese: ''
+        spanish: ladronas
+        turkish: ''
 
 
 examples:
