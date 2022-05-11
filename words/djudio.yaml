@@ -4,9 +4,13 @@ origen: Jeneral
 
 versions:
   - ladino: djudio
-    accented: djudio
+
+    alternative-spelling:
+      - ladino: djudeo
+
     gender: masculine
     number: singular
+
 
     translations:
         english: Jew
@@ -18,7 +22,7 @@ versions:
           - musevi
 
   - ladino: djudia
-    accented: djudia
+
     gender: feminine
     number: singular
 
@@ -32,7 +36,7 @@ versions:
           - musevi
 
   - ladino: djudios
-    accented: djudios
+
     gender: masculine
     number: plural
 
@@ -44,7 +48,7 @@ versions:
         turkish: yahudıler
 
   - ladino: djudias
-    accented: djudias
+
     gender: feminine
     number: plural
 
