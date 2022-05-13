@@ -7,11 +7,26 @@ kategorias:
 versions:
   - ladino: bisikleta
 
+    gender: feminine
+    number: singular
+
     translations:
         english: bicycle
         french: ''
         portuguese: ''
         spanish: bicicleta
         turkish: bisiklet
+
+  - ladino: bisikletas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: bicycles
+        french: ''
+        portuguese: ''
+        spanish: bicicletas
+        turkish: ''
 
 examples: []
