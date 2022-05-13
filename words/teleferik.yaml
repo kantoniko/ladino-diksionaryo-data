@@ -1,0 +1,38 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: teleferik
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - cable car
+        - cableway
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: teleférico
+      turkish: ''
+
+  - ladino: teleferikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english:
+        - cable cars
+        - cableways
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: teleféricos
+      turkish: ''
+
+
+examples: []
