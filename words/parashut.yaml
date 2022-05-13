@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: parashut
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: parachute
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: paracaídas
+      turkish: ''
+
+  - ladino: parashutes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: parachutes
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: paracaídas
+      turkish: ''
+
+
+examples: []
