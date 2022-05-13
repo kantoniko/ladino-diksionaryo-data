@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: kolaborasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: collaboration
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: colaboración
+      turkish: ''
+
+  - ladino: kolaborasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: collaborations
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: colaboraciónes
+      turkish: ''
+
+
+examples: []
