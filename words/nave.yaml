@@ -1,12 +1,11 @@
 grammar: null
 id: '770'
 origen: Jeneral
+kategorias:
+  - veikolos
 
 versions:
   - ladino: nave
-
-    alternative-spelling:
-      - ladino: vapor
 
     gender: feminine
     number: singular

@@ -1,6 +1,8 @@
 grammar: null
 id: '2761'
 origen: Izmir
+kategorias:
+  - veikolos
 
 versions:
   - ladino: barko

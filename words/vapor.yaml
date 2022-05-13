@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: vapor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: ship
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vapor
+      turkish: ''
+
+
+examples: []
