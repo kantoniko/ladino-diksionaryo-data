@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: shayna
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: sled
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: trineo
+      turkish: ''
+
+examples: []
