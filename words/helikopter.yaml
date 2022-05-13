@@ -1,0 +1,33 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: helikopter
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: helicopter
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: helicóptero
+      turkish: ''
+
+  - ladino: helikopteros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: helicopters
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: helicópteros
+      turkish: ''
+
+examples: []
