@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: trotinet
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: scooter
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: scooter
+      turkish: ''
+
+examples: []
