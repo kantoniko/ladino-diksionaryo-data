@@ -1,0 +1,40 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: rezultado
+
+    gender: masculine
+    number: singular
+
+    alternative-not-recommended:
+      - ladino: resultado
+
+
+    translations:
+      english: result
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: resultado
+      turkish: ''
+
+  - ladino: rezultados
+
+    gender: masculine
+    number: plural
+
+    alternative-not-recommended:
+      - ladino: resultados
+
+
+    translations:
+      english: results
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: resultados
+      turkish: ''
+
+
+examples: []
