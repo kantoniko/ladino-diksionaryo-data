@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: mobilet
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: moped
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ciclomotor
+      turkish: ''
+
+
+examples: []

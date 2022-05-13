@@ -1,6 +1,8 @@
 grammar: null
 id: '750'
 origen: Jeneral
+kategorias:
+  - veikolos
 
 versions:
   - ladino: motosikleta
