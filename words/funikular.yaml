@@ -1,0 +1,35 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: funikular
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: funicular
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: funicular
+      turkish: ''
+
+  - ladino: funikulares
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: funiculars
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: funiculares
+      turkish: ''
+
+
+
+examples: []
