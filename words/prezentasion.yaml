@@ -2,7 +2,10 @@ grammar: null
 origen: Ladinokomunita
 
 versions:
-  - ladino: presentasion
+  - ladino: prezentasion
+
+    alternative-not-recommended:
+      - ladino: presentasion
 
     gender: feminine
     number: singular
@@ -16,7 +19,10 @@ versions:
       spanish: presentación
       turkish: ''
 
-  - ladino: presentasiones
+  - ladino: prezentasiones
+
+    alternative-not-recommended:
+      - ladino: presentasiones
 
     gender: feminine
     number: plural
