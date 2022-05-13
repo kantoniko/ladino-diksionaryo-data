@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: sumarino
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: submarine
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: submarino
+      turkish: ''
+
+  - ladino: sumarinos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: submarines
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: submarinos
+      turkish: ''
+
+
+examples: []
