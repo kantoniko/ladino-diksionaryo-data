@@ -1,0 +1,38 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: kamion
+    accented: kamión
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: truck
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: camión
+      turkish: ''
+
+  - ladino: kamiones
+    accented: kamiónes
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      english: trucks
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: camiones
+      turkish: ''
+
+
+examples: []
