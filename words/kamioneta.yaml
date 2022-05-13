@@ -1,0 +1,36 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: kamioneta
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      english: van
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: camioneta
+      turkish: ''
+
+  - ladino: kamionetas
+
+    gender: feminine
+    number: plural
+
+
+    translations:
+      english: vans
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: camionetas
+      turkish: ''
+
+
+examples: []
