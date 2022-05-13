@@ -8,6 +8,9 @@ versions:
   - ladino: treno
     accented: tréno
 
+    alternative-spelling:
+      - ladino: tren
+
     gender: masculine
     number: singular
 
@@ -21,6 +24,9 @@ versions:
   - ladino: trenos
     accented: trénos
 
+    alternative-spelling:
+      - ladino: trenes
+
     gender: masculine
     number: plural
 
@@ -28,7 +34,7 @@ versions:
         english: trains
         french: ''
         portuguese: ''
-        spanish: trens
+        spanish: trenes
         turkish: tren
 
 
