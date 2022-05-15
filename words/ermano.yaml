@@ -7,7 +7,6 @@ kategorias:
 
 versions:
   - ladino: ermano
-    accented: ermano
 
     gender: masculine
     number: singular
@@ -20,7 +19,6 @@ versions:
         turkish: erkek kardeş
 
   - ladino: ermana
-    accented: ermana
 
     gender: feminine
     number: singular
@@ -33,7 +31,6 @@ versions:
         turkish: kızkardeş
 
   - ladino: ermanos
-    accented: ermanos
 
     gender: masculine
     number: plural
@@ -46,7 +43,6 @@ versions:
         turkish: erkek kardeş
 
   - ladino: ermanas
-    accented: ermanas
 
     gender: feminine
     number: plural

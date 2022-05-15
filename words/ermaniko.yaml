@@ -1,0 +1,66 @@
+grammar: null
+origen: Jeneral
+kategorias:
+  - famiya
+  - diminutivos
+
+
+versions:
+  - ladino: ermaniko
+
+    gender: masculine
+    number: singular
+
+    diminutivo-de: ermano
+
+    translations:
+        english: (little) brother
+        french: ''
+        portuguese: ''
+        spanish: hermanito
+        turkish: ''
+
+  - ladino: ermanika
+
+    gender: feminine
+    number: singular
+
+    diminutivo-de: ermana
+
+    translations:
+        english: (little) sister
+        french: ''
+        portuguese: ''
+        spanish: hermanita
+        turkish: ''
+
+  - ladino: ermanikos
+
+    gender: masculine
+    number: plural
+
+    diminutivo-de: ermanos
+
+    translations:
+        english: (little) brothers
+        french: ''
+        portuguese: ''
+        spanish: hermanitos
+        turkish: ''
+
+  - ladino: ermanikas
+
+    gender: feminine
+    number: plural
+
+    diminutivo-de: ermanas
+
+    translations:
+        english: (little) sisters
+        french: ''
+        portuguese: ''
+        spanish: hermanitas
+        turkish: ''
+
+examples: []
+
