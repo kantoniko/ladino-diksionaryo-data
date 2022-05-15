@@ -5,6 +5,7 @@ kategorias:
   - animales
   - bevidas
   - sivdades
+  - diminutivos
   - direksion
   - famiya
   - frutas
@@ -32,6 +33,8 @@ versions:
 
     #gender: NA # masculine feminine both
     #number: singular plural
+
+    #diminutivo-de:
 
     #alternative-spelling:
     #  - ladino:

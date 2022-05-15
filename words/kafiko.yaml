@@ -2,18 +2,21 @@ grammar: null
 origen: Jeneral
 kategorias:
   - bevidas
+  - diminutivos
 
 versions:
-  - ladino: kafe
+  - ladino: kafiko
 
     gender: masculine
     number: singular
 
+    diminutivo-de: kafe
+
     translations:
-        english: coffee
+        english: (little) coffee
         french: ''
         portuguese: ''
-        spanish: café
-        turkish: kahve
+        spanish: cafecito
+        turkish: ''
 
 examples: []

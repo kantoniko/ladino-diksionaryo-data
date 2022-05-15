@@ -1,19 +1,22 @@
 grammar: null
 origen: Jeneral
 kategorias:
-  - bevidas
+  - famiya
+  - diminutivos
 
 versions:
-  - ladino: kafe
+  - ladino: ijiko
+
+    diminutivo-de: ijo
 
     gender: masculine
     number: singular
 
     translations:
-        english: coffee
+        english: (little) boy
         french: ''
         portuguese: ''
-        spanish: café
-        turkish: kahve
+        spanish: ''
+        turkish: ''
 
 examples: []
