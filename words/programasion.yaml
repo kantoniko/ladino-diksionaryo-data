@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: programasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: programming
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: programación
+      turkish: ''
+
+examples: []
