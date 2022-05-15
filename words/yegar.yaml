@@ -15,6 +15,17 @@ versions:
           - erişmek
           - vasıl olmak
 
+###
+  - ladino: yegaron
+
+    translations:
+        english: arrived
+        french: ''
+        portuguese: ''
+        spanish: llegaron
+        turkish: ''
+
+
 conjugations:
   present indicative:
     yo:
