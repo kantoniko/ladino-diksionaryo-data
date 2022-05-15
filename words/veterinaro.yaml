@@ -15,7 +15,9 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: veterinario
-      turkish: ''
+      turkish:
+        - veteriner
+        - baytar
 
   - ladino: veterinara
 
@@ -28,7 +30,9 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: veterinaria
-      turkish: ''
+      turkish:
+        - veteriner
+        - baytar
 
   - ladino: veterinaros
 
@@ -41,7 +45,9 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: veterinarios
-      turkish: ''
+      turkish:
+        - veterinerler
+        - baytarlar
 
   - ladino: veterinaras
 
@@ -54,7 +60,9 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: veterinarias
-      turkish: ''
+      turkish:
+        - veterinerler
+        - baytarlar
 
 
 examples: []

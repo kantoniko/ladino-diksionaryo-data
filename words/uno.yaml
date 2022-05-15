@@ -51,10 +51,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: unos
-        turkish:
-          - bir
-          - biri
-          - tıpkısı
+        turkish: biriler
 
   - ladino: unas
     accented: únas
@@ -68,10 +65,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: unas
-        turkish:
-          - bir
-          - biri
-          - tıpkısı
+        turkish: biriler
 
 
 

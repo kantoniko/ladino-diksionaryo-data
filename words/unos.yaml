@@ -11,7 +11,7 @@ versions:
       english: some
       french: ''
       spanish: unos
-      turkish: ''
+      turkish: biriler
 
   - ladino: unas
     accented: unas
@@ -22,6 +22,6 @@ versions:
       english: some
       french: ''
       spanish: unas
-      turkish: ''
+      turkish: biriler
 
 examples: []

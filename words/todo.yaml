@@ -47,7 +47,7 @@ versions:
         french: ''
         portuguese: ''
         spanish: todos
-        turkish: ''
+        turkish: hepsi
 
   - ladino: todas
     accented: todas
@@ -59,6 +59,6 @@ versions:
         french: ''
         portuguese: ''
         spanish: todas
-        turkish: ''
+        turkish: hepsi
 
 examples: []

@@ -14,7 +14,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: vehículo
-      turkish: ''
+      turkish: araç
 
   - ladino: veikolos
     accented: veíkolos
@@ -28,7 +28,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: vehículos
-      turkish: ''
+      turkish: araçlar
 
 
 examples: []

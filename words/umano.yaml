@@ -13,7 +13,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: humano
-      turkish: ''
+      turkish: insan
 
   - ladino: umana
 
@@ -26,7 +26,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: humana
-      turkish: ''
+      turkish: insan
 
   - ladino: umanos
 
@@ -39,7 +39,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: humanos
-      turkish: ''
+      turkish: insanlar
 
   - ladino: umanas
 
@@ -52,7 +52,7 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: humanas
-      turkish: ''
+      turkish: insanlar
 
 
 examples: []

@@ -13,7 +13,7 @@ versions:
         hebrew: ''
         portuguese: ''
         spanish: tropa
-        turkish: ''
+        turkish: grup
 
   - ladino: trupas
 
@@ -26,7 +26,7 @@ versions:
         hebrew: ''
         portuguese: ''
         spanish: tropas
-        turkish: ''
+        turkish: gruplar
 
 
 examples:
