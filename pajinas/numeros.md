@@ -62,7 +62,7 @@ No   | Femininos                                  | Maskulinos, adj             
 8.   | ochena                                     |                                 | ocheno
 9.   | muevena                                    |                                 | mueveno
 10.  | diezena                                    |                                 | diezeno
-11.  | onzena                                     |                                 | onzeno
+11.  | onzena                                     | onzen                           | onzeno
 12.  | dodjena                                    |                                 | dodjeno
 13.  | tredjena (trezena)                         |                                 | trezeno
 14.  | ?

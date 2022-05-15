@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - numeros
+
+versions:
+  - ladino: onzen
+
+    #gender: NA # masculine feminine both
+    #number: singular plural
+
+    translations:
+      english: eleventh
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
