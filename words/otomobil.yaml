@@ -8,6 +8,9 @@ versions:
   - ladino: otomobil
     accented: otomobíl
 
+    alternative-spelling:
+      - ladino: oto
+
     gender: masculine
     number: singular
 
@@ -26,6 +29,10 @@ versions:
 
   - ladino: otomobiles
     accented: otomobíles
+
+    alternative-spelling:
+      - ladino: otos
+
 
     gender: masculine
     number: plural
