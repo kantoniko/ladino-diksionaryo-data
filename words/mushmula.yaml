@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - frutas
+
+versions:
+  - ladino: mushmula
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: medlar
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: níspero
+      turkish: muşmula
+
+
+examples: []
