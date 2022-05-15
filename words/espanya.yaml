@@ -6,6 +6,9 @@ kategorias:
 versions:
   - ladino: Espanya
 
+    alternative-spelling:
+      - ladino: Espania
+
     translations:
       english: Spain
       french: ''

@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: sistema
 
+    alternative-spelling:
+      - ladino: sistem
+
     gender: masculine
     number: singular
 
