@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: emosionante
+
+    #gender: NA # masculine feminine both
+    number: singular
+
+
+    translations:
+      english: emotional
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: emocional
+      turkish: ''
+
+  - ladino: emosionantes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+
+    translations:
+      english: emotional
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: emocionales
+      turkish: ''
+
+
+examples: []
