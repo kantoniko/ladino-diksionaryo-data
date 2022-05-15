@@ -5,11 +5,50 @@ origen: Jeneral
 versions:
   - ladino: popular
 
+    gender: masculine
+    number: singular
+
     translations:
         english: popular
         french: ''
         portuguese: ''
         spanish: popular
         turkish: popüler
+
+  - ladino: populara
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: popular
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: popüler
+
+  - ladino: populares
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: popular
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+  - ladino: popularas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: popular
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
 
 examples: []
