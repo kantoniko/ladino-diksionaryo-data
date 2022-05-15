@@ -1,0 +1,31 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: enventado
+
+    alternative-spelling:
+      - ladino: inventado
+
+    translations:
+        english: invented
+        french: ''
+        portuguese: ''
+        spanish: inventado
+        turkish: ''
+
+  - ladino: enventados
+
+    alternative-spelling:
+      - ladino: inventados
+
+    translations:
+        english: invented
+        french: ''
+        portuguese: ''
+        spanish: inventados
+        turkish: ''
+
+
+examples: []
+
