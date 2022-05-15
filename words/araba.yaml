@@ -1,6 +1,8 @@
 grammar: noun
 id: '2362,215'
 origen: Estanbol
+kategorias:
+  - veikolos
 
 versions:
   - ladino: araba
@@ -19,6 +21,24 @@ versions:
           - coche
           - carro
         turkish: araba
+
+  - ladino: arabas
+    accented: arabás
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english:
+          - carriages
+          - cars
+        french: ''
+        portuguese: ''
+        spanish:
+          - coches
+          - carros
+        turkish: ''
+
 
 examples:
   - ladino: Un tiempo tomavamos "karosas" (araba o payton).

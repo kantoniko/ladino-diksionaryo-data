@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: puset
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: pram
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: cochecito
+      turkish: ''
+
+  - ladino: pusetes
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: prams
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: cochecitos
+      turkish: ''
+
+
+examples: []
