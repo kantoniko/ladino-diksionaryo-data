@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: romano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: Roman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: romano
+      turkish: ''
+
+  - ladino: romanos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: Romans
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: romanos
+      turkish: ''
+
+
+examples: []
