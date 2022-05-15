@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: koneksion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: connection
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conexión
+      turkish: ''
+
+  - ladino: koneksiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: connections
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conexiones
+      turkish: ''
+
+
+examples: []
