@@ -1,0 +1,36 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: shifro
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: digit
+      french: ''
+      hebrew: ספרה
+      portuguese: ''
+      spanish:
+        - dígito
+        - cifra
+      turkish: ''
+
+  - ladino: shifros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: digits
+      french: ''
+      hebrew: ספרות
+      portuguese: ''
+      spanish:
+        - dígitos
+        - cifras
+      turkish: ''
+
+
+examples: []
