@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: akademiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: academic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: académico
+      turkish: ''
+
+  - ladino: akademika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: academic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: académica
+      turkish: ''
+
+  - ladino: akademikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: academics
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: académicos
+      turkish: ''
+
+  - ladino: akademikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: academics
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: académicas
+      turkish: ''
+
+
+examples: []
