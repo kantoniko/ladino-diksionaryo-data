@@ -6,7 +6,6 @@ kategorias:
 
 versions:
   - ladino: arabo
-    accented: arabo
 
     gender: masculine
     number: singular
@@ -14,9 +13,26 @@ versions:
     translations:
         english: Arab
         french: ''
-        hebrew: ערבית
+        hebrew:
+          - ערבי
+          - ערבית
         portuguese: ''
         spanish: árabe
         turkish: arap
 
-examples: []
+  - ladino: arabos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: Arabs
+        french: ''
+        hebrew: ערבים
+        portuguese: ''
+        spanish: árabes
+        turkish: ''
+
+examples:
+  - ladino: Los arabes avlan arabo.
+
