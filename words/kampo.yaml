@@ -8,11 +8,29 @@ versions:
     alternative-spelling:
       - ladino: terreno
 
+    gender: masculine
+    number: singular
+
     translations:
         english: field
         french: ''
         portuguese: ''
         spanish: campo
         turkish: saha
+
+  - ladino: kampos
+
+    alternative-spelling:
+      - ladino: terrenos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: fields
+        french: ''
+        portuguese: ''
+        spanish: campos
+        turkish: ''
 
 examples: []
