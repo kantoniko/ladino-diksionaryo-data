@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: persiano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: persian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: persiana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: persian
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: persianos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: persians
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: persianas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: persians
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
