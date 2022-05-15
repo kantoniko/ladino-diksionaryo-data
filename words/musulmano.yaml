@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: musulmano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: muslim
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: musulmán
+      turkish: ''
+
+  - ladino: musulmana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: muslim
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: musulmána
+      turkish: ''
+
+  - ladino: musulmanos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: muslims
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: musulmános
+      turkish: ''
+
+  - ladino: musulmanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: muslims
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: musulmánas
+      turkish: ''
+
+examples: []
