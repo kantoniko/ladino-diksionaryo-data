@@ -6,7 +6,7 @@ versions:
   - ladino: bezo
     accented: bézo
 
-    #gender: NA # masculine feminine both
+    gender: masculine
     number: singular
 
     translations:
@@ -17,6 +17,20 @@ versions:
         turkish:
         - buse
         - öpücük
+
+  - ladino: bezos
+    accented: bézos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: kisses
+        french: ''
+        portuguese: ''
+        spanish: besos
+        turkish: ''
+
 
 examples:
   - ladino: Munchos bezos a todos i asperemos ke en serka mos eskrivan aki...
