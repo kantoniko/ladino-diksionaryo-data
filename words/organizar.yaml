@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: organizar
+
+    translations:
+      english: organize
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: organizar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
