@@ -13,6 +13,8 @@ versions:
     gender: feminine
     number: singular
 
+    diminutivo-de: kanta
+
     translations:
         english: song
         french: ''
@@ -29,6 +31,8 @@ versions:
 
     gender: feminine
     number: plural
+
+    diminutivo-de: kantas
 
     translations:
         english: songs

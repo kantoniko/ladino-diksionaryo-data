@@ -1,0 +1,35 @@
+grammar: noun
+origen: Jeneral
+
+versions:
+  - ladino: kanta
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: song
+        french: ''
+        portuguese: ''
+        spanish:
+          - canta
+          - canción
+        turkish: ''
+
+  - ladino: kantas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: songs
+        french: ''
+        portuguese: ''
+        spanish:
+          - cantas
+          - canciones
+        turkish: ''
+
+
+examples: []
+
