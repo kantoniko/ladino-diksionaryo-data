@@ -2,7 +2,7 @@
 
 No        | Ladino
 --------- | ------
-0         | zero
+0         | [zero](/words/ladino/zero)
 1         | [uno](/words/ladino/uno)
 2         | [dos](/words/ladino/dos)
 3         | [tres](/words/ladino/tres)
@@ -62,7 +62,7 @@ No   | Femininos                                  | Maskulinos, adj             
 8.   | ochena                                     |                                 | ocheno
 9.   | muevena                                    |                                 | mueveno
 10.  | diezena                                    |                                 | diezeno
-11.  | onzena                                     | onzen                           | onzeno
+11.  | onzena                                     | [onzen](/words/ladino/onzen)    | onzeno
 12.  | dodjena                                    |                                 | dodjeno
 13.  | tredjena (trezena)                         |                                 | trezeno
 14.  | ?

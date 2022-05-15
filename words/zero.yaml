@@ -1,0 +1,17 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - numeros
+
+versions:
+  - ladino: zero
+
+    translations:
+      english: zero
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: cero
+      turkish: ''
+
+examples: []
