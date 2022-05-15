@@ -1,0 +1,58 @@
+grammar: null
+# verb noun adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: eksperto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: expert
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: experto
+      turkish: ''
+
+  - ladino: eksperta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: expert
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: experta
+      turkish: ''
+
+  - ladino: ekspertos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: experts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: expertos
+      turkish: ''
+
+  - ladino: ekspertas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: experts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: expertas
+      turkish: ''
+
+examples: []
