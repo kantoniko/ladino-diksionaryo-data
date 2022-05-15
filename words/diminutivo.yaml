@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - gramer
+
+versions:
+  - ladino: diminutivo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: dimunitive
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: dimunitivo
+      turkish: ''
+
+  - ladino: diminutivos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: dimunitives
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: dimunitivos
+      turkish: ''
+
+
+examples: []
