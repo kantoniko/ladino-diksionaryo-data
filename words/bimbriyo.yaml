@@ -1,0 +1,21 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - frutas
+
+versions:
+  - ladino: bimbriyo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: quince
+      french: ''
+      hebrew: חבוש
+      portuguese: ''
+      spanish: membrillo
+      turkish: ''
+
+
+examples: []

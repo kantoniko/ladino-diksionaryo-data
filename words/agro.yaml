@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: agro
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: sour
+      french: ''
+      hebrew: חמוץ
+      portuguese: ''
+      spanish: agrio
+      turkish: ''
+
+  - ladino: agra
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: sour
+      french: ''
+      hebrew: חמוצה
+      portuguese: ''
+      spanish: agria
+      turkish: ''
+
+  - ladino: agros
+
+    gender: masculine
+    number: plual
+
+    translations:
+      english: sour
+      french: ''
+      hebrew: חמוצים
+      portuguese: ''
+      spanish: agrios
+      turkish: ''
+
+  - ladino: agras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: sour
+      french: ''
+      hebrew: חמוצות
+      portuguese: ''
+      spanish: agrias
+      turkish: ''
+
+examples: []
+

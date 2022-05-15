@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - frutas
+
+versions:
+  - ladino: narandja
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: bitter orange
+      french: ''
+      hebrew: חושחש
+      portuguese: ''
+      spanish: naranja amarga
+      turkish: ''
+
+examples: []
