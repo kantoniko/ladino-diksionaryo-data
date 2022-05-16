@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: utilizar
+
+    translations:
+      english: utilize
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: utilizar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
