@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: sivdad
-    accented: sivdad
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: şehir
 
   - ladino: sivdades
-    accented: sivdades
 
     gender: feminine
     number: plural

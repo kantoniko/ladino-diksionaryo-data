@@ -1,0 +1,36 @@
+grammar: null
+origen: Jeneral
+kategorias:
+  - diminutivos
+
+versions:
+  - ladino: sivdadika
+
+    gender: feminine
+    number: singular
+
+    diminutivo-de: sivdad
+
+    translations:
+        english: (little) city
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+  - ladino: sivdadikas
+
+    gender: feminine
+    number: plural
+
+    diminutivo-de: sivdades
+
+    translations:
+        english: (little) cities
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+
+examples: []
