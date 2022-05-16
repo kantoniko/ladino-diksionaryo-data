@@ -1,0 +1,32 @@
+grammar: null
+origen: Jeneral
+kategorias:
+  - mobles
+  - diminutivos
+
+versions:
+  - ladino: mezika
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: (little) table
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+  - ladino: mezikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: (little) tables
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+examples: []
