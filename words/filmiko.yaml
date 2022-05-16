@@ -1,35 +1,36 @@
 grammar: null
-id: '418'
 origen: Jeneral
+kategorias:
+  - diminutivos
 
 versions:
-  - ladino: filmo
+  - ladino: filmiko
 
     gender: masculine
     number: singular
 
+    diminutivo-de: filmo
+
     translations:
-        english:
-        - film
-        - movie
+        english: (little) film
         french: ''
         portuguese: ''
-        spanish: película
-        turkish: film
+        spanish: ''
+        turkish: ''
 
-  - ladino: filmos
+  - ladino: filmikos
 
     gender: masculine
     number: plural
 
+    diminutivo-de: filmos
+
     translations:
-        english:
-        - films
-        - movies
+        english: (little) films
         french: ''
         portuguese: ''
-        spanish: películas
-        turkish: film
+        spanish: ''
+        turkish: ''
 
 
 examples: []
