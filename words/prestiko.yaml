@@ -1,0 +1,18 @@
+grammar: null
+origen: Jeneral
+kategorias:
+  - diminutivos
+
+versions:
+  - ladino: prestiko
+
+    diminutivo-de: presto
+
+    translations:
+        english: quick
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+examples: []
