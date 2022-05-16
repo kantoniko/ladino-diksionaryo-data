@@ -1,0 +1,36 @@
+grammar: null
+origen: Jeneral
+kategorias:
+  - diminutivos
+
+versions:
+  - ladino: papeliko
+
+    gender: masculine
+    number: singular
+
+    diminutivo-de: papel
+
+    translations:
+        english: (little) paper
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+  - ladino: papelikos
+
+    gender: masculine
+    number: plural
+
+    diminutivo-de: papeles
+
+    translations:
+        english: (little) papers
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+
+examples: []
