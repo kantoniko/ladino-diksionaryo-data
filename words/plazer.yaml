@@ -48,11 +48,11 @@ versions:
         turkish: hoşuna gitmek
 
   - ladino: me plaze
-    translation:
+    translations:
       english: I like (singular)
 
   - ladino: me plazen
-    translation:
+    translations:
       english: I like (plural)
 
 conjugations:
