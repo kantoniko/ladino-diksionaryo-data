@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: ridikulo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: ridiculous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ridículo
+      turkish: ''
+
+  - ladino: ridikula
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: ridiculous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ridícula
+      turkish: ''
+
+  - ladino: ridikulos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: ridiculous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ridículos
+      turkish: ''
+
+  - ladino: ridikulas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: ridiculous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ridículas
+      turkish: ''
+
+examples: []
