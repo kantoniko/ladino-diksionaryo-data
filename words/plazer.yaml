@@ -47,6 +47,14 @@ versions:
         spanish: gustar a...
         turkish: hoşuna gitmek
 
+  - ladino: me plaze
+    translation:
+      english: I like (singular)
+
+  - ladino: me plazen
+    translation:
+      english: I like (plural)
+
 conjugations:
   present indicative:
     yo:
@@ -59,5 +67,7 @@ examples:
   - ladino: Me izo plazer de konoserlo.
   - ladino: Me plaze estar en buena kompanyia.
   - ladino: Kreyo ke yo, le agrado solo a mi mama.
-  - ladino: Les plazgo a los elevos, sovre todo kuando termino la klasa.'
+  - ladino: Les plazgo a los elevos, sovre todo kuando termino la klasa.
+  - ladino: No me plazen los istorias de horror.
+    english: I don't like horror stories.
 
