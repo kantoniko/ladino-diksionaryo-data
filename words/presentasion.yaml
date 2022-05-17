@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: presentasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: presentation
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: presentación
+      turkish: ''
+
+  - ladino: presentasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: presentations
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: presentaciones
+      turkish: ''
+
+
+examples: []

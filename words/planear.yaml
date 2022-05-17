@@ -1,0 +1,29 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: planear
+
+    translations:
+      english: plan
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: planificar
+      turkish: ''
+
+
+
+  - ladino: planeamos
+
+    translations:
+      english: we plan
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: planificamos
+      turkish: ''
+
+conjugations: {}
+
+examples: []
