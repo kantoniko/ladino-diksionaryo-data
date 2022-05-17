@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: konversasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: conversation
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conversacion
+      turkish: ''
+
+  - ladino: konversasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: conversations
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conversaciones
+      turkish: ''
+
+
+examples: []
