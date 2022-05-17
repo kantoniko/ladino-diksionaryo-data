@@ -147,6 +147,17 @@ listas:
     - ayre kondisionado
     - pisina
     - havuz
+  invierno:
+    - luvia
+    - pedrisko
+    - inyeve
+    - bruma
+    - relampago
+    - rayo
+    - entezarse del frio
+    - supa
+    - chadir
+    - guantes
 
 tiempos:
   - present indicative

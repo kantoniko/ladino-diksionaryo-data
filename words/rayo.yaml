@@ -5,6 +5,11 @@ origen: Jeneral
 versions:
   - ladino: rayo
 
+
+    alternative-spelling:
+      - ladino: relampago
+        accented: relámpago
+
     gender: masculine
     number: singular
 

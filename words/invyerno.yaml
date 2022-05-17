@@ -5,6 +5,10 @@ origen: Jeneral
 versions:
   - ladino: invyerno
     accented: invyérno
+
+    alternative-spelling:
+      - ladino: invierno
+
     gender: masculine
     number: singular
 

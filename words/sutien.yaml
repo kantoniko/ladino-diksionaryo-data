@@ -1,0 +1,20 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - ropa
+
+versions:
+  - ladino: sutien
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: bra
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sostén
+      turkish: ''
+
+examples: []

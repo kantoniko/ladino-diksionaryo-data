@@ -1,0 +1,34 @@
+grammar: null
+origen: Ladinokomunita
+kategorias:
+  - ropa
+
+versions:
+  - ladino: boton
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: button
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: botón
+      turkish: ''
+
+  - ladino: botones
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: buttons
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: botones
+      turkish: ''
+
+
+examples: []
