@@ -158,6 +158,30 @@ listas:
     - supa
     - chadir
     - guantes
+  tiempos:
+    - agora
+    - amanyana
+    - antiyer
+    - anoche
+    - anyo
+    - ayer
+    - dekada
+    - dia
+    - manyana
+    - mediodia
+    - medianoche
+    - mez
+    - midi
+    - minuto
+    - noche
+    - ora
+    - oy
+    - punto
+    - segundo
+    - semana
+    - siglo
+    - tadre
+    - tadres
 
 tiempos:
   - present indicative

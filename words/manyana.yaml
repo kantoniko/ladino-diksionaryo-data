@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: manyana
 
+    gender: feminine
+    number: singular
+
     translations:
         english:
         - morning
@@ -15,6 +18,18 @@ versions:
         turkish:
         - sabah
         - yarın
+
+  - ladino: manyanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: mornings
+        french: ''
+        portuguese: ''
+        spanish: mañanas
+        turkish: ''
 
 examples:
   - ladino: De la manyana se ve el buen diya.

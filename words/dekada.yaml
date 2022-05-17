@@ -1,0 +1,31 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: dekada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: decade
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: década
+      turkish: ''
+
+  - ladino: dekadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: decades
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: décadas
+      turkish: ''
+
+examples: []
