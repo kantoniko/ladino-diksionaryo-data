@@ -1,6 +1,8 @@
 grammar: null
 id: '2993'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: djarro
@@ -12,14 +14,23 @@ versions:
         - jarre
         - broc
         portuguese: jarro
-        spanish:
-        - jarro
-        - jarra
+        spanish: jarro
         turkish:
         - maşrapa
         - bakraç
 
+  - ladino: djarros
+    accented: djárros
+
+    translations:
+        english: jugs
+        french: ''
+        portuguese: jarros
+        spanish: jarros
+        turkish: ''
+
+
 examples:
   - ladino: Trusho un djarro de agua.
 
-# "djárro (m), djárra (f)",Trusho un djarro de agua.,"jarro, jarra",jug,"maşrapa, bakraç",Jeneral,2993,jarro,"jarre, broc"
+# lad: "djárro (m), djárra (f)",   span: "jarro, jarra",,2993
