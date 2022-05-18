@@ -1,6 +1,8 @@
 grammar: null
 id: '1127'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: vazo
@@ -16,5 +18,20 @@ versions:
         portuguese: ''
         spanish: florero
         turkish: vazo
+
+  - ladino: vazos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - vases
+          - glasses
+        french: ''
+        portuguese: ''
+        spanish: floreros
+        turkish: ''
+
 
 examples: []
