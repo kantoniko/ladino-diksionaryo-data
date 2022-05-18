@@ -1,12 +1,11 @@
 grammar: null
 id: '1059'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: tasa
-
-    alternative-spelling:
-      - ladino: kupa
 
     gender: feminine
     number: singular
@@ -21,9 +20,6 @@ versions:
         - kupa
 
   - ladino: tasas
-
-    alternative-spelling:
-      - ladino: kupas
 
     gender: feminine
     number: plural
