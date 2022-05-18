@@ -1,0 +1,34 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kontenentes
+
+versions:
+  - ladino: varil
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: barrel
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: barril
+      turkish: ''
+
+  - ladino: variles
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: barrels
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: barriles
+      turkish: ''
+
+
+examples: []
