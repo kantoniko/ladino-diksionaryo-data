@@ -1,6 +1,8 @@
 grammar: null
 id: '647'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: kupa
