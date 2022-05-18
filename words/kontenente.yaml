@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinadores
+
+versions:
+  - ladino: kontenente
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: container
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kontenentes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: containers
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
