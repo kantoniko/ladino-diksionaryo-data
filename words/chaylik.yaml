@@ -1,0 +1,22 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kontenentes
+
+versions:
+  - ladino: chaylik
+
+    gender:  masculine
+    number: singular
+
+    translations:
+      english:
+        - teapot
+        - kettle
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: tetera
+      turkish: ''
+
+examples: []
