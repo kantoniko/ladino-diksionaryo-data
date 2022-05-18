@@ -1,6 +1,8 @@
 grammar: null
 id: '2989'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: bokal

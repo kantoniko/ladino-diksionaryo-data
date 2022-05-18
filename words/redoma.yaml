@@ -1,6 +1,8 @@
 grammar: null
 id: '186'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: redoma
