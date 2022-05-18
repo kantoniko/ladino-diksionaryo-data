@@ -1,0 +1,34 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kontenentes
+
+versions:
+  - ladino: papelera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: paper bin
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: papelera
+      turkish: ''
+
+  - ladino: papeleras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: paper bins
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: papeleras
+      turkish: ''
+
+
+examples: []
