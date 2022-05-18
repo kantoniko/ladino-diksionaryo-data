@@ -1,6 +1,8 @@
 grammar: null
 id: '1882'
 origen: Jeneral
+kategorias:
+  - kontenentes
 
 versions:
   - ladino: kantaro
@@ -14,5 +16,18 @@ versions:
         portuguese: ''
         spanish: botijo
         turkish: testi
+
+  - ladino: kantaros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: pitchers
+        french: ''
+        portuguese: ''
+        spanish: botijos
+        turkish: ''
+
 
 examples: []
