@@ -18,5 +18,19 @@ versions:
         spanish: botella
         turkish: şişe
 
+  - ladino: bokales
+    accented: bokáles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: bottles
+        french: ''
+        portuguese: ''
+        spanish: botellas
+        turkish: ''
+
+
 examples:
   - ladino: Se podia meter esta alzeyte en un bokal (una redoma) para transportarla a la keyla.
