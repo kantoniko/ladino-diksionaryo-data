@@ -1,11 +1,14 @@
 grammar: null
 id: '189'
 origen: Jeneral
+kategorias:
+  - kontenentes
+
 versions:
   - ladino: bolsa
 
-    alternative-spelling:
-      - ladino: sako
+    gender: feminine
+    number: singular
 
     translations:
         english: pouch
@@ -13,5 +16,18 @@ versions:
         portuguese: ''
         spanish: bolsa
         turkish: torba
+
+  - ladino: bolsas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pouches
+        french: ''
+        portuguese: ''
+        spanish: bolsas
+        turkish: ''
+
 
 examples: []

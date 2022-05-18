@@ -1,0 +1,34 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kontenentes
+
+versions:
+  - ladino: sako
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: sack
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: saco
+      turkish: ''
+
+  - ladino: sakos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: sacks
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sacos
+      turkish: ''
+
+
+examples: []
