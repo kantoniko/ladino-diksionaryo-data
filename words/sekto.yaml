@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: sekto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: sect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: secta
+      turkish: ''
+
+  - ladino: sektos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: sects
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sectas
+      turkish: ''
+
+
+examples: []
