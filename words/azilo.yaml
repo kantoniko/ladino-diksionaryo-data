@@ -1,0 +1,19 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: azilo
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: asylum
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
