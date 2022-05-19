@@ -1,0 +1,18 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: umor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: humor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: humor
+      turkish: ''
+
+examples: []
