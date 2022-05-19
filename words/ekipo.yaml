@@ -1,0 +1,18 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: ekipo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: team
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: equipo
+      turkish: ''
+
+examples: []
