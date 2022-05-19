@@ -1,9 +1,14 @@
-grammar: null
+grammar: noun
 id: '208'
 origen: Jeneral
+kategorias:
+  - servisio-de-meza
 
 versions:
   - ladino: chanaka
+
+    gender: feminine
+    number: singular
 
     translations:
         english: pot
@@ -11,5 +16,17 @@ versions:
         portuguese: ''
         spanish: cáliz
         turkish: çanak
+
+  - ladino: chanakas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: pots
+        french: ''
+        portuguese: ''
+        spanish: cálizes
+        turkish: ''
 
 examples: []

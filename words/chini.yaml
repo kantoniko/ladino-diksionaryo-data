@@ -1,6 +1,8 @@
 grammar: null
 id: '2655'
 origen: Estanbol
+kategorias:
+  - servisio-de-meza
 
 versions:
   - ladino: chini

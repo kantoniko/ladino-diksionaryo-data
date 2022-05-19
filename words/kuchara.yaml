@@ -1,6 +1,8 @@
 grammar: null
 id: '634'
 origen: Jeneral
+kategorias:
+  - servisio-de-meza
 
 versions:
   - ladino: kuchara
