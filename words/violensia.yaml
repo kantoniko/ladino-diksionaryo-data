@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: violensia
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: violence
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: violencia
+      turkish: ''
+
+examples: []
