@@ -6,6 +6,9 @@ kategorias:
 versions:
   - ladino: chaylik
 
+    alternative-spelling:
+      - ladino: chaydanlik
+
     gender:  masculine
     number: singular
 
