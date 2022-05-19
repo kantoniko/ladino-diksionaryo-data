@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: Islam
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: Islam
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: islam
+      turkish: ''
+
+examples: []
