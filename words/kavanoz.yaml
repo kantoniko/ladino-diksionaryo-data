@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kontenentes
+
+versions:
+  - ladino: kavanoz
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
