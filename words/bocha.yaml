@@ -1,0 +1,33 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kontenentes
+
+versions:
+  - ladino: bocha
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: bochas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
