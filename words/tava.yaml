@@ -1,0 +1,20 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - servisio-de-kuzina
+
+versions:
+  - ladino: tava
+    accented: tavá
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: frying-pan
+        french: ''
+        portuguese: ''
+        spanish: sartén
+        turkish: tava
+
+examples:  []
