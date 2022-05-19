@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: ashkenazi
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: ashkenazi
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: ashkenazis
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: ashkenazis
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
