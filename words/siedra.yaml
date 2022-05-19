@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: siedra
 
+    gender: feminine
+    number: singular
+
     translations:
         english: left
         french: ''
