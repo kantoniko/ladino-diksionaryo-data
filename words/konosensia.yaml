@@ -1,0 +1,18 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: konosensia
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: knowledge
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: conocencia
+      turkish: ''
+
+examples: []

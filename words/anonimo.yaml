@@ -1,0 +1,57 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: anonimo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: anonymous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: anónimo
+      turkish: ''
+
+  - ladino: anonima
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: anonymous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: anónima
+      turkish: ''
+
+  - ladino: anonimos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: anonymous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: anónimos
+      turkish: ''
+
+  - ladino: anonimas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: anonymous
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: anónimas
+      turkish: ''
+
+examples: []

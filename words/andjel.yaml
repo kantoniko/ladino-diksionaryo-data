@@ -1,0 +1,45 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: andjel
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: angel
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ángel
+      turkish: ''
+
+  - ladino: andjela
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: angel
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ángela
+      turkish: ''
+
+  - ladino: andjeles
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: angels
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ángeles
+      turkish: ''
+
+
+examples: []
