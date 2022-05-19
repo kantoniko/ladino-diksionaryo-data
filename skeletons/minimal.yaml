@@ -1,6 +1,6 @@
 grammar: null
 # verb noun adjective
-origen: Ladinokomunita
+origen: Ladinokomunita, Ladinadores
 kategorias:
   - animales
   - bevidas
