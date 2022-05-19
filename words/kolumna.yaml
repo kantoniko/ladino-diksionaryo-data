@@ -1,0 +1,33 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: kolumna
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: column
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: columna
+      turkish: ''
+
+  - ladino: kolumnas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: columns
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: columnas
+      turkish: ''
+
+
+examples:
+  - ladino: Meldava tambien la kolumna de istoria en la gazeta kada dia.
