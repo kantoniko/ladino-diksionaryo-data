@@ -1,0 +1,25 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - servisio-de-kuzina
+
+versions:
+  - ladino: tefsin
+    accented: tefsín
+
+
+    alternative-spelling:
+      - ladino: tifsin
+        accented: tifsín
+
+    gender: masculine
+    number: singular
+
+    translations:
+        english: ''
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+examples: []
