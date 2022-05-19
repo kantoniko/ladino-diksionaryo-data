@@ -1,0 +1,19 @@
+grammar: noun
+origen: Jeneral
+kategorias:
+  - servisio-de-kuzina
+
+versions:
+  - ladino: prestij
+
+    gender: masculine
+    number: singular
+
+    translations:
+        english: ''
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+examples: []

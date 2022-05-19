@@ -2,7 +2,7 @@ grammar: null
 id: '1673'
 origen: Jeneral
 kategorias:
-  - komidas
+  - servisio-de-kuzina
 
 versions:
   - ladino: kacharola
