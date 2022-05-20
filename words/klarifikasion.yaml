@@ -1,0 +1,37 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: klarifikasion
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: klarifikasyon
+
+    translations:
+      english: clarification
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: clarificación
+      turkish: ''
+
+  - ladino: klarifikasiones
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: klarifikasyones
+
+    translations:
+      english: clarifications
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: clarificaciones
+      turkish: ''
+
+examples: []
