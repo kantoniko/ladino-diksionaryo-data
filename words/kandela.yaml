@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: kandela
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: candle
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: candela
+      turkish: ''
+
+  - ladino: kandelas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: candles
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: candelas
+      turkish: ''
+
+
+examples: []
