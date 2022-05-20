@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: lision
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: lesson
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: lección
+      turkish: ''
+
+  - ladino: lisiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: lessons
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: lecciones
+      turkish: ''
+
+
+examples: []
