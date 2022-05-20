@@ -1,0 +1,38 @@
+grammar: nound
+origen: Ladinokomunita
+kategorias:
+  - diminutivos
+
+versions:
+  - ladino: kandelika
+
+    gender: feminine
+    number: singular
+
+    diminutivo-de: kandela
+
+    translations:
+      english: little candle
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kandelikas
+
+    gender: feminine
+    number: plural
+
+    diminutivo-de: kandelas
+
+    translations:
+      english: little candles
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
