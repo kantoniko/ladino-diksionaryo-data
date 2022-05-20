@@ -1,0 +1,26 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: enrejistrar
+
+    translations:
+      english: register
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: registrar
+      turkish: ''
+
+  - ladino: enrejistraron
+
+    translations:
+      english: registered
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: registraron
+      turkish: ''
+
+
+examples: []
