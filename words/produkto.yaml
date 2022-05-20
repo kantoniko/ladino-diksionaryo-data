@@ -1,0 +1,31 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: produkto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: product
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: producto
+      turkish: ''
+
+  - ladino: produktos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: products
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: productos
+      turkish: ''
+
+examples: []
