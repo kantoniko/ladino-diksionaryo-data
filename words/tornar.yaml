@@ -6,7 +6,9 @@ versions:
   - ladino: tornar
 
     translations:
-        english: turn
+        english:
+          - turn
+          - return
         french: ''
         portuguese: ''
         spanish: tornar
