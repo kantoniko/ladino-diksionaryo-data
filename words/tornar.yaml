@@ -14,6 +14,16 @@ versions:
         spanish: tornar
         turkish: dönmek
 
+  - ladino: torni
+
+    translations:
+        english: I returned
+        french: ''
+        portuguese: ''
+        spanish: torni
+        turkish: ''
+
+
 conjugations: {}
 
 examples: []
