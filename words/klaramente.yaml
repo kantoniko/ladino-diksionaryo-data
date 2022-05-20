@@ -1,0 +1,15 @@
+grammar: adverb
+origen: Ladinokomunita
+
+versions:
+  - ladino: klaramente
+
+    translations:
+      english: clearly
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: claramente
+      turkish: ''
+
+examples: []
