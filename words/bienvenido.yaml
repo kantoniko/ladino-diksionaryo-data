@@ -1,0 +1,59 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+  - greetings
+
+versions:
+  - ladino: bienvenido
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: welcome
+      french: ''
+      hebrew: ברוך הבא
+      portuguese: ''
+      spanish: bienvenido
+      turkish: ''
+
+  - ladino: bienvenida
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: welcome
+      french: ''
+      hebrew: ברוך הבאה
+      portuguese: ''
+      spanish: bienvenida
+      turkish: ''
+
+  - ladino: bienvenidos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: welcome
+      french: ''
+      hebrew: ברוכים הבאים
+      portuguese: ''
+      spanish: bienvenidos
+      turkish: ''
+
+  - ladino: bienvenidas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: welcome
+      french: ''
+      hebrew: ברוכות הבאות
+      portuguese: ''
+      spanish: bienvenidas
+      turkish: ''
+
+examples: []
