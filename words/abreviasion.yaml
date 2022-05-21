@@ -5,15 +5,36 @@ kategorias:
 
 versions:
   - ladino: abreviasion
-    #gender: NA # masculine feminine
-    #number: singular plural
+    accented: abreviasión
+
+    gender: feminine
+    number: singular
 
     translations:
       english: abbreviation
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: ''
+      spanish:
+        - abbreviation
+        - abreviatura
       turkish: kısaltma
+
+  - ladino: abreviasiones
+    accented: abreviasiónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: abbreviations
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - abbreviationes
+        - abreviaturas
+      turkish: kısaltma
+
 
 examples: []
