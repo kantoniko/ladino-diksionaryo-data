@@ -5,6 +5,11 @@ origen: Jeneral
 versions:
   - ladino: responsabilitad
 
+    alternative-spelling:
+      - ladino: responsabilidad
+      - ladino: responsabilita
+        accented: responsabilitá
+
     gender: feminine
     number: singular
 
