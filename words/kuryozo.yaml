@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: kuryozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: curious
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: curioso
+      turkish: ''
+
+  - ladino: kuryoza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: curious
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: curiosa
+      turkish: ''
+
+  - ladino: kuryozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: curious
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: curiosos
+      turkish: ''
+
+  - ladino: kuryozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: curious
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: curiosas
+      turkish: ''
+
+
+examples: []
