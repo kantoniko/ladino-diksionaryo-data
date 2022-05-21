@@ -1,0 +1,15 @@
+grammar: adverb
+origen: Ladinokomunita
+
+versions:
+  - ladino: matrana
+
+    translations:
+      english: very early
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
