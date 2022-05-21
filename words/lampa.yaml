@@ -1,0 +1,35 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - kamareta-de-echar
+  - mobles
+
+versions:
+  - ladino: lampa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: lamp
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: lampara
+      turkish: ''
+
+  - ladino: lampas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: lamps
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: lamparas
+      turkish: ''
+
+
+examples: []

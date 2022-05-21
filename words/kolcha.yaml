@@ -1,6 +1,8 @@
 grammar: noun
 id: '3081'
 origen: Jeneral
+kategorias:
+  - kamareta-de-echar
 
 versions:
   - ladino: kolcha

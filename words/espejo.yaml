@@ -1,6 +1,9 @@
 grammar: null
 id: '371'
 origen: Jeneral
+kategorias:
+  - kamareta-de-echar
+  - mobles
 
 versions:
   - ladino: espejo

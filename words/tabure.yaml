@@ -1,0 +1,22 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kamareta-de-echar
+  - mobles
+
+versions:
+  - ladino: tabure
+    accented: taburé
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: stool
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: taburete
+      turkish: ''
+
+examples: []

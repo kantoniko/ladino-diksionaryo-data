@@ -1,6 +1,9 @@
 grammar: noun
 id: '3075'
 origen: Jeneral
+kategorias:
+  - mobles
+  - kamareta-de-echar
 
 versions:
   - ladino: kolchon
