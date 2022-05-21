@@ -19,4 +19,19 @@ versions:
         - an
         - dakika
 
+  - ladino: puntos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - moments
+        - minutes
+        french: ''
+        portuguese: ''
+        spanish: puntos
+        turkish: ''
+
+
 examples: []
