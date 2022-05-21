@@ -4,18 +4,17 @@ kategorias:
   - relijiones
 
 versions:
-  - ladino: Islam
+  - ladino: kristianizmo
 
     gender: masculine
     number: singular
 
-
     translations:
-      english: Islam
+      english: christianity
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: islam
+      spanish: cristiandad
       turkish: ''
 
 examples: []

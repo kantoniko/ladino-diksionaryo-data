@@ -1,6 +1,8 @@
 grammar: null
 id: '271'
 origen: Jeneral
+kategorias:
+  - relijiones
 
 versions:
   - ladino: djudio

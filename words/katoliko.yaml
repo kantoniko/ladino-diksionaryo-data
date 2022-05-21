@@ -4,56 +4,58 @@ kategorias:
   - relijiones
 
 versions:
-  - ladino: musulmano
+  - ladino: katoliko
 
     gender: masculine
     number: singular
 
     translations:
-      english: muslim
+      english: catholic
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: musulmán
+      spanish: católico
       turkish: ''
 
-  - ladino: musulmana
+  - ladino: katolika
 
     gender: feminine
     number: singular
 
     translations:
-      english: muslim
+      english: catholic
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: musulmána
+      spanish: católica
       turkish: ''
 
-  - ladino: musulmanos
+  - ladino: katolikos
 
     gender: masculine
     number: plural
 
     translations:
-      english: muslims
+      english: catholics
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: musulmános
+      spanish: católicos
       turkish: ''
 
-  - ladino: musulmanas
+  - ladino: katolikas
 
     gender: feminine
     number: plural
 
     translations:
-      english: muslims
+      english: catholics
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: musulmánas
+      spanish: católicas
       turkish: ''
+
 
 examples: []
+
