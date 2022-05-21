@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: platforma
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: platform
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: plataforma
+      turkish: ''
+
+  - ladino: platformas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: platforms
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: plataformas
+      turkish: ''
+
+
+examples: []
