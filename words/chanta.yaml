@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: chanta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: purse
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bolso
+      turkish: ''
+
+  - ladino: chantas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: purses
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bolsos
+      turkish: ''
+
+
+examples: []
