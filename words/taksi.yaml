@@ -1,0 +1,38 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - veikolos
+
+versions:
+  - ladino: taksi
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - taxi
+        - cab
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: taxi
+      turkish: ''
+
+  - ladino: taksis
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english:
+        - taxis
+        - cabs
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: taxis
+      turkish: ''
+
+
+examples: []
