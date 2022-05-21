@@ -1,0 +1,32 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: semejansa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: likeness
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: semejanza
+      turkish: ''
+
+  - ladino: semejansas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: likenesses
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: semejanzas
+      turkish: ''
+
+
+examples: []
