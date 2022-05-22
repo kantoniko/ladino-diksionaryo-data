@@ -62,6 +62,7 @@ numero:
   - singular
   - plural
 pajinas:
+  abreviasiones.md:        abreviasiones.html
   biervos-de-la-gramer.md: gramer.html
   pronombres.md:           pronombres.html
   numeros.md:              numeros.html
