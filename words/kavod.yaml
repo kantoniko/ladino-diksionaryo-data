@@ -1,0 +1,18 @@
+grammar: null
+origen: Ebreo
+
+versions:
+  - ladino: kavod
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: respect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: respeto
+      turkish: ''
+
+examples: []
