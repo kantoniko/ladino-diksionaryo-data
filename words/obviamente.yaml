@@ -1,0 +1,15 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: obviamente
+
+    translations:
+      english: obviously
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: obviamente
+      turkish: ''
+
+examples: []
