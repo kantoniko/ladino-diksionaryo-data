@@ -13,10 +13,28 @@ versions:
 
     translations:
         english: ice-cream
-        french: ''
+        french:
+          - gelée
+          - gel
         portuguese: ''
         spanish: helado
         turkish: dondurma
+
+  - ladino: yeladas
+    accented: yeládas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: ice-creams
+        french:
+          - gelées
+          - gels
+        portuguese: ''
+        spanish: helados
+        turkish: ''
+
 
 examples:
   - ladino: 'De los Meksikanos sinti ke "dondurma" se dize "yelada". '

@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: mistake
-        french: ''
+        french: erreur
         portuguese: ''
         spanish:
           - hierro
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: mistakes
-        french: ''
+        french: erreurs
         portuguese: ''
         spanish:
           - hierros

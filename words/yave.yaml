@@ -7,7 +7,9 @@ versions:
 
     translations:
         english: key
-        french: ''
+        french:
+          - clé
+          - clef
         portuguese: ''
         spanish: llave
         turkish: anahtar

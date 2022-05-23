@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: neighbours
-        french: ''
+        french: voisins
         portuguese: ''
         spanish: vecinos
         turkish: komşu
@@ -62,7 +62,7 @@ versions:
 
     translations:
         english: neighbours
-        french: ''
+        french: voisines
         portuguese: ''
         spanish: vecinas
         turkish: komşu

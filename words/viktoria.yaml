@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: victory
-        french: ''
+        french: victoire
         portuguese: ''
         spanish: victoria
         turkish: zafer
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: victories
-        french: ''
+        french: victoires
         portuguese: ''
         spanish: victorias
         turkish: zafer

@@ -13,7 +13,7 @@ versions:
 
     translations:
         english: son-in-law
-        french: ''
+        french: gendre
         portuguese: ''
         spanish: yerno
         turkish: damat
@@ -25,7 +25,7 @@ versions:
 
     translations:
         english: sons-in-law
-        french: ''
+        french: gendres
         portuguese: ''
         spanish: yernos
         turkish: damat

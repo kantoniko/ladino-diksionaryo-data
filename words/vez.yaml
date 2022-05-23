@@ -11,7 +11,7 @@ versions:
         english:
           - time
           - instance
-        french: ''
+        french: fois
         portuguese: ''
         spanish: vez
         turkish: defa
@@ -24,7 +24,7 @@ versions:
         english:
           - times
           - instances
-        french: ''
+        french: fois
         portuguese: ''
         spanish: veces
         turkish: bazen

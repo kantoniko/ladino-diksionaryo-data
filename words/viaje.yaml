@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: travel
-        french: ''
+        french: voyage
         portuguese: ''
         spanish: viaje
         turkish: seyahat
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: travels
-        french: ''
+        french: voyages
         portuguese: ''
         spanish: viajes
         turkish: seyahat

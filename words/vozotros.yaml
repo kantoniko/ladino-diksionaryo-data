@@ -11,7 +11,7 @@ versions:
     translations:
         english:
           - you
-        french: ''
+        french: votre
         portuguese: ''
         spanish: vosotros
         turkish: siz
@@ -24,7 +24,7 @@ versions:
     translations:
         english:
           - you
-        french: ''
+        french: votre
         portuguese: ''
         spanish: vosotras
         turkish: siz

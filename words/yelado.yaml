@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: cold
-        french: ''
+        french: froid
         portuguese: ''
         spanish: frío
         turkish: soğuk
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: cold
-        french: ''
+        french: froid
         portuguese: ''
         spanish: fría
         turkish: soğuk
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: cold
-        french: ''
+        french: froids
         portuguese: ''
         spanish: fríos
         turkish: soğuk
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: cold
-        french: ''
+        french: froids
         portuguese: ''
         spanish: frías
         turkish: soğuk

@@ -13,7 +13,7 @@ versions:
         english:
         - view
         - sight
-        french: ''
+        french: vue
         portuguese: ''
         spanish: vista
         turkish:
@@ -30,7 +30,7 @@ versions:
         english:
         - views
         - sights
-        french: ''
+        french: vues
         portuguese: ''
         spanish: vistas
         turkish:

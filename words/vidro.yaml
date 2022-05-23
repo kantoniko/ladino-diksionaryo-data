@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: glass
-        french: ''
+        french: verre
         portuguese: ''
         spanish: cristal
         turkish: cam
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: glasses
-        french: ''
+        french: verres
         portuguese: ''
         spanish: cristals
         turkish: cam

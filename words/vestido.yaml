@@ -19,7 +19,7 @@ versions:
         english:
         - clothing
         - suit
-        french: ''
+        french: robe
         portuguese: ''
         spanish: vestido
         turkish:
@@ -40,7 +40,7 @@ versions:
         english:
         - clothing
         - suits
-        french: ''
+        french: robes
         portuguese: ''
         spanish: vestidos
         turkish:

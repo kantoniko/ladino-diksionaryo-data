@@ -13,7 +13,7 @@ versions:
 
     translations:
         english: plum
-        french: ''
+        french: prune
         hebrew: שזיף
         portuguese: ameixa
         spanish: ciruela
@@ -27,7 +27,7 @@ versions:
 
     translations:
         english: plums
-        french: ''
+        french: prunes
         hebrew: שזיפים
         portuguese:  ameixas
         spanish: ciruelas

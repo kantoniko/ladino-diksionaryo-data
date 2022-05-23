@@ -9,7 +9,7 @@ versions:
         english:
         - vote
         - voting
-        french: ''
+        french: vote
         portuguese: ''
         spanish: votación
         turkish: oylama

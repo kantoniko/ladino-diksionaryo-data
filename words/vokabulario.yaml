@@ -9,7 +9,7 @@ versions:
 
     translations:
       english: vocabulary
-      french: ''
+      french: vocabulaire
       hebrew: ''
       portuguese: ''
       spanish: vocabulario
@@ -22,7 +22,7 @@ versions:
 
     translations:
       english: vocabularies
-      french: ''
+      french:  vocabulaires
       hebrew: ''
       portuguese: ''
       spanish: vocabularios

@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: old
-        french: ''
+        french: vieil
         portuguese: ''
         spanish: antiguo
         turkish: eski
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: old
-        french: ''
+        french: vieille
         portuguese: ''
         spanish: antigua
         turkish: eski
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: old
-        french: ''
+        french: vieux
         portuguese: ''
         spanish: antiguos
         turkish: eski
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: old
-        french: ''
+        french:  vieilles
         portuguese: ''
         spanish: antiguas
         turkish: eski

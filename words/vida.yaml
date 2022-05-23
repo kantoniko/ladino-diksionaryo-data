@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: life
-        french: ''
+        french: vie
         portuguese: ''
         spanish: vida
         turkish: hayat
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: lifes
-        french: ''
+        french: vies
         portuguese: ''
         spanish: vidas
         turkish: hayat

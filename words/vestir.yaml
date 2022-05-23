@@ -7,7 +7,9 @@ versions:
 
     translations:
         english: wear
-        french: ''
+        french:
+          - porter
+          - vétir
         portuguese: ''
         spanish: vestir
         turkish:

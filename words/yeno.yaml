@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: full
-        french: ''
+        french: plein
         portuguese: ''
         spanish: lleno
         turkish: dolu
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: full
-        french: ''
+        french: pleine
         portuguese: ''
         spanish: llena
         turkish: dolu
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: full
-        french: ''
+        french: pleins
         portuguese: ''
         spanish: llenos
         turkish: dolu
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: full
-        french: ''
+        french: pleines
         portuguese: ''
         spanish: llenas
         turkish: dolu
