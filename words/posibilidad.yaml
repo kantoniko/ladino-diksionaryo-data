@@ -5,11 +5,37 @@ origen: Jeneral
 versions:
   - ladino: posibilidad
 
+    alternative-spelling:
+      - ladino: posibilita
+        accented: posibilitá
+      - ladino: posibilidat
+
+    gender: feminine
+    number: singular
+
     translations:
         english: possibility
         french: ''
         portuguese: ''
         spanish: posibilidad
         turkish: imkân
+
+  - ladino: posibilidades
+
+    alternative-spelling:
+      - ladino: posibilitas
+        accented: posibilitás
+      - ladino: posibilidates
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: possibilities
+        french: ''
+        portuguese: ''
+        spanish: posibilidades
+        turkish: ''
+
 
 examples: []
