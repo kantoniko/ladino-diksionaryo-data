@@ -1,0 +1,74 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: voluntario
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: volontario
+
+
+    translations:
+      english: voluntary
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: voluntario
+      turkish: ''
+
+  - ladino: voluntaria
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: volontaria
+
+
+    translations:
+      english: voluntary
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: voluntaria
+      turkish: ''
+
+  - ladino: voluntarios
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: volontarios
+
+
+    translations:
+      english: voluntaries
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: voluntarios
+      turkish: ''
+
+  - ladino: voluntarias
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: volontarias
+
+
+    translations:
+      english: voluntaries
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: voluntarias
+      turkish: ''
+
+
+examples: []
