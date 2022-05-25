@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: aeroporto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: airport
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aeropuerto
+      turkish: ''
+
+  - ladino: aeroportos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: airports
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aeropuertos
+      turkish: ''
+
+
+examples: []
