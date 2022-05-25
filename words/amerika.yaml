@@ -1,0 +1,20 @@
+grammar: nound
+origen: Ladinokomunita
+kategorias:
+  - kontinentes
+
+versions:
+  - ladino: Amerika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: america
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: América
+      turkish: ''
+
+examples: []
