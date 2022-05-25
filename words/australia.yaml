@@ -1,0 +1,20 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - kontinentes
+
+versions:
+  - ladino: Australia
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: Australia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Australia
+      turkish: ''
+
+examples: []
