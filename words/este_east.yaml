@@ -1,0 +1,20 @@
+grammar: null
+id: '386,387,2449,2446'
+origen: Jeneral
+kategorias:
+  - direksion
+
+versions:
+  - ladino: este
+
+    gender: masculine
+    number: singular
+
+    translations:
+        english: east
+        french: ''
+        portuguese: ''
+        spanish: este
+        turkish: doğu
+
+examples: []
