@@ -1,0 +1,44 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: puvlikasion
+    accented: puvlikasión
+
+    gender: feminine
+    number: singular
+
+
+    alternative-spelling:
+      - ladino: publikasion
+        accented: publikasión
+
+    translations:
+      english: publication
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: publicación
+      turkish: ''
+
+  - ladino: puvlikasiones
+    accented: puvlikasiónes
+
+    gender: feminine
+    number: plural
+
+
+    alternative-spelling:
+      - ladino: publikasiones
+        accented: publikasiónes
+
+    translations:
+      english: publications
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: publicaciones
+      turkish: ''
+
+
+examples: []
