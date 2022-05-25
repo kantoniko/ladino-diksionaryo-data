@@ -1,0 +1,34 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - ropa
+
+versions:
+  - ladino: esharpa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: scarf
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bufanda
+      turkish: ''
+
+  - ladino: esharpas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: scarfs
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bufandas
+      turkish: ''
+
+
+examples: []
