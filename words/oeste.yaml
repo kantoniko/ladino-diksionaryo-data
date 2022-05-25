@@ -1,0 +1,20 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - direksion
+
+versions:
+  - ladino: oeste
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: west
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: oeste
+      turkish: ''
+
+examples: []
