@@ -1,6 +1,8 @@
 grammar: null
 id: '1327'
 origen: Jeneral
+kategorias:
+  - kontinentes
 
 versions:
   - ladino: Evropa

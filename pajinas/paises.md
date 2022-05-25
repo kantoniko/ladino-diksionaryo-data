@@ -13,8 +13,7 @@ turka     | turko     | Turkish
 Ladino                | Inglez/Lokal
 --------------------- | ------------
                       | Antartica
-/Oceania
-Evropa                | Europe
+                      | Oceania
 Norte Amerika         | North America
 Amerika del Norte     |
 Sur Amerkia           | South America
