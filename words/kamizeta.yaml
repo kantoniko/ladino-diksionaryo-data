@@ -1,0 +1,34 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - ropa
+
+versions:
+  - ladino: kamizeta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: t-shirt
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: camiseta
+      turkish: ''
+
+  - ladino: kamizetas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: t-shirts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: camisetas
+      turkish: ''
+
+
+examples: []
