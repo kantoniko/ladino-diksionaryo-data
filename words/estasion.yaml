@@ -1,0 +1,34 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: estasion
+    accented: estasión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: station
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: estación
+      turkish: ''
+
+  - ladino: estasiones
+    accented: estasiónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: stations
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: estaciones
+      turkish: ''
+
+
+examples: []
