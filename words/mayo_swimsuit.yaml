@@ -1,0 +1,36 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - ropa
+
+versions:
+  - ladino: mayo
+    accented: mayó
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: swimsuit
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: traje de baño
+      turkish: ''
+
+  - ladino: mayos
+    accented: mayós
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: swimsuits
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: trajes de baño
+      turkish: ''
+
+
+examples: []
