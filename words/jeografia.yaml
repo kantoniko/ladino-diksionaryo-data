@@ -1,0 +1,19 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: jeografia
+    accented: jeografía
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: geography
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: geografía
+      turkish: ''
+
+examples: []
