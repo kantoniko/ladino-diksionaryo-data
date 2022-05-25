@@ -1,0 +1,20 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - kontinentes
+
+versions:
+  - ladino: Afrika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: Africa
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: África
+      turkish: ''
+
+examples: []

@@ -12,7 +12,6 @@ turka     | turko     | Turkish
 
 Ladino                | Inglez/Lokal
 --------------------- | ------------
-Afrika                | Africa
                       | Antartica
 Asia                  | Asia
 Asutralia             | Australia/Oceania
