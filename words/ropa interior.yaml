@@ -6,8 +6,8 @@ kategorias:
 versions:
   - ladino: ropa interior
 
-    #gender: NA # masculine feminine both
-    #number: singular plural
+    gender: feminine
+    number: singular
 
     translations:
       english: underware
