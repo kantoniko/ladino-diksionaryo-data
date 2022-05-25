@@ -1,0 +1,20 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - ropa
+
+versions:
+  - ladino: ropa interior
+
+    #gender: NA # masculine feminine both
+    #number: singular plural
+
+    translations:
+      english: underware
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ropa interior
+      turkish: ''
+
+examples: []
