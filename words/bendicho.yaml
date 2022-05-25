@@ -1,0 +1,57 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: bendicho
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: blessed
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bendecido
+      turkish: ''
+
+  - ladino: bendicha
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: blessed
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bendecida
+      turkish: ''
+
+  - ladino: bendichos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: blessed
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bendecidos
+      turkish: ''
+
+  - ladino: bendichas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: blessed
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bendecidas
+      turkish: ''
+
+examples: []
