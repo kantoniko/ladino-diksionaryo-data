@@ -1,9 +1,14 @@
 grammar: null
 id: '586'
 origen: Jeneral
+kategorias:
+  - ropa
 
 versions:
   - ladino: komple
+
+    gender: masculine
+    number: singular
 
     alternative-spelling:
       - ladino: kostum
