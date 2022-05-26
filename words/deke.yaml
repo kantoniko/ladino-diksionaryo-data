@@ -1,6 +1,8 @@
 grammar: NA
 id: '2417'
 origen: Jeneral
+kategorias:
+  - kestiones
 
 versions:
   - ladino: deke
