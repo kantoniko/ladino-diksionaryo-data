@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - greetings
+
+versions:
+  - ladino: Saludozo ke estes
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
