@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - greetings
+
+versions:
+  - ladino: Sanos i rezyos
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []
