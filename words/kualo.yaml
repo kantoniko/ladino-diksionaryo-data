@@ -1,6 +1,8 @@
 grammar: NA
 id: '1395'
 origen: Jeneral
+kategorias:
+  - kestiones
 
 versions:
   - ladino: kualo

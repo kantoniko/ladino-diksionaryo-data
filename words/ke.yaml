@@ -1,13 +1,11 @@
 grammar: NA
 id: '550'
 origen: Jeneral
+kategorias:
+  - kestiones
 
 versions:
   - ladino: ke
-    accented: ke
-    alternative-spelling:
-    -   ladino: kualo
-        accented: kuálo
 
     translations:
         english: what
@@ -17,7 +15,6 @@ versions:
         turkish: ne
 
   - ladino: ke
-    accented: ke
 
     translations:
         english: that

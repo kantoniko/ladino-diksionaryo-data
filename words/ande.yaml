@@ -1,6 +1,8 @@
 grammar: adverb
 id: '90'
 origen: Jeneral
+kategorias:
+  - kestiones
 
 versions:
   - ladino: ande
