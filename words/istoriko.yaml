@@ -1,0 +1,61 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: istoriko
+    accented: istóriko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: historic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: histórico
+      turkish: ''
+
+  - ladino: istorika
+    accented: istórika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: historic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: histórica
+      turkish: ''
+
+  - ladino: istorikos
+    accented: istórikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: historic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: históricos
+      turkish: ''
+
+  - ladino: istorikas
+    accented: istórikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: historic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: históricas
+      turkish: ''
+
+examples: []
