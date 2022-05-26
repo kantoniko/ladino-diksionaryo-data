@@ -1,13 +1,18 @@
-grammar: null
+grammar: noun
 id: '519'
 origen: Jeneral
+kategorias:
+  - kaza
+
 versions:
   - ladino: dormitorio
-    accented: dormitorio
 
     alternative-spelling:
       - ladino: kam. de echar
         accented: kam. de echar
+
+    gender: masculine
+    number: singular
 
     translations:
         english:
@@ -19,5 +24,19 @@ versions:
         turkish:
         - yatak odası
         - yatakhane
+
+  - ladino: dormitorios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - bedrooms
+        - dormitories
+        french: ''
+        portuguese: ''
+        spanish: dormitorios
+        turkish: ''
 
 examples: []

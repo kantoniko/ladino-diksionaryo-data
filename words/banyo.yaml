@@ -1,5 +1,7 @@
-grammar: null
+grammar: noun
 origen: Ladinokomunita
+kategorias:
+  - kaza
 
 versions:
   - ladino: banyo

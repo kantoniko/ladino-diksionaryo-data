@@ -1,6 +1,8 @@
 grammar: null
 id: '1132'
 origen: Jeneral
+kategorias:
+  - kaza
 
 versions:
   - ladino: ventana
