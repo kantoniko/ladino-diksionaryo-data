@@ -7,6 +7,9 @@ kategorias:
 versions:
   - ladino: latin
 
+    gender: masculine
+    number: singular
+
     translations:
         english: latin
         french: ''
@@ -15,6 +18,46 @@ versions:
         turkish:
         - latin
         - latince
+
+  - ladino: latina
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: latin
+        french: ''
+        portuguese: ''
+        spanish: latína
+        turkish:
+        - latin
+        - latince
+
+versions:
+  - ladino: latinos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: latin
+        french: ''
+        portuguese: ''
+        spanish: latinos
+        turkish: ''
+
+  - ladino: latinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: latin
+        french: ''
+        portuguese: ''
+        spanish: latínas
+        turkish: ''
+
 
 examples:
   - ladino: Ay djente ke konfonden Ladino kon Latin.
