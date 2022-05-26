@@ -1,6 +1,8 @@
 grammar: noun
 id: '150'
 origen: Jeneral
+kategorias:
+  - natura
 
 versions:
   - ladino: luvya

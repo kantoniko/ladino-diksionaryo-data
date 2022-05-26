@@ -1,6 +1,8 @@
 grammar: null
 id: '871'
 origen: Jeneral
+kategorias:
+  - natura
 
 versions:
   - ladino: plaj

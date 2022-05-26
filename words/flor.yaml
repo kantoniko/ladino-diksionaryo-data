@@ -1,6 +1,8 @@
 grammar: null
 id: '429'
 origen: Jeneral
+kategorias:
+  - natura
 
 versions:
   - ladino: flor

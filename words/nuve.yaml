@@ -1,10 +1,13 @@
 grammar: noun
 id: '3086'
 origen: Jeneral
+kategorias:
+  - natura
 
 versions:
   - ladino: nuve
     accented: núve
+
     gender: feminine
     number: singular
 
@@ -15,6 +18,20 @@ versions:
         spanish: nube
         turkish: bulut
 
+  - ladino: nuves
+    accented: núves
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: clouds
+        french: ''
+        portuguese: ''
+        spanish: nubes
+        turkish: ''
+
+
 examples:
-  - ladino: 'El sol sale atraves de las nuves. '
+  - ladino: El sol sale atraves de las nuves.
 
