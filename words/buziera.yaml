@@ -1,6 +1,8 @@
 grammar: null
 id: '206'
 origen: Jeneral
+kategorias:
+  - kuzina
 
 versions:
   - ladino: buziera

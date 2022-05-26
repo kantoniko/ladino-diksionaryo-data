@@ -2,7 +2,7 @@ grammar: noun
 id: '2861'
 origen: Jeneral
 kategorias:
-  - servisio-de-kuzina
+  - kuzina
 
 versions:
   - ladino: sarten
