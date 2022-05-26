@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - greetings
+
+versions:
+  - ladino: buyrun
+    accented: buyrún
+
+    translations:
+      english: welcome
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

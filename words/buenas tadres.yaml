@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - greetings
+
+versions:
+  - ladino: buenas tadres
+
+
+    translations:
+      english: good afternoon
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: buenas tardes
+      turkish: ''
+
+examples: []

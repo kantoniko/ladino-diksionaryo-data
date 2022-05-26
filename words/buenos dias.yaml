@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - greetings
+
+versions:
+  - ladino: buenos dias
+
+    translations:
+      english: good morning
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: buenos dias
+      turkish: ''
+
+examples: []
