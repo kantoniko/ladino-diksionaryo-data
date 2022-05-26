@@ -2,7 +2,7 @@
 
 * [sivdad](/words/ladino/sivdad) -  [sivdad](https://lad.wikipedia.org/wiki/Sivdad) - city
 
-Ladino        | Inglez/Lokal                 | Enlases
+Ladino        | Inglez/Lokal                 | Atadijos
 ------------- | ---------------------------- | -------
 Belgrado      | Belgrad, Serbia              |
 Estambul      | Istanbul, Turkey             | [Estambol](https://lad.wikipedia.org/wiki/Estambol)
