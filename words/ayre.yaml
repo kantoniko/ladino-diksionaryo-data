@@ -1,12 +1,19 @@
 grammar: noun
 id: '50'
 origen: Jeneral
+kategorias:
+  - natura
 
 versions:
   - ladino: ayre
     accented: áyre
+
+    alternative-spelling:
+      - ladino: aire
+
     gender: masculine
     number: singular
+
     translations:
         english:
           - air
