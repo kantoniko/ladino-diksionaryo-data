@@ -1,0 +1,58 @@
+grammar: null
+origen: Ladinokomunita
+
+versions:
+  - ladino: lokal
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: local
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: local
+      turkish: ''
+
+  - ladino: lokala
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: local
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: locala
+      turkish: ''
+
+  - ladino: lokales
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: local
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: locales
+      turkish: ''
+
+  - ladino: lokalas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: local
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: localas
+      turkish: ''
+
+
+examples: []
