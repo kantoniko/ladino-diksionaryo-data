@@ -1,0 +1,31 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: kontribusion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: contribution
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contribución
+      turkish: ''
+
+  - ladino: kontribusiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: contributions
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contribuciones
+      turkish: ''
+
+examples: []

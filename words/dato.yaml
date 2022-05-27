@@ -1,0 +1,32 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: dato
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: data
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: datos
+      turkish: ''
+
+  - ladino: datos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: data
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: datos
+      turkish: ''
+
+
+examples: []
