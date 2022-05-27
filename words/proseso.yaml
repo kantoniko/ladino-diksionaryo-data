@@ -1,0 +1,32 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: proseso
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: process
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: proceso
+      turkish: ''
+
+  - ladino: prosesos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: processes
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: procesos
+      turkish: ''
+
+
+examples: []
