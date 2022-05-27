@@ -1,6 +1,8 @@
 grammar: NA
 id: '2612'
 origen: Jeneral
+kategorias:
+  - saludos
 
 versions:
   - ladino: shalom
