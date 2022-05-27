@@ -1,0 +1,62 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: morado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: purple
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: morado
+      turkish: ''
+
+
+  - ladino: morada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: purple
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: morada
+      turkish: ''
+
+  - ladino: morados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: purple
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: morados
+      turkish: ''
+
+
+  - ladino: moradas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: purple
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: moradas
+      turkish: ''
+
+
+examples: []

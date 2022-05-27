@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: khaki
+
+    translations:
+      english: khaki
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: caqui
+      turkish: ''
+
+
+examples: []

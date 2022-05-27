@@ -1,0 +1,18 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: maron
+    accented: marón
+
+    translations:
+      english: brown
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: marrón
+      turkish: ''
+
+examples: []

@@ -1,6 +1,8 @@
 grammar: adjective
 id: '1202'
 origen: Jeneral
+kategorias:
+  - kolores
 
 versions:
   - ladino: amariyo

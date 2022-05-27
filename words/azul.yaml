@@ -1,0 +1,16 @@
+grammar: adjective
+origen: Jeneral
+kategorias:
+  - kolores
+
+versions:
+  - ladino: azul
+
+    translations:
+        english: blue
+        french: ''
+        portuguese: ''
+        spanish: azul
+        turkish: ''
+
+examples: []

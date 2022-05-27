@@ -1,0 +1,19 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: mavi
+    accented: maví
+
+    translations:
+      english: blue
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: azul
+      turkish: ''
+
+
+examples: []

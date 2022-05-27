@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: bordo
+    accented: bordó
+
+    translations:
+      english:
+        - burgundy
+        - claret
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: burdeo
+      turkish: ''
+
+
+examples: []
