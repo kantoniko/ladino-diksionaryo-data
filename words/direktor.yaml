@@ -1,6 +1,8 @@
 grammar: NA
 id: '1723'
 origen: Jeneral
+kategorias:
+  - profesion
 
 versions:
   - ladino: direktor

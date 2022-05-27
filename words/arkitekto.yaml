@@ -1,0 +1,61 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: arkitekto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: architect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: arquitecto
+      turkish: ''
+
+  - ladino: arkitekta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: architect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: arquitecta
+      turkish: ''
+
+  - ladino: arkitektos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: architects
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: arquitectos
+      turkish: ''
+
+  - ladino: arkitektas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: architects
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: arquitectas
+      turkish: ''
+
+
+
+examples: []

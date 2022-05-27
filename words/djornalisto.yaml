@@ -1,0 +1,60 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: djoranalisto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: journalist
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: periodista
+      turkish: ''
+
+  - ladino: djoranalista
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: journalist
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: periodista
+      turkish: ''
+
+  - ladino: djoranalistos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: journalists
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: periodistas
+      turkish: ''
+
+  - ladino: djoranalistas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: journalists
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: periodistas
+      turkish: ''
+
+
+examples: []

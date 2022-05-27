@@ -1,0 +1,59 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: redaktor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: editor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: editor
+      turkish: ''
+
+  - ladino: redaktora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: editor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: editora
+      turkish: ''
+
+  - ladino: redaktores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: editors
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: editores
+      turkish: ''
+
+  - ladino: redaktoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: editors
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: editoras
+      turkish: ''
+
+examples: []

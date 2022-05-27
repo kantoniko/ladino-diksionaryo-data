@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: mafyonero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: mafioso
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mafioso
+      turkish: ''
+
+
+examples: []

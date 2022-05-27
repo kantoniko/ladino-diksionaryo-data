@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: chadirdjis
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: umbrella salesman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples:
+  - ladino: Un chadirdjis es un vendedor de chadir.

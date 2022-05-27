@@ -1,13 +1,12 @@
 grammar: NA
-id: '1340'
-origen: Jeneral
+origen: Ladinokomunita
 kategorias:
   - profesion
 
 versions:
-  - ladino: giador
+  - ladino: guia
 
-    gender: masculine
+    gender: feminine
     number: singular
 
     translations:
@@ -15,19 +14,15 @@ versions:
         french: ''
         portuguese: ''
         spanish: guía
-        turkish:
-        - rehber
-        - lıder
+        turkish: ''
 
-  - ladino: giadora
+  - ladino: guias
 
     translations:
-        english: guide
+        english: guides
         french: ''
         portuguese: ''
-        spanish: guía
-        turkish:
-        - rehber
-        - lıder
+        spanish: guías
+        turkish: ''
 
 examples: []

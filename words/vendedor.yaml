@@ -1,0 +1,59 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - profesion
+
+versions:
+  - ladino: vendedor
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: salesman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vendedor
+      turkish: ''
+
+  - ladino: vendedora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: saleswoman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vendedora
+      turkish: ''
+
+  - ladino: vendedores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: salesmen
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vendedores
+      turkish: ''
+
+  - ladino: vendedoras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: saleswomen
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: vendedoras
+      turkish: ''
+
+examples: []
