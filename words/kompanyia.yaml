@@ -1,0 +1,34 @@
+grammar: noun
+origen: NA
+
+versions:
+  - ladino: kompanyia
+    accented: kompanyía
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: company
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: empresa
+      turkish: ''
+
+
+  - ladino: kompanyias
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: companies
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: empresas
+      turkish: ''
+
+
+examples: []
