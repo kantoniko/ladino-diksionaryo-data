@@ -1,0 +1,23 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - bevidas
+
+versions:
+  - ladino: shampanya
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: champagne
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - champán
+        - champaña
+      turkish: ''
+
+
+examples: []

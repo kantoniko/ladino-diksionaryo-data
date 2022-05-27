@@ -17,4 +17,8 @@ versions:
         - jugo
         turkish: usare (meyva suyu)
 
-examples: []
+examples:
+  - ladino: sumo de mansana
+    english: apple juice
+  - ladino: sumo de portokal
+    english: orange juice

@@ -1,0 +1,34 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - bevidas
+
+versions:
+  - ladino: espreso
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: espresso
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: café exprés
+      turkish: ''
+
+  - ladino: espresos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: espressos
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: cafes exprés
+      turkish: ''
+
+
+examples: []

@@ -1,0 +1,34 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - bevidas
+
+versions:
+  - ladino: kapuchino
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: capuchino
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: capuchino
+      turkish: ''
+
+  - ladino: kapuchinos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: capuchinos
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: capuchinos
+      turkish: ''
+
+
+examples: []
