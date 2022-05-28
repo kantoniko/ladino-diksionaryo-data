@@ -14,7 +14,7 @@ versions:
 
     translations:
         english: vain
-        french: ''
+        french: vain
         portuguese: ''
         spanish: vano
         turkish:
@@ -32,7 +32,7 @@ versions:
 
     translations:
         english: vain
-        french: ''
+        french: vaine
         portuguese: ''
         spanish: vana
         turkish:
@@ -50,7 +50,7 @@ versions:
 
     translations:
         english: vain
-        french: ''
+        french: vains
         portuguese: ''
         spanish: vanos
         turkish:
@@ -68,7 +68,7 @@ versions:
 
     translations:
         english: vain
-        french: ''
+        french: vaines
         portuguese: ''
         spanish: vanas
         turkish:

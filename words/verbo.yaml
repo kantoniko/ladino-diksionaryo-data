@@ -12,7 +12,7 @@ versions:
 
     translations:
         english: verb
-        french: ''
+        french: verbe
         portuguese: ''
         spanish: verbo
         turkish: fiil
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: verbs
-        french: ''
+        french: verbes
         portuguese: ''
         spanish: verbos
         turkish: fiiller

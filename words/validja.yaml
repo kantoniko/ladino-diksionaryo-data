@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: suitcase
-        french: ''
+        french: valise
         portuguese: ''
         spanish: maleta
         turkish: valiz
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: suitcases
-        french: ''
+        french: valises
         portuguese: ''
         spanish: maletas
         turkish: valiz

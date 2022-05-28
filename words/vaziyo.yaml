@@ -14,7 +14,7 @@ versions:
 
     translations:
         english: empty
-        french: ''
+        french: vide
         portuguese: ''
         spanish: vacío
         turkish: boş
@@ -26,7 +26,7 @@ versions:
 
     translations:
         english: empty
-        french: ''
+        french: vide
         portuguese: ''
         spanish: vacía
         turkish: boş
@@ -38,7 +38,7 @@ versions:
 
     translations:
         english: empty
-        french: ''
+        french: vides
         portuguese: ''
         spanish: vacíos
         turkish: boş
@@ -50,7 +50,7 @@ versions:
 
     translations:
         english: empty
-        french: ''
+        french: vides
         portuguese: ''
         spanish: vacías
         turkish: boş

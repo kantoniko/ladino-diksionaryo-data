@@ -13,7 +13,7 @@ versions:
         english:
         - value
         - worth
-        french: ''
+        french: valeur
         portuguese: ''
         spanish: valor
         turkish: kıymet
@@ -28,7 +28,7 @@ versions:
         english:
         - valuees
         - worth
-        french: ''
+        french: valeurs
         portuguese: ''
         spanish: valores
         turkish: kıymet

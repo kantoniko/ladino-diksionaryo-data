@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: version
-        french: ''
+        french: version
         portuguese: ''
         spanish: versión
         turkish: şekil
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: versions
-        french: ''
+        french: versions
         portuguese: ''
         spanish: versiones
         turkish: versiyonlar

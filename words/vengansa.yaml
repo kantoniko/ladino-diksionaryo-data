@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: vengeance
-        french: ''
+        french: vengeance
         portuguese: ''
         spanish: venganza
         turkish: intikam
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: vengeances
-        french: ''
+        french: vengeances
         portuguese: ''
         spanish: venganzas
         turkish: intikam

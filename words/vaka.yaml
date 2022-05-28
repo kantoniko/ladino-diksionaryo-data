@@ -11,7 +11,7 @@ versions:
 
     translations:
         english: cow
-        french: ''
+        french: vache
         portuguese: ''
         spanish: vaca
         turkish: inek
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: cows
-        french: ''
+        french: vaches
         portuguese: ''
         spanish: vacas
         turkish: inek

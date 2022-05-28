@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: valuable
-        french: ''
+        french: précieux
         portuguese: ''
         spanish: valioso
         turkish: değerli
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: valuable
-        french: ''
+        french: précieuse
         portuguese: ''
         spanish: valiosa
         turkish: değerli
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: valuables
-        french: ''
+        french: précieux
         portuguese: ''
         spanish: valiosos
         turkish: değerli
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: valuables
-        french: ''
+        french: présieuses
         portuguese: ''
         spanish: valiosas
         turkish: değerli

@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: sale
-        french: ''
+        french: vendue
         portuguese: ''
         spanish: venta
         turkish: satış
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: sales
-        french: ''
+        french: vendues
         portuguese: ''
         spanish: ventas
         turkish: satış

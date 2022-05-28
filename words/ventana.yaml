@@ -12,7 +12,7 @@ versions:
 
     translations:
         english: window
-        french: ''
+        french: fenêtre
         portuguese: ''
         spanish: ventana
         turkish: pencere
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: windows
-        french: ''
+        french: fenetrês
         portuguese: ''
         spanish: ventanas
         turkish: pencere

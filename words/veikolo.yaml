@@ -10,7 +10,7 @@ versions:
 
     translations:
       english: vehicle
-      french: ''
+      french: vehicule
       hebrew: ''
       portuguese: ''
       spanish: vehículo
@@ -24,7 +24,7 @@ versions:
 
     translations:
       english: vehicles
-      french: ''
+      french: vehicules
       hebrew: ''
       portuguese: ''
       spanish: vehículos

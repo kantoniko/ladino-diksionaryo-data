@@ -13,7 +13,9 @@ versions:
 
     translations:
         english: grandmother
-        french: ''
+        french:
+          - grand-mère
+          - mami
         portuguese: ''
         spanish: abuela
         turkish: büyükanne
