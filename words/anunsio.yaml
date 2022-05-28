@@ -1,0 +1,34 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: anunsio
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: announcement
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: anuncio
+      turkish: ''
+
+  - ladino: anunsios
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      english: announcements
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: anuncios
+      turkish: ''
+
+
+examples: []
