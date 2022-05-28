@@ -1,0 +1,15 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: enprimero
+
+    translations:
+      english: at first
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: en primer lugar
+      turkish: ''
+
+examples: []
