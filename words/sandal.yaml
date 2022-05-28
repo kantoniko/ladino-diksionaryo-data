@@ -1,35 +1,37 @@
-grammar: NA
-origen: Ladinokomunita
+grammar: noun
+origen: NA
 kategorias:
   - ropa
 
 versions:
-  - ladino: pantalon
+  - ladino: sandal
 
-    gender: masculine
+    gender: feminine
     number: singular
 
+    alternative-spelling:
+      - ladino: sandala
+
+
     translations:
-      english: trouser
+      english: sandal
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: pantalon
+      spanish: sandalia
       turkish: ''
 
-  - ladino: pantalones
+  - ladino: sandales
 
-    gender: masculine
+    gender: feminine
     number: plural
 
     translations:
-      english:
-        - trousers
-        - pants
+      english: sandals
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: pantalones
+      spanish: sandalias
       turkish: ''
 
 examples: []

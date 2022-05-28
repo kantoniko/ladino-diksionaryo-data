@@ -1,35 +1,34 @@
-grammar: NA
-origen: Ladinokomunita
+grammar: noun
+origen: NA
 kategorias:
   - ropa
 
 versions:
-  - ladino: pantalon
+  - ladino: braga
 
-    gender: masculine
+    gender: feminine
     number: singular
 
     translations:
-      english: trouser
+      english: panties
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: pantalon
+      spanish: bragas
       turkish: ''
 
-  - ladino: pantalones
+  - ladino: bragas
 
-    gender: masculine
+    gender: feminine
     number: plural
 
     translations:
-      english:
-        - trousers
-        - pants
+      english: panties
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: pantalones
+      spanish: bragas
       turkish: ''
+
 
 examples: []
