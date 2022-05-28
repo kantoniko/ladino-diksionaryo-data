@@ -1,0 +1,34 @@
+grammar: noun
+origen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: karota
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: carrot
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: zanahoria
+      turkish: ''
+
+  - ladino: karotas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: carrots
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: zanahorias
+      turkish: ''
+
+
+examples: []

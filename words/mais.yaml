@@ -1,0 +1,26 @@
+grammar: noun
+origen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: mais
+    accented: maís
+
+    gender: masculine
+    number: singular
+
+    #diminutivo-de:
+
+    alternative-spelling:
+      - ladino: maiz
+
+    translations:
+      english: corn
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: maíz
+      turkish: ''
+
+examples: []

@@ -1,0 +1,20 @@
+grammar: noun
+origen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: berendjena
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: eggplant
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: berenjena
+      turkish: ''
+
+examples: []

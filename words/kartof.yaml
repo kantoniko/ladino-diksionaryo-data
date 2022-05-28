@@ -1,0 +1,22 @@
+grammar: noun
+origen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: kartof
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: potato
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - papa
+        - patata
+      turkish: ''
+
+examples: []

@@ -1,0 +1,20 @@
+grammar: noun
+origen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: misir
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: corn
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: maíz
+      turkish: ''
+
+examples: []
