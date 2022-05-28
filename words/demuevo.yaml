@@ -1,0 +1,15 @@
+grammar: adverb
+origen: Ladinokomunita
+
+versions:
+  - ladino: demuevo
+
+    translations:
+      english: again
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: otra vez
+      turkish: ''
+
+examples: []
