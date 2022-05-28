@@ -14,6 +14,16 @@ versions:
         - neşretmek
         - yayınlamak
 
+  - ladino: publikarlo
+
+    translations:
+        english: publish it
+        french: ''
+        portuguese: ''
+        spanish: publicarlo
+        turkish: ''
+
+
 conjugations: {}
 
 examples: []
