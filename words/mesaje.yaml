@@ -6,6 +6,9 @@ versions:
   - ladino: mesaje
     accented: mesáje
 
+    alternative-spelling:
+      - ladino: mesaj
+
     gender: masculine
     number: singular
 
