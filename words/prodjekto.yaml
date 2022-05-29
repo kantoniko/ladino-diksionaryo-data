@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: prodjekto
 
+    alternative-spelling:
+      - ladino: proyekto
+
     gender: masculine
     number: singular
 
