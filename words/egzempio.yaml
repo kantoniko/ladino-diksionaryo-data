@@ -12,6 +12,9 @@ versions:
       - person: szabgab
         arkivo: egzempio.ogg
 
+    alternative-spelling:
+      - ladino: egzemplo
+
     translations:
         english: example
         french: ''
