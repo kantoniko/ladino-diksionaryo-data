@@ -1,6 +1,8 @@
 grammar: adjective
 id: '2639'
 origen: Jeneral
+kategorias:
+  - nasionalidad
 
 versions:
   - ladino: turkano
