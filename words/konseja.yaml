@@ -9,10 +9,6 @@ versions:
     gender: feminine
     number: singular
 
-    alternative-spelling:
-      - ladino: kuento
-        accented: kuénto
-
     translations:
         english: story
         french: ''

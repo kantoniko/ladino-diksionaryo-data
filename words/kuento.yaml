@@ -6,14 +6,40 @@ versions:
   - ladino: kuento
     accented: kuénto
 
+    gender: masculine
+    number: singular
+
     translations:
         english:
-        - account
-        - bill
+          - account
+          - bill
+          - story
         french: ''
         portuguese: ''
-        spanish: cuenta
-        turkish: hesap
+        spanish:
+          - cuenta
+          - cuento
+        turkish:
+          - hesap
+          - masal
+
+  - ladino: kuentos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+          - accounts
+          - bills
+          - stories
+        french: ''
+        portuguese: ''
+        spanish:
+          - cuentas
+          - cuentos
+        turkish: ''
+
 
 examples:
   - ladino: Kuento arreglado es medio pagado. (Neh.)
