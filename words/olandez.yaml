@@ -1,0 +1,72 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - nasionalidad
+
+versions:
+  - ladino: olandez
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: olandezo
+      - ladino: "'holandezo"
+
+    translations:
+      english: dutch
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: holandés
+      turkish: ''
+
+  - ladino: olandeza
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: "'holandeza"
+
+    translations:
+      english: dutch
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: holandesa
+      turkish: ''
+
+  - ladino: olandezes
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: "'holandezes"
+
+    translations:
+      english: dutch
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: holandeses
+      turkish: ''
+
+  - ladino: olandezas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: "'holandezas"
+
+    translations:
+      english: dutch
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: holandesas
+      turkish: ''
+
+examples: []
