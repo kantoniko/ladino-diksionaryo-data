@@ -3,15 +3,19 @@ id: '776'
 origen: Jeneral
 
 versions:
-  - ladino: ni... ni...
+  - ladino: ni
+  # ni... ni...
 
     translations:
-        english: neither... nor
+        english: neither
+  # neither... nor
         french: ''
         portuguese: ''
         spanish:
         - tampoco
-        - ni... ni...
-        turkish: ne... ne...
+        - ni
+        #- ni... ni...
+        turkish: ne
+        # ne... ne...
 
 examples: []
