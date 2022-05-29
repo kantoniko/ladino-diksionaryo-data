@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: koza
-    accented: koza
 
     #gender: NA # masculine feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: şey
 
   - ladino: kozas
-    accented: kozas
 
     #gender: NA # masculine feminine
     number: plural

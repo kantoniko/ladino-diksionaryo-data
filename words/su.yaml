@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: su
-    accented: su
 
     translations:
         english:
@@ -18,7 +17,6 @@ versions:
         turkish: onun
 
   - ladino: sus
-    accented: sus
 
     translations:
         english:

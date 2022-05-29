@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: moble
-    accented: moble
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: mobilya
 
   - ladino: mobles
-    accented: mobles
 
     gender: masculine
     number: plural

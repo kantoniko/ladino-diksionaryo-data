@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: aspekto
-    accented: aspekto
 
     translations:
         english: aspect

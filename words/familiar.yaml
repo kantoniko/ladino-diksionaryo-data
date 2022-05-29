@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: familiar
-    accented: familiar
 
     alternative-spelling:
       - ladino: familyar
-        accented: familyar
 
     translations:
         english: familiar

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: puerta
-    accented: puerta
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: kapı
 
   - ladino: puertas
-    accented: puertas
 
     gender: feminine
     number: plural

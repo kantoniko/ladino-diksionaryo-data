@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: entero
-    accented: entero
 
     translations:
         english: whole

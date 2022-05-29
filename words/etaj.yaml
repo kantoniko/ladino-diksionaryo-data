@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: etaj
-    accented: etaj
 
     alternative-spelling:
       - ladino: apartamento
-        accented: apartamento
 
     translations:
         english: apartment

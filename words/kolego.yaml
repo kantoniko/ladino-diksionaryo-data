@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kolego
-    accented: kolego
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: meslektaş
 
   - ladino: kolega
-    accented: kolega
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: meslektaş
 
   - ladino: kolegos
-    accented: kolegos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: meslektaş
 
   - ladino: kolegas
-    accented: kolegas
+
     gender: feminine
     number: plural
 

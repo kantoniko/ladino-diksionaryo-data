@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: unido
-    accented: unido
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: birleşik
 
   - ladino: unida
-    accented: unida
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: birleşik
 
   - ladino: unidos
-    accented: unidos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: birleşik
 
   - ladino: unidas
-    accented: unidas
+
     gender: feminine
     number: plural
 

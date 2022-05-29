@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kimiko
-    accented: kimiko
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - kimyager
 
   - ladino: kimika
-    accented: kimika
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - kimyager
 
   - ladino: kimikos
-    accented: kimikos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - kimyager
 
   - ladino: kimikas
-    accented: kimikas
+
     gender: feminine
     number: plural
 

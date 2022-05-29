@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: famozo
-    accented: famozo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: ünlü
 
   - ladino: famoza
-    accented: famoza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: ünlü
 
   - ladino: famozos
-    accented: famozos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: ünlü
 
   - ladino: famozas
-    accented: famozas
+
     gender: feminine
     number: plural
 

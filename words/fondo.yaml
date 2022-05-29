@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: fondo
-    accented: fondo
 
     gender: masculine
     number: singular
@@ -21,7 +20,6 @@ versions:
         - fon
 
   - ladino: fondos
-    accented: fondos
 
     gender: masculine
     number: plural

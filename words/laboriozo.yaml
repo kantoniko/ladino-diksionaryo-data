@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: laboriozo
-    accented: laboriozo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: çalışkan
 
   - ladino: laborioza
-    accented: laborioza
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: çalışkan
 
   - ladino: laboriozos
-    accented: laboriozos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: çalışkan
 
   - ladino: laboriozas
-    accented: laboriozas
+
     gender: feminine
     number: plural
 

@@ -3,7 +3,7 @@ id: '1970'
 origen: Jeneral
 versions:
   - ladino: maho
-    accented: maho
+
     gender: masculine
     number: singular
 
@@ -15,7 +15,7 @@ versions:
         turkish: durgun
 
   - ladino: maha
-    accented: maha
+
     gender: feminine
     number: singular
 
@@ -27,7 +27,7 @@ versions:
         turkish: durgun
 
   - ladino: mahos
-    accented: mahos
+
     gender: masculine
     number: plural
 
@@ -39,7 +39,7 @@ versions:
         turkish: durgun
 
   - ladino: mahas
-    accented: mahas
+
     gender: feminine
     number: plural
 

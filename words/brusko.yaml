@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: brusko
-    accented: brusko
 
     gender: masculine
     number: singular
@@ -28,7 +27,6 @@ versions:
           - loş
 
   - ladino: bruska
-    accented: bruska
 
     gender: feminine
     number: singular
@@ -50,7 +48,6 @@ versions:
           - loş
 
   - ladino: bruskos
-    accented: bruskos
 
     gender: masculine
     number: plural
@@ -72,7 +69,6 @@ versions:
           - loş
 
   - ladino: bruskas
-    accented: bruskas
 
     gender: feminine
     number: plural

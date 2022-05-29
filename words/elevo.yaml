@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: elevo
-    accented: elevo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: talebe
 
   - ladino: eleva
-    accented: eleva
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: talebe
 
   - ladino: elevos
-    accented: elevos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: talebe
 
   - ladino: elevas
-    accented: elevas
+
     gender: feminine
     number: plural
 

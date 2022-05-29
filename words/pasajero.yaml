@@ -3,7 +3,7 @@ id: '2055'
 origen: Jeneral
 versions:
   - ladino: pasajero
-    accented: pasajero
+
     gender: masculine
     number: singular
 
@@ -15,7 +15,7 @@ versions:
         turkish: yolcu
 
   - ladino: pasajera
-    accented: pasajera
+
     gender: feminine
     number: singular
 
@@ -27,7 +27,7 @@ versions:
         turkish: yolcu
 
   - ladino: pasajeros
-    accented: pasajeros
+
     gender: masculine
     number: plural
 
@@ -39,7 +39,7 @@ versions:
         turkish: yolcu
 
   - ladino: pasajeras
-    accented: pasajeras
+
     gender: feminine
     number: plural
 

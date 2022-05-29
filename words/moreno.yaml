@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: moreno
-    accented: moreno
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: esmer
 
   - ladino: morena
-    accented: morena
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: esmer
 
   - ladino: morenos
-    accented: morenos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: esmerler
 
   - ladino: morenas
-    accented: morenas
+
     gender: feminine
     number: plural
 

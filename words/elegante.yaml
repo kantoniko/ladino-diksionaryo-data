@@ -3,7 +3,7 @@ id: '1760'
 origen: Jeneral
 versions:
   - ladino: elegante
-    accented: elegante
+
     #gender: NA # masculine feminine
     number: singular
 
@@ -19,7 +19,7 @@ versions:
         turkish: zarif
 
   - ladino: elegantes
-    accented: elegantes
+
     #gender: NA # masculine feminine
     number: plural
 

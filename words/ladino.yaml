@@ -5,8 +5,8 @@ kategorias:
 
 versions:
   - ladino: ladino
-    accented: ladino
-    gender: NA # masculine feminine
+
+    gender: NA
     number: singular
 
     alternative-spelling:

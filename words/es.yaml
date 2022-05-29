@@ -3,7 +3,6 @@ origen: NA
 
 versions:
   - ladino: es
-    accented: es
 
     translations:
         english:

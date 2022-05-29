@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: soltero
-    accented: soltero
 
     alternative-spelling:
       - ladino: muchacho
-        accented: muchacho
 
     translations:
         english: bachelor

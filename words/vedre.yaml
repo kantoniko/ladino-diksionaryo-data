@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: vedre
-    accented: vedre
 
     translations:
         english: green

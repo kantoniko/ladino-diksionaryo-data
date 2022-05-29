@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: simpatiko
-    accented: simpatiko
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: sempatik
 
   - ladino: simpatika
-    accented: simpatika
 
     gender: feminine
     number: singular
@@ -30,7 +28,6 @@ versions:
         turkish: sempatik
 
   - ladino: simpatikos
-    accented: simpatikos
 
     gender: masculine
     number: plural
@@ -43,7 +40,6 @@ versions:
         turkish: sempatik
 
   - ladino: simpatikas
-    accented: simpatikas
 
     gender: feminine
     number: plural

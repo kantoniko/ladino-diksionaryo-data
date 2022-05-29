@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: salero
-    accented: salero
 
     translations:
         english:

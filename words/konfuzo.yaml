@@ -3,7 +3,7 @@ id: '1920'
 origen: Jeneral
 versions:
   - ladino: konfuzo
-    accented: konfuzo
+
     gender: masculine
     number: singular
 
@@ -15,7 +15,7 @@ versions:
         turkish: karışik
 
   - ladino: konfuza
-    accented: konfuza
+
     gender: feminine
     number: singular
 
@@ -27,7 +27,7 @@ versions:
         turkish: karışik
 
   - ladino: konfuzos
-    accented: konfuzos
+
     gender: masculine
     number: plural
 
@@ -39,7 +39,7 @@ versions:
         turkish: karışik
 
   - ladino: konfuzas
-    accented: konfuzas
+
     gender: feminine
     number: plural
 

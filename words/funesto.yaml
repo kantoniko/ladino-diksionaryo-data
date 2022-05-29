@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: funesto
-    accented: funesto
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: meşum
 
   - ladino: funesta
-    accented: funesta
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: meşum
 
   - ladino: funestos
-    accented: funestos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: meşum
 
   - ladino: funestas
-    accented: funestas
+
     gender: feminine
     number: plural
 

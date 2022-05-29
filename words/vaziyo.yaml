@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: vaziyo
-    accented: vaziyo
+
     gender: masculine
     number: singular
 
@@ -20,7 +20,7 @@ versions:
         turkish: boş
 
   - ladino: vaziya
-    accented: vaziya
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: boş
 
   - ladino: vaziyos
-    accented: vaziyos
+
     gender: masculine
     number: plural
 
@@ -44,7 +44,7 @@ versions:
         turkish: boş
 
   - ladino: vaziyas
-    accented: vaziyas
+
     gender: feminine
     number: plural
 

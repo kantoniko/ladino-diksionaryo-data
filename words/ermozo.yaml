@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: ermozo
-    accented: ermozo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: güzel
 
   - ladino: ermoza
-    accented: ermoza
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: güzel
 
   - ladino: ermozos
-    accented: ermozos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: güzeller
 
   - ladino: ermozas
-    accented: ermozas
+
     gender: feminine
     number: plural
 

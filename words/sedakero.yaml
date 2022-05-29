@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: sedakero
-    accented: sedakero
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: dilenci
 
   - ladino: sedakera
-    accented: sedakera
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: dilenci
 
   - ladino: sedakeros
-    accented: sedakeros
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: dilenciler
 
   - ladino: sedakeras
-    accented: sedakeras
+
     gender: feminine
     number: plural
 

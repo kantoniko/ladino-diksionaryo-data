@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: privado
-    accented: privado
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
           - ózel
 
   - ladino: privada
-    accented: privada
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
           - ózel
 
   - ladino: privados
-    accented: privados
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
           - ózel
 
   - ladino: privadas
-    accented: privadas
+
     gender: feminine
     number: plural
 

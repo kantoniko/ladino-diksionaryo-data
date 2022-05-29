@@ -3,7 +3,7 @@ id: '701'
 origen: Jeneral
 versions:
   - ladino: manyifiko
-    accented: manyifiko
+
     gender: masculine
     number: singular
 
@@ -15,7 +15,7 @@ versions:
         turkish: muhteşem
 
   - ladino: manyifika
-    accented: manyifika
+
     gender: feminine
     number: singular
 
@@ -27,7 +27,7 @@ versions:
         turkish: muhteşem
 
   - ladino: manyifikos
-    accented: manyifikos
+
     gender: masculine
     number: plural
 
@@ -39,7 +39,7 @@ versions:
         turkish: muhteşem
 
   - ladino: manyifikas
-    accented: manyifikas
+
     gender: feminine
     number: plural
 

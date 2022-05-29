@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: meldar
-    accented: meldar
 
     translations:
         english: read
