@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: ultimo
-    accented: ultimo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: sonuncu
 
   - ladino: ultima
-    accented: ultima
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: sonuncu
 
   - ladino: ultimos
-    accented: ultimos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: sonuncu
 
   - ladino: ultimas
-    accented: ultimas
+
     gender: feminine
     number: plural
 

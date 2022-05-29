@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: siedrero
-    accented: siedrero
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: solak
 
   - ladino: siedrera
-    accented: siedrera
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: solak
 
   - ladino: siedreros
-    accented: siedreros
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: solak
 
   - ladino: siedreras
-    accented: siedreras
+
     gender: feminine
     number: plural
 

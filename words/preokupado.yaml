@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: preokupado
-    accented: preokupado
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - kaygılı
 
   - ladino: preokupada
-    accented: preokupada
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - kaygılı
 
   - ladino: preokupados
-    accented: preokupados
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - kaygılı
 
   - ladino: preokupadas
-    accented: preokupadas
+
     gender: feminine
     number: plural
 

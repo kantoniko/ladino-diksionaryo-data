@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: vakansas
-    accented: vakansas
 
     translations:
         english: holiday

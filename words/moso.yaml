@@ -6,7 +6,7 @@ kategorias:
 
 versions:
   - ladino: moso
-    accented: moso
+
     gender: masculine
     number: singular
 
@@ -22,7 +22,7 @@ versions:
         turkish: hizmetçi
 
   - ladino: mosa
-    accented: mosa
+
     gender: feminine
     number: singular
 
@@ -38,7 +38,7 @@ versions:
         turkish: hizmetçi
 
   - ladino: mosos
-    accented: mosos
+
     gender: masculine
     number: plural
 
@@ -54,7 +54,7 @@ versions:
         turkish: hizmetçi
 
   - ladino: mosas
-    accented: mosas
+
     gender: feminine
     number: plural
 

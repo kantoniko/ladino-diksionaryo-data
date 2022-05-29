@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: idea
-    accented: idea
 
     #gender: NA # masculine feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: fikir
 
   - ladino: ideas
-    accented: ideas
 
     #gender: NA # masculine feminine
     number: plural

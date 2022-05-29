@@ -56,7 +56,7 @@ versions:
         turkish:  uyanıklar
 
   - ladino: espiertas
-    accented: espiertas
+
     gender: feminine
     number: plural
 

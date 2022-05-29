@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: inkieto
-    accented: inkieto
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: endişeli
 
   - ladino: inkieta
-    accented: inkieta
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: endişeli
 
   - ladino: inkietos
-    accented: inkietos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: endişeli
 
   - ladino: inkietas
-    accented: inkietas
+
     gender: feminine
     number: plural
 

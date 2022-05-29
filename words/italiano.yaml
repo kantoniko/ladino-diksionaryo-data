@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: italiano
-    accented: italiano
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - italyanca
 
   - ladino: italiana
-    accented: italiana
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - italyanca
 
   - ladino: italianos
-    accented: italianos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - italyanca
 
   - ladino: italianas
-    accented: italianas
+
     gender: feminine
     number: plural
 

@@ -4,7 +4,7 @@ id: '560'
 
 versions:
   - ladino: kerido
-    accented: kerido
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - sevgili
 
   - ladino: kerida
-    accented: kerida
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - sevgili
 
   - ladino: keridos
-    accented: keridos
+
     gender: masculine
     number: plural
 
@@ -44,7 +44,7 @@ versions:
       turkish: idem
 
   - ladino: keridas
-    accented: keridas
+
     gender: feminine
     number: plural
 

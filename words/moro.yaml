@@ -4,7 +4,7 @@ origen: Aki Yerushalayim
 
 versions:
   - ladino: moro
-    accented: moro
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: Mağrıbî
 
   - ladino: mora
-    accented: mora
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: Mağrıbî
 
   - ladino: moros
-    accented: moros
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: Mağrıbî
 
   - ladino: moras
-    accented: moras
+
     gender: feminine
     number: plural
 

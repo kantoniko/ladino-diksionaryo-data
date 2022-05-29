@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: rustiko
-    accented: rustiko
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: rüstik
 
   - ladino: rustika
-    accented: rustika
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: rüstik
 
   - ladino: rustikos
-    accented: rustikos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: rüstik
 
   - ladino: rustikas
-    accented: rustikas
+
     gender: feminine
     number: plural
 

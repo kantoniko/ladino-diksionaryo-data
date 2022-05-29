@@ -7,7 +7,6 @@ kategorias:
 
 versions:
   - ladino: orno
-    accented: orno
 
     gender: masculine
     number: singular
@@ -20,7 +19,6 @@ versions:
         turkish: fırın
 
   - ladino: ornos
-    accented: ornos
 
     gender: masculine
     number: plural

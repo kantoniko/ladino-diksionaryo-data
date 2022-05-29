@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: indechizo
-    accented: indechizo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kararsız
 
   - ladino: indechiza
-    accented: indechiza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: kararsız
 
   - ladino: indechizos
-    accented: indechizos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: kararsız
 
   - ladino: indechizas
-    accented: indechizas
+
     gender: feminine
     number: plural
 

@@ -1,15 +1,15 @@
 grammar: NA
 id: '718'
 origen: Jeneral
+
 versions:
   - ladino: mentiroso
-    accented: mentiroso
+
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: mintirozo
-        accented: mintirozo
 
     translations:
         english: liar
@@ -19,13 +19,12 @@ versions:
         turkish: yalancı
 
   - ladino: mentirosa
-    accented: mentirosa
+
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: mintiroza
-        accented: mintiroza
 
     translations:
         english: liar
@@ -35,13 +34,12 @@ versions:
         turkish: yalancı
 
   - ladino: mentirosos
-    accented: mentirosos
+
     gender: masculine
     number: plural
 
     alternative-spelling:
       - ladino: mintirozos
-        accented: mintirozos
 
     translations:
         english: liars
@@ -51,13 +49,12 @@ versions:
         turkish: yalancılar
 
   - ladino: mentirosas
-    accented: mentirosas
+
     gender: feminine
     number: plural
 
     alternative-spelling:
       - ladino: mintirozas
-        accented: mintirozas
 
     translations:
         english: liars

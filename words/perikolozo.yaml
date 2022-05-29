@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: perikolozo
-    accented: perikolozo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: tehlikeli
 
   - ladino: perikoloza
-    accented: perikoloza
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: tehlikeli
 
   - ladino: perikolozos
-    accented: perikolozos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: tehlikeli
 
   - ladino: perikolozas
-    accented: perikolozas
+
     gender: feminine
     number: plural
 

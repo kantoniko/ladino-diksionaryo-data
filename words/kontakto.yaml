@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kontakto
-    accented: kontakto
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: temas
 
   - ladino: kontaktos
-    accented: kontaktos
+
     gender: masculine
     number: plural
 

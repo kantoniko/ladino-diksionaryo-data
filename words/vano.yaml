@@ -4,13 +4,12 @@ origen: Jeneral
 
 versions:
   - ladino: vano
-    accented: vano
+
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: vaziyo
-        accented: vaziyo
 
     translations:
         english: vain
@@ -22,13 +21,12 @@ versions:
         - boş
 
   - ladino: vana
-    accented: vana
+
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: vaziya
-        accented: vaziya
 
     translations:
         english: vain
@@ -40,13 +38,12 @@ versions:
         - boş
 
   - ladino: vanos
-    accented: vanos
+
     gender: masculine
     number: plural
 
     alternative-spelling:
       - ladino: vaziyos
-        accented: vaziyos
 
     translations:
         english: vain
@@ -58,13 +55,12 @@ versions:
         - boş
 
   - ladino: vanas
-    accented: vanas
+
     gender: feminine
     number: plural
 
     alternative-spelling:
       - ladino: vaziyas
-        accented: vaziyas
 
     translations:
         english: vain

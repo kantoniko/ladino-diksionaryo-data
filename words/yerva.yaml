@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: yerva
-    accented: yerva
+
     translations:
         english:
           - grass

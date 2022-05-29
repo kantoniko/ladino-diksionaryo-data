@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: mez
-    accented: mez
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: ay
 
   - ladino: mezes
-    accented: mezes
+
     gender: masculine
     number: plural
 

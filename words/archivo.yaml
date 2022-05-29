@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: archivo
-    accented: archivo
 
     alternative-spelling:
       - ladino: arkivo
@@ -22,7 +21,6 @@ versions:
         turkish: arşiv
 
   - ladino: archivos
-    accented: archivos
 
     alternative-spelling:
       - ladino: arkivos

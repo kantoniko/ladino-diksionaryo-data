@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: rezio
-    accented: rezio
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: sağlam
 
   - ladino: rezia
-    accented: rezia
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: sağlam
 
   - ladino: rezios
-    accented: rezios
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: sağlam
 
   - ladino: rezias
-    accented: rezias
+
     gender: feminine
     number: plural
 

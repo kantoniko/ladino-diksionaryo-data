@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: chadir
-    accented: chadir
 
     gender: masculine
     number: singular

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: klasa
-    accented: klasa
 
     gender: feminine
     number: singular
@@ -20,7 +19,6 @@ versions:
         turkish: sınıf
 
   - ladino: klasas
-    accented: klasas
 
     gender: feminine
     number: plural

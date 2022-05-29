@@ -4,7 +4,7 @@ origen: Estanbol
 
 versions:
   - ladino: boy
-    accented: boy
+
     gender: masculine
     number: singular
 

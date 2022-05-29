@@ -7,7 +7,7 @@ kategorias:
 
 versions:
   - ladino: gato
-    accented: gato
+
     gender: masculine
     number: singular
 
@@ -20,7 +20,7 @@ versions:
         turkish: kedi
 
   - ladino: gatos
-    accented: gatos
+
     gender: masculine
     number: plural
 

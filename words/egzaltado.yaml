@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: egzaltado
-    accented: egzaltado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: coşkun
 
   - ladino: egzaltada
-    accented: egzaltada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: coşkun
 
   - ladino: egzaltados
-    accented: egzaltados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: coşkun
 
   - ladino: egzaltadas
-    accented: egzaltadas
+
     gender: feminine
     number: plural
 

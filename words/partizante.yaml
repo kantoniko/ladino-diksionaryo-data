@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: partizante
-    accented: partizante
+
     #gender: NA # masculine feminine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: taraftar
 
   - ladino: partizantes
-    accented: partizantes
+
     #gender: NA # masculine feminine
     number: plural
 

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: flosho
-    accented: flosho
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - laçka
 
   - ladino: flosha
-    accented: flosha
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - laçka
 
   - ladino: floshos
-    accented: floshos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - laçka
 
   - ladino: floshas
-    accented: floshas
+
     gender: feminine
     number: plural
 

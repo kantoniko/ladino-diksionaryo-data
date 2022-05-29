@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: porke
-    accented: porke
 
     translations:
         english: because

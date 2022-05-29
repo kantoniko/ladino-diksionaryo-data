@@ -4,7 +4,6 @@ origen: Estanbol
 
 versions:
   - ladino: roz
-    accented: roz
 
     translations:
         english: pink

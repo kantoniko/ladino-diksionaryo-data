@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: kolonya
-    accented: kolonya
 
     translations:
         english: Cologne water

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: tu
-    accented: tu
+
     number: singular
 
     translations:
@@ -17,7 +17,6 @@ versions:
         turkish: senin
 
   - ladino: tus
-    accented: tus
 
     translations:
         english: your

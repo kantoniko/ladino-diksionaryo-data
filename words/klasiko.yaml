@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: klasiko
-    accented: klasiko
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: klasik
 
   - ladino: klasika
-    accented: klasika
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: klasik
 
   - ladino: klasikos
-    accented: klasikos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: klasik
 
   - ladino: klasikas
-    accented: klasikas
+
     gender: feminine
     number: plural
 

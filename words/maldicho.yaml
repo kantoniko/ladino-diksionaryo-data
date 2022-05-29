@@ -1,9 +1,10 @@
 grammar: NA
 id: '1971'
 origen: Jeneral
+
 versions:
   - ladino: maldicho
-    accented: maldicho
+
     gender: masculine
     number: singular
 
@@ -15,7 +16,7 @@ versions:
         turkish: lânetli
 
   - ladino: maldicha
-    accented: maldicha
+
     gender: feminine
     number: singular
 
@@ -27,7 +28,7 @@ versions:
         turkish: lânetli
 
   - ladino: maldichos
-    accented: maldichos
+
     gender: masculine
     number: plural
 
@@ -39,7 +40,7 @@ versions:
         turkish: lânetli
 
   - ladino: maldichas
-    accented: maldichas
+
     gender: feminine
     number: plural
 

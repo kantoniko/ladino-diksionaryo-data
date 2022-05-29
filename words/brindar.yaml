@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: brindar
-    accented: brindar
+
     translations:
         english:
           - Toast

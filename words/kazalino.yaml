@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kazalino
-    accented: kazalino
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: köylü
 
   - ladino: kazalina
-    accented: kazalina
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         turkish: köylü
 
   - ladino: kazalinos
-    accented: kazalinos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         turkish: köylü
 
   - ladino: kazalinas
-    accented: kazalinas
+
     gender: feminine
     number: plural
 

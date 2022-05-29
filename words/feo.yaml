@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: feo
-    accented: feo
 
     alternative-spelling:
       - ladino: feyo
@@ -20,7 +19,7 @@ versions:
         turkish: çirkin
 
   - ladino: fea
-    accented: fea
+
     gender: feminine
     number: singular
 
@@ -32,7 +31,7 @@ versions:
         turkish: çirkin
 
   - ladino: feos
-    accented: feos
+
     gender: masculine
     number: plural
 
@@ -44,7 +43,7 @@ versions:
         turkish: çirkinler
 
   - ladino: feas
-    accented: feas
+
     gender: feminine
     number: plural
 

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: salir
-    accented: salir
 
     translations:
         english: go out

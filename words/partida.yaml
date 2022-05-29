@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: partida
-    accented: partida
 
     gender: feminine
     number: singular
@@ -24,7 +23,6 @@ versions:
           - el (oyun)
 
   - ladino: partidas
-    accented: partidas
 
     gender: feminine
     number: plural

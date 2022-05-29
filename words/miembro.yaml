@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: miembro
-    accented: miembro
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: aza
 
   - ladino: miembra
-    accented: miembra
 
     gender: feminine
     number: singular
@@ -30,7 +28,6 @@ versions:
         turkish: aza
 
   - ladino: miembros
-    accented: miembros
 
     gender: masculine
     number: plural
@@ -43,7 +40,6 @@ versions:
         turkish: aza
 
   - ladino: miembras
-    accented: miembras
 
     gender: feminine
     number: plural

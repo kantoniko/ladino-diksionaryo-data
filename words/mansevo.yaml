@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: mansevo
     accented: mansévo
+
     gender: masculine
     number: singular
 
@@ -19,7 +20,7 @@ versions:
         turkish: genç insan
 
   - ladino: manseva
-    accented: manseva
+
     gender: feminine
     number: singular
 
@@ -35,6 +36,7 @@ versions:
 
   - ladino: mansevos
     accented: mansévos
+
     gender: masculine
     number: plural
 
@@ -49,7 +51,7 @@ versions:
         turkish: genç insan
 
   - ladino: mansevas
-    accented: mansevas
+
     gender: feminine
     number: plural
 

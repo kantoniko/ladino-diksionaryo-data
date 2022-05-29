@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: fastidiozo
-    accented: fastidiozo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: usandırıcı
 
   - ladino: fastidioza
-    accented: fastidioza
+
     gender: feminine
     number: singular
 
@@ -29,7 +29,7 @@ versions:
 
 
   - ladino: fastidiozas
-    accented: fastidiozas
+
     gender: feminine
     number: plural
 

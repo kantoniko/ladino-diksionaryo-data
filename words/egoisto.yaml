@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: egoisto
-    accented: egoisto
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: bencil
 
   - ladino: egoista
-    accented: egoista
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: bencil
 
   - ladino: egoistos
-    accented: egoistos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: bencil
 
   - ladino: egoistas
-    accented: egoistas
+
     gender: feminine
     number: plural
 

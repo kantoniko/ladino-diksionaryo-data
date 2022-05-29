@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: siego
-    accented: siego
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kör
 
   - ladino: siega
-    accented: siega
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: kör
 
   - ladino: siegos
-    accented: siegos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: körler
 
   - ladino: siegas
-    accented: siegas
+
     gender: feminine
     number: plural
 

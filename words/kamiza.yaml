@@ -6,7 +6,6 @@ kategorias:
 
 versions:
   - ladino: kamiza
-    accented: kamiza
 
     gender: feminine
     number: singular
@@ -19,7 +18,6 @@ versions:
         turkish: gömlek
 
   - ladino: kamizas
-    accented: kamizas
 
     gender: feminine
     number: plural

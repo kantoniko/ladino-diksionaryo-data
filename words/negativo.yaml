@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: negativo
-    accented: negativo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - olumsuz
 
   - ladino: negativa
-    accented: negativa
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - olumsuz
 
   - ladino: negativos
-    accented: negativos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - olumsuz
 
   - ladino: negativas
-    accented: negativas
+
     gender: feminine
     number: plural
 

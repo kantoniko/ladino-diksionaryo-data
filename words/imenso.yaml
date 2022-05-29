@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: imenso
-    accented: imenso
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kocaman
 
   - ladino: imensa
-    accented: imensa
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: kocaman
 
   - ladino: imensos
-    accented: imensos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: kocaman
 
   - ladino: imensas
-    accented: imensas
+
     gender: feminine
     number: plural
 

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: sekreto
-    accented: sekreto
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: gizli
 
   - ladino: sekreta
-    accented: sekreta
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: gizli
 
   - ladino: sekretos
-    accented: sekretos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: gizli
 
   - ladino: sekretas
-    accented: sekretas
+
     gender: feminine
     number: plural
 

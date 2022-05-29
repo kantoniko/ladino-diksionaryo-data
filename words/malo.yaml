@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: malo
-    accented: malo
+
     gender: masculine
     number: singular
 
@@ -20,7 +20,7 @@ versions:
         - yaramaz
 
   - ladino: mala
-    accented: mala
+
     gender: feminine
     number: singular
 
@@ -36,7 +36,7 @@ versions:
         - yaramaz
 
   - ladino: malos
-    accented: malos
+
     gender: masculine
     number: plural
 
@@ -50,7 +50,7 @@ versions:
         turkish: kötüler
 
   - ladino: malas
-    accented: malas
+
     gender: feminine
     number: plural
 

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: djuntos
-    accented: djuntos
 
     #gender: NA # masculine feminine
     number: plural

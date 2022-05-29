@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: chiko
-    accented: chiko
 
     gender: masculine
     number: singular
@@ -19,7 +18,6 @@ versions:
         turkish: küçük
 
   - ladino: chika
-    accented: chika
 
     gender: feminine
     number: singular
@@ -34,7 +32,6 @@ versions:
         turkish: küçük
 
   - ladino: chikos
-    accented: chikos
 
     gender: masculine
     number: plural
@@ -47,7 +44,6 @@ versions:
         turkish: küçük
 
   - ladino: chikas
-    accented: chikas
 
     gender: feminine
     number: plural

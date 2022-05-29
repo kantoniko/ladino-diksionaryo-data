@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: barato
-    accented: barato
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: ucuz
 
   - ladino: barata
-    accented: barata
 
     gender: feminine
     number: singular
@@ -30,7 +28,6 @@ versions:
         turkish: ucuz
 
   - ladino: baratos
-    accented: baratos
 
     gender:  masculine
     number: plural
@@ -43,7 +40,6 @@ versions:
         turkish: ucuz
 
   - ladino: baratas
-    accented: baratas
 
     gender:  feminine
     number: plural

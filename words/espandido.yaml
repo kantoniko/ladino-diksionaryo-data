@@ -4,13 +4,12 @@ origen: Jeneral
 
 versions:
   - ladino: espandido
-    accented: espandido
+
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: ancho
-        accented: ancho
 
     translations:
         english: extensive
@@ -22,13 +21,12 @@ versions:
           - yaygın
 
   - ladino: espandida
-    accented: espandida
+
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: ancha
-        accented: ancha
 
     translations:
         english: extensive
@@ -40,13 +38,12 @@ versions:
           - yaygın
 
   - ladino: espandidos
-    accented: espandidos
+
     gender: masculine
     number: plural
 
     alternative-spelling:
       - ladino: anchos
-        accented: anchos
 
     translations:
         english: extensives
@@ -58,13 +55,12 @@ versions:
           - yaygın
 
   - ladino: espandidas
-    accented: espandidas
+
     gender: feminine
     number: plural
 
     alternative-spelling:
       - ladino: anchas
-        accented: anchas
 
     translations:
         english: extensives

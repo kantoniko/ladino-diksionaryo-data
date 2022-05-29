@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: fatigado
-    accented: fatigado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: yorgun
 
   - ladino: fatigada
-    accented: fatigada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: yorgun
 
   - ladino: fatigados
-    accented: fatigados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: yorgun
 
   - ladino: fatigadas
-    accented: fatigadas
+
     gender: feminine
     number: plural
 

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: savrozo
-    accented: savrozo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: lezzetli
 
   - ladino: savroza
-    accented: savroza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: lezzetli
 
   - ladino: savrozos
-    accented: savrozos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: lezzetli
 
   - ladino: savrozas
-    accented: savrozas
+
     gender: feminine
     number: plural
 

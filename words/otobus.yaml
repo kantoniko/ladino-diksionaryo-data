@@ -6,7 +6,6 @@ kategorias:
 
 versions:
   - ladino: otobus
-    accented: otobus
 
     gender: masculine
     number: singular
@@ -23,7 +22,6 @@ versions:
         turkish: otobüs
 
   - ladino: otobuses
-    accented: otobuses
 
     gender: masculine
     number: plural

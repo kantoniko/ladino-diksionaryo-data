@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: enfirmo
-    accented: enfirmo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: sakat
 
   - ladino: enfirma
-    accented: enfirma
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: sakat
 
   - ladino: enfirmos
-    accented: enfirmos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: sakat
 
   - ladino: enfirmas
-    accented: enfirmas
+
     gender: feminine
     number: plural
 

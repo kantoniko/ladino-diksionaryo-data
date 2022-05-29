@@ -4,7 +4,6 @@ origen: Estanbol
 
 versions:
   - ladino: musafir
-    accented: musafir
 
     gender: masculine
     number: singular
@@ -21,7 +20,6 @@ versions:
         - konuk
 
   - ladino: musafires
-    accented: musafires
 
     gender: masculine
     number: plural

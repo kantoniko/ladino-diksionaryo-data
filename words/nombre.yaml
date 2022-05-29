@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: nombre
-    accented: nombre
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: isim
 
   - ladino: nombres
-    accented: nombres
+
     gender: masculine
     number: plural
 

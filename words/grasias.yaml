@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: grasias
-    accented: grasias
 
     alternative-spelling:
       - ladino: grasyas
-    #    accented:
 
     translations:
         english: thanks

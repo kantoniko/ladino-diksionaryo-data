@@ -6,7 +6,6 @@ kategorias:
 
 versions:
   - ladino: kovdo
-    accented: kovdo
 
     gender: masculine
     number: singular
@@ -19,7 +18,6 @@ versions:
         turkish: dirsek
 
   - ladino: kovdos
-    accented: kovdos
 
     gender: masculine
     number: plural

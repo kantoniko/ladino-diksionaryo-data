@@ -1,9 +1,10 @@
 grammar: NA
 id: '190'
 origen: Jeneral
+
 versions:
   - ladino: borracho
-    accented: borracho
+
     gender: masculine
     number: singular
 
@@ -15,7 +16,7 @@ versions:
         turkish: sarhoş
 
   - ladino: borracha
-    accented: borracha
+
     gender: feminine
     number: singular
 
@@ -27,7 +28,7 @@ versions:
         turkish: sarhoş
 
   - ladino: borrachos
-    accented: borrachos
+
     gender: masculine
     number: plural
 
@@ -39,7 +40,7 @@ versions:
         turkish: sarhoş
 
   - ladino: borrachas
-    accented: borrachas
+
     gender: feminine
     number: plural
 

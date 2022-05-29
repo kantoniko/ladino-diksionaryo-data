@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: el
-    accented: el
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: bir
 
   - ladino: los
-    accented: los
+
     gender: masculine
     number: plural
 

@@ -4,13 +4,12 @@ origen: Jeneral
 
 versions:
   - ladino: dia
-    accented: dia
+
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: diya
-        accented: diya
 
     translations:
         english: day
@@ -20,13 +19,12 @@ versions:
         turkish: gün
 
   - ladino: dias
-    accented: dias
+
     gender: masculine
     number: plural
 
     alternative-spelling:
       - ladino: diyas
-        accented: diyas
 
     translations:
         english: days

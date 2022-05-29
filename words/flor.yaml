@@ -6,7 +6,6 @@ kategorias:
 
 versions:
   - ladino: flor
-    accented: flor
 
     gender: feminine
     number: singular
@@ -19,7 +18,6 @@ versions:
         turkish: çiçek
 
   - ladino: flores
-    accented: flores
 
     gender: feminine
     number: plural

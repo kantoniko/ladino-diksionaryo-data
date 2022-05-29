@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: i
-    accented: i
 
     translations:
         english: and

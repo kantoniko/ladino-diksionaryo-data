@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: enkantado
-    accented: enkantado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: şaşkın
 
   - ladino: enkantada
-    accented: enkantada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: şaşkın
 
   - ladino: enkantados
-    accented: enkantados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: şaşkın
 
   - ladino: enkantadas
-    accented: enkantadas
+
     gender: feminine
     number: plural
 

@@ -4,13 +4,12 @@ origen: Jeneral
 
 versions:
   - ladino: paresozo
-    accented: paresozo
+
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: haragan
-        accented: haragan
 
     translations:
         english: lazy
@@ -20,7 +19,7 @@ versions:
         turkish: tembel
 
   - ladino: paresoza
-    accented: paresoza
+
     gender: feminine
     number: singular
 
@@ -32,7 +31,7 @@ versions:
         turkish: tembel
 
   - ladino: paresozos
-    accented: paresozos
+
     gender: masculine
     number: plural
 
@@ -44,7 +43,7 @@ versions:
         turkish: tembel
 
   - ladino: paresozas
-    accented: paresozas
+
     gender: feminine
     number: singular
 

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: biervo
-    accented: biervo
+
     gender: masculine
     number: singular
 
@@ -19,7 +19,7 @@ versions:
         turkish: kelime
 
   - ladino: biervos
-    accented: biervos
+
     gender: masculine
     number: plural
 

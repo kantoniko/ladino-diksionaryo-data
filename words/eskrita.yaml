@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: eskrita
-    accented: eskrita
 
     gender: feminine
     number: singular
@@ -23,7 +22,6 @@ versions:
         - el yazması
 
   - ladino: eskritas
-    accented: eskritas
 
     gender: feminine
     number: plural

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: proksimo
-    accented: proksimo
 
     gender: masculine
     number: singular
@@ -22,7 +21,6 @@ versions:
         - gelecek
 
   - ladino: proksima
-    accented: proksima
 
     gender: feminine
     number: singular
@@ -40,7 +38,6 @@ versions:
         - gelecek
 
   - ladino: proksimos
-    accented: proksimos
 
     gender: masculine
     number: plural
@@ -58,7 +55,6 @@ versions:
         - gelecek
 
   - ladino: proksimas
-    accented: proksimas
 
     gender: feminine
     number: plural

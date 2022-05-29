@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: suksesivo
-    accented: suksesivo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: müteakip
 
   - ladino: suksesiva
-    accented: suksesiva
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: müteakip
 
   - ladino: suksesivos
-    accented: suksesivos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: müteakip
 
   - ladino: suksesivas
-    accented: suksesivas
+
     gender: feminine
     number: plural
 

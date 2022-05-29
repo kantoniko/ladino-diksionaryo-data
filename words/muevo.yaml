@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: muevo
-    accented: muevo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: yeni
 
   - ladino: mueva
-    accented: mueva
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: yeni
 
   - ladino: muevos
-    accented: muevos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: yeni
 
   - ladino: muevas
-    accented: muevas
+
     gender: feminine
     number: plural
 

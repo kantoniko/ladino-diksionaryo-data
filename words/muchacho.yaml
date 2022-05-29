@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: muchacho
-    accented: muchacho
+
     gender: masculine
     number: singular
 
@@ -17,7 +17,7 @@ versions:
         turkish: oğlan
 
   - ladino: muchacha
-    accented: muchacha
+
     gender: feminine
     number: singular
 
@@ -30,7 +30,7 @@ versions:
         turkish: kız
 
   - ladino: muchachos
-    accented: muchachos
+
     gender: masculine
     number: plural
 
@@ -43,7 +43,7 @@ versions:
         turkish: oğlan
 
   - ladino: muchachas
-    accented: muchachas
+
     gender: feminine
     number: plural
 

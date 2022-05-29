@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kalmo
-    accented: kalmo
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - rahat
 
   - ladino: kalma
-    accented: kalma
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - rahat
 
   - ladino: kalmos
-    accented: kalmos
+
     gender: masculine
     number: plural
 
@@ -44,7 +44,7 @@ versions:
         turkish: sakinler
 
   - ladino: kalmas
-    accented: kalmas
+
     gender: feminine
     number: plural
 
