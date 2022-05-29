@@ -2,41 +2,6 @@ grammar: NA
 # verb noun adjective
 origen: NA, Ladinokomunita, Ladinadores
 kategorias:
-  - animales
-  - bevidas
-  - diminutivos
-  - direksion
-  - famiya
-  - flores
-  - frutas
-  - gramer
-  - insektos
-  - kamareta-de-echar
-  - kaza
-  - kestiones
-  - kolores
-  - komidas
-  - kontenentes
-  - kontinentes
-  - kuzina
-  - linguas
-  - mamiferos
-  - mobles
-  - muzika
-  - natura
-  - numeros
-  - paises
-  - plantas
-  - profesion
-  - puerpo
-  - relijiones
-  - ropa
-  - saludos
-  - servisio-de-meza
-  - sivdades
-  - sports
-  - veikolos
-  - zarzavates
 
 versions:
   - ladino:
