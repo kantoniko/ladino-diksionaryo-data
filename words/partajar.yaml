@@ -12,6 +12,16 @@ versions:
         spanish: compartir
         turkish: paylaşmak
 
+  - ladino: partajarvos
+
+    translations:
+        english: share with you
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
+
 conjugations: {}
 
 examples: []

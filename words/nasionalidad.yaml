@@ -1,0 +1,22 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: nasionalidad
+
+    alternative-spelling:
+      - ladino: nasionalita
+        accented: nasionalitá
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: nationality
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: nacionalidad
+      turkish: ''
+
+examples: []
