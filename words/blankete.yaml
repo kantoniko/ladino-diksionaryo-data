@@ -1,0 +1,22 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: blankete
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - soap
+        - coal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - jabón
+        - carbón
+      turkish: ''
+
+examples: []
