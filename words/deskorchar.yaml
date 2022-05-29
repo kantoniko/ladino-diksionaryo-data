@@ -3,11 +3,9 @@ id: '3068'
 origen: Jeneral
 versions:
   - ladino: deskorchar
-    accented: deskorchar
 
     alternative-spelling:
       - ladino: eskorchar
-        accented: eskorchar
 
     translations:
         english:

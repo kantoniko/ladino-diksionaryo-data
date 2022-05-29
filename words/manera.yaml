@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: manera
-    accented: manera
 
     gender: feminine
     number: singular
@@ -19,7 +18,6 @@ versions:
         - şekil
 
   - ladino: maneras
-    accented: maneras
 
     gender: feminine
     number: plural

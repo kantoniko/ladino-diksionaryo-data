@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: teknisyen
-    accented: teknisyen
 
     gender: masculine
     number: singular

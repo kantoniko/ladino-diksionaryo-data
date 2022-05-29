@@ -4,7 +4,6 @@ origen: Estanbol
 
 versions:
   - ladino: karar
-    accented: karar
 
     translations:
         english:

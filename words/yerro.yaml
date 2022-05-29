@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: yerro
-    accented: yerro
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: hata
 
   - ladino: yerros
-    accented: yerros
+
     gender: masculine
     number: plural
 

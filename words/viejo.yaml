@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: viejo
-    accented: viejo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: eski
 
   - ladino: vieja
-    accented: vieja
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: eski
 
   - ladino: viejos
-    accented: viejos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: eski
 
   - ladino: viejas
-    accented: viejas
+
     gender: feminine
     number: plural
 

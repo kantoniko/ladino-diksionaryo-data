@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: sena
-    accented: sena
 
     gender: feminine
     number: singular

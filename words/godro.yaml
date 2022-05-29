@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: godro
-    accented: godro
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: şişman
 
   - ladino: godra
-    accented: godra
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: şişman
 
   - ladino: godros
-    accented: godros
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: şişman
 
   - ladino: godras
-    accented: godras
+
     gender: feminine
     number: plural
 

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: djulio
-    accented: djulio
 
     translations:
         english: July

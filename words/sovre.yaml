@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: sovre
-    accented: sovre
+
     translations:
         english:
           - upon

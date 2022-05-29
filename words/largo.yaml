@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: largo
-    accented: largo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: uzun
 
   - ladino: larga
-    accented: larga
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: uzun
 
   - ladino: largos
-    accented: largos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: uzun
 
   - ladino: largas
-    accented: largas
+
     gender: feminine
     number: plural
 

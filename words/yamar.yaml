@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: yamar
-    accented: yamar
 
     translations:
         english: to call

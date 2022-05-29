@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: uzado
-    accented: uzado
 
     gender: masculine
     number: singular
@@ -21,7 +20,6 @@ versions:
           - kullanılmış
 
   - ladino: uzada
-    accented: uzada
 
     gender: feminine
     number: singular
@@ -38,7 +36,6 @@ versions:
           - kullanılmış
 
   - ladino: uzados
-    accented: uzados
 
     gender: masculine
     number: plural
@@ -55,7 +52,6 @@ versions:
           - kullanılmış
 
   - ladino: uzadas
-    accented: uzadas
 
     gender: feminine
     number: plural

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: kravata
-    accented: kravata
 
     gender: feminine
     number: singular

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kuriozo
-    accented: kuriozo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: meraklı
 
   - ladino: kurioza
-    accented: kurioza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: meraklı
 
   - ladino: kuriozos
-    accented: kuriozos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: meraklı
 
   - ladino: kuriozas
-    accented: kuriozas
+
     gender: feminine
     number: plural
 

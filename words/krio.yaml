@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: krio
-    accented: krio
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: küçük çocuk
 
   - ladino: kria
-    accented: kria
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: küçük çocuk
 
   - ladino: krios
-    accented: krios
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: küçük çocuk
 
   - ladino: krias
-    accented: krias
+
     gender: feminine
     number: plural
 

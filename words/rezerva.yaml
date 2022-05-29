@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: rezerva
-    accented: rezerva
 
     translations:
         english: reserve
