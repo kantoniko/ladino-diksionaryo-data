@@ -6,6 +6,9 @@ versions:
   - ladino: chikez
     accented: chikéz
 
+    alternative-spelling:
+      - ladino: chikes
+
     gender: feminine
     number: singular
 
