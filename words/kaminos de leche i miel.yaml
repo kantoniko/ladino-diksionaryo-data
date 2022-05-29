@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - saludos
+
+versions:
+  - ladino: Kaminos de leche i miel
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
