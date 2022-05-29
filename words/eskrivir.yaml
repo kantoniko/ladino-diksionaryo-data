@@ -20,6 +20,12 @@ conjugations:
         english: write
         spanish: escribo
 
+  pasado simple:
+    yo:
+      ladino: eskrivi
+      translations:
+        english: writo
+        spanish: escribi
 
 examples:
   - ladino: Este sitio no es el lugar para eskrivir toda una vida.
