@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: eskarinyo
 
+    alternative-spelling:
+      - ladino: deskarinyo
+
     translations:
         english:
         - longing
@@ -14,4 +17,5 @@ versions:
         spanish: añoranza
         turkish: özlem
 
-examples: []
+examples:
+  - ladino: En Izmir dizen deskarinyo.
