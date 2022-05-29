@@ -7,7 +7,7 @@ id: '571'
 
 versions:
   - ladino: klaro
-    accented: klaro
+
     gender: masculine
     number: singular
 
@@ -20,7 +20,7 @@ versions:
       turkish: aydınlık
 
   - ladino: klara
-    accented: klara
+
     gender: feminine
     number: singular
 
@@ -33,7 +33,7 @@ versions:
       turkish: aydınlık
 
   - ladino: klaros
-    accented: klaros
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
       turkish: aydınlık
 
   - ladino: klaras
-    accented: klaras
+
     gender: masculine
     number: plural
 

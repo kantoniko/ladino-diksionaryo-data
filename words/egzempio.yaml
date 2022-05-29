@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: egzempio
-    accented: egzempio
+
     gender: masculine
     number: singular
 
@@ -26,7 +26,7 @@ versions:
         turkish: misâl
 
   - ladino: egzempios
-    accented: egzempios
+
     gender: masculine
     number: plural
 
