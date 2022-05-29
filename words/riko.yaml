@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: riko
-    accented: riko
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: zengin
 
   - ladino: rika
-    accented: rika
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: zengin
 
   - ladino: rikos
-    accented: rikos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: zengin
 
   - ladino: rikas
-    accented: rikas
+
     gender: feminine
     number: plural
 

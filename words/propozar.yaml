@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: propozar
-    accented: propozar
 
     translations:
         english: propose

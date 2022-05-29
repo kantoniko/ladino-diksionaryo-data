@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: boz
-    accented: boz
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: ses
 
   - ladino: bozes
-    accented: bozes
 
     gender: feminine
     number: plural

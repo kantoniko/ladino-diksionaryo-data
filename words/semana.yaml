@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: semana
-    accented: semana
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: hafta
 
   - ladino: semanas
-    accented: semanas
 
     gender: feminine
     number: plural

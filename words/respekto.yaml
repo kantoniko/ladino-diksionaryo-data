@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: respekto
-    accented: respekto
 
     alternative-spelling:
       - ladino: omenaje
-        accented: omenaje
 
     translations:
         english:

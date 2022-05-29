@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: dunke
-    accented: dunke
 
     alternative-spelling:
       - ladino: alora
-        accented: alora
 
     translations:
         english: therefore

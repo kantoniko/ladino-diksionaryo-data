@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: estupendo
-    accented: estupendo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: harikulâde
 
   - ladino: estupenda
-    accented: estupenda
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: harikulâde
 
   - ladino: estupendos
-    accented: estupendos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: harikulâde
 
   - ladino: estupendas
-    accented: estupendas
+
     gender: feminine
     number: plural
 

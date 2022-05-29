@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: distraido
-    accented: distraido
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: dalgın
 
   - ladino: distraida
-    accented: distraida
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: dalgın
 
   - ladino: distraidos
-    accented: distraidos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: dalgınlar
 
   - ladino: distraidas
-    accented: distraidas
+
     gender: feminine
     number: plural
 

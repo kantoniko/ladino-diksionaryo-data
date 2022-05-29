@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: lindo
-    accented: lindo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: güzel
 
   - ladino: linda
-    accented: linda
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: güzel
 
   - ladino: lindos
-    accented: lindos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: güzel
 
   - ladino: lindas
-    accented: lindas
+
     gender: feminine
     number: plural
 

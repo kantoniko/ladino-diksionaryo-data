@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: konveniente
-    accented: konveniente
     #gender: NA # masculine feminine
     number: singular
 

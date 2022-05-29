@@ -4,13 +4,11 @@ origen: Jeneral
 
 versions:
   - ladino: bulisa
-    accented: bulisa
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: mujer de kaza
-        accented: mujer de kaza
 
     translations:
         english:
@@ -24,13 +22,12 @@ versions:
           - sahibesi
 
   - ladino: bulisas
-    accented: bulisas
+
     gender: feminine
     number: plural
 
     alternative-spelling:
       - ladino: mujeres de kaza
-        accented: mujeres de kaza
 
     translations:
         english:

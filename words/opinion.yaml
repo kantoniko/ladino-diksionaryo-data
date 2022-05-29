@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: opinion
-    accented: opinion
 
     #gender: NA # masculine feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: kanaat
 
   - ladino: opiniones
-    accented: opiniones
 
     #gender: NA # masculine feminine
     number: plural

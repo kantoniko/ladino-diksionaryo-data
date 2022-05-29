@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: ekskuza
-    accented: ekskuza
 
     translations:
         english: excuse
@@ -15,7 +14,6 @@ versions:
 
 
   - ladino: ekskuzame
-    accented: ekskuzame
 
     translations:
         english: excuse me

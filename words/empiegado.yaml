@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: empiegado
-    accented: empiegado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: müstahdem
 
   - ladino: empiegada
-    accented: empiegada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: müstahdem
 
   - ladino: empiegados
-    accented: empiegados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: müstahdem
 
   - ladino: empiegadas
-    accented: empiegadas
+
     gender: feminine
     number: plural
 

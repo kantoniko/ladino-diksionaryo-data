@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: deskudiado
-    accented: deskudiado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: dikkatsiz
 
   - ladino: deskudiada
-    accented: deskudiada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: dikkatsiz
 
   - ladino: deskudiados
-    accented: deskudiados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: dikkatsiz
 
   - ladino: deskudiadas
-    accented: deskudiadas
+
     gender: feminine
     number: plural
 

@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: dar haber
-    accented: dar haber
 
     alternative-spelling:
       - ladino: informar
-        accented: informar
 
     translations:
         english: inform

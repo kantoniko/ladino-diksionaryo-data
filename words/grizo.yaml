@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: grizo
-    accented: grizo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: gri
 
   - ladino: griza
-    accented: griza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: gri
 
   - ladino: grizos
-    accented: grizos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: gri
 
   - ladino: grizas
-    accented: grizas
+
     gender: feminine
     number: plural
 

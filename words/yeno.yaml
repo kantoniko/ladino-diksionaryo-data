@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: yeno
-    accented: yeno
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: dolu
 
   - ladino: yena
-    accented: yena
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: dolu
 
   - ladino: yenos
-    accented: yenos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: dolu
 
   - ladino: yenas
-    accented: yenas
+
     gender: feminine
     number: plural
 

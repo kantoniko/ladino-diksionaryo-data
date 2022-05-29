@@ -4,13 +4,12 @@ origen: Jeneral
 
 versions:
   - ladino: mismo
-    accented: mismo
+
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: mizmo
-        accented: mizmo
 
     translations:
         english: same
@@ -20,13 +19,12 @@ versions:
         turkish: aynı
 
   - ladino: misma
-    accented: misma
+
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: mizma
-        accented: mizma
 
     translations:
         english: same
@@ -36,13 +34,12 @@ versions:
         turkish: aynı
 
   - ladino: mismos
-    accented: mismos
+
     gender: masculine
     number: plural
 
     alternative-spelling:
       - ladino: mizmos
-        accented: mizmos
 
     translations:
         english: same
@@ -52,13 +49,12 @@ versions:
         turkish: aynı
 
   - ladino: mismas
-    accented: mismas
+
     gender: feminine
     number: plural
 
     alternative-spelling:
       - ladino: mizmas
-        accented: mizmas
 
     translations:
         english: same

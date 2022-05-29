@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: lektor
-    accented: lektor
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: okur
 
   - ladino: lektores
-    accented: lektores
 
     gender: masculine
     number: plural

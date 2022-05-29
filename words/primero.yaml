@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: primero
-    accented: primero
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: birinci
 
   - ladino: primera
-    accented: primera
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: birinci
 
   - ladino: primeros
-    accented: primeros
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: birinci
 
   - ladino: primeras
-    accented: primeras
+
     gender: feminine
     number: plural
 

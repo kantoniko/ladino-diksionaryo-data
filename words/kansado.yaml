@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kansado
-    accented: kansado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: yorgun
 
   - ladino: kansada
-    accented: kansada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: yorgun
 
   - ladino: kansados
-    accented: kansados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: yorgun
 
   - ladino: kansadas
-    accented: kansadas
+
     gender: feminine
     number: plural
 

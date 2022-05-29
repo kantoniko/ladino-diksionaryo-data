@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: vaka
-    accented: vaka
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: inek
 
   - ladino: vakas
-    accented: vakas
 
     gender: feminine
     number: plural

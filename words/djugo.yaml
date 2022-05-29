@@ -3,7 +3,6 @@ origen: Ladinokomunita
 
 versions:
   - ladino: djugo
-    accented: djugo
 
     gender: masculine
     number: singular
@@ -16,7 +15,6 @@ versions:
         turkish: oyun
 
   - ladino: djugos
-    accented: djugos
 
     gender: masculine
     number: plural

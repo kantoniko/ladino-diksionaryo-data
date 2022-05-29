@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: atomiko
-    accented: atomiko
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: atomik
 
   - ladino: atomika
-    accented: atomika
+
     gender: feminine
     number: singular
 

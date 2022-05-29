@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: espierto
-    accented: espierto
+
     gender: masculine
     number: singular
 
@@ -22,7 +22,7 @@ versions:
         - açıkgöz
 
   - ladino: espierta
-    accented: espierta
+
     gender: feminine
     number: singular
 
@@ -40,7 +40,7 @@ versions:
         - açıkgöz
 
   - ladino: espiertos
-    accented: espiertos
+
     gender: masculine
     number: plural
 

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: azer
-    accented: azer
 
     translations:
         english: do

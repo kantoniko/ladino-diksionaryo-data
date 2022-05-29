@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: konosido
-    accented: konosido
+
     gender: masculine
     number: singular
 
@@ -20,7 +20,7 @@ versions:
         - tanıdık
 
   - ladino: konosida
-    accented: konosida
+
     gender: feminine
     number: singular
 
@@ -36,7 +36,7 @@ versions:
         - tanıdık
 
   - ladino: konosidos
-    accented: konosidos
+
     gender: masculine
     number: plural
 
@@ -52,7 +52,7 @@ versions:
         - tanıdık
 
   - ladino: konosidas
-    accented: konosidas
+
     gender: feminine
     number: plural
 

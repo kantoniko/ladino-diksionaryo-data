@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: enkontro
-    accented: enkontro
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: karşilaşma
 
   - ladino: enkontros
-    accented: enkontros
 
     gender: masculine
     number: plural

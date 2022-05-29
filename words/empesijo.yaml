@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: empesijo
-    accented: empesijo
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: başlangıç
 
   - ladino: empesijos
-    accented: empesijos
 
     gender: masculine
     number: plural

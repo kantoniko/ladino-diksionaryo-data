@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: amijorar
-    accented: amijorar
 
     alternative-spelling:
       - ladino: amejorear
-        accented: amejorear
 
     translations:
         english: improve

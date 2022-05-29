@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: vez
-    accented: vez
+
     number: singular
 
     translations:
@@ -17,7 +17,7 @@ versions:
         turkish: defa
 
   - ladino: vezes
-    accented: vezes
+
     number: plural
 
     translations:

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: inseguridad
-    accented: inseguridad
 
     gender: feminine
     number: singular

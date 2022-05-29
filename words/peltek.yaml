@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: peltek
-    accented: peltek
 
     translations:
         english: stuttering

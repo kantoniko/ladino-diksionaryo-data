@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: la
-    accented: la
+
     gender: feminine
     number: singular
 
@@ -21,7 +21,7 @@ versions:
         - o (dişi)
 
   - ladino: las
-    accented: las
+
     gender: feminine
     number: plural
 

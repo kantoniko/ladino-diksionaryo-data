@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: kultura
-    accented: kultura
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: kültür
 
   - ladino: kulturas
-    accented: kulturas
 
     gender: feminine
     number: plural

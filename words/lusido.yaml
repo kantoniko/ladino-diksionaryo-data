@@ -3,7 +3,7 @@ id: '1969'
 origen: Jeneral
 versions:
   - ladino: lusido
-    accented: lusido
+
     gender: masculine
     number: singular
 
@@ -15,7 +15,7 @@ versions:
         turkish: açık seçik
 
   - ladino: lusida
-    accented: lusida
+
     gender: feminine
     number: singular
 
@@ -27,7 +27,7 @@ versions:
         turkish: açık seçik
 
   - ladino: lusidos
-    accented: lusidos
+
     gender: masculine
     number: plural
 
@@ -39,7 +39,7 @@ versions:
         turkish: açık seçik
 
   - ladino: lusidas
-    accented: lusidas
+
     gender: feminine
     number: plural
 

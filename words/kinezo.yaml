@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kinezo
-    accented: kinezo
+
     gender: masculine
     number: singular
 
@@ -17,7 +17,7 @@ versions:
         turkish: çinli
 
   - ladino: kineza
-    accented: kineza
+
     gender: feminine
     number: singular
 
@@ -30,7 +30,7 @@ versions:
         turkish: çinli
 
   - ladino: kinezos
-    accented: kinezos
+
     gender: masculine
     number: plural
 
@@ -42,7 +42,7 @@ versions:
         turkish: ''
 
   - ladino: kinezas
-    accented: kinezas
+
     gender: feminine
     number: plural
 

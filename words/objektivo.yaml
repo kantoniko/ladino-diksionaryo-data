@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: objektivo
-    accented: objektivo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: objektif
 
   - ladino: objektiva
-    accented: objektiva
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: objektif
 
   - ladino: objektivos
-    accented: objektivos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: objektif
 
   - ladino: objektivas
-    accented: objektivas
+
     gender: feminine
     number: plural
 

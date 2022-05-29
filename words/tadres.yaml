@@ -3,7 +3,6 @@ origen: Jeneral
 
 versions:
   - ladino: tadres
-    accented: tadres
 
     translations:
         english: afternoon

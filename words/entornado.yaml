@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: entornado
-    accented: entornado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: çevrili
 
   - ladino: entornada
-    accented: entornada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: çevrili
 
   - ladino: entornados
-    accented: entornados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: çevrili
 
   - ladino: entornadas
-    accented: entornadas
+
     gender: feminine
     number: plural
 

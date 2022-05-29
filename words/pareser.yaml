@@ -1,9 +1,9 @@
 grammar: NA
 id: '824'
 origen: Jeneral
+
 versions:
   - ladino: pareser
-    accented: pareser
 
     translations:
         english:

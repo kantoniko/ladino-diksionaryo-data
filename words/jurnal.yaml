@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: jurnal
-    accented: jurnal
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: gazete
 
   - ladino: jurnales
-    accented: jurnales
 
     gender: masculine
     number: plural

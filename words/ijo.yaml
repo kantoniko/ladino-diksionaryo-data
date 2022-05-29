@@ -7,7 +7,7 @@ kategorias:
 
 versions:
   - ladino: ijo
-    accented: ijo
+
     gender: masculine
     number: singular
 
@@ -21,7 +21,7 @@ versions:
         turkish: oğul
 
   - ladino: ija
-    accented: ija
+
     gender: feminine
     number: singular
 
@@ -35,7 +35,7 @@ versions:
         turkish: kız
 
   - ladino: ijos
-    accented: ijos
+
     gender: masculine
     number: plural
 
@@ -49,7 +49,7 @@ versions:
         turkish: oğul
 
   - ladino: ijas
-    accented: ijas
+
     gender: feminine
     number: plural
 

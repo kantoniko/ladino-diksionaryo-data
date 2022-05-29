@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: repuesta
-    accented: repuesta
+
     gender: feminine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: cevap
 
   - ladino: repuestas
-    accented: repuestas
+
     gender: feminine
     number: plural
 

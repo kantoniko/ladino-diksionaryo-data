@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: ruvio
-    accented: ruvio
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kızıl saçlı
 
   - ladino: ruvia
-    accented: ruvia
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: kızıl saçlı
 
   - ladino: ruvios
-    accented: ruvios
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: kızıl saçlı
 
   - ladino: ruvias
-    accented: ruvias
+
     gender: feminine
     number: plural
 

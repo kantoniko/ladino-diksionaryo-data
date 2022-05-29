@@ -7,7 +7,6 @@ kategorias:
 
 versions:
   - ladino: perro
-    accented: perro
 
     gender: masculine
     number: singular
@@ -20,7 +19,6 @@ versions:
         turkish: köpek
 
   - ladino: perros
-    accented: perros
 
     gender: masculine
     number: plural

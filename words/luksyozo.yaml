@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: luksyozo
-    accented: luksyozo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: lüks
 
   - ladino: luksyoza
-    accented: luksyoza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: lüks
 
   - ladino: luksyozos
-    accented: luksyozos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: lüks
 
   - ladino: luksyozas
-    accented: luksyozas
+
     gender: feminine
     number: plural
 

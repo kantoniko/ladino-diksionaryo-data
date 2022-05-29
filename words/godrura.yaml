@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: godrura
-    accented: godrura
 
     alternative-spelling:
       - ladino: gudrura
-        accented: gudrura
 
     translations:
         english:

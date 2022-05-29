@@ -7,7 +7,7 @@ kategorias:
 
 versions:
   - ladino: primo
-    accented: primo
+
     gender: masculine
     number: singular
 
@@ -19,7 +19,7 @@ versions:
         turkish: kuzen
 
   - ladino: prima
-    accented: prima
+
     gender: feminine
     number: singular
 
@@ -31,7 +31,7 @@ versions:
         turkish: kuzen
 
   - ladino: primos
-    accented: primos
+
     gender: masculine
     number: plural
 
@@ -43,7 +43,7 @@ versions:
         turkish: kuzen
 
   - ladino: primas
-    accented: primas
+
     gender: feminine
     number: plural
 

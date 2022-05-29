@@ -1,9 +1,10 @@
 grammar: NA
 id: '413'
 origen: Jeneral
+
 versions:
   - ladino: ferido
-    accented: ferido
+
     gender: masculine
     number: singular
 
@@ -17,7 +18,7 @@ versions:
         - yaralı
 
   - ladino: ferida
-    accented: ferida
+
     gender: feminine
     number: singular
 
@@ -31,7 +32,7 @@ versions:
         - yaralı
 
   - ladino: feridos
-    accented: feridos
+
     gender: masculine
     number: plural
 
@@ -45,7 +46,7 @@ versions:
         - yaralı
 
   - ladino: feridas
-    accented: feridas
+
     gender: feminine
     number: plural
 

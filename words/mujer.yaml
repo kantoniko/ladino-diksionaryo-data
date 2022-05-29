@@ -7,7 +7,7 @@ kategorias:
 
 versions:
   - ladino: mujer
-    accented: mujer
+
     gender: feminine
     number: singular
 
@@ -19,7 +19,7 @@ versions:
         turkish: kadın
 
   - ladino: mujeres
-    accented: mujeres
+
     gender: feminine
     number: plural
 

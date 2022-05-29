@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: inyervozo
-    accented: inyervozo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: sinirli
 
   - ladino: inyervoza
-    accented: inyervoza
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: sinirli
 
   - ladino: inyervozos
-    accented: inyervozos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: sinirliler
 
   - ladino: inyervozas
-    accented: inyervozas
+
     gender: feminine
     number: plural
 

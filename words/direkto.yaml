@@ -1,9 +1,10 @@
 grammar: NA
 id: '1722'
 origen: Jeneral
+
 versions:
   - ladino: direkto
-    accented: direkto
+
     gender: masculine
     number: singular
 
@@ -15,7 +16,7 @@ versions:
         turkish: dosdoğru
 
   - ladino: direkta
-    accented: direkta
+
     gender: feminine
     number: singular
 
@@ -27,7 +28,7 @@ versions:
         turkish: dosdoğru
 
   - ladino: direktos
-    accented: direktos
+
     gender: masculine
     number: plural
 
@@ -39,7 +40,7 @@ versions:
         turkish: dosdoğru
 
   - ladino: direktas
-    accented: direktas
+
     gender: feminine
     number: plural
 

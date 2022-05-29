@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: astronomiko
-    accented: astronomiko
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: astronomik
 
   - ladino: astronomika
-    accented: astronomika
+
     gender: feminine
     number: singular
 

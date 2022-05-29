@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: teksto
-    accented: teksto
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: metin
 
   - ladino: tekstos
-    accented: tekstos
 
     gender: masculine
     number: plural

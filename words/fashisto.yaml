@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: fashisto
-    accented: fashisto
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: faşist
 
   - ladino: fashista
-    accented: fashista
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: faşist
 
   - ladino: fashistos
-    accented: fashistos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: faşist
 
   - ladino: fashistas
-    accented: fashistas
+
     gender: feminine
     number: plural
 

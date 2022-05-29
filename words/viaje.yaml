@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: viaje
-    accented: viaje
     #gender: NA # masculine feminine
     number: singular
 
@@ -16,7 +15,6 @@ versions:
         turkish: seyahat
 
   - ladino: viajes
-    accented: viajes
     #gender: NA # masculine feminine
     number: plural
 

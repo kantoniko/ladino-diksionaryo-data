@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: bayle
-    accented: bayle
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: dans
 
   - ladino: bayles
-    accented: bayles
 
     gender: masculine
     number: plural

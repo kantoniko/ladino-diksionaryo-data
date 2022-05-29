@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: blondo
-    accented: blondo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: sarışın
 
   - ladino: blonda
-    accented: blonda
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: sarışın
 
   - ladino: blondos
-    accented: blondos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: sarışın
 
   - ladino: blondas
-    accented: blondas
+
     gender: feminine
     number: plural
 

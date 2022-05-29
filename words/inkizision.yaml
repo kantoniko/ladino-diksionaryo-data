@@ -4,13 +4,12 @@ origen: Jeneral
 
 versions:
   - ladino: Inkizision
-    accented: Inkizision
+
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: Inkizisyon
-        accented: Inkizisyon
 
     translations:
         english:

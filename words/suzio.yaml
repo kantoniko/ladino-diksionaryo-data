@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: suzio
-    accented: suzio
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: pis
 
   - ladino: suzia
-    accented: suzia
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: pis
 
   - ladino: suzios
-    accented: suzios
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: pis
 
   - ladino: suzias
-    accented: suzias
+
     gender: feminine
     number: plural
 

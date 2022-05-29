@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: sudito
-    accented: sudito
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - uyruk
 
   - ladino: sudita
-    accented: sudita
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - uyruk
 
   - ladino: suditos
-    accented: suditos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - uyruk
 
   - ladino: suditas
-    accented: suditas
+
     gender: feminine
     number: plural
 

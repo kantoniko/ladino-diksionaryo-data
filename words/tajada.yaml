@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: tajada
-    accented: tajada
 
     gender: feminine
     number: singular
@@ -19,7 +18,6 @@ versions:
         turkish: büyük dilim
 
   - ladino: tajadas
-    accented: tajadas
 
     gender: feminine
     number: plural

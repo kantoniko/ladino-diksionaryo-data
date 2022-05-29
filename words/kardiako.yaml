@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kardiako
-    accented: kardiako
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kalple ilgili
 
   - ladino: kardiaka
-    accented: kardiaka
+
     gender: feminine
     number: singular
 

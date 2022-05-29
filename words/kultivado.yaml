@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: kultivado
-    accented: kultivado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kültürlü
 
   - ladino: kultivada
-    accented: kultivada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: kültürlü
 
   - ladino: kultivados
-    accented: kultivados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: kültürlü
 
   - ladino: kultivadas
-    accented: kultivadas
+
     gender: feminine
     number: plural
 

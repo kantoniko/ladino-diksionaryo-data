@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: kukla
-    accented: kukla
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: oyuncak bebek
 
   - ladino: kuklas
-    accented: kuklas
 
     gender: feminine
     number: plural

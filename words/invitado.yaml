@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: invitado
-    accented: invitado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: davetli
 
   - ladino: invitada
-    accented: invitada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: davetli
 
   - ladino: invitados
-    accented: invitados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: davetli
 
   - ladino: invitadas
-    accented: invitadas
+
     gender: feminine
     number: plural
 

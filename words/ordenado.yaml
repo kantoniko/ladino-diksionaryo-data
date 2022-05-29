@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: ordenado
-    accented: ordenado
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: düzenli
 
   - ladino: ordenada
-    accented: ordenada
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: düzenli
 
   - ladino: ordenados
-    accented: ordenados
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: düzenli
 
   - ladino: ordenadas
-    accented: ordenadas
+
     gender: feminine
     number: plural
 

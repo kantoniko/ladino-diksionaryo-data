@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: flamur
-    accented: flamur
+
     gender: masculine
     number: singular
 

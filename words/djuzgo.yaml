@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: djuzgo
-    accented: djuzgo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: yargıç
 
   - ladino: djuzga
-    accented: djuzga
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: yargıç
 
   - ladino: djuzgos
-    accented: djuzgos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: yargıç
 
   - ladino: djuzgas
-    accented: djuzgas
+
     gender: feminine
     number: plural
 

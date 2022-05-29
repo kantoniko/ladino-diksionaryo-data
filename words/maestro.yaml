@@ -3,7 +3,7 @@ id: '686'
 origen: Jeneral
 versions:
   - ladino: maestro
-    accented: maestro
+
     gender: masculine
     number: singular
 
@@ -19,7 +19,7 @@ versions:
         - usta
 
   - ladino: maestra
-    accented: maestra
+
     gender: feminine
     number: singular
 
@@ -35,7 +35,7 @@ versions:
         - usta
 
   - ladino: maestros
-    accented: maestros
+
     gender: masculine
     number: plural
 
@@ -51,7 +51,7 @@ versions:
         - usta
 
   - ladino: maestras
-    accented: maestras
+
     gender: feminine
     number: plural
 

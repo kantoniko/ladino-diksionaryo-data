@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: muestro
-    accented: muestro
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: bizim
 
   - ladino: muestra
-    accented: muestra
 
     gender: feminine
     number: singular
@@ -30,7 +28,6 @@ versions:
         turkish: bizim
 
   - ladino: muestros
-    accented: muestros
 
     gender: masculine
     number: plural
@@ -43,7 +40,6 @@ versions:
         turkish: bizim
 
   - ladino: muestras
-    accented: muestras
 
     gender: feminine
     number: plural

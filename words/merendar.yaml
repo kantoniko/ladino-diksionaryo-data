@@ -4,11 +4,9 @@ origen: Jeneral
 
 versions:
   - ladino: merendar
-    accented: merendar
 
     alternative-spelling:
       - ladino: piknikar
-        accented: piknikar
     translations:
         english:
         - lunch

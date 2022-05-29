@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: ley
-    accented: ley
 
     gender: feminine
     number: singular

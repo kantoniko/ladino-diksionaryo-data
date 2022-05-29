@@ -6,7 +6,7 @@ kategorias:
 
 versions:
   - ladino: dientisto
-    accented: dientisto
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         turkish: dişçi
 
   - ladino: dientista
-    accented: dientista
+
     gender: feminine
     number: singular
 
@@ -30,7 +30,7 @@ versions:
         turkish: dişçi
 
   - ladino: dientistos
-    accented: dientistos
+
     gender: masculine
     number: plural
 
@@ -42,7 +42,7 @@ versions:
         turkish: dişçi
 
   - ladino: dientistas
-    accented: dientistas
+
     gender: feminine
     number: plural
 

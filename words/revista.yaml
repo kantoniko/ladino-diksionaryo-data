@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: revista
-    accented: revista
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: dergi
 
   - ladino: revistas
-    accented: revistas
 
     gender: feminine
     number: plural

@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: ser
-    accented: ser
 
     translations:
         english: to be

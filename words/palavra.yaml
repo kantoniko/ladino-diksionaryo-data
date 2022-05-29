@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: palavra
-    accented: palavra
+
     gender: feminine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: kelime
 
   - ladino: palavras
-    accented: palavras
+
     gender: feminine
     number: plural
 

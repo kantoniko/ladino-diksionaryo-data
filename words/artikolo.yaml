@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: artikolo
-    accented: artikolo
 
     gender: masculine
     number: singular
@@ -19,7 +18,6 @@ versions:
         - makale
 
   - ladino: artikolos
-    accented: artikolos
 
     gender: masculine
     number: plural

@@ -3,7 +3,7 @@ origen: NA
 
 versions:
   - ladino: unos
-    accented: unos
+
     gender: masculine
     number: plural
 
@@ -14,7 +14,7 @@ versions:
       turkish: biriler
 
   - ladino: unas
-    accented: unas
+
     gender: feminine
     number: plural
 

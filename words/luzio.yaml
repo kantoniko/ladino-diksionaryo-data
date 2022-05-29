@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: luzio
-    accented: luzio
+
     gender: masculine
     number: singular
 
@@ -20,7 +20,7 @@ versions:
         - hoş
 
   - ladino: luzia
-    accented: luzia
+
     gender: feminine
     number: singular
 
@@ -36,7 +36,7 @@ versions:
         - hoş
 
   - ladino: luzios
-    accented: luzios
+
     gender: masculine
     number: plural
 
@@ -52,7 +52,7 @@ versions:
         - hoş
 
   - ladino: luzias
-    accented: luzias
+
     gender: feminine
     number: plural
 

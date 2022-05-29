@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: revanada
-    accented: revanada
 
     gender: feminine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: dilim
 
   - ladino: revanadas
-    accented: revanadas
 
     gender: feminine
     number: plural

@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: defunkto
-    accented: defunkto
+
     gender: masculine
     number: singular
 
@@ -18,7 +18,7 @@ versions:
         - ölü
 
   - ladino: defunkta
-    accented: defunkta
+
     gender: feminine
     number: singular
 
@@ -32,7 +32,7 @@ versions:
         - ölü
 
   - ladino: defunktos
-    accented: defunktos
+
     gender: masculine
     number: plural
 
@@ -46,7 +46,7 @@ versions:
         - ölü
 
   - ladino: defunktas
-    accented: defunktas
+
     gender: feminine
     number: plural
 

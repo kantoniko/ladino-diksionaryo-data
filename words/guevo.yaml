@@ -4,7 +4,6 @@ origen: Jeneral
 
 versions:
   - ladino: guevo
-    accented: guevo
 
     gender: masculine
     number: singular
@@ -17,7 +16,6 @@ versions:
         turkish: yumurta
 
   - ladino: guevos
-    accented: guevos
 
     gender: masculine
     number: plural

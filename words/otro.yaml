@@ -1,9 +1,10 @@
 grammar: NA
 id: '811'
 origen: Jeneral
+
 versions:
   - ladino: otro
-    accented: otro
+
     gender: masculine
     number: singular
 
@@ -17,7 +18,7 @@ versions:
         - diğer
 
   - ladino: otra
-    accented: otra
+
     gender: feminine
     number: singular
 
@@ -31,7 +32,7 @@ versions:
         - diğer
 
   - ladino: otros
-    accented: otros
+
     gender: masculine
     number: plural
 
@@ -45,7 +46,7 @@ versions:
         - diğer
 
   - ladino: otras
-    accented: otras
+
     gender: feminine
     number: plural
 

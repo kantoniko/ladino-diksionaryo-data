@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: floristo
-    accented: floristo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: çiçekçi
 
   - ladino: florista
-    accented: florista
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: çiçekçi
 
   - ladino: floristos
-    accented: floristos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: çiçekçi
 
   - ladino: floristas
-    accented: floristas
+
     gender: feminine
     number: plural
 

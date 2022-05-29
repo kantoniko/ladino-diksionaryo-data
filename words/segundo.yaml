@@ -4,7 +4,7 @@ origen: Jeneral
 
 versions:
   - ladino: segundo
-    accented: segundo
+
     gender: masculine
     number: singular
 
@@ -16,7 +16,7 @@ versions:
         turkish: ikinci
 
   - ladino: segunda
-    accented: segunda
+
     gender: feminine
     number: singular
 
@@ -28,7 +28,7 @@ versions:
         turkish: ikinci
 
   - ladino: segundos
-    accented: segundos
+
     gender: masculine
     number: plural
 
@@ -40,7 +40,7 @@ versions:
         turkish: ikinci
 
   - ladino: segundas
-    accented: segundas
+
     gender: feminine
     number: plural
 

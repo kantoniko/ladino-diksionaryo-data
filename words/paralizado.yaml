@@ -1,9 +1,10 @@
 grammar: NA
 id: '2049'
 origen: Jeneral
+
 versions:
   - ladino: paralizado
-    accented: paralizado
+
     gender: masculine
     number: singular
 
@@ -15,7 +16,7 @@ versions:
         turkish: felçli
 
   - ladino: paralizada
-    accented: paralizada
+
     gender: feminine
     number: singular
 
@@ -27,7 +28,7 @@ versions:
         turkish: felçli
 
   - ladino: paralizados
-    accented: paralizados
+
     gender: masculine
     number: plural
 
@@ -39,7 +40,7 @@ versions:
         turkish: felçli
 
   - ladino: paralizadas
-    accented: paralizadas
+
     gender: feminine
     number: plural
 
