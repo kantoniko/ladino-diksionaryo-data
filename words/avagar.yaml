@@ -9,7 +9,9 @@ versions:
         english: slowly
         french: ''
         portuguese: ''
-        spanish: despacio
+        spanish:
+          - despacio
+          - lentamente
         turkish: yavaş
 
 examples: []
