@@ -1,0 +1,24 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: kongosha
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kongoja
+
+    alternative-not-recommended:
+      - ladino: frustrasion
+
+    translations:
+      english: frustration
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: frustración
+      turkish: ''
+
+examples: []
