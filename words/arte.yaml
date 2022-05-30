@@ -1,0 +1,18 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: arte
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: art
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: arte
+      turkish: ''
+
+examples: []
