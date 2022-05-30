@@ -7,7 +7,7 @@ versions:
     alternative-not-recommended:
       - ladino: prinsipiante
 
-    gender: masculine
+    gender: both
     number: singular
 
     translations:
@@ -17,5 +17,22 @@ versions:
       portuguese: ''
       spanish: principiante
       turkish: ''
+
+  - ladino: empesantes
+
+    alternative-not-recommended:
+      - ladino: prinsipiantes
+
+    gender: both
+    number: plural
+
+    translations:
+      english: beginners
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: principiantes
+      turkish: ''
+
 
 examples: []
