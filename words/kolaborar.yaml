@@ -1,0 +1,15 @@
+grammar: verb
+origen: NA
+
+versions:
+  - ladino: kolaborar
+
+    translations:
+      english: collaborate
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: colaborar
+      turkish: ''
+
+examples: []
