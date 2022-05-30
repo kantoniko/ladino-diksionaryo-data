@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinadores
+
+versions:
+  - ladino: empesante
+
+    alternative-not-recommended:
+      - ladino: prinsipiante
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: beginner
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: principiante
+      turkish: ''
+
+examples: []
