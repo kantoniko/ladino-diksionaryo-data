@@ -1,0 +1,42 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: amavle
+
+    alternative-spelling:
+      - ladino: amable
+
+    gender: both
+    number: singular
+
+    translations:
+      english:
+        - gentle
+        - kind
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: amable
+      turkish: ''
+
+  - ladino: amavles
+
+    alternative-spelling:
+      - ladino: amables
+
+    gender: both
+    number: plural
+
+    translations:
+      english:
+        - gentle
+        - kind
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: amables
+      turkish: ''
+
+
+examples: []
