@@ -1,0 +1,57 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: traumatiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: traumatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: traumático
+      turkish: ''
+
+  - ladino: traumatika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: traumatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: traumática
+      turkish: ''
+
+  - ladino: traumatikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: traumatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: traumáticos
+      turkish: ''
+
+  - ladino: traumatikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: traumatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: traumáticas
+      turkish: ''
+
+examples: []
