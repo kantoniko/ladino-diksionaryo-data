@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: akseso
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: access
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: acceso
+      turkish: ''
+
+examples: []
