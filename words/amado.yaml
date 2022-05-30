@@ -1,0 +1,57 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: amado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: loved
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: amado
+      turkish: ''
+
+  - ladino: amada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: loved
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: amada
+      turkish: ''
+
+  - ladino: amados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: loved
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: amados
+      turkish: ''
+
+  - ladino: amadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: loved
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: amadas
+      turkish: ''
+
+examples: []
