@@ -1,0 +1,19 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: simple
+
+    #gender: NA # masculine feminine both
+    #number: singular plural
+
+
+    translations:
+      english: simple
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: simple
+      turkish: ''
+
+examples: []
