@@ -1,0 +1,40 @@
+grammar: noun
+origen: NA
+
+versions:
+  - ladino: kontrakt
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kontrakto
+      - ladino: kontrato
+
+
+    translations:
+      english: contract
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contrato
+      turkish: ''
+
+  - ladino: kontraktos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: kontratos
+
+
+    translations:
+      english: contracts
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contratos
+      turkish: ''
+
+examples: []
