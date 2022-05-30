@@ -7,7 +7,9 @@ versions:
   # ni... ni...
 
     translations:
-        english: neither
+        english:
+          - neither
+          - nor
   # neither... nor
         french: ''
         portuguese: ''
@@ -18,4 +20,9 @@ versions:
         turkish: ne
         # ne... ne...
 
-examples: []
+examples:
+  - ladino: Ni komi ni bevi ayer.
+    english: I neither ate nor drank yesterday.
+  - ladino: No pudi ni enrejistrarme ni entender el buto del grupo.
+    english: I could neither register to nor understand the goal of the group.
+

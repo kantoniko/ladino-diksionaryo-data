@@ -17,6 +17,8 @@ versions:
         bozes:
           - person: albert-israel
             arkivo: egzemplo.ogg
+      - ladino: enshemplo
+      - ladino: eshemplo
 
     translations:
         english: example
@@ -26,6 +28,11 @@ versions:
         turkish: misâl
 
   - ladino: egzempios
+
+    alternative-spelling:
+      - ladino: egzemplos
+      - ladino: enshemplos
+      - ladino: eshemplos
 
     gender: masculine
     number: plural
@@ -42,3 +49,4 @@ examples:
     bozes:
       - person: szabgab
         arkivo: para_kada_palavra.ogg
+  - ladino: Te podemos dar munchos egzemplos. (Uzan en Izmir)
