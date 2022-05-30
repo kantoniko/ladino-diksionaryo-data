@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - sivdades
+
+versions:
+  - ladino: Yerushalayim
+
+    translations:
+      english: Jerusalem
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Jerusalén
+      turkish: ''
+
+examples: []
