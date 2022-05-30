@@ -1,0 +1,32 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: kondoleansa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: condolence
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: condolencia
+      turkish: ''
+
+  - ladino: kondoleansas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: condolences
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: condolencias
+      turkish: ''
+
+
+examples: []
