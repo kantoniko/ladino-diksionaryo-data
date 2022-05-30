@@ -1,0 +1,57 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: modesto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: modest
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: modesto
+      turkish: ''
+
+  - ladino: modesta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: modest
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: modesta
+      turkish: ''
+
+  - ladino: modestos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: modest
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: modestos
+      turkish: ''
+
+  - ladino: modestas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: modest
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: modestas
+      turkish: ''
+
+examples: []
