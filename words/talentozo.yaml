@@ -1,0 +1,73 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: talentozo
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: talentuozo
+
+
+    translations:
+      english: talented
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: talentoso
+      turkish: ''
+
+  - ladino: talentoza
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: talentuoza
+
+
+    translations:
+      english: talented
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: talentosa
+      turkish: ''
+
+  - ladino: talentozos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: talentuozos
+
+
+    translations:
+      english: talented
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: talentosos
+      turkish: ''
+
+  - ladino: talentozas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: talentuozas
+
+    translations:
+      english: talented
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: talentosas
+      turkish: ''
+
+
+examples: []
