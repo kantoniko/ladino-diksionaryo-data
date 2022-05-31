@@ -1,0 +1,22 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: ingletierra
+
+    alternative-spelling:
+      - ladino: inglaterra
+
+
+    translations:
+      english: England
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: inglaterra
+      turkish: ''
+
+
+examples: []
