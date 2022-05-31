@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: reokupar
+
+    translations:
+      english: reoccupy
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: volver a ocupar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
