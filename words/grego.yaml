@@ -35,6 +35,34 @@ versions:
         - Rum
         - Yunanlı
 
+  - ladino: gregos
+    accented: grégos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: Greek
+        french: ''
+        portuguese: ''
+        spanish:
+        - griegos
+        turkish: ''
+
+  - ladino: gregas
+    accented: grégas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: Greek
+        french: ''
+        portuguese: ''
+        spanish:
+        - griegas
+        turkish: ''
+
 
 examples:
   - ladino: Se eskondieron en kazas de amigos gregos durante el tiempo de la gerra.
