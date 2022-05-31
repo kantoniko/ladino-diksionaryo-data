@@ -1,0 +1,15 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: munisipal
+
+    translations:
+      english: municipal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: municipal
+      turkish: ''
+
+examples: []
