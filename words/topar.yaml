@@ -14,6 +14,17 @@ versions:
           - encontrar
         turkish: bulmak
 
+
+  - ladino: topava
+  # se topava
+
+    translations:
+        english: was found
+        french: ''
+        portuguese: ''
+        spanish: ''
+        turkish: ''
+
 conjugations:
   present indicative:
     yo:
