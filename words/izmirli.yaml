@@ -1,0 +1,36 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+ - nasionalidad
+
+versions:
+  - ladino: izmirli
+    accented: izmirlí
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: from Izmir
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: de Izmir
+      turkish: ''
+
+  - ladino: izmirlis
+    accented: izmirlís
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: from Izmir
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: de Izmir
+      turkish: ''
+
+
+examples: []
