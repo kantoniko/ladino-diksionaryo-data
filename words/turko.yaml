@@ -13,9 +13,50 @@ versions:
     translations:
         english: Turkish
         french: ''
-        hebrew: טורקית
+        hebrew:
+          - טורקית
+          - טורקי
         portuguese: ''
         spanish: turco
         turkish: Türkçe
+
+  - ladino: turka
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: Turkish
+        french: ''
+        hebrew: ''
+        portuguese: ''
+        spanish: turca
+        turkish: Türkçe
+
+  - ladino: turkos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: Turkish
+        french: ''
+        hebrew: ''
+        portuguese: ''
+        spanish: turcos
+        turkish: ''
+
+  - ladino: turkas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: Turkish
+        french: ''
+        hebrew: ''
+        portuguese: ''
+        spanish: turcas
+        turkish: ''
 
 examples: []
