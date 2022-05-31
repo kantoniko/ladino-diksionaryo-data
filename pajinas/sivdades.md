@@ -49,7 +49,7 @@ Milas         | |
 Montevideo    | |
 Moses Ville   | |
 París         | |
-Plovdiv       | |
+Filibe        | Plovdiv       |
 Rodhes, Rodes, Rodis o Rodos | |
 Roma          | |
 Rosh Pina     | |

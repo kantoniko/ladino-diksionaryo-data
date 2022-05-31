@@ -1,0 +1,35 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: charshi
+    accented: charshí
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: market
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: merkado
+      turkish: ''
+
+  - ladino: charshis
+    accented: charshís
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: markets
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: merkados
+      turkish: ''
+
+
+
+examples: []
