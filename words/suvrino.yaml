@@ -1,0 +1,71 @@
+grammar: nound
+origen: Ladinokomunita
+kategorias:
+ - famiya
+
+versions:
+  - ladino: suvrino
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: sovrino
+
+    translations:
+      english: nephew
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sobrino
+      turkish: ''
+
+  - ladino: suvrina
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: sovrina
+
+    translations:
+      english: niece
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sobrina
+      turkish: ''
+
+  - ladino: suvrinos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: sovrinos
+
+    translations:
+      english: nephews
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sobrinos
+      turkish: ''
+
+  - ladino: suvrinas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: sovrinas
+
+    translations:
+      english: nieces
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sobrinas
+      turkish: ''
+
+examples: []

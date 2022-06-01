@@ -6,8 +6,6 @@ Inglez            | Ladino
 grandfather       | (el) gran-papa
 grandmother       | (la) gran-mama
 grandmother       | (la) gramama
-nephew            | (el) suvrino
-nephews           | (los) suvrinos
 parents           | (los) djenitores
 parents           | (los) padres
 parents           | (los) parientes
