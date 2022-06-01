@@ -196,7 +196,18 @@ listas:
     - siglo
     - tadre
     - tadres
-
+  numros:
+    - zero
+    - uno
+    - dos
+    - tres
+    - kuatro
+    - sinko
+    - sesh
+    - siete
+    - ocho
+    - mueve
+    - diez
 tiempos:
   - present indicative
   - pasado simple
