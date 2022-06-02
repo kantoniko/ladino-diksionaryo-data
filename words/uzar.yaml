@@ -23,6 +23,15 @@ versions:
         spanish: usarlo
         turkish: kullanmak
 
+  - ladino: uzando
+
+    translations:
+        english: being used
+        french: ''
+        portuguese: ''
+        spanish: usando
+        turkish: ''
+
 
 conjugations:
   present indicative:
