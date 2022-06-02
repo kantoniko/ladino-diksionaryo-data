@@ -12,6 +12,16 @@ versions:
         spanish: leer
         turkish: okumak
 
+  - ladino: meldarlas
+
+    translations:
+        english: read them
+        french: ''
+        portuguese: ''
+        spanish: leerlas
+        turkish: ''
+
+
 conjugations:
   present indicative:
     yo:
