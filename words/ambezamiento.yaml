@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: ambezamiento
+
+    translations:
+      english:
+        - teaching
+        - instruction
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples:
+  - ladino: livros de ambezamiento
