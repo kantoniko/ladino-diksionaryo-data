@@ -19,4 +19,21 @@ versions:
       spanish: nacionalidad
       turkish: ''
 
+  - ladino: nasionalidades
+
+    alternative-spelling:
+      - ladino: nasionalitas
+        accented: nasionalitás
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: nationality
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: nacionalidades
+      turkish: ''
+
 examples: []
