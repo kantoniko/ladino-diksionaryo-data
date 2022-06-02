@@ -13,7 +13,21 @@ versions:
         spanish: buscar
         turkish: aramak
 
+
+  - ladino: bushka
+    # imperative
+
+    translations:
+        english: search
+        french: ''
+        portuguese: ''
+        spanish: busca
+        turkish: ''
+
+
 conjugations: {}
 examples:
   - ladino: Ke bushkas por estas partes?
+  - ladino: Bushka por tu telefono!
+    english: Search for your phone!
 
