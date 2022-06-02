@@ -19,6 +19,7 @@ conjugations:
   present indicative:
     yo:
       ladino: entyendo
+      # TODO: add entiendo
       translations:
         english: understand
         spanish: entiendo
