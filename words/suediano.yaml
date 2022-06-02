@@ -1,0 +1,59 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+  - nasionalidad
+
+versions:
+  - ladino: suediano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: swedish
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sueco
+      turkish: ''
+
+  - ladino: suediana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: swedish
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: sueca
+      turkish: ''
+
+  - ladino: suedianos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: swedish
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: suecos
+      turkish: ''
+
+  - ladino: suedianas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: swedish
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: suecas
+      turkish: ''
+
+examples: []
