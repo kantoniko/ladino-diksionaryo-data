@@ -1,0 +1,23 @@
+grammar: adjective
+origen: NA
+
+versions:
+  - ladino: sikilear
+
+    gender: both
+    number: singular
+
+    translations:
+      english: boring
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - aburrido
+        - aburrida
+      turkish: ''
+
+examples:
+  - ladino: Este es un livro sikilear.
+  - ladino: El es un ombre sikilear.
+  - ladino: Eya es una mujer sikilear.
