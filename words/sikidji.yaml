@@ -1,0 +1,63 @@
+grammar: adjective
+origen: NA
+
+versions:
+  - ladino: sikidji
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: boring
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aburrido
+      turkish: ''
+
+  - ladino: sikidjiya
+
+    gender: feminin
+    number: singular
+
+    translations:
+      english: boring
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aburrida
+      turkish: ''
+
+  - ladino: sikidjis
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: boring
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aburridos
+      turkish: ''
+
+  - ladino: sikidjiyas
+
+    gender: feminin
+    number: singular
+
+    translations:
+      english: boring
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: aburridas
+      turkish: ''
+
+examples:
+  - ladino: Este es un livro sikidji.
+  - ladino: El es un ombre sikidji.
+  - ladino: Eya es una mujer sikidjiya.
+  - ladino: Los livros en la biblioteka son sikidjis.
+  - ladino: Las istorias so sikidjiyas.
+
