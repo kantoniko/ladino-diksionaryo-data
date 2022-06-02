@@ -1,0 +1,17 @@
+grammar: NA
+origen: NA
+kategorias:
+  - numeros
+
+versions:
+  - ladino: sesh
+
+    translations:
+      english: six
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: seis
+      turkish: ''
+
+examples: []
