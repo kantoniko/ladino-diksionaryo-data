@@ -5,8 +5,7 @@ versions:
   - ladino: simple
 
     #gender: NA # masculine feminine both
-    #number: singular plural
-
+    number: singular
 
     translations:
       english: simple
@@ -14,6 +13,19 @@ versions:
       hebrew: ''
       portuguese: ''
       spanish: simple
+      turkish: ''
+
+  - ladino: simples
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+      english: simple
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: simples
       turkish: ''
 
 examples: []
