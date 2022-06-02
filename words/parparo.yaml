@@ -17,4 +17,17 @@ versions:
         spanish: párpado
         turkish: göz kapağı
 
+  - ladino: parparos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: eyelids
+        french: ''
+        portuguese: ''
+        spanish: párpados
+        turkish: ''
+
+
 examples: []
