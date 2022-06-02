@@ -31,3 +31,7 @@ versions:
 # conjugations: {}
 
 examples: []
+  - ladino:
+    bozes:
+      - person: szabgab
+        arkivo: para_kada_palavra.ogg
