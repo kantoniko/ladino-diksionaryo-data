@@ -1,0 +1,17 @@
+grammar: verb
+origen: NA
+
+versions:
+  - ladino: abotonarse
+
+    translations:
+      english: button up
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abotonarse
+      turkish: ''
+
+conjugations: {}
+
+examples: []

@@ -1,0 +1,17 @@
+grammar: verb
+origen: NA
+
+versions:
+  - ladino: abotonar
+
+    translations:
+      english: button
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abotonar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
