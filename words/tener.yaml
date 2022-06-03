@@ -135,6 +135,82 @@ conjugations:
         english: had
         spanish: tenian
 
+  futuro:
+    yo:
+      ladino: tendré
+      translations:
+        english: ''
+        spanish: ''
+
+    tu:
+      ladino: tendrás
+      translations:
+        english: ''
+        spanish: ''
+
+    el:
+      ladino: tendrá
+      translations:
+        english: ''
+        spanish: ''
+
+    mozotros:
+      ladino: tendremos
+      translations:
+        english: ''
+        spanish: ''
+
+    vozotros:
+      ladino: tendrésh
+      translations:
+        english: ''
+        spanish: ''
+
+    eyos:
+      ladino: tendrán
+      translations:
+        english: ''
+        spanish: ''
+
+  subjunktivo:
+    yo:
+      ladino: tenga
+      translations:
+        english: ''
+        spanish: ''
+
+    tu:
+      ladino: tengas
+      translations:
+        english: ''
+        spanish: ''
+
+    el:
+      ladino: tenga
+      translations:
+        english: ''
+        spanish: ''
+
+    mozotros:
+      ladino: tengamos
+      translations:
+        english: ''
+        spanish: ''
+
+    vozotros:
+      ladino: tengásh
+      translations:
+        english: ''
+        spanish: ''
+
+    eyos:
+      ladino: tengan
+      translations:
+        english: ''
+        spanish: ''
+
+
+
 
 examples:
   - ladino: Yo tengo un ermano
