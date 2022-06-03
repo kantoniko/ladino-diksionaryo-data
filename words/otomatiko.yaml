@@ -1,0 +1,61 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: otomatiko
+    accented: otomátiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: automatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: automático
+      turkish: ''
+
+  - ladino: otomatika
+    accented: otomátika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: automatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: automática
+      turkish: ''
+
+  - ladino: otomatikos
+    accented: otomátikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: automatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: automáticos
+      turkish: ''
+
+  - ladino: otomatikas
+    accented: otomátikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: automatic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: automáticas
+      turkish: ''
+
+examples: []
