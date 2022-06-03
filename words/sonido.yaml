@@ -22,5 +22,21 @@ versions:
         spanish: sonido
         turkish: ses
 
+  - ladino: sonidos
+    accented: sonídos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - sounds
+        - noises
+        french: ''
+        portuguese: ''
+        spanish: sonidos
+        turkish: ''
+
+
 examples:
   - ladino: Abasho reprezentamos los sonidos del alfabeto.
