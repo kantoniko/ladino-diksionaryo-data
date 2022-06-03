@@ -1,0 +1,58 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: nativo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: native
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: nativo
+      turkish: ''
+
+  - ladino: nativa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: native
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: nativa
+      turkish: ''
+
+  - ladino: nativos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: natives
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: nativos
+      turkish: ''
+
+  - ladino: nativas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: natives
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: nativas
+      turkish: ''
+
+examples: []
+
