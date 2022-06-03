@@ -3,8 +3,9 @@ id: '2904'
 origen: Jeneral
 
 versions:
-  - ladino: blankucho
-    accented: blankúcho
+  - ladino: blankusho
+    accented: blankúsho
+
     gender: masculine
     number: singular
 
@@ -15,8 +16,9 @@ versions:
         spanish: albino
         turkish: albinos
 
-  - ladino: blankucha
-    accented: blankúcha
+  - ladino: blankusha
+    accented: blankúsha
+
     gender: masculine
     number: plural
 
@@ -28,4 +30,7 @@ versions:
         turkish: albinos
 
 examples:
-  - ladino: '"Blankucho" era akeya kreatura (persona) ke nasiya kon los kaveyos i los  parparos blankos.'
+  - ladino: '"Blankusho" era akeya kreatura (persona) ke nasiya kon los kaveyos i los  parparos blankos.'
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: blankusho-era-akeya-kreatura.ogg
