@@ -25,4 +25,7 @@ versions:
         turkish: tavan arası
 
 examples:
-  - ladino: '"Mansarda", es la kamareta ke esta debasho del techo.'
+  - ladino: '"Musandara", es la kamareta ke esta debasho del techo.'
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: musandara-es-la-kamareta.ogg
