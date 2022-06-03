@@ -16,7 +16,7 @@ versions:
         turkish: anlamak
 
 conjugations:
-  present indicative:
+  prezente:
     yo:
       ladino: entyendo
       # TODO: add entiendo
