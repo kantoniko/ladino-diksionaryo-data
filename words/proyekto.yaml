@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: proyekto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: project
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: proyecto
+      turkish: ''
+
+  - ladino: proyektos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: projects
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: proyectos
+      turkish: ''
+
+
+examples: []
