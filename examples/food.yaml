@@ -1,16 +1,16 @@
 examples:
   - ladino: el pan
     english: the bread
-  - ladino: "{Tengo menester} kozer el arroz"
-    english: "I need help to cook the rice"
+  - ladino: Tengo menester kozer el arroz
+    english: I need help to cook the rice
   - ladino: Yo kero estudiar Ladino.
     english: I want to study Ladino.
-  - ladino: "{Tengo menester} kon Ladino"
-    english: "I need help with Ladino"
+  - ladino: Tengo menester kon Ladino
+    english: I need help with Ladino
   - ladino: Puedes meldar en Ladino?
     english: Can you read in Ladino?
-  - ladino: "{Tengo ambre}"
-    english: "{I am hungry}"
+  - ladino: Tengo ambre
+    english: I am hungry
   - ladino: David beve agua
     english: David drinks water
   - ladino: Mozotros dos bevemos bira
