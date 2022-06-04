@@ -1,0 +1,35 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: instruksion
+    accented: instruksión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: instruction
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: instrucción
+      turkish: ''
+
+  - ladino: instruksiones
+    accented: instruksiónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: instructions
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: instrucciones
+      turkish: ''
+
+
+examples: []
+
