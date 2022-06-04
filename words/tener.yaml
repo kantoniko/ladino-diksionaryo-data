@@ -209,6 +209,92 @@ conjugations:
         english: ''
         spanish: ''
 
+  subjunktivo imperfekto:
+    yo:
+      ladino: tuviera
+      translations:
+        english: ''
+        spanish: ''
+
+    tu:
+      ladino: tuvieras
+      translations:
+        english: ''
+        spanish: ''
+
+    el:
+      ladino: tuviera
+      translations:
+        english: ''
+        spanish: ''
+
+    mozotros:
+      ladino: tuviéramos
+      translations:
+        english: ''
+        spanish: ''
+
+    vozotros:
+      ladino: tivierash
+      translations:
+        english: ''
+        spanish: ''
+
+    eyos:
+      ladino: tuvieran
+      translations:
+        english: ''
+        spanish: ''
+
+  kondisional:
+    yo:
+      ladino: tendría
+      translations:
+        english: ''
+        spanish: ''
+
+    tu:
+      ladino: tendrías
+      translations:
+        english: ''
+        spanish: ''
+
+    el:
+      ladino: tendría
+      translations:
+        english: ''
+        spanish: ''
+
+    mozotros:
+      ladino: tendríamos
+      translations:
+        english: ''
+        spanish: ''
+
+    vozotros:
+      ladino: tendríash
+      translations:
+        english: ''
+        spanish: ''
+
+    eyos:
+      ladino: tendrían
+      translations:
+        english: ''
+        spanish: ''
+
+  imperativo:
+    tu:
+      ladino: ten
+      translations:
+        english: ''
+        spanish: ''
+
+    vozotros:
+      ladino: tened
+      translations:
+        english: ''
+        spanish: ''
 
 
 
