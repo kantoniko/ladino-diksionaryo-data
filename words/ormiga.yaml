@@ -7,6 +7,9 @@ kategorias:
 versions:
   - ladino: ormiga
 
+    alternative-spelling:
+      - ladino: formiga
+
     gender: feminine
     number: singular
 
