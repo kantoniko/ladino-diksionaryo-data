@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Romania
+    accented: Romanía
+
+    alternative-spelling:
+      - ladino: Rumania
+
+    translations:
+      english: Romania
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Rumania
+      turkish: ''
+
+examples: []
