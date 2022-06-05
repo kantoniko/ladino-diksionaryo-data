@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kanada
+
+    translations:
+      english: Canada
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Canadá
+      turkish: ''
+
+examples: []
