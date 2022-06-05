@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Brazil
+
+    translations:
+      english: Brazil
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Brasil
+      turkish: ''
+
+examples: []
