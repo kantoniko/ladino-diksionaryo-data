@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Rusia
+    accented: Rusía
+
+    translations:
+      english: Russia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Rusia
+      turkish: ''
+
+examples: []
