@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Chile
+
+    translations:
+      english: Chile
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Chile
+      turkish: ''
+
+examples: []

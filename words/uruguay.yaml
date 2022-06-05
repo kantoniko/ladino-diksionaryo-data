@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Uruguay
+
+    translations:
+      english: Uruguay
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Uruguay
+      turkish: ''
+
+examples: []
