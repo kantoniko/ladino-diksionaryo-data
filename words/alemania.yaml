@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Alemania
+
+    translations:
+      english: Germany
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Alemania
+      turkish: ''
+
+examples: []

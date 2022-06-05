@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Austria
+
+    translations:
+      english: Austria
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Austria
+      turkish: ''
+
+examples: []
