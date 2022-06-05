@@ -1,0 +1,59 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: inkorrekto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: incorrect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: incorrecto
+      turkish: ''
+
+  - ladino: inkorrekta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: incorrect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: incorrecta
+      turkish: ''
+
+  - ladino: inkorrektos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: incorrect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: incorrectos
+      turkish: ''
+
+  - ladino: inkorrektas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: incorrect
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: incorrectas
+      turkish: ''
+
+
+examples: []
+
