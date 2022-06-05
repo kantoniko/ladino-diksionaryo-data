@@ -13,7 +13,9 @@ versions:
         english: downhill (to go)
         french: descente
         portuguese: descida
-        spanish: cuesta abajo (ir)
+        spanish:
+          - cuesta abajo (ir)
+          - catarro
         turkish: iniş
 
   - ladino: abashada
