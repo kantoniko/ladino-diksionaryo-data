@@ -18,3 +18,6 @@ The `course` directory is a copy of the LibreLingo Ladino course.
 The content needs to be integrated into the `words` and then this directory can be deleted.
 
 
+## License
+
+[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
