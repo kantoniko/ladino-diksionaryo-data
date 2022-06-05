@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Gresia
+
+    translations:
+      english: Greece
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Grecia
+      turkish: ''
+
+examples: []
