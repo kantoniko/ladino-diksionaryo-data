@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Estados Unidos
+
+    translations:
+      english: United States
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Estados Unidos
+      turkish: ''
+
+examples: []
