@@ -2,6 +2,7 @@ grammar: noun
 origen: Ladinokomunita
 kategorias:
   - kontinentes
+  - paises
 
 versions:
   - ladino: Australia
