@@ -4,17 +4,14 @@ kategorias:
   - paises
 
 versions:
-  - ladino: Brazil
-
-    alternative-spelling:
-      - ladino: Brezil
+  - ladino: Indonezia
 
     translations:
-      english: Brazil
+      english: Indonesia
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Brasil
+      spanish: Indonesia
       turkish: ''
 
 examples: []

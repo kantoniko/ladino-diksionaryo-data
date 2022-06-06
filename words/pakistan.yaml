@@ -4,17 +4,15 @@ kategorias:
   - paises
 
 versions:
-  - ladino: Brazil
-
-    alternative-spelling:
-      - ladino: Brezil
+  - ladino: Pakistan
+    accented: Pakistán
 
     translations:
-      english: Brazil
+      english: Pakistan
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Brasil
+      spanish: Pakistán
       turkish: ''
 
 examples: []

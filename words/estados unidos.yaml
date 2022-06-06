@@ -4,7 +4,13 @@ kategorias:
   - paises
 
 versions:
-  - ladino: Estados Unidos
+  - ladino: Estados Unidos de Amerika
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: Estados Unidos
 
     translations:
       english: United States
