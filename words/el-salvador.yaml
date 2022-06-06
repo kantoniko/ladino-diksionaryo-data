@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: El Salvador
+
+    translations:
+      english: El Salvador
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: El Salvador
+      turkish: ''
+
+examples: []

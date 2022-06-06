@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kina
+
+    translations:
+      english: Libya
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Libia
+      turkish: ''
+
+examples: []

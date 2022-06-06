@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Singapur
+
+    translations:
+      english: Singapore
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Singapur
+      turkish: ''
+
+examples: []

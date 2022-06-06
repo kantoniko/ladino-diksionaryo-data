@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Repúblika Sentro-Afrikana
+
+
+    translations:
+      english: Central African Republic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: República Centroafricana
+      turkish: ''
+
+examples: []

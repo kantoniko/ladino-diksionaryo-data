@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Sierra Leone
+
+    translations:
+      english: Sierra Leone
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Sierra Leona
+      turkish: ''
+
+examples: []

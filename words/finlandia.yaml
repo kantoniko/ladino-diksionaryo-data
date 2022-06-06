@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Finlandia
+
+    translations:
+      english: Finland
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Finlandia
+      turkish: ''
+
+examples: []

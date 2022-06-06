@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Laos
+
+    translations:
+      english: Laos
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Laos
+      turkish: ''
+
+examples: []

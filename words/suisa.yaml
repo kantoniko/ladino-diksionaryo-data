@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Suisa
+
+    alternative-spelling:
+      - ladino: Esvichera
+
+    translations:
+      english: Switzerland
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Suiza
+      turkish: ''
+
+examples: []

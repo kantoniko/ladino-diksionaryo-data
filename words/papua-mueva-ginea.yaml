@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Papua-Mueva-Ginea
+
+    translations:
+      english: Papua New Guinea
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Papúa Nueva Guinea
+      turkish: ''
+
+examples: []

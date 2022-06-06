@@ -1,0 +1,19 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Turkmenistan
+    accented: Turkmenistán
+
+
+    translations:
+      english: Turkmenistan
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Turkmenistán
+      turkish: ''
+
+examples: []

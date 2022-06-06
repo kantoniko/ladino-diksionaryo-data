@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: "'Hong-Kong"
+
+    translations:
+      english: Hong Kong
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Hong Kong
+      turkish: ''
+
+examples: []

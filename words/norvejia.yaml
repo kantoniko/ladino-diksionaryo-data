@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Norvejia
+
+    translations:
+      english: Norway
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Noruega
+      turkish: ''
+
+examples: []

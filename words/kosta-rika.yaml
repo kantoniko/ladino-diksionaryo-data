@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kosta Rika
+
+    translations:
+      english: Costa Rica
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Costa Rica
+      turkish: ''
+
+examples: []

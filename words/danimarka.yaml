@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Danimarka
+
+    translations:
+      english: Denmark
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Dinamarca
+      turkish: ''
+
+examples: []

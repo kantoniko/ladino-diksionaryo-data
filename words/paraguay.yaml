@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Paraguay
+
+    translations:
+      english: Paraguay
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Paraguay
+      turkish: ''
+
+examples: []

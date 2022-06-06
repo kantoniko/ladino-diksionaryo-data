@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Liban
+    accented: Libán
+
+    translations:
+      english: Lebanon
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Líbano
+      turkish: ''
+
+examples: []

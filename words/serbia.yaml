@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Serbia
+
+    translations:
+      english: Serbia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Serbia
+      turkish: ''
+
+examples: []

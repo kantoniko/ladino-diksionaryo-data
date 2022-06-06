@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kongo-Brazzaville
+
+    translations:
+      english:
+        - Republic of the Congo
+        - Congo-Brazzaville
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - República del Congo
+        - Congo-Brazzaville
+      turkish: ''
+
+examples: []

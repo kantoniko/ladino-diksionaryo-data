@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Nikaragua
+
+    translations:
+      english: Nicaragua
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Nicaragua
+      turkish: ''
+
+examples: []

@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Tadjikistan
+    accented: Tadjikistán
+
+    translations:
+      english: Tajikistan
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Tayikistán
+      turkish: ''
+
+examples: []
