@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Eritrea
+
+    translations:
+      english: Eritrea
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Eritrea
+      turkish: ''
+
+examples: []

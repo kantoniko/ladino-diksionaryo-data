@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Mongolia
+
+    translations:
+      english: Mongolia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Mongolia
+      turkish: ''
+
+examples: []

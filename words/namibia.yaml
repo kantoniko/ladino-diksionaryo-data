@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Namibia
+
+    translations:
+      english: Namibia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Namibia
+      turkish: ''
+
+examples: []

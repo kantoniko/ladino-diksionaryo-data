@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Moldavia
+
+    alternative-spelling:
+      - ladino: Moldova
+        accented: Móldova
+
+    translations:
+      english: Moldova
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Moldavia
+      turkish: ''
+
+examples: []

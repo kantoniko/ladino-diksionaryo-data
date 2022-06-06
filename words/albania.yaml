@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Albania
+
+    alternative-spelling:
+      - ladino: Arnautluk
+
+    translations:
+      english: Albania
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Albania
+      turkish: ''
+
+examples: []

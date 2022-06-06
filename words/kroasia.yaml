@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kroasia
+
+    translations:
+      english: Croatia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Croacia
+      turkish: ''
+
+examples: []

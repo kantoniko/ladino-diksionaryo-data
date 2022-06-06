@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Mueva Zelanda
+
+    translations:
+      english: New Zealand
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Nueva Zelanda
+      turkish: ''
+
+examples: []

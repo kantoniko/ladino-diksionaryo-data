@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kuveyt
+
+    alternative-spelling:
+      - ladino: Kuwait
+
+    translations:
+      english: Kuwait
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Kuwait
+      turkish: ''
+
+examples: []

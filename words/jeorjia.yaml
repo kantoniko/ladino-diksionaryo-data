@@ -1,0 +1,22 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Jeorjia
+
+    alternative-spelling:
+      - ladino: Gurdjistan
+        accented: Gurdjistán
+      - ladino: Gurdjia
+
+    translations:
+      english: Georgia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Georgia
+      turkish: ''
+
+examples: []

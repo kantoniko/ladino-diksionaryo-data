@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Katar
+
+    translations:
+      english: Qatar
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Catar
+      turkish: ''
+
+examples: []

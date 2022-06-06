@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Oman
+    accented: Omán
+
+    translations:
+      english: Oman
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Omán
+      turkish: ''
+
+examples: []

@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: "Bosna i 'Hersegovina"
+
+    translations:
+      english: Bosnia and Herzegovina
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Bosnia y Herzegovina
+      turkish: ''
+
+examples: []

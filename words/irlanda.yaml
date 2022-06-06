@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Irlanda
+
+    translations:
+      english: Ireland
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Irlanda
+      turkish: ''
+
+examples: []

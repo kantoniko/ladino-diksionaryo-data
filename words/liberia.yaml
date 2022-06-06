@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Liberia
+
+    translations:
+      english: Liberia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Liberia
+      turkish: ''
+
+examples: []

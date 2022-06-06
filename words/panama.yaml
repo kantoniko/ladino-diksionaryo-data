@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Panama
+    accented: Pánama
+
+    translations:
+      english: Panama
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Panamá
+      turkish: ''
+
+examples: []

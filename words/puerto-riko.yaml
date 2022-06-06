@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Puerto Riko
+
+    translations:
+      english: Puerto Rico
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Puerto Rico
+      turkish: ''
+
+examples: []

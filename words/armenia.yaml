@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Armenia
+    accented: Armenía
+
+    translations:
+      english: Armenia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Armenia
+      turkish: ''
+
+examples: []

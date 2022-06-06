@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Litvania
+
+    translations:
+      english: Lithuania
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Lituania
+      turkish: ''
+
+examples: []

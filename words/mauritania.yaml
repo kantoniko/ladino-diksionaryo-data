@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Mauritania
+
+    translations:
+      english: Mauritania
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Mauritania
+      turkish: ''
+
+examples: []
