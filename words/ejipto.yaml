@@ -1,20 +1,22 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Alemania
+  - ladino: Ejipto
 
     alternative-spelling:
-      - ladino: Almania
+      - ladino: Ayifto
+      - ladino: Misrayim
+        accented: Misráyim
 
     translations:
-      english: Germany
+      english: Egypt
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Alemania
+      spanish: Egipto
       turkish: ''
 
 examples: []

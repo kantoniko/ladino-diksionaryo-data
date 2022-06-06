@@ -1,20 +1,21 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Italya
+  - ladino: Japon
+    accented: Japón
 
     alternative-spelling:
-      - ladino: Italia
+      - ladino: Japonya
 
     translations:
-      english: Italy
+      english: Japan
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: ''
-      turkish: İtalya
+      spanish: Japón
+      turkish: ''
 
 examples: []

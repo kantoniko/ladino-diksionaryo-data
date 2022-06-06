@@ -1,20 +1,21 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Italya
+  - ladino: Iran
+    accented: Irán
 
     alternative-spelling:
-      - ladino: Italia
+      - ladino: Persia
 
     translations:
-      english: Italy
+      english: Iran
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: ''
-      turkish: İtalya
+      spanish: Irán
+      turkish: ''
 
 examples: []

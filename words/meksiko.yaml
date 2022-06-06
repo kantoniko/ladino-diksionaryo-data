@@ -5,13 +5,14 @@ kategorias:
 
 versions:
   - ladino: Meksiko
+    accented: Méksiko
 
     translations:
       english: Mexico
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: ''
+      spanish: Méksiko
       turkish: Meksika
 
 examples: []

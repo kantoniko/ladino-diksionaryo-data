@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Alemania
-
-    alternative-spelling:
-      - ladino: Almania
+  - ladino: Kongo
 
     translations:
-      english: Germany
+      english: Kongo
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Alemania
+      spanish: Kongo
       turkish: ''
 
 examples: []

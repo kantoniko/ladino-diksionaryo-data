@@ -1,20 +1,20 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Italya
+  - ladino: Etiopia
 
     alternative-spelling:
-      - ladino: Italia
+      - ladino: Avisenia
 
     translations:
-      english: Italy
+      english: Ethiopia
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: ''
-      turkish: İtalya
+      spanish: Etiopía
+      turkish: ''
 
 examples: []

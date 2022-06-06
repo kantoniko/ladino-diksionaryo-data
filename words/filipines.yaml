@@ -1,20 +1,20 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Alemania
+  - ladino: Filipines
 
-    alternative-spelling:
-      - ladino: Almania
+    gender: masculine
+    number: plural
 
     translations:
-      english: Germany
+      english: Philippines
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Alemania
+      spanish: Filipinas
       turkish: ''
 
 examples: []
