@@ -6,6 +6,9 @@ kategorias:
 versions:
   - ladino: Polonya
 
+    alternative-spelling:
+      - ladino: Polonia
+
     translations:
       english: Poland
       french: ''

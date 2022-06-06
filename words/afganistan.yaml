@@ -1,18 +1,18 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Kanada
-    accented: Kánada
+  - ladino: Afganistan
+    accented: Afganistán
 
     translations:
-      english: Canada
+      english: Afghanistan
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Canadá
+      spanish: Afganistán
       turkish: ''
 
 examples: []

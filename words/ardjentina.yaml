@@ -6,6 +6,9 @@ kategorias:
 versions:
   - ladino: Ardjentina
 
+    alternative-spelling:
+      - ladino: Arjentina
+
     translations:
       english: Argentina
       french: ''
