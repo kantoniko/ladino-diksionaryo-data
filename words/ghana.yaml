@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Chile
-
-    alternative-spelling:
-      - ladino: Shili
+  - ladino: Gana
 
     translations:
-      english: Chile
+      english: Ghana
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Chile
+      spanish: Ghana
       turkish: ''
 
 examples: []

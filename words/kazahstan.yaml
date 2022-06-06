@@ -1,20 +1,18 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Chile
-
-    alternative-spelling:
-      - ladino: Shili
+  - ladino: Kazahstan
+    accented: Kazahstán
 
     translations:
-      english: Chile
+      english: Kazakhstan
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Chile
+      spanish: Kazajistán
       turkish: ''
 
 examples: []

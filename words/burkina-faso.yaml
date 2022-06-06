@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Chile
-
-    alternative-spelling:
-      - ladino: Shili
+  - ladino: Burkina Faso
 
     translations:
-      english: Chile
+      english: Burkina Faso
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Chile
+      spanish: Burkina Faso
       turkish: ''
 
 examples: []

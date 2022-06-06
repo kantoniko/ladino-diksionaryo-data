@@ -1,20 +1,18 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Chile
-
-    alternative-spelling:
-      - ladino: Shili
+  - ladino: Kamerun
+    accented: Kamerún
 
     translations:
-      english: Chile
+      english: Cameroon
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Chile
+      spanish: Camerún
       turkish: ''
 
 examples: []

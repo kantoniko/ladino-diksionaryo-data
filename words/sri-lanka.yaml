@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Chile
-
-    alternative-spelling:
-      - ladino: Shili
+  - ladino: Sri Lanka
 
     translations:
-      english: Chile
+      english: Sri Lanka
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Chile
+      spanish: Sri Lanka
       turkish: ''
 
 examples: []
