@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
-
-    alternative-spelling:
-      - ladino: Grecha
+  - ladino: Emirates Arabos Unidos
 
     translations:
-      english: Greece
+      english: United Arab Emirates
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: Emiratos Árabes Unidos
       turkish: ''
 
 examples: []

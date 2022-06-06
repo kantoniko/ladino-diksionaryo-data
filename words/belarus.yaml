@@ -1,20 +1,20 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
+  - ladino: Belarús
 
     alternative-spelling:
-      - ladino: Grecha
+      - ladino: Rusía Blanka
 
     translations:
-      english: Greece
+      english: Belarus
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: Bielorrusia
       turkish: ''
 
 examples: []

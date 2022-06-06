@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
-
-    alternative-spelling:
-      - ladino: Grecha
+  - ladino: Somalia
 
     translations:
-      english: Greece
+      english: Somalia
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: Somalia
       turkish: ''
 
 examples: []

@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
-
-    alternative-spelling:
-      - ladino: Grecha
+  - ladino: Repúblika Dominikana
 
     translations:
-      english: Greece
+      english: Dominican Republic
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: República Dominicana
       turkish: ''
 
 examples: []

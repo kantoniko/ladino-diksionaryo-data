@@ -1,20 +1,18 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
-
-    alternative-spelling:
-      - ladino: Grecha
+  - ladino: "'Haiti"
+    accented: "'Haíti"
 
     translations:
-      english: Greece
+      english: Haiti
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: Haití
       turkish: ''
 
 examples: []

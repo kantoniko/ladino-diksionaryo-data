@@ -1,20 +1,17 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
-
-    alternative-spelling:
-      - ladino: Grecha
+  - ladino: Burundi
 
     translations:
-      english: Greece
+      english: Burundi
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: Burundi
       turkish: ''
 
 examples: []

@@ -1,20 +1,22 @@
 grammar: NA
-origen: Ladinokomunita
+origen: Ladinadores
 kategorias:
   - paises
 
 versions:
-  - ladino: Gresia
+  - ladino: Beljika
+    accented: Béljika
 
     alternative-spelling:
-      - ladino: Grecha
+      - ladino: Belchika
+        accented: Bélchika
 
     translations:
-      english: Greece
+      english: Belgium
       french: ''
       hebrew: ''
       portuguese: ''
-      spanish: Grecia
+      spanish: Bélgica
       turkish: ''
 
 examples: []
