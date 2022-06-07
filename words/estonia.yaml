@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Estonia
+
+    translations:
+      english: Estonia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Estonia
+      turkish: ''
+
+examples: []

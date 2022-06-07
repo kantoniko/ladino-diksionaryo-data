@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Masedonia
+
+    translations:
+      english: North Macedonia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Macedonia del Norte
+      turkish: ''
+
+examples: []

@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Slovenia
+
+    translations:
+      english: Slovenia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Eslovenia
+      turkish: ''
+
+examples: []

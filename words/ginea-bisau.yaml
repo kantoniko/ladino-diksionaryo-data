@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Ginea-Bisau
+
+    translations:
+      english: Guinea-Bissau
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Guinea-Bisáu
+      turkish: ''
+
+examples: []

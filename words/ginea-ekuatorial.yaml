@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Ginea Ekuatorial
+
+    translations:
+      english: Equatorial Guinea
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Guinea Ecuatorial
+      turkish: ''
+
+examples: []

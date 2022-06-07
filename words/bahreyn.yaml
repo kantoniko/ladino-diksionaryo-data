@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Bahreyn
+
+    translations:
+      english: Bahrain
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Baréin
+      turkish: ''
+
+examples: []

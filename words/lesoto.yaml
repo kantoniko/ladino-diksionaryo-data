@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Lesoto
+
+    translations:
+      english: Lesotho
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Lesoto
+      turkish: ''
+
+examples: []

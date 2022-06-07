@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Botswana
+
+    translations:
+      english: Botswana
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Botsuana
+      turkish: ''
+
+examples: []

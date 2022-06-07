@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Gabon
+    accented: Gabón
+
+    translations:
+      english: Gabon
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Gabón
+      turkish: ''
+
+examples: []

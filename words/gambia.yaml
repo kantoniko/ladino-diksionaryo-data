@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Gambia
+
+    translations:
+      english: Gambia
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Gambia
+      turkish: ''
+
+examples: []

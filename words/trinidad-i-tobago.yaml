@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Trinidad i Tobago
+
+    translations:
+      english: Trinidad and Tobago
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Trinidad y Tobago
+      turkish: ''
+
+examples: []

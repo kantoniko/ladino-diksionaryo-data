@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Maurisius
+
+    translations:
+      english: Mauritius
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Mauricio
+      turkish: ''
+
+examples: []

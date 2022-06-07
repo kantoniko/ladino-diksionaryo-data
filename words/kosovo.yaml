@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kosovo
+    accented: Kósovo
+
+    translations:
+      english: Kosovo
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Kosovo
+      turkish: ''
+
+examples: []

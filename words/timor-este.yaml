@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Timor Este
+
+    translations:
+      english: East Timor
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Timor Oriental
+      turkish: ''
+
+examples: []
