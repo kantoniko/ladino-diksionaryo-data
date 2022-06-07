@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kamaretas
+
+versions:
+  - ladino: kabine
+    accented: kabiné
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: toilets
+      french: ''
+      hebrew: שירותים
+      portuguese: ''
+      spanish: inodoro
+      turkish: ''
+
+examples: []

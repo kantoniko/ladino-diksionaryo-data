@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kamaretas
+
+versions:
+  - ladino: kamareta de echar
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: bedroom
+      french: ''
+      hebrew: חדר שינה
+      portuguese: ''
+      spanish: dormitorio
+      turkish: ''
+
+examples:
+  - ladino: La kamareata de echar es el lugar ande mos durmimos.

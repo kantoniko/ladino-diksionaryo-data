@@ -1,6 +1,9 @@
 grammar: NA
 id: '612'
 origen: Jeneral
+kategorias:
+  - kamaretas
+  - kaza
 
 versions:
   - ladino: koridor

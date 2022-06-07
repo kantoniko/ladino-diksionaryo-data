@@ -1,0 +1,23 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kamaretas
+
+versions:
+  - ladino: salamanje
+    accented: salamanjé
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: dining room
+      french: ''
+      hebrew: חדר אוכל
+      portuguese: ''
+      spanish: comedor
+      turkish: ''
+
+examples:
+  - ladino: la salamanje es la kamareta and komemos las komidas.
+

@@ -1,6 +1,8 @@
 grammar: NA
 id: '204,1672'
 origen: Jeneral
+kategorias:
+  - kamaretas
 
 versions:
   - ladino: buro
@@ -14,6 +16,9 @@ versions:
           - office
           - study
         french: ''
+        hebrew:
+          - משרד
+          - חדר עבודה
         portuguese: ''
         spanish:
           - oficina

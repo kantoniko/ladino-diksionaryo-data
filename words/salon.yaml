@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinadores
+kategorias:
+  - kamaretas
+
+versions:
+  - ladino: salon
+    accented: salón
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: living room
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: salón
+      turkish: ''
+
+examples: []
