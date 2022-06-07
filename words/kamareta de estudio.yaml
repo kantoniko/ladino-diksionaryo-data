@@ -1,6 +1,8 @@
 grammar: NA
 id: '1878'
 origen: Jeneral
+kategorias:
+  - kamaretas
 
 versions:
   - ladino: kamareta de estudio

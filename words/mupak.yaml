@@ -1,0 +1,21 @@
+grammar: noun
+origen: Ladinokomunita
+kategorias:
+  - kamaretas
+
+versions:
+  - ladino: mupak
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: kitchen
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: cocina
+      turkish: ''
+
+examples:
+  - ladino: El mupak i la kozina son los nombres de las kamaretas ande gizan la komida.
