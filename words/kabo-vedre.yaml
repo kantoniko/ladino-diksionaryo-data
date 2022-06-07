@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kabo Vedre
+
+    translations:
+      english: Cape Verde
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Cabo Verde
+      turkish: ''
+
+examples: []

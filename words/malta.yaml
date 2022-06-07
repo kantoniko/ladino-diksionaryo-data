@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Malta
+
+    translations:
+      english: Malta
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Malta
+      turkish: ''
+
+examples: []

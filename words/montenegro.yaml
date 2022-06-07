@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Montenegro
+
+    translations:
+      english: Montenegro
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Montenegro
+      turkish: ''
+
+examples: []

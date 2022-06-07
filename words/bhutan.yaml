@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Bhutan
+    accented: Bhután
+
+    translations:
+      english: Bhutan
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Bután
+      turkish: ''
+
+examples: []

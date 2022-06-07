@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Luksemburg
+
+    translations:
+      english: Luxembourg
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Luxemburgo
+      turkish: ''
+
+examples: []

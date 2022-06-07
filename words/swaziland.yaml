@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Swaziland
+
+    translations:
+      english: Eswatini
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Suazilandia
+      turkish: ''
+
+examples: []

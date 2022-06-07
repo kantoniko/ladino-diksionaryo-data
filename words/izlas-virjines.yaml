@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Izlas Virjines
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: Virgin Islands
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Islas Vírgenes
+      turkish: ''
+
+examples: []

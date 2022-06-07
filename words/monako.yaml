@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Monako
+
+    translations:
+      english: Monaco
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Mónaco
+      turkish: ''
+
+examples: []

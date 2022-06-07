@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Andora
+
+    translations:
+      english: Andorra
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Andorra
+      turkish: ''
+
+examples: []

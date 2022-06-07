@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Sahara Oksidental
+
+    translations:
+      english: Sahrawi Arab Democratic Republic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: República Árabe Saharaui Democrática
+      turkish: ''
+
+examples: []

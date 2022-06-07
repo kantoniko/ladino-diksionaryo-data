@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Guyana
+
+    translations:
+      english: Guyana
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Guyana
+      turkish: ''
+
+examples: []

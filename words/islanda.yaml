@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Islanda
+
+    translations:
+      english: Iceland
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Islandia
+      turkish: ''
+
+examples: []

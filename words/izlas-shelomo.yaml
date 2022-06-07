@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Izlas Shelomo
+    accented: Izlas Shelomó
+
+    translations:
+      english: Solomon Islands
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Islas Salomón
+      turkish: ''
+
+examples: []

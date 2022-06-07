@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Lihtenshtayn
+
+    translations:
+      english: Liechtenstein
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Liechtenstein
+      turkish: ''
+
+examples: []

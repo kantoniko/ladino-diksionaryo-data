@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Makau
+
+    translations:
+      english: Macau
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Macao
+      turkish: ''
+
+examples: []

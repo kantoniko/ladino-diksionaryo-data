@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Komoros
+
+    translations:
+      english: Comoros
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Comoras
+      turkish: ''
+
+examples: []

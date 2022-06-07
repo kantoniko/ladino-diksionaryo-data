@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Fiji
+
+    alternative-spelling:
+      - ladino: Fidji
+
+    translations:
+      english: Fiji
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Fiyi
+      turkish: ''
+
+examples: []

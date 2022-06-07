@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: San Marino
+
+    translations:
+      english: San Marino
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: San Marino
+      turkish: ''
+
+examples: []

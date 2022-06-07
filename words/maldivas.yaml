@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Maldivas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: Maldives
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Maldivas
+      turkish: ''
+
+examples: []

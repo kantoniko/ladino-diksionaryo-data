@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: "Ba'hamas"
+
+    translations:
+      english: The Bahamas
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Bahamas
+      turkish: ''
+
+examples: []

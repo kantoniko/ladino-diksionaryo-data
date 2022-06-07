@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Djibuti
+
+    translations:
+      english: Djibouti
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Yibuti
+      turkish: ''
+
+examples: []

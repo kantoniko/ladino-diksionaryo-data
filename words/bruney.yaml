@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Bruney
+
+    translations:
+      english: Brunei
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Brunéi
+      turkish: ''
+
+examples: []

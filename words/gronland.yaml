@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Gronland
+
+    alternative-spelling:
+      - ladino: Grönland
+
+    translations:
+      english: Greenland
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Groenlandia
+      turkish: ''
+
+examples: []

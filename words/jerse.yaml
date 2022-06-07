@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Jerse
+    accented: Jersé
+
+    translations:
+      english: Jersey
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Jersey
+      turkish: ''
+
+examples: []

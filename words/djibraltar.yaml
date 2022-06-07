@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Djibraltar
+
+    translations:
+      english: Gibraltar
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Gibraltar
+      turkish: ''
+
+examples: []

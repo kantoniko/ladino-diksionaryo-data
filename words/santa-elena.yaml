@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Santa Elena
+
+    translations:
+      english: Saint Helena
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Isla Santa Elena
+      turkish: ''
+
+examples: []

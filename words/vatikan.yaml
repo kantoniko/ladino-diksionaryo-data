@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Vatikán
+
+    translations:
+      english: Vatican City
+      french: Vatican
+      hebrew: קריית הוותיקן
+      portuguese: Vaticano
+      spanish: Ciudad del Vaticano
+      turkish: Vatikan
+
+examples: []

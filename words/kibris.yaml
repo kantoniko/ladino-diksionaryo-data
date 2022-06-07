@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kibris
+
+    alternative-spelling:
+      - ladino: Kipros
+
+    translations:
+      english: Cyprus
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Chipre
+      turkish: ''
+
+examples: []

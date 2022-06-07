@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Beliz
+
+    translations:
+      english: Belize
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Belice
+      turkish: ''
+
+examples: []

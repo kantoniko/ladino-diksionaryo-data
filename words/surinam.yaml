@@ -1,0 +1,17 @@
+grammar: NA
+origen: Ladinadores
+kategorias:
+  - paises
+
+versions:
+  - ladino: Surinam
+
+    translations:
+      english: Suriname
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: Surinam
+      turkish: ''
+
+examples: []
