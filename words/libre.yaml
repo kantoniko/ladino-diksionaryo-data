@@ -15,4 +15,14 @@ versions:
         spanish: libre
         turkish: serbest
 
+  - ladino: libres
+
+    translations:
+        english: free
+        french: ''
+        portuguese: ''
+        spanish: libres
+        turkish: ''
+
+
 examples: []
