@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: universal
-        french: ''
+        french: universel
         portuguese: ''
         spanish: universal
         turkish: evrensel
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: universal
-        french: ''
+        french: universelle
         portuguese: ''
         spanish: universala
         turkish: evrensel
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: universal
-        french: ''
+        french: universels
         portuguese: ''
         spanish: universales
         turkish: evrensel
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: universal
-        french: ''
+        french: universelles
         portuguese: ''
         spanish: universalas
         turkish: evrensel

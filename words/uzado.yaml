@@ -12,7 +12,7 @@ versions:
         english:
           - used
           - worn
-        french: ''
+        french: usé
         portuguese: ''
         spanish: usado
         turkish:
@@ -28,7 +28,7 @@ versions:
         english:
           - used
           - worn
-        french: ''
+        french: usée
         portuguese: ''
         spanish: usada
         turkish:
@@ -44,7 +44,7 @@ versions:
         english:
           - used
           - worn
-        french: ''
+        french: usés
         portuguese: ''
         spanish: usados
         turkish:
@@ -60,7 +60,7 @@ versions:
         english:
           - used
           - worn
-        french: ''
+        french: usées
         portuguese: ''
         spanish: usadas
         turkish:

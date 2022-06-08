@@ -9,7 +9,7 @@ versions:
 
     translations:
       english: useful
-      french: ''
+      french: utile
       hebrew: שימושי
       portuguese: ''
       spanish: util
@@ -22,7 +22,7 @@ versions:
 
     translations:
       english: useful
-      french: ''
+      french: utiles
       hebrew:
        - שימושיים
        - שימושיות

@@ -13,7 +13,7 @@ versions:
         english:
         - damp
         - humid
-        french: ''
+        french: humide
         portuguese: ''
         spanish: húmedo
         turkish:
@@ -30,7 +30,7 @@ versions:
         english:
         - damp
         - humid
-        french: ''
+        french: humide
         portuguese: ''
         spanish: húmeda
         turkish:
@@ -47,7 +47,7 @@ versions:
         english:
         - damp
         - humid
-        french: ''
+        french: humides
         portuguese: ''
         spanish: húmedos
         turkish:
@@ -64,7 +64,7 @@ versions:
         english:
         - damp
         - humid
-        french: ''
+        french: humides
         portuguese: ''
         spanish: húmedas
         turkish:

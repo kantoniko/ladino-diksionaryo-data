@@ -12,7 +12,7 @@ versions:
         english:
         - urban
         - refined
-        french: ''
+        french: urbain
         portuguese: ''
         spanish: urbano
         turkish: şehirli
@@ -26,7 +26,7 @@ versions:
         english:
         - urban
         - refined
-        french: ''
+        french: urbaine
         portuguese: ''
         spanish: urbana
         turkish: şehirli
@@ -40,7 +40,7 @@ versions:
         english:
         - urban
         - refined
-        french: ''
+        french: urbains
         portuguese: ''
         spanish: urbanos
         turkish: şehirli
@@ -54,7 +54,7 @@ versions:
         english:
         - urban
         - refined
-        french: ''
+        french: urbaines
         portuguese: ''
         spanish: urbanas
         turkish: şehirli

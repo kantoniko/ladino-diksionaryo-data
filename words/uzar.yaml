@@ -9,7 +9,7 @@ versions:
     translations:
         english: to use
         french: ''
-        portuguese: ''
+        portuguese: user
         spanish: usar
         turkish: kullanmak
 
@@ -18,7 +18,7 @@ versions:
 
     translations:
         english: to use it
-        french: ''
+        french: user de
         portuguese: ''
         spanish: usarlo
         turkish: kullanmak

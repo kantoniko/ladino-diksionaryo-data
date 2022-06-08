@@ -9,7 +9,7 @@ versions:
 
     translations:
       english: human
-      french: ''
+      french: humain
       hebrew: ''
       portuguese: ''
       spanish: humano
@@ -22,7 +22,7 @@ versions:
 
     translations:
       english: human
-      french: ''
+      french: humaine
       hebrew: ''
       portuguese: ''
       spanish: humana
@@ -35,7 +35,7 @@ versions:
 
     translations:
       english: human
-      french: ''
+      french: humains
       hebrew: ''
       portuguese: ''
       spanish: humanos
@@ -48,7 +48,7 @@ versions:
 
     translations:
       english: human
-      french: ''
+      french: humaines
       hebrew: ''
       portuguese: ''
       spanish: humanas

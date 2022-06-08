@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: unique
-        french: ''
+        french: unique
         portuguese: ''
         spanish: único
         turkish: tek
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: unique
-        french: ''
+        french: unique
         portuguese: ''
         spanish: única
         turkish: tek
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: unique
-        french: ''
+        french: uniques
         portuguese: ''
         spanish: únicos
         turkish: tek
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: unique
-        french: ''
+        french: uniques
         portuguese: ''
         spanish: únicas
         turkish: tek

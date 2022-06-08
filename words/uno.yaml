@@ -14,7 +14,7 @@ versions:
         english:
           - one
           - identical
-        french: ''
+        french: un
         portuguese: ''
         spanish: uno
         turkish:
@@ -31,7 +31,7 @@ versions:
         english:
           - one
           - identical
-        french: ''
+        french: une
         portuguese: ''
         spanish: una
         turkish:
@@ -48,7 +48,7 @@ versions:
         english:
           - ones
           - identicals
-        french: ''
+        french: uns
         portuguese: ''
         spanish: unos
         turkish: biriler
@@ -62,7 +62,7 @@ versions:
         english:
           - ones
           - identicals
-        french: ''
+        french: unes
         portuguese: ''
         spanish: unas
         turkish: biriler

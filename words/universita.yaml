@@ -15,7 +15,7 @@ versions:
 
     translations:
         english: university
-        french: ''
+        french: université
         portuguese: ''
         spanish: universidad
         turkish: üniversite
@@ -32,7 +32,7 @@ versions:
 
     translations:
         english: universities
-        french: ''
+        french: universités
         portuguese: ''
         spanish: universidades
         turkish: üniversite
