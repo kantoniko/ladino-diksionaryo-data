@@ -28,5 +28,22 @@ versions:
         - hava
         - zaman
 
+  - ladino: tiempos
+    accented: tiémpos
+
+    alternative-spelling:
+      - ladino: tyempos
+        accented: tyémpos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: times
+        french: ''
+        portuguese: ''
+        spanish: tiempos
+        turkish: ''
+
 examples:
   - ladino: El tiempo no tiene ni empesijo, ni fin. (Neh.)
