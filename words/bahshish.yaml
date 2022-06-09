@@ -17,7 +17,9 @@ versions:
         english:
         - tip
         - gratuity
-        french: ''
+        french:
+          - pourboire
+          - bakchich
         portuguese: ''
         spanish: propina
         turkish: bahşiş

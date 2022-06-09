@@ -12,7 +12,7 @@ versions:
 
     translations:
       english: bathroom
-      french: ''
+      french: bain
       hebrew: חדר אמבטיה
       portuguese: ''
       spanish: baño
@@ -25,7 +25,7 @@ versions:
 
     translations:
       english: bathrooms
-      french: ''
+      french: bains
       hebrew: חדרי אמבטיה
       portuguese: ''
       spanish: baños

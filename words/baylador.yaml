@@ -14,7 +14,7 @@ versions:
         english:
         - dancer
         - ballet-dancer
-        french: ''
+        french: danseur
         portuguese: ''
         spanish: bailarín
         turkish: dansör
@@ -28,7 +28,7 @@ versions:
         english:
         - dancer
         - ballet-dancer
-        french: ''
+        french: danseuse
         portuguese: ''
         spanish: bailarina
         turkish: dansöz
@@ -42,7 +42,7 @@ versions:
         english:
         - dancers
         - ballet-dancers
-        french: ''
+        french: danseurs
         portuguese: ''
         spanish: bailarín
         turkish: dansör
@@ -56,7 +56,7 @@ versions:
         english:
         - dancers
         - ballet-dancers
-        french: ''
+        french: danseuses
         portuguese: ''
         spanish: bailarinas
         turkish: dansöz

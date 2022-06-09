@@ -12,7 +12,7 @@ versions:
         english:
         - banner
         - flag
-        french: ''
+        french: drapeau
         portuguese: ''
         spanish: bandera
         turkish:
@@ -29,7 +29,7 @@ versions:
         english:
         - banners
         - flags
-        french: ''
+        french: drapeaux
         portuguese: ''
         spanish: banderas
         turkish:

@@ -1,6 +1,8 @@
 grammar: NA
 id: '159'
 origen: Jeneral
+kategorias:
+  - kaza
 
 versions:
   - ladino: balkon
@@ -11,7 +13,7 @@ versions:
 
     translations:
         english: balcony
-        french: ''
+        french: balcon
         portuguese: ''
         spanish:
         - balcón

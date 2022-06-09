@@ -11,7 +11,7 @@ versions:
 
     translations:
       english: host
-      french: ''
+      french: propriétaire
       hebrew: ''
       portuguese: ''
       spanish: hospedador
@@ -24,7 +24,7 @@ versions:
 
     translations:
       english: host
-      french: ''
+      french: propriétaire
       hebrew: ''
       portuguese: ''
       spanish: hospedadora
@@ -38,7 +38,7 @@ versions:
 
     translations:
       english: hosts
-      french: ''
+      french: propriétaires
       hebrew: ''
       portuguese: ''
       spanish: hospedadores
@@ -51,7 +51,7 @@ versions:
 
     translations:
       english: hosts
-      french: ''
+      french: propriétaires
       hebrew: ''
       portuguese: ''
       spanish: hospedadoras

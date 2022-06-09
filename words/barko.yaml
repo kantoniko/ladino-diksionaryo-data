@@ -14,7 +14,7 @@ versions:
     translations:
         english:
         - boat (small)
-        french: ''
+        french: bateau
         portuguese: ''
         spanish: barca
         turkish: kayık
@@ -28,7 +28,7 @@ versions:
     translations:
         english:
         - boats (small)
-        french: ''
+        french: bateaux
         portuguese: ''
         spanish: barcas
         turkish: kayık

@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: dance
-        french: ''
+        french: danse
         portuguese: ''
         spanish: baile
         turkish: dans
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: dances
-        french: ''
+        french: danses
         portuguese: ''
         spanish: bailes
         turkish: dans

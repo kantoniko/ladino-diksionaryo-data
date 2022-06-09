@@ -12,7 +12,7 @@ versions:
 
     translations:
         english: banana
-        french: ''
+        french: banane
         hebrew: בננה
         portuguese: ''
         spanish: plátano
@@ -25,7 +25,7 @@ versions:
 
     translations:
         english: bananas
-        french: ''
+        french: bananes
         hebrew: בננות
         portuguese: ''
         spanish: plátanos
