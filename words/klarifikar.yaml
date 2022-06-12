@@ -1,0 +1,19 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: klarifikar
+
+    translations:
+      english: clarify
+      french: ''
+      hebrew: להבהיר
+      portuguese: ''
+      spanish:
+        - aclarar
+        - clarificar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
