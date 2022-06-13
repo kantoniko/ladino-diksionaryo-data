@@ -1,5 +1,5 @@
 examples:
-  - ladino: Ni al baylador dile bayla, ni al kantador dile kanta, si no vyene de aryento
+  - ladino: 'Ni al baylador dile bayla, ni al kantador dile kanta, si no vyene de aryento'
     bozes:
       - person: benni-aguado
         arkivo: ni-al-baylador.ogg
@@ -11,7 +11,7 @@ examples:
     bozes:
       - person: benni-aguado
         arkivo: no-avles-mal-del-dia-antes-ke-se-aga-de-noche.ogg
-  - ladino: Proverbyo sefaradi: Una ovra empesada, es komo medya eskapáda.
+  - ladino: 'Proverbyo sefaradi: Una ovra empesada, es komo medya eskapáda.'
     bozes:
       - person: benni-aguado
         arkivo: una-ovra-empesada-es-komo-medya-eskapada.ogg
