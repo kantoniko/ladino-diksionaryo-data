@@ -1,0 +1,14 @@
+grammar: NA
+origen: Jeneral
+
+versions:
+  - ladino: askerlik
+
+    translations:
+        english: military service
+        french: ''
+        portuguese: ''
+        spanish: servicio militar
+        turkish: askerlik
+
+examples: []
