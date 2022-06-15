@@ -11,7 +11,7 @@ versions:
 
     translations:
       english: musician
-      french: ''
+      french: musicien
       hebrew: ''
       portuguese: ''
       spanish: músico
@@ -24,7 +24,7 @@ versions:
 
     translations:
       english: musician
-      french: ''
+      french: musicienne
       hebrew: ''
       portuguese: ''
       spanish: música
@@ -37,7 +37,7 @@ versions:
 
     translations:
       english: musicians
-      french: ''
+      french: musiciennes
       hebrew: ''
       portuguese: ''
       spanish: músicos
@@ -50,7 +50,7 @@ versions:
 
     translations:
       english: musicians
-      french: ''
+      french: musiciens
       hebrew: ''
       portuguese: ''
       spanish: músicas

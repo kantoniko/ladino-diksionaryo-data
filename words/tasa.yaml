@@ -13,7 +13,7 @@ versions:
 
     translations:
         english: cup
-        french: ''
+        french: tasse
         portuguese: ''
         spanish: copa
         turkish:
@@ -27,7 +27,7 @@ versions:
 
     translations:
         english: cups
-        french: ''
+        french: tasses
         portuguese: ''
         spanish: copas
         turkish:

@@ -12,7 +12,7 @@ versions:
 
     translations:
         english: drum
-        french: ''
+        french: tambour
         portuguese: ''
         spanish: tambor
         turkish: davul
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: drums
-        french: ''
+        french: tambours
         portuguese: ''
         spanish: tambores
         turkish: davul

@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: text
-        french: ''
+        french: texte
         portuguese: ''
         spanish: texto
         turkish: metin
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: texts
-        french: ''
+        french: textes
         portuguese: ''
         spanish: textos
         turkish: metin

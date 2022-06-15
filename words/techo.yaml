@@ -12,7 +12,7 @@ versions:
         english:
         - roof
         - ceiling
-        french: ''
+        french: toit
         portuguese: ''
         spanish: techo
         turkish: tavan
@@ -26,7 +26,7 @@ versions:
         english:
         - roofs
         - ceilings
-        french: ''
+        french: toits
         portuguese: ''
         spanish: techos
         turkish: tavan

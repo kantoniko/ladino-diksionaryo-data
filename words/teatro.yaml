@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: theatre
-        french: ''
+        french: théâtre
         portuguese: ''
         spanish: teatro
         turkish: tiyatro
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: theaters
-        french: ''
+        french: théâtres
         portuguese: ''
         spanish: teatros
         turkish: tiyatro

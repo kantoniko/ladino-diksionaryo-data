@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: telephone
-        french: ''
+        french: téléphone
         portuguese: ''
         spanish: teléfono
         turkish: telefon
@@ -25,7 +25,7 @@ versions:
 
     translations:
         english: telephones
-        french: ''
+        french: téléphones
         portuguese: ''
         spanish: teléfonos
         turkish: telefon

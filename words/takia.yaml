@@ -12,7 +12,7 @@ versions:
 
     translations:
         english: cap
-        french: ''
+        french: calotte
         portuguese: ''
         spanish: gorro
         turkish: takke
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: caps
-        french: ''
+        french: calottes
         portuguese: ''
         spanish: gorros
         turkish: takke

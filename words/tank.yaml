@@ -7,7 +7,9 @@ versions:
 
     translations:
         english: tank
-        french: ''
+        french:
+          - tank
+          - réservoir
         portuguese: ''
         spanish: tanque
         turkish: tank

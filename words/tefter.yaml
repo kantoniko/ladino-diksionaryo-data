@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: notebook
-        french: ''
+        french: cahier
         portuguese: ''
         spanish: cuaderno
         turkish: defter
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: notebooks
-        french: ''
+        french: cahiers
         portuguese: ''
         spanish: cuadernos
         turkish: defter
