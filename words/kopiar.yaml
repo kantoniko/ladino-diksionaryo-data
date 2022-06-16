@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: kopiar
+
+    translations:
+      english: copy
+      french: ''
+      hebrew: להעתיק
+      portuguese: ''
+      spanish: copiar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
