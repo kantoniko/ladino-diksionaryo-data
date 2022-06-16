@@ -1,0 +1,18 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: apetite
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: appetite
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: apetito
+      turkish: ''
+
+examples: []

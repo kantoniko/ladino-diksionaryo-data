@@ -1,0 +1,15 @@
+grammar: adjective
+origen: NA
+
+versions:
+  - ladino: voraz
+
+    translations:
+      english: voracious
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: voraz
+      turkish: ''
+
+examples: []
