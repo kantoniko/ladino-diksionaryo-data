@@ -1,0 +1,62 @@
+grammar: adjective
+origen: NA
+
+versions:
+  - ladino: legal
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: legal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: legal
+      turkish: ''
+
+  - ladino: legala
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      english: legal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: legala
+      turkish: ''
+
+  - ladino: legales
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      english: legal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: legales
+      turkish: ''
+
+  - ladino: legalas
+
+    gender: feminine
+    number: plural
+
+
+    translations:
+      english: legal
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: legalas
+      turkish: ''
+
+
+examples: []
