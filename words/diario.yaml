@@ -1,0 +1,18 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: diario
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: diary
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: diario
+      turkish: ''
+
+examples: []

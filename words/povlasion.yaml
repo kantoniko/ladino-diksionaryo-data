@@ -1,0 +1,20 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: povlasion
+    accented: povlasión
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      english: population
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: población
+      turkish: ''
+
+examples: []
