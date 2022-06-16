@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: konsejo
 
+    gender: masculine
+    number: singular
+
     translations:
         english:
         - advice
@@ -16,6 +19,20 @@ versions:
         - tavsiye
         - nasihat
         - öğüt
+
+  - ladino: konsejos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - advices
+        - counsel
+        french: ''
+        portuguese: ''
+        spanish: consejos
+        turkish: ''
 
 examples:
   - ladino: Es kon orgolyo ke resivimos sus mesajes i konsejos.
