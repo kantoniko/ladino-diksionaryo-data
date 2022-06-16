@@ -1,0 +1,32 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: juridiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: judicial
+      french: ''
+      hebrew: משפטי
+      portuguese: ''
+      spanish: judicial
+      turkish: ''
+
+  - ladino: juridikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: judicial
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: judiciales
+      turkish: ''
+
+
+examples: []
