@@ -20,3 +20,6 @@ versions:
 
 examples:
   - ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: a-las-ocho-de-la-demanyana-la-kampana-de-la-eglisya-sona.ogg
