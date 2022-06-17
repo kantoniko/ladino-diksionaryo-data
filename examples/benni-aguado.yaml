@@ -15,4 +15,14 @@ examples:
     bozes:
       - person: benni-aguado
         arkivo: una-ovra-empesada-es-komo-medya-eskapada.ogg
+  - ladino: 'Dicho sefaradi: Si la pyedra da al vidro, guay del vidro, si el vidro da a la pyedra, guay del vidro.'
+    bozes:
+      - person: benni-aguado
+        arkivo: si-la-pyedra-da-al-vidro.ogg
+  - ladin: 'Dicho sefaradi: Al riko, i el gayo le mete huevos, al prove, ni la gayína.'
+    bozes:
+      - person: benni-aguado
+        arkivo: al-riko-i-el-gayo-le-mete-huevos.ogg
+
+
 
