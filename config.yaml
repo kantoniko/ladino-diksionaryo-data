@@ -67,6 +67,38 @@ gender:
 numero:
   - singular
   - plural
+verbos-iregolares:
+  - aver
+  - azer
+  - dar
+  - dever
+  - dizir
+  - doler
+  - entender
+  - estar
+  - fuyir
+  - goler
+  - inchir
+  - ir
+  - kaver
+  - kayer
+  - kerer
+  - konoser
+  - kozer
+  - kuzir
+  - murir
+  - oyir
+  - poder
+  - pueder
+  - ser
+  - salir
+  - saver
+  - servir
+  - sintir
+  - tener
+  - trayer
+  - ver
+  - vinir
 pajinas:
   abreviasiones.md:        abreviasiones.html
   biervos-de-la-gramer.md: gramer.html
