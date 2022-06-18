@@ -1,0 +1,23 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: regolar
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: regular
+      - ladono: regolario
+
+
+    translations:
+      english: regular
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: regular
+      turkish: ''
+
+examples: []
