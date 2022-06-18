@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: insultar
+
+    translations:
+      english: insult
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: insultar
+      turkish: ''
+
+conjugations: {}
+
+examples: []
