@@ -1,0 +1,40 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: maniya
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: mania
+        accented: manía
+
+    translations:
+      english: bracelet
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: brazalete
+      turkish: ''
+
+  - ladino: maniyas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: manias
+        accented: manías
+
+
+    translations:
+      english: bracelets
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: brazaletes
+      turkish: ''
+
+examples: []
