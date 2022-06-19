@@ -1,0 +1,32 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: banko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: bench
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: banco
+      turkish: ''
+
+  - ladino: bankos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: benches
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bancos
+      turkish: ''
+
+
+examples: []
