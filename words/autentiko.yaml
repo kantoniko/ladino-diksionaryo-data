@@ -1,0 +1,61 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: autentiko
+    accented: auténtiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: authentic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: auténtico
+      turkish: ''
+
+  - ladino: autentika
+    accented: auténtika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: authentic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: auténtica
+      turkish: ''
+
+  - ladino: autentikos
+    accented: auténtikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: authentic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: auténticos
+      turkish: ''
+
+  - ladino: autentikas
+    accented: auténtikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: authentic
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: auténticas
+      turkish: ''
+
+examples: []
