@@ -4,6 +4,9 @@ origen: Ladinokomunita
 versions:
   - ladino: bendicho
 
+    alternative-spelling:
+      - ladino: bindicho
+
     gender: masculine
     number: singular
 
@@ -16,6 +19,9 @@ versions:
       turkish: ''
 
   - ladino: bendicha
+
+    alternative-spelling:
+      - ladino: bindicha
 
     gender: feminine
     number: singular
@@ -30,6 +36,9 @@ versions:
 
   - ladino: bendichos
 
+    alternative-spelling:
+      - ladino: bindichos
+
     gender: masculine
     number: plural
 
@@ -42,6 +51,9 @@ versions:
       turkish: ''
 
   - ladino: bendichas
+
+    alternative-spelling:
+      - ladino: bindichas
 
     gender: feminine
     number: plural
