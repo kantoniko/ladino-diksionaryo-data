@@ -1,0 +1,42 @@
+grammar: adjective
+origen: Ladinadores
+
+versions:
+  - ladino: iregolar
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: irregolar
+      - ladino: irregular
+      - ladino: irreguler
+
+    translations:
+      english: irregular
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: irregular
+      turkish: ''
+
+  - ladino: iregolares
+
+    gender: masculine
+    number: pluarl
+
+    alternative-spelling:
+      - ladino: irregolares
+      - ladino: irregulares
+      - ladino: irreguleres
+
+    translations:
+      english: irregular
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: irregulares
+      turkish: ''
+
+examples:
+  - ladino: En Los Ladinadores ay afishes de los verbos reolares i tambien de los verbos iregolars.

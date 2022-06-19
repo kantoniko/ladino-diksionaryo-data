@@ -20,4 +20,21 @@ versions:
       spanish: regular
       turkish: ''
 
+  - ladino: regolares
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: regulares
+      - ladino: regolarios
+
+    translations:
+      english: regular
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: regulares
+      turkish: ''
+
 examples: []
