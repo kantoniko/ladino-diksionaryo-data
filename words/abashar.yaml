@@ -5,6 +5,7 @@ origen: Jeneral
 versions:
   - ladino: abashar
     accented: abashár
+    rashi: אבאשאר
 
     translations:
         english:
