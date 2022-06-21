@@ -28,6 +28,23 @@ versions:
         - pazar
         - çarşı
 
+  - ladino: bazares
+    accented: bazáres
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english:
+        - bazaars
+        - markets
+        french: ''
+        portuguese: ''
+        spanish:
+        - bazares
+        - mercados orientales
+        turkish: ''
+
 examples:
   - ladino: El martes, era diya de bazar en Milas.
 
