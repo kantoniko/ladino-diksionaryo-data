@@ -39,5 +39,11 @@ examples:
     bozes:
       - person: benni-aguado
         arkivo: ashugar-i-kontado-te-do-yo-mazal-i-ventura-te-de-el-dyo.ogg
-
-
+  - ladino: 'Dicho sefaradi: Una kaza sin mujer, es komo una lampa sin luz.'
+    bozes:
+      - person: benni-aguado
+        arkivo: una-kaza-sin-mujer-es-komo-una-lampa-sin-luz.ogg
+  - ladino: 'Dicho sefaradi: De tu pan no komí, de tu palavra me afalagí.'
+    bozes:
+      - person: benni-aguado
+        arkivo: de-tu-pan-no-komi-de-tu-palavra-me-afalagi.ogg
