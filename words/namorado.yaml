@@ -1,0 +1,69 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: namorado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - in love
+        - enamored
+        - enamoured
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enamorado
+      turkish: ''
+
+  - ladino: namorada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english:
+        - in love
+        - enamored
+        - enamoured
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enamorada
+      turkish: ''
+
+  - ladino: namorados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english:
+        - in love
+        - enamored
+        - enamoured
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enamorados
+      turkish: ''
+
+  - ladino: namoradas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english:
+        - in love
+        - enamored
+        - enamoured
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: enamoradas
+      turkish: ''
+
+examples: []
