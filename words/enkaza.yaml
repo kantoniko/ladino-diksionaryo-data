@@ -1,0 +1,15 @@
+grammar: adverb
+origen: Ladinokomunita
+
+versions:
+  - ladino: enkaza
+
+    translations:
+      english: at (his/her) home
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: en (su) casa
+      turkish: ''
+
+examples: []
