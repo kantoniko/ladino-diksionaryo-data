@@ -12,6 +12,7 @@ versions:
         - take down
         - get down
         - lower
+        - to download
         french:
         - descendre
         - abaisser
@@ -19,7 +20,9 @@ versions:
         - baixa
         - queda
         - download
-        spanish: bajar
+        spanish:
+        - bajar
+        - descargar
         turkish:
         - indirmek
         - inmek
@@ -28,3 +31,4 @@ conjugations: {}
 
 examples:
   - ladino: No keriyamos abashar i suvir las eskaleras.
+  - ladino: Lo podesh abashar debaldes en tres partidas.
