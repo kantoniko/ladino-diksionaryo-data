@@ -1,0 +1,18 @@
+grammar: noun
+origen: NA
+
+versions:
+  - ladino: parazit
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: parasite
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: parásito
+      turkish: ''
+
+examples: []
