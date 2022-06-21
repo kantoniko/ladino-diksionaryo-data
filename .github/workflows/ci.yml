@@ -14,13 +14,13 @@ jobs:
     - name: Checkout ladino-diksionaryo-code
       uses: actions/checkout@v2
       with:
-        repository: 'szabgab/ladino-diksionaryo-code'
+        repository: 'djudezmo-org/ladino-diksionaryo-code'
         path: .
 
     - name: Checkout ladino-diksionaryo-data
       uses: actions/checkout@v2
       with:
-        repository: 'szabgab/ladino-diksionaryo-data'
+        repository: 'djudezmo-org/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
     - name: Install dependencies
@@ -45,7 +45,7 @@ jobs:
         curl -X POST \
              -H "Authorization: token $PERSONAL_ACCESS_TOKEN" \
              -H "Accept: application/vnd.github.v3+json" \
-             https://api.github.com/repos/szabgab/ladino-diksionaryo-generated/actions/workflows/ci.yml/dispatches \
+             https://api.github.com/repos/djudezmo-org/ladino-diksionaryo-generated/actions/workflows/ci.yml/dispatches \
              -d '{"ref":"main"}' | tee out.txt
         if [ -s out.txt ]
         then
