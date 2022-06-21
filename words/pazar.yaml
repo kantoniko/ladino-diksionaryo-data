@@ -1,0 +1,18 @@
+grammar: noun
+origen: NA
+
+versions:
+  - ladino: pazar
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: market
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: mercado
+      turkish: ''
+
+examples: []
