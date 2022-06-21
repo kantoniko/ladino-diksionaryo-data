@@ -24,3 +24,6 @@ versions:
 
 examples:
   - ladino: Arvol sin solombra (persona egoista).
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: arvol-sin-solombra-persona-egoista.ogg
