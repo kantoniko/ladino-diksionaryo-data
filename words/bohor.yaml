@@ -36,4 +36,7 @@ versions:
 
 
 examples:
-  - ladino: Al bohor de kada generasion se va la yave.
+  - ladino: Al bohor de kada jenerasion se va la yave.
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: al-bohor-de-kada-jenerasion-se-va-la-yave.ogg
