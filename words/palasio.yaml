@@ -1,0 +1,21 @@
+grammar: noun
+origen: NA
+
+versions:
+  - ladino: palasio
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: palasyo
+
+    translations:
+      english: palace
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: palacio
+      turkish: ''
+
+examples: []
