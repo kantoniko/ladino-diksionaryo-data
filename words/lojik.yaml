@@ -1,0 +1,21 @@
+grammar: adjective
+origen: NA
+
+versions:
+  - ladino: lojik
+
+    alternative-spelling:
+      - ladino: lojiko
+
+    translations:
+      english: logical
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish:
+        - lógico
+        - lógica
+      turkish: ''
+
+
+examples: []
