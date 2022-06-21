@@ -1,0 +1,20 @@
+grammar: noun
+origen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: merkader
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: merchant
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: comerciante
+      turkish: ''
+
+examples: []
