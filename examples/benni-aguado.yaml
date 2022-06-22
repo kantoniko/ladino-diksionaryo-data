@@ -59,3 +59,9 @@ examples:
     bozes:
       - person: benni-aguado
         arkivo: si-tu-sos-ajo-yo-so-dyente-ke-te-majo.ogg
+  - ladino: 'Dicho sefaradi: Lo ke no azes tú kon tu mano, no lo aze ni tu ermano.'
+    english: What you do not do with your hand, not even your brother does it.
+    bozes:
+      - person: benni-aguado
+        arkivo: lo-ke-no-azes-tu-kon-tu-mano-no-lo-aze-ni-tu-ermano.ogg
+
