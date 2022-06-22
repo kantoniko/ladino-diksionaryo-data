@@ -1,0 +1,17 @@
+grammar: verb
+origen: Ladinokomunita
+
+versions:
+  - ladino: kontribuir
+
+    translations:
+      english: contribute
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: contribuir
+      turkish: ''
+
+conjugations: {}
+
+examples: []
