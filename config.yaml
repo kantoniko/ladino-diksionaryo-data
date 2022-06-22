@@ -102,6 +102,7 @@ verbos-iregolares:
   - vinir
 pajinas:
   abreviasiones.md:        abreviasiones.html
+  artikels.md:             artikels.html
   biervos-de-la-gramer.md: gramer.html
   pronombres.md:           pronombres.html
   numeros.md:              numeros.html
