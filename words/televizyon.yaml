@@ -1,0 +1,21 @@
+grammar: NA
+origen: NA
+kategorias:
+  - elektriko
+
+versions:
+  - ladino: televizyon
+    accented: televizyón
+
+    #gender: NA # masculine feminine both
+    #number: singular plural
+
+    translations:
+      english: TV
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: televisión
+      turkish: ''
+
+examples: []
