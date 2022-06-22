@@ -47,3 +47,15 @@ examples:
     bozes:
       - person: benni-aguado
         arkivo: de-tu-pan-no-komi-de-tu-palavra-me-afalagi.ogg
+  - ladino: 'Dicho sefaradi: Pan i kezo kon amor, i no gayína kon dolor.'
+    bozes:
+      - person: benni-aguado
+        arkivo: pan-i-kezo-kon-amor-i-no-gayina-kon-dolor.ogg
+  - ladino: 'Dicho sefaradi: Ken mokos manda, bávas aresive.'
+    bozes:
+      - person: benni-aguado
+        arkivo: ken-mokos-manda-bavas-aresive.ogg
+  - ladino: 'Dicho sefaradi: Si tú sos ajo, yo só dyente ke te májo.'
+    bozes:
+      - person: benni-aguado
+        arkivo: si-tu-sos-ajo-yo-so-dyente-ke-te-majo.ogg
