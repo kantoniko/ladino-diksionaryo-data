@@ -1,0 +1,19 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: eléktriko
+    accented: eléktriko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: electric
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: eléctrico
+      turkish: ''
+
+examples: []
