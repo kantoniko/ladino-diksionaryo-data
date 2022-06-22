@@ -5,11 +5,50 @@ origen: Jeneral
 versions:
   - ladino: kayente
 
+    gender: masculine
+    number: singular
+
     translations:
         english: hot
         french: ''
         portuguese: ''
         spanish: caliente
         turkish: sıcak
+
+  - ladino: kayenta
+
+    gender: feminine
+    number: singular
+
+    translations:
+        english: hot
+        french: ''
+        portuguese: ''
+        spanish: calienta
+        turkish: sıcak
+
+  - ladino: kayentes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        english: hot
+        french: ''
+        portuguese: ''
+        spanish: calientes
+        turkish: ''
+
+  - ladino: kayentas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: hot
+        french: ''
+        portuguese: ''
+        spanish: calientas
+        turkish: ''
 
 examples: []
