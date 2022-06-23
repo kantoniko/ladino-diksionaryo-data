@@ -1,0 +1,61 @@
+grammar: adjective
+origen: Ladinokomunita
+# perez
+
+versions:
+  - ladino: abonado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: subscriber
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abonado
+      turkish: ''
+
+  - ladino: abonada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: subscriber
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abonada
+      turkish: ''
+
+  - ladino: abonados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: subscriber
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abonados
+      turkish: ''
+
+  - ladino: abonadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: subscriber
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: abonadas
+      turkish: ''
+
+examples:
+  - ladino: A todos los muevos abonados, vos digo un grande bienvenidos.
+  - ladino: Oy resivi el djurnal mezmo por posta (yo se abonada).
+
