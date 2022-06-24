@@ -3,7 +3,7 @@
 The source data of the Ladino dictionary here: https://diksionaryo.szabgab.com/
 
 
-The code that generates the web site can be found in https://github.com/djudezmo-org/ladino-diksionaryo-code/
+The code that generates the web site can be found in https://github.com/kantoniko/ladino-diksionaryo-code/
 
 The words are found in the [words] subdrirectory.
 
