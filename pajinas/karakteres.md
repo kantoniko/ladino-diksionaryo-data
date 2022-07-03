@@ -9,8 +9,9 @@ karakter | ladino               | fuente
 ;        | punto i virgola      | diksionaryo de Nehama
 !        | punto de ekslamasyon | diksionaryo de Nehama
 ?        | punto de demanda     | diksyonaryo de Nehama
-/        | barra                | terminolojia del Internet de Güler Orgun
-\        | barra inversa        | terminolojia del Internet de Güler Orgun
+/        | vara                 | Aldo Sevi i Güler Orgun
+\        | vara inversa         | Aldo Sevi i Güler Orgun
 @        | en                   | terminolojia del Internet de Güler Orgun
 +        | plus                 | diksionaryo de Avner Perez
++        | mas                  | M. A. Gormez
 -        | menos                | diksionaryo de Avner Perez
