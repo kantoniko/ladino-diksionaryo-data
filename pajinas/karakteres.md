@@ -12,6 +12,13 @@ karakter | ladino               | fuente
 /        | vara                 | Aldo Sevi i Güler Orgun
 \        | vara inversa         | Aldo Sevi i Güler Orgun
 @        | en                   | terminolojia del Internet de Güler Orgun
+@        | aroba                | de la palavra "arroba" en kasteyano
+@        | aroska, abulema      |
+@        | alhondra, roskita, reshika | Matilda Koen-Sarano
+@        | roska, roskita, roskitika |
 +        | plus                 | diksionaryo de Avner Perez
 +        | mas                  | M. A. Gormez
 -        | menos                | diksionaryo de Avner Perez
+-        | virgola              |
+'        | gancho
+"        | dos ganchos
