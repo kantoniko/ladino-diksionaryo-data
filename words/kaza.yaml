@@ -13,6 +13,7 @@ versions:
           - house
           - home
         french: ''
+        hebrew: בית
         portuguese: ''
         spanish: casa
         turkish: ev
@@ -27,9 +28,11 @@ versions:
           - houses
           - homes
         french: ''
+        hebrew: בתים
         portuguese: ''
         spanish: casas
         turkish: evler
 
 
-examples: []
+examples:
+   - ladino: En el enverano moz kedamos en kaza.
