@@ -1,0 +1,33 @@
+grammar: NA
+origen: Aki Yerushalayim
+
+versions:
+  - ladino: kapitolo
+    accented: kapítolo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: chapter
+      french: ''
+      hebrew: פרק
+      portuguese: ''
+      spanish: capítulo
+      turkish: ''
+
+  - ladino: kapitolos
+    accented: kapítolos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: chapters
+      french: ''
+      hebrew: פרקים
+      portuguese: ''
+      spanish: capítulos
+      turkish: ''
+
+examples: []
