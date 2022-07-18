@@ -1,0 +1,32 @@
+grammar: NA
+origen: Aki Yerushalayim
+
+versions:
+  - ladino: testigo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: witness
+      french: ''
+      hebrew: עד
+      portuguese: ''
+      spanish: testigo
+      turkish: ''
+
+  - ladino: testigos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: witnesses
+      french: ''
+      hebrew: עדים
+      portuguese: ''
+      spanish: testigos
+      turkish: ''
+
+
+examples: []
