@@ -5,11 +5,14 @@ origen: Jeneral
 versions:
   - ladino: estoria
     accented: estória
+
     alternative-spelling:
       - ladino: istoria
         accented: istória
       - ladino: estorya
         accented: estórya
+      - ladino: istorya
+        accented: istórya
 
 
     gender: feminine

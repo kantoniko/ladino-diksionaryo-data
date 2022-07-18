@@ -5,11 +5,32 @@ origen: Jeneral
 versions:
   - ladino: memoria
 
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: memorya
+
     translations:
         english: memory
         french: ''
         portuguese: ''
         spanish: memoria
         turkish: hafıza
+
+  - ladino: memorias
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: memoryas
+
+    translations:
+        english: memories
+        french: ''
+        portuguese: ''
+        spanish: memorias
+        turkish: ''
 
 examples: []
