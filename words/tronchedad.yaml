@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: tronchedad
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: stupidity
+      french: ''
+      hebrew: טפשות
+      portuguese: ''
+      spanish: estupidez
+      turkish: ''
+
+examples: []
