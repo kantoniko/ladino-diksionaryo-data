@@ -1,0 +1,39 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: bateria
+    accented: batería
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bateriya
+
+    translations:
+      english: battery
+      french: ''
+      hebrew: סוללה
+      portuguese: ''
+      spanish: batería
+      turkish: ''
+
+  - ladino: baterias
+    accented: baterías
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bateriyas
+
+    translations:
+      english: batteries
+      french: ''
+      hebrew: סוללות
+      portuguese: ''
+      spanish: baterías
+      turkish: ''
+
+examples: []

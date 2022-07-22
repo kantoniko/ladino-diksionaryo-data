@@ -1,0 +1,51 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: likido
+    accented: líkido
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: likvido
+        accented: líkvido
+      - ladino: likuido
+
+
+    translations:
+      english: liquid
+      french: ''
+      hebrew:
+        - נוזל
+        - נוזלי
+      portuguese: ''
+      spanish: líquido
+      turkish: ''
+
+  - ladino: likida
+    accented: líkida
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: likvida
+        accented: líkvida
+      - ladino: likuida
+
+
+    translations:
+      english: liquid
+      french: ''
+      hebrew:
+        - נוזל
+        - נוזלי
+      portuguese: ''
+      spanish: líquida
+      turkish: ''
+
+
+examples: []
+
