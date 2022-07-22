@@ -1,0 +1,42 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: terroristo
+
+    alternative-spelling:
+      - ladino: terrorista
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: terrorist
+      french: ''
+      hebrew:
+        - טרוריסט
+        - מחבל
+      portuguese: ''
+      spanish: terrorista
+      turkish: ''
+
+  - ladino: terroristos
+
+    alternative-spelling:
+      - ladino: terroristas
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: terrorists
+      french: ''
+      hebrew:
+        - טרוריסטים
+        - מחבלים
+      portuguese: ''
+      spanish: terrorista
+      turkish: ''
+
+examples: []
+

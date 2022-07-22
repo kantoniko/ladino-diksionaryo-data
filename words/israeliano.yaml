@@ -1,0 +1,59 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+  - nasionalidad
+
+versions:
+  - ladino: israeliano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: Israeli
+      french: ''
+      hebrew: ישראלי
+      portuguese: ''
+      spanish: israelí
+      turkish: ''
+
+  - ladino: israeliana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: Israeli
+      french: ''
+      hebrew: ישראלי
+      portuguese: ''
+      spanish: israelí
+      turkish: ''
+
+  - ladino: israelianos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: Israelis
+      french: ''
+      hebrew: ישראלים
+      portuguese: ''
+      spanish: israelis
+      turkish: ''
+
+  - ladino: israelianas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: Israelis
+      french: ''
+      hebrew: ישראליות
+      portuguese: ''
+      spanish: israelis
+      turkish: ''
+
+examples: []

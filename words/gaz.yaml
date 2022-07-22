@@ -1,0 +1,26 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: gaz
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - gas
+        - oil
+      french: ''
+      hebrew:
+        - גז
+        - נפט
+      portuguese: ''
+      spanish:
+        - gas
+        - gasolina
+      turkish: ''
+
+# conjugations: {}
+
+examples: []
