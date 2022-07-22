@@ -11,7 +11,7 @@ versions:
 
     translations:
         english: speaker
-        french: ''
+        french: locuteur
         portuguese: ''
         spanish: hablante
         turkish: konuşan
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: speakers
-        french: ''
+        french: locuteurs
         portuguese: ''
         spanish: hablantes
         turkish: konuşan

@@ -14,7 +14,7 @@ versions:
         english:
         - plane
         - airplane
-        french: ''
+        french: avion
         portuguese: ''
         spanish: avión
         turkish: uçak
@@ -28,7 +28,7 @@ versions:
         english:
         - planes
         - airplanes
-        french: ''
+        french: aviones
         portuguese: ''
         spanish: aviónes
         turkish: uçak

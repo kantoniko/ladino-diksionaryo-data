@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: astronomical
-        french: ''
+        french: astronomique
         portuguese: ''
         spanish: astronómico
         turkish: astronomik
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: astronomical
-        french: ''
+        french: astronomique
         portuguese: ''
         spanish: astronómica
         turkish: astronomik

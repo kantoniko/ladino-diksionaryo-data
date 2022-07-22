@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: attachment
-        french: ''
+        french: attachement
         portuguese: ''
         spanish: apego
         turkish: bağlılık
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: attachments
-        french: ''
+        french: attachements
         portuguese: ''
         spanish: apegos
         turkish: bağlılık

@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: astronaut
-        french: ''
+        french: astronaute
         portuguese: ''
         spanish: astronauta
         turkish: astronot
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: astronaut
-        french: ''
+        french: astronaute
         portuguese: ''
         spanish: astronauta
         turkish: astronot
@@ -34,7 +34,7 @@ versions:
 
     translations:
         english: astronauts
-        french: ''
+        french: astronautes
         portuguese: ''
         spanish: astronautas
         turkish: asronotlar
@@ -46,7 +46,7 @@ versions:
 
     translations:
         english: astronauts
-        french: ''
+        french: astronautes
         portuguese: ''
         spanish: astronautas
         turkish: astronot

@@ -12,7 +12,7 @@ versions:
 
     translations:
       english: open
-      french: ''
+      french: ouvert
       hebrew: ''
       portuguese: ''
       spanish: abierto
@@ -28,7 +28,7 @@ versions:
 
     translations:
       english: open
-      french: ''
+      french: ouverte
       hebrew: ''
       portuguese: ''
       spanish: abierta
@@ -44,7 +44,7 @@ versions:
 
     translations:
       english: open
-      french: ''
+      french: ouverts
       hebrew: ''
       portuguese: ''
       spanish: abiertos
@@ -60,7 +60,7 @@ versions:
 
     translations:
       english: open
-      french: ''
+      french: ouvertes
       hebrew: ''
       portuguese: ''
       spanish: abiertas

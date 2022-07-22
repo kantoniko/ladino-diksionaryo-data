@@ -14,7 +14,7 @@ versions:
         - speech
         - language
         - dialect
-        french: ''
+        french: parole
         portuguese: ''
         spanish: habla
         turkish:
@@ -34,7 +34,7 @@ versions:
         - speeches
         - languages
         - dialects
-        french: ''
+        french: paroles
         portuguese: ''
         spanish: hablas
         turkish:

@@ -14,7 +14,9 @@ versions:
         english:
         - smoke
         - cure
-        french: ''
+        french:
+          - fumer
+          - enfumer
         portuguese: ''
         spanish: ahumar
         turkish:

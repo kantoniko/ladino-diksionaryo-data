@@ -10,7 +10,9 @@ versions:
         english:
         - advise
         - warn
-        french: ''
+        french:
+          - avertir
+          - prevenir
         portuguese: ''
         spanish: advertir
         turkish: ikaz etmek

@@ -16,7 +16,7 @@ versions:
         english:
         - attention
         - civility
-        french: ''
+        french: attention
         portuguese: ''
         spanish: atención
         turkish:

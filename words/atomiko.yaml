@@ -10,7 +10,7 @@ versions:
 
     translations:
         english: atomic
-        french: ''
+        french: atomique
         portuguese: ''
         spanish: atómico
         turkish: atomik
@@ -22,7 +22,7 @@ versions:
 
     translations:
         english: atomic
-        french: ''
+        french: atomique
         portuguese: ''
         spanish: atómica
         turkish: atomik

@@ -12,7 +12,7 @@ versions:
 
     translations:
         english: lawyer
-        french: ''
+        french: avocat
         portuguese: ''
         spanish: abogado
         turkish: avukat
@@ -24,7 +24,7 @@ versions:
 
     translations:
         english: lawyer
-        french: ''
+        french: avocate
         portuguese: ''
         spanish: abogada
         turkish: avukat
@@ -36,7 +36,7 @@ versions:
 
     translations:
         english: lawyers
-        french: ''
+        french: avocats
         portuguese: ''
         spanish: abogados
         turkish: avukat
@@ -48,7 +48,7 @@ versions:
 
     translations:
         english: lawyers
-        french: ''
+        french: avocates
         portuguese: ''
         spanish: abogadas
         turkish: avukat
