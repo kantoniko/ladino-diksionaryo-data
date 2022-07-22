@@ -1,0 +1,18 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: kompromiso
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: compromise
+      french: ''
+      hebrew: פשרה
+      portuguese: ''
+      spanish: compromiso
+      turkish: ''
+
+examples: []

@@ -1,0 +1,20 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: favoritismo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - favoritism
+        - nepotism
+      french: ''
+      hebrew: נפוטיזם
+      portuguese: ''
+      spanish: favoritismo
+      turkish: ''
+
+examples: []

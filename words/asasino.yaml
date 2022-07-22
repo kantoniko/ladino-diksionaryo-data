@@ -1,0 +1,66 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: asasino
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - assassin
+        - murderer
+      french: ''
+      hebrew: רוצח
+      portuguese: ''
+      spanish: asesino
+      turkish: ''
+
+  - ladino: asasina
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english:
+        - assassin
+        - murderer
+      french: ''
+      hebrew: רוצחת
+      portuguese: ''
+      spanish: asesina
+      turkish: ''
+
+  - ladino: asasinos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english:
+        - assassins
+        - murderers
+      french: ''
+      hebrew: רוצחים
+      portuguese: ''
+      spanish: asesinos
+      turkish: ''
+
+  - ladino: asasinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english:
+        - assassins
+        - murderers
+      french: ''
+      hebrew: רוצחות
+      portuguese: ''
+      spanish: asesinas
+      turkish: ''
+
+
+examples: []

@@ -1,0 +1,59 @@
+grammar: adjective
+origen: Ladinokomunita
+kategorias:
+  - nasionalidad
+
+versions:
+  - ladino: palestiniano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: palestinian
+      french: ''
+      hebrew: פלשתיני
+      portuguese: ''
+      spanish: palestino
+      turkish: ''
+
+  - ladino: palestiniana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: palestinian
+      french: ''
+      hebrew: פלשתיניה
+      portuguese: ''
+      spanish: palestina
+      turkish: ''
+
+  - ladino: palestinianos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: palestinians
+      french: ''
+      hebrew: פלשתינים
+      portuguese: ''
+      spanish: palestinos
+      turkish: ''
+
+  - ladino: palestinianas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: palestinians
+      french: ''
+      hebrew: פלשתיניות
+      portuguese: ''
+      spanish: palestinas
+      turkish: ''
+
+examples: []

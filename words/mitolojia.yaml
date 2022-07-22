@@ -1,0 +1,19 @@
+grammar: noun
+origen: Ladinokomunita
+
+versions:
+  - ladino: mitolojia
+    accented: mitolojía
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: mythology
+      french: ''
+      hebrew: מיתולוגיה
+      portuguese: ''
+      spanish: mitología
+      turkish: ''
+
+examples: []

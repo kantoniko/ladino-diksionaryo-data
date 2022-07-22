@@ -1,0 +1,31 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: refujiado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: refugee
+      french: ''
+      hebrew: פליט
+      portuguese: ''
+      spanish: refugiado
+      turkish: ''
+
+  - ladino: refujiada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: refugee
+      french: ''
+      hebrew: פליטה
+      portuguese: ''
+      spanish: refugiada
+      turkish: ''
+
+examples: []

@@ -1,0 +1,39 @@
+grammar: adjective
+origen: Ladinokomunita
+
+versions:
+  - ladino: kolonialisto
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kolonialiste
+
+    translations:
+      english: colonialist
+      french: ''
+      hebrew: קולוניאליסט
+      portuguese: ''
+      spanish: colonialista
+      turkish: ''
+
+  - ladino: kolonialista
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kolonialiste
+
+    translations:
+      english: colonialist
+      french: ''
+      hebrew: קולוניאליסטה
+      portuguese: ''
+      spanish: colonialista
+      turkish: ''
+
+
+examples: []
+
