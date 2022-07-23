@@ -1,8 +1,6 @@
 grammar: NA
 id: '1957'
 origen: Jeneral
-comments:
-  - 'grammar: adjective pronoun'
 
 versions:
   - ladino: kualkier
