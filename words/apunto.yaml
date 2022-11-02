@@ -1,0 +1,23 @@
+grammar: adverb
+origen: Ladinokomunita
+
+versions:
+  - ladino: apunto
+
+    translations:
+      english:
+        - immediately
+        - just now
+        - a moment ago
+      french: ''
+      hebrew:
+        - מייד
+        - לפני רגע
+        - בדיוק
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples:
+  - ladino: Apunto eskapi de ver el video.
+
