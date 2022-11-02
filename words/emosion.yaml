@@ -1,0 +1,25 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: emosion
+    accented: emosión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english:
+        - emotion
+        - thrill
+        - excitement
+      french: ''
+      hebrew:
+        - רגש
+        - ריגוש
+        - התרגשות
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+examples: []

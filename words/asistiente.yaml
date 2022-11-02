@@ -1,0 +1,21 @@
+grammar: NA
+origen: Ladinokomunita
+
+versions:
+  - ladino: asistiente
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: assistant
+      french: ''
+      hebrew:
+        - עוזר
+        - אסיסטנט
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
+examples: []
