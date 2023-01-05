@@ -112,6 +112,7 @@ pajinas:
   estar.md:                estar.html
   sivdades.md:             sivdades.html
   nombres.md:              nombres.html
+  presentasion.md:         presentasion.html
 listas:
   sezones:
     - primavera
