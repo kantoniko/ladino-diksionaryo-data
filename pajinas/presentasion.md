@@ -53,10 +53,10 @@ En la pajina de [echar lashon](https://kantoniko.com/echar-lashon) puedes ver el
 
 
 
-TODO: Echar lashon update the dates
-TODO: Update the WhatsApp list
-TODO: From word page to WhatsApp page that uses that word
-TODO: From word to Una fraza
-TODO: About page with link to source code and a list of contributors a translation of https://kantoniko.com/en/about
-TODO: Update the About page with all the contributors.
-TODO: stop sorting on the dictionary page!??
+* TODO: Update the WhatsApp list
+* TODO: From word page to WhatsApp page that uses that word
+* TODO: From word to Una fraza
+* TODO: About page with link to source code and a list of contributors a translation of https://kantoniko.com/en/about
+* TODO: Update the About page with all the contributors.
+* TODO: stop sorting on the dictionary page!??
+* TODO: Echar lashon show in local timezone
