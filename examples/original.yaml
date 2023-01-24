@@ -707,6 +707,8 @@ examples:
   - ladino: Este pan es para este kezo.
     english: This bread is for this cheese.
     words:
+      - pan
+      - kezo
       - para
   - ladino: Para la proksima letra, perkura de eskrivir kon esta ortografia.
     words:
@@ -724,4 +726,66 @@ examples:
   - ladino: Lavora kada diya, salvo el Shabat.
     words:
       - salvo
-
+  - ladino: La lingua muestra tiene munchas enteresantes nuanses, ke vale la pena de estudiar.
+    words:
+      - nuanses
+  - ladino: Vo estar en New York en Oktubre para prezentar una charla i un konsierto.
+    words:
+      - oktubre
+  - ladino: So muy aktiva en muestra organizasion, Sephardi Federation.
+    words:
+      - organizasion
+  - ladino: El abasho a un chiko otel.
+    words:
+      - otel
+  - ladino: El Dio ke te oyga!
+    words:
+      - oyir
+  - ladino: 'En Izmir "patona" es "duck" (Los diksionaryos no lo tienen!)'
+    words:
+      - patona
+  - ladino: Peinarse como una novia.
+    words:
+      - peinarse
+  - ladino: La primavera en Israel empesa ofisialmente en el 21 de Marso.
+    words:
+      - primavera
+  - ladino: Trusho saludes de los amigos.
+    words:
+      - saludes
+  - ladino: Muestra famiya salvo de los nazis.
+    words:
+      - nazi
+  - ladino: Ni komi ni bevi ayer.
+    english: I neither ate nor drank yesterday.
+    words:
+      - ni
+  - ladino: No pudi ni enrejistrarme ni entender el buto del grupo.
+    english: I could neither register to nor understand the goal of the group.
+    words:
+      - ni
+  - ladino: El muevo numero de la revista AKI YERUSHALAYIM mos yego.
+    words:
+      - numero
+  - ladino: Sovrebivieron el Olokosto ma kedaron sin nada.
+    words:
+      - olokosto
+  - ladino: Esta es la orijin de la teoriya.
+    words:
+      - orijen
+  - ladino: Por un oyido le entra, por el otro le sale.
+    words:
+      - oyido
+  - ladino: Me parese bien.
+    english: Seems good to me.
+    words:
+      - pareser
+  - ladino: Kalavasa, pishkado, agranada, pazi, etc.
+    words:
+      - pazi
+  - ladino: 'Para el proksimo Alhad, estamos aparejando un paseyo a Hunkar.'
+    words:
+      - proksimo
+  - ladino: 'El Romansero Sefaradi dize: ...'
+    words:
+      - romansero
