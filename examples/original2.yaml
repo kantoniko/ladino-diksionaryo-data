@@ -122,6 +122,54 @@ examples:
   - ladino: Djudios i Moros en la literatura espanyola...
     words:
       - moro
+  - ladino: Todos ke tengash un Kipur livyano i PAS EN EL MUNDO
+    words:
+      - kipur
+  - ladino: Les plaze gozar i savorear el klima dulse i la mar kayente.
+    words:
+      - klima
+  - ladino: Eliyahu aparesyo kon su manto kolorado sovre sus ombros.
+    words:
+      - kolorado
+  - ladino: Me dava a komer lentejas kon kuchara en la boka.
+    words:
+      - komer
+  - ladino: Yo komo pan
+    english: I eat bread
+    words:
+      - komer
+  - ladino: tu komes poko
+    english: You eat a little
+    words:
+      - komer
+  - ladino: tu deves komer mas
+    english: you have to eat more
+    words:
+      - komer
+  - ladino: Yo komo pan kon poyo.
+    english: I eat bread with chicken.
+    words:
+      - komer
+  - ladino: Me plaze komer mansana kon kezo
+    english: I like to eat apple with cheese
+    words:
+      - komer
+  - ladino: Mi ija tiene su konjelador en el garaj.
+    words:
+      - konjelador
+  - ladino: '...djudias fueron salvadas por amigos kristianos.'
+    words:
+      - kristiano
+  - ladino: Konservaron aspektos kulturales del Djudaismo.
+    words:
+      - kultural
+  - ladino: La ley es para todos.
+    words:
+      - ley
+  - ladino: Koryó afuera en riendose entre los mushos.
+    words:
+      - musho
+
 
 
 
