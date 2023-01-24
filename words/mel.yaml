@@ -17,6 +17,3 @@ versions:
         - email
       turkish: posta
 
-examples:
-  - ladino: Espero ke este mel vos tope buenikos.
-    english: I hope this email reaches you well.
