@@ -58,4 +58,38 @@ examples:
   - ladino: 'Shelomo dyo el menk en pokas palavras kual es el rolo tan importante de la madre. '
     words:
       - menk
+  - ladino: Sus lingua komun era el Fransez.
+    words:
+      - komun
+  - ladino: Es una persona muy komun.
+    words:
+      - komun
+  - ladino: Ay un bruido kontinual.
+    words:
+      - kontinual
+  - ladino: 'Kuando era chiko, mi ermano me ambezo estos versos:
+        "Yo so una kopeta
+        Kon sal i pimienta,
+        Me dan un bezo
+        Me kitan la savor."'
+    words:
+      - kopeta
+  - ladino: La koyadura era un poko mas grande de la sardela i de karne muy blanda.
+    words:
+      - koyadura
+  - ladino: Kuanto me das por ir i venir?
+    words:
+      - kuanto
+  - ladino: Gloria Ascher la va emplear en su kurso de kultura sefaradi.
+    words:
+      - kurso
+  - ladino: Le gustava kontar anekdotas tipikas sefardis.
+    words:
+      - le
+  - ladino: Abasha la komida de la lumbre.
+    words:
+      - lumbre
+  - ladino: 'Kero ser kapachi de kantar i meldar en djudéo-espanyól i yídish. '
+    words:
+      - meldar
 
