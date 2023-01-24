@@ -493,5 +493,37 @@ examples:
   - ladino: Eskapi la seleksion de tekstos para mi "Introduksion a la lingua".
     words:
       - seleksion
+  - ladino: El direktor tiene poderes anchos.
+    words:
+      - poderes
+      - poder
+  - ladino: Kada uno da segun su poder.
+    words:
+      - poder
+  - ladino: Fue transmetido en la prensa i las publikasyones en Ladino.
+    words:
+      - prensa
+  - ladino: Fue nominado presidente de la Asosiasion.
+    words:
+      - prezidente
+      - presidente
+  - ladino: La vistio i le metio prostela.
+    words:
+      - prostela
+  - ladino: Korte real.
+    words:
+      - real
+  - ladino: 'Se puede azer una reunion en la universita.'
+    words:
+      - reunion
+  - ladino: No ay roza sin espino.
+    words:
+      - roza
+  - ladino: Azerse del santo.
+    words:
+      - santo
+  - ladino: Lavalas buenas buenas i deshalas a sekar.
+    words:
+      - sekar
 
 
