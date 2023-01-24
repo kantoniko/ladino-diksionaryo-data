@@ -258,4 +258,31 @@ examples:
   - ladino: Tanto me vino afuerte ke me saltaron las lagrimas.
     words:
       - tanto
+  - ladino: Tal padre, tal ijo; tal arvol, tal fruto; tal nombre, tal ombre.
+    words:
+      - tal
+  - ladino: El sol briyava en el syelo.
+    words:
+      - syelo
+  - ladino: Es su bien.
+    words:
+      - su
+  - ladino: sumo de mansana
+    english: apple juice
+    words:
+      - sumo
+  - ladino: sumo de portokal
+    english: orange juice
+    words:
+      - sumo
+  - ladino: Amanesimos kon un dia enuvlado en el sud de la Florida.
+    words:
+      - sud
+  - ladino: Lo ke sovra del ladrón, se lo yeva el endevino. (Neh.)
+    words:
+      - sovrar
+      - sovra
+  - ladino: Se oye el son de la kampana.
+    word:
+      - son
 
