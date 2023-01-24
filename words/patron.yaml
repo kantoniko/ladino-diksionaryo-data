@@ -25,8 +25,4 @@ versions:
           - patron
           - sahip
 
-examples:
-  - ladino: A la gayinika del patron no se dize kish.
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: a-la-gayinika-del-patron-no-se-dize-kish.ogg
+
