@@ -18,7 +18,7 @@ examples:
   - ladino: Me meti a yorar komo una kreatura chika.
     words:
       - yorar
-  - ladino: Amistad de yerno, sol d'invierno.
+  - ladino: "Amistad de yerno, sol d'invierno."
     words:
       - yerno
   - ladino: el ke se kema la lingua kon la sopa, asopla sovre el yogurt.
@@ -33,7 +33,7 @@ examples:
   - ladino: Inchiya la ridoma de una fuente onde la agua veniya yelada de las montanyas.
     words:
       - yelada
-  - ladino: 'De los Meksikanos sinti ke "dondurma" se dize "yelada". '
+  - ladino: 'De los Meksikanos sinti ke "dondurma" se dize "yelada".'
     words:
       - yelada
   - ladino: Yegar a no tener para pan. (Neh.)
@@ -124,7 +124,7 @@ examples:
   - ladino: Es koza de valor.
     words:
       - valor
-  - ladino: '...Esta en la VALEY de los ijos de Hinom,... (Reyes B'' 23,10).'
+  - ladino: "...Esta en la VALEY de los ijos de Hinom,... (Reyes B'' 23,10)."
     words:
       - valey
   - ladino: Empesó a azerlo por reir, avagar avagar se le izo uzo.
@@ -203,10 +203,10 @@ examples:
   - ladino: Kaza serrada se inche de tiralanyas.
     words:
       - tiralanyas
-  - ladino: Uno ke vino a darmos konsolasion era 'Tio Solomon'.
+  - ladino: "Uno ke vino a darmos konsolasion era 'Tio Solomon'."
     words:
       - tio
-  - ladino: Ringworm en Inglez es "tinya".
+  - ladino: 'Ringworm en Inglez es "tinya".'
     words:
       - tinya
   - ladino: El kapitan detiene el timón de la embarkasion.
@@ -215,7 +215,7 @@ examples:
   - ladino: Este lugar parese una timarana.
     words:
       - timarana
-  - ladino: En Izmir lo yamamos "tilya", ke lo uzavamos para dolor de tripa.
+  - ladino: 'En Izmir lo yamamos "tilya", ke lo uzavamos para dolor de tripa.'
     words:
       - tilya
   - ladino: Es tan duro ke no korta tijera.
@@ -234,7 +234,7 @@ examples:
   - ladino: Yo te lo digo, tu ke lo sepas.
     words:
       - te
-  - ladino: Se echa en un 'tepsi' i se mete a sekar.
+  - ladino: 'Se echa en un "tepsi" i se mete a sekar.'
     words:
       - tepsi
   - ladino: Yo tengo un ermano
@@ -385,11 +385,11 @@ examples:
     words:
       - shabat
   - ladino: En Israel la djente no lavora en Shabat.
-    english: In Israel the people don't work on Saturday
+    english: "In Israel the people don't work on Saturday"
     words:
       - shabat
   - ladino: Los djudios relijiozos no lavoran en Shabat.
-    english: Religious jews don't work on Saturday.
+    english: "Religious jews don't work on Saturday."
     words:
       - shabat
   - ladino: La sezon de la primavera en Erets Yisrael (en el mez de Nisan), es muy kurta.
@@ -436,7 +436,7 @@ examples:
   - ladino: Por mas de prisa, en pyes se pisha. (Neh.)
     words:
       - prisa
-  - ladino: 'Mi mama mos dizia, "antes de dizir ''no m''agrada'' (alguna komida), provala."'
+  - ladino: "Mi mama mos dizia, antes de dizir 'no m'agrada' (alguna komida), provala."
     words:
       - provar
   - ladino: La razon diferensia al ombre de las bestias. (Neh.)
@@ -490,7 +490,7 @@ examples:
   - ladino: Para el mentirozo, un sarnudo es un ayudo. (Neh.)
     words:
       - sarnudo
-  - ladino: Eskapi la seleksion de tekstos para mi "Introduksion a la lingua".
+  - ladino: 'Eskapi la seleksion de tekstos para mi "Introduksion a la lingua".'
     words:
       - seleksion
   - ladino: El direktor tiene poderes anchos.
@@ -550,7 +550,7 @@ examples:
   - ladino: No es kolay revizar tekstos en haketiya.
     words:
       - revizar
-  - ladino: Le demandi un emprestimo i me refuzo; saludozo m'esté!
+  - ladino: "Le demandi un emprestimo i me refuzo; saludozo m'esté!"
     words:
       - saludozo
   - ladino: 'No te tomes sehora: una puerta se serra, otra se avre. (Neh.)'
@@ -577,7 +577,7 @@ examples:
   - ladino: Echar una karta a la posta.
     words:
       - posta
-  - ladino: 'Puedemos yamar a un ijiko chiko "presiadiko". '
+  - ladino: 'Puedemos yamar a un ijiko chiko "presiadiko".'
     words:
       - presiado
       - presiadiko
