@@ -525,5 +525,35 @@ examples:
   - ladino: Lavalas buenas buenas i deshalas a sekar.
     words:
       - sekar
-
+  - ladino: Dubrovnik no es mas en Yugoslavia - pero en KROATIA.
+    words:
+      - pero
+  - ladino: Es probablemente del verbo "pisheti" de Serbo-Kroatyo. En mi famiya es generalmente usado.
+    words:
+      - pishar
+      - pisheti
+  - ladino: Enkuentro de poetas ke eskriven en Ladino.
+    words:
+      - poeta
+  - ladino: La supa de poyo era la Penisilina Judia.
+    words:
+      - poyo
+  - ladino: Keremos salvar muestra lingua presioza.
+    words:
+      - presioza
+  - ladino: El sharope esta pronto.
+    words:
+      - pronto
+  - ladino: Me azes reir muncho kon akeya fraza.
+    words:
+      - reir
+  - ladino: No es kolay revizar tekstos en haketiya.
+    words:
+      - revizar
+  - ladino: Le demandi un emprestimo i me refuzo; saludozo m'esté!
+    words:
+      - saludozo
+  - ladino: 'No te tomes sehora: una puerta se serra, otra se avre. (Neh.)'
+    words:
+      - sehora
 
