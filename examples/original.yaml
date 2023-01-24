@@ -283,6 +283,40 @@ examples:
       - sovrar
       - sovra
   - ladino: Se oye el son de la kampana.
-    word:
+    words:
       - son
+  - ladino: Si sonreimos a la vida, eya tambien mos sonreira.
+    words:
+      - sonreir
+      - sonreira
+      - sonreimos
+  - ladino: Abasho reprezentamos los sonidos del alfabeto.
+    words:
+      - sonidos
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: abasho-reprezentamos-los-sonidos-del-alfabeto.ogg
+  - ladino: Se oye el sonete de la kampana.
+    words:
+      - sonete
+  - ladino: Para Kipur, sonan el shofár.
+    words:
+      - sonar
+      - sonan
+  - ladino: Aki en la primavera ay bastante sol.
+    words:
+      - sol
+  - ladino: 'La hakitiya es solu una otra variedad del djudio-espanyol.'
+    words:
+      - solu
+  - ladino: En los sokos, la lakerda parvino ser muy rara.
+    words:
+      - sokos
+  - ladino: Si kere el Dio....
+    words:
+      - si
+  - ladino: Todos kon sira (a su torno), chikos i grandes.
+    words:
+      - sira
+
 
