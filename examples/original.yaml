@@ -228,3 +228,34 @@ examples:
   - ladino: El tiempo no tiene ni empesijo, ni fin. (Neh.)
     words:
       - tiempo
+  - ladino: Renée, ke ermozos son los kuentos de la tia de Sulucha!
+    words:
+      - tia
+  - ladino: Yo te lo digo, tu ke lo sepas.
+    words:
+      - te
+  - ladino: Se echa en un 'tepsi' i se mete a sekar.
+    words:
+      - tepsi
+  - ladino: Yo tengo un ermano
+    english: I have a brother
+    words:
+      - tengo
+      - tener
+  - ladino: Este tema es sujeto de mis lavoros i estudios.
+    words:
+      - tema
+  - ladino: Fue un plazer para mi avlar kon eya por telefon.
+    words:
+      - telefon
+  - ladino: Azno no muere de tikia.
+    words:
+      - tekia
+      - tikia
+  - ladino: Es tan grande ke no kave por la puerta.
+    words:
+      - tan
+  - ladino: Tanto me vino afuerte ke me saltaron las lagrimas.
+    words:
+      - tanto
+
