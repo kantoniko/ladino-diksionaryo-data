@@ -318,5 +318,47 @@ examples:
   - ladino: Todos kon sira (a su torno), chikos i grandes.
     words:
       - sira
-
+  - ladino: Sentites el gayo kantar, ma no entendites de onde (Neh.)
+    words:
+      - sintir
+  - ladino: Mi amor oy, es una braza i no siniza.
+    words:
+      - siniza
+  - ladino: Aki en kaza i en la sinagoga, konto tus poemas.
+    words:
+      - sinagoga
+  - ladino: 'Ke sea de buen siman. No dar sinyal de vida.'
+    words:
+      - siman
+examples:
+  - ladino: Este es un livro sikidji.
+    words:
+      - sikidji
+  - ladino: El es un ombre sikidji.
+    words:
+      - sikidji
+  - ladino: Eya es una mujer sikidjiya.
+    words:
+      - sikidjiya
+  - ladino: Los livros en la biblioteka son sikidjis.
+    words:
+      - sikidjis
+  - ladino: Las istorias so sikidjiyas.
+    words:
+      - sikidjiyas
+  - ladino: No lo tomes por sierto.
+    words:
+      - sierto
+  - ladino: La razon es siempre diferente.
+    words:
+      - siempre
+  - ladino: Para kurar dolor de shakeka, se metiyan una rida apretada en la frente.
+    words:
+      - shakeka
+  - ladino: Shakeka es dolor de kavesa.
+    words:
+      - shakeka
+  - ladino: Shukur al Dyo.
+    words:
+      - shukur
 
