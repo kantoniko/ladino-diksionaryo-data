@@ -18,10 +18,4 @@ versions:
         spanish: lunes
         turkish: Pazartesi
 
-examples:
-  - ladino: Kada lunes moz ivamoz al BAZAR.
-  - ladino: En Evropa el primer dia de la semana es lunes.
-    english: In Europe the first day of the week is Monday.
-    bozes:
-      - person: perla-katan
-        arkivo: en-evropa-el-primer-dia-de-la-semana-es-lunes.ogg
+
