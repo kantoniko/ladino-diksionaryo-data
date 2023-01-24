@@ -789,3 +789,61 @@ examples:
   - ladino: 'El Romansero Sefaradi dize: ...'
     words:
       - romansero
+  - ladino: Ma botones no ay en mortaja!
+    words:
+      - mortaja
+  - ladino: El mupak i la kozina son los nombres de las kamaretas ande gizan la komida.
+    words:
+      - mupak
+  - ladino: su nasimiento
+    english: her birth
+    words:
+      - nasimiento
+  - ladino: Los "pasharos de inviero" se van al Norte por la sezon.
+    words:
+      - norte
+  - ladino: Tiene muncha difikultad de inchir la sola oja en Djudeo-Espanyol.
+    words:
+      - oja
+  - ladino: Ya abolti la oja , unika solusion , i no guadri aborrision.
+    words:
+      - oja
+  - ladino: Los sestos de ruda, kon las ojas i flores...
+    words:
+      - oja
+  - ladino: Los sefardim de oriente avlan djudeo-espanyol, ladino, djudezmo.
+    words:
+      - oriente
+  - ladino: Tu fuites muy buen padre.
+    words:
+      - padre
+  - ladino: Los partisipantes veniyan para diskutir.
+    words:
+      - partisipientes
+  - ladino: A las kreaturas, les plaze la chikolata.
+    words:
+      - plaze
+      - plazer
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: a-las-kreaturas-les-plaze-la-chikolata.ogg
+  - ladino: Me izo plazer de konoserlo.
+    words:
+      - plaze
+  - ladino: Me plaze estar en buena kompanyia.
+    words:
+      - plaze
+  - ladino: Kreyo ke yo, le agrado solo a mi mama.
+    words:
+      - plaze
+  - ladino: Les plazgo a los elevos, sovre todo kuando termino la klasa.
+    words:
+      - plaze
+  - ladino: No me plazen los istorias de horror.
+    english: I don't like horror stories.
+    words:
+      - plaze
+  - ladino: Dava a komer a un revanyo de palomas.
+    words:
+      - revanyo
+
