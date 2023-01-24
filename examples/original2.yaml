@@ -1,0 +1,61 @@
+examples:
+  - ladino: Avriya el armario de la kuzina de mi nona.
+    words:
+      - kozina
+  - ladino: Kual es tu ijo?
+    words:
+      - kual
+  - ladino: Teniya 4-5 anyos i biviya serka de la Kula de Galata.
+    words:
+      - kula
+  - ladino: Era un poko simple i los amigos lo kureavan.
+    words:
+      - kurear
+  - ladino: Mirala.
+    words:
+      - la
+  - ladino: La kaza estava limpia.
+    words:
+      - limpio
+      - limpia
+  - ladino: Estamos luchando por el futuro.
+    words:
+      - luchar
+  - ladino: Lo yoramos ke se murio mansevo.
+    words:
+      - mansevo
+  - ladino: Kada anyo mijorado.
+    words:
+      - mijorado
+  - ladino: La madre  konsola su ijo, alimpiando sus ojos.
+    words:
+      - konsolar
+  - ladino: Ay munchas kurvas en este kamino.
+    words:
+      - korva
+  - ladino: Estos biervos krudos me shokan.
+    words:
+      - krudo
+  - ladino: Komimos kada uno el kuarto del melon.
+    words:
+      - kuarto
+  - ladino: Teniyamos oras ke se deviyan kurdear una vez al diya.
+    words:
+      - kurdear
+  - ladino: El kontenido de esta gazeta no atirava los lektores.
+    words:
+      - lektor
+  - ladino: Los lektores meldan la gazeta.
+    english: The readers read the newspaper.
+    words:
+      - lektor
+  - ladino: Los miembros de esta lista ya estan viendo komo lo eskrivimos.
+    words:
+      - lista
+  - ladino: Echale una manta enriva.
+    words:
+      - manta
+  - ladino: 'Shelomo dyo el menk en pokas palavras kual es el rolo tan importante de la madre. '
+    words:
+      - menk
+
