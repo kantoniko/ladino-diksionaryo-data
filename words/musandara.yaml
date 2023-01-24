@@ -24,8 +24,4 @@ versions:
         - buharda
         turkish: tavan arası
 
-examples:
-  - ladino: '"Musandara", es la kamareta ke esta debasho del techo.'
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: musandara-es-la-kamareta.ogg
+

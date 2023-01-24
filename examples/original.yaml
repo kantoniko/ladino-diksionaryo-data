@@ -846,4 +846,34 @@ examples:
   - ladino: Dava a komer a un revanyo de palomas.
     words:
       - revanyo
-
+  - ladino: Se desha 10 minutos en el orno.
+    words:
+      - minutos
+  - ladino: No toman parte en la vida moderna.
+    words:
+      - moderna
+  - ladino: Mos disho...
+    words:
+      - mos
+  - ladino: '"Musandara", es la kamareta ke esta debasho del techo.'
+    words:
+      - musandara
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: musandara-es-la-kamareta.ogg
+  - ladino: Ken negro aze, negro topa.
+    words:
+      - negro
+  - ladino: Ugrashear kon la djente no es "kolay"( fasil).
+    words:
+      - ograshear
+      - ugrashear
+  - ladino: '... kon la ortografia rekomendada por AKI YERUSHALAYIM.'
+    words:
+      - ortografia
+  - ladino: Dar palmas.
+    words:
+      - palmas
+  - ladino: Ke el Dio de paz en los reynados.
+    words:
+      - paz
