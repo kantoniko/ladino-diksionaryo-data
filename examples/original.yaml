@@ -361,4 +361,44 @@ examples:
   - ladino: Shukur al Dyo.
     words:
       - shukur
+  - ladino: Sintimos al shofar kon respekto i kon grande amor.
+    words:
+      - shofar
+  - ladino: El shofar es un instrumento de muzika tradisional.
+    english: ram horn used as Jewish traditional musical instrument.
+    french: corne de bélier usé comme instrument musical traditionnel.
+    portuguese: chifre de carneiro usado como instrumento musical tradisional judeu.
+    spanish: cuerno de carnero usado como instrumento musical tradicional judio.
+    turkish: bazı Musevi ayinlerinde müzik için kullanılan koç boynuzu.
+    words:
+      - shofar
+  - ladino: El sujeto de los sefaradim en la Shoa es muy poko konosido.
+    words:
+      - shoa
+  - ladino: Es un sharope de ombre. (Neh.)
+    words:
+      - sharope
+  - ladino: Shalóm! - Berahá ve Tová!
+    words:
+      - shalom
+  - ladino: Shabat Shalom
+    words:
+      - shabat
+  - ladino: En Israel la djente no lavora en Shabat.
+    english: In Israel the people don't work on Saturday
+    words:
+      - shabat
+  - ladino: Los djudios relijiozos no lavoran en Shabat.
+    english: Religious jews don't work on Saturday.
+    words:
+      - shabat
+  - ladino: La sezon de la primavera en Erets Yisrael (en el mez de Nisan), es muy kurta.
+    words:
+      - sezon
+  - ladino: Se retornarian a ser esklavos de Paro
+    words:
+      - ser
+  - ladino: Las bizbas produsen la sera.
+    words:
+      - sera
 

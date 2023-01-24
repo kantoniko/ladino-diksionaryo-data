@@ -22,10 +22,4 @@ versions:
         spanish: sábado
         turkish: Cumartesi
 
-examples:
-  - ladino: Shabat Shalom
-  - ladino: En Israel la djente no lavora en Shabat.
-    english: In Israel the people don't work on Saturday
-  - ladino: Los djudios relijiozos no lavoran en Shabat.
-    english: Religious jews don't work on Saturday.
 
