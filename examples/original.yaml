@@ -401,4 +401,67 @@ examples:
   - ladino: Las bizbas produsen la sera.
     words:
       - sera
+  - ladino: 'El Sinyor Rav: El Gran Rabino.'
+    words:
+      - rav
+  - ladino: Arrekojí de 1979 asta oy en diya mas de 500 kuentos i mas de 60 reflanes, sovre todo en Turkíya i en Israel.
+    words:
+      - refran
+  - ladino: Le dezeamos viaje bueno i reushita buena.
+    words:
+      - reushita
+  - ladino: Por dolor de shakeka, se metiyan una rida apretada en la frente.
+    words:
+      - rida
+  - ladino: Komimos una salata de safanorya.
+    words:
+      - safanorya
+  - ladino: Kon salud ke vayas, kon salud ke vengas. El fostan muevo, kon salud ke lo vistas.
+    words:
+      - salud
+  - ladino: 'Hazino ke sarnuda está serka de estar bueno. (Neh.)'
+    words:
+      - sarnuda
+      - sarnudar
+  - ladino: 'Kuando uno sarnuda: - Bivas, kreskas i engrandeskas!'
+    words:
+      - sarnuda
+      - sarnudar
+  - ladino: Va aver un konserto de muzika Sefarad.
+    words:
+      - sefarad
+  - ladino: Onde kaye la senteya, es ojo de la syega. (Neh.)
+    words:
+      - senteya
+  - ladino: Por mas de prisa, en pyes se pisha. (Neh.)
+    words:
+      - prisa
+  - ladino: 'Mi mama mos dizia, "antes de dizir ''no m''agrada'' (alguna komida), provala."'
+    words:
+      - provar
+  - ladino: La razon diferensia al ombre de las bestias. (Neh.)
+    words:
+      - razon
+  - ladino: Meldi kon grande plazer las konsejas i rekodros de tantos amigos.
+    words:
+      - rekodro
+  - ladino: No tomes la pena de bushkar el resto de la kantika.
+    words:
+      - resto
+  - ladino: '...en forma de "resumen" (todos los mesajes del diya en uno).'
+    words:
+      - rezumen
+  - ladino: la salamanje es la kamareta and komemos las komidas.
+    words:
+      - salamanje
+  - ladino: Mantenerse de pan kon sal. (Neh.)
+    words:
+      - sal
+  - ladino: Se metiya kola no solo en kamizas, ma tambien en bogos (manteles) i afilu savanas.
+    words:
+      - savana
+  - ladino: Oy mis padres sembraron un selví en el kampo para fyestar Tu-Bishvat.
+    words:
+      - selvi
+
 
