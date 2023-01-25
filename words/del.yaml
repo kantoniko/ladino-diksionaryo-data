@@ -14,7 +14,3 @@ versions:
           - den
           - dan
 
-
-examples:
-  - ladino: 'El livro del profesor.'
-  - ladino: del es "de el".

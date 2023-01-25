@@ -164,6 +164,65 @@ examples:
   - ladino: Estonses i agora no! (Todo lo bueno kedo en el pasado!) (Neh.)
     words:
       - entonses
+  - ladino: Kada uno tiene el derecho de eskrivir i avlar kome kere.
+    words:
+      - derecho
+  - ladino: Para mi, un desendiente de Estambullis, la palavra es "BISKOCHOS".
+    words:
+      - desendiente
+  - ladino: El bebe se deskuvijava en durmiendo.
+    words:
+      - deskuvijar
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: el-bebe-se-deskuvijava-en-durmiendo.ogg
+  - ladino: Ken apromete, en devda se mete. (Neh.)
+    words:
+      - devda
+  - ladino: Teniyan unos kuantos biervos diferentes ke solo eyos uzavan.
+    words:
+      - diferente
+  - ladino: Se arebivieron los dezeos de los djovenes de estudiar para saver.
+    words:
+      - djoven
+  - ladino: Para la karne dura, dyentes rezyos.
+    words:
+      - duro
+  - ladino: Ya se eskarinyo de mi i kere bolar i verme.
+    words:
+      - eskarinyarse
+  - ladino: Decembre es el ultimo mez del anyo.
+    english: December is the last month of the year.
+    words:
+      - decembre
+  - ladino: 'El livro del profesor.'
+    words:
+      - del
+  - ladino: del es "de el".
+    words:
+      - del
+  - ladino: No tengo kon ken desbafar.
+    words:
+      - desbafar
+  - ladino: Da un plazer ke es difisil a deskrivir.
+    words:
+      - deskrivir
+  - ladino: 'De oy endelantre...'
+    words:
+      - de
+  - ladino: 'Este livro es de mi ermano.'
+    words:
+      - de
+  - ladino: Ninguno da lo ke no tiene.
+    words:
+      - dinguno
+  - ladino: 'Los programas inkluyen volos domestikos en Argentina. '
+    words:
+      - domestiko
+  - ladino: 'Me kedi enkantada de ver tanta djente ke respondieron por esta palavra(topach - sevivon).'
+    words:
+      - enkantado
+
 
 
 
