@@ -533,4 +533,38 @@ examples:
   - ladino: Para su negregura no ay par.
     words:
       - negregura
+  - ladino: La fortuna es por ken la perkura. (Neh.)
+    words:
+      - fortuna
+  - ladino: Puedes friyir endjuntos unos pimientonikos para darle mas savor.
+    words:
+      - freier
+  - ladino: Ay muncha kalor, el sol esta fuego! (Neh.)
+    words:
+      - fuego
+  - ladino: Flama sin fuego no ay.
+    words:
+      - fuego
+  - ladino: Ya le vino la gana de kuzir.
+    words:
+      - gana
+  - ladino: Te mando un grande abraso.
+    words:
+      - grande
+  - ladino: Me va gustar muncho si un miembro los konose i me puede dar su adreso.
+    words:
+      - gustar
+  - ladino: El konosiya todos los hazinos i dava konsejos.
+    words:
+      - hazino
+  - ladino: El Sultan i El Haham
+    words:
+      - i
+  - ladino: Marido i mujer
+    words:
+      - i
+  - ladino: Se inyervo muncho i se metyo en kolora.
+    words:
+      - kolora
+
 
