@@ -19,8 +19,6 @@ versions:
         spanish: rueda
         turkish: tekerlek çark
 
-examples:
-  - ladino: La bisikleta tiene dos charkes.
 
 # "chark, chárke (m)",La bisikleta tiene dos charkes.,rueda,wheel,tekerlek çark,Izmir,2834,,
 # chark (m),Arrodear el chark.,"rueda, engrenaje","wheel, gear",çark,Estanbol,2835,,
