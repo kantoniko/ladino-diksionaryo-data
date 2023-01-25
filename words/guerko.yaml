@@ -25,8 +25,4 @@ versions:
         turkish: şeytan
 
 
-examples:
-  - ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: ande-se-arrapa-el-guerko.ogg
+

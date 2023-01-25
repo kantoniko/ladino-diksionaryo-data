@@ -500,5 +500,37 @@ examples:
   - ladino: Eskapimos la kompajinasyon del suplemento de la gazeta.
     words:
       - kompajinasyon
-
+  - ladino: Los tapetes de embasho, los lavavan kon furchas i agua.
+    words:
+      - furcha
+  - ladino: Los djudios de Estanbol gizan la gaya kon avramilas.
+    words:
+      gaya
+  - ladino: Gayá es un peshkado.
+    words:
+      gaya
+  - ladino: Kantikas espanyolas ke mos deshavan tresalidos a grandes i chikos...
+    words:
+      - grandes
+  - ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
+    words:
+      - guerko
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: ande-se-arrapa-el-guerko.ogg
+  - ladino: Es halis miel de bizba.
+    words:
+      - halis
+  - ladino: Mi papa importava esensyas para azer kolonya.
+    words:
+      - importar
+  - ladino: Mora kaji enfrente de mi.
+    words:
+      - kaji
+  - ladino: azer kemping
+    words:
+      - kemping
+  - ladino: Para su negregura no ay par.
+    words:
+      - negregura
 
