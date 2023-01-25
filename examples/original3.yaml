@@ -536,11 +536,92 @@ examples:
   - ladino: No sale danyo de akavidarse.
     words:
       - danyo
-
-
-
-
-
+  - ladino: Ashugar i kontado te puedo dar, la buena ventura vátela a bushkar. (Neh.)
+    words:
+      - ashugar
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: ashugar-i-kontado-te-puedo-dar-la-buena-ventura-vatela-a-bushkar.ogg
+  - ladino: Bueno, me vistire i me atakanare, i salimos a kaminar.
+    words:
+      - atakanarse
+  - ladino: El número de mesajes aumenta dramátikamente.
+    words:
+      - aumentar
+  - ladino: Ay dainda tantos amantes i avlantes de muestra lingua...
+    words:
+      - avlante
+  - ladino: Oy le ize su meldalo i le kemi una mecha de azete en su buena memoria.
+    words:
+      - azete
+  - ladino: En enverano, en las islas de Estanbol, ivamos a nadar kon barkas.
+    words:
+      - barka
+  - ladino: '"Blankusho" era akeya kreatura (persona) ke nasiya kon los kaveyos i los  parparos blankos.'
+    words:
+      - blankusho
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: blankusho-era-akeya-kreatura.ogg
+  - ladino: En el "Instituto Cervantes" de Estanbol, ay kursos para los sefaradim.
+    words:
+      - institutio
+  - ladino: Me se fue el bokado arreves.
+    words:
+      - arreves
+  - ladino: Ya me enfasyi de avikas i arroz.
+    words:
+      - arroz
+  - ladino: De Salonik asta Atena ay kinyentos kilometros.
+    words:
+      - asta
+  - ladino: Merkaron peshkados afumados.
+    words:
+      - aumar
+  - ladino: El biervo avramila viene de "Avram-mila", del komentario de la biblia
+        ke konta ke despues de su brit-mila, Avram Avinu se asento debasho de un arvolé,
+        el kual era arvolé de zirguela!
+    words:
+      - avramila
+  - ladino: La aviya visto arimada en el balkon de la kula.
+    words:
+      - balkon
+  - ladino: Ya me kayo las bavas de ver este diksionario maraviyozo.
+    words:
+      - bava
+  - ladino: Un chadirdjis es un vendedor de chadir.
+    words:
+      - chadirdjis
+  - ladino: Apunto eskapi de ver el video.
+    words:
+      - apunto
+  - ladino: Azme este plazer, asi tengas todo bueno, asi bivas munchos anyos.
+    words:
+      - asi
+  - ladino: Asi biva yo ke te dishe la vedra.'
+    words:
+      - asi
+  - ladino: Arrima este espejo a la pared.
+    words:
+      - arrimar
+  - ladino: Asperame aki una orika.
+    words:
+      - asperar
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: asperame-aki-una-orika.ogg
+  - ladino: Te lo vo a dar aunke no lo mereskas.
+    words:
+      - aunke
+  - ladino: Ayde no tenemos tiempo.
+    words:
+      - ayde
+  - ladino: Kada tadre se va al bar para tomar un aperitivo
+    words:
+      - bar
+  - ladino: Avia un burako en la pared.
+    words:
+      - burako
 
 
 
