@@ -402,6 +402,86 @@ examples:
   - ladino: Es una koza muy difisil a dar a entender.
     words:
       - difisil
+  - ladino: '"Ijika, no agas barana ke esta durmiendo tu padre".'
+    words:
+      - barana
+  - ladino: Los bayladores de Irlanda mos plazieron muncho.
+    words:
+      - baylador
+  - ladino: Meldo la "Biblia de Ferrara" en Ladino.
+    words:
+      - biblia
+  - ladino: Al bohor de kada jenerasion se va la yave.
+    words:
+      - bohor
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: al-bohor-de-kada-jenerasion-se-va-la-yave.ogg
+  - ladino: La broshura de la ANL me vino ayer.
+    words:
+      - broshura
+  - ladino: Ven a mi kaza a tomar un chay esta tadre.
+    words:
+      - chay
+  - ladino: Vos rogo de no meter ni aneksos, ni desenes en los mesajes.
+    words:
+      - desen
+  - ladino: Fruchiguaremos en la tierra.
+    words:
+      - fruchiguar
+  - ladino: Azlaha ke te meta el Dio.
+    words:
+      - azlaha
+  - ladino: 'Uvo muncha luvya: La kaye esta yena de balsas de agua.'
+    words:
+      - balsa
+  - ladino: La ermuera barrio lo ke ve la esfuegra.
+    words:
+      - barrir
+  - ladino: Las ijas de este lugar (Shilo) uzavan a salir i baylar en las vinyas.
+    words:
+      - baylar
+  - ladino: Le suvyo la birra.
+    words:
+      - birra
+  - ladino: No se le siente la boz.
+    words:
+      - boz
+  - ladino: En la meza aviya chinis de fruta seka.
+    words:
+      - chini
+  - ladino: El yevava un vestido desmodrado.
+    words:
+      - desmodrado
+  - ladino: Avril es el kuatren mez del anyo.
+    english: April is the fourth month of the year.
+    words:
+      - avril
+    bozes:
+      - person: perla-katan
+        arkivo: avril-es-el-kuatren-mez-del-anyo.ogg
+  - ladino: Todo se va enderechar kon ayuda del Dio.
+    words:
+      - ayuda
+  - ladino: Mansevikos pasavan en los barkos por el bodre de la mar.
+    words:
+      - barko
+  - ladino: El martes, era diya de bazar en Milas.
+    words:
+      - bazar
+  - ladino: Yehudi Menuhin era blondo kon ojos blu.
+    words:
+      - blu
+  - ladino: Ke bushkas por estas partes?
+    words:
+      - bushkar
+  - ladino: Bushka por tu telefono!
+    english: Search for your phone!
+    words:
+      - bushkar
+  - ladino: No es kon dezirlo solo.
+    words:
+      - dezir
 
 
 

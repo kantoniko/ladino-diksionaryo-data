@@ -12,9 +12,3 @@ versions:
         spanish: abril
         turkish: Nisan
 
-examples:
-  - ladino: Avril es el kuatren mez del anyo.
-    english: April is the fourth month of the year.
-    bozes:
-      - person: perla-katan
-        arkivo: avril-es-el-kuatren-mez-del-anyo.ogg
