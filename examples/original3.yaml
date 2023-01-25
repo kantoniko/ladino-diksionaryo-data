@@ -482,6 +482,61 @@ examples:
   - ladino: No es kon dezirlo solo.
     words:
       - dezir
+  - ladino: El ofisio de mano no tiene mas avenir.
+    words:
+      - avenir
+  - ladino: En la avla de Rodes, no entran munchos biervos en fransez.
+    words:
+      - avla
+  - ladino: 'Ayudáte i el Dio te ayudará. (Prov.) '
+    words:
+      - aydar
+  - ladino: Los ijikos djugavan en la kaye kon la bala.
+    words:
+      - bala
+  - ladino: Los bilbilikos kantan...
+    words:
+      - bilbil
+  - ladino: Admiro estos bravos djurnalistos.
+    words:
+      - bravo
+  - ladino: Miller, para ser dramaturgo, tomo la dechizion de seguir sus estudios.
+    words:
+      - dechizion
+  - ladino: Esperamos ke vash a respektar muestra desizyon, i deshar la lengua de LK asigun esta.
+    words:
+      - dechizion
+  - ladino: Ni palavra ni pyedrada no tornan atras (Neh.)
+    words:
+      - atras
+  - ladino: Eya es una autoridad en djudeo-espanyol.
+    words:
+      - autoridad
+  - ladino: Sera posivle de avlar sovre alguna unika  kultura?
+    words:
+      - avlar
+  - ladino: Para el mentirozo, un sarnudo es un ayudo. (Neh.)
+    words:
+      - ayudo
+  - ladino: Fazerse a barabar kon uno (familiar).
+    words:
+      - barabar
+  - ladino: Lo ke dize no es ni verdad ni realidad, esta avlando bavajadas.
+    words:
+      - bavajada
+  - ladino: Al lugar de azer una koza serioza se esta okupando de bavajadas
+    words:
+      - bavajada
+    bozes:
+      - person: perla-katan
+        arkivo: al-lugar-de-azer-una-koza-serioza-se-esta-okupado-de-bavahadas.ogg
+  - ladino: Se podia meter esta alzeyte en un bokal (una redoma) para transportarla a la keyla.
+    words:
+      - bokal
+  - ladino: No sale danyo de akavidarse.
+    words:
+      - danyo
+
 
 
 
