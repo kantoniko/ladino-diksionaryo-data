@@ -19,7 +19,32 @@ examples:
     bozes:
       - person: eti-ojalvo
         arkivo: kozina-el-mijor-logar-de-la-kaza.ogg
-
-
+  - ladino: Agora puedo meldar en ladino i ambezarme mas turko.
+    english: Now I can read Ladino and learn more Turkish.
+  - ladino: Natura. El ke no konose su eskritura, es un azno de la natura.
+  - ladino: Mi alma se eskurese en este mez de mayo. Más presto ven palomba, más presto ven a mí, más presto ven kerida ke yo me vo murir.
+  - ladino: Me plazen muncho las playas del Karibe. Yo ave ido a munchas. La playa es donde la mar se une kon la tyerra i uno puede nadar.
+  - ladino: En el enverano la plaj esta muy ermoza.
+  - ladino: Plaj es un lugar en el borde de la mar u lago, kon arena u pyedras aparejado para nadar i tomar sol.
+    bozes:
+      - person: eti-ojalvo
+        arkivo: plaj-es-un-lugar-en-el-borde-de-la-mar.ogg
+  - ladino: Plaj. Ke ermozo es enverano ir a la plaj i pasar tyempo aya.
+  - ladino: Natura.  Manya, el modo de bivir ke no se puede trokar. La natura de mi ijo es, kara de pokos amigos.
+    bozes:
+      - person: eti-ojalvo
+        arkivo: natura-manya-el-modo-de-bivir.ogg
+  - ladino: Arvole. Es ande kresen frutas i yaprakes. No te arrimes al arvole, se seka. No te arrimes al benadam, se muere.
+    bozes:
+      - person: eti-ojalvo
+        arkivo: arvole-es-ande-kresen-frutas.ogg
+  - ladino: Aire. El movimiento del aver. En enverano a todos les plaze aire para arefreskarsen.
+    bozes:
+      - person: eti-ojalvo
+        arkivo: aire-el-movimiento-del-aver.ogg
+  - ladino: Flor. Se ven kolores a kolores i golen muy ermozos. Las bizbas saven la valor de las flores, ke son yenos de dulse.
+    bozes:
+      - person: eti-ojalvo
+        arkivo: flor-se-ven-kolores--i-golen.ogg
 
 
