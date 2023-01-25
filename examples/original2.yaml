@@ -620,6 +620,66 @@ examples:
   - ladino: Travavan la barka kon una kuedra en una karrucha.
     words:
       - karrucha
-
+  - ladino: Mi abuela favlava el Djudeo-Espanyol.
+    words:
+      - favlar
+  - ladino: Fevrero es el segundo mez del anyo.
+    english: February is the second month of the year.
+    words:
+      - fevrero
+  - ladino: Ijo de kriar, fierro de mashkar.
+    words:
+      - fierro
+  - ladino: Un buen komersante onora su firma.
+    words:
+      - firma
+  - ladino: La fragua mueva es komo un otel.
+    words:
+      - fragua
+  - ladino: Rogamos ke en el futuro mos eskrivas en Ladino.
+    words:
+      - futuro
+  - ladino: Guay de mi!
+    words:
+      - guay
+  - ladino: Guay de la madre ke me parió!
+    words:
+      - guay
+  - ladino: Ay! ke no ay! Ke si de lo ke no ay aviya, Ay! no aviya!
+    words:
+      - guay
+  - ladino: son ijos de dos ermanos
+    words:
+      - ijo
+  - ladino: No eskrivo..una razon es porke esto muy okupada.
+    words:
+      - okupado
+  - ladino: Estudios de lingua e istoria...
+    words:
+      - e
+  - ladino: 'Eya era la mas chika de 19 kriaturas! '
+    words:
+      - eya
+  - ladino: Solo fueron fantazias.
+    words:
+      - fantazia
+  - ladino: Está yeno de fedor.
+    words:
+      - fedor
+  - ladino: Te puedes fiar en eya.
+    words:
+      - fiarse
+  - ladino: No vos olvidesh de firmar i azer firmar la petisyon de Salonik.
+    words:
+      - firmar
+  - ladino: Lo metiya en un bokal i lo metiya en el frijider.
+    words:
+      - frijider
+  - ladino: El se lo giza, el se lo kome.
+    words:
+      - gizar
+  - ladino: Yama un hamal, ke te yeve la validja fin al vapor.
+    words:
+      - hamal
 
 
