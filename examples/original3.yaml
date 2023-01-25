@@ -222,6 +222,68 @@ examples:
   - ladino: 'Me kedi enkantada de ver tanta djente ke respondieron por esta palavra(topach - sevivon).'
     words:
       - enkantado
+  - ladino: Avía un arvole chiko al lado de muestra kaza.
+    words:
+      - chiko
+  - ladino: Parese ke el mundo troko en los dalkavo 50 anyos.
+    words:
+      - dalkavo
+  - ladino: Estuvo bien enteresante el dalkavo paragrafo ke eskrivites.
+    words:
+      - dalkavo
+  - ladino: La palavra "alkavo" sin "d" ya se uzava komo adjektivo en la lingua avlada de algunos en Estambol.
+    words:
+      - dalkavo
+  - ladino: Mama i delantal ke tapan muncho mal.
+    words:
+      - delantal
+  - ladino: Se aziya kon plomo derritido.
+    words:
+      - derritir
+  - ladino: Mos derritimos en pies fina ke venites.
+    words:
+      - derritir
+  - ladino: Moise Rahmani mos aze deskuvrir su estorya, su vida de kada diya.
+    words:
+      - deskuvrir
+  - ladino: Es orijinaryo de Sarayevo, i tiene el dialekto de los djudios.
+    words:
+      - dialekto
+  - ladino: Dezeo ser haham,  kon djuben de panyo, antari i kalpak.
+    words:
+      - djuben
+  - ladino: Los chikos djugavan a la endevina.
+    words:
+      - endevina
+  - ladino: Kada uno saluda kon el chapeo ke tiene. (Neh.)
+    words:
+      - chapeo
+  - ladino: En sus pyes no yevavan ke un par de charukas.
+    words:
+      - charuka
+  - ladino: El chiko mos unflo la kavesa kon el chuflete ke le merko su padre.
+    words:
+      - chuflete
+  - ladino: No se deke en vezes el mizmo mesaj sale dos vezes.
+    words:
+      - deke
+  - ladino: Al desdichado no le kamina el kavayo, dize ke es ojo malo. (Neh.)
+    words:
+      - desdichado
+    bozes:
+      - person: perla-katan
+        arkivo: al-desdichado-no-le-kamina-el-kavayo-dize-ke-es-ojo-malo.ogg
+  - ladino: Yo no kreo ke muestra lingua va despareser.
+    words:
+      - despareser
+  - ladino: Ningun ijo de djudio se tope en este sar.
+    words:
+      - dingun
+  - ladino: Ivan Fidorof fue el primer emprimador.
+    words:
+      - emprimador
+
+
 
 
 
