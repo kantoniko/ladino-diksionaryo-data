@@ -81,6 +81,35 @@ examples:
   - ladino: Mos gustimos de ver ke merkaron una kaza muy ermoza.
     words:
       - gustarse
+  - ladino: Todas las dichas ke te akodrates son las mismas ke i yo me akodro...
+    words:
+      - dicha
+  - ladino: Ayer merki un diksionario inglez-ladino, ladino-inglez.
+    words:
+      - diksionario
+  - ladino: No son kozas ke se dizen.
+    words:
+      - dizir
+  - ladino: Djulio i agosto son mezes muy kayentes.
+    english: July and August are very warm months.
+    words:
+      - djulio
+  - ladino: Pagan djustos por pekadores. (Neh.)
+    words:
+      - djusto
+  - ladino: La droga ya le izo efekto.
+    words:
+      - droga
+  - ladino: Se embolvió en meldando este livro.
+    words:
+      - embolverse
+  - ladino: Poko avlar i muncho entender!
+    words:
+      - entender
+  - ladino: Durmir sin espertarse i ser aya ariva una estreya...
+    words:
+      - espertarse
+
 
 
 
