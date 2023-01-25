@@ -1,0 +1,7 @@
+examples:
+  - ladino: Ospital.  No me plaze las golores de los ospitales.
+    turko: Hastane.  Hastane kokularını hiç sevmem.
+    bozes:
+      - person: eti-ojalvo
+        arkivo: ospital-no-me-plaze-las-dolores.ogg
+
