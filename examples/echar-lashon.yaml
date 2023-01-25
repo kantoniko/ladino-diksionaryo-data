@@ -2,6 +2,7 @@ examples:
   - ladino: Ospital. No me plaze las golores de los ospitales.
     turkish: Hastane. Hastane kokularını hiç sevmem.
     english: Hospital.  I don't like hospital odors.
+    spanish: Hospital.  No me gustan los olores de los hospitales.
     bozes:
       - person: eti-ojalvo
         arkivo: ospital-no-me-plaze-las-dolores.ogg
