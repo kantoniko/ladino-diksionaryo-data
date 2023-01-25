@@ -310,6 +310,36 @@ examples:
   - ladino: Espero ke mi letra te tope sano i saludozo.
     words:
       - letra
-
+  - ladino: No eskrivas una karta en un momento de ira.
+    words:
+      - ira
+  - ladino: Lo tuve un mez en mi kaza en la izla de Burgaz.
+    words:
+      - izla
+  - ladino: La kacha del livro es un blu vibrante.
+    words:
+      - kacha
+  - ladino: 'La kama es una buena koza, si no se durme se arrepoza. (Neh.)'
+    words:
+      - kama
+  - ladino: Una de las kantikas ke kanto es una ke tengo sintido en Izmir.
+    words:
+      - kantika
+  - ladino: El Kasteyano es madre de la lingua muestra.
+    words:
+      kasteyano
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: el-kasteyano-es-madre-de-la-lingua-muestra.ogg
+  - ladino: No agas kestyon de esto, ke no tiene emportansa.
+    words:
+      - kestion
+      - kestyon
+  - ladino: Entre kol i kol lechuga.
+    words:
+      - kol
+  - ladino: Dizir las kozas en lashon i ladino. (Neh.)
+    words:
+      - lashon
 
 

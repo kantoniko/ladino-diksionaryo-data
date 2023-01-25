@@ -23,8 +23,4 @@ versions:
           - Kastilyalı
           - Ispanyolca
 
-examples:
-  - ladino: El Kasteyano es madre de la lingua muestra.
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: el-kasteyano-es-madre-de-la-lingua-muestra.ogg
+
