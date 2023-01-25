@@ -753,7 +753,58 @@ examples:
   - ladino: Mas vale el hazan ke todo el kal. (Neh.)
     words:
       - hazan
-
+  - ladino: Es bueno tener karas de riza en el entorno.
+    words:
+      - entrno
+  - ladino: Teniya dos ijas, mansevikas i muy ermozikas.
+    words:
+      - ermozo
+  - ladino: Lo tengo todo por eskrito.
+    words:
+      - eskrito
+  - ladino: No me kontes estoryas de mil i una noche.
+    words:
+      - estorias
+  - ladino: Por seguro ke semos todos una famiya.
+    words:
+      - famiya
+  - ladino: No tener ni ley, ni fey, ni profeta. (Neh.)
+    words:
+      - fey
+  - ladino: Ay formatos diferentes de archivos en el komputador.
+    words:
+      - formato
+  - ladino: Se eskondieron en kazas de amigos gregos durante el tiempo de la gerra.
+    words:
+      - grego
+  - ladino: Enshaguate la boka!
+    words:
+      - enshaguar
+  - ladino: Es el enteres ke lo giya.
+    words:
+      - enteres
+  - ladino: Saves de ke epoka era esta kantika?
+    words:
+      - epoka
+  - ladino: Espero ke viendra a tiempo.
+    words:
+      - esperar
+  - ladino: Yo espero ke tu saves ladino bien.
+    english: I hope you know Ladino well.
+    words:
+      - esperar
+  - ladino: El mas importante es el estudio del Gershom Scholem.
+    words:
+      - estudio
+  - ladino: De la fasha asta la mortaja, no te vas a azer benadam!
+    words:
+      - fasha
+  - ladino: La mancha kaye en el panyo mas fino.
+    words:
+      - fino
+  - ladino: Se inche de gomo de kezo, guevo i pan mojado. I todo esto al orno....
+    words:
+      - gomo
 
 
 
