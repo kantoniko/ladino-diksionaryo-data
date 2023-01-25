@@ -341,5 +341,41 @@ examples:
   - ladino: Dizir las kozas en lashon i ladino. (Neh.)
     words:
       - lashon
+  - ladino: No lo pudimos imprimir por los problemas del sistema Oneline.
+    words:
+      - imprimir
+  - ladino: Yo so investigador de Ladino.
+    words:
+      - investigador
+  - ladino: El italiana tambien es una lingua latina.
+    words:
+      - italiano
+      - italiana
+  - ladino: Se prestan maraviyozamente a edukar a las muevas jenerasiones.
+    words:
+      - jenerasion
+      - jenerasiones
+  - ladino: Sintimos muchos kantes en djudeo-espanyol.
+    words:
+      - kante
+      - kantes
+  - ladino: kanyúto de la naríz
+    words:
+      - kanyuto
+  - ladino: azer kitar la alma por el kanyuto de la nariz
+    words:
+      - kanyuto
+  - ladino: Todos endjuntos diziyamos la Agada, porke todos ya la saviyamos de kavesa.
+    words:
+      - kavesa
+  - ladino: Tiene kavesa dura.
+    words:
+      - kavesa
+  - ladino: Unos kuantos diyas antes, di la recheta de "koftes de prasa".
+    words:
+      - kofte
+  - ladino: Lavorar por un kulo de pipino.
+    words:
+      - kulo
 
 
