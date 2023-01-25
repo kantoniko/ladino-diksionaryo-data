@@ -31,7 +31,4 @@ versions:
         turkish: tane
 
 
-examples:
-  - ladino: Dizen ke se deve tener siempre dos deyos en la meza.
-  - ladino: kuantos deyos?
-    english: how many?
+

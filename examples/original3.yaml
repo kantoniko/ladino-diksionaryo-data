@@ -109,7 +109,61 @@ examples:
   - ladino: Durmir sin espertarse i ser aya ariva una estreya...
     words:
       - espertarse
-
+  - ladino: El Governo Otomano mando un destakamento (müfreze) de soldados para onorar la seremonia.
+    words:
+      - destakamento
+  - ladino: Dizen ke se deve tener siempre dos deyos en la meza.
+    words:
+      - deyo
+  - ladino: kuantos deyos?
+    english: how many?
+    words:
+      - deyo
+  - ladino: Un bivo ke te mate i diez bovos ke no te abediguen.
+    words:
+      - diez
+  - ladino: Su padre era el direktor de un koro de kantar i de musika.
+    words:
+      - direktor
+  - ladino: El es una de las figuras mas veneradas del djudaismo.
+    words:
+      - djudaismo
+  - ladino: Mal por durera, peor por shushunera. (Prov.) (Neh.)
+    words:
+      - durera
+  - ladino: Arvole tuerto nunka se enderecha.
+    words:
+      - enderechar
+    bozes:
+      - person: perla-katan
+        arkivo: arvole-tuerto-nunka-se-enderecha.ogg
+  - ladino: Bushkava a ovedeser todo lo ke la ermuera le ordenava.
+    words:
+      - ermuera
+  - ladino: El deskarado, no se averguenso.
+    words:
+      - deskarado
+  - ladino: Desmazalado de mi!
+    words:
+      - desmazalado
+  - ladino: Paga a ken deves, saves lo ke tienes (Neh.)
+    words:
+      - dever
+  - ladino: El Dyezen Kongreso de Estudios Djudeo-espanyoles...
+    words:
+      - diezen
+  - ladino: 'No tenemos dirito de dizir a dingunos "no es djusto lo ke dizish vozotros".'
+    words:
+      - dirito
+  - ladino: Meldar dokumentos en solitreo no es muy fasil, no es kolay.
+    words:
+      - dokumento
+  - ladino: Es una famiya ekstendida de todos los Sefaradim del mundo.
+    words:
+      - ekstender
+  - ladino: Estonses i agora no! (Todo lo bueno kedo en el pasado!) (Neh.)
+    words:
+      - entonses
 
 
 
