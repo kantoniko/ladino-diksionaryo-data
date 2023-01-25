@@ -282,6 +282,34 @@ examples:
   - ladino: Ken lingua tiene, a Roma va.
     words:
       - lingua
+  - ladino: Van a tener (EL DIA DE DJOHA) el 20 de Junio.
+    words:
+      - junio
+  - ladino: 'Istanbullis: Vos keriya demandar si "el Kal de los Frankos" egziste oy. '
+    words:
+      - kal
+  - ladino: Ke tengan todos kaminos de leche i miel i al vermos.
+    words:
+      - kamino
+  - ladino: Estas palavras me sonan komo un kanto.
+    words:
+      - kanto
+  - ladino: Yo meldi tu karta kon muncho intereso.
+    words:
+      - karta
+  - ladino: En el enverano moz kedamos en kaza.
+    words:
+      - kaza
+  - ladino: Klikar aka para una vista de pasharo!
+    english: Click for a bird's eye view!
+    words:
+      - klikar
+  - ladino: Mis konferensias son siempre en ladino.
+    words:
+      - konferensia
+  - ladino: Espero ke mi letra te tope sano i saludozo.
+    words:
+      - letra
 
 
 
