@@ -11,8 +11,22 @@ versions:
     translations:
         english: meaning
         french: ''
+        hebrew: משמעות
         portuguese: ''
         spanish: significado
         turkish: anlam
+
+  - ladino: sinyifikasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        english: meanings
+        french: ''
+        hebrew: משמעויות
+        portuguese: ''
+        spanish: ''
+        turkish: ''
 
 
