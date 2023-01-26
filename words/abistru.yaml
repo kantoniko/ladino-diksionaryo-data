@@ -17,9 +17,3 @@ versions:
         spanish: avestruz
         turkish: devekuşu
 
-examples:
-  - ladino: '"Kara de abistru" kere dezir "uno ke no sonriye".'
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: kara-de-abistru-kere-dezir.ogg
-

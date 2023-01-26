@@ -1293,10 +1293,151 @@ examples:
     english: When will you start learning French?
     words:
       - ambezarse
-
-
-
-
+  - ladino: Todos los ke me aborresen aman la muerte.
+    words:
+      - aborreser
+  - ladino: Kada padre de famiya deve de asigurar un avrigo para los suyos.
+    words:
+      - abrigo
+  - ladino: Se kedo dos malas oras achunkado, no lo mirimos en la kara.
+    words:
+      - achunkado
+  - ladino: La verdad i la sinseridad son los dos adjektivos ke resumen mi boletin.
+    words:
+      - adjektivo
+  - ladino: Tengo grande admirasion por sus lavoros.
+    words:
+      - admirasion
+  - ladino: Aferraron al ladron.
+    words:
+      - aferrar
+  - ladino: Me agradan los pimientones.
+    words:
+      - agradar
+  - ladino: Kreyo ke yo, le agrado solo a mi mama.  Les plazgo a los elevos, sovre todo kuando termino la klasa.
+    words:
+      - agradar
+  - ladino: Me agrada el tomate
+    english: I like the tomato
+    words:
+      - agradar
+  - ladino: Ken se aharva kon sus manos ke no yore.
+    words:
+      - aharvar
+  - ladino: No akseptamos mesajes en otras linguas.
+    words:
+      - akseptar
+  - ladino: Tu alegre i yo kontente.
+    words:
+      - alegre
+  - ladino: Abediguar famiyas, hazinos, guérfanos i bivdas.
+    words:
+      - abediguar
+  - ladino: Yo ya abolti de mi viaje el viernes pasado.
+    words:
+      - aboltar
+  - ladino: Ya aboltates la kara, ya paso el diya, la semana, el mez. (Neh.)
+    words:
+      - aboltar
+  - ladino: Las dos se abrasan i se meten a avlar.
+    words:
+      - abrasar
+  - ladino: El abudaraho se toma komo aperitivo.
+    words:
+      - abudaraho
+  - ladino: Ademas vos kero rengrasiar por vuestras palavras de apresiasion.
+    words:
+      - ademas
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: ademas-vos-kero-rengrasiar-por-vuestras-palavras-de-apresiasion.ogg
+  - ladino: Todos estos esfuersos son de admirar.
+    words:
+      - admirar
+  - ladino: Afito de bilibiz. (Konstipasyon fuerte. Neh.)
+    words:
+      - afito
+  - ladino: Mi tiya morava en un moshav i teniyan arvoles de agranadas.
+    words:
+      - agranada
+  - ladino: Estamos trokando la ora para akomodar a todos.
+    words:
+      - akomodar
+  - ladino: Mis avuelos i antepasados vinieron de Sefarad.
+    words:
+      - antepasados
+  - ladino: Mos plaze komer el pishkado abafado porke es muy liviano.
+    words:
+      - abafado
+  - ladino: No keriyamos abashar i suvir las eskaleras.
+    words:
+      - abashar
+  - ladino: Lo podesh abashar debaldes en tres partidas.
+    words:
+      - abashar
+  - ladino: '"Kara de abistru" kere dezir "uno ke no sonriye".'
+    words:
+      - abistru
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: kara-de-abistru-kere-dezir.ogg
+  - ladino: Eyos no tyenen ni pan para komer ni lugar para abrigarsen.
+    words:
+      - abrigarse
+  - ladino: Siempre ke mos vaygamos para adelantre i nunka para atras.
+    words:
+      - adelantre
+  - ladino: Puedo dizir ke me adolensyo kuando amostran la gerra en la televizyon.
+    words:
+      - adolensyarse
+  - ladino: Aflosharon la kuedra de la barka.
+    words:
+      - afloshar
+  - ladino: Nunka no mos van abandonar.
+    words:
+      - abandonar
+  - ladino: Moravamos serka de la Kula una abashadika ke se yamava El Kal De Los Frankos.
+    words:
+      - abashada
+  - ladino: Estuve hazina kon una abashada muy fuerte.
+    words:
+      - abashada
+  - ladino: Kale ser modesto i mirar mas abasho de si. Yamavan "los de abasho", "los negros," o "los ke danyan".
+    words:
+      - abasho
+  - ladino: Esta sonriendo kon su dulsor abitual.
+    words:
+      - abitual
+  - ladino: Les auguro ke la mueva anyada les seya abondante de luz.
+    words:
+      - abondante
+  - ladino: Vino tadre achakes de la luvia.
+    words:
+      - achakes
+  - ladino: Todo lo ke se aze  kon adjile, se aze negro.
+    words:
+      - adjile
+  - ladino: Mi hazinura lo aflijo.
+    words:
+      - aflijar
+  - ladino: Los ajenos azen mas ke los serkanos. (Neh.)
+    words:
+      - ajeno
+  - ladino: Esto abashamentada.
+    words:
+      - abashamentado
+  - ladino: Esto kon un abashamiento muy fuerte.
+    words:
+      - abashamiento
+  - ladino: 'De esta ropa ya abasta 4 metros: esta ancha. Ya abasta i sovra.'
+    words:
+      - abastar
+  - ladino: Basta mi nombre, ke me yamo Abravanel.
+    words:
+      - abastar
+  - ladino: Desdichada de mi ! Me fui del bet din abatida i muy triste...
+    words:
+      - abatido
 
 
 
