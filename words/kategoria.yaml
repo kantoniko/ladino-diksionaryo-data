@@ -1,0 +1,33 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: kategoria
+    accented: kategoría
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: category
+      french: ''
+      hebrew: קטגוריה
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kategorias
+    accented: kategorías
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: categories
+      french: ''
+      hebrew: קטגוריות
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+

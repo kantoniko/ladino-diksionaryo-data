@@ -5,6 +5,9 @@ origen: Jeneral
 versions:
   - ladino: introduzir
 
+    alternative-spelling:
+      - ladino: introdusir
+
     translations:
         english: introduce
         french: ''

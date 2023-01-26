@@ -1,0 +1,31 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: kantoniko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: hidden corner
+      french: ''
+      hebrew: פינה נסתרת
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kantonikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: hidden corners
+      french: ''
+      hebrew: פינות נסתרות
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+
