@@ -51,9 +51,5 @@ versions:
         spanish: anchas
         turkish: geniş
 
-examples:
-  - ladino: Tiene mano ancha (es jenerozo).
-  - ladino: Es ancho de karakter.
-
 # Espanyol,English,Turkish,Origen,id,Portuguese,French
 # despreocupado,free from care,kaygısız,Jeneral,3041,despreocupado,insouciant
