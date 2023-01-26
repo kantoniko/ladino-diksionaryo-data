@@ -688,6 +688,56 @@ examples:
   - ladino: Saldremos a tomar un poko de aire.
     words:
       - ayre
+  - ladino: Dezeo ser haham,  kon djuben de panyo, antari i kalpak.
+    words:
+      - antari
+  - ladino: Es otra forma de antisemitizmo.
+    words:
+      - antisemitizmo
+  - ladino: Mas vale sien anyos de galera, ke ir debasho de tierra. (Neh.)
+    words:
+      - anyo
+  - ladino: Me apoyi a la meza para no kayer.
+    words:
+      - apoyarse
+  - ladino: Un tiempo tomavamos "karosas" (araba o payton).
+    words:
+      - araba
+  - ladino: Mos yevo al Bosfor kon su araba.
+    words:
+      - araba
+  - ladino: Arvol sin solombra (persona egoista).
+    words:
+      - arvole
+    bozes:
+      - person: rachel-amado-bortnick
+        arkivo: arvol-sin-solombra-persona-egoista.ogg
+  - ladino: 'Todo lo ke disho, no tiene dinguna valor: es todo avladero.'
+    words:
+      - avladero
+  - ladino: Oy es el aniversario del diya ke merkimos muestra kaza.
+    words:
+      - aniversario
+  - ladino: Ansina topimos el mundo, ansina lo vamos a deshar.
+    words:
+      - ansina
+  - ladino: Este kal es antiko (500 anios).
+    words:
+      - antiko
+  - ladino: Se aoga en una kupa de agua.
+    words:
+      - aogarse
+  - ladino: Esto dispuesto a meter mano, a apoyar i kolavorar.
+    words:
+      - apoyar
+  - ladino: Para ke no se arravye, este ultimo mesaje suyo lo estamos pasando.
+    words:
+      - arraviarse
+  - ladino: Es para avertirvos ke vos mando este e-mail.
+    words:
+      - avertir
+
+
 
 
 
