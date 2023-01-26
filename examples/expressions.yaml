@@ -49,7 +49,24 @@ examples:
   - ladino: Dizen ke es muy riko, aser ke yo se ke pedrio toda su fortuna al djugo.
     words:
       - aser ke
-
-
-
+  - ladino: Uvo muncho aire i aferri una abashada muy fuerte.
+    words:
+      - aferrar abashada
+  - ladino: No puedemos dizir ke es una koza mala; al kontrario, es una koza muy agradavle.
+    words:
+      - al kontrario
+  - ladino: Eya se engrandesio sin konoser djudios i se konvertio al kristianizmo,
+        ma kontinuo, a las eskondidas, a azer ayuno un diya al anyo porke se akodrava
+        ke ansina uzavan en su kaza en Diya de Kipur.
+    words:
+      - a las eskondidas
+  - ladino: Eyas observavan a la letra uno de los komandamientos.
+    words:
+      - a la letra
+  - ladino: Mete tu nombre a la fin de tu letra.
+    words:
+      - a la fin
+  - ladino: Despues de munchos anyos de lavoro, el reusho a la fin a inventar esta makina.
+    words:
+      - a la fin
 
