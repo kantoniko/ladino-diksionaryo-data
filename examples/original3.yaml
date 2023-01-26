@@ -796,7 +796,78 @@ examples:
   - ladino: Un "bahshish" bueno al garson ya abastava para esto.
     words:
       - bahshish
-
-
-
+  - ladino: Ken tiene ambre no mira por guzano.
+    words:
+      - ambre
+  - ladino: Las diferensias de enteres yelan la amistad. (Neh.)
+    words:
+      - amistad
+  - ladino: Un esklavo apartiene a su amo.
+    words:
+      - amo
+  - ladino: Segun la kreyensya Mormona, un andjelo yamado Moroni, avia abashado del syelo.
+    words:
+      - andjelo
+  - ladino: De ansiklopedias a diksionarios, siempre emplean el nombre Ladino.
+    words:
+      - ansiklopedia
+  - ladino: Esta asentada en la siya, apanyando moshkas.
+    words:
+      - apanyar
+  - ladino: Ya tengo kaji 90 anyos, ama me siento dayinda mansevika.
+    words:
+      - ama
+  - ladino: El arto no kreye al ambierto.
+    words:
+      - ambierto
+  - ladino: El puevlo Cubano es un puevlo muy, muy amistozo.
+    words:
+      - amistozo
+  - ladino: Dizen (por reir) ke ay 300 maneras de gizar la anchua.
+    words:
+      - anchua
+  - ladino: Le regalo un aniyo de oro.
+    words:
+      - aniyo
+  - ladino: 'Anyada (al lugar de anyo) se uza para auguros, kon el adjektivo "buena"
+        despues. Esto kere dizir el periodo del anyo entero. Eg.: Anyada dulse kon
+        alegriya i sanedad para todos.'
+    words:
+      - anyada
+  - ladino: Ken en buen arvole se arrima, buena solombra lo kuvija. (Neh.)
+    words:
+      - arrimarse
+  - ladino: Aman, por ande fuyir de sus manos!
+    words:
+      - aman
+  - ladino: Aman, ke se eskape este mal diya!
+    words:
+      - aman
+  - ladino: Amata la lampa.
+    words:
+      - amatar
+  - ladino: Ambeza el arte i metelo aparte. (Neh.)
+    words:
+      - ambezar
+    bozes:
+      - person: perla-katan
+        arkivo: ambeza-el-arte-i-metelo-aparte.ogg
+  - ladino: Yo ambezo programasion a lost estudiantes i los estudiantes se ambezan programasion.
+    words:
+      - ambezar
+  - ladino: 'Kuando yo avlo kon mi maestra de ladino yo puedo dizir:  Tu ambezas ladino a mi i yo me ambezo ladino de ti.'
+    words:
+      - ambezar
+  - ladino: A Djoha le disheron ke se amoke, se kito la nariz.
+    words:
+      - amokarse
+  - ladino: Teniyamos ornos para azer las tapas o enchusas.
+    words:
+      - anchusa
+  - ladino: Sokrate akel vertuozo ombre de la antikita...
+    words:
+      - antikita
+  - ladino: Kada uno se arraska onde le kome.
+    words:
+      - arraskarse
 
