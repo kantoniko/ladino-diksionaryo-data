@@ -1,0 +1,18 @@
+grammar: verb
+origen: NA
+
+versions:
+  - ladino: pelear
+
+    translations:
+      english: fight
+      french: ''
+      hebrew:
+        - להאבק
+        - להלחם
+        - לריב
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}

@@ -1,0 +1,17 @@
+grammar: adverb
+origen: NA
+
+versions:
+  - ladino: supito
+    accented: súpito
+
+    translations:
+      english: suddenly
+      french: ''
+      hebrew:
+        - פתאום
+        - לפתע
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
