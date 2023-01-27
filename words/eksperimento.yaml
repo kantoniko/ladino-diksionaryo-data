@@ -1,0 +1,30 @@
+grammar: NA
+origen: NA
+
+versions:
+  - ladino: eksperimento
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: experiment
+      french: ''
+      hebrew: ניסוי
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: eksperimentos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: experiments
+      french: ''
+      hebrew: ניסויים
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
