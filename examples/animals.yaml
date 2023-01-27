@@ -1,29 +1,28 @@
-examples:
-  - ladino: un perro blanko
-    english: a white dog
-  - ladino: dos perros chikos
-    english: two small dogs
-  - ladino: un gato
-    english: a cat
-  - ladino: dos gatos
-    english: two cat
-  - ladino: una vaka
-    english: a cow
-  - ladino: dos vakas
-    english: two cows
-  - ladino: una kulevra
-    english: a snake
-  - ladino: dos kulevras
-    english: two snakes
-  - ladino: un perro i dos kulevras
-    english: a dog and two snakes
-  - ladino: una mansana i una kulevra
-    english: an apple and a snake
-  - ladino: Es un kavayo
-    english: It is a horse
-  - ladino: Max es un perro
-    english: Max is a dog
-  - ladino: Un pato i un kavayo
-    english: A duck and a horse
+- ladino: un perro blanko
+  english: a white dog
+- ladino: dos perros chikos
+  english: two small dogs
+- ladino: un gato
+  english: a cat
+- ladino: dos gatos
+  english: two cat
+- ladino: una vaka
+  english: a cow
+- ladino: dos vakas
+  english: two cows
+- ladino: una kulevra
+  english: a snake
+- ladino: dos kulevras
+  english: two snakes
+- ladino: un perro i dos kulevras
+  english: a dog and two snakes
+- ladino: una mansana i una kulevra
+  english: an apple and a snake
+- ladino: Es un kavayo
+  english: It is a horse
+- ladino: Max es un perro
+  english: Max is a dog
+- ladino: Un pato i un kavayo
+  english: A duck and a horse
 
 

@@ -1,10 +1,9 @@
-examples:
-  - ladino: Ardjentina es un pais en sur Amerika
-    english: Argentina is a country in South America
-  - ladino: En Ardjentina la djente avla en Kasteyano
-    english: In Argentina the people speak in Spanish
-  - ladino: Bulgariya es en Evropa
-    english: Bulgaria is in Europe
-  - ladino: Meksiko es en Norte de Amerika
-    english: Mexico is in North America
+- ladino: Ardjentina es un pais en sur Amerika
+  english: Argentina is a country in South America
+- ladino: En Ardjentina la djente avla en Kasteyano
+  english: In Argentina the people speak in Spanish
+- ladino: Bulgariya es en Evropa
+  english: Bulgaria is in Europe
+- ladino: Meksiko es en Norte de Amerika
+  english: Mexico is in North America
 

@@ -1,24 +1,23 @@
-examples:
-  - ladino: Komo te yamas
-    english: What is your name
-  - ladino: De ke alkunya sos?
-    english: What is your surname?
-  - ladino: Ke linguas avlas?
-    english: What languages do you speak?
-  - ladino: Ke edad tyenes?
-    english: How old are you?
-  - ladino: Ande lavoras?
-    english: Where do you work?
-  - ladino: Onde lavoras?
-    english: Where do you work?
-  - ladino: Ande moras?
-    english: Where do you live?
-  - ladino: Onde moras?
-    english: Where do you live?
-  - ladino: Kuantos anyos tienes?
-    english: How old are you?
-  - ladino: Komo te plaze la sivdad?
-    english: How do you like the city?
-  - ladino: Kualo es esto?
-    english: What is this?
+- ladino: Komo te yamas
+  english: What is your name
+- ladino: De ke alkunya sos?
+  english: What is your surname?
+- ladino: Ke linguas avlas?
+  english: What languages do you speak?
+- ladino: Ke edad tyenes?
+  english: How old are you?
+- ladino: Ande lavoras?
+  english: Where do you work?
+- ladino: Onde lavoras?
+  english: Where do you work?
+- ladino: Ande moras?
+  english: Where do you live?
+- ladino: Onde moras?
+  english: Where do you live?
+- ladino: Kuantos anyos tienes?
+  english: How old are you?
+- ladino: Komo te plaze la sivdad?
+  english: How do you like the city?
+- ladino: Kualo es esto?
+  english: What is this?
 

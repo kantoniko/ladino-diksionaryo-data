@@ -1,946 +1,945 @@
-examples:
-  - ladino: Avriya el armario de la kuzina de mi nona.
-    words:
-      - kozina
-  - ladino: Kual es tu ijo?
-    words:
-      - kual
-  - ladino: Teniya 4-5 anyos i biviya serka de la Kula de Galata.
-    words:
-      - kula
-  - ladino: Era un poko simple i los amigos lo kureavan.
-    words:
-      - kurear
-  - ladino: Mirala.
-    words:
-      - la
-  - ladino: La kaza estava limpia.
-    words:
-      - limpio
-      - limpia
-  - ladino: Estamos luchando por el futuro.
-    words:
-      - luchar
-  - ladino: Lo yoramos ke se murio mansevo.
-    words:
-      - mansevo
-  - ladino: Kada anyo mijorado.
-    words:
-      - mijorado
-  - ladino: La madre  konsola su ijo, alimpiando sus ojos.
-    words:
-      - konsolar
-  - ladino: Ay munchas kurvas en este kamino.
-    words:
-      - korva
-  - ladino: Estos biervos krudos me shokan.
-    words:
-      - krudo
-  - ladino: Komimos kada uno el kuarto del melon.
-    words:
-      - kuarto
-  - ladino: Teniyamos oras ke se deviyan kurdear una vez al diya.
-    words:
-      - kurdear
-  - ladino: El kontenido de esta gazeta no atirava los lektores.
-    words:
-      - lektor
-  - ladino: Los lektores meldan la gazeta.
-    english: The readers read the newspaper.
-    words:
-      - lektor
-  - ladino: Los miembros de esta lista ya estan viendo komo lo eskrivimos.
-    words:
-      - lista
-  - ladino: Echale una manta enriva.
-    words:
-      - manta
-  - ladino: 'Shelomo dyo el menk en pokas palavras kual es el rolo tan importante de la madre. '
-    words:
-      - menk
-  - ladino: Sus lingua komun era el Fransez.
-    words:
-      - komun
-  - ladino: Es una persona muy komun.
-    words:
-      - komun
-  - ladino: Ay un bruido kontinual.
-    words:
-      - kontinual
-  - ladino: 'Kuando era chiko, mi ermano me ambezo estos versos:
-        "Yo so una kopeta
-        Kon sal i pimienta,
-        Me dan un bezo
-        Me kitan la savor."'
-    words:
-      - kopeta
-  - ladino: La koyadura era un poko mas grande de la sardela i de karne muy blanda.
-    words:
-      - koyadura
-  - ladino: Kuanto me das por ir i venir?
-    words:
-      - kuanto
-  - ladino: Gloria Ascher la va emplear en su kurso de kultura sefaradi.
-    words:
-      - kurso
-  - ladino: Le gustava kontar anekdotas tipikas sefardis.
-    words:
-      - le
-  - ladino: Abasha la komida de la lumbre.
-    words:
-      - lumbre
-  - ladino: 'Kero ser kapachi de kantar i meldar en djudéo-espanyól i yídish. '
-    words:
-      - meldar
-  - ladino: En invierno uzamos un kolchon de lana.
-    words:
-      - kolchon
-  - ladino: Me pushó a eskrivir en djudeo-espanyol mi komedia muzikal.
-    words:
-      - komedia
-  - ladino: Munchos amigos i konosidos no tienen komputadoras.
-    words:
-      - komputadora
-  - ladino: Ke ermozos son los kuentos de la tiya de Sulucha!
-    words:
-      - konseja
-  - ladino: Es kon orgolyo ke resivimos sus mesajes i konsejos.
-    words:
-      - konsejos
-  - ladino: Muestra erensia kultural, ke es la lingua, kultura, uzos i kostumbres...
-    words:
-      - kostumbre
-  - ladino: Kuento arreglado es medio pagado. (Neh.)
-    words:
-      - kuento
-  - ladino: Ay djente ke konfonden Ladino kon Latin.
-    words:
-      - latin
-  - ladino: Ke te sierva de lisyon.
-    words:
-      lisyon
-  - ladino: Djudios i Moros en la literatura espanyola...
-    words:
-      - moro
-  - ladino: Todos ke tengash un Kipur livyano i PAS EN EL MUNDO
-    words:
-      - kipur
-  - ladino: Les plaze gozar i savorear el klima dulse i la mar kayente.
-    words:
-      - klima
-  - ladino: Eliyahu aparesyo kon su manto kolorado sovre sus ombros.
-    words:
-      - kolorado
-  - ladino: Me dava a komer lentejas kon kuchara en la boka.
-    words:
-      - komer
-  - ladino: Yo komo pan
-    english: I eat bread
-    words:
-      - komer
-  - ladino: tu komes poko
-    english: You eat a little
-    words:
-      - komer
-  - ladino: tu deves komer mas
-    english: you have to eat more
-    words:
-      - komer
-  - ladino: Yo komo pan kon poyo.
-    english: I eat bread with chicken.
-    words:
-      - komer
-  - ladino: Me plaze komer mansana kon kezo
-    english: I like to eat apple with cheese
-    words:
-      - komer
-  - ladino: Mi ija tiene su konjelador en el garaj.
-    words:
-      - konjelador
-  - ladino: '...djudias fueron salvadas por amigos kristianos.'
-    words:
-      - kristiano
-  - ladino: Konservaron aspektos kulturales del Djudaismo.
-    words:
-      - kultural
-  - ladino: La ley es para todos.
-    words:
-      - ley
-  - ladino: Koryó afuera en riendose entre los mushos.
-    words:
-      - musho
-  - ladino: Ya me se izo kayo.
-    words:
-      - kayo
-  - ladino: Inchi un kestionario sovre el djudeo-espanyol.
-    words:
-      - kestionario
-  - ladino: Se kazo por la sigundo vez kon un ombre kito tambien.
-    words:
-      - kito
-  - ladino: Kolay i livyano ke te se aga.
-    words:
-      - kolay
-  - ladino: Meldimos kon muncha atension e interes los komentarios echos por muestros amigos.
-    words:
-      - komentario
-  - ladino: Devesh de konseder ke si en un pais ay munchas linguas, en akel pais...
-    words:
-      - konseder
-  - ladino: Kualo te plaze?
-    words:
-      - kualo
-  - ladino: Es un lavoro echo kon intelijensia i amor.
-    words:
-      - lavoro
-  - ladino: No te maraviyes...
-    words:
-      - maraviyarse
-      - maraviyes
-  - ladino: Ande esta la yave ke estava en el kashon?
-    english: Where is the key that was in the drawer?
-    words:
-      - kashon
-  - ladino: Veniya a vijitarmos kada tadre a tomar el kafe kon la mama.
-    words:
-      - kave
-  - ladino: Dezazer una keila para tomar un klavo. (Neh.)
-    words:
-      - keila
-  - ladino: Izimos borekas de kezo i patata.
-    words:
-      - kezo
-  - ladino: Lo ke le dishe, lo tomo por la kola.
-    words:
-      - kola
-  - ladino: 'Zevulun disho: "La mijor komida es avaz sekas kon arroz."'
-    words:
-      - komida
-  - ladino: Kita el korcho de la ridoma de vino.
-    words:
-      - korcho
-  - ladino: No tiene kunduryas al pye.
-    words:
-      - kundurya
-  - ladino: Biviyan en la maale de Balat en Estanbol.
-    words:
-      - maale
-  - ladino: Las metiya en un kanyamazo limpio.
-    words:
-      - kanyamazo
-  - ladino: Tengo menester de la resefta de Mina de Karne.
-    words:
-      - karne
-  - ladino: El katvan empeso a eskrivir un amuleto en la forma de una Menora.
-    words:
-      - katvan
-  - ladino: 'Ay muncho tiempo ke no vos eskrivo por kavza de mi grande okupasyon.  Kita la kavza, kita el pekado.'
-    words:
-      - kavza
-  - ladino: Ke ke te diga?
-    words:
-      - ke
-  - ladino: Mi granmama batia la lana de las kolchas en el balkon de la kaza.
-    words:
-      - kolcha
-  - ladino: La komunidad de 900 Judios de Salonika supo organizar un kongreso.
-    words:
-      - komunidad
-  - ladino: Muera Shimshon kon kuantos son.
-    words:
-       - kuantos
-  - ladino: Todos tenemos muestras pasiones i lokuras.
-    words:
-      - lokura
-  - ladino: Toparon de debasho de la tierra una kamareta muy vieja.
-    words:
-      - kamareta
-  - ladino: Estó muerta de kanserya.
-    words:
-      - kanserya
-  - ladino: Miro de eskrivir el karar ke puedo. Kere dizir ke si uno dio karar a una koza o si uno pensa una koza, no troka de opinion.
-    words:
-      - karar
-  - ladino: El otomobil tiene kuatro karuchas.
-    words:
-      - karucha
-  - ladino: '"Sofo letav" kere dizir "kavo bueno ke tengamos"!!!.'
-    words:
-      - kavo
-  - ladino: Me vo kon ti al kavo del mundo.
-    words:
-      - kavo
-  - ladino: Puede ofrirme de pagar parte de la kira de kaza.
-    words:
-      - kira
-  - ladino: Meldava tambien la kolumna de istoria en la gazeta kada dia.
-    words:
-      - kolumna
-  - ladino: Oy estan vendiendo al koste.
-    words:
-      - koste
-  - ladino: Ken lingua tiene, a Roma va.
-    words:
-      - lingua
-  - ladino: Van a tener (EL DIA DE DJOHA) el 20 de Junio.
-    words:
-      - junio
-  - ladino: 'Istanbullis: Vos keriya demandar si "el Kal de los Frankos" egziste oy. '
-    words:
-      - kal
-  - ladino: Ke tengan todos kaminos de leche i miel i al vermos.
-    words:
-      - kamino
-  - ladino: Estas palavras me sonan komo un kanto.
-    words:
-      - kanto
-  - ladino: Yo meldi tu karta kon muncho intereso.
-    words:
-      - karta
-  - ladino: En el enverano moz kedamos en kaza.
-    words:
-      - kaza
-  - ladino: Klikar aka para una vista de pasharo!
-    english: Click for a bird's eye view!
-    words:
-      - klikar
-  - ladino: Mis konferensias son siempre en ladino.
-    words:
-      - konferensia
-  - ladino: Espero ke mi letra te tope sano i saludozo.
-    words:
-      - letra
-  - ladino: No eskrivas una karta en un momento de ira.
-    words:
-      - ira
-  - ladino: Lo tuve un mez en mi kaza en la izla de Burgaz.
-    words:
-      - izla
-  - ladino: La kacha del livro es un blu vibrante.
-    words:
-      - kacha
-  - ladino: 'La kama es una buena koza, si no se durme se arrepoza. (Neh.)'
-    words:
-      - kama
-  - ladino: Una de las kantikas ke kanto es una ke tengo sintido en Izmir.
-    words:
-      - kantika
-  - ladino: El Kasteyano es madre de la lingua muestra.
-    words:
-      kasteyano
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: el-kasteyano-es-madre-de-la-lingua-muestra.ogg
-  - ladino: No agas kestyon de esto, ke no tiene emportansa.
-    words:
-      - kestion
-      - kestyon
-  - ladino: Entre kol i kol lechuga.
-    words:
-      - kol
-  - ladino: Dizir las kozas en lashon i ladino. (Neh.)
-    words:
-      - lashon
-  - ladino: No lo pudimos imprimir por los problemas del sistema Oneline.
-    words:
-      - imprimir
-  - ladino: Yo so investigador de Ladino.
-    words:
-      - investigador
-  - ladino: El italiana tambien es una lingua latina.
-    words:
-      - italiano
-      - italiana
-  - ladino: Se prestan maraviyozamente a edukar a las muevas jenerasiones.
-    words:
-      - jenerasion
-      - jenerasiones
-  - ladino: Sintimos muchos kantes en djudeo-espanyol.
-    words:
-      - kante
-      - kantes
-  - ladino: kanyúto de la naríz
-    words:
-      - kanyuto
-  - ladino: azer kitar la alma por el kanyuto de la nariz
-    words:
-      - kanyuto
-  - ladino: Todos endjuntos diziyamos la Agada, porke todos ya la saviyamos de kavesa.
-    words:
-      - kavesa
-  - ladino: Tiene kavesa dura.
-    words:
-      - kavesa
-  - ladino: Unos kuantos diyas antes, di la recheta de "koftes de prasa".
-    words:
-      - kofte
-  - ladino: Lavorar por un kulo de pipino.
-    words:
-      - kulo
-  - ladino: La ijika jdugava kon una kukla de handrajo.
-    words:
-      - handrajo
-  - ladino: Todos somos ijos de las Mitzvot.
-    words:
-      - ijos
-  - ladino: En New York--diziyamos "indiano" para "turkey" tambien, komo en la kaza de Matilda...
-    words:
-      - indiano
-  - ladino: Mi korason de papu se dirrityo komo inyeve al sol.
-    words:
-      - inyeve
-  - ladino: Va dar una vista jeneral de la aktividad de Ladinokomunita.
-    words:
-      - jeneral
-  - ladino: En kada kara tiene una kondja. (Neh.)
-    words:
-      - kara
-  - ladino: El mal i el bien en la kara se ven. (Neh.)
-    words:
-      - kara
-  - ladino: Kara de riza.
-    words:
-      - kara
-  - ladino: Kosta los ojos de la kara.
-    words:
-      - kara
-  - ladino: De un karnero no se kita dos kueros. (Neh.)
-    words:
-      - karnero
-  - ladino: Mersi muncho por tu repuesta muy klara.
-    english: Thank you very much for your clear response.
-    words:
-      - klaro
-  - ladino: Se puede meldar en kualkier livro de linguistika.
-    words:
-      - kualkier
-  - ladino: Ke haber? - Todo bueno.
-    words:
-      - haber
-  - ladino: Kada uno es haham en su ofisio. (Neh.)
-    words:
-      - haham
-  - ladino: El ganar i el pedrer son haverim.
-    words:
-      - haver
-      - haverim
-  - ladino: Si Selim save la imprimeriya, o komo se puede enkomendar, ke mos eskriva.
-    words:
-      - imprimeriya
-  - ladino: La dieron a los inyetos ke la guadren en kashon.
-    words:
-      - inyeto
-  - ladino: El dip de la kacharola ke este limpia.
-    words:
-      - kacharola
-  - ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
-    words:
-      - kampana
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: a-las-ocho-de-la-demanyana-la-kampana-de-la-eglisya-sona.ogg
-  - ladino: Me se alevantaron los kaveyos de la kavesa.
-    words:
-      - kaveyo
-  - ladino: La entrada es gratis.
-    english: The entrance is free.
-    words:
-      - gratis
-  - ladino: Las rompiyamos para goler el guesmo del pino.
-    words:
-      - guesmo
-  - ladino: No le plazyo akeya ijika  porke era muy hadroza.
-    words:
-      - hadrozo
-  - ladino: En mi chikes, ero un poko haragana.
-    words:
-      - haragan
-      - haragana
-  - ladino: Mizmo en Rodes diziyamos "indiana" por el inglez (turkey).
-    words:
-      - indiana
-  - ladino: Avlo en ivrit sovre la lingua i los uzos.
-    words:
-      - ivrit
-  - ladino: En el kruzero al Pasifiko, estuvimos en una kamara por dos personas.
-    words:
-      - kamara
-  - ladino: Durmiremos djuntos en un kavesal.
-    words:
-      - kavesal
-  - ladino: Vinieron muchos a darmos konsolasion.
-    words:
-      - konsolasion
-  - ladino: Kreygo ke el Forward es la mas popular gazeta djudia en los Estados Unidos.
-    words:
-      - gazeta
-  - ladino: Mas vale la prátika ke la gramátika. (Neh.)
-    words:
-      - gramatika
-  - ladino: Tenemos un grupo ke yamomos "Los Pregoneros" (The Storytellers).
-    words:
-      - grupo
-  - ladino: Para byen no puede, para mal se hadra. (Neh.)
-    words:
-      - hadrarse
-      - hadra
-  - ladino: Un dezayuno grande, kon boyos, burekas, guevos haminados, fritadas i frutas.
-    words:
-      - haminado
-      - haminados
-  - ladino: Los ke fuiyan de la Inkizision se aresentaron en munchas partes del mundo.
-    words:
-      - inkizision
-  - ladino: Bivimos ayi una vida jeneralmente trankila.
-    words:
-      - jeneralmente
-  - ladino: Puede ser ke se sienten kansados.
-    words:
-      - kansado
-  - ladino: Eskapimos la kompajinasyon del suplemento de la gazeta.
-    words:
-      - kompajinasyon
-  - ladino: Los tapetes de embasho, los lavavan kon furchas i agua.
-    words:
-      - furcha
-  - ladino: Los djudios de Estanbol gizan la gaya kon avramilas.
-    words:
-      gaya
-  - ladino: Gayá es un peshkado.
-    words:
-      gaya
-  - ladino: Kantikas espanyolas ke mos deshavan tresalidos a grandes i chikos...
-    words:
-      - grandes
-  - ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
-    words:
-      - guerko
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: ande-se-arrapa-el-guerko.ogg
-  - ladino: Es halis miel de bizba.
-    words:
-      - halis
-  - ladino: Mi papa importava esensyas para azer kolonya.
-    words:
-      - importar
-  - ladino: Mora kaji enfrente de mi.
-    words:
-      - kaji
-  - ladino: azer kemping
-    words:
-      - kemping
-  - ladino: Para su negregura no ay par.
-    words:
-      - negregura
-  - ladino: La fortuna es por ken la perkura. (Neh.)
-    words:
-      - fortuna
-  - ladino: Puedes friyir endjuntos unos pimientonikos para darle mas savor.
-    words:
-      - freier
-  - ladino: Ay muncha kalor, el sol esta fuego! (Neh.)
-    words:
-      - fuego
-  - ladino: Flama sin fuego no ay.
-    words:
-      - fuego
-  - ladino: Ya le vino la gana de kuzir.
-    words:
-      - gana
-  - ladino: Te mando un grande abraso.
-    words:
-      - grande
-  - ladino: Me va gustar muncho si un miembro los konose i me puede dar su adreso.
-    words:
-      - gustar
-  - ladino: El konosiya todos los hazinos i dava konsejos.
-    words:
-      - hazino
-  - ladino: El Sultan i El Haham
-    words:
-      - i
-  - ladino: Marido i mujer
-    words:
-      - i
-  - ladino: Se inyervo muncho i se metyo en kolora.
-    words:
-      - kolora
-  - ladino: Ni le esta deshando bever sigundo findjan.
-    words:
-      - findjan
-  - ladino: El Doktor Beraha era alto i muy flako, teniya un antojo sovre la nariz.
-    words:
-      - flako
-  - ladino: Sintyendo sus konsejos, el soverano izo fraguar la KIZ KULESI.
-    words:
-      - fraguar
-  - ladino: Lo mas de las frutas sekas vienen de Turkiya.
-    words:
-      - fruta
-  - ladino: Yevavamos galechas en el banyo.
-    words:
-      - galecha
-  - ladino: Munchas grasyas.
-    words:
-      - grasyas
-  - ladino: Mil grasyas al Dyo.
-    words:
-      - grasyas
-  - ladino: No tuvo pena a entrar grasyas al dezorden ke reynava entre los moradores.
-    words:
-      - grasyas
-  - ladino: Mos akodramos solo lo bueno i grasyas ke es ansina.
-    words:
-      - grasyas
-  - ladino: Kero ser fidel a la lingua ke me ambezi de kriatura.
-    words:
-      - fidel
-  - ladino: La gramatika tiene reglas fiksas para el uzo de las palavras.
-    words:
-      - fikso
-  - ladino: Si no me syento mijor, me kedare en kaza kon un buen flamur.
-    words:
-      - flamur
-  - ladino: El lavoro era simple, ma lo izo kon hadras de franko. (Neh.)
-    words:
-      - franko
-  - ladino: Ay furtuna en la mar.
-    words:
-      - furtuna
-  - ladino: Gozaremos de todo lo bueno de este mundo.
-    words:
-      - gozar
-  - ladino: Kuando avlo mentiras, el padre lo mato de haftona.
-    words:
-      - haftona
-  - ladino: Mi mama mos emburujava bueno bueno en invyerno.
-    words:
-      - invyerno
-  - ladino: Travavan la barka kon una kuedra en una karrucha.
-    words:
-      - karrucha
-  - ladino: Mi abuela favlava el Djudeo-Espanyol.
-    words:
-      - favlar
-  - ladino: Fevrero es el segundo mez del anyo.
-    english: February is the second month of the year.
-    words:
-      - fevrero
-  - ladino: Ijo de kriar, fierro de mashkar.
-    words:
-      - fierro
-  - ladino: Un buen komersante onora su firma.
-    words:
-      - firma
-  - ladino: La fragua mueva es komo un otel.
-    words:
-      - fragua
-  - ladino: Rogamos ke en el futuro mos eskrivas en Ladino.
-    words:
-      - futuro
-  - ladino: Guay de mi!
-    words:
-      - guay
-  - ladino: Guay de la madre ke me parió!
-    words:
-      - guay
-  - ladino: Ay! ke no ay! Ke si de lo ke no ay aviya, Ay! no aviya!
-    words:
-      - guay
-  - ladino: son ijos de dos ermanos
-    words:
-      - ijo
-  - ladino: No eskrivo..una razon es porke esto muy okupada.
-    words:
-      - okupado
-  - ladino: Estudios de lingua e istoria...
-    words:
-      - e
-  - ladino: 'Eya era la mas chika de 19 kriaturas! '
-    words:
-      - eya
-  - ladino: Solo fueron fantazias.
-    words:
-      - fantazia
-  - ladino: Está yeno de fedor.
-    words:
-      - fedor
-  - ladino: Te puedes fiar en eya.
-    words:
-      - fiarse
-  - ladino: No vos olvidesh de firmar i azer firmar la petisyon de Salonik.
-    words:
-      - firmar
-  - ladino: Lo metiya en un bokal i lo metiya en el frijider.
-    words:
-      - frijider
-  - ladino: El se lo giza, el se lo kome.
-    words:
-      - gizar
-  - ladino: Yama un hamal, ke te yeve la validja fin al vapor.
-    words:
-      - hamal
-  - ladino: En esto vamos a kedar? Avlaremos de otra koza.
-    words:
-      - este
-  - ladino: Entre estas i estas, ya se izo de noche.
-    words:
-      - este
-  - ladino: 'El profesor mos avlava de la istoria de los sefaradim. '
-    words:
-      - estoria
-  - ladino: Lo ke tienes de dizir, dimelo en facha.
-    words:
-      - facha
-  - ladino: Vermicelle es fideo o tel fidé en muestra lingua.
-    words:
-      - fideo
-  - ladino: El eskudo es una arma defensiva ke se yevava al braso siedro.
-    words:
-      - eskudo
-  - ladino: El padre izo de eskudo kon su kuerpo a la kriatura, durante el atako. (Kere dizir ke lo defendio kon su kuerpo).
-    words:
-      - eskudo
-  - ladino: El Eskudo de David (Magen David) es el simbolo del puevlo djudio.
-    words:
-      - eskudo
-    bozes:
-      - person: rachel-amado-bortnick
-        arkivo: el-eskudo-de-david-magen-david-es-el-simbolo-del-puevlo-djudio.ogg
-  - ladino: El "eskudo" era en pasado tambien una moneda portugeza.
-    words:
-      - eskudo
-  - ladino: Estimados Amigos de LK.
-    words:
-      - estimado
-  - ladino: El espanyol, fransez, italiano, ets. son linguas latinas.
-    words:
-      - ets
-  - ladino: Ke se les aga mas fasil i ke syerva a todos.
-    words:
-      - fasil
-  - ladino: Azen esforsos para no abandonar el folklor i la lingua de los avuelos.
-    words:
-      - folkrol
-  - ladino: Kerer bien por fuersa no ay. (Neh.)
-    words:
-      - fuersa
-  - ladino: Kualo son estas hadras, ke se kreye fulanika...
-    words:
-      - hadras
-  - ladino: Entre la esfuegra i la ermuera deshan la kaza sin barrir. (Neh.)
-    words:
-      - esfuagra
-  - ladino: Este sitio no es el lugar para eskrivir toda una vida.
-    words:
-      - eskrivir
-  - ladino: Devemos de estimarmos orozos !!
-    words:
-      - estimar
-  - ladino: No ay nada de esperar de eyos.
-    words:
-      - eyos
-  - ladino: Tantos muertos i feridos! Komo es pozivle esto?
-    words:
-      - ferir
-  - ladino: Devemos desidar i fiksar un program.
-    words:
-      - fiksar
-  - ladino: No me faze ni friyo ni kalor.
-    words:
-      - frio
-  - ladino: Mas vale el hazan ke todo el kal. (Neh.)
-    words:
-      - hazan
-  - ladino: Es bueno tener karas de riza en el entorno.
-    words:
-      - entrno
-  - ladino: Teniya dos ijas, mansevikas i muy ermozikas.
-    words:
-      - ermozo
-  - ladino: Lo tengo todo por eskrito.
-    words:
-      - eskrito
-  - ladino: No me kontes estoryas de mil i una noche.
-    words:
-      - estorias
-  - ladino: Por seguro ke semos todos una famiya.
-    words:
-      - famiya
-  - ladino: No tener ni ley, ni fey, ni profeta. (Neh.)
-    words:
-      - fey
-  - ladino: Ay formatos diferentes de archivos en el komputador.
-    words:
-      - formato
-  - ladino: Se eskondieron en kazas de amigos gregos durante el tiempo de la gerra.
-    words:
-      - grego
-  - ladino: Enshaguate la boka!
-    words:
-      - enshaguar
-  - ladino: Es el enteres ke lo giya.
-    words:
-      - enteres
-  - ladino: Saves de ke epoka era esta kantika?
-    words:
-      - epoka
-  - ladino: Espero ke viendra a tiempo.
-    words:
-      - esperar
-  - ladino: Yo espero ke tu saves ladino bien.
-    english: I hope you know Ladino well.
-    words:
-      - esperar
-  - ladino: El mas importante es el estudio del Gershom Scholem.
-    words:
-      - estudio
-  - ladino: De la fasha asta la mortaja, no te vas a azer benadam!
-    words:
-      - fasha
-  - ladino: La mancha kaye en el panyo mas fino.
-    words:
-      - fino
-  - ladino: Se inche de gomo de kezo, guevo i pan mojado. I todo esto al orno....
-    words:
-      - gomo
-  - ladino: Entre los dias 4 asta 9 de enero me vo topar en "Kings Point".
-    words:
-      - enero
-  - ladino: Enero es el primero mez del anyo.
-    english: January is the first month of the year.
-    words:
-      - enero
-  - ladino: Se kedo kon los mokos enkolgados.
-    words:
-      - enkolgar
-  - ladino: Pasa el fregon por ensima el moble.
-    words:
-      - ensima
-  - ladino: Bivo muy leshos, en el kampo.
-    words:
-      - en
-  - ladino: En Izmir dizen deskarinyo.
-    words:
-      - eskarinyo
-  - ladino: De la kavesa fyede el peshkado.
-    words:
-      - feder
-  - ladino: El fiado es dos vezes pagado.
-    words:
-      - fiado
-  - ladino: 'Vido a la ija del gevir i se namoro de eya. '
-    words:
-      - givir
-  - ladino: El tiene un livro de ley ke fue imprimado en Izmir .
-    words:
-      - emprimar
-  - ladino: Enfinkarse por las tiralanyas.
-    words:
-      - enfinkar
-  - ladino: Ya lo saven fista las pyedras de la kaye.
-    words:
-      - fista
-  - ladino: En Los Ladinadores ay afishes de los verbos reolares i tambien de los verbos iregolars.
-    words:
-      - iregolar
-  - ladino: Kuando uno merka una gazeta, deve darla emprestada.
-    words:
-      - emprestado
-  - ladino: Endagora abolti de Quiberon ande pasi unos 10 diyas.
-    words:
-      - endagora
-  - ladino: Aviya uno nombrado Jak Namer, el endevino.
-    words:
-      - endevino
-  - ladino: Esto todo se paso en la era Romana.
-    words:
-      - era
-  - ladino: Si no fago lo ke estó diziendo, no so fijo de mi padre (Neh.)
-    words:
-      - fijo
-  - ladino: 'Esto kale meterlo en un teatro Sefaradi. '
-    words:
-      - kale
-  - ladino: Vijitimos una guerta yena de flores i mos se embreneó la alma.
-    words:
-      - embrenearse
-  - ladino: Paga el emporto de la fatura.
-    words:
-      emporto
-  - ladino: 'Era titolado "Endechas sefardies (romances y coplas)" en un manuskrito...'
-    words:
-      - endecha
-  - ladino: Endechas de Tish''a BeAv.
-    words:
-      - endecha
-  - ladino: Ya está enkashada grande.
-    words:
-      - enkashada
-  - ladino: Aki te mando unos kuantos enshemplos del fenomeno linguistiko.
-    words:
-      - enshemplo
-  - ladino: Es una prova de la ermozura i de la rikeza de muestra kultura.
-    words:
-      - ermozura
-  - ladino: El grupo Ladinokomunita tiene mas de 1500 miembros espandidos en el mundo entero.
-    words:
-      - espandido
-  - ladino: Tener feuzya en el Dio, no en fijo de ombre. (Neh.)
-    words:
-      - feuzya
-  - ladino: En Israel los djudios avlan en ebreo.
-    words:
-      - ebreo
-  - ladino: En Israel puedes merkar livros ebreos.
-    words:
-      - ebreo
-  - ladino: En un diksionaryo puedes topar las traduksiones ebreas de palavras en ladino.
-    words:
-      - ebreo
-  - ladino: Para kada palavra nesesitamos un egzempio en una fraza.
-    words:
-      - egzempio
-#    bozes:
-#      - person: szabgab
-#        arkivo: para_kada_palavra.ogg
-  - ladino: Te podemos dar munchos egzemplos. (Uzan en Izmir)
-    words:
-      - egzempio
-  - ladino: No olvidaremos la emportansa de las palavras.
-    words:
-      - emportansa
-  - ladino: El internet es muy importante para mantener bivo el ladino.
-    words:
-      - emportante
-  - ladino: Yo no konosko "dumalan", ma lo tiene el diksionaryo de Nehama.
-    words:
-      - dumalan
-  - ladino: Yo perkuri, i finalmente lo efasi los de esta letra.
-    words:
-      - efasar
-  - ladino: Atyo, esto esta de embrenear!
-    words:
-      - embrenear
-  - ladino: Emprimero, ¡SHANA TOVA U METUKA!! ANYADA BUENA I DULSE!
-    words:
-      - emprimero
-  - ladino: Kualo ke aga emprimero?
-    words:
-      - emprimero
-  - ladino: Para ke no veya su madre ke estava meldando akel livro, lo enkasho aryentro del baul.
-    words:
-      - enkashar
-  - ladino: Le vendió el livro viejo a tripio de presio.  Se la enkasho fino.
-    words:
-      - enkashar
-  - ladino: Los artikolos ke meldamos en Ladinokomunita son uno mas enteresante del otro.
-    words:
-      - enteresante
-  - ladino: Mi mama teniya una eskritura muy buena.
-    words:
-      - eskritura
+- ladino: Avriya el armario de la kuzina de mi nona.
+  words:
+    - kozina
+- ladino: Kual es tu ijo?
+  words:
+    - kual
+- ladino: Teniya 4-5 anyos i biviya serka de la Kula de Galata.
+  words:
+    - kula
+- ladino: Era un poko simple i los amigos lo kureavan.
+  words:
+    - kurear
+- ladino: Mirala.
+  words:
+    - la
+- ladino: La kaza estava limpia.
+  words:
+    - limpio
+    - limpia
+- ladino: Estamos luchando por el futuro.
+  words:
+    - luchar
+- ladino: Lo yoramos ke se murio mansevo.
+  words:
+    - mansevo
+- ladino: Kada anyo mijorado.
+  words:
+    - mijorado
+- ladino: La madre  konsola su ijo, alimpiando sus ojos.
+  words:
+    - konsolar
+- ladino: Ay munchas kurvas en este kamino.
+  words:
+    - korva
+- ladino: Estos biervos krudos me shokan.
+  words:
+    - krudo
+- ladino: Komimos kada uno el kuarto del melon.
+  words:
+    - kuarto
+- ladino: Teniyamos oras ke se deviyan kurdear una vez al diya.
+  words:
+    - kurdear
+- ladino: El kontenido de esta gazeta no atirava los lektores.
+  words:
+    - lektor
+- ladino: Los lektores meldan la gazeta.
+  english: The readers read the newspaper.
+  words:
+    - lektor
+- ladino: Los miembros de esta lista ya estan viendo komo lo eskrivimos.
+  words:
+    - lista
+- ladino: Echale una manta enriva.
+  words:
+    - manta
+- ladino: 'Shelomo dyo el menk en pokas palavras kual es el rolo tan importante de la madre. '
+  words:
+    - menk
+- ladino: Sus lingua komun era el Fransez.
+  words:
+    - komun
+- ladino: Es una persona muy komun.
+  words:
+    - komun
+- ladino: Ay un bruido kontinual.
+  words:
+    - kontinual
+- ladino: 'Kuando era chiko, mi ermano me ambezo estos versos:
+      "Yo so una kopeta
+      Kon sal i pimienta,
+      Me dan un bezo
+      Me kitan la savor."'
+  words:
+    - kopeta
+- ladino: La koyadura era un poko mas grande de la sardela i de karne muy blanda.
+  words:
+    - koyadura
+- ladino: Kuanto me das por ir i venir?
+  words:
+    - kuanto
+- ladino: Gloria Ascher la va emplear en su kurso de kultura sefaradi.
+  words:
+    - kurso
+- ladino: Le gustava kontar anekdotas tipikas sefardis.
+  words:
+    - le
+- ladino: Abasha la komida de la lumbre.
+  words:
+    - lumbre
+- ladino: 'Kero ser kapachi de kantar i meldar en djudéo-espanyól i yídish. '
+  words:
+    - meldar
+- ladino: En invierno uzamos un kolchon de lana.
+  words:
+    - kolchon
+- ladino: Me pushó a eskrivir en djudeo-espanyol mi komedia muzikal.
+  words:
+    - komedia
+- ladino: Munchos amigos i konosidos no tienen komputadoras.
+  words:
+    - komputadora
+- ladino: Ke ermozos son los kuentos de la tiya de Sulucha!
+  words:
+    - konseja
+- ladino: Es kon orgolyo ke resivimos sus mesajes i konsejos.
+  words:
+    - konsejos
+- ladino: Muestra erensia kultural, ke es la lingua, kultura, uzos i kostumbres...
+  words:
+    - kostumbre
+- ladino: Kuento arreglado es medio pagado. (Neh.)
+  words:
+    - kuento
+- ladino: Ay djente ke konfonden Ladino kon Latin.
+  words:
+    - latin
+- ladino: Ke te sierva de lisyon.
+  words:
+    lisyon
+- ladino: Djudios i Moros en la literatura espanyola...
+  words:
+    - moro
+- ladino: Todos ke tengash un Kipur livyano i PAS EN EL MUNDO
+  words:
+    - kipur
+- ladino: Les plaze gozar i savorear el klima dulse i la mar kayente.
+  words:
+    - klima
+- ladino: Eliyahu aparesyo kon su manto kolorado sovre sus ombros.
+  words:
+    - kolorado
+- ladino: Me dava a komer lentejas kon kuchara en la boka.
+  words:
+    - komer
+- ladino: Yo komo pan
+  english: I eat bread
+  words:
+    - komer
+- ladino: tu komes poko
+  english: You eat a little
+  words:
+    - komer
+- ladino: tu deves komer mas
+  english: you have to eat more
+  words:
+    - komer
+- ladino: Yo komo pan kon poyo.
+  english: I eat bread with chicken.
+  words:
+    - komer
+- ladino: Me plaze komer mansana kon kezo
+  english: I like to eat apple with cheese
+  words:
+    - komer
+- ladino: Mi ija tiene su konjelador en el garaj.
+  words:
+    - konjelador
+- ladino: '...djudias fueron salvadas por amigos kristianos.'
+  words:
+    - kristiano
+- ladino: Konservaron aspektos kulturales del Djudaismo.
+  words:
+    - kultural
+- ladino: La ley es para todos.
+  words:
+    - ley
+- ladino: Koryó afuera en riendose entre los mushos.
+  words:
+    - musho
+- ladino: Ya me se izo kayo.
+  words:
+    - kayo
+- ladino: Inchi un kestionario sovre el djudeo-espanyol.
+  words:
+    - kestionario
+- ladino: Se kazo por la sigundo vez kon un ombre kito tambien.
+  words:
+    - kito
+- ladino: Kolay i livyano ke te se aga.
+  words:
+    - kolay
+- ladino: Meldimos kon muncha atension e interes los komentarios echos por muestros amigos.
+  words:
+    - komentario
+- ladino: Devesh de konseder ke si en un pais ay munchas linguas, en akel pais...
+  words:
+    - konseder
+- ladino: Kualo te plaze?
+  words:
+    - kualo
+- ladino: Es un lavoro echo kon intelijensia i amor.
+  words:
+    - lavoro
+- ladino: No te maraviyes...
+  words:
+    - maraviyarse
+    - maraviyes
+- ladino: Ande esta la yave ke estava en el kashon?
+  english: Where is the key that was in the drawer?
+  words:
+    - kashon
+- ladino: Veniya a vijitarmos kada tadre a tomar el kafe kon la mama.
+  words:
+    - kave
+- ladino: Dezazer una keila para tomar un klavo. (Neh.)
+  words:
+    - keila
+- ladino: Izimos borekas de kezo i patata.
+  words:
+    - kezo
+- ladino: Lo ke le dishe, lo tomo por la kola.
+  words:
+    - kola
+- ladino: 'Zevulun disho: "La mijor komida es avaz sekas kon arroz."'
+  words:
+    - komida
+- ladino: Kita el korcho de la ridoma de vino.
+  words:
+    - korcho
+- ladino: No tiene kunduryas al pye.
+  words:
+    - kundurya
+- ladino: Biviyan en la maale de Balat en Estanbol.
+  words:
+    - maale
+- ladino: Las metiya en un kanyamazo limpio.
+  words:
+    - kanyamazo
+- ladino: Tengo menester de la resefta de Mina de Karne.
+  words:
+    - karne
+- ladino: El katvan empeso a eskrivir un amuleto en la forma de una Menora.
+  words:
+    - katvan
+- ladino: 'Ay muncho tiempo ke no vos eskrivo por kavza de mi grande okupasyon.  Kita la kavza, kita el pekado.'
+  words:
+    - kavza
+- ladino: Ke ke te diga?
+  words:
+    - ke
+- ladino: Mi granmama batia la lana de las kolchas en el balkon de la kaza.
+  words:
+    - kolcha
+- ladino: La komunidad de 900 Judios de Salonika supo organizar un kongreso.
+  words:
+    - komunidad
+- ladino: Muera Shimshon kon kuantos son.
+  words:
+     - kuantos
+- ladino: Todos tenemos muestras pasiones i lokuras.
+  words:
+    - lokura
+- ladino: Toparon de debasho de la tierra una kamareta muy vieja.
+  words:
+    - kamareta
+- ladino: Estó muerta de kanserya.
+  words:
+    - kanserya
+- ladino: Miro de eskrivir el karar ke puedo. Kere dizir ke si uno dio karar a una koza o si uno pensa una koza, no troka de opinion.
+  words:
+    - karar
+- ladino: El otomobil tiene kuatro karuchas.
+  words:
+    - karucha
+- ladino: '"Sofo letav" kere dizir "kavo bueno ke tengamos"!!!.'
+  words:
+    - kavo
+- ladino: Me vo kon ti al kavo del mundo.
+  words:
+    - kavo
+- ladino: Puede ofrirme de pagar parte de la kira de kaza.
+  words:
+    - kira
+- ladino: Meldava tambien la kolumna de istoria en la gazeta kada dia.
+  words:
+    - kolumna
+- ladino: Oy estan vendiendo al koste.
+  words:
+    - koste
+- ladino: Ken lingua tiene, a Roma va.
+  words:
+    - lingua
+- ladino: Van a tener (EL DIA DE DJOHA) el 20 de Junio.
+  words:
+    - junio
+- ladino: 'Istanbullis: Vos keriya demandar si "el Kal de los Frankos" egziste oy. '
+  words:
+    - kal
+- ladino: Ke tengan todos kaminos de leche i miel i al vermos.
+  words:
+    - kamino
+- ladino: Estas palavras me sonan komo un kanto.
+  words:
+    - kanto
+- ladino: Yo meldi tu karta kon muncho intereso.
+  words:
+    - karta
+- ladino: En el enverano moz kedamos en kaza.
+  words:
+    - kaza
+- ladino: Klikar aka para una vista de pasharo!
+  english: Click for a bird's eye view!
+  words:
+    - klikar
+- ladino: Mis konferensias son siempre en ladino.
+  words:
+    - konferensia
+- ladino: Espero ke mi letra te tope sano i saludozo.
+  words:
+    - letra
+- ladino: No eskrivas una karta en un momento de ira.
+  words:
+    - ira
+- ladino: Lo tuve un mez en mi kaza en la izla de Burgaz.
+  words:
+    - izla
+- ladino: La kacha del livro es un blu vibrante.
+  words:
+    - kacha
+- ladino: 'La kama es una buena koza, si no se durme se arrepoza. (Neh.)'
+  words:
+    - kama
+- ladino: Una de las kantikas ke kanto es una ke tengo sintido en Izmir.
+  words:
+    - kantika
+- ladino: El Kasteyano es madre de la lingua muestra.
+  words:
+    kasteyano
+  bozes:
+    - person: rachel-amado-bortnick
+      arkivo: el-kasteyano-es-madre-de-la-lingua-muestra.ogg
+- ladino: No agas kestyon de esto, ke no tiene emportansa.
+  words:
+    - kestion
+    - kestyon
+- ladino: Entre kol i kol lechuga.
+  words:
+    - kol
+- ladino: Dizir las kozas en lashon i ladino. (Neh.)
+  words:
+    - lashon
+- ladino: No lo pudimos imprimir por los problemas del sistema Oneline.
+  words:
+    - imprimir
+- ladino: Yo so investigador de Ladino.
+  words:
+    - investigador
+- ladino: El italiana tambien es una lingua latina.
+  words:
+    - italiano
+    - italiana
+- ladino: Se prestan maraviyozamente a edukar a las muevas jenerasiones.
+  words:
+    - jenerasion
+    - jenerasiones
+- ladino: Sintimos muchos kantes en djudeo-espanyol.
+  words:
+    - kante
+    - kantes
+- ladino: kanyúto de la naríz
+  words:
+    - kanyuto
+- ladino: azer kitar la alma por el kanyuto de la nariz
+  words:
+    - kanyuto
+- ladino: Todos endjuntos diziyamos la Agada, porke todos ya la saviyamos de kavesa.
+  words:
+    - kavesa
+- ladino: Tiene kavesa dura.
+  words:
+    - kavesa
+- ladino: Unos kuantos diyas antes, di la recheta de "koftes de prasa".
+  words:
+    - kofte
+- ladino: Lavorar por un kulo de pipino.
+  words:
+    - kulo
+- ladino: La ijika jdugava kon una kukla de handrajo.
+  words:
+    - handrajo
+- ladino: Todos somos ijos de las Mitzvot.
+  words:
+    - ijos
+- ladino: En New York--diziyamos "indiano" para "turkey" tambien, komo en la kaza de Matilda...
+  words:
+    - indiano
+- ladino: Mi korason de papu se dirrityo komo inyeve al sol.
+  words:
+    - inyeve
+- ladino: Va dar una vista jeneral de la aktividad de Ladinokomunita.
+  words:
+    - jeneral
+- ladino: En kada kara tiene una kondja. (Neh.)
+  words:
+    - kara
+- ladino: El mal i el bien en la kara se ven. (Neh.)
+  words:
+    - kara
+- ladino: Kara de riza.
+  words:
+    - kara
+- ladino: Kosta los ojos de la kara.
+  words:
+    - kara
+- ladino: De un karnero no se kita dos kueros. (Neh.)
+  words:
+    - karnero
+- ladino: Mersi muncho por tu repuesta muy klara.
+  english: Thank you very much for your clear response.
+  words:
+    - klaro
+- ladino: Se puede meldar en kualkier livro de linguistika.
+  words:
+    - kualkier
+- ladino: Ke haber? - Todo bueno.
+  words:
+    - haber
+- ladino: Kada uno es haham en su ofisio. (Neh.)
+  words:
+    - haham
+- ladino: El ganar i el pedrer son haverim.
+  words:
+    - haver
+    - haverim
+- ladino: Si Selim save la imprimeriya, o komo se puede enkomendar, ke mos eskriva.
+  words:
+    - imprimeriya
+- ladino: La dieron a los inyetos ke la guadren en kashon.
+  words:
+    - inyeto
+- ladino: El dip de la kacharola ke este limpia.
+  words:
+    - kacharola
+- ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
+  words:
+    - kampana
+  bozes:
+    - person: rachel-amado-bortnick
+      arkivo: a-las-ocho-de-la-demanyana-la-kampana-de-la-eglisya-sona.ogg
+- ladino: Me se alevantaron los kaveyos de la kavesa.
+  words:
+    - kaveyo
+- ladino: La entrada es gratis.
+  english: The entrance is free.
+  words:
+    - gratis
+- ladino: Las rompiyamos para goler el guesmo del pino.
+  words:
+    - guesmo
+- ladino: No le plazyo akeya ijika  porke era muy hadroza.
+  words:
+    - hadrozo
+- ladino: En mi chikes, ero un poko haragana.
+  words:
+    - haragan
+    - haragana
+- ladino: Mizmo en Rodes diziyamos "indiana" por el inglez (turkey).
+  words:
+    - indiana
+- ladino: Avlo en ivrit sovre la lingua i los uzos.
+  words:
+    - ivrit
+- ladino: En el kruzero al Pasifiko, estuvimos en una kamara por dos personas.
+  words:
+    - kamara
+- ladino: Durmiremos djuntos en un kavesal.
+  words:
+    - kavesal
+- ladino: Vinieron muchos a darmos konsolasion.
+  words:
+    - konsolasion
+- ladino: Kreygo ke el Forward es la mas popular gazeta djudia en los Estados Unidos.
+  words:
+    - gazeta
+- ladino: Mas vale la prátika ke la gramátika. (Neh.)
+  words:
+    - gramatika
+- ladino: Tenemos un grupo ke yamomos "Los Pregoneros" (The Storytellers).
+  words:
+    - grupo
+- ladino: Para byen no puede, para mal se hadra. (Neh.)
+  words:
+    - hadrarse
+    - hadra
+- ladino: Un dezayuno grande, kon boyos, burekas, guevos haminados, fritadas i frutas.
+  words:
+    - haminado
+    - haminados
+- ladino: Los ke fuiyan de la Inkizision se aresentaron en munchas partes del mundo.
+  words:
+    - inkizision
+- ladino: Bivimos ayi una vida jeneralmente trankila.
+  words:
+    - jeneralmente
+- ladino: Puede ser ke se sienten kansados.
+  words:
+    - kansado
+- ladino: Eskapimos la kompajinasyon del suplemento de la gazeta.
+  words:
+    - kompajinasyon
+- ladino: Los tapetes de embasho, los lavavan kon furchas i agua.
+  words:
+    - furcha
+- ladino: Los djudios de Estanbol gizan la gaya kon avramilas.
+  words:
+    gaya
+- ladino: Gayá es un peshkado.
+  words:
+    gaya
+- ladino: Kantikas espanyolas ke mos deshavan tresalidos a grandes i chikos...
+  words:
+    - grandes
+- ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
+  words:
+    - guerko
+  bozes:
+    - person: rachel-amado-bortnick
+      arkivo: ande-se-arrapa-el-guerko.ogg
+- ladino: Es halis miel de bizba.
+  words:
+    - halis
+- ladino: Mi papa importava esensyas para azer kolonya.
+  words:
+    - importar
+- ladino: Mora kaji enfrente de mi.
+  words:
+    - kaji
+- ladino: azer kemping
+  words:
+    - kemping
+- ladino: Para su negregura no ay par.
+  words:
+    - negregura
+- ladino: La fortuna es por ken la perkura. (Neh.)
+  words:
+    - fortuna
+- ladino: Puedes friyir endjuntos unos pimientonikos para darle mas savor.
+  words:
+    - freier
+- ladino: Ay muncha kalor, el sol esta fuego! (Neh.)
+  words:
+    - fuego
+- ladino: Flama sin fuego no ay.
+  words:
+    - fuego
+- ladino: Ya le vino la gana de kuzir.
+  words:
+    - gana
+- ladino: Te mando un grande abraso.
+  words:
+    - grande
+- ladino: Me va gustar muncho si un miembro los konose i me puede dar su adreso.
+  words:
+    - gustar
+- ladino: El konosiya todos los hazinos i dava konsejos.
+  words:
+    - hazino
+- ladino: El Sultan i El Haham
+  words:
+    - i
+- ladino: Marido i mujer
+  words:
+    - i
+- ladino: Se inyervo muncho i se metyo en kolora.
+  words:
+    - kolora
+- ladino: Ni le esta deshando bever sigundo findjan.
+  words:
+    - findjan
+- ladino: El Doktor Beraha era alto i muy flako, teniya un antojo sovre la nariz.
+  words:
+    - flako
+- ladino: Sintyendo sus konsejos, el soverano izo fraguar la KIZ KULESI.
+  words:
+    - fraguar
+- ladino: Lo mas de las frutas sekas vienen de Turkiya.
+  words:
+    - fruta
+- ladino: Yevavamos galechas en el banyo.
+  words:
+    - galecha
+- ladino: Munchas grasyas.
+  words:
+    - grasyas
+- ladino: Mil grasyas al Dyo.
+  words:
+    - grasyas
+- ladino: No tuvo pena a entrar grasyas al dezorden ke reynava entre los moradores.
+  words:
+    - grasyas
+- ladino: Mos akodramos solo lo bueno i grasyas ke es ansina.
+  words:
+    - grasyas
+- ladino: Kero ser fidel a la lingua ke me ambezi de kriatura.
+  words:
+    - fidel
+- ladino: La gramatika tiene reglas fiksas para el uzo de las palavras.
+  words:
+    - fikso
+- ladino: Si no me syento mijor, me kedare en kaza kon un buen flamur.
+  words:
+    - flamur
+- ladino: El lavoro era simple, ma lo izo kon hadras de franko. (Neh.)
+  words:
+    - franko
+- ladino: Ay furtuna en la mar.
+  words:
+    - furtuna
+- ladino: Gozaremos de todo lo bueno de este mundo.
+  words:
+    - gozar
+- ladino: Kuando avlo mentiras, el padre lo mato de haftona.
+  words:
+    - haftona
+- ladino: Mi mama mos emburujava bueno bueno en invyerno.
+  words:
+    - invyerno
+- ladino: Travavan la barka kon una kuedra en una karrucha.
+  words:
+    - karrucha
+- ladino: Mi abuela favlava el Djudeo-Espanyol.
+  words:
+    - favlar
+- ladino: Fevrero es el segundo mez del anyo.
+  english: February is the second month of the year.
+  words:
+    - fevrero
+- ladino: Ijo de kriar, fierro de mashkar.
+  words:
+    - fierro
+- ladino: Un buen komersante onora su firma.
+  words:
+    - firma
+- ladino: La fragua mueva es komo un otel.
+  words:
+    - fragua
+- ladino: Rogamos ke en el futuro mos eskrivas en Ladino.
+  words:
+    - futuro
+- ladino: Guay de mi!
+  words:
+    - guay
+- ladino: Guay de la madre ke me parió!
+  words:
+    - guay
+- ladino: Ay! ke no ay! Ke si de lo ke no ay aviya, Ay! no aviya!
+  words:
+    - guay
+- ladino: son ijos de dos ermanos
+  words:
+    - ijo
+- ladino: No eskrivo..una razon es porke esto muy okupada.
+  words:
+    - okupado
+- ladino: Estudios de lingua e istoria...
+  words:
+    - e
+- ladino: 'Eya era la mas chika de 19 kriaturas! '
+  words:
+    - eya
+- ladino: Solo fueron fantazias.
+  words:
+    - fantazia
+- ladino: Está yeno de fedor.
+  words:
+    - fedor
+- ladino: Te puedes fiar en eya.
+  words:
+    - fiarse
+- ladino: No vos olvidesh de firmar i azer firmar la petisyon de Salonik.
+  words:
+    - firmar
+- ladino: Lo metiya en un bokal i lo metiya en el frijider.
+  words:
+    - frijider
+- ladino: El se lo giza, el se lo kome.
+  words:
+    - gizar
+- ladino: Yama un hamal, ke te yeve la validja fin al vapor.
+  words:
+    - hamal
+- ladino: En esto vamos a kedar? Avlaremos de otra koza.
+  words:
+    - este
+- ladino: Entre estas i estas, ya se izo de noche.
+  words:
+    - este
+- ladino: 'El profesor mos avlava de la istoria de los sefaradim. '
+  words:
+    - estoria
+- ladino: Lo ke tienes de dizir, dimelo en facha.
+  words:
+    - facha
+- ladino: Vermicelle es fideo o tel fidé en muestra lingua.
+  words:
+    - fideo
+- ladino: El eskudo es una arma defensiva ke se yevava al braso siedro.
+  words:
+    - eskudo
+- ladino: El padre izo de eskudo kon su kuerpo a la kriatura, durante el atako. (Kere dizir ke lo defendio kon su kuerpo).
+  words:
+    - eskudo
+- ladino: El Eskudo de David (Magen David) es el simbolo del puevlo djudio.
+  words:
+    - eskudo
+  bozes:
+    - person: rachel-amado-bortnick
+      arkivo: el-eskudo-de-david-magen-david-es-el-simbolo-del-puevlo-djudio.ogg
+- ladino: El "eskudo" era en pasado tambien una moneda portugeza.
+  words:
+    - eskudo
+- ladino: Estimados Amigos de LK.
+  words:
+    - estimado
+- ladino: El espanyol, fransez, italiano, ets. son linguas latinas.
+  words:
+    - ets
+- ladino: Ke se les aga mas fasil i ke syerva a todos.
+  words:
+    - fasil
+- ladino: Azen esforsos para no abandonar el folklor i la lingua de los avuelos.
+  words:
+    - folkrol
+- ladino: Kerer bien por fuersa no ay. (Neh.)
+  words:
+    - fuersa
+- ladino: Kualo son estas hadras, ke se kreye fulanika...
+  words:
+    - hadras
+- ladino: Entre la esfuegra i la ermuera deshan la kaza sin barrir. (Neh.)
+  words:
+    - esfuagra
+- ladino: Este sitio no es el lugar para eskrivir toda una vida.
+  words:
+    - eskrivir
+- ladino: Devemos de estimarmos orozos !!
+  words:
+    - estimar
+- ladino: No ay nada de esperar de eyos.
+  words:
+    - eyos
+- ladino: Tantos muertos i feridos! Komo es pozivle esto?
+  words:
+    - ferir
+- ladino: Devemos desidar i fiksar un program.
+  words:
+    - fiksar
+- ladino: No me faze ni friyo ni kalor.
+  words:
+    - frio
+- ladino: Mas vale el hazan ke todo el kal. (Neh.)
+  words:
+    - hazan
+- ladino: Es bueno tener karas de riza en el entorno.
+  words:
+    - entrno
+- ladino: Teniya dos ijas, mansevikas i muy ermozikas.
+  words:
+    - ermozo
+- ladino: Lo tengo todo por eskrito.
+  words:
+    - eskrito
+- ladino: No me kontes estoryas de mil i una noche.
+  words:
+    - estorias
+- ladino: Por seguro ke semos todos una famiya.
+  words:
+    - famiya
+- ladino: No tener ni ley, ni fey, ni profeta. (Neh.)
+  words:
+    - fey
+- ladino: Ay formatos diferentes de archivos en el komputador.
+  words:
+    - formato
+- ladino: Se eskondieron en kazas de amigos gregos durante el tiempo de la gerra.
+  words:
+    - grego
+- ladino: Enshaguate la boka!
+  words:
+    - enshaguar
+- ladino: Es el enteres ke lo giya.
+  words:
+    - enteres
+- ladino: Saves de ke epoka era esta kantika?
+  words:
+    - epoka
+- ladino: Espero ke viendra a tiempo.
+  words:
+    - esperar
+- ladino: Yo espero ke tu saves ladino bien.
+  english: I hope you know Ladino well.
+  words:
+    - esperar
+- ladino: El mas importante es el estudio del Gershom Scholem.
+  words:
+    - estudio
+- ladino: De la fasha asta la mortaja, no te vas a azer benadam!
+  words:
+    - fasha
+- ladino: La mancha kaye en el panyo mas fino.
+  words:
+    - fino
+- ladino: Se inche de gomo de kezo, guevo i pan mojado. I todo esto al orno....
+  words:
+    - gomo
+- ladino: Entre los dias 4 asta 9 de enero me vo topar en "Kings Point".
+  words:
+    - enero
+- ladino: Enero es el primero mez del anyo.
+  english: January is the first month of the year.
+  words:
+    - enero
+- ladino: Se kedo kon los mokos enkolgados.
+  words:
+    - enkolgar
+- ladino: Pasa el fregon por ensima el moble.
+  words:
+    - ensima
+- ladino: Bivo muy leshos, en el kampo.
+  words:
+    - en
+- ladino: En Izmir dizen deskarinyo.
+  words:
+    - eskarinyo
+- ladino: De la kavesa fyede el peshkado.
+  words:
+    - feder
+- ladino: El fiado es dos vezes pagado.
+  words:
+    - fiado
+- ladino: 'Vido a la ija del gevir i se namoro de eya. '
+  words:
+    - givir
+- ladino: El tiene un livro de ley ke fue imprimado en Izmir .
+  words:
+    - emprimar
+- ladino: Enfinkarse por las tiralanyas.
+  words:
+    - enfinkar
+- ladino: Ya lo saven fista las pyedras de la kaye.
+  words:
+    - fista
+- ladino: En Los Ladinadores ay afishes de los verbos reolares i tambien de los verbos iregolars.
+  words:
+    - iregolar
+- ladino: Kuando uno merka una gazeta, deve darla emprestada.
+  words:
+    - emprestado
+- ladino: Endagora abolti de Quiberon ande pasi unos 10 diyas.
+  words:
+    - endagora
+- ladino: Aviya uno nombrado Jak Namer, el endevino.
+  words:
+    - endevino
+- ladino: Esto todo se paso en la era Romana.
+  words:
+    - era
+- ladino: Si no fago lo ke estó diziendo, no so fijo de mi padre (Neh.)
+  words:
+    - fijo
+- ladino: 'Esto kale meterlo en un teatro Sefaradi. '
+  words:
+    - kale
+- ladino: Vijitimos una guerta yena de flores i mos se embreneó la alma.
+  words:
+    - embrenearse
+- ladino: Paga el emporto de la fatura.
+  words:
+    emporto
+- ladino: 'Era titolado "Endechas sefardies (romances y coplas)" en un manuskrito...'
+  words:
+    - endecha
+- ladino: Endechas de Tish''a BeAv.
+  words:
+    - endecha
+- ladino: Ya está enkashada grande.
+  words:
+    - enkashada
+- ladino: Aki te mando unos kuantos enshemplos del fenomeno linguistiko.
+  words:
+    - enshemplo
+- ladino: Es una prova de la ermozura i de la rikeza de muestra kultura.
+  words:
+    - ermozura
+- ladino: El grupo Ladinokomunita tiene mas de 1500 miembros espandidos en el mundo entero.
+  words:
+    - espandido
+- ladino: Tener feuzya en el Dio, no en fijo de ombre. (Neh.)
+  words:
+    - feuzya
+- ladino: En Israel los djudios avlan en ebreo.
+  words:
+    - ebreo
+- ladino: En Israel puedes merkar livros ebreos.
+  words:
+    - ebreo
+- ladino: En un diksionaryo puedes topar las traduksiones ebreas de palavras en ladino.
+  words:
+    - ebreo
+- ladino: Para kada palavra nesesitamos un egzempio en una fraza.
+  words:
+    - egzempio
+  bozes:
+    - person: szabgab
+      arkivo: para_kada_palavra.ogg
+- ladino: Te podemos dar munchos egzemplos. (Uzan en Izmir)
+  words:
+    - egzempio
+- ladino: No olvidaremos la emportansa de las palavras.
+  words:
+    - emportansa
+- ladino: El internet es muy importante para mantener bivo el ladino.
+  words:
+    - emportante
+- ladino: Yo no konosko "dumalan", ma lo tiene el diksionaryo de Nehama.
+  words:
+    - dumalan
+- ladino: Yo perkuri, i finalmente lo efasi los de esta letra.
+  words:
+    - efasar
+- ladino: Atyo, esto esta de embrenear!
+  words:
+    - embrenear
+- ladino: Emprimero, ¡SHANA TOVA U METUKA!! ANYADA BUENA I DULSE!
+  words:
+    - emprimero
+- ladino: Kualo ke aga emprimero?
+  words:
+    - emprimero
+- ladino: Para ke no veya su madre ke estava meldando akel livro, lo enkasho aryentro del baul.
+  words:
+    - enkashar
+- ladino: Le vendió el livro viejo a tripio de presio.  Se la enkasho fino.
+  words:
+    - enkashar
+- ladino: Los artikolos ke meldamos en Ladinokomunita son uno mas enteresante del otro.
+  words:
+    - enteresante
+- ladino: Mi mama teniya una eskritura muy buena.
+  words:
+    - eskritura
 
 
 

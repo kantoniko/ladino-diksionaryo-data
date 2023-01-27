@@ -1,13 +1,11 @@
-
-examples:
-  - ladino: Yo moro en Yerushalayim
-    english: I live in Jerusalem
-  - ladino: Yo moro en Mueva York
-    english: I live in New York
-  - ladino: Yo moro en Estambul
-    english: I live in Istanbul
-  - ladino: Mozotros somos de Tel Aviv
-    english: We are from Tel Aviv
-  - ladino: Eyos son de Yerushalayim
-    english: They are from Jerusalem
+- ladino: Yo moro en Yerushalayim
+  english: I live in Jerusalem
+- ladino: Yo moro en Mueva York
+  english: I live in New York
+- ladino: Yo moro en Estambul
+  english: I live in Istanbul
+- ladino: Mozotros somos de Tel Aviv
+  english: We are from Tel Aviv
+- ladino: Eyos son de Yerushalayim
+  english: They are from Jerusalem
 
