@@ -1,0 +1,56 @@
+grammar: adjective
+origen: NA
+
+versions:
+  - ladino: kazado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: married
+      french: ''
+      hebrew: נשוי
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kazada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: married
+      french: ''
+      hebrew: נשואה
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kazados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: married
+      french: ''
+      hebrew: נשוים
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: kazadas
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: married
+      french: ''
+      hebrew: נשואות
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
