@@ -122,6 +122,7 @@ examples:
     words:
       - varon
   - ladino: Es koza de valor.
+    english: translation
     words:
       - valor
   - ladino: "...Esta en la VALEY de los ijos de Hinom,... (Reyes B'' 23,10)."
