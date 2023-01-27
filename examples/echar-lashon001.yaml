@@ -1,0 +1,24 @@
+- ladino: Ospital. No me plaze las golores de los ospitales.
+  turkish: Hastane. Hastane kokularını hiç sevmem.
+  english: Hospital.  I don't like hospital odors.
+  spanish: Hospital.  No me gustan los olores de los hospitales.
+  bozes:
+    - person: eti-ojalvo
+      arkivo: ospital-no-me-plaze-las-dolores.ogg
+- ladino: Banyo. El espejo del banyo se rompio.
+  turkish: Banyo. Banyonun aynası kırıldı.
+  bozes:
+    - person: eti-ojalvo
+      arkivo: banyo-el-espejo-del-banyo.ogg
+- ladino: Dormitorio. En Turkiya para este byervo dizimoz  Kamareta de echar.
+  turkish: Yatak odası.  Evlerde genellikle iki yatak odası olur.
+  bozes:
+    - person: eti-ojalvo
+      arkivo: dormitorio-en-turkiya-para.ogg
+- ladino: Kozina. El mijor lugar de la kaza es la kozina.
+  turkish: Mutfak. Evin en güzel yeri mutfaktır.
+  english: Kitchen. The best place of the house is the kitchen.
+  bozes:
+    - person: eti-ojalvo
+      arkivo: kozina-el-mijor-logar-de-la-kaza.ogg
+
