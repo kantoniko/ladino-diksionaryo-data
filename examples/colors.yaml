@@ -1,15 +1,43 @@
 examples:
-  - ladino:  kolor blu
+  - ladino:  kolor blu; kolor mavi
     english: blue color
-  - ladino:  flor amariyo
+    spanish: color azul
+  - ladino:  flor amariya
     english: yellow flower
+    spanish: flor amarilla
   - ladino: Kolorado es una de las tres kolores primarias.
-    english: Red is one of the primary colors.
+    english: Red is one of the three primary colors.
+    spanish: Rojo es uno de los tres colores primarios.
   - ladino: Amariyo es una de las tres kolores primarias.
-    english: Yellow is one of the primary colors.
+    english: Yellow is one of the three primary colors.
+    spanish: Amarillo es uno de los tres colores primarios.
   - ladino: Mavi es una de las tres kolores primarias.
-    english: Blue is one of the primary colors.
-  - ladino:  la zirguela tiene kolor blu
-    english: The plum is blue
-
-
+    english: Blue is one of the three primary colors.
+    spanish: Azul es uno de los tres colores primarios.
+  - ladino:  La zirguela es blu.
+    english: The plum is blue.
+    spanish: La ciruela es azul.
+  - ladino: kolor vedre
+    english: green color
+    spanish: color verde
+  - ladino:  Mesklando amariyo kon mavi se aze vedre.
+    english: Mixing yellow with blue makes green.
+    spanish: Mezclando amarillo con azul se hace verde.
+  - ladino: kolor blanko
+    english: white color
+    spanish: color blanco
+  - ladino: kolor roz
+    english: pink color
+    spanish: color rosa; color rosado
+  - ladino:  Mesklando kolorado kon blanko se aze roz.
+    english: Mixing red with white makes pink.
+    spanish: Mezclando rojo con blanco se hace rosa.
+  - ladino: kolor morado
+    english: purple color
+    spanish: color morado
+  - ladino:  Mesklando kolorado kon mavi se aze morado.
+    english: Mixing red with blue makes purple.
+    spanish: Mezclando rojo con azul se hace morado.
+  - ladino:  Mesklando blanko kon preto se aze gri.
+    english: Mixing white with black makes grey.
+    spanish: Mezclando blanco con negro se hace gris.
