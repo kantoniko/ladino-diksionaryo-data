@@ -1,0 +1,30 @@
+- ladino: sumo de mansana
+  english: apple juice
+  words:
+    - sumo
+- ladino: sumo de portokal
+  english: orange juice
+  words:
+    - sumo
+- ladino: Amanesimos kon un dia enuvlado en el sud de la Florida.
+  words:
+    - sud
+- ladino: Lo ke sovra del ladrón, se lo yeva el endevino. (Neh.)
+  words:
+    - sovrar
+    - sovra
+- ladino: Se oye el son de la kampana.
+  words:
+    - son
+- ladino: Si sonreimos a la vida, eya tambien mos sonreira.
+  words:
+    - sonreir
+    - sonreira
+    - sonreimos
+- ladino: Abasho reprezentamos los sonidos del alfabeto.
+  words:
+    - sonidos
+  bozes:
+    - person: rachel-amado-bortnick
+      arkivo: abasho-reprezentamos-los-sonidos-del-alfabeto.ogg
+
