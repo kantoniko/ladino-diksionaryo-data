@@ -18,6 +18,7 @@ examples:
         arkivo: dormitorio-en-turkiya-para.ogg
   - ladino: Kozina. El mijor lugar de la kaza es la kozina.
     turkish: Mutfak. Evin en güzel yeri mutfaktır.
+    english: Kitchen. The best place of the house is the kitchen.
     bozes:
       - person: eti-ojalvo
         arkivo: kozina-el-mijor-logar-de-la-kaza.ogg
