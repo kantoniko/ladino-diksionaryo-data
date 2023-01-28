@@ -1,5 +1,7 @@
 grammar: noun
 orijen: Ladinokomunita
+linguas:
+  - ebreo
 
 
 versions:
