@@ -1,6 +1,6 @@
 grammar: verb
 id: '1234'
-origen: Jeneral
+orijen: Jeneral
 
 versions:
   - ladino: atrazar

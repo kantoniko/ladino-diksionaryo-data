@@ -1,6 +1,6 @@
 grammar: verb
 id: '3003'
-origen: Salonik
+orijen: Salonik
 
 versions:
   - ladino: hadrarse

@@ -1,6 +1,9 @@
 grammar: NA
 id: '2821'
-origen: Torah-Tanah
+orijen: Torah-Tanah
+orijen-lingua:
+  - ebreo
+
 versions:
   - ladino: aftaha
     accented: aftahá
