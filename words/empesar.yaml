@@ -12,6 +12,19 @@ versions:
         spanish: empezar
         turkish: başlamak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: empeso
+      translations:
+        english: start
+
+  pasado:
+    yo:
+      ladino: empesi
+      translations:
+        english: started
+
+
 
 
