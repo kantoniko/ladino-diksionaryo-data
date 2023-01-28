@@ -34,7 +34,7 @@ jobs:
           pytest -sv --random-order tests/
 
   generate:
-    if: ${{ github.ref == 'refs/heads/main' && github.event_name != "pull_request" }}
+    if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' }}
     runs-on: ubuntu-latest
     name: Generate HTML
     needs: [test]
