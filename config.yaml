@@ -40,7 +40,6 @@ kategorias:
 orijenes:
   - Aki Yerushalayim
   - Balkanes
-  - Ebreo
   - Estanbol
   - Gresia
   - Izmir
@@ -52,6 +51,8 @@ orijenes:
   - Sarayevo
   - Torah-Tanah
   - NA
+linguas:
+  - ebreo
 gramatika:
   - adjective
   - adverb

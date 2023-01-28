@@ -1,5 +1,7 @@
 grammar: NA
-orijen: Ebreo
+orijen: NA
+linguas:
+  - ebreo
 
 versions:
   - ladino: kavod

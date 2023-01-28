@@ -1,7 +1,7 @@
 grammar: NA
 id: '2821'
 orijen: Torah-Tanah
-orijen-lingua:
+linguas:
   - ebreo
 
 versions:
