@@ -38,6 +38,6 @@ versions:
         spanish:
           - cuentas
           - cuentos
-        turkish: ''
-
-
+        turkish:
+          - hesaplar
+          - masallar 
