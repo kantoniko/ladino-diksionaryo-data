@@ -1,0 +1,32 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: pelishko
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: pinch
+      french: ''
+      hebrew: צביטה
+      portuguese: ''
+      spanish: ''
+      turkish: çimdik
+
+  - ladino: pelishkos
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      english: pinches
+      french: ''
+      hebrew: צביטות
+      portuguese: ''
+      spanish: ''
+      turkish: çimdikler
+

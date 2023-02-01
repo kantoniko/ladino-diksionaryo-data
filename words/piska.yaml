@@ -1,0 +1,31 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: piska
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: flick
+      french: ''
+      hebrew: קמצוץ
+      portuguese: ''
+      spanish: ''
+      turkish: fiske
+
+  - ladino: piskas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: flicks
+      french: ''
+      hebrew: קמצוצים
+      portuguese: ''
+      spanish: ''
+      turkish: fiskeler
+
+
