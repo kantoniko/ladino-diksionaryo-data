@@ -4,6 +4,8 @@ orijen: Jeneral
 
 versions:
   - ladino: konduzir
+    alternative-spelling:
+      - ladino: konduzar
 
     translations:
         english: drive

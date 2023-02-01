@@ -37,6 +37,6 @@ versions:
         portuguese: ''
         spanish: camas
         turkish:
-        - yatak
-        - döşek
+        - yataklar
+        - döşekler
 

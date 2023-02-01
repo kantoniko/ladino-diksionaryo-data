@@ -19,7 +19,7 @@ versions:
         spanish:
         - nevera
         - refrigerador
-        turkish: boz dolabı
+        turkish: buzdolabı
 
   - ladino: frijideres
     accented: frijidéres
@@ -34,6 +34,6 @@ versions:
         spanish:
         - neveras
         - refrigeradores
-        turkish: boz dolabı
+        turkish: buzdolapları
 
 
