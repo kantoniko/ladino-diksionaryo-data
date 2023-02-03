@@ -24,7 +24,7 @@
 - ladino: Abasho reprezentamos los sonidos del alfabeto.
   words:
     - sonidos
-  bozes:
+  audio:
     - person: rachel-amado-bortnick
       arkivo: abasho-reprezentamos-los-sonidos-del-alfabeto.ogg
 

@@ -4,7 +4,7 @@
     A las kriaturas les plaze muncho konduzar bisikleta.
     En konduzando otomobil kale tener muncho atansion a las personas, ke pasan de frente a frente.
   english: ''
-  bozes:
+  audio:
     - person: eti-ojalvo
       arkivo: konduzar-usar-otomobil-u-bisikleta.ogg
 

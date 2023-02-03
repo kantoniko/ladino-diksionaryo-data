@@ -8,13 +8,13 @@ versions:
     gender: masculine
     number: singular
 
-#    bozes:
+#    audio:
 #      - person: szabgab
 #        arkivo: egzempio.ogg
 
     alternative-spelling:
       - ladino: egzemplo
-        bozes:
+        audio:
           - person: albert-israel
             arkivo: egzemplo.ogg
       - ladino: enshemplo
