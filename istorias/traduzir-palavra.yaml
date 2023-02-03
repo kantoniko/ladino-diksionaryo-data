@@ -1,0 +1,25 @@
+titulo:
+  ladino: Komo trasladar una palavra
+  english: How to translate a word
+lineas:
+  - ladino: 'En el sitio de Kantoniko, bushka para la palavra i klika sover el atadijo de la palavra. Por egzempi: [kaza](https://kantoniko.com/words/ladino/kaza).'
+    english: 'On the Kantoniko web site search for the word and then click on the link to the page of the word. For example: [house](https://kantoniko.com/words/ladino/kaza).'
+  - ladino: Klika la imajen de estilo 📝 Vas a arrivar al archivo ande tenemos esta fraza.
+    english: Click on the pen image  📝. This will bring you to the file that contains the word in all of its forms we have. (e.g. singular, plural, masculine, feminine where these are applicable.)
+  - ladino: Ay un otro estilo aki. Es un poko diferente. Klika este aki.
+    english: There is another, slightly different pen here. Click on that now.
+  - ladino: ''
+    english: Change the things you would like to change
+  - ladino: Debasho klika el boton vedre "Propose changes"
+    english: At thebottom of the page click on the green button "Propose changes".
+  - ladino:  Klika el boton vedre "Create pull request"
+    english: Now click on the green button "Create pull request".
+  - ladino: I la otro boton vedre "Create pull request"
+    enlgish: There is going to be another button called "Create pull request". Click on this too.
+  - ladino: |
+      Despues ke klikes el boton segondo de "Create pull request", tu eskapates esta trokamiento,
+      Gabor va a recivir una notifikasion. Kuando el tiene tiempo libre el va a inkluyr tu trokamientos en el sitio.
+    english: |
+      After you clicked the 2nd "Create pull request" button, you are done.
+      Gabor will received a notification. When he has time he will then integrate your changes into the rest of the site.
+
