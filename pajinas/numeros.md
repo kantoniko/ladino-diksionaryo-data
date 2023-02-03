@@ -8,10 +8,10 @@ No        | Ladino
 3         | [tres](/words/ladino/tres)
 4         | [kuatro](/words/ladino/kuatro)
 5         | [sinko](/words/ladino/sinko)
-6         | sesh
-7         | siete
-8         | ocho
-9         | mueve
+6         | [sesh](/words/ladino/sesh)
+7         | [siete](/words/ladino/site)
+8         | [ocho](/words/ladino/ocho)
+9         | [mueve](/words/ladino/mueve)
 10        | [diez](/words/ladino/diez)
           |
 11        | [onze](/words/ladino/onze)
