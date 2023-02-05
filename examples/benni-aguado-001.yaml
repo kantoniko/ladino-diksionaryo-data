@@ -1,15 +1,3 @@
-- ladino: 'Ni al baylador dile bayla, ni al kantador dile kanta, si no vyene de aryento'
-  audio:
-    - person: benni-aguado
-      arkivo: ni-al-baylador.ogg
-- ladino: 'Dicho sefaradi: No ay livro más serrado ke el korasón de la mujer.'
-  audio:
-    - person: benni-aguado
-      arkivo: no-ay-livro-mas-serrado.ogg
-- ladino: 'Proverbyo sefaradi: No avles mal del día antes ke se aga de noche.'
-  audio:
-    - person: benni-aguado
-      arkivo: no-avles-mal-del-dia-antes-ke-se-aga-de-noche.ogg
 - ladino: 'Proverbyo sefaradi: Una ovra empesada, es komo medya eskapáda.'
   audio:
     - person: benni-aguado
