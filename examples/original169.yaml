@@ -1,21 +1,3 @@
-- ladino: Si Selim save la imprimeriya, o komo se puede enkomendar, ke mos eskriva.
-  words:
-    - imprimeriya
-- ladino: La dieron a los inyetos ke la guadren en kashon.
-  words:
-    - inyeto
-- ladino: El dip de la kacharola ke este limpia.
-  words:
-    - kacharola
-- ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
-  words:
-    - kampana
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: a-las-ocho-de-la-demanyana-la-kampana-de-la-eglisya-sona.ogg
-- ladino: Me se alevantaron los kaveyos de la kavesa.
-  words:
-    - kaveyo
 - ladino: La entrada es gratis.
   english: The entrance is free.
   words:
