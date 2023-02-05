@@ -8,8 +8,6 @@ All the content of [Kantoniko](https://kantoniko.com/) is in a site called [GitH
 
 ## Editing a word
 
-* Adding a translation to a word.
-* Adding gender or number of the word.
 
 1. On the main page of Kantoniko type in the word. (e.g. `kaza`) This will show you the word and the translations of the word in a line below.
 1. The word itself will be a link. Click on in. This will lead you to the detailed page of that word. For example: [kaza](https://kantoniko.com/words/ladino/kaza).
@@ -24,11 +22,13 @@ After you clicked the 2nd "Create pull request" button, you are done. The main a
 
 Check the description of a [word-file](WORD.md).
 
-## Adding gender and number to a word.
+### Adding a translation to a word.
+
+### Adding gender and/or number to a word.
 
 Some word-files might be missing the gender and number information. Follow the above process for [editing a word](#editing-a-word).
 
-## Adding a new version of a word.
+### Adding a new version of a word.
 
 1. Follow the above process for [editing a word](#editing-a-word).
 1. When editing the file copy-paste the existing version of the word (starting from the `- ladino:` part.)
@@ -37,6 +37,12 @@ Some word-files might be missing the gender and number information. Follow the a
 
 ## Adding a new word
 
+* Click [here](https://github.com/kantoniko/ladino-diksionaryo-data/new/main) to open the file editor for a new file.
+* In the middle of the screen you'll see `ladino-diksionaryo-data /` followed by a place to "Name your fiel...". Type in `words/` and then the name of the file.
+* For nouns, adjectives we use the most simple form of the file: the masculine-singular if it exists, the feminine-singluare otherwise.
+* Copy the content of the [minimal skeleton](skeletons/minimal.yaml) to the open editor.
+* Edit the content.
+* Click on "Propose new file".
 
 ## Add the translation of an example
 
