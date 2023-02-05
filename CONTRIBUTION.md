@@ -22,10 +22,26 @@ All the content of [Kantoniko](https://kantoniko.com/) is in a site called [GitH
 
 After you clicked the 2nd "Create pull request" button, you are done. The main administrator(s) of the project will receive a notification. When they have time they will integrate your changes into the rest of the site. In the meantime you can already look for another word and the the process again.
 
-Check the description of a [word-file](word.md).
+Check the description of a [word-file](WORD.md).
+
+## Adding gender and number to a word.
+
+Some word-files might be missing the gender and number information. Follow the above process for [editing a word](#editing-a-word).
 
 ## Adding a new version of a word.
 
+1. Follow the above process for [editing a word](#editing-a-word).
+1. When editing the file copy-paste the existing version of the word (starting from the `- ladino:` part.)
+1. Update the values.
+1. In the languages where you don't know the translations of this version of the word. (e.g. don't know what is the Turkish version of `houses`) then replace the value of the `turkish` field by an empty pair of single-quotes. `turkish: ''`
 
 ## Adding a new word
+
+
+## Add the translation of an example
+
+
+## Add a new example without audio
+
+
 

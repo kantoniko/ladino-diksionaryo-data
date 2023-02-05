@@ -2,6 +2,8 @@ grammar: NA
 # verb noun adjective
 orijen: NA, Ladinokomunita, Ladinadores, Aki Yerushalayim
 kategorias:
+linguas:
+  - ebreo
 
 versions:
   - ladino:
