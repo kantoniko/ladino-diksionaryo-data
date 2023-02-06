@@ -1,15 +1,3 @@
-- ladino: "Le demandi un emprestimo i me refuzo; saludozo m'esté!"
-  words:
-    - saludozo
-- ladino: 'No te tomes sehora: una puerta se serra, otra se avre. (Neh.)'
-  words:
-    - sehora
-- ladino: A la gayinika del patron no se dize kish.
-  words:
-    - patron
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: a-la-gayinika-del-patron-no-se-dize-kish.ogg
 - ladino: Se arrankó los pelos de la barva de inyervo.
   words:
     - pelo
