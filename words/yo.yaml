@@ -6,12 +6,14 @@ versions:
   - ladino: yo
 
     number: singular
+    
+    gender: maskulino, femenino
 
     translations:
         english: I
-        french: moi
-        portuguese: ''
+        french: je
+        portuguese: eu
         spanish: yo
         turkish: ben
-
+        hebrew: אני
 
