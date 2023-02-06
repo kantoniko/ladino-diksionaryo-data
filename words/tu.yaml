@@ -6,22 +6,33 @@ versions:
   - ladino: tu
 
     number: singular
+    
+    gender: maskulino, femenino
 
     translations:
         english:
           - you
           - your
-        french: ''
-        portuguese: ''
-        spanish: tu
-        turkish: senin
+        french: 
+          - tu
+          - a toi
+        portuguese: 
+          - você
+          - teu, tua 
+        spanish: 
+          - tú
+          - tu
+        turkish: 
+          - sen
+          -senin
 
+  
   - ladino: tus
 
     translations:
         english: your
-        french: ''
-        portuguese: ''
+        french: a toi
+        portuguese: teus, tuas
         spanish: tus
         turkish: senin
 
