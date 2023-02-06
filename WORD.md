@@ -19,9 +19,17 @@
 
 ## version fields:
 
-* Each version **must** have a field called `ladino:` with the ladino word.
-* It **might** have a field called `accented:`.   On the website is shows as `kon aksan`. e.g. [solu](https://kantoniko.com/words/ladino/solu).
-* Every word  **must** have one ore more `translation`. Each translation has a languages (e.g. `english:` and has one or more values.) See the examples:
+* Each version **must** have a field called `ladino:` with the ladino word. This field can only have a single value. Please don't use `;` or `,` or anything else to separate words. Each ladino spelling must have either its own entry in the `versions` or its own YAML file.
+* It **might** have a field called `accented:`.   On the website is shows as `kon aksan`. e.g. [solu](https://kantoniko.com/words/ladino/solu) has it.
+* Every `noun` and `pronoun` must have a field called `gender` and a field called `number`:
+* `gender` valid values are listed in  [config.yaml](config.yaml) under `gender`.
+* `number` valid values are listed in  [config.yaml](config.yaml) under `numero`.
+* TODO: Which other grammar-types should require a gender and number field? adjectives? others?
+
+* `alternative-spelling` an optional list of alternative spellings of the ladino word. It can be y/i replacement as in [syelo](https://kantoniko.com/words/ladino/syelo). (TODO: An undecided topic: should synonimes have their own file or listed as alternative-spelling? The former would require the duplication of the translation, but it might be the more correct way.)
+
+
+* Every version  **must** have an entry called `translations` with at least one language in it. Each translation has a languages (e.g. `english:` and has one or more values.) See the examples:
 
 This means no french translation:
 
@@ -35,12 +43,15 @@ This means the word has a single turkish translation:
     turkish: ev
 ```
 
-This means the word has 2 English translations:
+If a word has more than one translations we can list them this way. This word has 2 English translations:
 
 ```
     english:
       - house
       - home
 ```
+
+If a word has two subtsantially different meaning in Ladino (e.g. the word `el` can be both `he` and `the`), then we need to create two separate YAML files for these two meanings. The names of the YAML file of the words don't participate in the creation of the dictionary. They are only important for the editor to make it easier to find and recognize a file.
+
 
 
