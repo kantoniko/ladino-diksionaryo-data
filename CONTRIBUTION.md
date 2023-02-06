@@ -76,7 +76,7 @@ Some word-files might be missing the gender and number information. Follow the a
 ## Add the translation of an example
 
 1. Find the example on Kantoniko. You can see the list of [all the examples](https://kantoniko.com/egzempios/) and you can also arrive to an example from one of the word-pages.
-1. On the page of the example you'll see a pen 📝. Click on it. That will lead you to the file that contains the example. (Most examples are in their own files, but there are still some that share a file.)
+1. On the page of the example you'll see a pen 📝. Click on it. That will lead you to the file that contains the example. (Each example is in its own file.)
 1. There is another pen on this page as well. Click on it to edit the file.
 1. Edit the file.
 1. Click on "Propose changes"
