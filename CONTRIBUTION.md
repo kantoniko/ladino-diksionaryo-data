@@ -58,17 +58,39 @@ Some word-files might be missing the gender and number information. Follow the a
 
 ## Adding a new word
 
-* Click [here](https://github.com/kantoniko/ladino-diksionaryo-data/new/main) to open the file editor for a new file.
-* In the middle of the screen you'll see `ladino-diksionaryo-data /` followed by a place to "Name your fiel...". Type in `words/` and then the name of the file.
-* For nouns, adjectives we use the most simple form of the file: the masculine-singular if it exists, the feminine-singluare otherwise.
-* Copy the content of the [minimal skeleton](skeletons/minimal.yaml) to the open editor.
-* Edit the content.
-* Click on "Propose new file".
+1. Click [here](https://github.com/kantoniko/ladino-diksionaryo-data/new/main) to open the file editor for a new file.
+1. In the middle of the screen you'll see `ladino-diksionaryo-data /` followed by a place to "Name your fiel...". Type in `words/` and then the name of the file.
+    * The name should be the lower-case version of the ladino word with `.yaml` extension.
+    * The exact filename is only important for the editors of the dictionary.
+    * If the same ladin word has multiple meanings then we'll have more than one files. In this case we need to me creative. e.g. we have
+    * `el.yaml` and also `el_the.yaml` for the word [el](https://kantoniko.com/words/ladino/el)
+1. For nouns, adjectives we use the most simple form of the file: the masculine-singular if it exists, the feminine-singluare otherwise.
+1. Copy the content of the [minimal skeleton](skeletons/minimal.yaml) to the open editor.
+1. Edit the content: Remove the lines that are not necessary. Add the required values.
+1. Click on "Propose new file".
+1. Click on "Create pull request"
+1. Click on the 2nd "Create pull request" button.
+
+* You are done. You can now start doing something else. The maintainers of the site are notified and they can now integrate the new file.
 
 ## Add the translation of an example
 
+1. Find the example on Kantoniko. You can see the list of [all the examples](https://kantoniko.com/egzempios/) and you can also arrive to an example from one of the word-pages.
+1. On the page of the example you'll see a pen 📝. Click on it. That will lead you to the file that contains the example. (Most examples are in their own files, but there are still some that share a file.)
+1. There is another pen on this page as well. Click on it to edit the file.
+1. Edit the file.
+1. Click on "Propose changes"
+1. Click on "Create pull request"
+1. Click on the 2nd "Create pull request".
+
+* You are done.
+
+## Add audio to an example
+
+TBD
 
 ## Add a new example without audio
 
+TBD
 
 
