@@ -12,22 +12,36 @@ versions:
         english:
           - he
           - the
-        french: ''
-        portuguese: ''
-        spanish: el
-        turkish: bir
+        french: 
+          - il
+          - le
+        portuguese: 
+          - ele
+          - o
+        spanish: 
+          - él
+          - el
+        turkish: o
 
-  - ladino: los
-
+  - ladino: eyos; los
+    
     gender: masculine
     number: plural
 
     translations:
-        english: the
-        french: ''
-        portuguese: ''
-        spanish: los
-        turkish: bir
+        english: 
+          - they
+          - the
+        french: 
+          - ils
+          - les
+        portuguese: 
+          - eles
+          - os
+        spanish: 
+          - ellos
+          - los
+        turkish: onlar
 
 
 
