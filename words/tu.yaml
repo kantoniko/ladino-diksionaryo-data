@@ -7,7 +7,7 @@ versions:
 
     number: singular
     
-    gender: maskulino, femenino
+    gender: both
 
     translations:
         english:
@@ -24,7 +24,7 @@ versions:
           - tu
         turkish: 
           - sen
-          -senin
+          - senin
 
   
   - ladino: tus
