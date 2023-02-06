@@ -5,6 +5,9 @@ orijen: Jeneral
 versions:
   - ladino: te
 
+    number: singular
+    gender: both
+
     translations:
         english:
         - you

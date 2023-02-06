@@ -5,6 +5,10 @@ orijen: Jeneral
 versions:
   - ladino: vos
 
+    number: plural
+    gender: both
+
+
     translations:
         english:
         - you

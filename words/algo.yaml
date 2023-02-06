@@ -6,6 +6,9 @@ versions:
   - ladino: algo
     accented: álgo
 
+    number: singular
+    gender: both
+
     translations:
         english: something
         french: ''

@@ -5,6 +5,9 @@ orijen: Jeneral
 versions:
   - ladino: mos
 
+    number: plural
+    gender: both
+
     translations:
         english:
         - us

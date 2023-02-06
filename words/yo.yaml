@@ -6,8 +6,7 @@ versions:
   - ladino: yo
 
     number: singular
-    
-    gender: maskulino, femenino
+    gender: both
 
     translations:
         english: I
