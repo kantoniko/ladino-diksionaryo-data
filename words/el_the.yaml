@@ -8,31 +8,30 @@ versions:
     number: singular
 
     translations:
-        english: he
+        english: the
         french:
           - il
           - le
         portuguese:
           - ele
           - o
-        spanish: él
+        spanish: el
         turkish: o
 
-  - ladino: eyos
+  - ladino: los
 
     gender: masculine
     number: plural
 
     translations:
-        english:
-          - they
+        english: the
         french:
           - ils
           - les
         portuguese:
           - eles
           - os
-        spanish: ellos
+        spanish: los
         turkish: onlar
 
 
