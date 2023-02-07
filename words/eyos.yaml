@@ -9,13 +9,10 @@ versions:
     number: plural
 
     translations:
-        english:
-        - they
-        - them
-        french: ''
-        portuguese: ''
-        spanish:
-        - ellos
+        english: they
+        french: ils
+        portuguese: eles
+        spanish: ellos
         turkish: onlar
 
   - ladino: eyas
@@ -24,12 +21,9 @@ versions:
     number: plural
 
     translations:
-        english:
-        - they
-        - them
-        french: ''
-        portuguese: ''
-        spanish:
-        - ellas
+        english: they
+        french: elles
+        portuguese: elas
+        spanish: ellas
         turkish: onlar
 
