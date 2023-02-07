@@ -1,4 +1,4 @@
-grammar: NA
+grammar: artikolo
 orijen: Jeneral
 
 versions:
@@ -9,14 +9,10 @@ versions:
 
     translations:
         english: the
-        french:
-          - il
-          - le
-        portuguese:
-          - ele
-          - o
+        french: il
+        portuguese: o
         spanish: el
-        turkish: o
+        turkish: ''
 
   - ladino: los
 
@@ -25,14 +21,10 @@ versions:
 
     translations:
         english: the
-        french:
-          - ils
-          - les
-        portuguese:
-          - eles
-          - os
+        french: les
+        portuguese: os
         spanish: los
-        turkish: onlar
+        turkish: ''
 
 
 
