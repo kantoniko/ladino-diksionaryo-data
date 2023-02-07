@@ -9,11 +9,12 @@ versions:
     number: plural
 
     translations:
-        english:
-          - you
-        french: votre
-        portuguese: ''
-        spanish: vosotros
+        english: you
+        french: vous
+        portuguese: vocês
+        spanish: 
+          - vosotros
+          - ustedes
         turkish: siz
 
   - ladino: vozotras
@@ -22,10 +23,11 @@ versions:
     number: plural
 
     translations:
-        english:
-          - you
-        french: votre
-        portuguese: ''
-        spanish: vosotras
+        english: you
+        french: vous
+        portuguese: vocês
+        spanish: 
+          - vosotras
+          - ustedes
         turkish: siz
 
