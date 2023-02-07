@@ -9,11 +9,9 @@ versions:
     number: plural
 
     translations:
-        english:
-        - we
-        - us
-        french: ''
-        portuguese: ''
+        english: we
+        french: nous
+        portuguese: nós
         spanish: nosotros
         turkish: biz
 
@@ -23,11 +21,9 @@ versions:
     number: plural
 
     translations:
-        english:
-        - we
-        - us
-        french: ''
-        portuguese: ''
+        english: we
+        french: nous
+        portuguese: nós
         spanish: nosotras
         turkish: biz
 
