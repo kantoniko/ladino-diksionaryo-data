@@ -9,12 +9,8 @@ versions:
 
     translations:
         english: he
-        french:
-          - il
-          - le
-        portuguese:
-          - ele
-          - o
+        french: il
+        portuguese: ele
         spanish: él
         turkish: o
 
@@ -24,14 +20,9 @@ versions:
     number: plural
 
     translations:
-        english:
-          - they
-        french:
-          - ils
-          - les
-        portuguese:
-          - eles
-          - os
+        english: they
+        french: ils
+        portuguese: eles
         spanish: ellos
         turkish: onlar
 
