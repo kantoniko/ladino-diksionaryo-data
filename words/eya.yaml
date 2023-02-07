@@ -9,11 +9,9 @@ versions:
     number: singular
 
     translations:
-        english:
-        - she
-        - her
-        french: ''
-        portuguese: ''
+        english: she
+        french: elle
+        portuguese: ela
         spanish: ella
         turkish: o (kadın için)
 
