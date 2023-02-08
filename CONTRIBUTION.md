@@ -44,6 +44,15 @@ if you'd like to add multiple translations then they are in the lines below star
     - house
 ```
 
+### Finding a word that needs translation
+
+* On the [Kantoniko web site](https://kantoniko.com/) in the "Listas" menu item click on "Traduksiones ke faltan".
+* You will see a list of languages.
+* Click on one of the languages. (e.g Hebrew)
+* You'll see the list of all the words we have in the dictionary where we don't have Hebrew translation.
+* Click on any words and you can go to the entry on "Adding a translation to a word".
+
+
 
 ### Adding gender and/or number to a word.
 
