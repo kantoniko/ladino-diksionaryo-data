@@ -9,6 +9,13 @@ versions:
     alternative-spelling:
       - ladino: paez
         accented: paéz
+      - ladino: paiz
+        accented: paíz
+      - ladino: payis
+        accented: payís
+      - ladino: payiz
+        accented: payíz
+
 
     gender: masculine
     number: singular
