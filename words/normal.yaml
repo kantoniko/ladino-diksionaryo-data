@@ -1,0 +1,72 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: normal
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: normal
+      french: ''
+      hebrew:
+        - רגיל
+        - תקין
+        - סדיר
+        - נורמלי
+      portuguese: ''
+      spanish: normal
+      turkish: ''
+
+  - ladino: normala
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: normal
+      french: ''
+      hebrew:
+        - רגילה
+        - תקינה
+        - סדירה
+        - נורמלית
+      portuguese: ''
+      spanish: normala
+      turkish: ''
+
+  - ladino: normales
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: normal
+      french: ''
+      hebrew:
+        - רגילים
+        - תקינים
+        - סדירים
+        - נורמלימ
+      portuguese: ''
+      spanish: normales
+      turkish: ''
+
+  - ladino: normalas
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: normal
+      french: ''
+      hebrew:
+        - רגילות
+        - תקינות
+        - סדירות
+        - נורמליות
+      portuguese: ''
+      spanish: normalas
+      turkish: ''
+
