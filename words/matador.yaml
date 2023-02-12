@@ -1,0 +1,40 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: matador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - killer
+        - murderer
+        - matador
+      french: ''
+      hebrew:
+        - רוצח
+        - תליין
+        - מטאדור
+      portuguese: ''
+      spanish: matador
+      turkish: ''
+
+  - ladino: matadera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english:
+        - killer
+        - murderer
+      french: ''
+      hebrew:
+        - רוצחת
+        - תליינית
+      portuguese: ''
+      spanish: matadera
+      turkish: ''
+
