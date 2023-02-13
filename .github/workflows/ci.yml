@@ -33,6 +33,11 @@ jobs:
       run: |
           pytest -sv --random-order tests/
 
+    - name: Run check
+      env:
+        PYTHONPATH: .
+      run: python ladino/generate.py --dictionary ladino-diksionaryo-data
+
   generate:
     if: ${{ github.ref == 'refs/heads/main' && github.event_name != 'pull_request' }}
     runs-on: ubuntu-latest
