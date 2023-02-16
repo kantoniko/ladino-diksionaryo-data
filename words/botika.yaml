@@ -15,7 +15,8 @@ versions:
 
     translations:
         english: shop
-        french: ''
+        french: magasin
+        hebrew: חנות
         portuguese: ''
         spanish: tienda
         turkish: dükkân
