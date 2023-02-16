@@ -11,6 +11,7 @@ versions:
     translations:
         english: judge
         french: juge
+        hebrew:  שופט
         portuguese: ''
         spanish: juez
         turkish: yargıç
@@ -23,6 +24,7 @@ versions:
     translations:
         english: judge
         french: juge
+        hebrew:  שופטת
         portuguese: ''
         spanish: juez
         turkish: yargıç
@@ -35,6 +37,7 @@ versions:
     translations:
         english: judges
         french: juge
+        hebrew:  שופטים
         portuguese: ''
         spanish: juez
         turkish: yargıç
@@ -47,6 +50,7 @@ versions:
     translations:
         english: judges
         french: juge
+        hebrew: שופטות
         portuguese: ''
         spanish: juez
         turkish: yargıç
