@@ -1,9 +1,18 @@
 - ladino: |
-    Piska  Muy muy poko, chikitiko
+    Piska. Muy muy poko, chikitiko
     Kon la punta de los dos dedos el montante ke puedes aferrar.
     Kada demanyana kale komer una piska de myel.
-    Lo ivamos a komer el simit medyo i medyo, ami me dio una piska.
-  english: ''
+    Lo ivamos a komer el simit medyo i medyo, a mi me dio una piska.
+  english: |
+    Smidgeon. Very little.
+    With the tip of the two fingers, what you can grasp.
+    Every morning one must eat a smidgeon of honey.
+    We were going to eat the cookie half and half, he/she gave me a smidgeon.
+  spanish: |
+    Pizquita. Un poquitín.
+    Con la punta de los dos dedos, la cantidad que puedes tomar.
+    Cada mañana hay que comer una pizquita de miel.
+    Ibamos a comer la rosquita mitad y mitad, a mí me dió una pizquita.
   audio:
     - person: eti-ojalvo
       arkivo: piska-muy-muy-poko-chikitiko.ogg
