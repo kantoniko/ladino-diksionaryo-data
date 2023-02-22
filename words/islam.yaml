@@ -14,7 +14,9 @@ versions:
       english: Islam
       french: ''
       hebrew: ''
-      portuguese: Islão/Islã
+      portuguese:
+        - Islão
+        - Islã
       spanish: islam
       turkish: ''
 
