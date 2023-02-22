@@ -13,7 +13,10 @@ versions:
         - Alas!
         - Oh!
         french: ''
-        portuguese: - Ai! - Ah! - Opa!
+        portuguese:
+          - Ai!
+          - Ah!
+          - Opa!
         spanish: ¡Ay!
         turkish:
         - Ah!
