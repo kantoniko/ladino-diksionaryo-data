@@ -16,9 +16,10 @@ versions:
         french: âne
         portuguese: asno
         spanish:
-        - burro
         - asno
+        - burro
         turkish: eşek
+        hebrew: חֲמוֹר
 
   - ladino: aznos
     accented: áznos
@@ -31,8 +32,9 @@ versions:
         french: âne
         portuguese: asnos
         spanish:
-        - burros
         - asnos
+        - burros
         turkish: eşek
+        hebrew: חמורים
 
 
