@@ -1,0 +1,22 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: embinar
+
+    alternative-spelling:
+      - ladino: embinear
+
+
+    translations:
+      english:
+        - ride
+        - mount
+      french: ''
+      hebrew:
+        - לרכב
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
