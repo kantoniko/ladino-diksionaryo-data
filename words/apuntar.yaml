@@ -1,0 +1,20 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: apuntar
+
+    translations:
+      english:
+        - point at
+        - aim
+        - emphasize
+      french: ''
+      hebrew:
+        - להצביע
+        - לכוון
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
