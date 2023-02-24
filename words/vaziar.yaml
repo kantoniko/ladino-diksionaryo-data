@@ -1,0 +1,18 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: vaziar
+
+
+    translations:
+      english: pour
+      french: ''
+      hebrew:
+        - לשפוך
+        - לרוקן
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
