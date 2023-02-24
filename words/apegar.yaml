@@ -1,0 +1,22 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: apegar
+
+    translations:
+      english:
+        - glue
+        - stick
+        - join together
+        - infect
+        - slap
+      french: ''
+      hebrew:
+        - להדביק
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
+

@@ -1,0 +1,18 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: apegarse
+
+    translations:
+      english:
+        - be glued
+        - be stuck
+      french: ''
+      hebrew:
+        - להידבק
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
