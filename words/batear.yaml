@@ -1,0 +1,20 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: batear
+
+
+    translations:
+      english:
+        - knock
+        - hit
+      french: ''
+      hebrew:
+        - לדפוק
+        - להאבק
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
