@@ -1,0 +1,19 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: andar
+
+    translations:
+      english:
+        - walk
+        - march
+      french: ''
+      hebrew:
+        - ללכת
+        - לצעוד
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
