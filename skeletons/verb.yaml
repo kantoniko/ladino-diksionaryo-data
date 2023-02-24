@@ -1,17 +1,17 @@
 grammar: verb
-id: '1161'
 orijen: Jeneral
 
 versions:
   - ladino: yorar
-    accented: yorar
+    accented: ''
 
     translations:
-        english: ''
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
 
 conjugations:
   prezente:
@@ -51,6 +51,4 @@ conjugations:
         english:
         spanish:
 
-
-examples: []
 
