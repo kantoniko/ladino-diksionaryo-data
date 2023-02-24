@@ -1,0 +1,17 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: plantar
+
+    translations:
+      english: plant
+      french: ''
+      hebrew:
+        - לנטוע
+        - לשתול
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
