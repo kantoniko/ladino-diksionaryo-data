@@ -1,0 +1,23 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: navigar
+
+    alternative-spelling:
+      - ladino: navegar
+
+
+    translations:
+      english:
+        - navigate
+        - sail
+      french: ''
+      hebrew:
+        - להפליג
+        - לנווט
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
