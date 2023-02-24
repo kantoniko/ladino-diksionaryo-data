@@ -1,0 +1,17 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: glisar
+
+    translations:
+      english: slide
+      french: ''
+      hebrew:
+        - להחליק
+        - לגלוש
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+conjugations: {}
