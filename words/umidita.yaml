@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: umidita
+    accented: umiditá
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: humidity
+      french: ''
+      hebrew:
+        - רטיבות
+        - לחות
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
