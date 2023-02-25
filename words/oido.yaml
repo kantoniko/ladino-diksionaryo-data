@@ -1,0 +1,24 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: oido
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: kulak
+
+
+  - ladino: oidos
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: kulaklar
+
+

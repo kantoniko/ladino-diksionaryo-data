@@ -11,6 +11,8 @@ versions:
         french: aiguiser
         portuguese: afiar
         spanish: afilar
-        turkish: bilemek
+        turkish:
+          - bilemek
+          - bileylemek
 
 conjugations: {}

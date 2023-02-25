@@ -1,0 +1,22 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: kolador
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: süzgeç
+
+  - ladino: koladorer
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: süzgeçler
+

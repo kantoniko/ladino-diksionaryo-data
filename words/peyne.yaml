@@ -1,0 +1,31 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: peyne
+
+    #gender: NA # masculine feminine both
+    number: singular
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: tarak
+
+  - ladino: peynes
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+    translations:
+      english: ''
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: taraklar
+
+
