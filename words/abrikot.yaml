@@ -1,0 +1,19 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - frutas
+
+versions:
+  - ladino: abrikot
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: apricot
+      french: ''
+      hebrew: משמש
+      portuguese: ''
+      spanish: albaricoque
+      turkish: ''
+

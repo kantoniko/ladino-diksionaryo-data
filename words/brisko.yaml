@@ -1,0 +1,19 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - frutas
+
+versions:
+  - ladino: brisko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: peach
+      french: ''
+      hebrew: אפרסק
+      portuguese: ''
+      spanish: durazno
+      turkish: ''
+
