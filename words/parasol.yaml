@@ -1,0 +1,34 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: parasol
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - parasol
+        - sunshade
+      french: ''
+      hebrew: שמשיה
+      portuguese: ''
+      spanish: sombrilla
+      turkish: ''
+
+  - ladino: parasoles
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english:
+        - parasols
+        - sunshades
+      french: ''
+      hebrew: שמשיות
+      portuguese: ''
+      spanish: sombrillas
+      turkish: ''
+

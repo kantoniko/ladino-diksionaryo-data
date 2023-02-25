@@ -1,0 +1,16 @@
+grammar: NA
+orijen: Ladinadores
+
+versions:
+  - ladino: shezlong
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: deck chair
+      french: ''
+      hebrew:
+        - כסא נוח
+      portuguese: ''
+      spanish: ''

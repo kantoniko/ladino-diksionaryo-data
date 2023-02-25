@@ -1,0 +1,17 @@
+grammar: NA
+orijen: Ladinadores
+
+versions:
+  - ladino: piknik
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: picnic
+      french: ''
+      hebrew: פיקניק
+      portuguese: ''
+      spanish: picnic
+      turkish: ''
+

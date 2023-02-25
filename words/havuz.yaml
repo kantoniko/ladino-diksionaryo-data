@@ -1,0 +1,21 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: havuz
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - artificial lake
+        - pond
+      french: ''
+      hebrew:
+        - אגם מלאכות
+        - בריכה
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

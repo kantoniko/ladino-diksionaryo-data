@@ -1,5 +1,5 @@
 grammar: NA
-orijen: NA
+orijen: Ladinadores
 
 versions:
   - ladino: umidita
@@ -9,12 +9,14 @@ versions:
     number: singular
 
     translations:
-      english: humidity
+      english:
+        - humidity
+        - wetness
       french: ''
       hebrew:
         - רטיבות
         - לחות
       portuguese: ''
-      spanish: ''
+      spanish: humedad
       turkish: ''
 
