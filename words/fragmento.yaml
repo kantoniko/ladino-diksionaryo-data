@@ -1,0 +1,25 @@
+grammar: NA
+orijen: Ladinadores
+
+versions:
+  - ladino: fragmento
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - piece
+        - fragment
+        - part
+        - portion
+      french: ''
+      hebrew:
+        - חתיכה
+        - רסיס
+        - חלק
+        - מנה
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

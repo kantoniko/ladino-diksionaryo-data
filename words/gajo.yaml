@@ -1,0 +1,20 @@
+grammar: NA
+orijen: Ladinadores
+
+versions:
+  - ladino: gajo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - slice
+        - segment
+      french: ''
+      hebrew:
+        - פלח
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

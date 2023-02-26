@@ -1,0 +1,23 @@
+grammar: NA
+orijen: Ladinadores
+
+versions:
+  - ladino: kalup
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - shape
+        - pattern
+        - mold
+      french: ''
+      hebrew:
+        - צורה
+        - תבנית
+        - דגם
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

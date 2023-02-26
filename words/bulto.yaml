@@ -1,0 +1,18 @@
+grammar: NA
+orijen: Ladinadores
+
+versions:
+  - ladino: bulto
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: bulk
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: bulto
+      turkish: ''
+

@@ -1,0 +1,38 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: bokado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - slice
+        - bite
+      french: ''
+      hebrew:
+        - פרוסה
+        - ביס
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: bokados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english:
+        - slices
+        - bites
+      french: ''
+      hebrew:
+        - פרוסות
+        - ביסים
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
