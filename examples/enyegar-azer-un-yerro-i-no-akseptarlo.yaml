@@ -1,6 +1,12 @@
 - ladino: |
     Enyegar. Azer un yerro i no akseptarlo
     No ay menester de enyegar ke te olvidates el randevu.
+  english: |
+    Deny. Making a mistake and not owning up to it.
+    There is no need to deny that you forgot the appointment.
+  spanish: |
+    Negar. Cometer un error y no aceptarlo.
+    No hace falta negar que te olvidaste de la cita.
   audio:
     - person: eti-ojalvo
       arkivo: enyegar-azer-un-yerro-i-no-akseptarlo.ogg
