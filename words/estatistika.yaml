@@ -1,0 +1,23 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: estatistika
+    accented: estatístika
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: statistika
+        accented: statístika
+
+
+    translations:
+      english: statistics
+      french: ''
+      hebrew: סטטיסטיקה
+      portuguese: ''
+      spanish: estadísticas
+      turkish: ''
+
