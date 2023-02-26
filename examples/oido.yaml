@@ -1,6 +1,12 @@
 - ladino: |
     Oido. Es organo para pueder sintir.
     Si estan hazinos los oidos no puedes oyir estas kantikas.
+  english: |
+    Ear. It's the organ that enables hearing.
+    If your ears are ailing, you can't hear these songs
+  spanish: |
+    Oído. Es el órgano para poder oír.
+    Si están enfermos los oídos, no puedes oír estas canciones.
   turkish: Kulakların hastaysa bu şarkıları duyamazsın.
   audio:
     - person: eti-ojalvo
