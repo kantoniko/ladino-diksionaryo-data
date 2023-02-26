@@ -4,13 +4,18 @@
     Kada noche me plaze komer un punyado de pipitas.
 
     Para azer dulse kale meter dos punyados de asukar.
-  english: 
+  english: |
     Handful. The amount that can be held in one hand.
+    
     Every night I like to eat a handful of seeds.
+    
     To make dessert [lit. sweet] you must add two handfuls of sugar.
-  spanish: Puñado. 
-  La cantidad que cabe adentro de la mano.
-  Para hacer dulce hay que poner dos puñados de azúcar.
+  spanish: |
+    Puñado.
+    
+    La cantidad que cabe adentro de la mano.
+    
+    Para hacer dulce hay que poner dos puñados de azúcar.
   audio:
     - person: eti-ojalvo
       arkivo: punyado.ogg
