@@ -1,0 +1,27 @@
+grammar: noun
+orijen: Ladinadores
+linguas:
+  - turko
+
+versions:
+  - ladino: bekchi
+    accented: bekchí
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bekdji
+        accented: bekdjí
+
+
+    translations:
+      english:
+        - guard
+      french: ''
+      hebrew:
+        - שומר
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

@@ -1,0 +1,23 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: estampador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - printer
+        - painer
+        - photographer
+      french: ''
+      hebrew:
+        - מדפיס
+        - צלם
+        - צייר
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

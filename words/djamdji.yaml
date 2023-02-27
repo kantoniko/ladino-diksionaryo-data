@@ -1,0 +1,27 @@
+grammar: noun
+orijen: Ladinadores
+linguas:
+  - turko
+
+versions:
+  - ladino: djamdji
+    accented: djamdjí
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english:
+        - glazier
+        - glass blower
+        - glass seller
+      french: ''
+      hebrew:
+        - זגג
+        - אומן זיגוג
+        - נופח זכוכית
+        - מוכר זכוכית
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
