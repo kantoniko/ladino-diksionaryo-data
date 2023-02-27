@@ -11,7 +11,7 @@ versions:
     translations:
         english: adjective
         french: ''
-        portuguese: ''
+        portuguese: adjetivo
         spanish: adjetivo
         turkish: sıfat
 
@@ -24,7 +24,7 @@ versions:
     translations:
         english: adjectives
         french: ''
-        portuguese: ''
+        portuguese: adjetivos
         spanish: adjetivos
         turkish: sıfat
 
