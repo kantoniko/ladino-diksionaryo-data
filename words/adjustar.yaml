@@ -8,7 +8,9 @@ versions:
     translations:
         english: add
         french: ajouter
-        portuguese: acrescentar
+        portuguese: 
+           - acrescentar
+           - adicionar
         spanish: añadir
         turkish: eklemek
 
