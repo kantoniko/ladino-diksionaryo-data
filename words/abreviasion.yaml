@@ -14,7 +14,9 @@ versions:
       english: abbreviation
       french: ''
       hebrew: ''
-      portuguese: ''
+      portuguese:
+        - abreviação
+        - abreviatura
       spanish:
         - abbreviation
         - abreviatura
@@ -30,7 +32,9 @@ versions:
       english: abbreviations
       french: ''
       hebrew: ''
-      portuguese: ''
+      portuguese:
+        - abreviações
+        - abreviaturas
       spanish:
         - abbreviationes
         - abreviaturas
