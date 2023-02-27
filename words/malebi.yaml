@@ -1,0 +1,26 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - komidas
+linguas:
+  - turko
+
+versions:
+  - ladino: malebi
+    accented: malebí
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: malibi
+        accented: malibí
+
+    translations:
+      english: malabi
+      french: ''
+      hebrew: מלבי
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

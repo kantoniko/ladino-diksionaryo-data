@@ -1,0 +1,21 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - komidas
+
+versions:
+  - ladino: masapan
+    accented: masapán
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      english: marzipan
+      french: ''
+      hebrew: מרציפן
+      portuguese: ''
+      spanish: mazapán
+      turkish: ''
+

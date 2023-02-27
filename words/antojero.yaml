@@ -1,0 +1,62 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: antojero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: optician
+      french: ''
+      hebrew:
+        - אופטיקאי
+        - מוכר משקפיים
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: antojera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: optician
+      french: ''
+      hebrew:
+        - אופטיקאית
+        - מוכרת משקפיים
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: antojeros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: opticians
+      french: ''
+      hebrew:
+        - אופטיקאים
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: antojeras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      english: opticians
+      french: ''
+      hebrew:
+        - אופטיקאיות
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

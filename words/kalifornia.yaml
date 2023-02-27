@@ -1,0 +1,16 @@
+grammar: NA
+orijen: Ladinokomunita
+kategorias:
+  - paises
+
+versions:
+  - ladino: Kalifornia
+
+    translations:
+      english: California
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

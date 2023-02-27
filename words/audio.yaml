@@ -1,0 +1,30 @@
+grammar: noun
+orijen: Ladinokomunita
+
+versions:
+  - ladino: audio
+
+    gender: masculine
+    number: singular
+
+    translations:
+      english: audio
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: audios
+
+    gender: masculine
+    number: plural
+
+    translations:
+      english: audios
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

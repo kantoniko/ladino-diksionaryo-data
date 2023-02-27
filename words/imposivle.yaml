@@ -1,0 +1,30 @@
+grammar: adjective
+orijen: Ladinokomunita
+
+versions:
+  - ladino: imposivle
+
+    gender: both
+    number: singular
+
+    translations:
+      english: imposible
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
+  - ladino: imposivles
+
+    gender: both
+    number: plural
+
+    translations:
+      english: imposibles
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+

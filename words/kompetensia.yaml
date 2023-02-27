@@ -1,0 +1,17 @@
+grammar: noun
+orijen: Ladinokomunita
+
+versions:
+  - ladino: kompetensia
+
+    gender: feminine
+    number: singular
+
+    translations:
+      english: competence
+      french: ''
+      hebrew: ''
+      portuguese: ''
+      spanish: competencia
+      turkish: ''
+

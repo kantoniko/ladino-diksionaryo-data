@@ -1,0 +1,27 @@
+grammar: noun
+orijen: NA
+linguas:
+  - fransez
+  - italiano
+
+versions:
+  - ladino: projeto
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: projekto
+      - ladino: proyekto
+
+    translations:
+      english: project
+      french: ''
+      hebrew:
+        - תכנית
+        - מיזם
+        - פרוייקט
+      portuguese: ''
+      spanish: ''
+      turkish: ''
+
