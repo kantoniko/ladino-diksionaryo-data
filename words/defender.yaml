@@ -5,14 +5,14 @@ versions:
   - ladino: defender
 
     translations:
-        english:
+        inglez:
         - defend
         - protect
         - forbid
-        french: ''
-        portuguese: ''
-        spanish: defender
-        turkish: müdafaa - men etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: defender
+        turko: müdafaa - men etmek
 
 conjugations: {}
 

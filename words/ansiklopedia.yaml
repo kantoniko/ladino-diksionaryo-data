@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: encyclopaedia
-        french: encyclopédie
-        portuguese: ''
-        spanish: enciclopedia
-        turkish: ansiklopedi
+        inglez: encyclopaedia
+        fransez: encyclopédie
+        portugez: ''
+        kasteyano: enciclopedia
+        turko: ansiklopedi
 

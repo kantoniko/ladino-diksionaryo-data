@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - poem
         - poetry
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - poema
         - poesía
-        turkish:
+        turko:
         - şiir
         - şiirler
 
@@ -26,15 +26,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - poems
         - poetry
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - poemas
         - poesías
-        turkish:
+        turko:
         - şiir
         - şiirler
 

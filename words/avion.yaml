@@ -10,13 +10,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - plane
         - airplane
-        french: avion
-        portuguese: ''
-        spanish: avión
-        turkish: uçak
+        fransez: avion
+        portugez: ''
+        kasteyano: avión
+        turko: uçak
 
   - ladino: aviones
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - planes
         - airplanes
-        french: aviones
-        portuguese: ''
-        spanish: aviónes
-        turkish: uçak
+        fransez: aviones
+        portugez: ''
+        kasteyano: aviónes
+        turko: uçak
 
 
 

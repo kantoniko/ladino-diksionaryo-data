@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: illusion
-        french: ''
-        portuguese: ''
-        spanish: ilusión
-        turkish:
+        inglez: illusion
+        fransez: ''
+        portugez: ''
+        kasteyano: ilusión
+        turko:
         - hayal
         - düş
 

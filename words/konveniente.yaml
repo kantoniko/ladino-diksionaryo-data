@@ -7,12 +7,12 @@ versions:
     number: singular
 
     translations:
-        english: opportune
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: opportune
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - oportuno
           - oportuna
-        turkish: uygun
+        turko: uygun
 
 

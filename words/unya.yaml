@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: nail
-        french: ongle
-        portuguese: ''
-        spanish: uña
-        turkish: tırnak
+        inglez: nail
+        fransez: ongle
+        portugez: ''
+        kasteyano: uña
+        turko: tırnak
 
   - ladino: unyas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: nails
-        french: ongles
-        portuguese: ''
-        spanish: uñas
-        turkish: tırnak
+        inglez: nails
+        fransez: ongles
+        portugez: ''
+        kasteyano: uñas
+        turko: tırnak
 
 
 

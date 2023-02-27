@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: catholic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: católico
-      turkish: ''
+      inglez: catholic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: católico
+      turko: ''
 
   - ladino: katolika
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: catholic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: católica
-      turkish: ''
+      inglez: catholic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: católica
+      turko: ''
 
   - ladino: katolikos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: catholics
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: católicos
-      turkish: ''
+      inglez: catholics
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: católicos
+      turko: ''
 
   - ladino: katolikas
 
@@ -49,12 +49,12 @@ versions:
     number: plural
 
     translations:
-      english: catholics
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: católicas
-      turkish: ''
+      inglez: catholics
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: católicas
+      turko: ''
 
 
 

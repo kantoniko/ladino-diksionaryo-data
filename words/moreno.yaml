@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - dark
         - brown
-        french: ''
-        portuguese: ''
-        spanish: moreno
-        turkish: esmer
+        fransez: ''
+        portugez: ''
+        kasteyano: moreno
+        turko: esmer
 
   - ladino: morena
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - dark
         - brown
-        french: ''
-        portuguese: ''
-        spanish: morena
-        turkish: esmer
+        fransez: ''
+        portugez: ''
+        kasteyano: morena
+        turko: esmer
 
   - ladino: morenos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - dark
         - brown
-        french: ''
-        portuguese: ''
-        spanish: morenos
-        turkish: esmerler
+        fransez: ''
+        portugez: ''
+        kasteyano: morenos
+        turko: esmerler
 
   - ladino: morenas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - dark
         - brown
-        french: ''
-        portuguese: ''
-        spanish: morenas
-        turkish: esmerler
+        fransez: ''
+        portugez: ''
+        kasteyano: morenas
+        turko: esmerler
 
 
 

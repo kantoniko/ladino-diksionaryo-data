@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: stain
-        french: ''
-        portuguese: ''
-        spanish: mácula
-        turkish: leke
+        inglez: stain
+        fransez: ''
+        portugez: ''
+        kasteyano: mácula
+        turko: leke
 
   - ladino: manchas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: stains
-        french: ''
-        portuguese: ''
-        spanish: máculas
-        turkish: leke
+        inglez: stains
+        fransez: ''
+        portugez: ''
+        kasteyano: máculas
+        turko: leke
 
 
 

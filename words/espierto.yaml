@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - awake
         - smart
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - despierto
         - listo
-        turkish:
+        turko:
         - uyanık
         - açıkgöz
 
@@ -26,15 +26,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - awake
         - smart
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - despierta
         - lista
-        turkish:
+        turko:
         - uyanık
         - açıkgöz
 
@@ -44,15 +44,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - awake
         - smart
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - despiertos
         - listos
-        turkish:  uyanıklar
+        turko:  uyanıklar
 
   - ladino: espiertas
 
@@ -60,14 +60,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - awake
         - smart
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - despiertas
         - listas
-        turkish: uyanıklar
+        turko: uyanıklar
 
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: duck
-        french: ''
-        portuguese: ''
-        spanish: pato
-        turkish: ördek
+        inglez: duck
+        fransez: ''
+        portugez: ''
+        kasteyano: pato
+        turko: ördek
 
   - ladino: palazas
     accented: palázas
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: ducks
-        french: ''
-        portuguese: ''
-        spanish: patos
-        turkish: ördek
+        inglez: ducks
+        fransez: ''
+        portugez: ''
+        kasteyano: patos
+        turko: ördek
 

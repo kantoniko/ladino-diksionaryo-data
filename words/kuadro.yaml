@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: frame
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: frame
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuadro
           - marco
-        turkish:
+        turko:
         - kadro
         - çerçeve
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english: frames
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: frames
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuadros
           - marcos
-        turkish:
+        turko:
         - kadro
         - çerçeve
 

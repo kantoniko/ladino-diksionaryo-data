@@ -13,17 +13,17 @@ versions:
         accented: paresozo
 
     translations:
-        english:
+        inglez:
         - idle
         - lazy
-        french:
+        fransez:
         - paresseux
         - oisof
-        portuguese: preguisoso
-        spanish:
+        portugez: preguisoso
+        kasteyano:
         - perezoso
         - holgazán
-        turkish:
+        turko:
         - tembel
         - üşengeç
 
@@ -38,17 +38,17 @@ versions:
         accented: paresoza
 
     translations:
-        english:
+        inglez:
         - idle
         - lazy
-        french:
+        fransez:
         - paresseux
         - oisof
-        portuguese: preguisosa
-        spanish:
+        portugez: preguisosa
+        kasteyano:
         - perezosa
         - holgazán
-        turkish:
+        turko:
         - tembel
         - üşengeç
 

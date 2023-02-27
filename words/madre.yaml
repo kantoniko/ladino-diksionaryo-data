@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: mother
-        french: ''
-        portuguese: ''
-        spanish: madre
-        turkish:
+        inglez: mother
+        fransez: ''
+        portugez: ''
+        kasteyano: madre
+        turko:
         - anne
         - ana
 
@@ -27,11 +27,11 @@ versions:
     number: plural
 
     translations:
-        english: mothers
-        french: ''
-        portuguese: ''
-        spanish: madres
-        turkish:
+        inglez: mothers
+        fransez: ''
+        portugez: ''
+        kasteyano: madres
+        turko:
         - anne
         - ana
 

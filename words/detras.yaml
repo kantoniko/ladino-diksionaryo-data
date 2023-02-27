@@ -8,13 +8,13 @@ versions:
       - ladino: despues
 
     translations:
-        english:
+        inglez:
         - posterior
         - subsequent
-        french: ''
-        portuguese: ''
-        spanish: posterior
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: posterior
+        turko:
         - arka
         - sonra
 

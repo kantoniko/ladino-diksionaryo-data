@@ -9,20 +9,20 @@ versions:
 
 
     translations:
-      english:
+      inglez:
         - uproot
         - pick
         - detach
         - pluck
         - tear
         - break
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - לעקור
         - לקטוף
         - לתלוש
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

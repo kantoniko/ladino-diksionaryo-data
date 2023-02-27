@@ -13,14 +13,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - attic
         - garret
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - mansarda
         - buharda
-        turkish: tavan arası
+        turko: tavan arası
 
 

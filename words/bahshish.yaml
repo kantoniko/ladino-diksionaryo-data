@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - tip
         - gratuity
-        french:
+        fransez:
           - pourboire
           - bakchich
-        portuguese: ''
-        spanish: propina
-        turkish: bahşiş
+        portugez: ''
+        kasteyano: propina
+        turko: bahşiş
 

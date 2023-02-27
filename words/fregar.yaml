@@ -5,16 +5,16 @@ versions:
   - ladino: fregar
 
     translations:
-        english:
+        inglez:
         - scrub
         - wash
         - rub
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - fregar
         - frotar
-        turkish:
+        turko:
         - ovmak
         - bulaşık yıkamak
 

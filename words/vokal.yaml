@@ -5,10 +5,10 @@ versions:
   - ladino: vokal
 
     translations:
-        english: vowel
-        french: vocal
-        portuguese: ''
-        spanish: vocal
-        turkish: sesli harf
+        inglez: vowel
+        fransez: vocal
+        portugez: ''
+        kasteyano: vocal
+        turko: sesli harf
 
 

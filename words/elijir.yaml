@@ -5,11 +5,11 @@ versions:
   - ladino: elijir
 
     translations:
-        english: elect
-        french: ''
-        portuguese: ''
-        spanish: elegir
-        turkish: seçmek
+        inglez: elect
+        fransez: ''
+        portugez: ''
+        kasteyano: elegir
+        turko: seçmek
 
 conjugations: {}
 

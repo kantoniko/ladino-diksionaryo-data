@@ -5,11 +5,11 @@ versions:
   - ladino: ensuziar
 
     translations:
-        english: dirty
-        french: ''
-        portuguese: ''
-        spanish: ensuciar
-        turkish: kirletmek
+        inglez: dirty
+        fransez: ''
+        portugez: ''
+        kasteyano: ensuciar
+        turko: kirletmek
 
 conjugations: {}
 

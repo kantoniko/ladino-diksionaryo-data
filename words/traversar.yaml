@@ -5,11 +5,11 @@ versions:
   - ladino: traversar
 
     translations:
-        english: go across
-        french: ''
-        portuguese: ''
-        spanish: atravesar
-        turkish: karşıya geçmek
+        inglez: go across
+        fransez: ''
+        portugez: ''
+        kasteyano: atravesar
+        turko: karşıya geçmek
 
 conjugations: {}
 

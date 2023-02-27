@@ -5,13 +5,13 @@ versions:
   - ladino: karesar
 
     translations:
-        english:
+        inglez:
         - caress
         - pat
-        french: ''
-        portuguese: ''
-        spanish: acariciar
-        turkish: okşamak
+        fransez: ''
+        portugez: ''
+        kasteyano: acariciar
+        turko: okşamak
 
 conjugations: {}
 

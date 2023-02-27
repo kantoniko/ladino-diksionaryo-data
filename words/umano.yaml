@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: human
-      french: humain
-      hebrew: ''
-      portuguese: ''
-      spanish: humano
-      turkish: insan
+      inglez: human
+      fransez: humain
+      ebreo: ''
+      portugez: ''
+      kasteyano: humano
+      turko: insan
 
   - ladino: umana
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: human
-      french: humaine
-      hebrew: ''
-      portuguese: ''
-      spanish: humana
-      turkish: insan
+      inglez: human
+      fransez: humaine
+      ebreo: ''
+      portugez: ''
+      kasteyano: humana
+      turko: insan
 
   - ladino: umanos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: human
-      french: humains
-      hebrew: ''
-      portuguese: ''
-      spanish: humanos
-      turkish: insanlar
+      inglez: human
+      fransez: humains
+      ebreo: ''
+      portugez: ''
+      kasteyano: humanos
+      turko: insanlar
 
   - ladino: umanas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: human
-      french: humaines
-      hebrew: ''
-      portuguese: ''
-      spanish: humanas
-      turkish: insanlar
+      inglez: human
+      fransez: humaines
+      ebreo: ''
+      portugez: ''
+      kasteyano: humanas
+      turko: insanlar
 
 
 

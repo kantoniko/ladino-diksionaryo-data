@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: fire
-        french: ''
-        portuguese: ''
-        spanish: fuego
-        turkish:
+        inglez: fire
+        fransez: ''
+        portugez: ''
+        kasteyano: fuego
+        turko:
         - ateş
         - yangın
 

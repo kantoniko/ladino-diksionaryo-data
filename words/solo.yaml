@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - only
           - alone
-        french: ''
-        portuguese: ''
-        spanish: sólo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sólo
+        turko:
           - sadece
           - yalnız
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - only
           - alone
-        french: ''
-        portuguese: ''
-        spanish: sóla
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sóla
+        turko:
           - sadece
           - yalnız
 

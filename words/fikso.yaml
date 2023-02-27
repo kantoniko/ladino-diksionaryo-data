@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fixed
-        french: ''
-        portuguese: ''
-        spanish: fijo
-        turkish: sabit
+        inglez: fixed
+        fransez: ''
+        portugez: ''
+        kasteyano: fijo
+        turko: sabit
 
   - ladino: fiksa
     accented: fíksa
@@ -21,11 +21,11 @@ versions:
     number: singular
 
     translations:
-        english: fixed
-        french: ''
-        portuguese: ''
-        spanish: fija
-        turkish: sabit
+        inglez: fixed
+        fransez: ''
+        portugez: ''
+        kasteyano: fija
+        turko: sabit
 
   - ladino: fiksos
     accented: fíksos
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: fixed
-        french: ''
-        portuguese: ''
-        spanish: fijos
-        turkish: sabit
+        inglez: fixed
+        fransez: ''
+        portugez: ''
+        kasteyano: fijos
+        turko: sabit
 
   - ladino: fiksas
     accented: fíksas
@@ -47,9 +47,9 @@ versions:
     number: plural
 
     translations:
-        english: fixed
-        french: ''
-        portuguese: ''
-        spanish: fijas
-        turkish: sabit
+        inglez: fixed
+        fransez: ''
+        portugez: ''
+        kasteyano: fijas
+        turko: sabit
 

@@ -6,15 +6,15 @@ versions:
     accented: provár
 
     translations:
-        english:
+        inglez:
         - prove
         - try
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - probar
         - intentar
-        turkish:
+        turko:
         - kanıtlamak
         - denemek
 

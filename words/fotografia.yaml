@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: photo
-        french: ''
-        portuguese: ''
-        spanish: fotografía
-        turkish: fotograf
+        inglez: photo
+        fransez: ''
+        portugez: ''
+        kasteyano: fotografía
+        turko: fotograf
 
   - ladino: fotografias
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: photos
-        french: ''
-        portuguese: ''
-        spanish: fotografías
-        turkish: fotograf
+        inglez: photos
+        fransez: ''
+        portugez: ''
+        kasteyano: fotografías
+        turko: fotograf
 
 
 

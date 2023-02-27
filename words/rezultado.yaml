@@ -12,12 +12,12 @@ versions:
 
 
     translations:
-      english: result
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: resultado
-      turkish: ''
+      inglez: result
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: resultado
+      turko: ''
 
   - ladino: rezultados
 
@@ -29,12 +29,12 @@ versions:
 
 
     translations:
-      english: results
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: resultados
-      turkish: ''
+      inglez: results
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: resultados
+      turko: ''
 
 
 

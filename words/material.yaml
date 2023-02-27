@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: material
-        french: ''
-        portuguese: ''
-        spanish: material
-        turkish: madde
+        inglez: material
+        fransez: ''
+        portugez: ''
+        kasteyano: material
+        turko: madde
 
   - ladino: materiales
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: materials
-        french: ''
-        portuguese: ''
-        spanish: materiales
-        turkish: madde
+        inglez: materials
+        fransez: ''
+        portugez: ''
+        kasteyano: materiales
+        turko: madde
 
 
 

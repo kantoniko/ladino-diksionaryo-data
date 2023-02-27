@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: bitter
-        french: ''
-        portuguese: ''
-        spanish: amargo
-        turkish: acı
+        inglez: bitter
+        fransez: ''
+        portugez: ''
+        kasteyano: amargo
+        turko: acı
 
   - ladino: amarga
     accented: amárga
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: bitter
-        french: ''
-        portuguese: ''
-        spanish: amarga
-        turkish: acı
+        inglez: bitter
+        fransez: ''
+        portugez: ''
+        kasteyano: amarga
+        turko: acı
 
   - ladino: amargos
     accented: amárgos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: bitter
-        french: ''
-        portuguese: ''
-        spanish: amargos
-        turkish: acı
+        inglez: bitter
+        fransez: ''
+        portugez: ''
+        kasteyano: amargos
+        turko: acı
 
   - ladino: amargas
     accented: amárgas
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: bitter
-        french: ''
-        portuguese: ''
-        spanish: amargas
-        turkish: acı
+        inglez: bitter
+        fransez: ''
+        portugez: ''
+        kasteyano: amargas
+        turko: acı
 
 
 

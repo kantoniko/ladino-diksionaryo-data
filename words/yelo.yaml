@@ -12,13 +12,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - ice
         - frost
-        french: glace
-        portuguese: ''
-        spanish: hielo
-        turkish:
+        fransez: glace
+        portugez: ''
+        kasteyano: hielo
+        turko:
         - buz
         - don
 

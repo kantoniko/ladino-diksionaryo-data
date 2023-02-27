@@ -10,11 +10,11 @@ versions:
         accented: imprimár
 
     translations:
-        english: print
-        french: ''
-        portuguese: ''
-        spanish: imprimir
-        turkish: basmak
+        inglez: print
+        fransez: ''
+        portugez: ''
+        kasteyano: imprimir
+        turko: basmak
 
 conjugations: {}
 

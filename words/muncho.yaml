@@ -8,50 +8,50 @@ versions:
     #number: singular plural
 
     translations:
-      english:
+      inglez:
         - a lot
         - much
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: 'muncho'
-      turkish: çok
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: 'muncho'
+      turko: çok
 
   - ladino: muncha
     gender: feminine
     #number: singular plural
 
     translations:
-      english: 'a lot'
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: 'muncha'
-      turkish: çok
+      inglez: 'a lot'
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: 'muncha'
+      turko: çok
 
   - ladino: munchos
     gender: masculine
     #number: singular plural
 
     translations:
-      english: 'many'
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: 'munchos'
-      turkish: birçok
+      inglez: 'many'
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: 'munchos'
+      turko: birçok
 
   - ladino: munchas
     gender: feminine
     #number: singular plural
 
     translations:
-      english: 'many'
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: 'munchas'
-      turkish: birçok
+      inglez: 'many'
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: 'munchas'
+      turko: birçok
 
 
 

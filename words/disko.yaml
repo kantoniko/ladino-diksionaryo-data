@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: disk
-        french: ''
-        portuguese: ''
-        spanish: disco
-        turkish:
+        inglez: disk
+        fransez: ''
+        portugez: ''
+        kasteyano: disco
+        turko:
         - plak
         - disk
 

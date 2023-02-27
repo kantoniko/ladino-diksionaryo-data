@@ -5,11 +5,11 @@ versions:
   - ladino: aspekto
 
     translations:
-        english: aspect
-        french: ''
-        portuguese: ''
-        spanish: aspecto
-        turkish:
+        inglez: aspect
+        fransez: ''
+        portugez: ''
+        kasteyano: aspecto
+        turko:
           - boyut
           - görüntü
 

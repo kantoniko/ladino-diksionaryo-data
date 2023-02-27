@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - moment
         - minute
-        french: ''
-        portuguese: ''
-        spanish: punto
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: punto
+        turko:
         - an
         - dakika
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - moments
         - minutes
-        french: ''
-        portuguese: ''
-        spanish: puntos
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: puntos
+        turko: ''
 
 
 

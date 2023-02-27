@@ -5,10 +5,10 @@ versions:
   - ladino: payis
 
     translations:
-        english: country
-        french: ''
-        portuguese: ''
-        spanish: país
-        turkish: memleket
+        inglez: country
+        fransez: ''
+        portugez: ''
+        kasteyano: país
+        turko: memleket
 
 

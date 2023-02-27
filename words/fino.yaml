@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fine
         - delicate
-        french: fin
-        portuguese: fino
-        spanish: fino
-        turkish:
+        fransez: fin
+        portugez: fino
+        kasteyano: fino
+        turko:
         - ince
         - narin
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fine
         - delicate
-        french: fine
-        portuguese: fina
-        spanish: fina
-        turkish:
+        fransez: fine
+        portugez: fina
+        kasteyano: fina
+        turko:
         - ince
         - narin
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - fine
         - delicate
-        french: ''
-        portuguese: finos
-        spanish: finos
-        turkish:
+        fransez: ''
+        portugez: finos
+        kasteyano: finos
+        turko:
         - ince
         - narin
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - fine
         - delicate
-        french: ''
-        portuguese: finas
-        spanish: finas
-        turkish:
+        fransez: ''
+        portugez: finas
+        kasteyano: finas
+        turko:
         - ince
         - narin
 

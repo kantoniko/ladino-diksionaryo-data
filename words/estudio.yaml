@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: study
-        french: ''
-        portuguese: ''
-        spanish: estudio
-        turkish:
+        inglez: study
+        fransez: ''
+        portugez: ''
+        kasteyano: estudio
+        turko:
         - çalışma
         - öğrenme
         - araştırma

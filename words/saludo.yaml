@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: greeting
-        french: salutation
-        portuguese: saudação
-        spanish: saludo
-        turkish: selâm (vermek)
+        inglez: greeting
+        fransez: salutation
+        portugez: saudação
+        kasteyano: saludo
+        turko: selâm (vermek)
 
   - ladino: saludos
     accented: salúdos
@@ -30,10 +30,10 @@ versions:
     number: plural
 
     translations:
-        english: greetings
-        french: salutation
-        portuguese: saudaçãos
-        spanish: saludos
-        turkish: selâm (vermek)
+        inglez: greetings
+        fransez: salutation
+        portugez: saudaçãos
+        kasteyano: saludos
+        turko: selâm (vermek)
 
 

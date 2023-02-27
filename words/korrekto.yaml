@@ -11,12 +11,12 @@ versions:
       - ladino: korekto
 
     translations:
-      english: correct
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: correcto
-      turkish: ''
+      inglez: correct
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: correcto
+      turko: ''
 
   - ladino: korrekta
 
@@ -28,12 +28,12 @@ versions:
 
 
     translations:
-      english: correct
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: correcta
-      turkish: ''
+      inglez: correct
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: correcta
+      turko: ''
 
   - ladino: korrektos
 
@@ -44,12 +44,12 @@ versions:
       - ladino: korektos
 
     translations:
-      english: correct
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: correctos
-      turkish: ''
+      inglez: correct
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: correctos
+      turko: ''
 
   - ladino: korrektas
 
@@ -61,12 +61,12 @@ versions:
 
 
     translations:
-      english: correct
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: correctas
-      turkish: ''
+      inglez: correct
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: correctas
+      turko: ''
 
 
 

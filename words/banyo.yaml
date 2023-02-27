@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: bathroom
-      french: bain
-      hebrew: חדר אמבטיה
-      portuguese: ''
-      spanish: baño
-      turkish: ''
+      inglez: bathroom
+      fransez: bain
+      ebreo: חדר אמבטיה
+      portugez: ''
+      kasteyano: baño
+      turko: ''
 
   - ladino: banyos
 
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-      english: bathrooms
-      french: bains
-      hebrew: חדרי אמבטיה
-      portuguese: ''
-      spanish: baños
-      turkish: ''
+      inglez: bathrooms
+      fransez: bains
+      ebreo: חדרי אמבטיה
+      portugez: ''
+      kasteyano: baños
+      turko: ''
 
 
 

@@ -6,21 +6,21 @@ versions:
     accented: abediguár
 
     translations:
-        english:
+        inglez:
         - help
         - assist
-        french:
+        fransez:
         - aider
         - secourrir
         - assister
-        portuguese:
+        portugez:
         - ajudar
         - assistir
-        spanish:
+        kasteyano:
         - ayudar
         - socorrer
         - asistir
-        turkish: yardım etmek
+        turko: yardım etmek
 
 conjugations: {}
 

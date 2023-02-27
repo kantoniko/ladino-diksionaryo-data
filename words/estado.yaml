@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: state
-        french: ''
-        portuguese: ''
-        spanish: estado
-        turkish:
+        inglez: state
+        fransez: ''
+        portugez: ''
+        kasteyano: estado
+        turko:
         - durum
         - hal
         - devlet
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: states
-        french: ''
-        portuguese: ''
-        spanish: estados
-        turkish:
+        inglez: states
+        fransez: ''
+        portugez: ''
+        kasteyano: estados
+        turko:
         - durum
         - hal
         - devlet

@@ -5,13 +5,13 @@ versions:
   - ladino: menear
 
     translations:
-        english:
+        inglez:
         - move
         - shake
-        french: ''
-        portuguese: ''
-        spanish: menear
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: menear
+        turko:
         - sallamak
         - kımıldatmak
 

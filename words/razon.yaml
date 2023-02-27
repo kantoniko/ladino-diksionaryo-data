@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - reason
         - right
         - justice
-        french: ''
-        portuguese: ''
-        spanish: razón
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: razón
+        turko:
         - sebep
         - hak
         - us

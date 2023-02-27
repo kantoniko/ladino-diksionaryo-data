@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: stew (of fruit)
-        french: ''
-        portuguese: ''
-        spanish: almíbar
-        turkish: komposto
+        inglez: stew (of fruit)
+        fransez: ''
+        portugez: ''
+        kasteyano: almíbar
+        turko: komposto
 
   - ladino: kompostos
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: stew (of fruit)
-        french: ''
-        portuguese: ''
-        spanish: almíbares
-        turkish: komposto
+        inglez: stew (of fruit)
+        fransez: ''
+        portugez: ''
+        kasteyano: almíbares
+        turko: komposto
 
 
 

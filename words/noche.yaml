@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: night
-        french: ''
-        portuguese: ''
-        spanish: noche
-        turkish: gece
+        inglez: night
+        fransez: ''
+        portugez: ''
+        kasteyano: noche
+        turko: gece
 
   - ladino: noches
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: nights
-        french: ''
-        portuguese: ''
-        spanish: noches
-        turkish: gece
+        inglez: nights
+        fransez: ''
+        portugez: ''
+        kasteyano: noches
+        turko: gece
 
 
 

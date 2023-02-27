@@ -16,15 +16,15 @@ versions:
     number: singular
 
     translations:
-        english: bottle
-        french:
+        inglez: bottle
+        fransez:
         - bouteille
         - fiole
-        portuguese: garafa
-        spanish:
+        portugez: garafa
+        kasteyano:
         - botella
         - redoma
-        turkish: şişe
+        turko: şişe
 
   - ladino: redomas
     accented: redómas
@@ -37,14 +37,14 @@ versions:
     number: plural
 
     translations:
-        english: bottles
-        french:
+        inglez: bottles
+        fransez:
         - bouteille
         - fiole
-        portuguese: garafas
-        spanish:
+        portugez: garafas
+        kasteyano:
         - botellas
         - redomas
-        turkish: şişe
+        turko: şişe
 
 

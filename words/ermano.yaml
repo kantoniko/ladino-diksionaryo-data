@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: brother
-        french: ''
-        portuguese: ''
-        spanish: hermano
-        turkish: erkek kardeş
+        inglez: brother
+        fransez: ''
+        portugez: ''
+        kasteyano: hermano
+        turko: erkek kardeş
 
   - ladino: ermana
 
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: sister
-        french: ''
-        portuguese: ''
-        spanish: hermana
-        turkish: kızkardeş
+        inglez: sister
+        fransez: ''
+        portugez: ''
+        kasteyano: hermana
+        turko: kızkardeş
 
   - ladino: ermanos
 
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: brothers
-        french: ''
-        portuguese: ''
-        spanish: hermanos
-        turkish: erkek kardeş
+        inglez: brothers
+        fransez: ''
+        portugez: ''
+        kasteyano: hermanos
+        turko: erkek kardeş
 
   - ladino: ermanas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-        english: sisters
-        french: ''
-        portuguese: ''
-        spanish: hermanas
-        turkish: kızkardeş
+        inglez: sisters
+        fransez: ''
+        portugez: ''
+        kasteyano: hermanas
+        turko: kızkardeş
 
 
 

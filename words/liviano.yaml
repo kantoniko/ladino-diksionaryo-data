@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - light
         - trivial
-        french: ''
-        portuguese: ''
-        spanish: leve
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: leve
+        turko:
         - hafif
         - önemsiz
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - light
         - trivial
-        french: ''
-        portuguese: ''
-        spanish: leve
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: leve
+        turko:
         - hafif
         - önemsiz
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - light
         - trivials
-        french: ''
-        portuguese: ''
-        spanish: leve
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: leve
+        turko:
         - hafif
         - önemsiz
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - light
         - trivials
-        french: ''
-        portuguese: ''
-        spanish: leve
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: leve
+        turko:
         - hafif
         - önemsiz
 

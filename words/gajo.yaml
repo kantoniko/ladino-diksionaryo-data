@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - slice
         - segment
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - פלח
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

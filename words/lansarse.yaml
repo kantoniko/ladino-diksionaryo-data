@@ -8,13 +8,13 @@ versions:
       - ladino: echarse
 
     translations:
-        english:
+        inglez:
         - jump
         - launch out
-        french: ''
-        portuguese: ''
-        spanish: lanzarse
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: lanzarse
+        turko:
         - atlamak (havuza işe)
 
 conjugations: {}

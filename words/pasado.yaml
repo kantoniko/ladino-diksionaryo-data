@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: past
-        french: ''
-        portuguese: ''
-        spanish: pasado
-        turkish:
+        inglez: past
+        fransez: ''
+        portugez: ''
+        kasteyano: pasado
+        turko:
         - geçmiş
         - mazi
 
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: past
-        french: ''
-        portuguese: ''
-        spanish: pasada
-        turkish:
+        inglez: past
+        fransez: ''
+        portugez: ''
+        kasteyano: pasada
+        turko:
         - geçmiş
         - mazi
 

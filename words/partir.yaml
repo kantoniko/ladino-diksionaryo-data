@@ -5,13 +5,13 @@ versions:
   - ladino: partir
 
     translations:
-        english:
+        inglez:
         - go
         - split
-        french: ''
-        portuguese: ''
-        spanish: partir
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: partir
+        turko:
         - gitmek
         - bölmek
 

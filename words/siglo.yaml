@@ -16,11 +16,11 @@ versions:
     number: singular
 
     translations:
-        english: century
-        french: ''
-        portuguese: ''
-        spanish: siglo
-        turkish: yüzyıl
+        inglez: century
+        fransez: ''
+        portugez: ''
+        kasteyano: siglo
+        turko: yüzyıl
 
   - ladino: siglos
     accented: síglos
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: centuries
-        french: ''
-        portuguese: ''
-        spanish: siglos
-        turkish: yüzyıl
+        inglez: centuries
+        fransez: ''
+        portugez: ''
+        kasteyano: siglos
+        turko: yüzyıl
 
 
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: saying
-        french: ''
-        portuguese: ''
-        spanish: dicho
-        turkish: deyim
+        inglez: saying
+        fransez: ''
+        portugez: ''
+        kasteyano: dicho
+        turko: deyim
 
   - ladino: dichas
     accented: díchas
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: sayings
-        french: ''
-        portuguese: ''
-        spanish: dichos
-        turkish: deyim
+        inglez: sayings
+        fransez: ''
+        portugez: ''
+        kasteyano: dichos
+        turko: deyim
 
 
 

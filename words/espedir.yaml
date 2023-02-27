@@ -5,11 +5,11 @@ versions:
   - ladino: espedir
 
     translations:
-        english: despatch
-        french: ''
-        portuguese: ''
-        spanish: despachar
-        turkish: sevk etmek
+        inglez: despatch
+        fransez: ''
+        portugez: ''
+        kasteyano: despachar
+        turko: sevk etmek
 
 conjugations: {}
 

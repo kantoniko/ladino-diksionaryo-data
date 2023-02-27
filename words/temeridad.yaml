@@ -5,13 +5,13 @@ versions:
   - ladino: temeridad
 
     translations:
-        english:
+        inglez:
         - rashness
         - courage
-        french: ''
-        portuguese: ''
-        spanish: temeridad
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: temeridad
+        turko:
         - ihtiyatsızlık
         - cesaret
 

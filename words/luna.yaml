@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: moon
-        french: ''
-        portuguese: ''
-        spanish: luna
-        turkish: ay
+        inglez: moon
+        fransez: ''
+        portugez: ''
+        kasteyano: luna
+        turko: ay
 
   - ladino: lunas
     accented: lúnas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: moons
-        french: ''
-        portuguese: ''
-        spanish: lunas
-        turkish: ay
+        inglez: moons
+        fransez: ''
+        portugez: ''
+        kasteyano: lunas
+        turko: ay
 

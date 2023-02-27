@@ -5,13 +5,13 @@ versions:
   - ladino: glisar
 
     translations:
-      english: slide
-      french: ''
-      hebrew:
+      inglez: slide
+      fransez: ''
+      ebreo:
         - להחליק
         - לגלוש
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

@@ -5,32 +5,32 @@ versions:
   - ladino: publikar
 
     translations:
-        english: publish
-        french: ''
-        portuguese: ''
-        spanish: publicar
-        turkish:
+        inglez: publish
+        fransez: ''
+        portugez: ''
+        kasteyano: publicar
+        turko:
         - neşretmek
         - yayınlamak
 
   - ladino: publikado
 
     translations:
-        english: published
-        french: ''
-        portuguese: ''
-        spanish: publicado
-        turkish: ''
+        inglez: published
+        fransez: ''
+        portugez: ''
+        kasteyano: publicado
+        turko: ''
 
 
   - ladino: publikarlo
 
     translations:
-        english: publish it
-        french: ''
-        portuguese: ''
-        spanish: publicarlo
-        turkish: ''
+        inglez: publish it
+        fransez: ''
+        portugez: ''
+        kasteyano: publicarlo
+        turko: ''
 
 
 conjugations: {}

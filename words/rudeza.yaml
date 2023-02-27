@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - coarseness
         - rudeness
-        french: ''
-        portuguese: ''
-        spanish: rudeza
-        turkish: kabalık
+        fransez: ''
+        portugez: ''
+        kasteyano: rudeza
+        turko: kabalık
 
 

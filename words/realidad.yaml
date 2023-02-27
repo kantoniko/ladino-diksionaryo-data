@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - reality
         - truth
-        french: ''
-        portuguese: ''
-        spanish: realidad
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: realidad
+        turko:
         - gerçek
         - hakikat
 

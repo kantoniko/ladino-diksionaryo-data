@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: lawyer
-        french: avocat
-        portuguese: ''
-        spanish: abogado
-        turkish: avukat
+        inglez: lawyer
+        fransez: avocat
+        portugez: ''
+        kasteyano: abogado
+        turko: avukat
 
   - ladino: avokata
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: lawyer
-        french: avocate
-        portuguese: ''
-        spanish: abogada
-        turkish: avukat
+        inglez: lawyer
+        fransez: avocate
+        portugez: ''
+        kasteyano: abogada
+        turko: avukat
 
   - ladino: avokatos
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: lawyers
-        french: avocats
-        portuguese: ''
-        spanish: abogados
-        turkish: avukat
+        inglez: lawyers
+        fransez: avocats
+        portugez: ''
+        kasteyano: abogados
+        turko: avukat
 
   - ladino: avokatas
 
@@ -46,11 +46,11 @@ versions:
     number: plural
 
     translations:
-        english: lawyers
-        french: avocates
-        portuguese: ''
-        spanish: abogadas
-        turkish: avukat
+        inglez: lawyers
+        fransez: avocates
+        portugez: ''
+        kasteyano: abogadas
+        turko: avukat
 
 
 

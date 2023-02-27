@@ -5,11 +5,11 @@ versions:
   - ladino: renovelar
 
     translations:
-        english: renew
-        french: ''
-        portuguese: ''
-        spanish: renovar
-        turkish: yenilemek
+        inglez: renew
+        fransez: ''
+        portugez: ''
+        kasteyano: renovar
+        turko: yenilemek
 
 conjugations: {}
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: friend
-        french: ''
-        portuguese: ''
-        spanish: amigo
-        turkish: arkadaş
+        inglez: friend
+        fransez: ''
+        portugez: ''
+        kasteyano: amigo
+        turko: arkadaş
 
   - ladino: amiga
     accented: amíga
@@ -21,11 +21,11 @@ versions:
     number: singular
 
     translations:
-        english: friend
-        french: ''
-        portuguese: ''
-        spanish: amiga
-        turkish: arkadaş
+        inglez: friend
+        fransez: ''
+        portugez: ''
+        kasteyano: amiga
+        turko: arkadaş
 
   - ladino: amigos
     accented: amígos
@@ -33,11 +33,11 @@ versions:
     number: plural
 
     translations:
-        english: friends
-        french: ''
-        portuguese: ''
-        spanish: amigos
-        turkish: arkadaş
+        inglez: friends
+        fransez: ''
+        portugez: ''
+        kasteyano: amigos
+        turko: arkadaş
 
   - ladino: amigas
     accented: amígas
@@ -45,10 +45,10 @@ versions:
     number: plural
 
     translations:
-        english: friends
-        french: ''
-        portuguese: ''
-        spanish: amigas
-        turkish: arkadaş
+        inglez: friends
+        fransez: ''
+        portugez: ''
+        kasteyano: amigas
+        turko: arkadaş
 
 

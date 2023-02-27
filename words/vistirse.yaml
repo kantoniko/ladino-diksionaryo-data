@@ -6,11 +6,11 @@ versions:
     accented: vistírse
 
     translations:
-        english: get dressed
-        french: s'habiller
-        portuguese: vestir-se
-        spanish: vestirse
-        turkish: giyinmek
+        inglez: get dressed
+        fransez: s'habiller
+        portugez: vestir-se
+        kasteyano: vestirse
+        turko: giyinmek
 
 conjugations: {}
 

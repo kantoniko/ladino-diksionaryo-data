@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: plum
-        french: ''
-        portuguese: ''
-        spanish: ciruela
-        turkish: erik
+        inglez: plum
+        fransez: ''
+        portugez: ''
+        kasteyano: ciruela
+        turko: erik
 
   - ladino: prunas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: plums
-        french: ''
-        portuguese: ''
-        spanish: ciruelas
-        turkish: erikler
+        inglez: plums
+        fransez: ''
+        portugez: ''
+        kasteyano: ciruelas
+        turko: erikler
 
 
 

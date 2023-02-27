@@ -5,13 +5,13 @@ versions:
   - ladino: sirkulasion
 
     translations:
-        english:
+        inglez:
           - circulation
           - traffic
-        french: ''
-        portuguese: ''
-        spanish: circulación
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: circulación
+        turko:
           - dolaşım
           - trafik
 

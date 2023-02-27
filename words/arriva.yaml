@@ -8,16 +8,16 @@ versions:
     accented: arríva
 
     translations:
-        english:
+        inglez:
         - up
         - on the top
         - upstairs
-        french:
+        fransez:
         - en haut
         - au dessus
-        portuguese: ''
-        spanish: arriba
-        turkish:
+        portugez: ''
+        kasteyano: arriba
+        turko:
         - üst
         - üstte
         - yukarda

@@ -5,20 +5,20 @@ versions:
   - ladino: venir
 
     translations:
-        english: come
-        french: venir
-        hebrew: להגיע
-        portuguese: ''
-        spanish: venir
-        turkish: gelmek
+        inglez: come
+        fransez: venir
+        ebreo: להגיע
+        portugez: ''
+        kasteyano: venir
+        turko: gelmek
 
 conjugations:
   pasado:
     el:
       ladino: vino
       translations:
-        english: came
-        hebrew: הגיע
-        spanish: vino
+        inglez: came
+        ebreo: הגיע
+        kasteyano: vino
 
 

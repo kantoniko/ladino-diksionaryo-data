@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: abundance
-        french: abondance
-        portuguese: abundância
-        spanish: abundancia
-        turkish:
+        inglez: abundance
+        fransez: abondance
+        portugez: abundância
+        kasteyano: abundancia
+        turko:
         - bolluk
         - bereket
 

@@ -5,13 +5,13 @@ versions:
   - ladino: kontuar
 
     translations:
-        english:
+        inglez:
         - counter
         - stand
-        french: ''
-        portuguese: ''
-        spanish: puesto
-        turkish: tezgâh
+        fransez: ''
+        portugez: ''
+        kasteyano: puesto
+        turko: tezgâh
 
 conjugations: {}
 

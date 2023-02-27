@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: Greek
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: Greek
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - griego
-        turkish:
+        turko:
         - Rum
         - Yunanlı
 
@@ -25,12 +25,12 @@ versions:
     number: singular
 
     translations:
-        english: Greek
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: Greek
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - griega
-        turkish:
+        turko:
         - Rum
         - Yunanlı
 
@@ -41,12 +41,12 @@ versions:
     number: plural
 
     translations:
-        english: Greek
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: Greek
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - griegos
-        turkish: ''
+        turko: ''
 
   - ladino: gregas
     accented: grégas
@@ -55,10 +55,10 @@ versions:
     number: plural
 
     translations:
-        english: Greek
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: Greek
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - griegas
-        turkish: ''
+        turko: ''
 

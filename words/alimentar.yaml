@@ -6,10 +6,10 @@ versions:
     accented: alimentár
 
     translations:
-        english: feed
-        french: alimenter
-        portuguese: ''
-        spanish: alimentar
-        turkish: beslemek
+        inglez: feed
+        fransez: alimenter
+        portugez: ''
+        kasteyano: alimentar
+        turko: beslemek
 
 conjugations: {}

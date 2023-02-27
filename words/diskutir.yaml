@@ -5,18 +5,18 @@ versions:
   - ladino: diskutir
 
     translations:
-        english:
+        inglez:
         - discuss
         - argue
-        french: ''
-        hebrew:
+        fransez: ''
+        ebreo:
           - להתווח
           - להתעמת
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - discutir
         - argüir
-        turkish: münakaşa etmek
+        turko: münakaşa etmek
 
 conjugations: {}
 

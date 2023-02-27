@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - old
         - aged
-        french:
+        fransez:
         - âgé
         - âgée
-        portuguese:
+        portugez:
         - idoso
-        spanish: anciano
-        turkish: yaşlı
+        kasteyano: anciano
+        turko: yaşlı
 
   - ladino: aedada
     accented: aedáda
@@ -25,16 +25,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - old
         - aged
-        french:
+        fransez:
         - âgé
         - âgée
-        portuguese:
+        portugez:
         - idosa
-        spanish: anciana
-        turkish: yaşlı
+        kasteyano: anciana
+        turko: yaşlı
 
   - ladino: aedados
     accented: aedádos
@@ -42,16 +42,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - old
         - aged
-        french:
+        fransez:
         - âgé
         - âgée
-        portuguese:
+        portugez:
         - idosos
-        spanish: ancianos
-        turkish: yaşlı
+        kasteyano: ancianos
+        turko: yaşlı
 
   - ladino: aedadas
     accented: aedádas
@@ -59,14 +59,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - old
         - aged
-        french:
+        fransez:
         - âgé
         - âgée
-        portuguese:
+        portugez:
         - idosas
-        spanish: ancianas
-        turkish: yaşlı
+        kasteyano: ancianas
+        turko: yaşlı
 

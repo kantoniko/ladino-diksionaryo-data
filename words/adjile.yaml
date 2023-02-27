@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - haste
         - hurry
-        french: hâte
-        portuguese: pressa
-        spanish: prisa
-        turkish: acele
+        fransez: hâte
+        portugez: pressa
+        kasteyano: prisa
+        turko: acele
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: over-coat
-        french: ''
-        portuguese: ''
-        spanish: abrigo
-        turkish:
+        inglez: over-coat
+        fransez: ''
+        portugez: ''
+        kasteyano: abrigo
+        turko:
         - pardesü
         - palto
 

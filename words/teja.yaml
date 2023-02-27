@@ -5,10 +5,10 @@ versions:
   - ladino: teja
 
     translations:
-        english: tile
-        french: tuile
-        portuguese: ''
-        spanish: teja
-        turkish: kiremit
+        inglez: tile
+        fransez: tuile
+        portugez: ''
+        kasteyano: teja
+        turko: kiremit
 
 

@@ -6,13 +6,13 @@ versions:
     accented: apénas
 
     translations:
-        english:
+        inglez:
         - scarcely
         - hardly
-        french: à peine
-        portuguese: apenas
-        spanish: apenas
-        turkish:
+        fransez: à peine
+        portugez: apenas
+        kasteyano: apenas
+        turko:
         - henüz
         - ancak
         - zar zor

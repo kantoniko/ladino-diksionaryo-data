@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: woman
-        french: ''
-        portuguese: ''
-        spanish: mujer
-        turkish: kadın
+        inglez: woman
+        fransez: ''
+        portugez: ''
+        kasteyano: mujer
+        turko: kadın
 
   - ladino: mujeres
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: women
-        french: ''
-        portuguese: ''
-        spanish: mujeres
-        turkish: kadın
+        inglez: women
+        fransez: ''
+        portugez: ''
+        kasteyano: mujeres
+        turko: kadın
 
 
 

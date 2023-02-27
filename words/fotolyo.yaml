@@ -10,15 +10,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - orchestra seat
           - armchair
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - butaca
           - sillón
-        turkish:
+        turko:
         - koltuk
 
   - ladino: fotolyos
@@ -27,15 +27,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - orchestra seats
           - armchairs
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - butacas
           - sillónes
-        turkish:
+        turko:
         - koltuk
 
 

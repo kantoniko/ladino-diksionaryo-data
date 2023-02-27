@@ -5,13 +5,13 @@ versions:
   - ladino: tratar
 
     translations:
-        english:
+        inglez:
         - treat
         - deal
-        french: ''
-        portuguese: ''
-        spanish: tratar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: tratar
+        turko:
         - davranmak
         - pazarlık etmek
 

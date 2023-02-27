@@ -5,13 +5,13 @@ versions:
   - ladino: atrazarse
 
     translations:
-        english:
+        inglez:
         - retard
         - back up
-        french: régresser
-        portuguese: ''
-        spanish: atrasarse
-        turkish: gerilemek
+        fransez: régresser
+        portugez: ''
+        kasteyano: atrasarse
+        turko: gerilemek
 
 conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: posedar
 
     translations:
-        english: possess
-        french: ''
-        portuguese: ''
-        spanish: poseer
-        turkish: sahip olmak
+        inglez: possess
+        fransez: ''
+        portugez: ''
+        kasteyano: poseer
+        turko: sahip olmak
 
 conjugations: {}
 

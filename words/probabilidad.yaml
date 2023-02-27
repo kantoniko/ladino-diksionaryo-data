@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: probability
-        french: ''
-        portuguese: ''
-        spanish: probabilidad
-        turkish: ihtimal
+        inglez: probability
+        fransez: ''
+        portugez: ''
+        kasteyano: probabilidad
+        turko: ihtimal
 
   - ladino: probabilidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: probability
-        french: ''
-        portuguese: ''
-        spanish: probabilidad
-        turkish: ihtimal
+        inglez: probability
+        fransez: ''
+        portugez: ''
+        kasteyano: probabilidad
+        turko: ihtimal
 
 
 

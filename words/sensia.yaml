@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: science
-        french: ''
-        portuguese: ''
-        spanish: ciencia
-        turkish: bilim
+        inglez: science
+        fransez: ''
+        portugez: ''
+        kasteyano: ciencia
+        turko: bilim
 
   - ladino: sensias
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sciences
-        french: ''
-        portuguese: ''
-        spanish: ciencias
-        turkish: bilim
+        inglez: sciences
+        fransez: ''
+        portugez: ''
+        kasteyano: ciencias
+        turko: bilim
 
 
 

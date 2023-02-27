@@ -11,11 +11,11 @@ versions:
       - ladino: memorya
 
     translations:
-        english: memory
-        french: ''
-        portuguese: ''
-        spanish: memoria
-        turkish: hafıza
+        inglez: memory
+        fransez: ''
+        portugez: ''
+        kasteyano: memoria
+        turko: hafıza
 
   - ladino: memorias
 
@@ -26,10 +26,10 @@ versions:
       - ladino: memoryas
 
     translations:
-        english: memories
-        french: ''
-        portuguese: ''
-        spanish: memorias
-        turkish: ''
+        inglez: memories
+        fransez: ''
+        portugez: ''
+        kasteyano: memorias
+        turko: ''
 
 

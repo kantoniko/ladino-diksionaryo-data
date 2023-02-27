@@ -5,15 +5,15 @@ versions:
   - ladino: lo
 
     translations:
-        english:
+        inglez:
         - that
         - which
         - it
         - him
-        french: ''
-        portuguese: ''
-        spanish: lo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: lo
+        turko:
         - olan
         - o
 

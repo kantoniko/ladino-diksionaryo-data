@@ -9,17 +9,17 @@ versions:
       - ladino: adelante
 
     translations:
-        english:
+        inglez:
         - forward
         - ahead
-        french:
+        fransez:
         - en avant
         - devant
-        portuguese:
+        portugez:
         - adiante
         - na frente
-        spanish: adelante
-        turkish:
+        kasteyano: adelante
+        turko:
         - ileri
         - önde
 

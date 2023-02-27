@@ -5,11 +5,11 @@ versions:
   - ladino: desdenio
 
     translations:
-        english: disdain
-        french: ''
-        portuguese: ''
-        spanish: desdén
-        turkish:
+        inglez: disdain
+        fransez: ''
+        portugez: ''
+        kasteyano: desdén
+        turko:
         - hor górme
         - küçümseme
 

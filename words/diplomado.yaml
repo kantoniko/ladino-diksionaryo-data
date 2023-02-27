@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: bachelor (degree)
-        french: ''
-        portuguese: ''
-        spanish: bachillerato
-        turkish: mezun
+        inglez: bachelor (degree)
+        fransez: ''
+        portugez: ''
+        kasteyano: bachillerato
+        turko: mezun
 
   - ladino: diplomada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: bachelor (degree)
-        french: ''
-        portuguese: ''
-        spanish: bachillerata
-        turkish: mezun
+        inglez: bachelor (degree)
+        fransez: ''
+        portugez: ''
+        kasteyano: bachillerata
+        turko: mezun
 
   - ladino: diplomados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: bachelor (degree)
-        french: ''
-        portuguese: ''
-        spanish: bachilleratos
-        turkish: diplomalar
+        inglez: bachelor (degree)
+        fransez: ''
+        portugez: ''
+        kasteyano: bachilleratos
+        turko: diplomalar
 
   - ladino: diplomadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: bachelor (degree)
-        french: ''
-        portuguese: ''
-        spanish: bachilleratas
-        turkish: diplomalar
+        inglez: bachelor (degree)
+        fransez: ''
+        portugez: ''
+        kasteyano: bachilleratas
+        turko: diplomalar
 
 
 

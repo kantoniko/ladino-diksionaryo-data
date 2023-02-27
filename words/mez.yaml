@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: month
-        french: ''
-        portuguese: ''
-        spanish: mes
-        turkish: ay
+        inglez: month
+        fransez: ''
+        portugez: ''
+        kasteyano: mes
+        turko: ay
 
   - ladino: mezes
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: months
-        french: ''
-        portuguese: ''
-        spanish: meses
-        turkish: ay
+        inglez: months
+        fransez: ''
+        portugez: ''
+        kasteyano: meses
+        turko: ay
 
 

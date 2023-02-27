@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: kilo
-        french: ''
-        portuguese: ''
-        spanish: kilo
-        turkish: kilo
+        inglez: kilo
+        fransez: ''
+        portugez: ''
+        kasteyano: kilo
+        turko: kilo
 
   - ladino: kilos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: kilos
-        french: ''
-        portuguese: ''
-        spanish: kilos
-        turkish: kilo
+        inglez: kilos
+        fransez: ''
+        portugez: ''
+        kasteyano: kilos
+        turko: kilo
 
 
 

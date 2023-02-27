@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: mould
-        french: ''
-        portuguese: ''
-        spanish: moho
-        turkish: küf
+        inglez: mould
+        fransez: ''
+        portugez: ''
+        kasteyano: moho
+        turko: küf
 
   - ladino: mofa
     accented: mófa
@@ -22,9 +22,9 @@ versions:
     number: singular
 
     translations:
-        english: mould
-        french: ''
-        portuguese: ''
-        spanish: moho
-        turkish: küf
+        inglez: mould
+        fransez: ''
+        portugez: ''
+        kasteyano: moho
+        turko: küf
 

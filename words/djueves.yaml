@@ -14,12 +14,12 @@ versions:
     number: singular
 
     translations:
-        english: Thursday
-        french: jeudi
-        hebrew:
+        inglez: Thursday
+        fransez: jeudi
+        ebreo:
           - יום חמישי
           - יום ה
-        portuguese: quinta-feira
-        spanish: jueves
-        turkish: Perşembe
+        portugez: quinta-feira
+        kasteyano: jueves
+        turko: Perşembe
 

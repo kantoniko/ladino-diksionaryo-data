@@ -5,11 +5,11 @@ versions:
   - ladino: merkar
 
     translations:
-        english: buy
-        french: ''
-        portuguese: ''
-        spanish: comprar
-        turkish: satın almak
+        inglez: buy
+        fransez: ''
+        portugez: ''
+        kasteyano: comprar
+        turko: satın almak
 
 conjugations: {}
 

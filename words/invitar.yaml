@@ -5,13 +5,13 @@ versions:
   - ladino: invitar
 
     translations:
-        english: invite
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: invite
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - invitar
         - convidar
-        turkish: davet etmek
+        turko: davet etmek
 
 conjugations: {}
 

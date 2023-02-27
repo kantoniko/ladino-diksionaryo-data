@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: bone
-        french: ''
-        portuguese: ''
-        spanish: hueso
-        turkish: kemık
+        inglez: bone
+        fransez: ''
+        portugez: ''
+        kasteyano: hueso
+        turko: kemık
 
   - ladino: guesos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: bones
-        french: ''
-        portuguese: ''
-        spanish: huesos
-        turkish: kemık
+        inglez: bones
+        fransez: ''
+        portugez: ''
+        kasteyano: huesos
+        turko: kemık
 
 
 

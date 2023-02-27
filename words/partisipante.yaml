@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: participant
-        french: ''
-        portuguese: ''
-        spanish: participante
-        turkish: iştirakçi
+        inglez: participant
+        fransez: ''
+        portugez: ''
+        kasteyano: participante
+        turko: iştirakçi
 
   - ladino: partisipantes
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: participants
-        french: ''
-        portuguese: ''
-        spanish: participantes
-        turkish: iştirakçi
+        inglez: participants
+        fransez: ''
+        portugez: ''
+        kasteyano: participantes
+        turko: iştirakçi
 

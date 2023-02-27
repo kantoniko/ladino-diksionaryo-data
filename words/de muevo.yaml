@@ -6,11 +6,11 @@ versions:
     accented: de muévo
 
     translations:
-        english: again
-        french: ''
-        portuguese: ''
-        spanish: de nuevo
-        turkish:
+        inglez: again
+        fransez: ''
+        portugez: ''
+        kasteyano: de nuevo
+        turko:
         - yeniden
         - yine
         - gene

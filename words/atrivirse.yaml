@@ -10,12 +10,12 @@ versions:
         accented: tenér koráje
 
     translations:
-        english: dare
-        french: oser
-        portuguese: ''
-        spanish:
+        inglez: dare
+        fransez: oser
+        portugez: ''
+        kasteyano:
           - atreverse
           - osar
-        turkish: cesaret etmek
+        turko: cesaret etmek
 
 conjugations: {}

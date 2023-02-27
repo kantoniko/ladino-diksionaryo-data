@@ -5,12 +5,12 @@ versions:
   - ladino: dekreto
 
     translations:
-        english:
+        inglez:
         - edict
         - decree
-        french: ''
-        portuguese: ''
-        spanish: edicto
-        turkish: kararname
+        fransez: ''
+        portugez: ''
+        kasteyano: edicto
+        turko: kararname
 
 

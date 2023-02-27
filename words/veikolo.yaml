@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: vehicle
-      french: vehicule
-      hebrew: ''
-      portuguese: ''
-      spanish: vehículo
-      turkish: araç
+      inglez: vehicle
+      fransez: vehicule
+      ebreo: ''
+      portugez: ''
+      kasteyano: vehículo
+      turko: araç
 
   - ladino: veikolos
     accented: veíkolos
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: vehicles
-      french: vehicules
-      hebrew: ''
-      portuguese: ''
-      spanish: vehículos
-      turkish: araçlar
+      inglez: vehicles
+      fransez: vehicules
+      ebreo: ''
+      portugez: ''
+      kasteyano: vehículos
+      turko: araçlar
 
 
 

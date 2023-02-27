@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: katramizes
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

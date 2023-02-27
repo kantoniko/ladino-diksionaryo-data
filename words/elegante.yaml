@@ -7,15 +7,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - neat
         - stylish
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - atildado
           - atildada
-        turkish: zarif
+        turko: zarif
 
   - ladino: elegantes
 
@@ -23,15 +23,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - neat
         - stylish
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - atildados
           - atildadas
-        turkish: zarif
+        turko: zarif
 
 
 

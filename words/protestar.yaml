@@ -5,11 +5,11 @@ versions:
   - ladino: protestar
 
     translations:
-        english: protest
-        french: ''
-        portuguese: ''
-        spanish: protestar
-        turkish: itiraz etmek
+        inglez: protest
+        fransez: ''
+        portugez: ''
+        kasteyano: protestar
+        turko: itiraz etmek
 
 conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: perpetual
 
     translations:
-        english: perpetual
-        french: ''
-        portuguese: ''
-        spanish: perpetua
-        turkish:
+        inglez: perpetual
+        fransez: ''
+        portugez: ''
+        kasteyano: perpetua
+        turko:
         - sürekli
         - daimí
 

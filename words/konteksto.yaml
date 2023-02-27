@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: context
-        french: ''
-        portuguese: ''
-        spanish: contexto
-        turkish: bağlam
+        inglez: context
+        fransez: ''
+        portugez: ''
+        kasteyano: contexto
+        turko: bağlam
 
   - ladino: kontekstos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: contexts
-        french: ''
-        portuguese: ''
-        spanish: contextos
-        turkish: bağlam
+        inglez: contexts
+        fransez: ''
+        portugez: ''
+        kasteyano: contextos
+        turko: bağlam
 
 
 

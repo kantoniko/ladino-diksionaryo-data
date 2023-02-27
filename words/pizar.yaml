@@ -5,11 +5,11 @@ versions:
   - ladino: pizar
 
     translations:
-        english: step on
-        french: ''
-        portuguese: ''
-        spanish: pisar
-        turkish: basmak
+        inglez: step on
+        fransez: ''
+        portugez: ''
+        kasteyano: pisar
+        turko: basmak
 
 conjugations: {}
 

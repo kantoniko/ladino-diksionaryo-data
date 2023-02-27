@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: taste
-        french: ''
-        portuguese: ''
-        spanish: sabor
-        turkish: tad
+        inglez: taste
+        fransez: ''
+        portugez: ''
+        kasteyano: sabor
+        turko: tad
 
   - ladino: savores
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: tastes
-        french: ''
-        portuguese: ''
-        spanish: sabores
-        turkish: tad
+        inglez: tastes
+        fransez: ''
+        portugez: ''
+        kasteyano: sabores
+        turko: tad
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: operar
 
     translations:
-        english: operate
-        french: ''
-        portuguese: ''
-        spanish: operar
-        turkish: ameliyat etmek
+        inglez: operate
+        fransez: ''
+        portugez: ''
+        kasteyano: operar
+        turko: ameliyat etmek
 
 conjugations: {}
 

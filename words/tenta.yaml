@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - marquee
         - canopy
-        french: ''
-        portuguese: ''
-        spanish: marquesina
-        turkish: tente
+        fransez: ''
+        portugez: ''
+        kasteyano: marquesina
+        turko: tente
 
   - ladino: tentas
 
@@ -22,12 +22,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - marquees
         - canopies
-        french: ''
-        portuguese: ''
-        spanish: marquesinas
-        turkish: tente
+        fransez: ''
+        portugez: ''
+        kasteyano: marquesinas
+        turko: tente
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bad
         - naughty
-        french: ''
-        portuguese: ''
-        spanish: malo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: malo
+        turko:
         - fena
         - yaramaz
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bad
         - naughty
-        french: ''
-        portuguese: ''
-        spanish: mala
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: mala
+        turko:
         - fena
         - yaramaz
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - bad
         - naughty
-        french: ''
-        portuguese: ''
-        spanish: malos
-        turkish: kötüler
+        fransez: ''
+        portugez: ''
+        kasteyano: malos
+        turko: kötüler
 
   - ladino: malas
 
@@ -54,13 +54,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - bad
         - naughty
-        french: ''
-        portuguese: ''
-        spanish: malas
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: malas
+        turko: ''
 
 
 

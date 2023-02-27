@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: bench
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: banco
-      turkish: ''
+      inglez: bench
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: banco
+      turko: ''
 
   - ladino: bankos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: benches
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bancos
-      turkish: ''
+      inglez: benches
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bancos
+      turko: ''
 
 
 

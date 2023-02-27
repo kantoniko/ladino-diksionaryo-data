@@ -16,11 +16,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - summary
         - résumé
-        french: ''
-        portuguese: ''
-        spanish: resumen
-        turkish: özet
+        fransez: ''
+        portugez: ''
+        kasteyano: resumen
+        turko: özet
 

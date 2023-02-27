@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: cansado
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: cansado
+        turko: yorgun
 
   - ladino: kansada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: cansada
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: cansada
+        turko: yorgun
 
   - ladino: kansados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: cansados
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: cansados
+        turko: yorgun
 
   - ladino: kansadas
 
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: cansadas
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: cansadas
+        turko: yorgun
 

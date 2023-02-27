@@ -12,11 +12,11 @@ versions:
         accented: vazío
 
     translations:
-        english: empty
-        french: vide
-        portuguese: ''
-        spanish: vacío
-        turkish: boş
+        inglez: empty
+        fransez: vide
+        portugez: ''
+        kasteyano: vacío
+        turko: boş
 
   - ladino: vaziya
 
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: empty
-        french: vide
-        portuguese: ''
-        spanish: vacía
-        turkish: boş
+        inglez: empty
+        fransez: vide
+        portugez: ''
+        kasteyano: vacía
+        turko: boş
 
   - ladino: vaziyos
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: empty
-        french: vides
-        portuguese: ''
-        spanish: vacíos
-        turkish: boş
+        inglez: empty
+        fransez: vides
+        portugez: ''
+        kasteyano: vacíos
+        turko: boş
 
   - ladino: vaziyas
 
@@ -48,11 +48,11 @@ versions:
     number: plural
 
     translations:
-        english: empty
-        french: vides
-        portuguese: ''
-        spanish: vacías
-        turkish: boş
+        inglez: empty
+        fransez: vides
+        portugez: ''
+        kasteyano: vacías
+        turko: boş
 
 
 

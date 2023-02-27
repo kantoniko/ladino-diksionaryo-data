@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - excommunicated person; rascal
           - scoundrel
-        french:
+        fransez:
           - excommunié
           - canaille
-        portuguese: malandro
-        spanish:
+        portugez: malandro
+        kasteyano:
           - excomulgado
           - canalla
-        turkish:
+        turko:
           - aforoz edilmiş
           - alçak adam
           - habis

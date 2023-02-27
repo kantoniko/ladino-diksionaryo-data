@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: florist
-        french: ''
-        portuguese: ''
-        spanish: florista
-        turkish: çiçekçi
+        inglez: florist
+        fransez: ''
+        portugez: ''
+        kasteyano: florista
+        turko: çiçekçi
 
   - ladino: florista
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: florist
-        french: ''
-        portuguese: ''
-        spanish: florista
-        turkish: çiçekçi
+        inglez: florist
+        fransez: ''
+        portugez: ''
+        kasteyano: florista
+        turko: çiçekçi
 
   - ladino: floristos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: florists
-        french: ''
-        portuguese: ''
-        spanish: floristas
-        turkish: çiçekçi
+        inglez: florists
+        fransez: ''
+        portugez: ''
+        kasteyano: floristas
+        turko: çiçekçi
 
   - ladino: floristas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: florists
-        french: ''
-        portuguese: ''
-        spanish: floristas
-        turkish: çiçekçi
+        inglez: florists
+        fransez: ''
+        portugez: ''
+        kasteyano: floristas
+        turko: çiçekçi
 
 

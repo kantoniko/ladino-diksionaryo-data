@@ -12,13 +12,13 @@ versions:
     number: singular
 
     translations:
-        english: childhood
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: childhood
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - niñez
         - infancia
-        turkish:
+        turko:
         - küçüklük
         - çocukluk
 

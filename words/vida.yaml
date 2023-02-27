@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: life
-        french: vie
-        portuguese: ''
-        spanish: vida
-        turkish: hayat
+        inglez: life
+        fransez: vie
+        portugez: ''
+        kasteyano: vida
+        turko: hayat
 
   - ladino: vidas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: lifes
-        french: vies
-        portuguese: ''
-        spanish: vidas
-        turkish: hayat
+        inglez: lifes
+        fransez: vies
+        portugez: ''
+        kasteyano: vidas
+        turko: hayat
 
 
 

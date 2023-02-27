@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: wet
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: mojado
-      turkish: ''
+      inglez: wet
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: mojado
+      turko: ''
 
   - ladino: mojada
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: wet
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: mojada
-      turkish: ''
+      inglez: wet
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: mojada
+      turko: ''
 
   - ladino: mojados
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: wet
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: mojados
-      turkish: ''
+      inglez: wet
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: mojados
+      turko: ''
 
   - ladino: mojadas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: wet
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: mojadas
-      turkish: ''
+      inglez: wet
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: mojadas
+      turko: ''
 
 

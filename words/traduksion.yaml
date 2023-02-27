@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: translation
-        french: ''
-        portuguese: ''
-        spanish: traducción
-        turkish: tercüme
+        inglez: translation
+        fransez: ''
+        portugez: ''
+        kasteyano: traducción
+        turko: tercüme
 
   - ladino: traduksiones
     accented: traduksiónes
@@ -30,10 +30,10 @@ versions:
     number: plural
 
     translations:
-        english: translations
-        french: ''
-        portuguese: ''
-        spanish: traducciónes
-        turkish: tercüme
+        inglez: translations
+        fransez: ''
+        portugez: ''
+        kasteyano: traducciónes
+        turko: tercüme
 
 

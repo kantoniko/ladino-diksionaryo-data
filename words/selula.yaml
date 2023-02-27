@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cell
-        french: ''
-        portuguese: ''
-        spanish: calabozo
-        turkish: hücre
+        inglez: cell
+        fransez: ''
+        portugez: ''
+        kasteyano: calabozo
+        turko: hücre
 
   - ladino: selulas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: cells
-        french: ''
-        portuguese: ''
-        spanish: calabozos
-        turkish: hücre
+        inglez: cells
+        fransez: ''
+        portugez: ''
+        kasteyano: calabozos
+        turko: hücre
 
 
 

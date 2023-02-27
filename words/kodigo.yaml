@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: code
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: código
-      turkish: şifre
+      inglez: code
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: código
+      turko: şifre
 
   - ladino: kodigos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: codes
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: códigos
-      turkish: şifreler
+      inglez: codes
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: códigos
+      turko: şifreler
 
 
 

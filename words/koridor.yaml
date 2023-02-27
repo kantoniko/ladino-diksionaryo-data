@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: corridor
-        french: ''
-        portuguese: ''
-        spanish: pasillo
-        turkish: koridor
+        inglez: corridor
+        fransez: ''
+        portugez: ''
+        kasteyano: pasillo
+        turko: koridor
 
   - ladino: koridores
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: corridors
-        french: ''
-        portuguese: ''
-        spanish: pasillos
-        turkish: koridor
+        inglez: corridors
+        fransez: ''
+        portugez: ''
+        kasteyano: pasillos
+        turko: koridor
 
 
 

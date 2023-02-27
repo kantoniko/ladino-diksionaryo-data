@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-        english: Arab
-        french: ''
-        hebrew:
+        inglez: Arab
+        fransez: ''
+        ebreo:
           - ערבי
           - ערבית
-        portuguese: ''
-        spanish: árabe
-        turkish: arap
+        portugez: ''
+        kasteyano: árabe
+        turko: arap
 
   - ladino: arabos
 
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: Arabs
-        french: ''
-        hebrew: ערבים
-        portuguese: ''
-        spanish: árabes
-        turkish: ''
+        inglez: Arabs
+        fransez: ''
+        ebreo: ערבים
+        portugez: ''
+        kasteyano: árabes
+        turko: ''
 
 

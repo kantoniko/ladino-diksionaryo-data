@@ -6,59 +6,59 @@ versions:
     accented: plazér
 
     translations:
-        english: like
-        french: ''
-        portuguese: ''
-        spanish: gustar
-        turkish: hoşlanmak
+        inglez: like
+        fransez: ''
+        portugez: ''
+        kasteyano: gustar
+        turko: hoşlanmak
 
   - ladino: plazer
     accented: plazér
     grammar: noun
     translations:
-        english: pleasure
-        french: ''
-        portuguese: ''
-        spanish: placer
-        turkish: memnuniyet
+        inglez: pleasure
+        fransez: ''
+        portugez: ''
+        kasteyano: placer
+        turko: memnuniyet
 
   - ladino: plazer
     accented: plazér
     translations:
-        english:
+        inglez:
           - please
           - be pleasing
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - gustar
           - placer
-        turkish:
+        turko:
           - hoşlanmak
           - hoşuna gitmek
 
   - ladino: plazer a...
     accented: plazér a...
     translations:
-        english: be pleasing to
-        french: ''
-        portuguese: ''
-        spanish: gustar a...
-        turkish: hoşuna gitmek
+        inglez: be pleasing to
+        fransez: ''
+        portugez: ''
+        kasteyano: gustar a...
+        turko: hoşuna gitmek
 
   - ladino: me plaze
     translations:
-      english: I like (singular)
+      inglez: I like (singular)
 
   - ladino: me plazen
     translations:
-      english: I like (plural)
+      inglez: I like (plural)
 
 conjugations:
   prezente:
     yo:
       ladino: plaze
       translations:
-        english: like
+        inglez: like
 
 

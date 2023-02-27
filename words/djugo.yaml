@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: game
-        french: ''
-        portuguese: ''
-        spanish: juego
-        turkish: oyun
+        inglez: game
+        fransez: ''
+        portugez: ''
+        kasteyano: juego
+        turko: oyun
 
   - ladino: djugos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: games
-        french: ''
-        portuguese: ''
-        spanish: juegos
-        turkish: oyunlar
+        inglez: games
+        fransez: ''
+        portugez: ''
+        kasteyano: juegos
+        turko: oyunlar
 
 
 

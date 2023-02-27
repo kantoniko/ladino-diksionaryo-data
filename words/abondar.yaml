@@ -5,10 +5,10 @@ versions:
   - ladino: abondar
     accented: abondár
     translations:
-        english: abound
-        french: abonder
-        portuguese: abundar
-        spanish: abundar
-        turkish: çok sayıda olmak
+        inglez: abound
+        fransez: abonder
+        portugez: abundar
+        kasteyano: abundar
+        turko: çok sayıda olmak
 
 conjugations: {}

@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: aunt
-        french: ''
-        portuguese: ''
-        spanish: tía
-        turkish:
+        inglez: aunt
+        fransez: ''
+        portugez: ''
+        kasteyano: tía
+        turko:
         - teyze
         - hala
 
@@ -33,11 +33,11 @@ versions:
     number: plural
 
     translations:
-        english: aunts
-        french: ''
-        portuguese: ''
-        spanish: tías
-        turkish:
+        inglez: aunts
+        fransez: ''
+        portugez: ''
+        kasteyano: tías
+        turko:
         - teyze
         - hala
 

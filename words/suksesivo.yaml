@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: successive
-        french: ''
-        portuguese: ''
-        spanish: sucesivo
-        turkish: müteakip
+        inglez: successive
+        fransez: ''
+        portugez: ''
+        kasteyano: sucesivo
+        turko: müteakip
 
   - ladino: suksesiva
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: successive
-        french: ''
-        portuguese: ''
-        spanish: sucesiva
-        turkish: müteakip
+        inglez: successive
+        fransez: ''
+        portugez: ''
+        kasteyano: sucesiva
+        turko: müteakip
 
   - ladino: suksesivos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: successive
-        french: ''
-        portuguese: ''
-        spanish: sucesivos
-        turkish: müteakip
+        inglez: successive
+        fransez: ''
+        portugez: ''
+        kasteyano: sucesivos
+        turko: müteakip
 
   - ladino: suksesivas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: successive
-        french: ''
-        portuguese: ''
-        spanish: sucesivas
-        turkish: müteakip
+        inglez: successive
+        fransez: ''
+        portugez: ''
+        kasteyano: sucesivas
+        turko: müteakip
 
 
 

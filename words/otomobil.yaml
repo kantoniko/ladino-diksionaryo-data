@@ -14,15 +14,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - car
         - automobile
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - carro
         - automóvil
-        turkish:
+        turko:
         - araba
         - otomobil
 
@@ -37,15 +37,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - cars
         - automobiles
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - carros
         - automóviles
-        turkish:
+        turko:
         - araba
         - otomobil
 

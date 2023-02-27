@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english: Sunday
-        french: dimanche
-        hebrew:
+        inglez: Sunday
+        fransez: dimanche
+        ebreo:
           - יום ראשון
           - יום א
-        portuguese: domingo
-        spanish: domingo
-        turkish:
+        portugez: domingo
+        kasteyano: domingo
+        turko:
           - pazar
           - Pazar günü
 

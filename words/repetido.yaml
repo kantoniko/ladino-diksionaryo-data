@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: repeated
-        french: ''
-        portuguese: ''
-        spanish: repetido
-        turkish: tekrarlanan
+        inglez: repeated
+        fransez: ''
+        portugez: ''
+        kasteyano: repetido
+        turko: tekrarlanan
 
   - ladino: repetida
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: repeated
-        french: ''
-        portuguese: ''
-        spanish: repetida
-        turkish: tekrarlanan
+        inglez: repeated
+        fransez: ''
+        portugez: ''
+        kasteyano: repetida
+        turko: tekrarlanan
 
   - ladino: repetidos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: repeated
-        french: ''
-        portuguese: ''
-        spanish: repetidos
-        turkish: tekrarlanan
+        inglez: repeated
+        fransez: ''
+        portugez: ''
+        kasteyano: repetidos
+        turko: tekrarlanan
 
   - ladino: repetidas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: repeated
-        french: ''
-        portuguese: ''
-        spanish: repetidas
-        turkish: tekrarlanan
+        inglez: repeated
+        fransez: ''
+        portugez: ''
+        kasteyano: repetidas
+        turko: tekrarlanan
 
 
 

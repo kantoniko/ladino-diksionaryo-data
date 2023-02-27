@@ -5,24 +5,24 @@ versions:
   - ladino: empesar
 
     translations:
-        english: begin
-        french: ''
-        portuguese: ''
-        spanish: empezar
-        turkish: başlamak
+        inglez: begin
+        fransez: ''
+        portugez: ''
+        kasteyano: empezar
+        turko: başlamak
 
 conjugations:
   prezente:
     yo:
       ladino: empeso
       translations:
-        english: start
+        inglez: start
 
   pasado:
     yo:
       ladino: empesi
       translations:
-        english: started
+        inglez: started
 
 
 

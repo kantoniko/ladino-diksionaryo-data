@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: Israeli
-      french: ''
-      hebrew: ישראלי
-      portuguese: ''
-      spanish: israelí
-      turkish: ''
+      inglez: Israeli
+      fransez: ''
+      ebreo: ישראלי
+      portugez: ''
+      kasteyano: israelí
+      turko: ''
 
   - ladino: israeliana
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: Israeli
-      french: ''
-      hebrew: ישראלי
-      portuguese: ''
-      spanish: israelí
-      turkish: ''
+      inglez: Israeli
+      fransez: ''
+      ebreo: ישראלי
+      portugez: ''
+      kasteyano: israelí
+      turko: ''
 
   - ladino: israelianos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: Israelis
-      french: ''
-      hebrew: ישראלים
-      portuguese: ''
-      spanish: israelis
-      turkish: ''
+      inglez: Israelis
+      fransez: ''
+      ebreo: ישראלים
+      portugez: ''
+      kasteyano: israelis
+      turko: ''
 
   - ladino: israelianas
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: Israelis
-      french: ''
-      hebrew: ישראליות
-      portuguese: ''
-      spanish: israelis
-      turkish: ''
+      inglez: Israelis
+      fransez: ''
+      ebreo: ישראליות
+      portugez: ''
+      kasteyano: israelis
+      turko: ''
 
 

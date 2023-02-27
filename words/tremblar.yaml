@@ -5,11 +5,11 @@ versions:
   - ladino: tremblar
 
     translations:
-        english: tremble
-        french: ''
-        portuguese: ''
-        spanish: temblar
-        turkish: titremek
+        inglez: tremble
+        fransez: ''
+        portugez: ''
+        kasteyano: temblar
+        turko: titremek
 
 conjugations: {}
 

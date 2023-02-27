@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - syrup
         - jam
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jarabe
         - confitura
-        turkish:
+        turko:
         - şurup
         - tatlı
 

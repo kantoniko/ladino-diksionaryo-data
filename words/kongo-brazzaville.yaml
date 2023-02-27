@@ -7,15 +7,15 @@ versions:
   - ladino: Kongo-Brazzaville
 
     translations:
-      english:
+      inglez:
         - Republic of the Congo
         - Congo-Brazzaville
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - República del Congo
         - Congo-Brazzaville
-      turkish: ''
+      turko: ''
 
 

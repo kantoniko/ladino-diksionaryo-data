@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: the press
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: the press
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - prensa
         - imprenta
-        turkish: basın
+        turko: basın
 

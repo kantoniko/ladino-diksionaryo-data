@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-      english: dear
-      french: ''
-      portuguese: ''
-      spanish: querido
-      turkish:
+      inglez: dear
+      fransez: ''
+      portugez: ''
+      kasteyano: querido
+      turko:
         - aziz
         - sevgili
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-      english: dear
-      french: ''
-      portuguese: ''
-      spanish: querida
-      turkish:
+      inglez: dear
+      fransez: ''
+      portugez: ''
+      kasteyano: querida
+      turko:
         - aziz
         - sevgili
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-      english: dear
-      french: ''
-      portuguese: ''
-      spanish: queridos
-      turkish: idem
+      inglez: dear
+      fransez: ''
+      portugez: ''
+      kasteyano: queridos
+      turko: idem
 
   - ladino: keridas
 
@@ -48,10 +48,10 @@ versions:
     number: plural
 
     translations:
-      english: dear
-      french: ''
-      portuguese: ''
-      spanish: queridas
-      turkish: ''
+      inglez: dear
+      fransez: ''
+      portugez: ''
+      kasteyano: queridas
+      turko: ''
 
 

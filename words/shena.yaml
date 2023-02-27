@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: scene
-        french: ''
-        portuguese: ''
-        spanish: escena
-        turkish: sahne
+        inglez: scene
+        fransez: ''
+        portugez: ''
+        kasteyano: escena
+        turko: sahne
 
   - ladino: shenas
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: scenes
-        french: ''
-        portuguese: ''
-        spanish: escenas
-        turkish: sahne
+        inglez: scenes
+        fransez: ''
+        portugez: ''
+        kasteyano: escenas
+        turko: sahne
 
 

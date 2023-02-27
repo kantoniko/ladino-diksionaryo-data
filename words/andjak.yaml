@@ -6,19 +6,19 @@ versions:
     accented: ándjak
 
     translations:
-        english:
+        inglez:
           - hardly
           - however
-        french:
+        fransez:
           - à peine
           - tout au plus
           - cependant
           - néanmoins
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - apenas
           - sin embargo
           - no obstante
-        turkish: ancak
+        turko: ancak
 
 

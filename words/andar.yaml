@@ -5,15 +5,15 @@ versions:
   - ladino: andar
 
     translations:
-      english:
+      inglez:
         - walk
         - march
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - ללכת
         - לצעוד
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

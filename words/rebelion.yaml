@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: rebellion
-        french: ''
-        portuguese: ''
-        spanish: rebelión
-        turkish: isyan
+        inglez: rebellion
+        fransez: ''
+        portugez: ''
+        kasteyano: rebelión
+        turko: isyan
 
   - ladino: rebeliones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: rebellions
-        french: ''
-        portuguese: ''
-        spanish: rebeliónes
-        turkish: isyan
+        inglez: rebellions
+        fransez: ''
+        portugez: ''
+        kasteyano: rebeliónes
+        turko: isyan
 
 
 

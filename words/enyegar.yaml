@@ -5,11 +5,11 @@ versions:
   - ladino: enyegar
 
     translations:
-        english: deny
-        french: ''
-        portuguese: ''
-        spanish: negar
-        turkish: inkâr etmek
+        inglez: deny
+        fransez: ''
+        portugez: ''
+        kasteyano: negar
+        turko: inkâr etmek
 
 conjugations: {}
 

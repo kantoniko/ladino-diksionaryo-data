@@ -12,11 +12,11 @@ versions:
         accented: vizíno
 
     translations:
-        english: neighbour
-        french: voisin
-        portuguese: vizinho
-        spanish: vecino
-        turkish: komşu
+        inglez: neighbour
+        fransez: voisin
+        portugez: vizinho
+        kasteyano: vecino
+        turko: komşu
 
   - ladino: vezina
     accented: vezína
@@ -28,11 +28,11 @@ versions:
         accented: vizína
 
     translations:
-        english: neighbour
-        french: voisine
-        portuguese: vizinha
-        spanish: vecina
-        turkish: komşu
+        inglez: neighbour
+        fransez: voisine
+        portugez: vizinha
+        kasteyano: vecina
+        turko: komşu
 
   - ladino: vezinos
     accented: vezínos
@@ -44,11 +44,11 @@ versions:
         accented: vizínos
 
     translations:
-        english: neighbours
-        french: voisins
-        portuguese: ''
-        spanish: vecinos
-        turkish: komşu
+        inglez: neighbours
+        fransez: voisins
+        portugez: ''
+        kasteyano: vecinos
+        turko: komşu
 
   - ladino: vezinas
     accented: vezínas
@@ -60,10 +60,10 @@ versions:
         accented: vizínas
 
     translations:
-        english: neighbours
-        french: voisines
-        portuguese: ''
-        spanish: vecinas
-        turkish: komşu
+        inglez: neighbours
+        fransez: voisines
+        portugez: ''
+        kasteyano: vecinas
+        turko: komşu
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: editar
 
     translations:
-        english: edit
-        french: ''
-        portuguese: ''
-        spanish: editar
-        turkish: düzenlemek (yazı)
+        inglez: edit
+        fransez: ''
+        portugez: ''
+        kasteyano: editar
+        turko: düzenlemek (yazı)
 
 conjugations: {}
 

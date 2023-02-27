@@ -11,12 +11,12 @@ versions:
       - ladino: avyerto
 
     translations:
-      english: open
-      french: ouvert
-      hebrew: ''
-      portuguese: ''
-      spanish: abierto
-      turkish: açık
+      inglez: open
+      fransez: ouvert
+      ebreo: ''
+      portugez: ''
+      kasteyano: abierto
+      turko: açık
 
   - ladino: avierta
 
@@ -27,12 +27,12 @@ versions:
       - ladino: avyerta
 
     translations:
-      english: open
-      french: ouverte
-      hebrew: ''
-      portuguese: ''
-      spanish: abierta
-      turkish: açık
+      inglez: open
+      fransez: ouverte
+      ebreo: ''
+      portugez: ''
+      kasteyano: abierta
+      turko: açık
 
   - ladino: aviertos
 
@@ -43,12 +43,12 @@ versions:
       - ladino: avyertos
 
     translations:
-      english: open
-      french: ouverts
-      hebrew: ''
-      portuguese: ''
-      spanish: abiertos
-      turkish: açıklar
+      inglez: open
+      fransez: ouverts
+      ebreo: ''
+      portugez: ''
+      kasteyano: abiertos
+      turko: açıklar
 
   - ladino: aviertas
 
@@ -59,12 +59,12 @@ versions:
       - ladino: avyertas
 
     translations:
-      english: open
-      french: ouvertes
-      hebrew: ''
-      portuguese: ''
-      spanish: abiertas
-      turkish: açıklar
+      inglez: open
+      fransez: ouvertes
+      ebreo: ''
+      portugez: ''
+      kasteyano: abiertas
+      turko: açıklar
 
 
 

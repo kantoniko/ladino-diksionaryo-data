@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: calendar
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: calendario
-      turkish: takvim
+      inglez: calendar
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: calendario
+      turko: takvim
 
   - ladino: kalendarios
 
@@ -22,12 +22,12 @@ versions:
     number: plural
 
     translations:
-      english: calendars
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: calendarios
-      turkish: takvimler
+      inglez: calendars
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: calendarios
+      turko: takvimler
 
 
 

@@ -5,13 +5,13 @@ versions:
   - ladino: gritar
 
     translations:
-        english:
+        inglez:
         - roar
         - bellow
-        french: ''
-        portuguese: ''
-        spanish: bramar
-        turkish: haykırmak
+        fransez: ''
+        portugez: ''
+        kasteyano: bramar
+        turko: haykırmak
 
 conjugations: {}
 

@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - on bad terms
         - cross
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - reñido
         - enfadado
-        turkish:
+        turko:
         - dargın
         - kızgın
 
@@ -26,15 +26,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - on bad terms
         - cross
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - reñida
         - enfadada
-        turkish:
+        turko:
         - dargın
         - kızgın
 
@@ -44,15 +44,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - on bad terms
         - cross
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - reñidos
         - enfadados
-        turkish:
+        turko:
         - dargın
         - kızgın
 
@@ -62,15 +62,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - on bad terms
         - cross
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - reñidas
         - enfadadas
-        turkish:
+        turko:
         - dargın
         - kızgın
 

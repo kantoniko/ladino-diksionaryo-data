@@ -8,9 +8,9 @@ versions:
     number: plural
 
     translations:
-        english: children
-        french: enfants
-        portuguese: ''
-        spanish: hijos
-        turkish: evlât
+        inglez: children
+        fransez: enfants
+        portugez: ''
+        kasteyano: hijos
+        turko: evlât
 

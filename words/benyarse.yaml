@@ -5,11 +5,11 @@ versions:
   - ladino: benyarse
 
     translations:
-        english: bathe
-        french: ''
-        portuguese: ''
-        spanish: bañarse
-        turkish: banyo yapmak
+        inglez: bathe
+        fransez: ''
+        portugez: ''
+        kasteyano: bañarse
+        turko: banyo yapmak
 
 conjugations: {}
 

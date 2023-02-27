@@ -5,13 +5,13 @@ versions:
   - ladino: enjendrar
 
     translations:
-        english:
+        inglez:
         - beget
         - breed
-        french: ''
-        portuguese: ''
-        spanish: engendrar
-        turkish: dünyaya getirmek
+        fransez: ''
+        portugez: ''
+        kasteyano: engendrar
+        turko: dünyaya getirmek
 
 conjugations: {}
 

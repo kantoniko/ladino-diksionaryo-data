@@ -5,14 +5,14 @@ versions:
   - ladino: lansar
 
     translations:
-        english:
+        inglez:
         - throw
         - hurl
         - launch
-        french: ''
-        portuguese: ''
-        spanish: lanzar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: lanzar
+        turko:
         - fırlatma
         - piyasaya sürme
 

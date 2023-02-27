@@ -14,16 +14,16 @@ versions:
         number: singular
 
     translations:
-        english:
+        inglez:
           - stench
           - stink
           - arrogance
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - hedor
           - arrogancia
-        turkish:
+        turko:
           - pis koku
           - kendini beğenmişlik
 

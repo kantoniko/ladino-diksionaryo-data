@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: God
-        french: ''
-        portuguese: ''
-        spanish: Dios
-        turkish: Allah
+        inglez: God
+        fransez: ''
+        portugez: ''
+        kasteyano: Dios
+        turko: Allah
 
   - ladino: Dios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: Gods
-        french: ''
-        portuguese: ''
-        spanish: Dios
-        turkish: Allah
+        inglez: Gods
+        fransez: ''
+        portugez: ''
+        kasteyano: Dios
+        turko: Allah
 
 
 

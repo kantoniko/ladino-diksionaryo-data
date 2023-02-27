@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: surname
-        french: ''
-        portuguese: ''
-        spanish: apellido
-        turkish: soyadı
+        inglez: surname
+        fransez: ''
+        portugez: ''
+        kasteyano: apellido
+        turko: soyadı
 

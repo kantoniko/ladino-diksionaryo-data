@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: chest
-        french: ''
-        portuguese: ''
-        spanish: pecho
-        turkish: göğüs
+        inglez: chest
+        fransez: ''
+        portugez: ''
+        kasteyano: pecho
+        turko: göğüs
 
   - ladino: pechos
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: chests
-        french: ''
-        portuguese: ''
-        spanish: pechos
-        turkish: göğüs
+        inglez: chests
+        fransez: ''
+        portugez: ''
+        kasteyano: pechos
+        turko: göğüs
 
 
 

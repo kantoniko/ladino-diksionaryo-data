@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - brochure
         - pamphlet
-        french: ''
-        portuguese: ''
-        spanish: folleto
-        turkish: broşür
+        fransez: ''
+        portugez: ''
+        kasteyano: folleto
+        turko: broşür
 
   - ladino: broshuras
     accented: broshúras
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - brochure
         - pamphlet
-        french: ''
-        portuguese: ''
-        spanish: folletos
-        turkish: broşür
+        fransez: ''
+        portugez: ''
+        kasteyano: folletos
+        turko: broşür
 
 
 

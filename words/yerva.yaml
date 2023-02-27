@@ -5,16 +5,16 @@ versions:
   - ladino: yerva
 
     translations:
-        english:
+        inglez:
           - grass
           - turf
-        french: herbe
-        portuguese: ''
-        spanish:
+        fransez: herbe
+        portugez: ''
+        kasteyano:
           - yerba
           - hierba
           - césped
-        turkish:
+        turko:
           - ot
           - çim
 

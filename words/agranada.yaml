@@ -14,12 +14,12 @@ versions:
     number: singular
 
     translations:
-        english: pomegranate
-        french: grenade (fruit)
-        hebrew: רימון
-        portuguese: romã
-        spanish: granada (fruta)
-        turkish: nar
+        inglez: pomegranate
+        fransez: grenade (fruit)
+        ebreo: רימון
+        portugez: romã
+        kasteyano: granada (fruta)
+        turko: nar
 
   - ladino: agranadas
     accented: agranádas
@@ -31,12 +31,12 @@ versions:
     number: plural
 
     translations:
-        english: pomegranates
-        french: grenade (fruit)
-        hebrew: רימונים
-        portuguese: romãs
-        spanish: granadas (fruta)
-        turkish: nar
+        inglez: pomegranates
+        fransez: grenade (fruit)
+        ebreo: רימונים
+        portugez: romãs
+        kasteyano: granadas (fruta)
+        turko: nar
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: envitar
 
     translations:
-        english: invite
-        french: ''
-        portuguese: ''
-        spanish: invitar
-        turkish: dâvet etmek
+        inglez: invite
+        fransez: ''
+        portugez: ''
+        kasteyano: invitar
+        turko: dâvet etmek
 
 conjugations: {}
 

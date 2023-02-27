@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english: plum
-        french: prune
-        hebrew: שזיף
-        portuguese: ameixa
-        spanish: ciruela
-        turkish: erik
+        inglez: plum
+        fransez: prune
+        ebreo: שזיף
+        portugez: ameixa
+        kasteyano: ciruela
+        turko: erik
 
   - ladino: zirguelas
     accented: zirguélas
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: plums
-        french: prunes
-        hebrew: שזיפים
-        portuguese:  ameixas
-        spanish: ciruelas
-        turkish: erikler
+        inglez: plums
+        fransez: prunes
+        ebreo: שזיפים
+        portugez:  ameixas
+        kasteyano: ciruelas
+        turko: erikler
 
 

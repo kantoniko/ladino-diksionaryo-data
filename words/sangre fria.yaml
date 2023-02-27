@@ -8,12 +8,12 @@ versions:
       - ladino: kalmo
 
     translations:
-        english:
+        inglez:
         - cold blood
         - sang-froid
-        french: ''
-        portuguese: ''
-        spanish: sangre fría
-        turkish: soğuk kanlılık
+        fransez: ''
+        portugez: ''
+        kasteyano: sangre fría
+        turko: soğuk kanlılık
 
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: grandchild
-        french: ''
-        portuguese: ''
-        spanish: nieto
-        turkish: torun
+        inglez: grandchild
+        fransez: ''
+        portugez: ''
+        kasteyano: nieto
+        turko: torun
 
   - ladino: inyeta
     accented: inyéta
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: grandchild
-        french: ''
-        portuguese: ''
-        spanish: nieta
-        turkish: torun
+        inglez: grandchild
+        fransez: ''
+        portugez: ''
+        kasteyano: nieta
+        turko: torun
 
   - ladino: inyetos
     accented: inyétos
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: grandchildren
-        french: ''
-        portuguese: ''
-        spanish: nietos
-        turkish: torun
+        inglez: grandchildren
+        fransez: ''
+        portugez: ''
+        kasteyano: nietos
+        turko: torun
 
   - ladino: inyetas
     accented: inyétas
@@ -47,9 +47,9 @@ versions:
     number: plural
 
     translations:
-        english: grandchildren
-        french: ''
-        portuguese: ''
-        spanish: nietas
-        turkish: torun
+        inglez: grandchildren
+        fransez: ''
+        portugez: ''
+        kasteyano: nietas
+        turko: torun
 

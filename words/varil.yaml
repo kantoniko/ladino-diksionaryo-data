@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: barrel
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: barril
-      turkish: ''
+      inglez: barrel
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: barril
+      turko: ''
 
   - ladino: variles
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: barrels
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: barriles
-      turkish: ''
+      inglez: barrels
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: barriles
+      turko: ''
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: permeter
 
     translations:
-        english: permit
-        french: ''
-        portuguese: ''
-        spanish: permitir
-        turkish: izin vermek
+        inglez: permit
+        fransez: ''
+        portugez: ''
+        kasteyano: permitir
+        turko: izin vermek
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: passport
-        french: ''
-        portuguese: ''
-        spanish: pasaporte
-        turkish: pasaport
+        inglez: passport
+        fransez: ''
+        portugez: ''
+        kasteyano: pasaporte
+        turko: pasaport
 
   - ladino: pasaportos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: passports
-        french: ''
-        portuguese: ''
-        spanish: pasaportes
-        turkish: pasaport
+        inglez: passports
+        fransez: ''
+        portugez: ''
+        kasteyano: pasaportes
+        turko: pasaport
 
 
 

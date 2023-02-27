@@ -8,11 +8,11 @@ versions:
       - ladino: emplear
 
     translations:
-        english: go shopping
-        french: ''
-        portuguese: ''
-        spanish: ir de compras
-        turkish: alışverişe gitmek
+        inglez: go shopping
+        fransez: ''
+        portugez: ''
+        kasteyano: ir de compras
+        turko: alışverişe gitmek
 
 conjugations: {}
 

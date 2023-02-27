@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: expression
-        french: ''
-        portuguese: ''
-        spanish: expresión
-        turkish: ifade
+        inglez: expression
+        fransez: ''
+        portugez: ''
+        kasteyano: expresión
+        turko: ifade
 
   - ladino: ekspresiones
     accented: ekspresiónes
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: expressions
-        french: ''
-        portuguese: ''
-        spanish: expresiónes
-        turkish: ifade
+        inglez: expressions
+        fransez: ''
+        portugez: ''
+        kasteyano: expresiónes
+        turko: ifade
 
 
 

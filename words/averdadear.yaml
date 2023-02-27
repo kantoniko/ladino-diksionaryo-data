@@ -5,11 +5,11 @@ versions:
   - ladino: averdadear
 
     translations:
-        english: make evident
-        french: mettre en évidence
-        portuguese: ''
-        spanish: evidenciar
-        turkish: belirtmek
+        inglez: make evident
+        fransez: mettre en évidence
+        portugez: ''
+        kasteyano: evidenciar
+        turko: belirtmek
 
 conjugations: {}
 

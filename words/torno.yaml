@@ -5,11 +5,11 @@ versions:
   - ladino: torno
 
     translations:
-        english: turn off
-        french: ''
-        portuguese: ''
-        spanish: turno
-        turkish:
+        inglez: turn off
+        fransez: ''
+        portugez: ''
+        kasteyano: turno
+        turko:
         - devir
         - sıra
 

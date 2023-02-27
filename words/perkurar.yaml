@@ -6,15 +6,15 @@ versions:
     accented: perkurár
 
     translations:
-        english:
+        inglez:
           - be concerned
           - endeavour
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - preocuparse
           - esforzarse
-        turkish:
+        turko:
           - ilgilenmek
           - gayret etmek
 

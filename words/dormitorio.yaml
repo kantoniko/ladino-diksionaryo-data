@@ -15,13 +15,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bedroom
         - dormitory
-        french: ''
-        portuguese: ''
-        spanish: dormitorio
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: dormitorio
+        turko:
         - yatak odası
         - yatakhane
 
@@ -31,12 +31,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - bedrooms
         - dormitories
-        french: ''
-        portuguese: ''
-        spanish: dormitorios
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: dormitorios
+        turko: ''
 
 

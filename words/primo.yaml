@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cousin
-        french: ''
-        portuguese: ''
-        spanish: primo
-        turkish: kuzen
+        inglez: cousin
+        fransez: ''
+        portugez: ''
+        kasteyano: primo
+        turko: kuzen
 
   - ladino: prima
 
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: cousin
-        french: ''
-        portuguese: ''
-        spanish: prima
-        turkish: kuzen
+        inglez: cousin
+        fransez: ''
+        portugez: ''
+        kasteyano: prima
+        turko: kuzen
 
   - ladino: primos
 
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: cousins
-        french: ''
-        portuguese: ''
-        spanish: primos
-        turkish: kuzen
+        inglez: cousins
+        fransez: ''
+        portugez: ''
+        kasteyano: primos
+        turko: kuzen
 
   - ladino: primas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-        english: cousins
-        french: ''
-        portuguese: ''
-        spanish: primas
-        turkish: kuzen
+        inglez: cousins
+        fransez: ''
+        portugez: ''
+        kasteyano: primas
+        turko: kuzen
 
 
 

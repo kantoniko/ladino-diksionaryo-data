@@ -6,14 +6,14 @@ versions:
     accented: físta
 
     translations:
-        english:
+        inglez:
         - till
         - until
         - up till
-        french: jusqu'à ce que
-        portuguese: ''
-        spanish: hasta
-        turkish:
+        fransez: jusqu'à ce que
+        portugez: ''
+        kasteyano: hasta
+        turko:
         - kadar
         - dek
 

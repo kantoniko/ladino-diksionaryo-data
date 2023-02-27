@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: folklore
-        french: ''
-        portuguese: ''
-        spanish: folklore
-        turkish: folklor
+        inglez: folklore
+        fransez: ''
+        portugez: ''
+        kasteyano: folklore
+        turko: folklor
 
   - ladino: folklores
     accented: folklóres
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: folklores
-        french: ''
-        portuguese: ''
-        spanish: folklores
-        turkish: folklor
+        inglez: folklores
+        fransez: ''
+        portugez: ''
+        kasteyano: folklores
+        turko: folklor
 

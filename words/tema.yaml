@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - theme
         - subject
-        french: ''
-        portuguese: ''
-        spanish: tema
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: tema
+        turko:
         - konu
         - mevzu
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - themes
         - subjects
-        french: ''
-        portuguese: ''
-        spanish: temas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: temas
+        turko:
         - konu
         - mevzu
 

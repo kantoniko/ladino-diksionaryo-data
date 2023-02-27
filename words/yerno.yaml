@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: son-in-law
-        french: gendre
-        portuguese: ''
-        spanish: yerno
-        turkish: damat
+        inglez: son-in-law
+        fransez: gendre
+        portugez: ''
+        kasteyano: yerno
+        turko: damat
 
   - ladino: yernos
 
@@ -23,9 +23,9 @@ versions:
     number: plural
 
     translations:
-        english: sons-in-law
-        french: gendres
-        portuguese: ''
-        spanish: yernos
-        turkish: damat
+        inglez: sons-in-law
+        fransez: gendres
+        portugez: ''
+        kasteyano: yernos
+        turko: damat
 

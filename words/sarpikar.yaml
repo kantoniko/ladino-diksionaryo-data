@@ -5,11 +5,11 @@ versions:
   - ladino: sarpikar
 
     translations:
-        english: sprinkle
-        french: ''
-        portuguese: ''
-        spanish: salpicar
-        turkish: serpmek
+        inglez: sprinkle
+        fransez: ''
+        portugez: ''
+        kasteyano: salpicar
+        turko: serpmek
 
 conjugations: {}
 

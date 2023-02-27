@@ -5,13 +5,13 @@ versions:
   - ladino: guadrar
 
     translations:
-        english:
+        inglez:
         - hide
         - keep
-        french: ''
-        portuguese: ''
-        spanish: guardar
-        turkish: saklamak
+        fransez: ''
+        portugez: ''
+        kasteyano: guardar
+        turko: saklamak
 
 conjugations: {}
 

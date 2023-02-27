@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: animal
-        french: ''
-        portuguese: ''
-        spanish: animal
-        turkish: hayvan
+        inglez: animal
+        fransez: ''
+        portugez: ''
+        kasteyano: animal
+        turko: hayvan
 
   - ladino: animales
     accented: animáles
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: animals
-        french: ''
-        portuguese: ''
-        spanish: animales
-        turkish: hayvan
+        inglez: animals
+        fransez: ''
+        portugez: ''
+        kasteyano: animales
+        turko: hayvan
 
 

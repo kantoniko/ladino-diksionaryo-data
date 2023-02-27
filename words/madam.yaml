@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - Mrs.
         - madam
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - doña
         - señora
-        turkish: bayan
+        turko: bayan
 

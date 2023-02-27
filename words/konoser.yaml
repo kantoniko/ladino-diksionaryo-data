@@ -5,57 +5,57 @@ versions:
   - ladino: konoser
 
     translations:
-        english:
+        inglez:
         - know
         - recognize
-        french: ''
-        portuguese: ''
-        spanish: conocer
-        turkish: tanımak
+        fransez: ''
+        portugez: ''
+        kasteyano: conocer
+        turko: tanımak
 
 conjugations:
   prezente:
     yo:
       ladino: konosko
       translations:
-        english: know
-        spanish: conozco
+        inglez: know
+        kasteyano: conozco
 
     tu:
       ladino: konoses
       translations:
-        english: know
-        spanish: conoces
+        inglez: know
+        kasteyano: conoces
 
     el:
       ladino: konose
       translations:
-        english: knows
-        spanish: conoce
+        inglez: knows
+        kasteyano: conoce
 
     mozotros:
       ladino: konosemos
       translations:
-        english: know
-        spanish: conocesmo
+        inglez: know
+        kasteyano: conocesmo
 
     vozotros:
       ladino: konosesh
       translations:
-        english: know
-        spanish: conoséis
+        inglez: know
+        kasteyano: conoséis
 
     eyos:
       ladino: konosen
       translations:
-        english: know
-        spanish: conocen
+        inglez: know
+        kasteyano: conocen
 
   #past:
   #  el:
   #    ladino: konosia
   #    translations:
-  #      english: knew
+  #      inglez: knew
 
 
 

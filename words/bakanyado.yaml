@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cod fish
-        french: morue
-        portuguese: bacalhau
-        spanish: bacalao
-        turkish: morina balığı
-        hebrew: בָּקָלָה
+        inglez: cod fish
+        fransez: morue
+        portugez: bacalhau
+        kasteyano: bacalao
+        turko: morina balığı
+        ebreo: בָּקָלָה
 
 

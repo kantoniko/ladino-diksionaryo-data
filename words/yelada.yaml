@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english: ice-cream
-        french:
+        inglez: ice-cream
+        fransez:
           - gelée
           - gel
-        portuguese: ''
-        spanish: helado
-        turkish: dondurma
+        portugez: ''
+        kasteyano: helado
+        turko: dondurma
 
   - ladino: yeladas
     accented: yeládas
@@ -26,12 +26,12 @@ versions:
     number: plural
 
     translations:
-        english: ice-creams
-        french:
+        inglez: ice-creams
+        fransez:
           - gelées
           - gels
-        portuguese: ''
-        spanish: helados
-        turkish: ''
+        portugez: ''
+        kasteyano: helados
+        turko: ''
 
 

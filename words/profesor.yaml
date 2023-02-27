@@ -9,43 +9,43 @@ versions:
     number: singular
 
     translations:
-        english: teacher
-        french: ''
-        portuguese: ''
-        spanish: profesor
-        turkish: öğretmen
+        inglez: teacher
+        fransez: ''
+        portugez: ''
+        kasteyano: profesor
+        turko: öğretmen
 
   - ladino: profesora
     gender: feminine
     number: singular
 
     translations:
-        english: teacher
-        french: ''
-        portuguese: ''
-        spanish: profesora
-        turkish: öğretmen
+        inglez: teacher
+        fransez: ''
+        portugez: ''
+        kasteyano: profesora
+        turko: öğretmen
 
   - ladino: profesores
     gender: masculine
     number: plural
 
     translations:
-        english: teachers
-        french: ''
-        portuguese: ''
-        spanish: profesores
-        turkish: öğretmenler
+        inglez: teachers
+        fransez: ''
+        portugez: ''
+        kasteyano: profesores
+        turko: öğretmenler
 
   - ladino: profesoras
     gender: feminine
     number: plural
 
     translations:
-        english: teachers
-        french: ''
-        portuguese: ''
-        spanish: profesoras
-        turkish: öğretmenler
+        inglez: teachers
+        fransez: ''
+        portugez: ''
+        kasteyano: profesoras
+        turko: öğretmenler
 
 

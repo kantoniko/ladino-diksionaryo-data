@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - nappy
         - diaper
-        french:
+        fransez:
         - couche
         - lange
         - layette
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - faja
         - pañal
-        turkish: kundak bezi
+        turko: kundak bezi
 

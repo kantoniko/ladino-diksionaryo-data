@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: curtain
-        french: ''
-        portuguese: ''
-        spanish: cortina
-        turkish: perde
+        inglez: curtain
+        fransez: ''
+        portugez: ''
+        kasteyano: cortina
+        turko: perde
 
   - ladino: kortinas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: curtains
-        french: ''
-        portuguese: ''
-        spanish: cortinas
-        turkish: perde
+        inglez: curtains
+        fransez: ''
+        portugez: ''
+        kasteyano: cortinas
+        turko: perde
 
 
 

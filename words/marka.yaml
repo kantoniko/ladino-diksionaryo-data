@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - mark
         - brand
-        french: ''
-        portuguese: ''
-        spanish: marca
-        turkish: marka
+        fransez: ''
+        portugez: ''
+        kasteyano: marca
+        turko: marka
 
   - ladino: markas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - marks
         - brands
-        french: ''
-        portuguese: ''
-        spanish: marcas
-        turkish: marka
+        fransez: ''
+        portugez: ''
+        kasteyano: marcas
+        turko: marka
 
 
 

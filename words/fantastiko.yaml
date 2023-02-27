@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fantastic
-        french: ''
-        portuguese: ''
-        spanish: fantástico
-        turkish: inanılmaz
+        inglez: fantastic
+        fransez: ''
+        portugez: ''
+        kasteyano: fantástico
+        turko: inanılmaz
 
   - ladino: fantastika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: fantastic
-        french: ''
-        portuguese: ''
-        spanish: fantástica
-        turkish: inanılmaz
+        inglez: fantastic
+        fransez: ''
+        portugez: ''
+        kasteyano: fantástica
+        turko: inanılmaz
 
   - ladino: fantastikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: fantastic
-        french: ''
-        portuguese: ''
-        spanish: fantásticos
-        turkish: inanılmaz
+        inglez: fantastic
+        fransez: ''
+        portugez: ''
+        kasteyano: fantásticos
+        turko: inanılmaz
 
   - ladino: fantastikas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: fantastic
-        french: ''
-        portuguese: ''
-        spanish: fantásticas
-        turkish: inanılmaz
+        inglez: fantastic
+        fransez: ''
+        portugez: ''
+        kasteyano: fantásticas
+        turko: inanılmaz
 
 
 

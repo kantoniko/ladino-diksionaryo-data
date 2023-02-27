@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: valuable
-        french: précieux
-        portuguese: ''
-        spanish: valioso
-        turkish: değerli
+        inglez: valuable
+        fransez: précieux
+        portugez: ''
+        kasteyano: valioso
+        turko: değerli
 
   - ladino: valutoza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: valuable
-        french: précieuse
-        portuguese: ''
-        spanish: valiosa
-        turkish: değerli
+        inglez: valuable
+        fransez: précieuse
+        portugez: ''
+        kasteyano: valiosa
+        turko: değerli
 
   - ladino: valutozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: valuables
-        french: précieux
-        portuguese: ''
-        spanish: valiosos
-        turkish: değerli
+        inglez: valuables
+        fransez: précieux
+        portugez: ''
+        kasteyano: valiosos
+        turko: değerli
 
   - ladino: valutozas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: valuables
-        french: présieuses
-        portuguese: ''
-        spanish: valiosas
-        turkish: değerli
+        inglez: valuables
+        fransez: présieuses
+        portugez: ''
+        kasteyano: valiosas
+        turko: değerli
 
 
 

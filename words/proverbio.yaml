@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: proverb
-        french: ''
-        portuguese: ''
-        spanish: proverbio
-        turkish: atasözü
+        inglez: proverb
+        fransez: ''
+        portugez: ''
+        kasteyano: proverbio
+        turko: atasözü
 
   - ladino: proverbios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: proverbs
-        french: ''
-        portuguese: ''
-        spanish: proverbios
-        turkish: atasözü
+        inglez: proverbs
+        fransez: ''
+        portugez: ''
+        kasteyano: proverbios
+        turko: atasözü
 
 
 

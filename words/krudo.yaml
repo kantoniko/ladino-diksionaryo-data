@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: raw
-        french: ''
-        portuguese: ''
-        spanish: crudo
-        turkish: çiğ
+        inglez: raw
+        fransez: ''
+        portugez: ''
+        kasteyano: crudo
+        turko: çiğ
 
   - ladino: kruda
     accented: krúda
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: raw
-        french: ''
-        portuguese: ''
-        spanish: cruda
-        turkish: çiğ
+        inglez: raw
+        fransez: ''
+        portugez: ''
+        kasteyano: cruda
+        turko: çiğ
 
   - ladino: krudos
     accented: krúdos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: raw
-        french: ''
-        portuguese: ''
-        spanish: crudos
-        turkish: çiğ
+        inglez: raw
+        fransez: ''
+        portugez: ''
+        kasteyano: crudos
+        turko: çiğ
 
   - ladino: krudas
     accented: krúdas
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: raw
-        french: ''
-        portuguese: ''
-        spanish: crudas
-        turkish: çiğ
+        inglez: raw
+        fransez: ''
+        portugez: ''
+        kasteyano: crudas
+        turko: çiğ
 
 

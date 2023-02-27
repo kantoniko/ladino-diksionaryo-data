@@ -5,24 +5,24 @@ versions:
   - ladino: korijar
 
     translations:
-        english: correct
-        french: ''
-        portuguese: ''
-        spanish: corregir
-        turkish: tashih etmek
+        inglez: correct
+        fransez: ''
+        portugez: ''
+        kasteyano: corregir
+        turko: tashih etmek
 
 conjugations:
   prezente:
     yo:
       ladino: korijo
       translations:
-        english: correct
-        spanish: corrijo
+        inglez: correct
+        kasteyano: corrijo
 
     eyos:
       ladino: korijan
       translations:
-        english: correct
-        spanish: corrigen
+        inglez: correct
+        kasteyano: corrigen
 
 

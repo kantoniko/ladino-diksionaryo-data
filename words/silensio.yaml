@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: silence
-        french: ''
-        portuguese: ''
-        spanish: silencio
-        turkish: sükût
+        inglez: silence
+        fransez: ''
+        portugez: ''
+        kasteyano: silencio
+        turko: sükût
 
   - ladino: silensios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: silences
-        french: ''
-        portuguese: ''
-        spanish: silencios
-        turkish: sükût
+        inglez: silences
+        fransez: ''
+        portugez: ''
+        kasteyano: silencios
+        turko: sükût
 
 
 

@@ -12,15 +12,15 @@ versions:
         accented: ónde
 
     translations:
-        english:
+        inglez:
         - where
         - where to
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - donde
         - a donde
-        turkish:
+        turko:
         - neresi
         - nerede
         - nereye

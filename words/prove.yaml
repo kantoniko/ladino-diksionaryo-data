@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: poor
-        french: ''
-        portuguese: ''
-        spanish: pobre
-        turkish: fakir
+        inglez: poor
+        fransez: ''
+        portugez: ''
+        kasteyano: pobre
+        turko: fakir
 
   - ladino: proves
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: poor
-        french: ''
-        portuguese: ''
-        spanish: pobres
-        turkish: fakir
+        inglez: poor
+        fransez: ''
+        portugez: ''
+        kasteyano: pobres
+        turko: fakir
 
 
 

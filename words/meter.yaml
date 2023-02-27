@@ -8,11 +8,11 @@ versions:
       - ladino: pozar
 
     translations:
-        english: put
-        french: ''
-        portuguese: ''
-        spanish: poner
-        turkish: koymak
+        inglez: put
+        fransez: ''
+        portugez: ''
+        kasteyano: poner
+        turko: koymak
 
 conjugations: {}
 

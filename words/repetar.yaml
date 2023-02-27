@@ -5,11 +5,11 @@ versions:
   - ladino: repetar
 
     translations:
-        english: repeat
-        french: ''
-        portuguese: ''
-        spanish: repetir
-        turkish: tekrarlamak
+        inglez: repeat
+        fransez: ''
+        portugez: ''
+        kasteyano: repetir
+        turko: tekrarlamak
 
 conjugations: {}
 

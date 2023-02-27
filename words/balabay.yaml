@@ -12,12 +12,12 @@ versions:
 
 
     translations:
-      english: host
-      french: propriétaire
-      hebrew: ''
-      portuguese: ''
-      spanish: hospedador
-      turkish: sahip
+      inglez: host
+      fransez: propriétaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: hospedador
+      turko: sahip
 
   - ladino: balabaya
 
@@ -25,12 +25,12 @@ versions:
     number: singular
 
     translations:
-      english: host
-      french: propriétaire
-      hebrew: ''
-      portuguese: ''
-      spanish: hospedadora
-      turkish: sahibe
+      inglez: host
+      fransez: propriétaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: hospedadora
+      turko: sahibe
 
   - ladino: balabayes
 
@@ -39,12 +39,12 @@ versions:
 
 
     translations:
-      english: hosts
-      french: propriétaires
-      hebrew: ''
-      portuguese: ''
-      spanish: hospedadores
-      turkish: sahibeler
+      inglez: hosts
+      fransez: propriétaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: hospedadores
+      turko: sahibeler
 
   - ladino: balabayas
 
@@ -52,12 +52,12 @@ versions:
     number: plural
 
     translations:
-      english: hosts
-      french: propriétaires
-      hebrew: ''
-      portuguese: ''
-      spanish: hospedadoras
-      turkish: sahipler
+      inglez: hosts
+      fransez: propriétaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: hospedadoras
+      turko: sahipler
 
 
 

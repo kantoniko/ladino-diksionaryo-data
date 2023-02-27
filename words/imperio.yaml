@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: empire
-        french: ''
-        portuguese: ''
-        spanish: imperio
-        turkish: imparatorluk
+        inglez: empire
+        fransez: ''
+        portugez: ''
+        kasteyano: imperio
+        turko: imparatorluk
 
   - ladino: imperios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: empires
-        french: ''
-        portuguese: ''
-        spanish: imperios
-        turkish: imparatorluk
+        inglez: empires
+        fransez: ''
+        portugez: ''
+        kasteyano: imperios
+        turko: imparatorluk
 
 
 

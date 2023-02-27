@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: shoe
-        french: ''
-        portuguese: ''
-        spanish: zapato
-        turkish:
+        inglez: shoe
+        fransez: ''
+        portugez: ''
+        kasteyano: zapato
+        turko:
         - ayakkabı
         - kundura
 

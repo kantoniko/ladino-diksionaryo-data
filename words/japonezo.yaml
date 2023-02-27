@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: japanese
-        french: ''
-        portuguese: ''
-        spanish: japonés
-        turkish: japon
+        inglez: japanese
+        fransez: ''
+        portugez: ''
+        kasteyano: japonés
+        turko: japon
 
   - ladino: japoneza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: japanese
-        french: ''
-        portuguese: ''
-        spanish: japonésa
-        turkish: japon
+        inglez: japanese
+        fransez: ''
+        portugez: ''
+        kasteyano: japonésa
+        turko: japon
 
   - ladino: japonezos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: japanese
-        french: ''
-        portuguese: ''
-        spanish: japonéses
-        turkish: japon
+        inglez: japanese
+        fransez: ''
+        portugez: ''
+        kasteyano: japonéses
+        turko: japon
 
   - ladino: japonezas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: japanese
-        french: ''
-        portuguese: ''
-        spanish: japonésas
-        turkish: japon
+        inglez: japanese
+        fransez: ''
+        portugez: ''
+        kasteyano: japonésas
+        turko: japon
 
 
 

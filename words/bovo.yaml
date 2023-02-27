@@ -8,15 +8,15 @@ versions:
       - ladino: torpe
 
     translations:
-        english:
+        inglez:
         - silly
         - stupid
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - lelo
         - tonto
-        turkish:
+        turko:
         - salak
         - aptal
 

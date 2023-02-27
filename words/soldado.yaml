@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: soldier
-        french: ''
-        portuguese: ''
-        spanish: soldado
-        turkish: asker
+        inglez: soldier
+        fransez: ''
+        portugez: ''
+        kasteyano: soldado
+        turko: asker
 
   - ladino: soldada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: soldier
-        french: ''
-        portuguese: ''
-        spanish: soldada
-        turkish: asker
+        inglez: soldier
+        fransez: ''
+        portugez: ''
+        kasteyano: soldada
+        turko: asker
 
   - ladino: soldados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: soldiers
-        french: ''
-        portuguese: ''
-        spanish: soldados
-        turkish: asker
+        inglez: soldiers
+        fransez: ''
+        portugez: ''
+        kasteyano: soldados
+        turko: asker
 
   - ladino: soldadas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: soldiers
-        french: ''
-        portuguese: ''
-        spanish: soldadas
-        turkish: asker
+        inglez: soldiers
+        fransez: ''
+        portugez: ''
+        kasteyano: soldadas
+        turko: asker
 
 

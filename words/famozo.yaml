@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: famous
-        french: ''
-        portuguese: ''
-        spanish: famoso
-        turkish: ünlü
+        inglez: famous
+        fransez: ''
+        portugez: ''
+        kasteyano: famoso
+        turko: ünlü
 
   - ladino: famoza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: famous
-        french: ''
-        portuguese: ''
-        spanish: famosa
-        turkish: ünlü
+        inglez: famous
+        fransez: ''
+        portugez: ''
+        kasteyano: famosa
+        turko: ünlü
 
   - ladino: famozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: famous
-        french: ''
-        portuguese: ''
-        spanish: famosos
-        turkish: ünlü
+        inglez: famous
+        fransez: ''
+        portugez: ''
+        kasteyano: famosos
+        turko: ünlü
 
   - ladino: famozas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: famous
-        french: ''
-        portuguese: ''
-        spanish: famosas
-        turkish: ünlü
+        inglez: famous
+        fransez: ''
+        portugez: ''
+        kasteyano: famosas
+        turko: ünlü
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: pretext
-        french: ''
-        portuguese: ''
-        spanish: pretexto
-        turkish: bahane
+        inglez: pretext
+        fransez: ''
+        portugez: ''
+        kasteyano: pretexto
+        turko: bahane
 
   - ladino: pretekstos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: pretexts
-        french: ''
-        portuguese: ''
-        spanish: pretextos
-        turkish: bahane
+        inglez: pretexts
+        fransez: ''
+        portugez: ''
+        kasteyano: pretextos
+        turko: bahane
 
 
 

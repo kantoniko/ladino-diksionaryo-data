@@ -5,13 +5,13 @@ versions:
   - ladino: diskulpar
 
     translations:
-        english:
+        inglez:
         - excuse
         - exonerate
-        french: ''
-        portuguese: ''
-        spanish: disculpar
-        turkish: aklamak
+        fransez: ''
+        portugez: ''
+        kasteyano: disculpar
+        turko: aklamak
 
 conjugations: {}
 

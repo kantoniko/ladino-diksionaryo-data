@@ -5,11 +5,11 @@ versions:
   - ladino: esklamar
 
     translations:
-        english: exclaim
-        french: ''
-        portuguese: ''
-        spanish: exclamar
-        turkish: haykırmak
+        inglez: exclaim
+        fransez: ''
+        portugez: ''
+        kasteyano: exclamar
+        turko: haykırmak
 
 conjugations: {}
 

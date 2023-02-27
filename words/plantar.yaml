@@ -5,13 +5,13 @@ versions:
   - ladino: plantar
 
     translations:
-      english: plant
-      french: ''
-      hebrew:
+      inglez: plant
+      fransez: ''
+      ebreo:
         - לנטוע
         - לשתול
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

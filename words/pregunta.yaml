@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: question
-        french: ''
-        portuguese: ''
-        spanish: pregunta
-        turkish: soru
+        inglez: question
+        fransez: ''
+        portugez: ''
+        kasteyano: pregunta
+        turko: soru
 
   - ladino: preguntas
     accented: pregúntas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: questions
-        french: ''
-        portuguese: ''
-        spanish: preguntas
-        turkish: soru
+        inglez: questions
+        fransez: ''
+        portugez: ''
+        kasteyano: preguntas
+        turko: soru
 

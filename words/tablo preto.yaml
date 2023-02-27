@@ -9,10 +9,10 @@ versions:
     number: singular
 
     translations:
-        english: blackboard
-        french: tableau noir
-        portuguese: quadro-preto
-        spanish: pizarra
-        turkish: kara tahta
+        inglez: blackboard
+        fransez: tableau noir
+        portugez: quadro-preto
+        kasteyano: pizarra
+        turko: kara tahta
 
 

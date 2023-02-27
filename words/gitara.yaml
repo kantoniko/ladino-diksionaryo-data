@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: guitar
-        french: ''
-        portuguese: ''
-        spanish: guitarra
-        turkish: gitar
+        inglez: guitar
+        fransez: ''
+        portugez: ''
+        kasteyano: guitarra
+        turko: gitar
 
   - ladino: gitaras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: guitars
-        french: ''
-        portuguese: ''
-        spanish: guitarras
-        turkish: gitar
+        inglez: guitars
+        fransez: ''
+        portugez: ''
+        kasteyano: guitarras
+        turko: gitar
 
 
 

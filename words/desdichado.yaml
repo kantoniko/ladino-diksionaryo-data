@@ -10,15 +10,15 @@ versions:
         accented: desdicháda
 
     translations:
-        english:
+        inglez:
         - unhappy
         - unlucky
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - desdichado
         - desdichada
-        turkish:
+        turko:
         - talihsiz
         - biçare
         - garip

@@ -5,11 +5,11 @@ versions:
   - ladino: arrogar
 
     translations:
-        english: pray
-        french: ''
-        portuguese: ''
-        spanish: rezar
-        turkish:
+        inglez: pray
+        fransez: ''
+        portugez: ''
+        kasteyano: rezar
+        turko:
         - dua etmek
         - niyaz etmek
 

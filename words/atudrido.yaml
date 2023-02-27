@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: thoughtless
-        french: éturdi
-        portuguese: ''
-        spanish: aturdido
-        turkish: şaşkın
+        inglez: thoughtless
+        fransez: éturdi
+        portugez: ''
+        kasteyano: aturdido
+        turko: şaşkın
 
   - ladino: atudrida
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: thoughtless
-        french: éturdie
-        portuguese: ''
-        spanish: aturdida
-        turkish: şaşkın
+        inglez: thoughtless
+        fransez: éturdie
+        portugez: ''
+        kasteyano: aturdida
+        turko: şaşkın
 
   - ladino: atudridos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: thoughtless
-        french: éturdies
-        portuguese: ''
-        spanish: aturdidos
-        turkish: şaşkın
+        inglez: thoughtless
+        fransez: éturdies
+        portugez: ''
+        kasteyano: aturdidos
+        turko: şaşkın
 
   - ladino: atudridas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: thoughtless
-        french: éturdies
-        portuguese: ''
-        spanish: aturdidas
-        turkish: şaşkın
+        inglez: thoughtless
+        fransez: éturdies
+        portugez: ''
+        kasteyano: aturdidas
+        turko: şaşkın
 
 
 

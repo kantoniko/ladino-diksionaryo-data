@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: drink
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bebida
-      turkish:  içki
+      inglez: drink
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bebida
+      turko:  içki
 
   - ladino: bevidas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: drinks
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bebidas
-      turkish:  içkiler
+      inglez: drinks
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bebidas
+      turko:  içkiler
 
 
 

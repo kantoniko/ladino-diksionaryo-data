@@ -9,10 +9,10 @@ versions:
     number: singular
 
     translations:
-        english: poll
-        french: ''
-        portuguese: ''
-        spanish: encuesta
-        turkish: anket
+        inglez: poll
+        fransez: ''
+        portugez: ''
+        kasteyano: encuesta
+        turko: anket
 
 

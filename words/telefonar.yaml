@@ -5,11 +5,11 @@ versions:
   - ladino: telefonar
 
     translations:
-        english: telephone
-        french: téléphoner
-        portuguese: ''
-        spanish: telefonear
-        turkish: telefon etmek
+        inglez: telephone
+        fransez: téléphoner
+        portugez: ''
+        kasteyano: telefonear
+        turko: telefon etmek
 
 conjugations: {}
 

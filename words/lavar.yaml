@@ -5,11 +5,11 @@ versions:
   - ladino: lavar
 
     translations:
-        english: wash
-        french: ''
-        portuguese: ''
-        spanish: lavar
-        turkish: yıkamak
+        inglez: wash
+        fransez: ''
+        portugez: ''
+        kasteyano: lavar
+        turko: yıkamak
 
 conjugations: {}
 

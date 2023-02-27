@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english: shawl
-        french: ''
-        hebrew: צעיף
-        portuguese: ''
-        spanish: chal
-        turkish: şal
+        inglez: shawl
+        fransez: ''
+        ebreo: צעיף
+        portugez: ''
+        kasteyano: chal
+        turko: şal
 
   - ladino: shales
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-        english: shawls
-        french: ''
-        hebrew: צעיפים
-        portuguese: ''
-        spanish: chales
-        turkish: şal
+        inglez: shawls
+        fransez: ''
+        ebreo: צעיפים
+        portugez: ''
+        kasteyano: chales
+        turko: şal
 
 
 

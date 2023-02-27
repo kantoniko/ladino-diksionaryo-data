@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: manner
-        french: ''
-        portuguese: ''
-        spanish: manera
-        turkish:
+        inglez: manner
+        fransez: ''
+        portugez: ''
+        kasteyano: manera
+        turko:
         - tarz
         - şekil
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: manners
-        french: ''
-        portuguese: ''
-        spanish: maneras
-        turkish:
+        inglez: manners
+        fransez: ''
+        portugez: ''
+        kasteyano: maneras
+        turko:
         - tarz
         - şekil
 

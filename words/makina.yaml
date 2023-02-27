@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: machine
-        french: ''
-        portuguese: ''
-        spanish: máquina
-        turkish: makine
+        inglez: machine
+        fransez: ''
+        portugez: ''
+        kasteyano: máquina
+        turko: makine
 
   - ladino: makinas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: machines
-        french: ''
-        portuguese: ''
-        spanish: máquinas
-        turkish: makine
+        inglez: machines
+        fransez: ''
+        portugez: ''
+        kasteyano: máquinas
+        turko: makine
 
 
 

@@ -5,74 +5,74 @@ versions:
   - ladino: topar
 
     translations:
-        english: find
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: find
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - hallar
           - encontrar
-        turkish: bulmak
+        turko: bulmak
 
 
   - ladino: topava
   # se topava
 
     translations:
-        english: was found
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: was found
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 conjugations:
   prezente:
     yo:
       ladino: topo
       translations:
-        english: find
-        spanish: encontro
+        inglez: find
+        kasteyano: encontro
 
     tu:
       ladino: topas
       translations:
-        english: find
-        spanish: encontras
+        inglez: find
+        kasteyano: encontras
 
     el:
       ladino: topa
       translations:
-        english: finds
-        spanish: encontras
+        inglez: finds
+        kasteyano: encontras
 
     mozotros:
       ladino: topamos
       translations:
-        english: find
-        spanish: encontramos
+        inglez: find
+        kasteyano: encontramos
 
     vozotros:
       ladino: topash
       translations:
-        english: find
-        spanish: encontráis
+        inglez: find
+        kasteyano: encontráis
 
     eyos:
       ladino: topan
       translations:
-        english: find
-        spanish: encontran
+        inglez: find
+        kasteyano: encontran
 
   pasado:
     yo:
       ladino: topi
       translations:
-        english: found
-        spanish: encontré
+        inglez: found
+        kasteyano: encontré
 
   #other:
   #  yo:
   #    ladino: topava
-  #    english: (I was) found
+  #    inglez: (I was) found
   #- found (oneself): toparon
 
   #- finds (you):     (vos) tope

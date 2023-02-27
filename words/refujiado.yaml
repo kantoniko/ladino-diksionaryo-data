@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: refugee
-      french: ''
-      hebrew: פליט
-      portuguese: ''
-      spanish: refugiado
-      turkish: ''
+      inglez: refugee
+      fransez: ''
+      ebreo: פליט
+      portugez: ''
+      kasteyano: refugiado
+      turko: ''
 
   - ladino: refujiada
 
@@ -21,11 +21,11 @@ versions:
     number: singular
 
     translations:
-      english: refugee
-      french: ''
-      hebrew: פליטה
-      portuguese: ''
-      spanish: refugiada
-      turkish: ''
+      inglez: refugee
+      fransez: ''
+      ebreo: פליטה
+      portugez: ''
+      kasteyano: refugiada
+      turko: ''
 
 

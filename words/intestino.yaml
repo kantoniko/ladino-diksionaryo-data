@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - intestine
         - gut
-        french: ''
-        portuguese: ''
-        spanish: intestino
-        turkish: bağırsak
+        fransez: ''
+        portugez: ''
+        kasteyano: intestino
+        turko: bağırsak
 
 

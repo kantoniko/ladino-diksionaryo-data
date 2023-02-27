@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: smitten
-        french:
+        inglez: smitten
+        fransez:
         - amouraché
         - amourachée
-        portuguese: ''
-        spanish: aficionado
-        turkish: tutkun
+        portugez: ''
+        kasteyano: aficionado
+        turko: tutkun
 
   - ladino: aferrada
     accented: aferráda
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: smitten
-        french:
+        inglez: smitten
+        fransez:
         - amouraché
         - amourachée
-        portuguese: ''
-        spanish: aficionada
-        turkish: tutkun
+        portugez: ''
+        kasteyano: aficionada
+        turko: tutkun
 
   - ladino: aferrados
     accented: aferrádos
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: smitten
-        french:
+        inglez: smitten
+        fransez:
         - amouraché
         - amourachée
-        portuguese: ''
-        spanish: aficionados
-        turkish: tutkun
+        portugez: ''
+        kasteyano: aficionados
+        turko: tutkun
 
   - ladino: aferradas
     accented: aferrádas
@@ -50,12 +50,12 @@ versions:
     number: plural
 
     translations:
-        english: smitten
-        french:
+        inglez: smitten
+        fransez:
         - amouraché
         - amourachée
-        portuguese: ''
-        spanish: aficionadas
-        turkish: tutkun
+        portugez: ''
+        kasteyano: aficionadas
+        turko: tutkun
 
 

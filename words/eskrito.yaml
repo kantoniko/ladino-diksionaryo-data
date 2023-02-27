@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - writing
           - document
-        french: ''
-        portuguese: ''
-        spanish: escrito
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: escrito
+        turko:
           - yazı
           - evrak
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - writings
           - documents
-        french: ''
-        portuguese: ''
-        spanish: escritos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: escritos
+        turko:
           - yazı
           - evrak
 

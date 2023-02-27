@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: collection of ballads
-        french: ''
-        portuguese: ''
-        spanish: romancero
-        turkish: balad koleksiyonu
+        inglez: collection of ballads
+        fransez: ''
+        portugez: ''
+        kasteyano: romancero
+        turko: balad koleksiyonu
 
   - ladino: romanseros
     accented: romanséros
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: collection of ballads
-        french: ''
-        portuguese: ''
-        spanish: romancero
-        turkish: balad koleksiyonu
+        inglez: collection of ballads
+        fransez: ''
+        portugez: ''
+        kasteyano: romancero
+        turko: balad koleksiyonu
 

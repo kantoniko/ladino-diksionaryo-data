@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: leopard
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: leopard
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: leopardesa
 
@@ -24,12 +24,12 @@ versions:
     number: singular
 
     translations:
-      english: leopard
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: leopard
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - mail
         - post
-        french: ''
-        portuguese: ''
-        spanish: correo
-        turkish: posta
+        fransez: ''
+        portugez: ''
+        kasteyano: correo
+        turko: posta
 
 

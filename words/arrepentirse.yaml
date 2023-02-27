@@ -8,11 +8,11 @@ versions:
       - ladino: esvachearse
 
     translations:
-        english: give up
-        french: ''
-        portuguese: ''
-        spanish: renunciar
-        turkish: vazgeçmek
+        inglez: give up
+        fransez: ''
+        portugez: ''
+        kasteyano: renunciar
+        turko: vazgeçmek
 
 conjugations: {}
 

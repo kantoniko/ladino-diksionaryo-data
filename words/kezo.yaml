@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cheese
-        french: fromage
-        portuguese: queijo
-        spanish: queso
-        turkish: peynir
+        inglez: cheese
+        fransez: fromage
+        portugez: queijo
+        kasteyano: queso
+        turko: peynir
 
   - ladino: kezos
     accented: kézos
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: cheeses
-        french: fromage
-        portuguese: queijos
-        spanish: quesos
-        turkish: peynir
+        inglez: cheeses
+        fransez: fromage
+        portugez: queijos
+        kasteyano: quesos
+        turko: peynir
 
 

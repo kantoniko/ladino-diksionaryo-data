@@ -5,11 +5,11 @@ versions:
   - ladino: espander
 
     translations:
-        english: stick out
-        french: ''
-        portuguese: ''
-        spanish: asomar
-        turkish: uzatmak
+        inglez: stick out
+        fransez: ''
+        portugez: ''
+        kasteyano: asomar
+        turko: uzatmak
 
 conjugations: {}
 

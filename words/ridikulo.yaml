@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: ridiculous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ridículo
-      turkish: ''
+      inglez: ridiculous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ridículo
+      turko: ''
 
   - ladino: ridikula
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: ridiculous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ridícula
-      turkish: ''
+      inglez: ridiculous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ridícula
+      turko: ''
 
   - ladino: ridikulos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: ridiculous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ridículos
-      turkish: ''
+      inglez: ridiculous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ridículos
+      turko: ''
 
   - ladino: ridikulas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: ridiculous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ridículas
-      turkish: ''
+      inglez: ridiculous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ridículas
+      turko: ''
 
 

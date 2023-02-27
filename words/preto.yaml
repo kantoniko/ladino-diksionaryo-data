@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: black
-        french: noir
-        portuguese: preto
-        spanish: negro
-        turkish: siyah
+        inglez: black
+        fransez: noir
+        portugez: preto
+        kasteyano: negro
+        turko: siyah
 
   - ladino: preta
     accented: préta
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: black
-        french: noire
-        portuguese: preta
-        spanish: negra
-        turkish: siyah
+        inglez: black
+        fransez: noire
+        portugez: preta
+        kasteyano: negra
+        turko: siyah
 
   - ladino: pretos
     accented: prétos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: blacks
-        french: ''
-        portuguese: pretos
-        spanish: negros
-        turkish: siyah
+        inglez: blacks
+        fransez: ''
+        portugez: pretos
+        kasteyano: negros
+        turko: siyah
 
   - ladino: pretas
     accented: prétas
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: blacks
-        french: ''
-        portuguese: pretas
-        spanish: negras
-        turkish: siyah
+        inglez: blacks
+        fransez: ''
+        portugez: pretas
+        kasteyano: negras
+        turko: siyah
 

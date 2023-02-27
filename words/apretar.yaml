@@ -5,13 +5,13 @@ versions:
   - ladino: apretar
 
     translations:
-        english:
+        inglez:
         - tighten
         - squeeze
-        french: ''
-        portuguese: ''
-        spanish: apretar
-        turkish: sıkmak
+        fransez: ''
+        portugez: ''
+        kasteyano: apretar
+        turko: sıkmak
 
 conjugations: {}
 

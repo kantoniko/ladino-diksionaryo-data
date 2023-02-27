@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - restless
         - worried
-        french: ''
-        portuguese: ''
-        spanish: inquieto
-        turkish: endişeli
+        fransez: ''
+        portugez: ''
+        kasteyano: inquieto
+        turko: endişeli
 
   - ladino: inkieta
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - restless
         - worried
-        french: ''
-        portuguese: ''
-        spanish: inquieta
-        turkish: endişeli
+        fransez: ''
+        portugez: ''
+        kasteyano: inquieta
+        turko: endişeli
 
   - ladino: inkietos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - restless
         - worried
-        french: ''
-        portuguese: ''
-        spanish: inquietos
-        turkish: endişeli
+        fransez: ''
+        portugez: ''
+        kasteyano: inquietos
+        turko: endişeli
 
   - ladino: inkietas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - restless
         - worried
-        french: ''
-        portuguese: ''
-        spanish: inquietas
-        turkish: endişeli
+        fransez: ''
+        portugez: ''
+        kasteyano: inquietas
+        turko: endişeli
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: immense
-        french: ''
-        portuguese: ''
-        spanish: inmenso
-        turkish: kocaman
+        inglez: immense
+        fransez: ''
+        portugez: ''
+        kasteyano: inmenso
+        turko: kocaman
 
   - ladino: imensa
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: immense
-        french: ''
-        portuguese: ''
-        spanish: inmensa
-        turkish: kocaman
+        inglez: immense
+        fransez: ''
+        portugez: ''
+        kasteyano: inmensa
+        turko: kocaman
 
   - ladino: imensos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: immense
-        french: ''
-        portuguese: ''
-        spanish: inmensos
-        turkish: kocaman
+        inglez: immense
+        fransez: ''
+        portugez: ''
+        kasteyano: inmensos
+        turko: kocaman
 
   - ladino: imensas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: immense
-        french: ''
-        portuguese: ''
-        spanish: inmensas
-        turkish: kocaman
+        inglez: immense
+        fransez: ''
+        portugez: ''
+        kasteyano: inmensas
+        turko: kocaman
 
 
 

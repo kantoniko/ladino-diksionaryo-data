@@ -6,16 +6,16 @@ versions:
     accented: ásta
 
     translations:
-        english:
+        inglez:
         - till
         - until
         - up to
-        french:
+        fransez:
         - jusque
         - jusqu'à
-        portuguese: ''
-        spanish: hasta
-        turkish:
+        portugez: ''
+        kasteyano: hasta
+        turko:
         - kadar
         - dek
 

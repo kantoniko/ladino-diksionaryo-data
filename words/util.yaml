@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: useful
-      french: utile
-      hebrew: שימושי
-      portuguese: ''
-      spanish: util
-      turkish: alet
+      inglez: useful
+      fransez: utile
+      ebreo: שימושי
+      portugez: ''
+      kasteyano: util
+      turko: alet
 
   - ladino: utiles
 
@@ -21,14 +21,14 @@ versions:
     number: plural
 
     translations:
-      english: useful
-      french: utiles
-      hebrew:
+      inglez: useful
+      fransez: utiles
+      ebreo:
        - שימושיים
        - שימושיות
-      portuguese: ''
-      spanish: utiles
-      turkish: aletler
+      portugez: ''
+      kasteyano: utiles
+      turko: aletler
 
 
 

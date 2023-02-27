@@ -13,10 +13,10 @@ versions:
     number: singular
 
     translations:
-        english: envelope
-        french: envelope
-        portuguese: ''
-        spanish: sobre (un)
-        turkish: zarf
+        inglez: envelope
+        fransez: envelope
+        portugez: ''
+        kasteyano: sobre (un)
+        turko: zarf
 
 

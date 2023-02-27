@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: car
-        french: ''
-        portuguese: ''
-        spanish: coche
-        turkish: araba
+        inglez: car
+        fransez: ''
+        portugez: ''
+        kasteyano: coche
+        turko: araba
 
   - ladino: koches
     accented: kóches
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: cars
-        french: ''
-        portuguese: ''
-        spanish: coches
-        turkish: araba
+        inglez: cars
+        fransez: ''
+        portugez: ''
+        kasteyano: coches
+        turko: araba
 
 
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - consolation
         - comfort
-        french: consolation
-        portuguese: conforto
-        spanish: consuelo
-        turkish: teselli
+        fransez: consolation
+        portugez: conforto
+        kasteyano: consuelo
+        turko: teselli
 

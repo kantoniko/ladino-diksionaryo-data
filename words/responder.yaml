@@ -5,13 +5,13 @@ versions:
   - ladino: responder
 
     translations:
-        english:
+        inglez:
         - respond
         - answer
-        french: ''
-        portuguese: ''
-        spanish: responder
-        turkish: cevap vermek
+        fransez: ''
+        portugez: ''
+        kasteyano: responder
+        turko: cevap vermek
 
 conjugations: {}
 

@@ -9,14 +9,14 @@ versions:
 
 
     translations:
-      english:
+      inglez:
         - ride
         - mount
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - לרכב
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

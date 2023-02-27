@@ -12,14 +12,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lady
         - mistress
         - owner
-        french: ''
-        portuguese: ''
-        spanish: señora
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: señora
+        turko:
         - hanımefendi
         - hanım
 

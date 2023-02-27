@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fault
-        french: ''
-        portuguese: ''
-        spanish: culpa
-        turkish: hata
+        inglez: fault
+        fransez: ''
+        portugez: ''
+        kasteyano: culpa
+        turko: hata
 
   - ladino: kulpas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: faults
-        french: ''
-        portuguese: ''
-        spanish: culpas
-        turkish: hata
+        inglez: faults
+        fransez: ''
+        portugez: ''
+        kasteyano: culpas
+        turko: hata
 
 
 

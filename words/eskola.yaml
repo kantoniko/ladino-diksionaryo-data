@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: school
-        french: ''
-        portuguese: ''
-        spanish: escuela
-        turkish: okul
+        inglez: school
+        fransez: ''
+        portugez: ''
+        kasteyano: escuela
+        turko: okul
 
   - ladino: eskolas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: schools
-        french: ''
-        portuguese: ''
-        spanish: escuelas
-        turkish: okul
+        inglez: schools
+        fransez: ''
+        portugez: ''
+        kasteyano: escuelas
+        turko: okul
 
 
 

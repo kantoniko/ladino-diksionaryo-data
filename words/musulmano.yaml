@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: muslim
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: musulmán
-      turkish: ''
+      inglez: muslim
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: musulmán
+      turko: ''
 
   - ladino: musulmana
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: muslim
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: musulmána
-      turkish: ''
+      inglez: muslim
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: musulmána
+      turko: ''
 
   - ladino: musulmanos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: muslims
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: musulmános
-      turkish: ''
+      inglez: muslims
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: musulmános
+      turko: ''
 
   - ladino: musulmanas
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: muslims
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: musulmánas
-      turkish: ''
+      inglez: muslims
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: musulmánas
+      turko: ''
 
 

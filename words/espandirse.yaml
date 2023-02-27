@@ -8,11 +8,11 @@ versions:
       - ladino: echarse
 
     translations:
-        english: lie down
-        french: ''
-        portuguese: ''
-        spanish: acostarse
-        turkish:
+        inglez: lie down
+        fransez: ''
+        portugez: ''
+        kasteyano: acostarse
+        turko:
         - uzanmak
         - yatmak
 

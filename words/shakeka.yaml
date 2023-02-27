@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: headache
-        french: mal de tête
-        portuguese: enxaqueca
-        spanish: jaqueca
-        turkish: baş ağrısı
+        inglez: headache
+        fransez: mal de tête
+        portugez: enxaqueca
+        kasteyano: jaqueca
+        turko: baş ağrısı
 
   - ladino: shakekas
     accented: shakékas
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: headaches
-        french: mal de tête
-        portuguese: enxaqueca
-        spanish: jaquecas
-        turkish: baş ağrısı
+        inglez: headaches
+        fransez: mal de tête
+        portugez: enxaqueca
+        kasteyano: jaquecas
+        turko: baş ağrısı
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: desinar
 
     translations:
-        english: sketch
-        french: ''
-        portuguese: ''
-        spanish: dibujar
-        turkish: desen çizmek (skeç)
+        inglez: sketch
+        fransez: ''
+        portugez: ''
+        kasteyano: dibujar
+        turko: desen çizmek (skeç)
 
 conjugations: {}
 

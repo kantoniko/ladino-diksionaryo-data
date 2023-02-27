@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: waiter
-        french: ''
-        portuguese: ''
-        spanish: camarero
-        turkish: garson
+        inglez: waiter
+        fransez: ''
+        portugez: ''
+        kasteyano: camarero
+        turko: garson
 
   - ladino: garsona
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: waitress
-        french: ''
-        portuguese: ''
-        spanish: camarera
-        turkish: garson
+        inglez: waitress
+        fransez: ''
+        portugez: ''
+        kasteyano: camarera
+        turko: garson
 
   - ladino: garsones
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: waiters
-        french: ''
-        portuguese: ''
-        spanish: camareros
-        turkish: garson
+        inglez: waiters
+        fransez: ''
+        portugez: ''
+        kasteyano: camareros
+        turko: garson
 
 
 

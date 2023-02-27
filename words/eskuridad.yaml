@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: darkness
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: darkness
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - oscuridad
         - tinieblas
-        turkish: karanlık
+        turko: karanlık
 
 

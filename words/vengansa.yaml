@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: vengeance
-        french: vengeance
-        portuguese: ''
-        spanish: venganza
-        turkish: intikam
+        inglez: vengeance
+        fransez: vengeance
+        portugez: ''
+        kasteyano: venganza
+        turko: intikam
 
   - ladino: vengansas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: vengeances
-        french: vengeances
-        portuguese: ''
-        spanish: venganzas
-        turkish: intikam
+        inglez: vengeances
+        fransez: vengeances
+        portugez: ''
+        kasteyano: venganzas
+        turko: intikam
 
 
 

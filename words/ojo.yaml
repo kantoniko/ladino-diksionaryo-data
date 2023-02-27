@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: eye
-        french: ''
-        portuguese: ''
-        spanish: ojo
-        turkish: göz
+        inglez: eye
+        fransez: ''
+        portugez: ''
+        kasteyano: ojo
+        turko: göz
 
   - ladino: ojos
     accented: ójos
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: eyes
-        french: ''
-        portuguese: ''
-        spanish: ojos
-        turkish: göz
+        inglez: eyes
+        fransez: ''
+        portugez: ''
+        kasteyano: ojos
+        turko: göz
 
 
 

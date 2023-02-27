@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: future
-        french: ''
-        portuguese: ''
-        spanish: futuro
-        turkish:
+        inglez: future
+        fransez: ''
+        portugez: ''
+        kasteyano: futuro
+        turko:
         - gelecek zaman
         - ati
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: futures
-        french: ''
-        portuguese: ''
-        spanish: futuros
-        turkish:
+        inglez: futures
+        fransez: ''
+        portugez: ''
+        kasteyano: futuros
+        turko:
         - gelecek zaman
         - ati
 

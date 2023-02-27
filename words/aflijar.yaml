@@ -6,14 +6,14 @@ versions:
     accented: aflijár
 
     translations:
-        english:
+        inglez:
         - afflict
         - distress
         - grieve
-        french: ''
-        portuguese: ''
-        spanish: afligir
-        turkish: üzmek
+        fransez: ''
+        portugez: ''
+        kasteyano: afligir
+        turko: üzmek
 
 conjugations: {}
 

@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - hot flushes
           - reddening of the face
-        french:
+        fransez:
           - bouffées de chaleur
           - rougissement
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - sofoco
           - enrojecimiento del rostro
-        turkish:
+        turko:
           - sıcak basması
           - yüz kızarıklığı
 

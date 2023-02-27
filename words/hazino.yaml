@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - ill
         - sick
-        french: ''
-        portuguese: ''
-        spanish: enfermo
-        turkish: hasta
+        fransez: ''
+        portugez: ''
+        kasteyano: enfermo
+        turko: hasta
 
   - ladino: hazina
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - ill
         - sick
-        french: ''
-        portuguese: ''
-        spanish: enferma
-        turkish: hasta
+        fransez: ''
+        portugez: ''
+        kasteyano: enferma
+        turko: hasta
 
   - ladino: hazinos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - ill
         - sick
-        french: ''
-        portuguese: ''
-        spanish: enfermos
-        turkish: hastalar
+        fransez: ''
+        portugez: ''
+        kasteyano: enfermos
+        turko: hastalar
 
   - ladino: hazinas
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - ill
         - sick
-        french: ''
-        portuguese: ''
-        spanish: enfermas
-        turkish: hastalar
+        fransez: ''
+        portugez: ''
+        kasteyano: enfermas
+        turko: hastalar
 

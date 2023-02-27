@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: scissors
-        french: ''
-        portuguese: ''
-        spanish: tijeras
-        turkish: makas
+        inglez: scissors
+        fransez: ''
+        portugez: ''
+        kasteyano: tijeras
+        turko: makas
 
   - ladino: tijeras
     accented: tijéras
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: scissors
-        french: ''
-        portuguese: ''
-        spanish: tijeras
-        turkish: makaslar
+        inglez: scissors
+        fransez: ''
+        portugez: ''
+        kasteyano: tijeras
+        turko: makaslar
 

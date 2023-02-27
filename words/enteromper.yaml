@@ -5,11 +5,11 @@ versions:
   - ladino: enteromper
 
     translations:
-        english: interrupt
-        french: ''
-        portuguese: ''
-        spanish: interrumpir
-        turkish: kesmek
+        inglez: interrupt
+        fransez: ''
+        portugez: ''
+        kasteyano: interrumpir
+        turko: kesmek
 
 conjugations: {}
 

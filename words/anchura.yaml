@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - comfort
         - affluence
-        french: aisance
-        portuguese: ''
-        spanish: desahogo
-        turkish:
+        fransez: aisance
+        portugez: ''
+        kasteyano: desahogo
+        turko:
         - bolluk
         - ferahlık
 

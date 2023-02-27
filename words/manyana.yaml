@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - morning
         - tomorrow
-        french: ''
-        portuguese: ''
-        spanish: mañana
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: mañana
+        turko:
         - sabah
         - yarın
 
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: mornings
-        french: ''
-        portuguese: ''
-        spanish: mañanas
-        turkish: ''
+        inglez: mornings
+        fransez: ''
+        portugez: ''
+        kasteyano: mañanas
+        turko: ''
 

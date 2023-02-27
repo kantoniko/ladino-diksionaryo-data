@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: banker
-      french: bancaire
-      hebrew: ''
-      portuguese: ''
-      spanish: banchero
-      turkish: ''
+      inglez: banker
+      fransez: bancaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: banchero
+      turko: ''
 
   - ladino: bankera
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: banker
-      french: bancaire
-      hebrew: ''
-      portuguese: ''
-      spanish: banchera
-      turkish: ''
+      inglez: banker
+      fransez: bancaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: banchera
+      turko: ''
 
   - ladino: bankeros
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: bankers
-      french: bancaires
-      hebrew: ''
-      portuguese: ''
-      spanish: bancheros
-      turkish: ''
+      inglez: bankers
+      fransez: bancaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: bancheros
+      turko: ''
 
   - ladino: bankeras
 
@@ -49,12 +49,12 @@ versions:
     number: plural
 
     translations:
-      english: bankers
-      french: bancaires
-      hebrew: ''
-      portuguese: ''
-      spanish: bancheras
-      turkish: ''
+      inglez: bankers
+      fransez: bancaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: bancheras
+      turko: ''
 
 
 

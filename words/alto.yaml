@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: tall
-        french:
+        inglez: tall
+        fransez:
         - grand
         - haut de taille
-        portuguese: alto
-        spanish: alto
-        turkish:
+        portugez: alto
+        kasteyano: alto
+        turko:
         - uzun boylu
         - yüksek
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english: tall
-        french:
+        inglez: tall
+        fransez:
         - grand
         - haut de taille
-        portuguese: alta
-        spanish: alta
-        turkish:
+        portugez: alta
+        kasteyano: alta
+        turko:
         - uzun boylu
         - yüksek
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english: tall
-        french:
+        inglez: tall
+        fransez:
         - grand
         - haut de taille
-        portuguese: altos
-        spanish: altos
-        turkish:
+        portugez: altos
+        kasteyano: altos
+        turko:
         - uzun boylu
         - yüksek
 
@@ -56,13 +56,13 @@ versions:
     number: singular
 
     translations:
-        english: tall
-        french:
+        inglez: tall
+        fransez:
         - grand
         - haut de taille
-        portuguese: altas
-        spanish: altas
-        turkish:
+        portugez: altas
+        kasteyano: altas
+        turko:
         - uzun boylu
         - yüksek
 

@@ -7,11 +7,11 @@ versions:
     number: singular
 
     translations:
-        english: magnificent
-        french: ''
-        portuguese: ''
-        spanish: magnifico
-        turkish: muhteşem
+        inglez: magnificent
+        fransez: ''
+        portugez: ''
+        kasteyano: magnifico
+        turko: muhteşem
 
   - ladino: manyifika
 
@@ -19,11 +19,11 @@ versions:
     number: singular
 
     translations:
-        english: magnificent
-        french: ''
-        portuguese: ''
-        spanish: magnifica
-        turkish: muhteşem
+        inglez: magnificent
+        fransez: ''
+        portugez: ''
+        kasteyano: magnifica
+        turko: muhteşem
 
   - ladino: manyifikos
 
@@ -31,11 +31,11 @@ versions:
     number: plural
 
     translations:
-        english: magnificent
-        french: ''
-        portuguese: ''
-        spanish: magnificos
-        turkish: muhteşem
+        inglez: magnificent
+        fransez: ''
+        portugez: ''
+        kasteyano: magnificos
+        turko: muhteşem
 
   - ladino: manyifikas
 
@@ -43,11 +43,11 @@ versions:
     number: plural
 
     translations:
-        english: magnificent
-        french: ''
-        portuguese: ''
-        spanish: magnificas
-        turkish: muhteşem
+        inglez: magnificent
+        fransez: ''
+        portugez: ''
+        kasteyano: magnificas
+        turko: muhteşem
 
 
 

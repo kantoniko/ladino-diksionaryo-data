@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: object
-        french: ''
-        portuguese: ''
-        spanish: objeto
-        turkish: cisim
+        inglez: object
+        fransez: ''
+        portugez: ''
+        kasteyano: objeto
+        turko: cisim
 
   - ladino: objektos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: objects
-        french: ''
-        portuguese: ''
-        spanish: objetos
-        turkish: cisim
+        inglez: objects
+        fransez: ''
+        portugez: ''
+        kasteyano: objetos
+        turko: cisim
 
 
 

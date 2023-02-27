@@ -5,11 +5,11 @@ versions:
   - ladino: prezentar
 
     translations:
-        english: present
-        french: ''
-        portuguese: ''
-        spanish: presentar
-        turkish: takdim etmek
+        inglez: present
+        fransez: ''
+        portugez: ''
+        kasteyano: presentar
+        turko: takdim etmek
 
 conjugations: {}
 

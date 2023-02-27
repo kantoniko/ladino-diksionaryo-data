@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-      english: normal
-      french: ''
-      hebrew:
+      inglez: normal
+      fransez: ''
+      ebreo:
         - רגיל
         - תקין
         - סדיר
         - נורמלי
-      portuguese: ''
-      spanish: normal
-      turkish: ''
+      portugez: ''
+      kasteyano: normal
+      turko: ''
 
   - ladino: normala
 
@@ -25,16 +25,16 @@ versions:
     number: singular
 
     translations:
-      english: normal
-      french: ''
-      hebrew:
+      inglez: normal
+      fransez: ''
+      ebreo:
         - רגילה
         - תקינה
         - סדירה
         - נורמלית
-      portuguese: ''
-      spanish: normala
-      turkish: ''
+      portugez: ''
+      kasteyano: normala
+      turko: ''
 
   - ladino: normales
 
@@ -42,16 +42,16 @@ versions:
     number: plural
 
     translations:
-      english: normal
-      french: ''
-      hebrew:
+      inglez: normal
+      fransez: ''
+      ebreo:
         - רגילים
         - תקינים
         - סדירים
         - נורמלימ
-      portuguese: ''
-      spanish: normales
-      turkish: ''
+      portugez: ''
+      kasteyano: normales
+      turko: ''
 
   - ladino: normalas
 
@@ -59,14 +59,14 @@ versions:
     number: singular
 
     translations:
-      english: normal
-      french: ''
-      hebrew:
+      inglez: normal
+      fransez: ''
+      ebreo:
         - רגילות
         - תקינות
         - סדירות
         - נורמליות
-      portuguese: ''
-      spanish: normalas
-      turkish: ''
+      portugez: ''
+      kasteyano: normalas
+      turko: ''
 

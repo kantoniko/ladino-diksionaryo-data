@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english: storm
-        french:
+        inglez: storm
+        fransez:
         - orage
         - tempête
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - tormenta
         - tempesta
-        turkish: fırtına
+        turko: fırtına
 

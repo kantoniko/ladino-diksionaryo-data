@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: soup
-        french: ''
-        portuguese: ''
-        spanish: sopa
-        turkish: çorba
+        inglez: soup
+        fransez: ''
+        portugez: ''
+        kasteyano: sopa
+        turko: çorba
 
   - ladino: supas
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: soups
-        french: ''
-        portuguese: ''
-        spanish: sopas
-        turkish: çorba
+        inglez: soups
+        fransez: ''
+        portugez: ''
+        kasteyano: sopas
+        turko: çorba
 
 

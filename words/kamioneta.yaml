@@ -11,12 +11,12 @@ versions:
 
 
     translations:
-      english: van
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: camioneta
-      turkish: ''
+      inglez: van
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: camioneta
+      turko: ''
 
   - ladino: kamionetas
 
@@ -25,12 +25,12 @@ versions:
 
 
     translations:
-      english: vans
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: camionetas
-      turkish: ''
+      inglez: vans
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: camionetas
+      turko: ''
 
 
 

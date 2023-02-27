@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fascist
-        french: ''
-        portuguese: ''
-        spanish: fascista
-        turkish: faşist
+        inglez: fascist
+        fransez: ''
+        portugez: ''
+        kasteyano: fascista
+        turko: faşist
 
   - ladino: fashista
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: fascist
-        french: ''
-        portuguese: ''
-        spanish: fascista
-        turkish: faşist
+        inglez: fascist
+        fransez: ''
+        portugez: ''
+        kasteyano: fascista
+        turko: faşist
 
   - ladino: fashistos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: fascists
-        french: ''
-        portuguese: ''
-        spanish: fascistas
-        turkish: faşist
+        inglez: fascists
+        fransez: ''
+        portugez: ''
+        kasteyano: fascistas
+        turko: faşist
 
   - ladino: fashistas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: fascists
-        french: ''
-        portuguese: ''
-        spanish: fascistas
-        turkish: faşist
+        inglez: fascists
+        fransez: ''
+        portugez: ''
+        kasteyano: fascistas
+        turko: faşist
 
 

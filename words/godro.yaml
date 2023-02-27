@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fat
-        french: ''
-        portuguese: ''
-        spanish: gordo
-        turkish: şişman
+        inglez: fat
+        fransez: ''
+        portugez: ''
+        kasteyano: gordo
+        turko: şişman
 
   - ladino: godra
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: fat
-        french: ''
-        portuguese: ''
-        spanish: gorda
-        turkish: şişman
+        inglez: fat
+        fransez: ''
+        portugez: ''
+        kasteyano: gorda
+        turko: şişman
 
   - ladino: godros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: fat
-        french: ''
-        portuguese: ''
-        spanish: gordos
-        turkish: şişman
+        inglez: fat
+        fransez: ''
+        portugez: ''
+        kasteyano: gordos
+        turko: şişman
 
   - ladino: godras
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: fat
-        french: ''
-        portuguese: ''
-        spanish: gordas
-        turkish: şişman
+        inglez: fat
+        fransez: ''
+        portugez: ''
+        kasteyano: gordas
+        turko: şişman
 
 

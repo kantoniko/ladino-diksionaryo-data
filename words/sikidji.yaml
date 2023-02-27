@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: boring
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aburrido
-      turkish: ''
+      inglez: boring
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aburrido
+      turko: ''
 
   - ladino: sikidjiya
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: boring
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aburrida
-      turkish: ''
+      inglez: boring
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aburrida
+      turko: ''
 
   - ladino: sikidjis
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: boring
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aburridos
-      turkish: ''
+      inglez: boring
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aburridos
+      turko: ''
 
   - ladino: sikidjiyas
 
@@ -47,11 +47,11 @@ versions:
     number: singular
 
     translations:
-      english: boring
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aburridas
-      turkish: ''
+      inglez: boring
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aburridas
+      turko: ''
 
 

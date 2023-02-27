@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: similarity
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: similaridad
-      turkish: ''
+      inglez: similarity
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: similaridad
+      turko: ''
 
   - ladino: similaridades
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: similarities
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: similaridades
-      turkish: ''
+      inglez: similarities
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: similaridades
+      turko: ''
 
 
 

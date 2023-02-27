@@ -13,12 +13,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - jersey
         - sweater
-        french: ''
-        portuguese: ''
-        spanish: jersey
-        turkish: kazak
+        fransez: ''
+        portugez: ''
+        kasteyano: jersey
+        turko: kazak
 
 

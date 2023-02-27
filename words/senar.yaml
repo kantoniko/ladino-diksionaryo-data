@@ -8,11 +8,11 @@ versions:
       - ladino: komer por la noche
 
     translations:
-        english: dine
-        french: ''
-        portuguese: ''
-        spanish: cenar
-        turkish: akşam yemeği yemek
+        inglez: dine
+        fransez: ''
+        portugez: ''
+        kasteyano: cenar
+        turko: akşam yemeği yemek
 
 conjugations: {}
 

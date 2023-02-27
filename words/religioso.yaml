@@ -11,12 +11,12 @@ versions:
       - ladino: relijiozo
 
     translations:
-      english: religious
-      french: ''
-      hebrew: דתי
-      portuguese: ''
-      spanish: religioso
-      turkish:
+      inglez: religious
+      fransez: ''
+      ebreo: דתי
+      portugez: ''
+      kasteyano: religioso
+      turko:
         - rahip
         - dindar
 
@@ -29,12 +29,12 @@ versions:
       - ladino: relijioza
 
     translations:
-      english: religious
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: religiosa
-      turkish: rahibe
+      inglez: religious
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: religiosa
+      turko: rahibe
 
   - ladino: religiosos
 
@@ -45,12 +45,12 @@ versions:
       - ladino: relijiozos
 
     translations:
-      english: religious
-      french: ''
-      hebrew: דתי
-      portuguese: ''
-      spanish: religiosos
-      turkish: rahipler
+      inglez: religious
+      fransez: ''
+      ebreo: דתי
+      portugez: ''
+      kasteyano: religiosos
+      turko: rahipler
 
   - ladino: religiosas
 
@@ -61,12 +61,12 @@ versions:
       - ladino: relijiozas
 
     translations:
-      english: religious
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: religiosas
-      turkish: rahibeler
+      inglez: religious
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: religiosas
+      turko: rahibeler
 
 
 

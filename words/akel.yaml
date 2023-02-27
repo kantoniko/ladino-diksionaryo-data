@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: that
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: that
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - aquel
-        turkish: o
+        turko: o
 
   - ladino: akeya
     accented: akéya
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: that
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: that
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - aquella
-        turkish: o
+        turko: o
 
 

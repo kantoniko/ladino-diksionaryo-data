@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: risk
-        french: ''
-        portuguese: ''
-        spanish: riesgo
-        turkish: risk
+        inglez: risk
+        fransez: ''
+        portugez: ''
+        kasteyano: riesgo
+        turko: risk
 
   - ladino: rizikos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: risks
-        french: ''
-        portuguese: ''
-        spanish: riesgos
-        turkish: risk
+        inglez: risks
+        fransez: ''
+        portugez: ''
+        kasteyano: riesgos
+        turko: risk
 
 
 

@@ -5,17 +5,17 @@ versions:
   - ladino: adjuntar
     accented: adjuntár
     translations:
-        english:
+        inglez:
           - join
           - unite
-        french:
+        fransez:
           - joindre
           - unir
-        portuguese: juntar
-        spanish:
+        portugez: juntar
+        kasteyano:
           - juntar
           - unir
-        turkish: birleştirmek
+        turko: birleştirmek
 
 conjugations: {}
 

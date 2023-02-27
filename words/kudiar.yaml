@@ -4,14 +4,14 @@ versions:
   - ladino: kudiar
 
     translations:
-        english:
+        inglez:
         - take care
         - worry
         - look after
-        french: ''
-        portuguese: ''
-        spanish: cuidar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cuidar
+        turko:
         - merak etmek
         - dikkat etmek
         - ilgilenmek

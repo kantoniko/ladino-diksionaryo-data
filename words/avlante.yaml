@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: speaker
-        french: locuteur
-        portuguese: ''
-        spanish: hablante
-        turkish: konuşan
+        inglez: speaker
+        fransez: locuteur
+        portugez: ''
+        kasteyano: hablante
+        turko: konuşan
 
   - ladino: avlantes
     accented: avlántes
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: speakers
-        french: locuteurs
-        portuguese: ''
-        spanish: hablantes
-        turkish: konuşan
+        inglez: speakers
+        fransez: locuteurs
+        portugez: ''
+        kasteyano: hablantes
+        turko: konuşan
 
 

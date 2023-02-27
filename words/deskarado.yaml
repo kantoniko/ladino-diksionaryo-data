@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: shameless
-        french: ''
-        portuguese: ''
-        spanish: descarado
-        turkish:
+        inglez: shameless
+        fransez: ''
+        portugez: ''
+        kasteyano: descarado
+        turko:
         - suratsız
         - yüzsüz
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: shameless
-        french: ''
-        portuguese: ''
-        spanish: descarada
-        turkish:
+        inglez: shameless
+        fransez: ''
+        portugez: ''
+        kasteyano: descarada
+        turko:
         - suratsız
         - yüzsüz
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: shameless
-        french: ''
-        portuguese: ''
-        spanish: descarados
-        turkish:
+        inglez: shameless
+        fransez: ''
+        portugez: ''
+        kasteyano: descarados
+        turko:
         - suratsız
         - yüzsüz
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: shameless
-        french: ''
-        portuguese: ''
-        spanish: descaradas
-        turkish:
+        inglez: shameless
+        fransez: ''
+        portugez: ''
+        kasteyano: descaradas
+        turko:
         - suratsız
         - yüzsüz
 

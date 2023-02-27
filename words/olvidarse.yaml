@@ -10,11 +10,11 @@ versions:
         accented: ulvidárse
 
     translations:
-        english: forget
-        french: oublier
-        portuguese: esqueserse
-        spanish: olvidarse
-        turkish: unutmak
+        inglez: forget
+        fransez: oublier
+        portugez: esqueserse
+        kasteyano: olvidarse
+        turko: unutmak
 
 conjugations: {}
 

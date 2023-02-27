@@ -5,13 +5,13 @@ versions:
   - ladino: derrokar
 
     translations:
-        english: knock down
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: knock down
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - derrocar
         - derrumbar
-        turkish: yıkmak
+        turko: yıkmak
 
 conjugations: {}
 

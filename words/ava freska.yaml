@@ -11,14 +11,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - broad beans
         - fava beans
-        french: fève
-        portuguese: ''
-        spanish:
+        fransez: fève
+        portugez: ''
+        kasteyano:
         - habicuela
         - judía
-        turkish: bakla
+        turko: bakla
 
 

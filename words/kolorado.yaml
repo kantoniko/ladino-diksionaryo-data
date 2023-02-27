@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: red
-        french: rouge
-        portuguese: vermelho
-        spanish: rojo
-        turkish: kırmızı
+        inglez: red
+        fransez: rouge
+        portugez: vermelho
+        kasteyano: rojo
+        turko: kırmızı
 
   - ladino: kolorada
     accented: koloráda
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: red
-        french: rouge
-        portuguese: vermelho
-        spanish: roja
-        turkish: kırmızı
+        inglez: red
+        fransez: rouge
+        portugez: vermelho
+        kasteyano: roja
+        turko: kırmızı
 
   - ladino: kolorados
     accented: kolorádos
@@ -37,11 +37,11 @@ versions:
     number: plural
 
     translations:
-        english: red
-        french: rouge
-        portuguese: vermelho
-        spanish: rojos
-        turkish: kırmızı
+        inglez: red
+        fransez: rouge
+        portugez: vermelho
+        kasteyano: rojos
+        turko: kırmızı
 
   - ladino: koloradas
     accented: kolorádas
@@ -50,9 +50,9 @@ versions:
     number: plural
 
     translations:
-        english: red
-        french: rouge
-        portuguese: vermelho
-        spanish: rojas
-        turkish: kırmızı
+        inglez: red
+        fransez: rouge
+        portugez: vermelho
+        kasteyano: rojas
+        turko: kırmızı
 

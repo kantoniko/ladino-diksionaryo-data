@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: moment
-        french: ''
-        portuguese: ''
-        spanish: momento
-        turkish: an
+        inglez: moment
+        fransez: ''
+        portugez: ''
+        kasteyano: momento
+        turko: an
 
   - ladino: momentos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: moments
-        french: ''
-        portuguese: ''
-        spanish: momentos
-        turkish: an
+        inglez: moments
+        fransez: ''
+        portugez: ''
+        kasteyano: momentos
+        turko: an
 
 
 

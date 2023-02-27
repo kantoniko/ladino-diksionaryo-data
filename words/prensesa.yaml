@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: princess
-        french: ''
-        portuguese: ''
-        spanish: princesa
-        turkish: prenses
+        inglez: princess
+        fransez: ''
+        portugez: ''
+        kasteyano: princesa
+        turko: prenses
 
   - ladino: prensesas
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: princesses
-        french: ''
-        portuguese: ''
-        spanish: princesas
-        turkish: prenses
+        inglez: princesses
+        fransez: ''
+        portugez: ''
+        kasteyano: princesas
+        turko: prenses
 

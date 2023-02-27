@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cow
-        french: vache
-        portuguese: ''
-        spanish: vaca
-        turkish: inek
+        inglez: cow
+        fransez: vache
+        portugez: ''
+        kasteyano: vaca
+        turko: inek
 
   - ladino: vakas
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: cows
-        french: vaches
-        portuguese: ''
-        spanish: vacas
-        turkish: inek
+        inglez: cows
+        fransez: vaches
+        portugez: ''
+        kasteyano: vacas
+        turko: inek
 
 

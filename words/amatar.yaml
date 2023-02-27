@@ -6,11 +6,11 @@ versions:
     accented: amatár
 
     translations:
-        english: turn off
-        french: ''
-        portuguese: ''
-        spanish: apagar
-        turkish:
+        inglez: turn off
+        fransez: ''
+        portugez: ''
+        kasteyano: apagar
+        turko:
         - kapatmak
         - söndürmek
 

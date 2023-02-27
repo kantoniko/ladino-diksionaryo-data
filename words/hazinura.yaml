@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - illness
         - sickness
-        french: ''
-        portuguese: ''
-        spanish: enfermedad
-        turkish: hastalık
+        fransez: ''
+        portugez: ''
+        kasteyano: enfermedad
+        turko: hastalık
 
   - ladino: hazinuras
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - illnesses
         - sicknesses
-        french: ''
-        portuguese: ''
-        spanish: enfermedades
-        turkish: hastalık
+        fransez: ''
+        portugez: ''
+        kasteyano: enfermedades
+        turko: hastalık
 
 
 

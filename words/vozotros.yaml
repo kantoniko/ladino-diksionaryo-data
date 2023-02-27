@@ -8,13 +8,13 @@ versions:
     number: plural
 
     translations:
-        english: you
-        french: vous
-        portuguese: vocês
-        spanish: 
+        inglez: you
+        fransez: vous
+        portugez: vocês
+        kasteyano: 
           - vosotros
           - ustedes
-        turkish: siz
+        turko: siz
 
   - ladino: vozotras
     accented: vozótras
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: you
-        french: vous
-        portuguese: vocês
-        spanish: 
+        inglez: you
+        fransez: vous
+        portugez: vocês
+        kasteyano: 
           - vosotras
           - ustedes
-        turkish: siz
+        turko: siz
 

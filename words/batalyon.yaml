@@ -8,10 +8,10 @@ versions:
     number: singular
 
     translations:
-        english: battalion
-        french: bataillon
-        portuguese: ''
-        spanish: batallón
-        turkish: tabur
+        inglez: battalion
+        fransez: bataillon
+        portugez: ''
+        kasteyano: batallón
+        turko: tabur
 
 

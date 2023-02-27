@@ -5,13 +5,13 @@ versions:
   - ladino: empedir
 
     translations:
-        english:
+        inglez:
         - stop
         - prevent
-        french: ''
-        portuguese: ''
-        spanish: impedir
-        turkish: engel olmak
+        fransez: ''
+        portugez: ''
+        kasteyano: impedir
+        turko: engel olmak
 
 conjugations: {}
 

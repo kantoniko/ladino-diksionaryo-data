@@ -5,11 +5,11 @@ versions:
   - ladino: dechidir
 
     translations:
-        english: decide
-        french: ''
-        portuguese: ''
-        spanish: decidir
-        turkish: karar vermek
+        inglez: decide
+        fransez: ''
+        portugez: ''
+        kasteyano: decidir
+        turko: karar vermek
 
 conjugations: {}
 

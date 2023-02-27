@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: branch
-        french: ''
-        portuguese: ''
-        spanish: rama
-        turkish: dal
+        inglez: branch
+        fransez: ''
+        portugez: ''
+        kasteyano: rama
+        turko: dal
 
   - ladino: ramos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: branches
-        french: ''
-        portuguese: ''
-        spanish: ramas
-        turkish: dal
+        inglez: branches
+        fransez: ''
+        portugez: ''
+        kasteyano: ramas
+        turko: dal
 
 
 

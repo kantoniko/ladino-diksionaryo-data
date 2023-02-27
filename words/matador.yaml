@@ -8,18 +8,18 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - killer
         - murderer
         - matador
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - רוצח
         - תליין
         - מטאדור
-      portuguese: ''
-      spanish: matador
-      turkish: ''
+      portugez: ''
+      kasteyano: matador
+      turko: ''
 
   - ladino: matadera
 
@@ -27,14 +27,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - killer
         - murderer
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - רוצחת
         - תליינית
-      portuguese: ''
-      spanish: matadera
-      turkish: ''
+      portugez: ''
+      kasteyano: matadera
+      turko: ''
 

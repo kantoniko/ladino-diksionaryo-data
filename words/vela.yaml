@@ -8,15 +8,15 @@ versions:
     accented: véla
 
     translations:
-        english:
+        inglez:
           - sail
           - flag
-        french: voile
-        portuguese: ''
-        spanish:
+        fransez: voile
+        portugez: ''
+        kasteyano:
           - vela
           - bandera
-        turkish:
+        turko:
           - yelken
           - bayrak
 

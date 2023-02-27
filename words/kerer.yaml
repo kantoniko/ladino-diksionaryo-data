@@ -5,13 +5,13 @@ versions:
   - ladino: kerer
 
     translations:
-        english:
+        inglez:
         - want
         - love
-        french: ''
-        portuguese: ''
-        spanish: querer
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: querer
+        turko:
         - istemek
         - sevmek
 
@@ -20,69 +20,69 @@ conjugations:
     yo:
       ladino: kero
       translations:
-        english: want
-        spanish: quiero
+        inglez: want
+        kasteyano: quiero
 
     tu:
       ladino: keres
       translations:
-        english: want
-        spanish: quieres
+        inglez: want
+        kasteyano: quieres
 
     el:
       ladino: kere
       translations:
-        english: wants
-        spanish: quiere
+        inglez: wants
+        kasteyano: quiere
 
     mozotros:
       ladino: keremos
       translations:
-        english: want
-        spanish: queremos
+        inglez: want
+        kasteyano: queremos
 
     vozotros:
       ladino: keresh
       translations:
-        english: want
-        spanish: querréis
+        inglez: want
+        kasteyano: querréis
 
     eyos:
       ladino: keren
       translations:
-        english: want
-        spanish: querrán
+        inglez: want
+        kasteyano: querrán
 
   pasado:
     yo:
       ladino: kije
       translations:
-        english: I wanted
+        inglez: I wanted
 
     tu:
       ladino: kijite
       translations:
-        english: you wanted
+        inglez: you wanted
 
     el:
       ladino: kijo
       translations:
-        english: he wanted
+        inglez: he wanted
 
     mozotros:
       ladino: kijimos
       translations:
-        english: wanted
+        inglez: wanted
 
     vozotros:
       ladino: kijitesh
       translations:
-        english: wanted
+        inglez: wanted
 
     eyos:
       ladino: kijeron
       translations:
-        english: wanted
+        inglez: wanted
 
 
 

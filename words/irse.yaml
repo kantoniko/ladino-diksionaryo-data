@@ -5,11 +5,11 @@ versions:
   - ladino: irse
 
     translations:
-        english: go
-        french: ''
-        portuguese: ''
-        spanish: andar
-        turkish: gitmek
+        inglez: go
+        fransez: ''
+        portugez: ''
+        kasteyano: andar
+        turko: gitmek
 
 conjugations: {}
 

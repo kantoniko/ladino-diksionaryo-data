@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: list
-        french: ''
-        portuguese: ''
-        spanish: lista
-        turkish: liste
+        inglez: list
+        fransez: ''
+        portugez: ''
+        kasteyano: lista
+        turko: liste
 
   - ladino: listas
     accented: lístas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: lists
-        french: ''
-        portuguese: ''
-        spanish: listas
-        turkish: liste
+        inglez: lists
+        fransez: ''
+        portugez: ''
+        kasteyano: listas
+        turko: liste
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: astronomical
-        french: astronomique
-        portuguese: ''
-        spanish: astronómico
-        turkish: astronomik
+        inglez: astronomical
+        fransez: astronomique
+        portugez: ''
+        kasteyano: astronómico
+        turko: astronomik
 
   - ladino: astronomika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: astronomical
-        french: astronomique
-        portuguese: ''
-        spanish: astronómica
-        turkish: astronomik
+        inglez: astronomical
+        fransez: astronomique
+        portugez: ''
+        kasteyano: astronómica
+        turko: astronomik
 
 
 

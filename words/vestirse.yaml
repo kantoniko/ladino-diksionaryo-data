@@ -5,13 +5,13 @@ versions:
   - ladino: vestirse
 
     translations:
-        english:
+        inglez:
         - dress
         - get dressed
-        french:  s'habiller
-        portuguese: ''
-        spanish: vestirse
-        turkish: giyinmek
+        fransez:  s'habiller
+        portugez: ''
+        kasteyano: vestirse
+        turko: giyinmek
 
 conjugations: {}
 

@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - printer
         - painer
         - photographer
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - מדפיס
         - צלם
         - צייר
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

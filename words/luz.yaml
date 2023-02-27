@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: light
-        french: ''
-        portuguese: ''
-        spanish: luz
-        turkish: ışık
+        inglez: light
+        fransez: ''
+        portugez: ''
+        kasteyano: luz
+        turko: ışık
 
   - ladino: luzes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: lights
-        french: ''
-        portuguese: ''
-        spanish: luzes
-        turkish: ışık
+        inglez: lights
+        fransez: ''
+        portugez: ''
+        kasteyano: luzes
+        turko: ışık
 
 
 

@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: details
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: details
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - detalles
         - minucia
-        turkish: teferruat
+        turko: teferruat
 

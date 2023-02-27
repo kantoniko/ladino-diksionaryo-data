@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: newspaper
-        french: ''
-        portuguese: ''
-        spanish: periódico
-        turkish: gazete
+        inglez: newspaper
+        fransez: ''
+        portugez: ''
+        kasteyano: periódico
+        turko: gazete
 
   - ladino: jurnales
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: newspapers
-        french: ''
-        portuguese: ''
-        spanish: periódicos
-        turkish: gazete
+        inglez: newspapers
+        fransez: ''
+        portugez: ''
+        kasteyano: periódicos
+        turko: gazete
 
 
 

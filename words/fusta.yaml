@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: skirt
-        french: ''
-        portuguese: ''
-        spanish: falda
-        turkish: etek
+        inglez: skirt
+        fransez: ''
+        portugez: ''
+        kasteyano: falda
+        turko: etek
 
   - ladino: fustas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: skirts
-        french: ''
-        portuguese: ''
-        spanish: faldas
-        turkish: etek
+        inglez: skirts
+        fransez: ''
+        portugez: ''
+        kasteyano: faldas
+        turko: etek
 
 
 

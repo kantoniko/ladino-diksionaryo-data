@@ -6,16 +6,16 @@ versions:
     accented: fedér
 
     translations:
-        english:
+        inglez:
         - stink
         - reek
         - irritate
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - heder
           - irritar
-        turkish:
+        turko:
           - pis pis kokmak
           - can sıkmak
 

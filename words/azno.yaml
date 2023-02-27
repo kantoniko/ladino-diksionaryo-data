@@ -11,14 +11,14 @@ versions:
     number: singular
 
     translations:
-        english: donkey
-        french: âne
-        portuguese: asno
-        spanish:
+        inglez: donkey
+        fransez: âne
+        portugez: asno
+        kasteyano:
         - asno
         - burro
-        turkish: eşek
-        hebrew: חֲמוֹר
+        turko: eşek
+        ebreo: חֲמוֹר
 
   - ladino: aznos
     accented: áznos
@@ -27,13 +27,13 @@ versions:
     number: plural
 
     translations:
-        english: donkeys
-        french: âne
-        portuguese: asnos
-        spanish:
+        inglez: donkeys
+        fransez: âne
+        portugez: asnos
+        kasteyano:
         - asnos
         - burros
-        turkish: eşek
-        hebrew: חמורים
+        turko: eşek
+        ebreo: חמורים
 
 

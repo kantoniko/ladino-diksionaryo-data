@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: investigator
-        french: ''
-        portuguese: ''
-        spanish: investigador
-        turkish:
+        inglez: investigator
+        fransez: ''
+        portugez: ''
+        kasteyano: investigador
+        turko:
         - araştırıcı
         - müfettiş
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: investigator
-        french: ''
-        portuguese: ''
-        spanish: investigadora
-        turkish:
+        inglez: investigator
+        fransez: ''
+        portugez: ''
+        kasteyano: investigadora
+        turko:
         - araştırıcı
         - müfettiş
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: investigators
-        french: ''
-        portuguese: ''
-        spanish: investigadores
-        turkish:
+        inglez: investigators
+        fransez: ''
+        portugez: ''
+        kasteyano: investigadores
+        turko:
         - araştırıcı
         - müfettiş
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: investigators
-        french: ''
-        portuguese: ''
-        spanish: investigadoras
-        turkish:
+        inglez: investigators
+        fransez: ''
+        portugez: ''
+        kasteyano: investigadoras
+        turko:
         - araştırıcı
         - müfettiş
 

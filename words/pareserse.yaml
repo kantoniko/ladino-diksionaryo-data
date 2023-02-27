@@ -5,11 +5,11 @@ versions:
   - ladino: pareserse
 
     translations:
-        english: look alike
-        french: ''
-        portuguese: ''
-        spanish: parecerse
-        turkish:
+        inglez: look alike
+        fransez: ''
+        portugez: ''
+        kasteyano: parecerse
+        turko:
         - benzemek
         - zannetmek
 

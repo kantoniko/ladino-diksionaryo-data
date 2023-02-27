@@ -5,11 +5,11 @@ versions:
   - ladino: pasar
 
     translations:
-        english: pass
-        french: ''
-        portuguese: ''
-        spanish: pasar
-        turkish: geçmek
+        inglez: pass
+        fransez: ''
+        portugez: ''
+        kasteyano: pasar
+        turko: geçmek
 
 conjugations: {}
 

@@ -5,15 +5,15 @@ versions:
   - ladino: kedar
 
     translations:
-        english:
+        inglez:
         - stay
         - remain
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - quedar
         - permanecer
-        turkish: kalmak
+        turko: kalmak
 
 conjugations: {}
 

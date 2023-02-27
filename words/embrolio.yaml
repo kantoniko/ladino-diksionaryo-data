@@ -5,12 +5,12 @@ versions:
   - ladino: embrolio
 
     translations:
-        english:
+        inglez:
         - imbroglio
         - tangle
-        french: ''
-        portuguese: ''
-        spanish: infundio
-        turkish: karışıklık
+        fransez: ''
+        portugez: ''
+        kasteyano: infundio
+        turko: karışıklık
 
 

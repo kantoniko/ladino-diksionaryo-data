@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - near
         - close
-        french: ''
-        portuguese: ''
-        spanish: cercano
-        turkish: yakın
+        fransez: ''
+        portugez: ''
+        kasteyano: cercano
+        turko: yakın
 
   - ladino: serkana
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - near
         - close
-        french: ''
-        portuguese: ''
-        spanish: cercana
-        turkish: yakın
+        fransez: ''
+        portugez: ''
+        kasteyano: cercana
+        turko: yakın
 
   - ladino: serkanos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - near
         - close
-        french: ''
-        portuguese: ''
-        spanish: cercanos
-        turkish: yakın
+        fransez: ''
+        portugez: ''
+        kasteyano: cercanos
+        turko: yakın
 
   - ladino: serkanas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - near
         - close
-        french: ''
-        portuguese: ''
-        spanish: cercanas
-        turkish: yakın
+        fransez: ''
+        portugez: ''
+        kasteyano: cercanas
+        turko: yakın
 
 
 

@@ -11,10 +11,10 @@ versions:
     number: singular
 
     translations:
-        english: wine
-        french: vin
-        hebrew: יין
-        portuguese: ''
-        spanish: vino
-        turkish: şarap
+        inglez: wine
+        fransez: vin
+        ebreo: יין
+        portugez: ''
+        kasteyano: vino
+        turko: şarap
 

@@ -5,13 +5,13 @@ versions:
   - ladino: yerrarse
 
     translations:
-        english:
+        inglez:
         - be wrong
         - make a mistake
-        french: se tromper
-        portuguese: ''
-        spanish: equivocarse
-        turkish: yanilmak
+        fransez: se tromper
+        portugez: ''
+        kasteyano: equivocarse
+        turko: yanilmak
 
 conjugations: {}
 

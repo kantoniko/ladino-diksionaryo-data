@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: minute
-        french: ''
-        portuguese: ''
-        spanish: minuto
-        turkish: dakika
+        inglez: minute
+        fransez: ''
+        portugez: ''
+        kasteyano: minuto
+        turko: dakika
 
   - ladino: minutos
     accented: minútos
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: minutes
-        french: ''
-        portuguese: ''
-        spanish: minutos
-        turkish: dakika
+        inglez: minutes
+        fransez: ''
+        portugez: ''
+        kasteyano: minutos
+        turko: dakika
 
 

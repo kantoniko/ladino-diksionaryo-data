@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: public
-        french: ''
-        portuguese: ''
-        spanish: público
-        turkish:
+        inglez: public
+        fransez: ''
+        portugez: ''
+        kasteyano: público
+        turko:
         - halk
         - seyirciler
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: public
-        french: ''
-        portuguese: ''
-        spanish: públicos
-        turkish:
+        inglez: public
+        fransez: ''
+        portugez: ''
+        kasteyano: públicos
+        turko:
         - halk
         - seyirciler
 

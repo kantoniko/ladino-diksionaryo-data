@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: birth
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: nacimiento
-      turkish: ''
+      inglez: birth
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: nacimiento
+      turko: ''
 
   - ladino: nasimientos
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: birthes
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: nacimientos
-      turkish: ''
+      inglez: birthes
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: nacimientos
+      turko: ''
 
 

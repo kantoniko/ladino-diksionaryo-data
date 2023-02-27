@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: uncle
-        french: ''
-        portuguese: ''
-        spanish: tío
-        turkish:
+        inglez: uncle
+        fransez: ''
+        portugez: ''
+        kasteyano: tío
+        turko:
         - amca
         - dayı
 
@@ -33,11 +33,11 @@ versions:
     number: plural
 
     translations:
-        english: uncles
-        french: ''
-        portuguese: ''
-        spanish: tíos
-        turkish:
+        inglez: uncles
+        fransez: ''
+        portugez: ''
+        kasteyano: tíos
+        turko:
         - amca
         - dayı
 

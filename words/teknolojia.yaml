@@ -12,12 +12,12 @@ versions:
     number: singular
 
     translations:
-      english: technology
-      french: technologie
-      hebrew: ''
-      portuguese: ''
-      spanish: tecnología
-      turkish: teknoloji
+      inglez: technology
+      fransez: technologie
+      ebreo: ''
+      portugez: ''
+      kasteyano: tecnología
+      turko: teknoloji
 
   - ladino: teknolojias
 
@@ -29,12 +29,12 @@ versions:
     number: plural
 
     translations:
-      english: technologies
-      french: technologies
-      hebrew: ''
-      portuguese: ''
-      spanish: tecnologías
-      turkish: teknolojiler
+      inglez: technologies
+      fransez: technologies
+      ebreo: ''
+      portugez: ''
+      kasteyano: tecnologías
+      turko: teknolojiler
 
 
 

@@ -5,10 +5,10 @@ versions:
   - ladino: eleksion
 
     translations:
-        english: election
-        french: ''
-        portuguese: ''
-        spanish: elección
-        turkish: seçim
+        inglez: election
+        fransez: ''
+        portugez: ''
+        kasteyano: elección
+        turko: seçim
 
 

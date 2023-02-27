@@ -5,13 +5,13 @@ versions:
   - ladino: diskusion
 
     translations:
-        english:
+        inglez:
         - discussion
         - argument
-        french: ''
-        portuguese: ''
-        spanish: discusión
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: discusión
+        turko:
         - münakaşa
         - müzakere
         - tartışma

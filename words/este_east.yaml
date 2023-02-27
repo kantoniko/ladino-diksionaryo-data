@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: east
-        french: ''
-        portuguese: ''
-        spanish: este
-        turkish: doğu
+        inglez: east
+        fransez: ''
+        portugez: ''
+        kasteyano: este
+        turko: doğu
 
 

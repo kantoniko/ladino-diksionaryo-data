@@ -5,12 +5,12 @@ versions:
   - ladino: tambien
 
     translations:
-        english:
+        inglez:
         - too
         - also
-        french: aussi
-        portuguese: ''
-        spanish: también
-        turkish: dahi
+        fransez: aussi
+        portugez: ''
+        kasteyano: también
+        turko: dahi
 
 

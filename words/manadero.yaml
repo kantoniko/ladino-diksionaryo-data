@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - source
           - origin
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - origen
           - fuente
           - raíz (de algo)
-        turkish:
+        turko:
           - kaynak
           - orijin
 
@@ -29,16 +29,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - sourcees
           - origins
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - origenes
           - fuentes
           - raízes (de algo)
-        turkish:
+        turko:
           - kaynak
           - orijin
 

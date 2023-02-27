@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: blouse
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: blusa
-      turkish: bluz
+      inglez: blouse
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: blusa
+      turko: bluz
 
   - ladino: bluzas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: blouses
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: blusas
-      turkish: bluzlar
+      inglez: blouses
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: blusas
+      turko: bluzlar
 
 
 

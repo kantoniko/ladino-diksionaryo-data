@@ -5,11 +5,11 @@ versions:
   - ladino: estar
 
     translations:
-        english: 'na'
-        french: ''
-        portuguese: ''
-        spanish: estar
-        turkish:
+        inglez: 'na'
+        fransez: ''
+        portugez: ''
+        kasteyano: estar
+        turko:
         - bulunmak
         - olmak
 

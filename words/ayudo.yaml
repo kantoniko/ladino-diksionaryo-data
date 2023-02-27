@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - help
         - assistance
-        french: ''
-        portuguese: ''
-        spanish: ayuda
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: ayuda
+        turko:
         - yardım
         - imdat
 

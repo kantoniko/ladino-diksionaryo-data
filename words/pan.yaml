@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: bread
-        french: pain
-        portuguese: pão
-        spanish: pan
-        turkish: ekmek
+        inglez: bread
+        fransez: pain
+        portugez: pão
+        kasteyano: pan
+        turko: ekmek
 
   - ladino: panes
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: bread
-        french: pain
-        portuguese: pão
-        spanish: panes
-        turkish: ekmek
+        inglez: bread
+        fransez: pain
+        portugez: pão
+        kasteyano: panes
+        turko: ekmek
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: Roman
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: romano
-      turkish: ''
+      inglez: Roman
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: romano
+      turko: ''
 
   - ladino: romanos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: Romans
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: romanos
-      turkish: ''
+      inglez: Romans
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: romanos
+      turko: ''
 
 
 

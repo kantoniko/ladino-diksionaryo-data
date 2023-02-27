@@ -13,16 +13,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - while
         - time
         - weather
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - tiempo
         - rato
-        turkish:
+        turko:
         - süre
         - hava
         - zaman
@@ -38,9 +38,9 @@ versions:
     number: plural
 
     translations:
-        english: times
-        french: ''
-        portuguese: ''
-        spanish: tiempos
-        turkish: ''
+        inglez: times
+        fransez: ''
+        portugez: ''
+        kasteyano: tiempos
+        turko: ''
 

@@ -5,17 +5,17 @@ versions:
   - ladino: apunto
 
     translations:
-      english:
+      inglez:
         - immediately
         - just now
         - a moment ago
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - מייד
         - לפני רגע
         - בדיוק
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 

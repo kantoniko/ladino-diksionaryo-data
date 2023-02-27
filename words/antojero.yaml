@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-      english: optician
-      french: ''
-      hebrew:
+      inglez: optician
+      fransez: ''
+      ebreo:
         - אופטיקאי
         - מוכר משקפיים
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: antojera
 
@@ -23,14 +23,14 @@ versions:
     number: singular
 
     translations:
-      english: optician
-      french: ''
-      hebrew:
+      inglez: optician
+      fransez: ''
+      ebreo:
         - אופטיקאית
         - מוכרת משקפיים
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: antojeros
 
@@ -38,13 +38,13 @@ versions:
     number: plural
 
     translations:
-      english: opticians
-      french: ''
-      hebrew:
+      inglez: opticians
+      fransez: ''
+      ebreo:
         - אופטיקאים
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: antojeras
 
@@ -52,11 +52,11 @@ versions:
     number: plural
 
     translations:
-      english: opticians
-      french: ''
-      hebrew:
+      inglez: opticians
+      fransez: ''
+      ebreo:
         - אופטיקאיות
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

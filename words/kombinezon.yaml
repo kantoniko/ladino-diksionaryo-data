@@ -10,11 +10,11 @@ versions:
       - ladino: jupon
 
     translations:
-        english: petticoat
-        french: ''
-        portuguese: ''
-        spanish: enaguas
-        turkish:
+        inglez: petticoat
+        fransez: ''
+        portugez: ''
+        kasteyano: enaguas
+        turko:
         - kombinezon
         - jupon
 

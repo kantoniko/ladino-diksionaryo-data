@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - perfume
         - aroma
-        french: ''
-        portuguese: ''
-        spanish: aroma
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: aroma
+        turko:
         - koku
         - rayiha
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - perfume
         - aroma
-        french: ''
-        portuguese: ''
-        spanish: aromas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: aromas
+        turko:
         - koku
         - rayiha
 

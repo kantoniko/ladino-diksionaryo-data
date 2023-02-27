@@ -5,11 +5,11 @@ versions:
   - ladino: komplir
 
     translations:
-        english: fulfil
-        french: ''
-        portuguese: ''
-        spanish: cumplir
-        turkish:
+        inglez: fulfil
+        fransez: ''
+        portugez: ''
+        kasteyano: cumplir
+        turko:
         - ikmal etmek
         - gerçekleştirmek
 

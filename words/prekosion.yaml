@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - measure
         - step
-        french: ''
-        portuguese: ''
-        spanish: medida
-        turkish: önlem
+        fransez: ''
+        portugez: ''
+        kasteyano: medida
+        turko: önlem
 
 

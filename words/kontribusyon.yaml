@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: contribution
-        french: ''
-        portuguese: ''
-        spanish: contribución
-        turkish:
+        inglez: contribution
+        fransez: ''
+        portugez: ''
+        kasteyano: contribución
+        turko:
         - iştirak
         - katkı
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: contributions
-        french: ''
-        portuguese: ''
-        spanish: contribuciónes
-        turkish:
+        inglez: contributions
+        fransez: ''
+        portugez: ''
+        kasteyano: contribuciónes
+        turko:
         - iştirak
         - katkı
 

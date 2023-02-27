@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: author
-        french: auteur
-        portuguese: autor
-        spanish: autor
-        turkish:
+        inglez: author
+        fransez: auteur
+        portugez: autor
+        kasteyano: autor
+        turko:
         - yazar
         - edip
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: authors
-        french: auteur
-        portuguese: autores
-        spanish: autores
-        turkish:
+        inglez: authors
+        fransez: auteur
+        portugez: autores
+        kasteyano: autores
+        turko:
         - yazar
         - edip
 

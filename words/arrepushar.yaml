@@ -7,13 +7,13 @@ versions:
       - ladino: arrondjar
 
     translations:
-        english:
+        inglez:
         - push
         - shove
-        french: ''
-        portuguese: ''
-        spanish: empujar
-        turkish: itmek
+        fransez: ''
+        portugez: ''
+        kasteyano: empujar
+        turko: itmek
 
 conjugations: {}
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - all
           - everything
-        french: ''
-        portuguese: ''
-        spanish: todo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: todo
+        turko:
         - hep
         - hepsi
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - all
           - everything
-        french: ''
-        portuguese: ''
-        spanish: toda
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: toda
+        turko:
         - hep
         - hepsi
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - all
           - everyone
-        french: ''
-        portuguese: ''
-        spanish: todos
-        turkish: hepsi
+        fransez: ''
+        portugez: ''
+        kasteyano: todos
+        turko: hepsi
 
   - ladino: todas
 
@@ -54,10 +54,10 @@ versions:
     number: plural
 
     translations:
-        english: all
-        french: ''
-        portuguese: ''
-        spanish: todas
-        turkish: hepsi
+        inglez: all
+        fransez: ''
+        portugez: ''
+        kasteyano: todas
+        turko: hepsi
 
 

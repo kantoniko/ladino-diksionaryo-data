@@ -5,13 +5,13 @@ versions:
   - ladino: yevar
 
     translations:
-        english:
+        inglez:
         - carry
         - take
-        french: porter
-        portuguese: ''
-        spanish: llevar
-        turkish:
+        fransez: porter
+        portugez: ''
+        kasteyano: llevar
+        turko:
         - götürmek
         - taşımak
 

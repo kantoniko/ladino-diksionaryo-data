@@ -5,11 +5,11 @@ versions:
   - ladino: buyir
 
     translations:
-        english: boil
-        french: ''
-        portuguese: ''
-        spanish: hervir
-        turkish: kaynatmak
+        inglez: boil
+        fransez: ''
+        portugez: ''
+        kasteyano: hervir
+        turko: kaynatmak
 
 conjugations: {}
 

@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - size
         - heght
         - dimensions
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - tamaño
         - talla
         - dimensiones
-        turkish: boy
+        turko: boy
 

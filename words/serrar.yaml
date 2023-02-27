@@ -5,11 +5,11 @@ versions:
   - ladino: serrar
 
     translations:
-        english: shut
-        french: ''
-        portuguese: ''
-        spanish: cerrar
-        turkish: kapamak
+        inglez: shut
+        fransez: ''
+        portugez: ''
+        kasteyano: cerrar
+        turko: kapamak
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: bridge
-        french: ''
-        portuguese: ''
-        spanish: puente
-        turkish: köprü
+        inglez: bridge
+        fransez: ''
+        portugez: ''
+        kasteyano: puente
+        turko: köprü
 
   - ladino: pontes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: bridges
-        french: ''
-        portuguese: ''
-        spanish: puentes
-        turkish: köprü
+        inglez: bridges
+        fransez: ''
+        portugez: ''
+        kasteyano: puentes
+        turko: köprü
 
 
 

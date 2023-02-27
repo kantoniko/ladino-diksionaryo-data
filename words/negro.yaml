@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: bad
-        french: ''
-        portuguese: ''
-        spanish: malo
-        turkish:
+        inglez: bad
+        fransez: ''
+        portugez: ''
+        kasteyano: malo
+        turko:
         - kötü
         - fena
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: bad
-        french: ''
-        portuguese: ''
-        spanish: mala
-        turkish:
+        inglez: bad
+        fransez: ''
+        portugez: ''
+        kasteyano: mala
+        turko:
         - kötü
         - fena
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: bad
-        french: ''
-        portuguese: ''
-        spanish: malos
-        turkish:
+        inglez: bad
+        fransez: ''
+        portugez: ''
+        kasteyano: malos
+        turko:
         - kötü
         - fena
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: bad
-        french: ''
-        portuguese: ''
-        spanish: malas
-        turkish:
+        inglez: bad
+        fransez: ''
+        portugez: ''
+        kasteyano: malas
+        turko:
         - kötü
         - fena
 

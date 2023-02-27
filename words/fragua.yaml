@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - building
         - construction
-        french:
+        fransez:
         - bâtisse
         - bàtiment
-        portuguese: ''
-        spanish: construcción
-        turkish:
+        portugez: ''
+        kasteyano: construcción
+        turko:
         - bina
         - inşaat
 
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - buildings
         - constructions
-        french:
+        fransez:
         - bâtisse
         - bàtiment
-        portuguese: ''
-        spanish: construcciónes
-        turkish:
+        portugez: ''
+        kasteyano: construcciónes
+        turko:
         - bina
         - inşaat
 

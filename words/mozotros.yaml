@@ -8,11 +8,11 @@ versions:
     number: plural
 
     translations:
-        english: we
-        french: nous
-        portuguese: nós
-        spanish: nosotros
-        turkish: biz
+        inglez: we
+        fransez: nous
+        portugez: nós
+        kasteyano: nosotros
+        turko: biz
 
   - ladino: mozotras
     accented: mozótras
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: we
-        french: nous
-        portuguese: nós
-        spanish: nosotras
-        turkish: biz
+        inglez: we
+        fransez: nous
+        portugez: nós
+        kasteyano: nosotras
+        turko: biz
 
 
 

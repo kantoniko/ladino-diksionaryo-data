@@ -14,16 +14,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - air
           - wind
           - draught
-        french: air
-        portuguese: ar
-        spanish:
+        fransez: air
+        portugez: ar
+        kasteyano:
           - aire
           - viento
-        turkish:
+        turko:
           - hava
           - rüzgâr
           - yel

@@ -5,11 +5,11 @@ versions:
   - ladino: tapar
 
     translations:
-        english: put the lid on
-        french: couvrir
-        portuguese: ''
-        spanish: tapar
-        turkish: kapatmak
+        inglez: put the lid on
+        fransez: couvrir
+        portugez: ''
+        kasteyano: tapar
+        turko: kapatmak
 
 conjugations: {}
 

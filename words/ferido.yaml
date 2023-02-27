@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: hurt
-        french: ''
-        portuguese: ''
-        spanish: herido
-        turkish:
+        inglez: hurt
+        fransez: ''
+        portugez: ''
+        kasteyano: herido
+        turko:
         - acı çeken
         - yaralı
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: hurt
-        french: ''
-        portuguese: ''
-        spanish: herida
-        turkish:
+        inglez: hurt
+        fransez: ''
+        portugez: ''
+        kasteyano: herida
+        turko:
         - acı çeken
         - yaralı
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: hurt
-        french: ''
-        portuguese: ''
-        spanish: heridos
-        turkish:
+        inglez: hurt
+        fransez: ''
+        portugez: ''
+        kasteyano: heridos
+        turko:
         - acı çeken
         - yaralı
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: hurt
-        french: ''
-        portuguese: ''
-        spanish: heridas
-        turkish:
+        inglez: hurt
+        fransez: ''
+        portugez: ''
+        kasteyano: heridas
+        turko:
         - acı çeken
         - yaralı
 

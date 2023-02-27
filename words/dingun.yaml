@@ -10,11 +10,11 @@ versions:
         accented: ningún
 
     translations:
-        english:
+        inglez:
         - 'no'
         - none
-        french: ''
-        portuguese: ''
-        spanish: ninguno
-        turkish: hiçbir
+        fransez: ''
+        portugez: ''
+        kasteyano: ninguno
+        turko: hiçbir
 

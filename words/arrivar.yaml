@@ -5,13 +5,13 @@ versions:
   - ladino: arrivar
 
     translations:
-        english: arrive
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: arrive
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - arribar
         - llegar
-        turkish: varmak
+        turko: varmak
 
 conjugations: {}
 

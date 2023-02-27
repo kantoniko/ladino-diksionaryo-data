@@ -5,11 +5,11 @@ versions:
   - ladino: asolombrar
 
     translations:
-        english: cast a shadow on
-        french: ''
-        portuguese: ''
-        spanish: asombrar
-        turkish: gölgelemek
+        inglez: cast a shadow on
+        fransez: ''
+        portugez: ''
+        kasteyano: asombrar
+        turko: gölgelemek
 
 conjugations: {}
 

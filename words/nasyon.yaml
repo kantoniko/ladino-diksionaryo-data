@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: nation
-        french: ''
-        portuguese: ''
-        spanish: nación
-        turkish:
+        inglez: nation
+        fransez: ''
+        portugez: ''
+        kasteyano: nación
+        turko:
         - millet
         - ulus
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: nations
-        french: ''
-        portuguese: ''
-        spanish: naciónes
-        turkish:
+        inglez: nations
+        fransez: ''
+        portugez: ''
+        kasteyano: naciónes
+        turko:
         - millet
         - ulus
 

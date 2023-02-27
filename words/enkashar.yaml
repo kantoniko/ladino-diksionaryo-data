@@ -6,22 +6,22 @@ versions:
     accented: enkashár
 
     translations:
-        english:
+        inglez:
           - insert
           - screw (colloq.)
-        french:
+        fransez:
           - fourrer
           - insérer
           - escroquer
-        portuguese:
+        portugez:
           - inserir
           - defraudar
-        spanish:
+        kasteyano:
           - meter
           - meter dentro
           - estafar (x)
           - insertar
-        turkish:
+        turko:
           - sokmak
           - kazık atmak
 

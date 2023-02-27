@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english: bird
-        french: oiseau
-        hebrew: ציפור
-        portuguese: pássaro
-        spanish: pájaro
-        turkish: kuş
+        inglez: bird
+        fransez: oiseau
+        ebreo: ציפור
+        portugez: pássaro
+        kasteyano: pájaro
+        turko: kuş
 
   - ladino: pasharos
     accented: pasharós
@@ -23,10 +23,10 @@ versions:
     number: plural
 
     translations:
-        english: birds
-        french: ''
-        hebrew: ציפורים
-        portuguese: ''
-        spanish: pájaros
-        turkish: kuşlar
+        inglez: birds
+        fransez: ''
+        ebreo: ציפורים
+        portugez: ''
+        kasteyano: pájaros
+        turko: kuşlar
 

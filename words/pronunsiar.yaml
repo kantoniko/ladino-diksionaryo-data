@@ -5,11 +5,11 @@ versions:
   - ladino: pronunsiar
 
     translations:
-        english: pronounce
-        french: ''
-        portuguese: ''
-        spanish: pronunciar
-        turkish: telâffuz etmek
+        inglez: pronounce
+        fransez: ''
+        portugez: ''
+        kasteyano: pronunciar
+        turko: telâffuz etmek
 
 conjugations: {}
 

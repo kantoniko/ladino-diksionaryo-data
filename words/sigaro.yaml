@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cigarette
-        french: ''
-        portuguese: ''
-        spanish: cigarrillo
-        turkish: sigara
+        inglez: cigarette
+        fransez: ''
+        portugez: ''
+        kasteyano: cigarrillo
+        turko: sigara
 
   - ladino: sigaros
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: cigarettes
-        french: ''
-        portuguese: ''
-        spanish: cigarrillos
-        turkish: sigara
+        inglez: cigarettes
+        fransez: ''
+        portugez: ''
+        kasteyano: cigarrillos
+        turko: sigara
 
 
 

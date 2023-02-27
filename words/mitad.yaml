@@ -5,11 +5,11 @@ versions:
   - ladino: mitad
 
     translations:
-        english: half
-        french: ''
-        portuguese: ''
-        spanish: mitad
-        turkish:
+        inglez: half
+        fransez: ''
+        portugez: ''
+        kasteyano: mitad
+        turko:
         - yarı
         - yarısı
 

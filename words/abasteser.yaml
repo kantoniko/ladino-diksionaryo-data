@@ -6,13 +6,13 @@ versions:
     accented: abastesér
 
     translations:
-        english: provide
-        french:
+        inglez: provide
+        fransez:
           - subvenir
           - pourvoir
-        portuguese: abastecer
-        spanish: abastecer
-        turkish:
+        portugez: abastecer
+        kasteyano: abastecer
+        turko:
           - tedarik etmek
           - temin etmek
 

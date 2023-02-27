@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: arm
-        french: bras
-        portuguese: braço
-        spanish: brazo
-        turkish: kol
+        inglez: arm
+        fransez: bras
+        portugez: braço
+        kasteyano: brazo
+        turko: kol
 
   - ladino: brasos
     accented: brásos
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: arms
-        french: bras
-        portuguese: braços
-        spanish: brazos
-        turkish: kol
+        inglez: arms
+        fransez: bras
+        portugez: braços
+        kasteyano: brazos
+        turko: kol
 
 

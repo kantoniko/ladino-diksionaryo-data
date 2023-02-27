@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - writing
         - redaction
-        french: ''
-        portuguese: ''
-        spanish: redacción
-        turkish: tahrir
+        fransez: ''
+        portugez: ''
+        kasteyano: redacción
+        turko: tahrir
 
 

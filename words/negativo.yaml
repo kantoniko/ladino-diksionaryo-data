@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: negative
-        french: ''
-        portuguese: ''
-        spanish: negativo
-        turkish:
+        inglez: negative
+        fransez: ''
+        portugez: ''
+        kasteyano: negativo
+        turko:
         - menfî
         - olumsuz
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: negative
-        french: ''
-        portuguese: ''
-        spanish: negativa
-        turkish:
+        inglez: negative
+        fransez: ''
+        portugez: ''
+        kasteyano: negativa
+        turko:
         - menfî
         - olumsuz
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: negative
-        french: ''
-        portuguese: ''
-        spanish: negativos
-        turkish:
+        inglez: negative
+        fransez: ''
+        portugez: ''
+        kasteyano: negativos
+        turko:
         - menfî
         - olumsuz
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: negative
-        french: ''
-        portuguese: ''
-        spanish: negativas
-        turkish:
+        inglez: negative
+        fransez: ''
+        portugez: ''
+        kasteyano: negativas
+        turko:
         - menfî
         - olumsuz
 

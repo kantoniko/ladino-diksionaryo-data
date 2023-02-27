@@ -9,11 +9,11 @@ versions:
       - ladino: arrebashar
 
     translations:
-        english: humiliate
-        french: humilier
-        portuguese: ''
-        spanish: humillar
-        turkish: tahkir etmek
+        inglez: humiliate
+        fransez: humilier
+        portugez: ''
+        kasteyano: humillar
+        turko: tahkir etmek
 
 conjugations: {}
 

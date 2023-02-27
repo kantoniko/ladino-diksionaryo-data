@@ -5,11 +5,11 @@ versions:
   - ladino: trankilizar
 
     translations:
-        english: reassure
-        french: ''
-        portuguese: ''
-        spanish: tranquilizar
-        turkish: yatıştırmak
+        inglez: reassure
+        fransez: ''
+        portugez: ''
+        kasteyano: tranquilizar
+        turko: yatıştırmak
 
 conjugations: {}
 

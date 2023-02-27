@@ -5,11 +5,11 @@ versions:
   - ladino: endevinar
     accented: endevinár
     translations:
-        english: guess
-        french: deviner
-        portuguese: adivinhar
-        spanish: adivinar
-        turkish:
+        inglez: guess
+        fransez: deviner
+        portugez: adivinhar
+        kasteyano: adivinar
+        turko:
           - tahmin etmek
           - bilmek
 

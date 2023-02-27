@@ -10,15 +10,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bus
         - motor-coach
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - autobús
         - autocar
-        turkish: otobüs
+        turko: otobüs
 
   - ladino: otobuses
 
@@ -26,15 +26,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - buses
         - motor-coaches
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - autobúses
         - autocar
-        turkish: otobüs
+        turko: otobüs
 
 
 

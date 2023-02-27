@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: disorderly
-        french: ''
-        portuguese: ''
-        spanish: desordenado
-        turkish: düzensiz
+        inglez: disorderly
+        fransez: ''
+        portugez: ''
+        kasteyano: desordenado
+        turko: düzensiz
 
   - ladino: desordenada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: disorderly
-        french: ''
-        portuguese: ''
-        spanish: desordenada
-        turkish: düzensiz
+        inglez: disorderly
+        fransez: ''
+        portugez: ''
+        kasteyano: desordenada
+        turko: düzensiz
 
 
 

@@ -8,13 +8,13 @@ versions:
       - ladino: apetites
 
     translations:
-        english:
+        inglez:
         - snacks
         - titbits
-        french: ''
-        portuguese: ''
-        spanish: tapas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: tapas
+        turko:
         - aperitif
         - meze
 

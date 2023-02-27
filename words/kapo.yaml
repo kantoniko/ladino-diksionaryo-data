@@ -5,15 +5,15 @@ versions:
   - ladino: kapo
 
     translations:
-        english:
+        inglez:
         - chief
         - hothead
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jefe
         - cabecilla
-        turkish:
+        turko:
         - şef
         - elebaşı
 

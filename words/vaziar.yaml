@@ -6,13 +6,13 @@ versions:
 
 
     translations:
-      english: pour
-      french: ''
-      hebrew:
+      inglez: pour
+      fransez: ''
+      ebreo:
         - לשפוך
         - לרוקן
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

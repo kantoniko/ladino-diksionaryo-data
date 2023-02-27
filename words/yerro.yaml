@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: mistake
-        french: erreur
-        portuguese: ''
-        spanish:
+        inglez: mistake
+        fransez: erreur
+        portugez: ''
+        kasteyano:
           - hierro
           - yerro
-        turkish: hata
+        turko: hata
 
   - ladino: yerros
 
@@ -22,12 +22,12 @@ versions:
     number: plural
 
     translations:
-        english: mistakes
-        french: erreurs
-        portuguese: ''
-        spanish:
+        inglez: mistakes
+        fransez: erreurs
+        portugez: ''
+        kasteyano:
           - hierros
           - yerros
-        turkish: yanlışlar
+        turko: yanlışlar
 
 

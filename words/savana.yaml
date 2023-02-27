@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sheet
-        french: drap
-        portuguese: lençol
-        spanish: sábana
-        turkish: çarşaf
+        inglez: sheet
+        fransez: drap
+        portugez: lençol
+        kasteyano: sábana
+        turko: çarşaf
 
   - ladino: savanas
     accented: savanás
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: sheets
-        french: ''
-        portuguese: ''
-        spanish: sábanas
-        turkish: çarşaflar
+        inglez: sheets
+        fransez: ''
+        portugez: ''
+        kasteyano: sábanas
+        turko: çarşaflar
 
 

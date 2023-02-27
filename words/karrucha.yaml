@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - reel
           - spool
           - pulley
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - carrete
           - polea
           - garrucha
-        turkish:
+        turko:
           - makara
           - palanga
 

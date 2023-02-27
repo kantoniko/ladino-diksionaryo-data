@@ -11,11 +11,11 @@ versions:
       - ladino: eso
 
     translations:
-        english: this
-        french: ''
-        portuguese: ''
-        spanish: este
-        turkish: bu
+        inglez: this
+        fransez: ''
+        portugez: ''
+        kasteyano: este
+        turko: bu
 
   - ladino: esto
     accented: ésto
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: this
-        french: ''
-        portuguese: ''
-        spanish: esto
-        turkish: bu
+        inglez: this
+        fransez: ''
+        portugez: ''
+        kasteyano: esto
+        turko: bu
 
   - ladino: esta
 
@@ -39,11 +39,11 @@ versions:
       - ladino: esa
 
     translations:
-        english: this
-        french: ''
-        portuguese: ''
-        spanish: esta
-        turkish: bu
+        inglez: this
+        fransez: ''
+        portugez: ''
+        kasteyano: esta
+        turko: bu
 
   - ladino: estes
 
@@ -54,11 +54,11 @@ versions:
       - ladino: esos
 
     translations:
-        english: these
-        french: ''
-        portuguese: ''
-        spanish: estes
-        turkish: varsınız
+        inglez: these
+        fransez: ''
+        portugez: ''
+        kasteyano: estes
+        turko: varsınız
 
   - ladino: estos
     accented: éstos
@@ -67,11 +67,11 @@ versions:
     number: plural
 
     translations:
-        english: these
-        french: ''
-        portuguese: ''
-        spanish: estos
-        turkish: bu
+        inglez: these
+        fransez: ''
+        portugez: ''
+        kasteyano: estos
+        turko: bu
 
   - ladino: estas
 
@@ -82,10 +82,10 @@ versions:
       - ladino: esas
 
     translations:
-        english: these
-        french: ''
-        portuguese: ''
-        spanish: estas
-        turkish: varsın
+        inglez: these
+        fransez: ''
+        portugez: ''
+        kasteyano: estas
+        turko: varsın
 
 

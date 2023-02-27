@@ -5,11 +5,11 @@ versions:
   - ladino: ekspresar
 
     translations:
-        english: express
-        french: ''
-        portuguese: ''
-        spanish: expresar
-        turkish: beyan etmek
+        inglez: express
+        fransez: ''
+        portugez: ''
+        kasteyano: expresar
+        turko: beyan etmek
 
 conjugations: {}
 

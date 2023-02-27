@@ -5,11 +5,11 @@ versions:
   - ladino: embiar
 
     translations:
-        english: send
-        french: ''
-        portuguese: ''
-        spanish: enviar
-        turkish: göndermek
+        inglez: send
+        fransez: ''
+        portugez: ''
+        kasteyano: enviar
+        turko: göndermek
 
 conjugations: {}
 

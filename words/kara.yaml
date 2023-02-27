@@ -11,19 +11,19 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - cheek
           - face
           - side
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - mejilla
           - cara
           - rostro
           - semblante
           - faz
-        turkish:
+        turko:
           - yanak
           - surat
           - yüz

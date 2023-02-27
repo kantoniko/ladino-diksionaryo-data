@@ -6,13 +6,13 @@ versions:
     accented: revizár
 
     translations:
-        english:
+        inglez:
         - revise
         - review
-        french: réviser
-        portuguese: rever
-        spanish: revisar
-        turkish: tekrar tetkik etmek
+        fransez: réviser
+        portugez: rever
+        kasteyano: revisar
+        turko: tekrar tetkik etmek
 
 conjugations: {}
 

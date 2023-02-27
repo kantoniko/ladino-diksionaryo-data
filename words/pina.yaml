@@ -11,11 +11,11 @@ versions:
       - ladino: piedra
 
     translations:
-        english: stone
-        french: ''
-        portuguese: ''
-        spanish: piedra
-        turkish: taş
+        inglez: stone
+        fransez: ''
+        portugez: ''
+        kasteyano: piedra
+        turko: taş
 
   - ladino: pinas
 
@@ -26,11 +26,11 @@ versions:
       - ladino: piedras
 
     translations:
-        english: stones
-        french: ''
-        portuguese: ''
-        spanish: piedras
-        turkish: taş
+        inglez: stones
+        fransez: ''
+        portugez: ''
+        kasteyano: piedras
+        turko: taş
 
 
 

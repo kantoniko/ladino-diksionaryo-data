@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: emergency
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: emergencia
-      turkish: ''
+      inglez: emergency
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: emergencia
+      turko: ''
 
   - ladino: emerjensias
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: emergencies
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: emergencias
-      turkish: ''
+      inglez: emergencies
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: emergencias
+      turko: ''
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - student
         - pupil
-        french: ''
-        portuguese: ''
-        spanish: alumno
-        turkish: talebe
+        fransez: ''
+        portugez: ''
+        kasteyano: alumno
+        turko: talebe
 
   - ladino: eleva
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - student
         - pupil
-        french: ''
-        portuguese: ''
-        spanish: alumna
-        turkish: talebe
+        fransez: ''
+        portugez: ''
+        kasteyano: alumna
+        turko: talebe
 
   - ladino: elevos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - student
         - pupil
-        french: ''
-        portuguese: ''
-        spanish: alumnos
-        turkish: talebe
+        fransez: ''
+        portugez: ''
+        kasteyano: alumnos
+        turko: talebe
 
   - ladino: elevas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - student
         - pupil
-        french: ''
-        portuguese: ''
-        spanish: alumnas
-        turkish: talebe
+        fransez: ''
+        portugez: ''
+        kasteyano: alumnas
+        turko: talebe
 
 
 

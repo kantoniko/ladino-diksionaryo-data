@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: dictionary
-        french: ''
-        portuguese: ''
-        spanish: diccionario
-        turkish:
+        inglez: dictionary
+        fransez: ''
+        portugez: ''
+        kasteyano: diccionario
+        turko:
         - lugat
         - sözlük
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: dictionaries
-        french: ''
-        portuguese: ''
-        spanish: diccionarios
-        turkish:
+        inglez: dictionaries
+        fransez: ''
+        portugez: ''
+        kasteyano: diccionarios
+        turko:
         - lugat
         - sözlük
 

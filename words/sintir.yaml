@@ -10,13 +10,13 @@ versions:
         accented: sentír
 
     translations:
-        english:
+        inglez:
           - feel
           - hear
-        french: ''
-        portuguese: ''
-        spanish: sentir
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sentir
+        turko:
           - hissetmek
           - sezmek
           - duymak

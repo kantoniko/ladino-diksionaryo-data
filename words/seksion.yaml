@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: section
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sección
-      turkish: bölüm
+      inglez: section
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sección
+      turko: bölüm
 
   - ladino: seksiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: sections
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: secciónes
-      turkish:  bölümler
+      inglez: sections
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: secciónes
+      turko:  bölümler
 
 
 

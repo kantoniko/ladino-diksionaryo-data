@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: love
-        french: amour
-        portuguese: amor
-        spanish: amor
-        turkish:
+        inglez: love
+        fransez: amour
+        portugez: amor
+        kasteyano: amor
+        turko:
         - aşk
         - sevda
         - sevgi
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: loves
-        french: amour
-        portuguese: amores
-        spanish: amores
-        turkish:
+        inglez: loves
+        fransez: amour
+        portugez: amores
+        kasteyano: amores
+        turko:
         - aşk
         - sevda
         - sevgi

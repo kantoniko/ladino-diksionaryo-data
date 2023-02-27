@@ -5,11 +5,11 @@ versions:
   - ladino: entregar
 
     translations:
-        english: deliver
-        french: ''
-        portuguese: ''
-        spanish: entregar
-        turkish: teslim etmek
+        inglez: deliver
+        fransez: ''
+        portugez: ''
+        kasteyano: entregar
+        turko: teslim etmek
 
 conjugations: {}
 

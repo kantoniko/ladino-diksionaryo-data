@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: ship
-        french: ''
-        portuguese: ''
-        spanish: barco
-        turkish: gemi
+        inglez: ship
+        fransez: ''
+        portugez: ''
+        kasteyano: barco
+        turko: gemi
 
 
 

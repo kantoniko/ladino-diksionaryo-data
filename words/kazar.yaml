@@ -5,11 +5,11 @@ versions:
   - ladino: kazar
 
     translations:
-        english: marry
-        french: ''
-        portuguese: ''
-        spanish: casar
-        turkish: evlenmek
+        inglez: marry
+        fransez: ''
+        portugez: ''
+        kasteyano: casar
+        turko: evlenmek
 
 conjugations: {}
 

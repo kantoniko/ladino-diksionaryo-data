@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: organization
-        french: ''
-        portuguese: ''
-        spanish: organización
-        turkish:
+        inglez: organization
+        fransez: ''
+        portugez: ''
+        kasteyano: organización
+        turko:
         - teşkilat
         - kurum
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: organizations
-        french: ''
-        portuguese: ''
-        spanish: organizaciónes
-        turkish:
+        inglez: organizations
+        fransez: ''
+        portugez: ''
+        kasteyano: organizaciónes
+        turko:
         - teşkilat
         - kurum
 

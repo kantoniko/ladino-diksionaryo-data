@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: judge
-        french: juge
-        hebrew:  שופט
-        portuguese: ''
-        spanish: juez
-        turkish: yargıç
+        inglez: judge
+        fransez: juge
+        ebreo:  שופט
+        portugez: ''
+        kasteyano: juez
+        turko: yargıç
 
   - ladino: djuzga
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-        english: judge
-        french: juge
-        hebrew:  שופטת
-        portuguese: ''
-        spanish: juez
-        turkish: yargıç
+        inglez: judge
+        fransez: juge
+        ebreo:  שופטת
+        portugez: ''
+        kasteyano: juez
+        turko: yargıç
 
   - ladino: djuzgos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-        english: judges
-        french: juge
-        hebrew:  שופטים
-        portuguese: ''
-        spanish: juez
-        turkish: yargıç
+        inglez: judges
+        fransez: juge
+        ebreo:  שופטים
+        portugez: ''
+        kasteyano: juez
+        turko: yargıç
 
   - ladino: djuzgas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-        english: judges
-        french: juge
-        hebrew: שופטות
-        portuguese: ''
-        spanish: juez
-        turkish: yargıç
+        inglez: judges
+        fransez: juge
+        ebreo: שופטות
+        portugez: ''
+        kasteyano: juez
+        turko: yargıç
 
 
 # djuzgo (m),"Samuel Hassid dezvelopara el tema ""El djuzgo de Max Merten enfrente de los Espejos"".",juicio; proceso,judgement; trial,mahkeme; yargı,Jeneral,1733,,jugement; procès

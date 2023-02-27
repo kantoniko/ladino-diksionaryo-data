@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: grey
-        french: ''
-        portuguese: ''
-        spanish: gris
-        turkish: gri
+        inglez: grey
+        fransez: ''
+        portugez: ''
+        kasteyano: gris
+        turko: gri
 
   - ladino: griza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: grey
-        french: ''
-        portuguese: ''
-        spanish: grisa
-        turkish: gri
+        inglez: grey
+        fransez: ''
+        portugez: ''
+        kasteyano: grisa
+        turko: gri
 
   - ladino: grizos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: grey
-        french: ''
-        portuguese: ''
-        spanish: gris
-        turkish: gri
+        inglez: grey
+        fransez: ''
+        portugez: ''
+        kasteyano: gris
+        turko: gri
 
   - ladino: grizas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: grey
-        french: ''
-        portuguese: ''
-        spanish: grisas
-        turkish: gri
+        inglez: grey
+        fransez: ''
+        portugez: ''
+        kasteyano: grisas
+        turko: gri
 
 
 

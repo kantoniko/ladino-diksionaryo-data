@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - mode
         - manner
-        french: ''
-        portuguese: ''
-        spanish: modo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: modo
+        turko:
         - biçim
         - şekil
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - mode
         - manners
-        french: ''
-        portuguese: ''
-        spanish: modos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: modos
+        turko:
         - biçim
         - şekil
 

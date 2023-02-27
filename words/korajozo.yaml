@@ -5,11 +5,11 @@ versions:
   - ladino: korajozo
 
     translations:
-        english: brave
-        french: ''
-        portuguese: ''
-        spanish: valiente
-        turkish:
+        inglez: brave
+        fransez: ''
+        portugez: ''
+        kasteyano: valiente
+        turko:
         - cesur
         - yiğit
 

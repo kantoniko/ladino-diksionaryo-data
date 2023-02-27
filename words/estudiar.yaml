@@ -5,11 +5,11 @@ versions:
   - ladino: estudiar
 
     translations:
-        english: study
-        french: ''
-        portuguese: ''
-        spanish: estudiar
-        turkish: ders çalışmak
+        inglez: study
+        fransez: ''
+        portugez: ''
+        kasteyano: estudiar
+        turko: ders çalışmak
 
 conjugations: {}
 

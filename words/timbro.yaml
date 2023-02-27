@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - stamp
         - seal
-        french: ''
-        portuguese: ''
-        spanish: sello
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sello
+        turko:
         - pul
         - mühür
 
@@ -30,13 +30,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - stamps
         - seals
-        french: ''
-        portuguese: ''
-        spanish: sellos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sellos
+        turko:
         - pul
         - mühür
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: reading
-        french: ''
-        portuguese: ''
-        spanish: lectura
-        turkish: okuma
+        inglez: reading
+        fransez: ''
+        portugez: ''
+        kasteyano: lectura
+        turko: okuma
 
   - ladino: meldaduras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: readings
-        french: ''
-        portuguese: ''
-        spanish: lecturas
-        turkish: okuma
+        inglez: readings
+        fransez: ''
+        portugez: ''
+        kasteyano: lecturas
+        turko: okuma
 
 
 

@@ -6,48 +6,48 @@ versions:
     accented: esperár
 
     translations:
-        english: hope
-        french: espérer
-        portuguese: ''
-        spanish: esperar
-        turkish: ümit etmek
+        inglez: hope
+        fransez: espérer
+        portugez: ''
+        kasteyano: esperar
+        turko: ümit etmek
 
 conjugations:
   prezente:
     yo:
       ladino: espero
       translations:
-        english: hope
-        spanish: espero
+        inglez: hope
+        kasteyano: espero
 
     tu:
       ladino: esperas
       translations:
-        english: hope
-        spanish: esperas
+        inglez: hope
+        kasteyano: esperas
 
     el:
       ladino: espera
       translations:
-        english: hopes
-        spanish: espera
+        inglez: hopes
+        kasteyano: espera
 
     mozotros:
       ladino: esperamos
       translations:
-        english: hope
-        spanish: esperamos
+        inglez: hope
+        kasteyano: esperamos
 
     vozotros:
       ladino: esperash
       translations:
-        english: hope
-        spanish: esperáis
+        inglez: hope
+        kasteyano: esperáis
 
     eyos:
       ladino: esperan
       translations:
-        english: hope
-        spanish: esperan
+        inglez: hope
+        kasteyano: esperan
 
 

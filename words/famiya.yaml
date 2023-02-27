@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: family
-        french: famille
-        portuguese: ''
-        spanish: familia
-        turkish: aile
+        inglez: family
+        fransez: famille
+        portugez: ''
+        kasteyano: familia
+        turko: aile
 
   - ladino: famiyas
     accented: famíyas
@@ -22,9 +22,9 @@ versions:
     number: polural
 
     translations:
-        english: families
-        french: famille
-        portuguese: ''
-        spanish: familias
-        turkish: aile
+        inglez: families
+        fransez: famille
+        portugez: ''
+        kasteyano: familias
+        turko: aile
 

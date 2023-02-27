@@ -13,12 +13,12 @@ versions:
 
 
     translations:
-      english: regular
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: regular
-      turkish: ''
+      inglez: regular
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: regular
+      turko: ''
 
   - ladino: regolares
 
@@ -30,11 +30,11 @@ versions:
       - ladino: regolarios
 
     translations:
-      english: regular
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: regulares
-      turkish: ''
+      inglez: regular
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: regulares
+      turko: ''
 
 

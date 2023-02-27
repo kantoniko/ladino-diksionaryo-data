@@ -5,13 +5,13 @@ versions:
   - ladino: siguro
 
     translations:
-        english:
+        inglez:
           - secure
           - safe
           - for sure
-        french: ''
-        portuguese: ''
-        spanish: seguro
-        turkish: emin
+        fransez: ''
+        portugez: ''
+        kasteyano: seguro
+        turko: emin
 
 

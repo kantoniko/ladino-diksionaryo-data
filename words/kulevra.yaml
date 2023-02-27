@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: snake
-        french: ''
-        portuguese: ''
-        spanish: serpiente
-        turkish: yılan
+        inglez: snake
+        fransez: ''
+        portugez: ''
+        kasteyano: serpiente
+        turko: yılan
 
   - ladino: kulevras
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: snakes
-        french: ''
-        portuguese: ''
-        spanish: serpientes
-        turkish: yılan
+        inglez: snakes
+        fransez: ''
+        portugez: ''
+        kasteyano: serpientes
+        turko: yılan
 
 

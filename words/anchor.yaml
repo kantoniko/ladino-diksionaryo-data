@@ -8,9 +8,9 @@ versions:
     number: singular
 
     translations:
-        english: width
-        french: largeur
-        portuguese: largura
-        spanish: anchor
-        turkish: genişlik
+        inglez: width
+        fransez: largeur
+        portugez: largura
+        kasteyano: anchor
+        turko: genişlik
 

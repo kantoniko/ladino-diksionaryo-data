@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: piece
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: piece
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pedazo
         - trozo
-        turkish: parça
+        turko: parça
 
   - ladino: pedasos
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english: pieces
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: pieces
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pedazos
         - trozos
-        turkish: parça
+        turko: parça
 
 
 

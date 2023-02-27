@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: race
-        french: ''
-        portuguese: ''
-        spanish: raza
-        turkish:
+        inglez: race
+        fransez: ''
+        portugez: ''
+        kasteyano: raza
+        turko:
         - soy
         - ırk
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: races
-        french: ''
-        portuguese: ''
-        spanish: razas
-        turkish:
+        inglez: races
+        fransez: ''
+        portugez: ''
+        kasteyano: razas
+        turko:
         - soy
         - ırk
 

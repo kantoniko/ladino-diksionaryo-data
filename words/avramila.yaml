@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: green plum
-        french: ''
-        portuguese: ''
-        spanish: ciruela verde
-        turkish: can eriği
+        inglez: green plum
+        fransez: ''
+        portugez: ''
+        kasteyano: ciruela verde
+        turko: can eriği
 
   - ladino: avramilas
     accented: avramilás
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: green plums
-        french: ''
-        portuguese: ''
-        spanish: ciruelas verdes
-        turkish: can eriği
+        inglez: green plums
+        fransez: ''
+        portugez: ''
+        kasteyano: ciruelas verdes
+        turko: can eriği
 
 
 

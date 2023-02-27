@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: first
-        french: ''
-        portuguese: ''
-        spanish: primero
-        turkish: birinci
+        inglez: first
+        fransez: ''
+        portugez: ''
+        kasteyano: primero
+        turko: birinci
 
   - ladino: primera
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: first
-        french: ''
-        portuguese: ''
-        spanish: primera
-        turkish: birinci
+        inglez: first
+        fransez: ''
+        portugez: ''
+        kasteyano: primera
+        turko: birinci
 
   - ladino: primeros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: first
-        french: ''
-        portuguese: ''
-        spanish: primeros
-        turkish: birinci
+        inglez: first
+        fransez: ''
+        portugez: ''
+        kasteyano: primeros
+        turko: birinci
 
   - ladino: primeras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: first
-        french: ''
-        portuguese: ''
-        spanish: primeras
-        turkish: birinci
+        inglez: first
+        fransez: ''
+        portugez: ''
+        kasteyano: primeras
+        turko: birinci
 
 
 

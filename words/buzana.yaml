@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - ice-box
         - very cold place
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - nevera
         - lugar frío
-        turkish:
+        turko:
         - buz kutusu
         - çok soğuk yer
 

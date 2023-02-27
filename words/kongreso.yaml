@@ -5,11 +5,11 @@ versions:
   - ladino: kongreso
 
     translations:
-        english: congress
-        french: ''
-        portuguese: ''
-        spanish: congreso
-        turkish:
+        inglez: congress
+        fransez: ''
+        portugez: ''
+        kasteyano: congreso
+        turko:
         - kongre
         - kurultay
 

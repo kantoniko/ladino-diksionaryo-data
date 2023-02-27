@@ -8,14 +8,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - joined
         - together
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - junto
           - juntos
-        turkish: beraber
+        turko: beraber
 
 

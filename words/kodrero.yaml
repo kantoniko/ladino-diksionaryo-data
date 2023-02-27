@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: lamb
-        french: ''
-        portuguese: ''
-        spanish: cordero
-        turkish: kuzu
+        inglez: lamb
+        fransez: ''
+        portugez: ''
+        kasteyano: cordero
+        turko: kuzu
 
   - ladino: kodreros
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: lambs
-        french: ''
-        portuguese: ''
-        spanish: corderos
-        turkish: kuzu
+        inglez: lambs
+        fransez: ''
+        portugez: ''
+        kasteyano: corderos
+        turko: kuzu
 
 
 

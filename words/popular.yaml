@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: popular
-        french: ''
-        portuguese: ''
-        spanish: popular
-        turkish: popüler
+        inglez: popular
+        fransez: ''
+        portugez: ''
+        kasteyano: popular
+        turko: popüler
 
   - ladino: populara
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: popular
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: popüler
+        inglez: popular
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: popüler
 
   - ladino: populares
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: popular
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: popular
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
   - ladino: popularas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: popular
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: popular
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 

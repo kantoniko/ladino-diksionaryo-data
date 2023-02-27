@@ -4,11 +4,11 @@ orijen: Jeneral
 versions:
   - ladino: nikochiri
     translations:
-        english: old
-        french: ''
-        portuguese: ''
-        spanish: antiguo
-        turkish:
+        inglez: old
+        fransez: ''
+        portugez: ''
+        kasteyano: antiguo
+        turko:
           - ihtiyar
           - yaşlı
 

@@ -5,11 +5,11 @@ versions:
   - ladino: brodar
 
     translations:
-        english: embroider
-        french: ''
-        portuguese: ''
-        spanish: bordar
-        turkish: nakış işlemek
+        inglez: embroider
+        fransez: ''
+        portugez: ''
+        kasteyano: bordar
+        turko: nakış işlemek
 
 conjugations: {}
 

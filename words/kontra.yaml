@@ -5,12 +5,12 @@ versions:
   - ladino: kontra
 
     translations:
-        english:
+        inglez:
         - against
         - opposite
-        french: ''
-        portuguese: ''
-        spanish: contra
-        turkish: karşı
+        fransez: ''
+        portugez: ''
+        kasteyano: contra
+        turko: karşı
 
 

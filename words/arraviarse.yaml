@@ -6,12 +6,12 @@ versions:
     accented: arraviárse
 
     translations:
-        english: be crossed
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: be crossed
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - enojarse
         - enfadarse con...
-        turkish: darılmak
+        turko: darılmak
 
 conjugations: {}

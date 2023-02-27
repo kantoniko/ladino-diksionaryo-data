@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: madness
-        french: folie
-        portuguese: ''
-        spanish: locura
-        turkish: delilik
+        inglez: madness
+        fransez: folie
+        portugez: ''
+        kasteyano: locura
+        turko: delilik
 
   - ladino: lokuras
     accented: lokúras
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: madnesses
-        french: folie
-        portuguese: ''
-        spanish: locuras
-        turkish: delilik
+        inglez: madnesses
+        fransez: folie
+        portugez: ''
+        kasteyano: locuras
+        turko: delilik
 
 

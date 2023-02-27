@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: decade
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: década
-      turkish: ''
+      inglez: decade
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: década
+      turko: ''
 
   - ladino: dekadas
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: decades
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: décadas
-      turkish: ''
+      inglez: decades
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: décadas
+      turko: ''
 
 

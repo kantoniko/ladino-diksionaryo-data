@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: revolution
-        french: ''
-        portuguese: ''
-        spanish: revolución
-        turkish:
+        inglez: revolution
+        fransez: ''
+        portugez: ''
+        kasteyano: revolución
+        turko:
         - devrim
         - ihtilâl
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: revolutions
-        french: ''
-        portuguese: ''
-        spanish: revoluciónes
-        turkish:
+        inglez: revolutions
+        fransez: ''
+        portugez: ''
+        kasteyano: revoluciónes
+        turko:
         - devrim
         - ihtilâl
 

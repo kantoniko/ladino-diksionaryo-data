@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - annoyance
         - grief
         - trouble
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - enojo
         - aflicción
         - molestía
-        turkish:
+        turko:
         - can sıkıntısı
         - dert
 

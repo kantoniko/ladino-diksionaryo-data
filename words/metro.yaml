@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: subway
-        french: ''
-        portuguese: ''
-        spanish: metro
-        turkish: metro
+        inglez: subway
+        fransez: ''
+        portugez: ''
+        kasteyano: metro
+        turko: metro
 
 

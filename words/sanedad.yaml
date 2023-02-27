@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: health
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: health
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - sanıdad
         - salud
-        turkish: sıhhat
+        turko: sıhhat
 
 

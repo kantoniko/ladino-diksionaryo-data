@@ -6,13 +6,13 @@ versions:
     accented: rengrasiár
 
     translations:
-        english:
+        inglez:
         - thank
         - be thankful
-        french: ''
-        portuguese: ''
-        spanish: agradecer
-        turkish: teşekkür etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: agradecer
+        turko: teşekkür etmek
 
 conjugations: {}
 

@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: button
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: botón
-      turkish: ''
+      inglez: button
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: botón
+      turko: ''
 
   - ladino: botones
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: buttons
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: botones
-      turkish: ''
+      inglez: buttons
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: botones
+      turko: ''
 
 
 

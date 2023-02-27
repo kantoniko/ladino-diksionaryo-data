@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: rose
-        french: ''
-        portuguese: ''
-        spanish: rosa
-        turkish: gül
+        inglez: rose
+        fransez: ''
+        portugez: ''
+        kasteyano: rosa
+        turko: gül
 
   - ladino: rozas
     accented: rózas
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: roses
-        french: ''
-        portuguese: ''
-        spanish: rosas
-        turkish: gül
+        inglez: roses
+        fransez: ''
+        portugez: ''
+        kasteyano: rosas
+        turko: gül
 
 

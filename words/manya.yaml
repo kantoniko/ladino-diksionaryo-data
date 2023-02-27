@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: habit
-        french: ''
-        portuguese: ''
-        spanish: maña
-        turkish:
+        inglez: habit
+        fransez: ''
+        portugez: ''
+        kasteyano: maña
+        turko:
         - huy
         - alışkanlık
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: habits
-        french: ''
-        portuguese: ''
-        spanish: mañas
-        turkish:
+        inglez: habits
+        fransez: ''
+        portugez: ''
+        kasteyano: mañas
+        turko:
         - huy
         - alışkanlık
 

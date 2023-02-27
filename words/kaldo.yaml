@@ -5,11 +5,11 @@ versions:
   - ladino: kaldo
 
     translations:
-        english: gravy
-        french: ''
-        portuguese: ''
-        spanish: caldo
-        turkish:
+        inglez: gravy
+        fransez: ''
+        portugez: ''
+        kasteyano: caldo
+        turko:
         - et
         - yemek suyu
 

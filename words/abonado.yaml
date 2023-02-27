@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: subscriber
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: abonado
-      turkish: ''
+      inglez: subscriber
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: abonado
+      turko: ''
 
   - ladino: abonada
 
@@ -22,12 +22,12 @@ versions:
     number: singular
 
     translations:
-      english: subscriber
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: abonada
-      turkish: ''
+      inglez: subscriber
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: abonada
+      turko: ''
 
   - ladino: abonados
 
@@ -35,12 +35,12 @@ versions:
     number: plural
 
     translations:
-      english: subscriber
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: abonados
-      turkish: ''
+      inglez: subscriber
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: abonados
+      turko: ''
 
   - ladino: abonadas
 
@@ -48,10 +48,10 @@ versions:
     number: plural
 
     translations:
-      english: subscriber
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: abonadas
-      turkish: ''
+      inglez: subscriber
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: abonadas
+      turko: ''
 

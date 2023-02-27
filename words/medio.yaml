@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: middle
-        french: ''
-        portuguese: ''
-        spanish: medio
-        turkish:
+        inglez: middle
+        fransez: ''
+        portugez: ''
+        kasteyano: medio
+        turko:
         - yarım
         - orta
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: middle
-        french: ''
-        portuguese: ''
-        spanish: medios
-        turkish:
+        inglez: middle
+        fransez: ''
+        portugez: ''
+        kasteyano: medios
+        turko:
         - yarım
         - orta
 

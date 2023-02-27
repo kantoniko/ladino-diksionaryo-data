@@ -6,11 +6,11 @@ versions:
     accented: aguzár
 
     translations:
-        english: sharpen
-        french: aiguiser
-        portuguese: afiar
-        spanish: afilar
-        turkish:
+        inglez: sharpen
+        fransez: aiguiser
+        portugez: afiar
+        kasteyano: afilar
+        turko:
           - bilemek
           - bileylemek
 

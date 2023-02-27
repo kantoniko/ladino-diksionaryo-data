@@ -5,11 +5,11 @@ versions:
   - ladino: oportuno
 
     translations:
-        english: opportune
-        french: ''
-        portuguese: ''
-        spanish: oportuno
-        turkish:
+        inglez: opportune
+        fransez: ''
+        portugez: ''
+        kasteyano: oportuno
+        turko:
         - mümkün
         - uygun
 

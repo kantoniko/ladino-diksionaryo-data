@@ -10,11 +10,11 @@ versions:
         accented: aprontár
 
     translations:
-        english: prepare
-        french: préparer
-        portuguese: ''
-        spanish: preparar
-        turkish: hazırlamak
+        inglez: prepare
+        fransez: préparer
+        portugez: ''
+        kasteyano: preparar
+        turko: hazırlamak
 
 
 conjugations: {}

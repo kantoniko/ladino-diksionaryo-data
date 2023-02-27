@@ -6,16 +6,16 @@ versions:
     accented: achileárse
 
     translations:
-        english:
+        inglez:
           - to open
           - to become emancipated
-        french:
+        fransez:
           - s'ouvrir
           - s'émanciper
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - abrirse
           - emanciparse
-        turkish: açılmak
+        turko: açılmak
 
 conjugations: {}

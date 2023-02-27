@@ -5,10 +5,10 @@ versions:
   - ladino: mil
 
     translations:
-        english: thousand
-        french: ''
-        portuguese: ''
-        spanish: mil
-        turkish: bin
+        inglez: thousand
+        fransez: ''
+        portugez: ''
+        kasteyano: mil
+        turko: bin
 
 

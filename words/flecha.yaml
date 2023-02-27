@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: arrow
-        french: ''
-        portuguese: ''
-        spanish: flecha
-        turkish: ok
+        inglez: arrow
+        fransez: ''
+        portugez: ''
+        kasteyano: flecha
+        turko: ok
 
   - ladino: flechas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: arrows
-        french: ''
-        portuguese: ''
-        spanish: flechas
-        turkish: ok
+        inglez: arrows
+        fransez: ''
+        portugez: ''
+        kasteyano: flechas
+        turko: ok
 
 
 

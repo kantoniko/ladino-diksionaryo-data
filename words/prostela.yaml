@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: apron
-        french: tablier
-        portuguese: avental
-        spanish: delantal
-        turkish: önlük
+        inglez: apron
+        fransez: tablier
+        portugez: avental
+        kasteyano: delantal
+        turko: önlük
 
   - ladino: prostelas
     accented: prostélas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: aprons
-        french: tablier
-        portuguese: avental
-        spanish: delantales
-        turkish: önlük
+        inglez: aprons
+        fransez: tablier
+        portugez: avental
+        kasteyano: delantales
+        turko: önlük
 

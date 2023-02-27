@@ -8,18 +8,18 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - celeriac
           - celery root
           - narrow-minded
-        french:
+        fransez:
           - céleri
           - individu borné
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - apio
           - persona de mente estrecha
-        turkish:
+        turko:
           - kereviz
           - dar kafalı
 

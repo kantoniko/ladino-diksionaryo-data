@@ -5,11 +5,11 @@ versions:
   - ladino: asistir
 
     translations:
-        english: assist
-        french: ''
-        portuguese: ''
-        spanish: asistir
-        turkish:
+        inglez: assist
+        fransez: ''
+        portugez: ''
+        kasteyano: asistir
+        turko:
         - hazır bulunmak
         - yardım etmek
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - banner
         - flag
-        french: drapeau
-        portuguese: ''
-        spanish: bandera
-        turkish:
+        fransez: drapeau
+        portugez: ''
+        kasteyano: bandera
+        turko:
         - bandıra
         - sancak
         - bayrak
@@ -25,13 +25,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - banners
         - flags
-        french: drapeaux
-        portuguese: ''
-        spanish: banderas
-        turkish:
+        fransez: drapeaux
+        portugez: ''
+        kasteyano: banderas
+        turko:
         - bandıra
         - sancak
         - bayrak

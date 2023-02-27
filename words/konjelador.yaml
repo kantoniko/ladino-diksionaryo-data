@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: freezer
-        french: ''
-        portuguese: ''
-        spanish: congelador
-        turkish: dondurucu
+        inglez: freezer
+        fransez: ''
+        portugez: ''
+        kasteyano: congelador
+        turko: dondurucu
 
   - ladino: konjeladores
     accented: konjeladóres
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: freezers
-        french: ''
-        portuguese: ''
-        spanish: congeladores
-        turkish: dondurucu
+        inglez: freezers
+        fransez: ''
+        portugez: ''
+        kasteyano: congeladores
+        turko: dondurucu
 
 

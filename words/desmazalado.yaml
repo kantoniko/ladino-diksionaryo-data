@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - misfortunate
         - unlucky
-        french:
+        fransez:
         - malchanceux
         - accablé par le sort
-        portuguese: desafortunado
-        spanish: desdichado
-        turkish:
+        portugez: desafortunado
+        kasteyano: desdichado
+        turko:
         - kısmetsiz
         - talihsiz
 
@@ -26,15 +26,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - misfortunate
         - unlucky
-        french:
+        fransez:
         - malchanceux
         - accablé par le sort
-        portuguese: desafortunada
-        spanish: desdichada
-        turkish:
+        portugez: desafortunada
+        kasteyano: desdichada
+        turko:
         - kısmetsiz
         - talihsiz
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: dramatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: dramático
-      turkish: ''
+      inglez: dramatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: dramático
+      turko: ''
 
   - ladino: dramatika
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: dramatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: dramática
-      turkish: ''
+      inglez: dramatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: dramática
+      turko: ''
 
   - ladino: dramatikos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: dramatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: dramáticos
-      turkish: ''
+      inglez: dramatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: dramáticos
+      turko: ''
 
   - ladino: dramatikas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: dramatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: dramáticas
-      turkish: ''
+      inglez: dramatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: dramáticas
+      turko: ''
 
 
 

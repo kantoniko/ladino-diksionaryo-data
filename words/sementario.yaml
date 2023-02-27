@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cemetery
-        french: ''
-        portuguese: ''
-        spanish: cementerio
-        turkish: mezarlık
+        inglez: cemetery
+        fransez: ''
+        portugez: ''
+        kasteyano: cementerio
+        turko: mezarlık
 
   - ladino: sementarios
 
@@ -26,11 +26,11 @@ versions:
     number: plural
 
     translations:
-        english: cemeteries
-        french: ''
-        portuguese: ''
-        spanish: cementerios
-        turkish: mezarlık
+        inglez: cemeteries
+        fransez: ''
+        portugez: ''
+        kasteyano: cementerios
+        turko: mezarlık
 
 
 

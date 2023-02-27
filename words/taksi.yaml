@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - taxi
         - cab
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: taxi
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: taxi
+      turko: ''
 
   - ladino: taksis
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - taxis
         - cabs
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: taxis
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: taxis
+      turko: ''
 
 
 

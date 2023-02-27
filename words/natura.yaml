@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: nature
-        french: ''
-        portuguese: ''
-        spanish: naturaleza
-        turkish:
+        inglez: nature
+        fransez: ''
+        portugez: ''
+        kasteyano: naturaleza
+        turko:
         - tabiat
         - doğa
 

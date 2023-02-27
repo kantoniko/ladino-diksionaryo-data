@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: boot
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: boot
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: chizmes
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-      english: boots
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: boots
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 

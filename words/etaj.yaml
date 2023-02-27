@@ -8,11 +8,11 @@ versions:
       - ladino: apartamento
 
     translations:
-        english: apartment
-        french: ''
-        portuguese: ''
-        spanish: piso
-        turkish:
+        inglez: apartment
+        fransez: ''
+        portugez: ''
+        kasteyano: piso
+        turko:
           - kat
           - daire
 

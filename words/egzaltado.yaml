@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: exultant
-        french: ''
-        portuguese: ''
-        spanish: ufano
-        turkish: coşkun
+        inglez: exultant
+        fransez: ''
+        portugez: ''
+        kasteyano: ufano
+        turko: coşkun
 
   - ladino: egzaltada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: exultant
-        french: ''
-        portuguese: ''
-        spanish: ufana
-        turkish: coşkun
+        inglez: exultant
+        fransez: ''
+        portugez: ''
+        kasteyano: ufana
+        turko: coşkun
 
   - ladino: egzaltados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: exultants
-        french: ''
-        portuguese: ''
-        spanish: ufanos
-        turkish: coşkun
+        inglez: exultants
+        fransez: ''
+        portugez: ''
+        kasteyano: ufanos
+        turko: coşkun
 
   - ladino: egzaltadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: exultants
-        french: ''
-        portuguese: ''
-        spanish: ufanas
-        turkish: coşkun
+        inglez: exultants
+        fransez: ''
+        portugez: ''
+        kasteyano: ufanas
+        turko: coşkun
 
 
 

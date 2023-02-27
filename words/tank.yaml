@@ -5,12 +5,12 @@ versions:
   - ladino: tank
 
     translations:
-        english: tank
-        french:
+        inglez: tank
+        fransez:
           - tank
           - réservoir
-        portuguese: ''
-        spanish: tanque
-        turkish: tank
+        portugez: ''
+        kasteyano: tanque
+        turko: tank
 
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: field
-        french: ''
-        portuguese: ''
-        spanish: campo
-        turkish: saha
+        inglez: field
+        fransez: ''
+        portugez: ''
+        kasteyano: campo
+        turko: saha
 
   - ladino: kampos
 
@@ -26,10 +26,10 @@ versions:
     number: plural
 
     translations:
-        english: fields
-        french: ''
-        portuguese: ''
-        spanish: campos
-        turkish: ''
+        inglez: fields
+        fransez: ''
+        portugez: ''
+        kasteyano: campos
+        turko: ''
 
 

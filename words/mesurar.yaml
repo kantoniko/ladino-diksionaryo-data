@@ -5,11 +5,11 @@ versions:
   - ladino: mesurar
 
     translations:
-        english: measure
-        french: ''
-        portuguese: ''
-        spanish: medir
-        turkish: ölçmek
+        inglez: measure
+        fransez: ''
+        portugez: ''
+        kasteyano: medir
+        turko: ölçmek
 
 conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: en mizmo tiempo
 
     translations:
-        english: at a time
-        french: ''
-        portuguese: ''
-        spanish: a la vez
-        turkish:
+        inglez: at a time
+        fransez: ''
+        portugez: ''
+        kasteyano: a la vez
+        turko:
         - aynı zamanda
         - birden
 

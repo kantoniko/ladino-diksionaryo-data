@@ -6,13 +6,13 @@ versions:
   - ladino: al
 
     translations:
-        english:
+        inglez:
         - at
         - to
-        french: ''
-        portuguese: ''
-        spanish: al (a el)
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: al (a el)
+        turko:
         - a
         - e
         - ya

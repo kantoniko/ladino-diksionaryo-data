@@ -5,25 +5,25 @@ versions:
   - ladino: pareser
 
     translations:
-        english:
+        inglez:
           - appear
           - seem
-        french: ''
-        portuguese: ''
-        spanish: parecer
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: parecer
+        turko:
           - benzemek
           - andırmak
 
   - ladino: parese
 
     translations:
-        english:
+        inglez:
           - appear to me
           - seem to me
-        french: ''
-        portuguese: ''
-        spanish: me parece
-        turkish: görünüyor
+        fransez: ''
+        portugez: ''
+        kasteyano: me parece
+        turko: görünüyor
 
 

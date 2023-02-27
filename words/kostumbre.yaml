@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - custom
         - habit
-        french: ''
-        portuguese: ''
-        spanish: costumbre
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: costumbre
+        turko:
         - örf
         - âdet
         - töre
@@ -29,13 +29,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - customs
         - habits
-        french: ''
-        portuguese: ''
-        spanish: costumbres
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: costumbres
+        turko:
         - örf
         - âdet
         - töre

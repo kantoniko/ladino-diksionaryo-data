@@ -5,11 +5,11 @@ versions:
   - ladino: aver
 
     translations:
-        english: have
-        french: avoir
-        portuguese: ''
-        spanish: haber
-        turkish: olmak
+        inglez: have
+        fransez: avoir
+        portugez: ''
+        kasteyano: haber
+        turko: olmak
 
 conjugations: {}
 

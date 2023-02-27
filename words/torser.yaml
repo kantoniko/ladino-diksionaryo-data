@@ -6,15 +6,15 @@ versions:
     accented: torsér
 
     translations:
-        english:
+        inglez:
         - distort
         - twist
-        french:
+        fransez:
         - tordre
         - fouler
-        portuguese: ''
-        spanish: retorcer
-        turkish: burkmak
+        portugez: ''
+        kasteyano: retorcer
+        turko: burkmak
 
 conjugations: {}
 

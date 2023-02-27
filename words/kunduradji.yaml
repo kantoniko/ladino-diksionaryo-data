@@ -12,13 +12,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - cobbler
         - shoe-maker
-        french: ''
-        portuguese: ''
-        spanish: zapatero
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: zapatero
+        turko:
         - kunduracı
         - ayakkabıcı
 

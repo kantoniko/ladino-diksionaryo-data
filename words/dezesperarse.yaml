@@ -4,11 +4,11 @@ versions:
   - ladino: dezesperarse
 
     translations:
-        english: despair
-        french: ''
-        portuguese: ''
-        spanish: desesperarse
-        turkish: umutsuzluğa kapılmak
+        inglez: despair
+        fransez: ''
+        portugez: ''
+        kasteyano: desesperarse
+        turko: umutsuzluğa kapılmak
 
 conjugations: {}
 

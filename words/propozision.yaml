@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: proposition
-        french: ''
-        portuguese: ''
-        spanish: proposición
-        turkish: teklif
+        inglez: proposition
+        fransez: ''
+        portugez: ''
+        kasteyano: proposición
+        turko: teklif
 
   - ladino: propozisiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: propositions
-        french: ''
-        portuguese: ''
-        spanish: proposiciónes
-        turkish: teklif
+        inglez: propositions
+        fransez: ''
+        portugez: ''
+        kasteyano: proposiciónes
+        turko: teklif
 
 
 

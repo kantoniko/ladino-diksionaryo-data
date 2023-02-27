@@ -6,15 +6,15 @@ versions:
     accented: enshaguár
 
     translations:
-        english:
+        inglez:
         - rinse
         - wash
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - enjuagar
         - lavar
-        turkish:
+        turko:
         - çalkalamak
         - yıkamak
 

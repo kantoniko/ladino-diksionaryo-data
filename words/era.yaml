@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - era
         - age
-        french: ''
-        portuguese: ''
-        spanish: era
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: era
+        turko:
         - devir
         - çağ
 

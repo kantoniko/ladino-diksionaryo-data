@@ -8,11 +8,11 @@ versions:
       - ladino: informar
 
     translations:
-        english: inform
-        french: ''
-        portuguese: ''
-        spanish: enterar
-        turkish:
+        inglez: inform
+        fransez: ''
+        portugez: ''
+        kasteyano: enterar
+        turko:
         - bildirmek
         - haber vermek
 

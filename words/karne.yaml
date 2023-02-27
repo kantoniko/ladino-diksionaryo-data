@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: meat
-        french: viande
-        portuguese: carne
-        spanish: carne
-        turkish: et
+        inglez: meat
+        fransez: viande
+        portugez: carne
+        kasteyano: carne
+        turko: et
 

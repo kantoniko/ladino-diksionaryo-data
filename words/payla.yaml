@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - large  pan
         - basin
-        french: ''
-        portuguese: ''
-        spanish: paila
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: paila
+        turko:
         - leğen
         - büyük kap
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - large  pans
         - basins
-        french: ''
-        portuguese: ''
-        spanish: pailas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: pailas
+        turko:
         - leğen
         - büyük kap
 

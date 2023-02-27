@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: likeness
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: semejanza
-      turkish: ''
+      inglez: likeness
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: semejanza
+      turko: ''
 
   - ladino: semejansas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: likenesses
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: semejanzas
-      turkish: ''
+      inglez: likenesses
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: semejanzas
+      turko: ''
 
 
 

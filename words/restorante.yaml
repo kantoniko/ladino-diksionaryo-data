@@ -12,11 +12,11 @@ versions:
       - ladino: restoran
 
     translations:
-        english: restaurant
-        french: ''
-        portuguese: ''
-        spanish: restaurante
-        turkish: lokanta
+        inglez: restaurant
+        fransez: ''
+        portugez: ''
+        kasteyano: restaurante
+        turko: lokanta
 
   - ladino: restorantes
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: restaurants
-        french: ''
-        portuguese: ''
-        spanish: restaurantes
-        turkish: lokanta
+        inglez: restaurants
+        fransez: ''
+        portugez: ''
+        kasteyano: restaurantes
+        turko: lokanta
 
 
 

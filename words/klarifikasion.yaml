@@ -11,12 +11,12 @@ versions:
       - ladino: klarifikasyon
 
     translations:
-      english: clarification
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: clarificación
-      turkish: ''
+      inglez: clarification
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: clarificación
+      turko: ''
 
   - ladino: klarifikasiones
 
@@ -27,11 +27,11 @@ versions:
       - ladino: klarifikasyones
 
     translations:
-      english: clarifications
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: clarificaciones
-      turkish: ''
+      inglez: clarifications
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: clarificaciones
+      turko: ''
 
 

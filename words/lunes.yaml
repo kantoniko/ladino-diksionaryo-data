@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: Monday
-        french: ''
-        hebrew:
+        inglez: Monday
+        fransez: ''
+        ebreo:
           - יום שני
           - יום ב
-        portuguese: ''
-        spanish: lunes
-        turkish: Pazartesi
+        portugez: ''
+        kasteyano: lunes
+        turko: Pazartesi
 
 

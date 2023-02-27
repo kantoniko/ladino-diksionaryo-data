@@ -5,12 +5,12 @@ versions:
   - ladino: en raporto a
 
     translations:
-        english: in respect to
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: in respect to
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - respecto a
           - respecto de
-        turkish: göre
+        turko: göre
 
 

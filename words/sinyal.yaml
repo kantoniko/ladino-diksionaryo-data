@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - sign
         - mark
-        french: ''
-        portuguese: ''
-        spanish: señal
-        turkish: işaret
+        fransez: ''
+        portugez: ''
+        kasteyano: señal
+        turko: işaret
 
   - ladino: sinyales
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - signs
         - marks
-        french: ''
-        portuguese: ''
-        spanish: señales
-        turkish: işaret
+        fransez: ''
+        portugez: ''
+        kasteyano: señales
+        turko: işaret
 
 
 

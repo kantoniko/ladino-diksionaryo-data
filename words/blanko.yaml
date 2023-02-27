@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: white
-        french: blanc
-        portuguese: branco
-        spanish: blanco
-        turkish: beyaz
+        inglez: white
+        fransez: blanc
+        portugez: branco
+        kasteyano: blanco
+        turko: beyaz
 
   - ladino: blanka
     accented: blánka
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: white
-        french: blanc
-        portuguese: branca
-        spanish: blanca
-        turkish: beyaz
+        inglez: white
+        fransez: blanc
+        portugez: branca
+        kasteyano: blanca
+        turko: beyaz
 
   - ladino: blankos
     accented: blánkos
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: white
-        french: blanc
-        portuguese: branco
-        spanish: blancos
-        turkish: beyaz
+        inglez: white
+        fransez: blanc
+        portugez: branco
+        kasteyano: blancos
+        turko: beyaz
 
   - ladino: blankas
     accented: blánkas
@@ -46,9 +46,9 @@ versions:
     number: plural
 
     translations:
-        english: white
-        french: blanc
-        portuguese: branca
-        spanish: blancas
-        turkish: beyaz
+        inglez: white
+        fransez: blanc
+        portugez: branca
+        kasteyano: blancas
+        turko: beyaz
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: synagogue
-        french: ''
-        portuguese: ''
-        spanish: sinagoga
-        turkish:
+        inglez: synagogue
+        fransez: ''
+        portugez: ''
+        kasteyano: sinagoga
+        turko:
         - sinagog
         - havra
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: synagogues
-        french: ''
-        portuguese: ''
-        spanish: sinagogas
-        turkish:
+        inglez: synagogues
+        fransez: ''
+        portugez: ''
+        kasteyano: sinagogas
+        turko:
         - sinagog
         - havra
 

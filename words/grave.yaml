@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - grave
         - serious
-        french: ''
-        portuguese: ''
-        spanish: grave
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: grave
+        turko:
         - vahim
         - ciddî
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - graves
         - serious
-        french: ''
-        portuguese: ''
-        spanish: graves
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: graves
+        turko:
         - vahim
         - ciddî
 

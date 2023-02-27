@@ -5,11 +5,11 @@ versions:
   - ladino: nadar
 
     translations:
-        english: swim
-        french: ''
-        portuguese: ''
-        spanish: nadar
-        turkish: yüzmek
+        inglez: swim
+        fransez: ''
+        portugez: ''
+        kasteyano: nadar
+        turko: yüzmek
 
 conjugations: {}
 

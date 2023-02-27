@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english: healthy
-        french:
+        inglez: healthy
+        fransez:
         - sain
         - en bonne santé
-        portuguese: são
-        spanish:
+        portugez: são
+        kasteyano:
         - sano
         - saludable
-        turkish:
+        turko:
         - sıhhatli
         - sağlıklı
 
@@ -28,15 +28,15 @@ versions:
     number: singular
 
     translations:
-        english: healthy
-        french:
+        inglez: healthy
+        fransez:
         - sain
         - en bonne santé
-        portuguese: são
-        spanish:
+        portugez: são
+        kasteyano:
         - sana
         - saludabla
-        turkish:
+        turko:
         - sıhhatli
         - sağlıklı
 
@@ -47,15 +47,15 @@ versions:
     number: plural
 
     translations:
-        english: healthy
-        french:
+        inglez: healthy
+        fransez:
         - sain
         - en bonne santé
-        portuguese: são
-        spanish:
+        portugez: são
+        kasteyano:
         - sanos
         - saludables
-        turkish:
+        turko:
         - sıhhatli
         - sağlıklı
 
@@ -66,15 +66,15 @@ versions:
     number: plural
 
     translations:
-        english: healthy
-        french:
+        inglez: healthy
+        fransez:
         - sain
         - en bonne santé
-        portuguese: são
-        spanish:
+        portugez: são
+        kasteyano:
         - sanas
         - saludablas
-        turkish:
+        turko:
         - sıhhatli
         - sağlıklı
 

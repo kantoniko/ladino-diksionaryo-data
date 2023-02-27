@@ -5,13 +5,13 @@ versions:
   - ladino: ovligar
 
     translations:
-        english:
+        inglez:
         - force
         - compel
-        french: ''
-        portuguese: ''
-        spanish: obligar
-        turkish: mecbur etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: obligar
+        turko: mecbur etmek
 
 conjugations: {}
 

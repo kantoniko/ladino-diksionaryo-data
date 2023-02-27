@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: commander
-        french: ''
-        portuguese: ''
-        spanish: comandante
-        turkish: kumandan
+        inglez: commander
+        fransez: ''
+        portugez: ''
+        kasteyano: comandante
+        turko: kumandan
 
   - ladino: komandantes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: commanders
-        french: ''
-        portuguese: ''
-        spanish: comandantes
-        turkish: kumandan
+        inglez: commanders
+        fransez: ''
+        portugez: ''
+        kasteyano: comandantes
+        turko: kumandan
 
 
 

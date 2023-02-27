@@ -5,11 +5,11 @@ versions:
   - ladino: devorar
 
     translations:
-        english: devour
-        french: ''
-        portuguese: ''
-        spanish: devorar
-        turkish: yiyip yutmak
+        inglez: devour
+        fransez: ''
+        portugez: ''
+        kasteyano: devorar
+        turko: yiyip yutmak
 
 conjugations: {}
 

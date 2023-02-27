@@ -6,14 +6,14 @@ versions:
     accented: écha
 
     translations:
-        english: accomplished action
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: accomplished action
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - hecho
         - acto
         - acción realizada
-        turkish:
+        turko:
         - bitmiş iş
         - yapılmış iş
 

@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - roasted chick pea
         - white
-        french: ''
-        portuguese: ''
-        spanish: garbanzo tostado blanco
-        turkish: beyaz leblebi
+        fransez: ''
+        portugez: ''
+        kasteyano: garbanzo tostado blanco
+        turko: beyaz leblebi
 
 

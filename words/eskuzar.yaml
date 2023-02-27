@@ -5,13 +5,13 @@ versions:
   - ladino: eskuzar
 
     translations:
-        english: excuse
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: excuse
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - excusar
         - disculpar
-        turkish: mazur görmek
+        turko: mazur görmek
 
 conjugations: {}
 

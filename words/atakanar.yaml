@@ -6,15 +6,15 @@ versions:
     accented: atakanár
 
     translations:
-        english:
+        inglez:
           - arrange
           - put in order
-        french: arranger
-        portuguese: ajeitar
-        spanish:
+        fransez: arranger
+        portugez: ajeitar
+        kasteyano:
           - areglar
           - ajustar
           - ordenar
-        turkish: düzeltmek
+        turko: düzeltmek
 
 conjugations: {}

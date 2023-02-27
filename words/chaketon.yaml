@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: slap
-        french: ''
-        portuguese: ''
-        spanish: bofetón
-        turkish:
+        inglez: slap
+        fransez: ''
+        portugez: ''
+        kasteyano: bofetón
+        turko:
         - sille
         - tokat
 

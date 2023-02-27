@@ -9,15 +9,15 @@ versions:
 
 
     translations:
-      english:
+      inglez:
         - navigate
         - sail
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - להפליג
         - לנווט
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

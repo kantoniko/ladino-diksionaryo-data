@@ -5,12 +5,12 @@ versions:
   - ladino: arba
 
     translations:
-        english:
+        inglez:
         - eve
         - day before
-        french: ''
-        portuguese: ''
-        spanish: víspera
-        turkish: arife
+        fransez: ''
+        portugez: ''
+        kasteyano: víspera
+        turko: arife
 
 

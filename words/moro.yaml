@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: Moorish
-        french: ''
-        portuguese: ''
-        spanish: moro
-        turkish: Mağrıbî
+        inglez: Moorish
+        fransez: ''
+        portugez: ''
+        kasteyano: moro
+        turko: Mağrıbî
 
   - ladino: mora
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: Moorish
-        french: ''
-        portuguese: ''
-        spanish: mora
-        turkish: Mağrıbî
+        inglez: Moorish
+        fransez: ''
+        portugez: ''
+        kasteyano: mora
+        turko: Mağrıbî
 
   - ladino: moros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: Moorish
-        french: ''
-        portuguese: ''
-        spanish: moros
-        turkish: Mağrıbî
+        inglez: Moorish
+        fransez: ''
+        portugez: ''
+        kasteyano: moros
+        turko: Mağrıbî
 
   - ladino: moras
 
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: Moorish
-        french: ''
-        portuguese: ''
-        spanish: moras
-        turkish: Mağrıbî
+        inglez: Moorish
+        fransez: ''
+        portugez: ''
+        kasteyano: moras
+        turko: Mağrıbî
 

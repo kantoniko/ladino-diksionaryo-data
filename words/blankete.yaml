@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - soap
         - coal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - jabón
         - carbón
-      turkish: ''
+      turko: ''
 
 

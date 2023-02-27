@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: fortune-teller
-        french:
+        inglez: fortune-teller
+        fransez:
           - diseur
           - diseuse de bonne aventure
-        portuguese: adivinho
-        spanish: adivino
-        turkish: falcı
+        portugez: adivinho
+        kasteyano: adivino
+        turko: falcı
 
   - ladino: endevina
     accented: endevína
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: fortune-teller
-        french:
+        inglez: fortune-teller
+        fransez:
           - diseur
           - diseuse de bonne aventure
-        portuguese: adivinha
-        spanish: adivina
-        turkish: falcı
+        portugez: adivinha
+        kasteyano: adivina
+        turko: falcı
 
   - ladino: endevinos
     accented: endevínos
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: fortune-tellers
-        french:
+        inglez: fortune-tellers
+        fransez:
           - diseur
           - diseuse de bonne aventure
-        portuguese: adivinhos
-        spanish: adivinos
-        turkish: falcı
+        portugez: adivinhos
+        kasteyano: adivinos
+        turko: falcı
 
   - ladino: endevinas
     accented: endevínas
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: fortune-tellers
-        french:
+        inglez: fortune-tellers
+        fransez:
           - diseur
           - diseuse de bonne aventure
-        portuguese: adivinhas
-        spanish: adivinas
-        turkish: falcı
+        portugez: adivinhas
+        kasteyano: adivinas
+        turko: falcı
 

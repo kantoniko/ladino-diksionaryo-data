@@ -14,11 +14,11 @@ versions:
 
 
     translations:
-        english: Jew
-        french: ''
-        portuguese: ''
-        spanish: judío
-        turkish:
+        inglez: Jew
+        fransez: ''
+        portugez: ''
+        kasteyano: judío
+        turko:
           - yahudi
           - musevi
 
@@ -28,11 +28,11 @@ versions:
     number: singular
 
     translations:
-        english: Jew
-        french: ''
-        portuguese: ''
-        spanish: judía
-        turkish:
+        inglez: Jew
+        fransez: ''
+        portugez: ''
+        kasteyano: judía
+        turko:
           - yahudi
           - musevi
 
@@ -42,11 +42,11 @@ versions:
     number: plural
 
     translations:
-        english: Jews
-        french: ''
-        portuguese: ''
-        spanish: judíos
-        turkish: yahudıler
+        inglez: Jews
+        fransez: ''
+        portugez: ''
+        kasteyano: judíos
+        turko: yahudıler
 
   - ladino: djudias
 
@@ -54,10 +54,10 @@ versions:
     number: plural
 
     translations:
-        english: Jews
-        french: ''
-        portuguese: ''
-        spanish: judías
-        turkish: yahudıler
+        inglez: Jews
+        fransez: ''
+        portugez: ''
+        kasteyano: judías
+        turko: yahudıler
 
 

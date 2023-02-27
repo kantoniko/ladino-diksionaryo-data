@@ -5,13 +5,13 @@ versions:
   - ladino: tablo
 
     translations:
-        english:
+        inglez:
         - picture
         - painting
-        french: tableau
-        portuguese: ''
-        spanish: pintura
-        turkish:
+        fransez: tableau
+        portugez: ''
+        kasteyano: pintura
+        turko:
         - resim
         - tablo
 

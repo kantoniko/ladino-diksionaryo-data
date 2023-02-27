@@ -5,11 +5,11 @@ versions:
   - ladino: kontemplar
 
     translations:
-        english: contemplate
-        french: ''
-        portuguese: ''
-        spanish: contemplar
-        turkish: seyretmek
+        inglez: contemplate
+        fransez: ''
+        portugez: ''
+        kasteyano: contemplar
+        turko: seyretmek
 
 conjugations: {}
 

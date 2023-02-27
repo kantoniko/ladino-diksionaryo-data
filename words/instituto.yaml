@@ -6,11 +6,11 @@ versions:
     accented: institúto
 
     translations:
-        english: institute
-        french: ''
-        portuguese: ''
-        spanish: instituto
-        turkish:
+        inglez: institute
+        fransez: ''
+        portugez: ''
+        kasteyano: instituto
+        turko:
         - enstitü
         - müessese
 
@@ -18,11 +18,11 @@ versions:
     accented: institútos
 
     translations:
-        english: institutes
-        french: ''
-        portuguese: ''
-        spanish: institutos
-        turkish:
+        inglez: institutes
+        fransez: ''
+        portugez: ''
+        kasteyano: institutos
+        turko:
         - enstitü
         - müessese
 

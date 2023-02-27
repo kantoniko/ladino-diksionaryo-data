@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: the
-        french: il
-        portuguese: o
-        spanish: el
-        turkish: ''
+        inglez: the
+        fransez: il
+        portugez: o
+        kasteyano: el
+        turko: ''
 
   - ladino: los
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: the
-        french: les
-        portuguese: os
-        spanish: los
-        turkish: ''
+        inglez: the
+        fransez: les
+        portugez: os
+        kasteyano: los
+        turko: ''
 
 
 

@@ -5,54 +5,54 @@ versions:
   - ladino: propozar
 
     translations:
-        english: propose
-        french: ''
-        portuguese: ''
-        spanish: proponer
-        turkish: teklif etmek
+        inglez: propose
+        fransez: ''
+        portugez: ''
+        kasteyano: proponer
+        turko: teklif etmek
 
   - ladino: propozo
     translations:
-      english: proposed
+      inglez: proposed
 
 conjugations:
   prezente:
     yo:
       ladino: propozo
       translations:
-        english: propose
-        spanish: propongo
-        turkish: mal sahibi
+        inglez: propose
+        kasteyano: propongo
+        turko: mal sahibi
 
     tu:
       ladino: propozas
       translations:
-        english: propose
-        spanish: propones
+        inglez: propose
+        kasteyano: propones
 
     el:
       ladino: propoza
       translations:
-        english: proposes
-        spanish: propone
+        inglez: proposes
+        kasteyano: propone
 
     mozotros:
       ladino: propozamos
       translations:
-        english: propose
-        spanish: proponemos
+        inglez: propose
+        kasteyano: proponemos
 
     vozotros:
       ladino: propozash
       translations:
-        english: propose
-        spanish: proponéis
+        inglez: propose
+        kasteyano: proponéis
 
     eyos:
       ladino: propozan
       translations:
-        english: propose
-        spanish: proponen
+        inglez: propose
+        kasteyano: proponen
 
 
 

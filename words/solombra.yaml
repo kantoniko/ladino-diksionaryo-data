@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: shadow
-        french: ''
-        portuguese: ''
-        spanish: sombra
-        turkish: gölge
+        inglez: shadow
+        fransez: ''
+        portugez: ''
+        kasteyano: sombra
+        turko: gölge
 
   - ladino: solombras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: shadows
-        french: ''
-        portuguese: ''
-        spanish: sombras
-        turkish: gölge
+        inglez: shadows
+        fransez: ''
+        portugez: ''
+        kasteyano: sombras
+        turko: gölge
 
 
 

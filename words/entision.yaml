@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: intention
-        french: ''
-        portuguese: ''
-        spanish: intención
-        turkish: maksat
+        inglez: intention
+        fransez: ''
+        portugez: ''
+        kasteyano: intención
+        turko: maksat
 
   - ladino: entisiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: intentions
-        french: ''
-        portuguese: ''
-        spanish: intenciónes
-        turkish: maksat
+        inglez: intentions
+        fransez: ''
+        portugez: ''
+        kasteyano: intenciónes
+        turko: maksat
 
 
 

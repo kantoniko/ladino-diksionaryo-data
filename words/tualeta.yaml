@@ -13,11 +13,11 @@ versions:
       - ladino: tualet
 
     translations:
-        english: water closet
-        french: ''
-        portuguese: ''
-        spanish: wáter
-        turkish: tualet
+        inglez: water closet
+        fransez: ''
+        portugez: ''
+        kasteyano: wáter
+        turko: tualet
 
   - ladino: tualetas
 
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: water closet
-        french: ''
-        portuguese: ''
-        spanish: wáter
-        turkish: tualet
+        inglez: water closet
+        fransez: ''
+        portugez: ''
+        kasteyano: wáter
+        turko: tualet
 
 
 

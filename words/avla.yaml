@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - speech
         - language
         - dialect
-        french: parole
-        portuguese: ''
-        spanish: habla
-        turkish:
+        fransez: parole
+        portugez: ''
+        kasteyano: habla
+        turko:
         - konuşma
         - laf
         - dil
@@ -29,14 +29,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - speeches
         - languages
         - dialects
-        french: paroles
-        portuguese: ''
-        spanish: hablas
-        turkish:
+        fransez: paroles
+        portugez: ''
+        kasteyano: hablas
+        turko:
         - konuşma
         - laf
         - dil

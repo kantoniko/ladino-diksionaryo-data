@@ -5,16 +5,16 @@ versions:
   - ladino: bonora
 
     translations:
-        english:
+        inglez:
         - happiness
         - luck
         - good fortune
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - buena hora
         - buena suerte
-        turkish:
+        turko:
         - mutluluk
         - talih
 

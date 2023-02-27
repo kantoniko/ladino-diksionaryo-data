@@ -5,12 +5,12 @@ versions:
   - ladino: reokupar
 
     translations:
-      english: reoccupy
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: volver a ocupar
-      turkish: ''
+      inglez: reoccupy
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: volver a ocupar
+      turko: ''
 
 conjugations: {}
 

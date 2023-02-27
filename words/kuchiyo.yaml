@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: knife
-        french: ''
-        portuguese: ''
-        spanish: cuchillo
-        turkish: bıçak
+        inglez: knife
+        fransez: ''
+        portugez: ''
+        kasteyano: cuchillo
+        turko: bıçak
 
   - ladino: kuchiyos
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: knifes
-        french: ''
-        portuguese: ''
-        spanish: cuchillos
-        turkish: bıçak
+        inglez: knifes
+        fransez: ''
+        portugez: ''
+        kasteyano: cuchillos
+        turko: bıçak
 
 
 

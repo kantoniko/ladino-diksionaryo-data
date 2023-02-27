@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: player
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: jugador
-      turkish: oyuncu
+      inglez: player
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: jugador
+      turko: oyuncu
 
   - ladino: djugadora
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: player
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: jugadora
-      turkish: oyuncu
+      inglez: player
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: jugadora
+      turko: oyuncu
 
   - ladino: djugadores
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: players
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: jugadores
-      turkish: oyuncular
+      inglez: players
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: jugadores
+      turko: oyuncular
 
   - ladino: djugadoras
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: players
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: jugadoras
-      turkish: oyuncular
+      inglez: players
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: jugadoras
+      turko: oyuncular
 
 
 

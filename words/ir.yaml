@@ -5,16 +5,16 @@ versions:
   - ladino: ir
 
     translations:
-        english:
+        inglez:
           - go
           - march
           - suit
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - ir
           - marchar
-        turkish:
+        turko:
           - gitmek
           - yakışmak
 
@@ -23,75 +23,75 @@ conjugations:
     yo:
       ladino: vo
       translations:
-        english: go
-        spanish: voy
+        inglez: go
+        kasteyano: voy
 
     tu:
       ladino: vas
       translations:
-        english: go
-        spanish: vas
+        inglez: go
+        kasteyano: vas
 
     el:
       ladino: va
       translations:
-        english: goes
-        spanish: va
+        inglez: goes
+        kasteyano: va
 
     mozotros:
       ladino: vamos
       translations:
-        english: go
-        spanish: vamos
+        inglez: go
+        kasteyano: vamos
 
     vozotros:
       ladino: vash
       translations:
-        english: go
-        spanish: vais
+        inglez: go
+        kasteyano: vais
 
     eyos:
       ladino: van
       translations:
-        english: go
-        spanish: van
+        inglez: go
+        kasteyano: van
 
   imperfekto:
     yo:
       ladino: iva
       translations:
-        english: I was going
-        spanish: iba
+        inglez: I was going
+        kasteyano: iba
 
     tu:
       ladino: ivas
       translations:
-        english: you were going
-        spanish: ibas
+        inglez: you were going
+        kasteyano: ibas
 
     el:
       ladino: iva
       translations:
-        english: he was going
-        spanish: iba
+        inglez: he was going
+        kasteyano: iba
 
     mozotros:
       ladino: ívamos
       translations:
-        english: we were going
-        spanish: ibamos
+        inglez: we were going
+        kasteyano: ibamos
 
     vozotros:
       ladino: ivash
       translations:
-        english: you were going
-        spanish: ibais
+        inglez: you were going
+        kasteyano: ibais
 
     eyos:
       ladino: ivan
       translations:
-        english: they were going
-        spanish: iban
+        inglez: they were going
+        kasteyano: iban
 
   pasado:
     yo:
@@ -99,48 +99,48 @@ conjugations:
       alternative-spelling:
         - ladino: hui
       translations:
-        english: was
-        spanish: fui
+        inglez: was
+        kasteyano: fui
 
     tu:
       ladino: fuites
       alternative-spelling:
         - ladino: huites
       translations:
-        english: were
-        spanish: fuiste
+        inglez: were
+        kasteyano: fuiste
 
     el:
       ladino: fue
       alternative-spelling:
         - ladino: hue
       translations:
-        english: was
-        spanish: fue
+        inglez: was
+        kasteyano: fue
 
     mozotros:
       ladino: fuimos
       alternative-spelling:
         - ladino: huimos
       translations:
-        english: were
-        spanish: fuimos
+        inglez: were
+        kasteyano: fuimos
 
     vozotros:
       ladino: fuitesh
       alternative-spelling:
         - ladino: huitesh
       translations:
-        english: were
-        spanish: fuites
+        inglez: were
+        kasteyano: fuites
 
     eyos:
       ladino: fueron
       alternative-spelling:
         - ladino: hueron
       translations:
-        english: were
-        spanish: fueron
+        inglez: were
+        kasteyano: fueron
 
 
 

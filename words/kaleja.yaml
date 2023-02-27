@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: street
-        french: ''
-        portuguese: ''
-        spanish: calleja
-        turkish: sokak
+        inglez: street
+        fransez: ''
+        portugez: ''
+        kasteyano: calleja
+        turko: sokak
 
   - ladino: kalejas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: streets
-        french: ''
-        portuguese: ''
-        spanish: callejas
-        turkish: sokak
+        inglez: streets
+        fransez: ''
+        portugez: ''
+        kasteyano: callejas
+        turko: sokak
 
 
 

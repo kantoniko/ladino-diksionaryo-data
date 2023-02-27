@@ -5,11 +5,11 @@ versions:
   - ladino: echarse
 
     translations:
-        english: lie down
-        french: ''
-        portuguese: ''
-        spanish: echarse
-        turkish: yatmak
+        inglez: lie down
+        fransez: ''
+        portugez: ''
+        kasteyano: echarse
+        turko: yatmak
 
 conjugations: {}
 

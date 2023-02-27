@@ -5,15 +5,15 @@ versions:
   - ladino: inchir
 
     translations:
-        english:
+        inglez:
         - fill
         - stuff
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - llenar
         - rellenar
-        turkish: doldurmak
+        turko: doldurmak
 
 conjugations: {}
 

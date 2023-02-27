@@ -5,13 +5,13 @@ versions:
   - ladino: deshar
 
     translations:
-        english:
+        inglez:
         - leave
         - abandon
-        french: ''
-        portuguese: ''
-        spanish: dejar
-        turkish: bırakmak
+        fransez: ''
+        portugez: ''
+        kasteyano: dejar
+        turko: bırakmak
 
 conjugations: {}
 

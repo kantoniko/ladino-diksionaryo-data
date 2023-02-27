@@ -5,11 +5,11 @@ versions:
   - ladino: arrematar
 
     translations:
-        english: finish off
-        french: ''
-        portuguese: ''
-        spanish: rematar
-        turkish: bitirmek
+        inglez: finish off
+        fransez: ''
+        portugez: ''
+        kasteyano: rematar
+        turko: bitirmek
 
 conjugations: {}
 

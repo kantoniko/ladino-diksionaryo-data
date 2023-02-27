@@ -9,13 +9,13 @@ versions:
     accented: djárro
 
     translations:
-        english: jug
-        french:
+        inglez: jug
+        fransez:
         - jarre
         - broc
-        portuguese: jarro
-        spanish: jarro
-        turkish:
+        portugez: jarro
+        kasteyano: jarro
+        turko:
         - maşrapa
         - bakraç
 
@@ -23,11 +23,11 @@ versions:
     accented: djárros
 
     translations:
-        english: jugs
-        french: ''
-        portuguese: jarros
-        spanish: jarros
-        turkish: ''
+        inglez: jugs
+        fransez: ''
+        portugez: jarros
+        kasteyano: jarros
+        turko: ''
 
 
 

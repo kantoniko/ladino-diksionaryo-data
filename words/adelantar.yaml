@@ -6,16 +6,16 @@ versions:
     accented: adelantár
 
     translations:
-        english:
+        inglez:
           - advance
           - make progress
           - be fast (clock)
-        french:
+        fransez:
           - avancer
           - faire progresser
-        portuguese: avançar
-        spanish: adelantar
-        turkish:
+        portugez: avançar
+        kasteyano: adelantar
+        turko:
           - ilerlemek
           - ilerlemek (saat)
           - ilerletmek
@@ -25,43 +25,43 @@ conjugations:
     yo:
       ladino: adelanto
       translations:
-        english: advance
-        spanish: adelanto
+        inglez: advance
+        kasteyano: adelanto
 
     tu:
       ladino: adelantas
       translations:
-        english: advance
-        spanish: adelantas
+        inglez: advance
+        kasteyano: adelantas
 
     el:
       ladino: adelanta
       translations:
-        english: advances
-        spanish: adelanta
+        inglez: advances
+        kasteyano: adelanta
 
     mozotros:
       ladino: adelantamos
       translations:
-        english: advance
-        spanish: adelantamos
+        inglez: advance
+        kasteyano: adelantamos
 
     vozotros:
       ladino: adelantash
       translations:
-        english: advance
-        spanish: adelantáis
+        inglez: advance
+        kasteyano: adelantáis
 
     eyos:
       ladino: adelantan
       translations:
-        english: advance
-        spanish: adelantan
+        inglez: advance
+        kasteyano: adelantan
 
   pasado:
     mozotros:
       ladino: adelantimos
       translations:
-        english: advance
+        inglez: advance
 
 

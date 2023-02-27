@@ -5,11 +5,11 @@ versions:
   - ladino: asentador
 
     translations:
-        english: seat
-        french: ''
-        portuguese: ''
-        spanish: asiento
-        turkish:
+        inglez: seat
+        fransez: ''
+        portugez: ''
+        kasteyano: asiento
+        turko:
         - oturacak
         - sandalye
 

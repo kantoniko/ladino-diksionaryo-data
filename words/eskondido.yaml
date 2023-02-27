@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: hidden
-        french: ''
-        portuguese: ''
-        spanish: escondido
-        turkish: saklı
+        inglez: hidden
+        fransez: ''
+        portugez: ''
+        kasteyano: escondido
+        turko: saklı
 
   - ladino: eskondida
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: hidden
-        french: ''
-        portuguese: ''
-        spanish: escondida
-        turkish: saklı
+        inglez: hidden
+        fransez: ''
+        portugez: ''
+        kasteyano: escondida
+        turko: saklı
 
   - ladino: eskondidos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: hidden
-        french: ''
-        portuguese: ''
-        spanish: escondidos
-        turkish: gizlenmişler
+        inglez: hidden
+        fransez: ''
+        portugez: ''
+        kasteyano: escondidos
+        turko: gizlenmişler
 
   - ladino: eskondidas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: hidden
-        french: ''
-        portuguese: ''
-        spanish: escondidas
-        turkish: gizlenmişler
+        inglez: hidden
+        fransez: ''
+        portugez: ''
+        kasteyano: escondidas
+        turko: gizlenmişler
 
 

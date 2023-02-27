@@ -5,12 +5,12 @@ versions:
   - ladino: regresar
 
     translations:
-      english: return
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: regresa
-      turkish: geri vermek
+      inglez: return
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: regresa
+      turko: geri vermek
 
 conjugations: {}
 

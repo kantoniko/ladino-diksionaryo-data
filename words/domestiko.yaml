@@ -12,11 +12,11 @@ versions:
         accented: de kaza
 
     translations:
-        english: domestic
-        french: domestique
-        portuguese: ''
-        spanish: domestico
-        turkish:
+        inglez: domestic
+        fransez: domestique
+        portugez: ''
+        kasteyano: domestico
+        turko:
         - evle ilgili
         - evcil
 
@@ -26,11 +26,11 @@ versions:
     number: singular
 
     translations:
-        english: domestic
-        french: domestique
-        portuguese: ''
-        spanish: domestica
-        turkish:
+        inglez: domestic
+        fransez: domestique
+        portugez: ''
+        kasteyano: domestica
+        turko:
         - evle ilgili
         - evcil
 
@@ -44,11 +44,11 @@ versions:
         accented: de kaza
 
     translations:
-        english: domestic
-        french: domestique
-        portuguese: ''
-        spanish: domesticos
-        turkish:
+        inglez: domestic
+        fransez: domestique
+        portugez: ''
+        kasteyano: domesticos
+        turko:
         - evle ilgili
         - evcil
 
@@ -58,11 +58,11 @@ versions:
     number: plural
 
     translations:
-        english: domestic
-        french: domestique
-        portuguese: ''
-        spanish: domesticas
-        turkish:
+        inglez: domestic
+        fransez: domestique
+        portugez: ''
+        kasteyano: domesticas
+        turko:
         - evle ilgili
         - evcil
 

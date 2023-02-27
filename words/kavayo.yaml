@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: horse
-        french: ''
-        portuguese: ''
-        spanish: caballo
-        turkish: at
+        inglez: horse
+        fransez: ''
+        portugez: ''
+        kasteyano: caballo
+        turko: at
 
   - ladino: kavayos
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: horses
-        french: ''
-        portuguese: ''
-        spanish: caballos
-        turkish: at
+        inglez: horses
+        fransez: ''
+        portugez: ''
+        kasteyano: caballos
+        turko: at
 
 

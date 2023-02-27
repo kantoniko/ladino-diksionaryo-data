@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: net
-        french: ''
-        portuguese: ''
-        spanish: red
-        turkish: ağ
+        inglez: net
+        fransez: ''
+        portugez: ''
+        kasteyano: red
+        turko: ağ
 
   - ladino: redes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: nets
-        french: ''
-        portuguese: ''
-        spanish: redes
-        turkish: ağ
+        inglez: nets
+        fransez: ''
+        portugez: ''
+        kasteyano: redes
+        turko: ağ
 
 
 

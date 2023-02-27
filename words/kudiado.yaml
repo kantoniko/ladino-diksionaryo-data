@@ -7,13 +7,13 @@ versions:
       - ladino: atension
 
     translations:
-        english:
+        inglez:
         - worry
         - attention
-        french: ''
-        portuguese: ''
-        spanish: cuidado
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cuidado
+        turko:
         - merak
         - dikkat
 

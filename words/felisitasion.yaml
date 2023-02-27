@@ -12,11 +12,11 @@ versions:
       - ladino: felisitasyon
 
     translations:
-        english: congratulation
-        french: ''
-        portuguese: ''
-        spanish: felicitación
-        turkish: tebrik
+        inglez: congratulation
+        fransez: ''
+        portugez: ''
+        kasteyano: felicitación
+        turko: tebrik
 
   - ladino: felisitasiones
 
@@ -27,11 +27,11 @@ versions:
       - ladino: felisitasyones
 
     translations:
-        english: congratulations
-        french: ''
-        portuguese: ''
-        spanish: felicitaciónes
-        turkish: tebrik
+        inglez: congratulations
+        fransez: ''
+        portugez: ''
+        kasteyano: felicitaciónes
+        turko: tebrik
 
 
 

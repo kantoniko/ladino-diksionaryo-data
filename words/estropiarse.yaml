@@ -5,11 +5,11 @@ versions:
   - ladino: estropiarse
 
     translations:
-        english: get damaged
-        french: ''
-        portuguese: ''
-        spanish: estropearse
-        turkish:
+        inglez: get damaged
+        fransez: ''
+        portugez: ''
+        kasteyano: estropearse
+        turko:
         - bozulmak
         - çarpılmak
 

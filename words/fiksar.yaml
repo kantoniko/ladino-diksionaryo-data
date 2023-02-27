@@ -6,14 +6,14 @@ versions:
     accented: fiksár
 
     translations:
-        english:
+        inglez:
           - fix
           - fasten
           - secure
-        french: ''
-        portuguese: ''
-        spanish: fijar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fijar
+        turko:
           - saptamak
           - göz dıkmek
 

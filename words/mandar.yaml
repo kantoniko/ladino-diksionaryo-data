@@ -6,11 +6,11 @@ versions:
     accented: mandár
 
     translations:
-        english: send
-        french: ''
-        portuguese: ''
-        spanish: mandar
-        turkish: göndermek
+        inglez: send
+        fransez: ''
+        portugez: ''
+        kasteyano: mandar
+        turko: göndermek
 
 conjugations: {}
 

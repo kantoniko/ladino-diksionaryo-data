@@ -8,11 +8,11 @@ versions:
       - ladino: informarse
 
     translations:
-        english: find out
-        french: ''
-        portuguese: ''
-        spanish: enterarse
-        turkish:
+        inglez: find out
+        fransez: ''
+        portugez: ''
+        kasteyano: enterarse
+        turko:
         - bilgi almak
         - haber almak
 

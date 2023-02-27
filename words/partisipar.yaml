@@ -5,11 +5,11 @@ versions:
   - ladino: partisipar
 
     translations:
-        english: participate
-        french: ''
-        portuguese: ''
-        spanish: participar
-        turkish: iştirâk etmek
+        inglez: participate
+        fransez: ''
+        portugez: ''
+        kasteyano: participar
+        turko: iştirâk etmek
 
 conjugations: {}
 

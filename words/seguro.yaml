@@ -5,12 +5,12 @@ versions:
   - ladino: seguro
 
     translations:
-        english:
+        inglez:
         - secure
         - safe
-        french: ''
-        portuguese: ''
-        spanish: seguro
-        turkish: emin
+        fransez: ''
+        portugez: ''
+        kasteyano: seguro
+        turko: emin
 
 

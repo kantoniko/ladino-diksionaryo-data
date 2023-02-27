@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: exit
-        french: ''
-        portuguese: ''
-        spanish: salida
-        turkish: çıkış
+        inglez: exit
+        fransez: ''
+        portugez: ''
+        kasteyano: salida
+        turko: çıkış
 
   - ladino: salidas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: exits
-        french: ''
-        portuguese: ''
-        spanish: salidas
-        turkish: çıkış
+        inglez: exits
+        fransez: ''
+        portugez: ''
+        kasteyano: salidas
+        turko: çıkış
 
 
 

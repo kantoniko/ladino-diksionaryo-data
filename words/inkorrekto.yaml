@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: incorrect
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: incorrecto
-      turkish: ''
+      inglez: incorrect
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: incorrecto
+      turko: ''
 
   - ladino: inkorrekta
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: incorrect
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: incorrecta
-      turkish: ''
+      inglez: incorrect
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: incorrecta
+      turko: ''
 
   - ladino: inkorrektos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: incorrect
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: incorrectos
-      turkish: ''
+      inglez: incorrect
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: incorrectos
+      turko: ''
 
   - ladino: inkorrektas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: incorrect
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: incorrectas
-      turkish: ''
+      inglez: incorrect
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: incorrectas
+      turko: ''
 
 
 

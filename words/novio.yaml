@@ -12,15 +12,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - groom
           - fiancé
           - newly-wed
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - novio
-        turkish:
+        turko:
           - nişanlı
           - yeni evli
 
@@ -35,14 +35,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - fiancée
           - newly-wed
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - novia
-        turkish:
+        turko:
           - nişanlı
           - yeni evli
 
@@ -57,15 +57,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - grooms
           - fiancé
           - newly-wed
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - novios
-        turkish:
+        turko:
           - nişanlı
           - yeni evli
 
@@ -80,14 +80,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - fiancée
           - newly-wed
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - novias
-        turkish:
+        turko:
           - nişanlı
           - yeni evli
 

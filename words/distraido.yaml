@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: absent-minded
-        french: ''
-        portuguese: ''
-        spanish: despistado
-        turkish: dalgın
+        inglez: absent-minded
+        fransez: ''
+        portugez: ''
+        kasteyano: despistado
+        turko: dalgın
 
   - ladino: distraida
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: absent-minded
-        french: ''
-        portuguese: ''
-        spanish: despistada
-        turkish: dalgın
+        inglez: absent-minded
+        fransez: ''
+        portugez: ''
+        kasteyano: despistada
+        turko: dalgın
 
   - ladino: distraidos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: absent-minded
-        french: ''
-        portuguese: ''
-        spanish: despistados
-        turkish: dalgınlar
+        inglez: absent-minded
+        fransez: ''
+        portugez: ''
+        kasteyano: despistados
+        turko: dalgınlar
 
   - ladino: distraidas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: absent-minded
-        french: ''
-        portuguese: ''
-        spanish: despistadas
-        turkish: dalgınlar
+        inglez: absent-minded
+        fransez: ''
+        portugez: ''
+        kasteyano: despistadas
+        turko: dalgınlar
 
 

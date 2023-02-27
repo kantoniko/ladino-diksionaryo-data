@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: market
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: merkado
-      turkish: ''
+      inglez: market
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: merkado
+      turko: ''
 
   - ladino: charshis
     accented: charshís
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: markets
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: merkados
-      turkish: ''
+      inglez: markets
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: merkados
+      turko: ''
 
 
 

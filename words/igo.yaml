@@ -10,12 +10,12 @@ versions:
       - ladino: figo
 
     translations:
-        english: fig
-        french: ''
-        hebrew: תאנה
-        portuguese: figo
-        spanish: higo
-        turkish: incir
+        inglez: fig
+        fransez: ''
+        ebreo: תאנה
+        portugez: figo
+        kasteyano: higo
+        turko: incir
 
 
 

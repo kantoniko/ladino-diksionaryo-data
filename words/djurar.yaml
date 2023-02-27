@@ -5,13 +5,13 @@ versions:
   - ladino: djurar
 
     translations:
-        english:
+        inglez:
         - swear
         - take an oath
-        french: ''
-        portuguese: ''
-        spanish: jurar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: jurar
+        turko:
         - yemin etmek
         - andiçmek
 

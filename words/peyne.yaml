@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: tarak
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: tarak
 
   - ladino: peynes
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: taraklar
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: taraklar
 
 

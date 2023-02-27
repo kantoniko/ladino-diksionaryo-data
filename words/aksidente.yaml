@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: accident
-        french: ''
-        portuguese: ''
-        spanish: accidente
-        turkish: kaza
+        inglez: accident
+        fransez: ''
+        portugez: ''
+        kasteyano: accidente
+        turko: kaza
 
   - ladino: aksidentes
     accented: aksidéntes
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: accidents
-        french: ''
-        portuguese: ''
-        spanish: accidentes
-        turkish: kaza
+        inglez: accidents
+        fransez: ''
+        portugez: ''
+        kasteyano: accidentes
+        turko: kaza
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: kostar
 
     translations:
-        english: cost
-        french: ''
-        portuguese: ''
-        spanish: costar
-        turkish: mal olmak
+        inglez: cost
+        fransez: ''
+        portugez: ''
+        kasteyano: costar
+        turko: mal olmak
 
 conjugations: {}
 

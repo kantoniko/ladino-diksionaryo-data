@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - form
         - shape
-        french: ''
-        portuguese: ''
-        spanish: forma
-        turkish: tarz
+        fransez: ''
+        portugez: ''
+        kasteyano: forma
+        turko: tarz
 
   - ladino: formas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - forms
         - shapes
-        french: ''
-        portuguese: ''
-        spanish: formas
-        turkish: tarz
+        fransez: ''
+        portugez: ''
+        kasteyano: formas
+        turko: tarz
 
 
 

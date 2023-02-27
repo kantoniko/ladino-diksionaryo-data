@@ -5,15 +5,15 @@ versions:
   - ladino: arrufiar
 
     translations:
-        english:
+        inglez:
         - water
         - sprinkle
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - irrigar
         - salpicar
-        turkish:
+        turko:
         - sulamak
         - püskürtmek
 

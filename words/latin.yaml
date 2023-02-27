@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: latin
-        french: ''
-        portuguese: ''
-        spanish: latín
-        turkish:
+        inglez: latin
+        fransez: ''
+        portugez: ''
+        kasteyano: latín
+        turko:
         - latin
         - latince
 
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: latin
-        french: ''
-        portuguese: ''
-        spanish: latína
-        turkish:
+        inglez: latin
+        fransez: ''
+        portugez: ''
+        kasteyano: latína
+        turko:
         - latin
         - latince
 
@@ -39,11 +39,11 @@ versions:
     number: plural
 
     translations:
-        english: latin
-        french: ''
-        portuguese: ''
-        spanish: latinos
-        turkish: ''
+        inglez: latin
+        fransez: ''
+        portugez: ''
+        kasteyano: latinos
+        turko: ''
 
   - ladino: latinas
 
@@ -51,11 +51,11 @@ versions:
     number: plural
 
     translations:
-        english: latin
-        french: ''
-        portuguese: ''
-        spanish: latínas
-        turkish: ''
+        inglez: latin
+        fransez: ''
+        portugez: ''
+        kasteyano: latínas
+        turko: ''
 
 
 

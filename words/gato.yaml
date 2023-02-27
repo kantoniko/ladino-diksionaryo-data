@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english: cat
-        french: ''
-        hebrew: חתול
-        portuguese: ''
-        spanish: gato
-        turkish: kedi
+        inglez: cat
+        fransez: ''
+        ebreo: חתול
+        portugez: ''
+        kasteyano: gato
+        turko: kedi
 
   - ladino: gatos
 
@@ -24,24 +24,24 @@ versions:
     number: plural
 
     translations:
-        english: cats
-        french: ''
-        hebrew: חתולים
-        portuguese: ''
-        spanish: gatos
-        turkish: kediler
+        inglez: cats
+        fransez: ''
+        ebreo: חתולים
+        portugez: ''
+        kasteyano: gatos
+        turko: kediler
 
   - ladino: gatiko
     gender: masculine
     number: singular
 
     translations:
-        english: small cat
-        french: ''
-        hebrew: ''
-        portuguese: ''
-        spanish: ''
-        turkish: yavru kedi
+        inglez: small cat
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: yavru kedi
 
 
 

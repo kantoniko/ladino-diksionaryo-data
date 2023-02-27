@@ -5,11 +5,11 @@ versions:
   - ladino: tan
 
     translations:
-        english: so
-        french: tellement
-        portuguese: ''
-        spanish: tan
-        turkish:
+        inglez: so
+        fransez: tellement
+        portugez: ''
+        kasteyano: tan
+        turko:
         - o kadar
         - o derece
 

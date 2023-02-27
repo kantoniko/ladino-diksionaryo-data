@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - urban
         - refined
-        french: urbain
-        portuguese: ''
-        spanish: urbano
-        turkish: şehirli
+        fransez: urbain
+        portugez: ''
+        kasteyano: urbano
+        turko: şehirli
 
   - ladino: urbana
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - urban
         - refined
-        french: urbaine
-        portuguese: ''
-        spanish: urbana
-        turkish: şehirli
+        fransez: urbaine
+        portugez: ''
+        kasteyano: urbana
+        turko: şehirli
 
   - ladino: urbanos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - urban
         - refined
-        french: urbains
-        portuguese: ''
-        spanish: urbanos
-        turkish: şehirli
+        fransez: urbains
+        portugez: ''
+        kasteyano: urbanos
+        turko: şehirli
 
   - ladino: urbanas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - urban
         - refined
-        french: urbaines
-        portuguese: ''
-        spanish: urbanas
-        turkish: şehirli
+        fransez: urbaines
+        portugez: ''
+        kasteyano: urbanas
+        turko: şehirli
 
 
 

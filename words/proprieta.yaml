@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - property
         - estate
-        french: ''
-        portuguese: ''
-        spanish: predio
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: predio
+        turko:
         - mal
         - mülk
 

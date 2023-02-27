@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - decease
         - death
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - muerte
         - fallecimiento
-        turkish:
+        turko:
         - vefat
         - ölüm
 

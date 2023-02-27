@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: syllable
-        french: ''
-        portuguese: ''
-        spanish: sílaba
-        turkish: hece
+        inglez: syllable
+        fransez: ''
+        portugez: ''
+        kasteyano: sílaba
+        turko: hece
 
   - ladino: silabas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: syllables
-        french: ''
-        portuguese: ''
-        spanish: sílabas
-        turkish: hece
+        inglez: syllables
+        fransez: ''
+        portugez: ''
+        kasteyano: sílabas
+        turko: hece
 
 
 

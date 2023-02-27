@@ -5,13 +5,13 @@ versions:
   - ladino: partikolar
 
     translations:
-        english:
+        inglez:
         - particular
         - peculiar
-        french: ''
-        portuguese: ''
-        spanish: particular
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: particular
+        turko:
         - mahsus
         - özel
         - nev'i şahsına münhasır

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: busy
-        french: ''
-        portuguese: ''
-        spanish: ocupado
-        turkish: meşgul
+        inglez: busy
+        fransez: ''
+        portugez: ''
+        kasteyano: ocupado
+        turko: meşgul
 
   - ladino: okupada
     accented: okupáda
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: busy
-        french: ''
-        portuguese: ''
-        spanish: ocupada
-        turkish: meşgul
+        inglez: busy
+        fransez: ''
+        portugez: ''
+        kasteyano: ocupada
+        turko: meşgul
 
   - ladino: okupados
     accented: okupádos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: busy
-        french: ''
-        portuguese: ''
-        spanish: ocupados
-        turkish: meşgul
+        inglez: busy
+        fransez: ''
+        portugez: ''
+        kasteyano: ocupados
+        turko: meşgul
 
   - ladino: okupadas
     accented: okupádas
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: busy
-        french: ''
-        portuguese: ''
-        spanish: ocupadas
-        turkish: meşgul
+        inglez: busy
+        fransez: ''
+        portugez: ''
+        kasteyano: ocupadas
+        turko: meşgul
 
 
 

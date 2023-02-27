@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: contribution
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: contribución
-      turkish: ''
+      inglez: contribution
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: contribución
+      turko: ''
 
   - ladino: kontribusiones
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: contributions
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: contribuciones
-      turkish: ''
+      inglez: contributions
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: contribuciones
+      turko: ''
 
 

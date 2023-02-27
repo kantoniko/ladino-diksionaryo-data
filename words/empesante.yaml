@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: beginner
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: principiante
-      turkish: ''
+      inglez: beginner
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: principiante
+      turko: ''
 
   - ladino: empesantes
 
@@ -27,12 +27,12 @@ versions:
     number: plural
 
     translations:
-      english: beginners
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: principiantes
-      turkish: ''
+      inglez: beginners
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: principiantes
+      turko: ''
 
 
 

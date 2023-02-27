@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: esteemed
-        french: ''
-        portuguese: ''
-        spanish: estimado
-        turkish: muhterem
+        inglez: esteemed
+        fransez: ''
+        portugez: ''
+        kasteyano: estimado
+        turko: muhterem
 
   - ladino: estimada
     accented: estimáda
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: esteemed
-        french: ''
-        portuguese: ''
-        spanish: estimada
-        turkish: muhterem
+        inglez: esteemed
+        fransez: ''
+        portugez: ''
+        kasteyano: estimada
+        turko: muhterem
 
   - ladino: estimados
     accented: estimádos
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: esteemed
-        french: ''
-        portuguese: ''
-        spanish: estimados
-        turkish: muhterem
+        inglez: esteemed
+        fransez: ''
+        portugez: ''
+        kasteyano: estimados
+        turko: muhterem
 
   - ladino: estimadas
     accented: estimádas
@@ -48,9 +48,9 @@ versions:
     number: plural
 
     translations:
-        english: esteemed
-        french: ''
-        portuguese: ''
-        spanish: estimadas
-        turkish: muhterem
+        inglez: esteemed
+        fransez: ''
+        portugez: ''
+        kasteyano: estimadas
+        turko: muhterem
 

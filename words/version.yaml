@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: version
-        french: version
-        portuguese: ''
-        spanish: versión
-        turkish: şekil
+        inglez: version
+        fransez: version
+        portugez: ''
+        kasteyano: versión
+        turko: şekil
 
   - ladino: versiones
     accented: versiónes
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: versions
-        french: versions
-        portuguese: ''
-        spanish: versiones
-        turkish: versiyonlar
+        inglez: versions
+        fransez: versions
+        portugez: ''
+        kasteyano: versiones
+        turko: versiyonlar
 
 

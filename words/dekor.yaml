@@ -5,12 +5,12 @@ versions:
   - ladino: dekor
 
     translations:
-        english:
+        inglez:
         - scenery
         - set
-        french: ''
-        portuguese: ''
-        spanish: decorado
-        turkish: dekor
+        fransez: ''
+        portugez: ''
+        kasteyano: decorado
+        turko: dekor
 
 

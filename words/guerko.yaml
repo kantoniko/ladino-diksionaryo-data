@@ -9,19 +9,19 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - Satan
         - devil
-        french:
+        fransez:
         - satan
         - diable
-        portuguese:
+        portugez:
         - Satã
         - Satanás
-        spanish:
+        kasteyano:
         - satán
         - diablo
-        turkish: şeytan
+        turko: şeytan
 
 
 

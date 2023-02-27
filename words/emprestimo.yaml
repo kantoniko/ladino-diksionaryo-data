@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: loan
-        french:
+        inglez: loan
+        fransez:
         - emprunt
         - prêt
-        portuguese: ''
-        spanish: préstamo
-        turkish:
+        portugez: ''
+        kasteyano: préstamo
+        turko:
           - ödünç alınan
           - verilen
 

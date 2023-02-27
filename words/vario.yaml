@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: various
-        french: varié
-        portuguese: ''
-        spanish: vario
-        turkish: muhtelif
+        inglez: various
+        fransez: varié
+        portugez: ''
+        kasteyano: vario
+        turko: muhtelif
 
   - ladino: varia
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: various
-        french: variée
-        portuguese: ''
-        spanish: varia
-        turkish: muhtelif
+        inglez: various
+        fransez: variée
+        portugez: ''
+        kasteyano: varia
+        turko: muhtelif
 
   - ladino: varios
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: various
-        french: variés
-        portuguese: ''
-        spanish: varios
-        turkish: muhtelif
+        inglez: various
+        fransez: variés
+        portugez: ''
+        kasteyano: varios
+        turko: muhtelif
 
   - ladino: varias
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: various
-        french: variées
-        portuguese: ''
-        spanish: varias
-        turkish: muhtelif
+        inglez: various
+        fransez: variées
+        portugez: ''
+        kasteyano: varias
+        turko: muhtelif
 
 

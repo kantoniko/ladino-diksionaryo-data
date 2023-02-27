@@ -5,11 +5,11 @@ versions:
   - ladino: kaver
 
     translations:
-        english: fit
-        french: ''
-        portuguese: ''
-        spanish: caber
-        turkish: sığmak
+        inglez: fit
+        fransez: ''
+        portugez: ''
+        kasteyano: caber
+        turko: sığmak
 
 conjugations: {}
 

@@ -10,13 +10,13 @@ versions:
         accented: augmentár
 
     translations:
-        english:
+        inglez:
           - increase
           - augment
-        french: augmenter
-        portuguese: ''
-        spanish: aumentar
-        turkish:
+        fransez: augmenter
+        portugez: ''
+        kasteyano: aumentar
+        turko:
           - artmak
           - çoğalmak
 

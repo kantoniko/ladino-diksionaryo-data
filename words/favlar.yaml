@@ -6,11 +6,11 @@ versions:
     accented: favlár
 
     translations:
-        english: speak
-        french: parler
-        portuguese: falar
-        spanish: hablar
-        turkish: konuşmak
+        inglez: speak
+        fransez: parler
+        portugez: falar
+        kasteyano: hablar
+        turko: konuşmak
 
 conjugations: {}
 

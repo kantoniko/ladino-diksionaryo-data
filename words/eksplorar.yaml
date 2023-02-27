@@ -5,11 +5,11 @@ versions:
   - ladino: eksplorar
 
     translations:
-        english: explore
-        french: ''
-        portuguese: ''
-        spanish: explorar
-        turkish: keşfetmek
+        inglez: explore
+        fransez: ''
+        portugez: ''
+        kasteyano: explorar
+        turko: keşfetmek
 
 conjugations: {}
 

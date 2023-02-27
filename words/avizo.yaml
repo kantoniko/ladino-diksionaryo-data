@@ -5,10 +5,10 @@ versions:
   - ladino: avizo
 
     translations:
-        english: news
-        french: avis
-        portuguese: ''
-        spanish: noticia
-        turkish: haber
+        inglez: news
+        fransez: avis
+        portugez: ''
+        kasteyano: noticia
+        turko: haber
 
 

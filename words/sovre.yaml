@@ -5,14 +5,14 @@ versions:
   - ladino: sovre
 
     translations:
-        english:
+        inglez:
           - upon
           - 'on'
           - about
-        french: ''
-        portuguese: ''
-        spanish: sobre
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sobre
+        turko:
           - üstünde
           - hakkında
 

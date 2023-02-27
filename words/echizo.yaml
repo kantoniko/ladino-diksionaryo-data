@@ -5,12 +5,12 @@ versions:
   - ladino: echizo
 
     translations:
-        english: spell
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: spell
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - hechizo
         - encanto
-        turkish: büyü
+        turko: büyü
 
 

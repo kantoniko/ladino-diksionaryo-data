@@ -6,16 +6,16 @@ versions:
     accented: arrondjár
 
     translations:
-        english:
+        inglez:
           - push
           - expel
           - shove
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - empujar
           - expulsar
-        turkish:
+        turko:
           - itmek
           - iteklemek
 

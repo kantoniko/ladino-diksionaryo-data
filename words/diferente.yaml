@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - different
           - un like
-        french: ''
-        portuguese: ''
-        spanish: diferente
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: diferente
+        turko:
           - değişik
           - farklı
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - different
           - un like
-        french: ''
-        portuguese: ''
-        spanish: diferentes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: diferentes
+        turko:
           - değişik
           - farklı
 

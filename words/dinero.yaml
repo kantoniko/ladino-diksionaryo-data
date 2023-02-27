@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: money
-        french: ''
-        hebrew: כסף
-        portuguese: ''
-        spanish: dinero
-        turkish: para
+        inglez: money
+        fransez: ''
+        ebreo: כסף
+        portugez: ''
+        kasteyano: dinero
+        turko: para
 
 

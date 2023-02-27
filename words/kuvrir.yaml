@@ -7,11 +7,11 @@ versions:
       - ladino: kuvijar
 
     translations:
-        english: cover
-        french: ''
-        portuguese: ''
-        spanish: cubrir
-        turkish: örtmek
+        inglez: cover
+        fransez: ''
+        portugez: ''
+        kasteyano: cubrir
+        turko: örtmek
 
 conjugations: {}
 

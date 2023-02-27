@@ -5,12 +5,12 @@ versions:
   - ladino: sekreter
 
     translations:
-        english: secretary
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: secretary
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - secretario
           - secretaria
-        turkish: sekreter
+        turko: sekreter
 
 

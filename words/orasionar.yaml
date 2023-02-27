@@ -5,11 +5,11 @@ versions:
   - ladino: orasionar
 
     translations:
-        english: pray
-        french: ''
-        portuguese: ''
-        spanish: orar
-        turkish: dua etmek
+        inglez: pray
+        fransez: ''
+        portugez: ''
+        kasteyano: orar
+        turko: dua etmek
 
 conjugations: {}
 

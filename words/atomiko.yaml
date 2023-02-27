@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: atomic
-        french: atomique
-        portuguese: ''
-        spanish: atómico
-        turkish: atomik
+        inglez: atomic
+        fransez: atomique
+        portugez: ''
+        kasteyano: atómico
+        turko: atomik
 
   - ladino: atomika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: atomic
-        french: atomique
-        portuguese: ''
-        spanish: atómica
-        turkish: atomik
+        inglez: atomic
+        fransez: atomique
+        portugez: ''
+        kasteyano: atómica
+        turko: atomik
 
 
 

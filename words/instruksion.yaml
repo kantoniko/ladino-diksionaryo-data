@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: instruction
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: instrucción
-      turkish: ''
+      inglez: instruction
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: instrucción
+      turko: ''
 
   - ladino: instruksiones
     accented: instruksiónes
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: instructions
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: instrucciones
-      turkish: ''
+      inglez: instructions
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: instrucciones
+      turko: ''
 
 
 

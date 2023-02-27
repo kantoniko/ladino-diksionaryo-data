@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: judeo-spanish
-        french: ''
-        portuguese: ''
-        spanish: judeo-español
-        turkish:
+        inglez: judeo-spanish
+        fransez: ''
+        portugez: ''
+        kasteyano: judeo-español
+        turko:
         - Yahudice
         - Musevice
 

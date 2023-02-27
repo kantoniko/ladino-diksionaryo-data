@@ -6,15 +6,15 @@ versions:
     accented: demandár
 
     translations:
-        english:
+        inglez:
           - request
           - ask
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - pedir
           - preguntar
-        turkish:
+        turko:
           - istemek
           - sormak
 

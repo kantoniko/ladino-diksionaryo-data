@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: funicular
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: funicular
-      turkish: ''
+      inglez: funicular
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: funicular
+      turko: ''
 
   - ladino: funikulares
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: funiculars
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: funiculares
-      turkish: ''
+      inglez: funiculars
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: funiculares
+      turko: ''
 
 
 

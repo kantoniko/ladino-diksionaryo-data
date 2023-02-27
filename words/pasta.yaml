@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: cake
-        french: ''
-        portuguese: ''
-        spanish: pastel
-        turkish: pasta
+        inglez: cake
+        fransez: ''
+        portugez: ''
+        kasteyano: pastel
+        turko: pasta
 
   - ladino: pastas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: cakes
-        french: ''
-        portuguese: ''
-        spanish: pasteles
-        turkish: pastas
+        inglez: cakes
+        fransez: ''
+        portugez: ''
+        kasteyano: pasteles
+        turko: pastas
 
 
 

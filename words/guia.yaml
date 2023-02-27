@@ -10,19 +10,19 @@ versions:
     number: singular
 
     translations:
-        english: guide
-        french: ''
-        portuguese: ''
-        spanish: guía
-        turkish: ''
+        inglez: guide
+        fransez: ''
+        portugez: ''
+        kasteyano: guía
+        turko: ''
 
   - ladino: guias
 
     translations:
-        english: guides
-        french: ''
-        portuguese: ''
-        spanish: guías
-        turkish: ''
+        inglez: guides
+        fransez: ''
+        portugez: ''
+        kasteyano: guías
+        turko: ''
 
 

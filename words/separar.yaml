@@ -5,11 +5,11 @@ versions:
   - ladino: separar
 
     translations:
-        english: separate
-        french: ''
-        portuguese: ''
-        spanish: separar
-        turkish: ayırmak
+        inglez: separate
+        fransez: ''
+        portugez: ''
+        kasteyano: separar
+        turko: ayırmak
 
 conjugations: {}
 

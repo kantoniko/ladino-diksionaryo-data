@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bottom
         - background
-        french: ''
-        portuguese: ''
-        spanish: fondo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fondo
+        turko:
         - dip
         - fon
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - bottom
         - background
-        french: ''
-        portuguese: ''
-        spanish: fondos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fondos
+        turko:
         - dip
         - fon
 

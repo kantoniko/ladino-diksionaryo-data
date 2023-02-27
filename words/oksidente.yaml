@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: west
-        french: ''
-        portuguese: ''
-        spanish: occidente
-        turkish: batı
+        inglez: west
+        fransez: ''
+        portugez: ''
+        kasteyano: occidente
+        turko: batı
 
 

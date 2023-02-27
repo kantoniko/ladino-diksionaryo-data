@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: burnt
-        french: ''
-        portuguese: ''
-        spanish: quemado
-        turkish: yanık
+        inglez: burnt
+        fransez: ''
+        portugez: ''
+        kasteyano: quemado
+        turko: yanık
 
   - ladino: kemada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: burnt
-        french: ''
-        portuguese: ''
-        spanish: quemada
-        turkish: yanık
+        inglez: burnt
+        fransez: ''
+        portugez: ''
+        kasteyano: quemada
+        turko: yanık
 
   - ladino: kemados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: burnt
-        french: ''
-        portuguese: ''
-        spanish: quemados
-        turkish: yanık
+        inglez: burnt
+        fransez: ''
+        portugez: ''
+        kasteyano: quemados
+        turko: yanık
 
   - ladino: kemadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: burnt
-        french: ''
-        portuguese: ''
-        spanish: quemadas
-        turkish: yanık
+        inglez: burnt
+        fransez: ''
+        portugez: ''
+        kasteyano: quemadas
+        turko: yanık
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: bever
 
     translations:
-        english: drink
-        french: ''
-        portuguese: ''
-        spanish: beber
-        turkish: içmek
+        inglez: drink
+        fransez: ''
+        portugez: ''
+        kasteyano: beber
+        turko: içmek
 
 conjugations: {}
 

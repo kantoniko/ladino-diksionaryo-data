@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - earth
         - world
-        french: terre
-        portuguese: terra
-        spanish: tierra
-        turkish:
+        fransez: terre
+        portugez: terra
+        kasteyano: tierra
+        turko:
         - toprak
         - yeryüzü
 

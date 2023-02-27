@@ -5,11 +5,11 @@ versions:
   - ladino: salvar
 
     translations:
-        english: save
-        french: ''
-        portuguese: ''
-        spanish: salvar
-        turkish: kurtarmak
+        inglez: save
+        fransez: ''
+        portugez: ''
+        kasteyano: salvar
+        turko: kurtarmak
 
 conjugations: {}
 

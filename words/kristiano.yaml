@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: christian
-        french: ''
-        portuguese: ''
-        spanish: cristiano
-        turkish: hıristiyan
+        inglez: christian
+        fransez: ''
+        portugez: ''
+        kasteyano: cristiano
+        turko: hıristiyan
 
   - ladino: kristiana
     accented: kristiána
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: christian
-        french: ''
-        portuguese: ''
-        spanish: cristiana
-        turkish: hıristiyan
+        inglez: christian
+        fransez: ''
+        portugez: ''
+        kasteyano: cristiana
+        turko: hıristiyan
 
   - ladino: kristianos
     accented: kristiános
@@ -37,11 +37,11 @@ versions:
     number: plural
 
     translations:
-        english: christians
-        french: ''
-        portuguese: ''
-        spanish: cristianos
-        turkish: hıristiyan
+        inglez: christians
+        fransez: ''
+        portugez: ''
+        kasteyano: cristianos
+        turko: hıristiyan
 
   - ladino: kristianas
     accented: kristiánas
@@ -50,10 +50,10 @@ versions:
     number: plural
 
     translations:
-        english: christians
-        french: ''
-        portuguese: ''
-        spanish: cristianas
-        turkish: hıristiyan
+        inglez: christians
+        fransez: ''
+        portugez: ''
+        kasteyano: cristianas
+        turko: hıristiyan
 
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: quilt
-        french: couverture de lit
-        portuguese: colcha
-        spanish: colcha
-        turkish: yorgan
+        inglez: quilt
+        fransez: couverture de lit
+        portugez: colcha
+        kasteyano: colcha
+        turko: yorgan
 
   - ladino: kolchas
     accented: kólchas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: quilts
-        french: ''
-        portuguese: ''
-        spanish: colchas
-        turkish: yorganlar
+        inglez: quilts
+        fransez: ''
+        portugez: ''
+        kasteyano: colchas
+        turko: yorganlar
 
 

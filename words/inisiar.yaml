@@ -5,11 +5,11 @@ versions:
   - ladino: inisiar
 
     translations:
-        english: initiate
-        french: ''
-        portuguese: ''
-        spanish: iniciar
-        turkish:
+        inglez: initiate
+        fransez: ''
+        portugez: ''
+        kasteyano: iniciar
+        turko:
         - başlatmak
         - öğretmek
 

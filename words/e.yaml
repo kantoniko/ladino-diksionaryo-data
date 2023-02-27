@@ -5,11 +5,11 @@ versions:
   - ladino: e
 
     translations:
-        english: and
-        french: ''
-        portuguese: ''
-        spanish: e
-        turkish:
+        inglez: and
+        fransez: ''
+        portugez: ''
+        kasteyano: e
+        turko:
         - ve
         - veya
         - yahut

@@ -9,18 +9,18 @@ versions:
         accented: proprietario
 
     translations:
-        english:
+        inglez:
         - owner
         - proprietor
         - master
         - boss
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - dueño
           - dueña
           - patrón
-        turkish:
+        turko:
           - patron
           - sahip
 

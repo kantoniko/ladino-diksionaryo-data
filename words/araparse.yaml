@@ -5,11 +5,11 @@ versions:
   - ladino: araparse
 
     translations:
-        english: shave
-        french: ''
-        portuguese: ''
-        spanish: afeitarse
-        turkish: traş olmak
+        inglez: shave
+        fransez: ''
+        portugez: ''
+        kasteyano: afeitarse
+        turko: traş olmak
 
 conjugations: {}
 

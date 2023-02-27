@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: lover
-        french: ''
-        portuguese: ''
-        spanish: amante
-        turkish: sevgili
+        inglez: lover
+        fransez: ''
+        portugez: ''
+        kasteyano: amante
+        turko: sevgili
 
 
   - ladino: amantes
@@ -21,10 +21,10 @@ versions:
     number: plural
 
     translations:
-        english: lovers
-        french: ''
-        portuguese: ''
-        spanish: amantes
-        turkish: sevgili
+        inglez: lovers
+        fransez: ''
+        portugez: ''
+        kasteyano: amantes
+        turko: sevgili
 
 

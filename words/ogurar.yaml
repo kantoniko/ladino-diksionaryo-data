@@ -5,11 +5,11 @@ versions:
   - ladino: ogurar
 
     translations:
-        english: augur
-        french: ''
-        portuguese: ''
-        spanish: augurar
-        turkish:
+        inglez: augur
+        fransez: ''
+        portugez: ''
+        kasteyano: augurar
+        turko:
         - dilemek
         - temenni etmek
 

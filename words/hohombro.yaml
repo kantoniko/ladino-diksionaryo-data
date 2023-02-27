@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cucumber
-        french: ''
-        portuguese: ''
-        spanish: cohombre
-        turkish:
+        inglez: cucumber
+        fransez: ''
+        portugez: ''
+        kasteyano: cohombre
+        turko:
         - hıyar
         - salatalık
 

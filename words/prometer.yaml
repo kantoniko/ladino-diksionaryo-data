@@ -5,11 +5,11 @@ versions:
   - ladino: prometer
 
     translations:
-        english: promise
-        french: ''
-        portuguese: ''
-        spanish: prometer
-        turkish: söz vermek
+        inglez: promise
+        fransez: ''
+        portugez: ''
+        kasteyano: prometer
+        turko: söz vermek
 
 conjugations: {}
 

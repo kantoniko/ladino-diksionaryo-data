@@ -12,16 +12,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - master
         - gentleman
         - lord
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - señor
         - caballero
-        turkish:
+        turko:
         - beyefendi
         - efendi
 

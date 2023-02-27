@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: wall
-        french: ''
-        portuguese: ''
-        spanish: pared
-        turkish: duvar
+        inglez: wall
+        fransez: ''
+        portugez: ''
+        kasteyano: pared
+        turko: duvar
 
   - ladino: paredes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: walls
-        french: ''
-        portuguese: ''
-        spanish: paredes
-        turkish: duvar
+        inglez: walls
+        fransez: ''
+        portugez: ''
+        kasteyano: paredes
+        turko: duvar
 
 
 

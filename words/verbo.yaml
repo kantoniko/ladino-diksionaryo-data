@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: verb
-        french: verbe
-        portuguese: ''
-        spanish: verbo
-        turkish: fiil
+        inglez: verb
+        fransez: verbe
+        portugez: ''
+        kasteyano: verbo
+        turko: fiil
 
   - ladino: verbos
     accented: vérbos
@@ -22,10 +22,10 @@ versions:
     number: singular
 
     translations:
-        english: verbs
-        french: verbes
-        portuguese: ''
-        spanish: verbos
-        turkish: fiiller
+        inglez: verbs
+        fransez: verbes
+        portugez: ''
+        kasteyano: verbos
+        turko: fiiller
 
 

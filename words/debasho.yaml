@@ -5,15 +5,15 @@ versions:
   - ladino: debasho
 
     translations:
-        english:
+        inglez:
         - under
         - underneath
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bajo
         - debajo
         - so
-        turkish: altında
+        turko: altında
 
 

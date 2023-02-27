@@ -5,13 +5,13 @@ versions:
   - ladino: kreser
 
     translations:
-        english:
+        inglez:
         - grow
         - increase
-        french: ''
-        portuguese: ''
-        spanish: crecer
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: crecer
+        turko:
         - büyümek
         - çoğalmak
 

@@ -9,24 +9,24 @@ versions:
     number: singular
 
     translations:
-        english: bear
-        french: ''
-        hebrew: דוב
-        portuguese: ''
-        spanish: oso
-        turkish: ayı
+        inglez: bear
+        fransez: ''
+        ebreo: דוב
+        portugez: ''
+        kasteyano: oso
+        turko: ayı
 
   - ladino: lonsos
     gender: masculine
     number: plural
 
     translations:
-        english: beers
-        french: ''
-        hebrew: דובים
-        portuguese: ''
-        spanish: osos
-        turkish: ayılar
+        inglez: beers
+        fransez: ''
+        ebreo: דובים
+        portugez: ''
+        kasteyano: osos
+        turko: ayılar
 
 
 

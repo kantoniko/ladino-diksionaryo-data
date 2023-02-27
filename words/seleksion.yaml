@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: selection
-        french: ''
-        portuguese: ''
-        spanish: selección
-        turkish:
+        inglez: selection
+        fransez: ''
+        portugez: ''
+        kasteyano: selección
+        turko:
         - seçim
         - seçme
 

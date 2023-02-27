@@ -5,11 +5,11 @@ versions:
   - ladino: valer
 
     translations:
-        english: be worth
-        french: valoir
-        portuguese: ''
-        spanish: valer
-        turkish: değmek (değeri olmak)
+        inglez: be worth
+        fransez: valoir
+        portugez: ''
+        kasteyano: valer
+        turko: değmek (değeri olmak)
 
 conjugations: {}
 

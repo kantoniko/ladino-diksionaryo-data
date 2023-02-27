@@ -17,12 +17,12 @@ versions:
 
 
     translations:
-      english: strawberry
-      french: ''
-      hebrew: ''
-      portuguese: morango
-      spanish: fresa
-      turkish: çilek
+      inglez: strawberry
+      fransez: ''
+      ebreo: ''
+      portugez: morango
+      kasteyano: fresa
+      turko: çilek
 
   - ladino: frezas
 
@@ -36,11 +36,11 @@ versions:
         accented: frángulas
 
     translations:
-      english: strawberries
-      french: ''
-      hebrew: ''
-      portuguese: morangos
-      spanish: fresas
-      turkish: çilekler
+      inglez: strawberries
+      fransez: ''
+      ebreo: ''
+      portugez: morangos
+      kasteyano: fresas
+      turko: çilekler
 
 

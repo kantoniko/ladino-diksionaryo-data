@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: simple
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: simple
-      turkish: ''
+      inglez: simple
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: simple
+      turko: ''
 
   - ladino: simples
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: simple
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: simples
-      turkish: ''
+      inglez: simple
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: simples
+      turko: ''
 
 

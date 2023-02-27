@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: head
-        french: tête
-        portuguese: cabeça
-        spanish: cabeza
-        turkish: baş
+        inglez: head
+        fransez: tête
+        portugez: cabeça
+        kasteyano: cabeza
+        turko: baş
 
   - ladino: kavesas
     accented: kavésas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: heads
-        french: ''
-        portuguese: ''
-        spanish: cabezas
-        turkish: kafalar
+        inglez: heads
+        fransez: ''
+        portugez: ''
+        kasteyano: cabezas
+        turko: kafalar
 
 

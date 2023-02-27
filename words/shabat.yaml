@@ -12,13 +12,13 @@ versions:
       - ladino: Shabad
 
     translations:
-        english: Saturday
-        french: samedi
-        hebrew:
+        inglez: Saturday
+        fransez: samedi
+        ebreo:
           - יום שבת
           - שבת
-        portuguese: sábado
-        spanish: sábado
-        turkish: Cumartesi
+        portugez: sábado
+        kasteyano: sábado
+        turko: Cumartesi
 
 

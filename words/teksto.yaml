@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: text
-        french: texte
-        portuguese: ''
-        spanish: texto
-        turkish: metin
+        inglez: text
+        fransez: texte
+        portugez: ''
+        kasteyano: texto
+        turko: metin
 
   - ladino: tekstos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: texts
-        french: textes
-        portuguese: ''
-        spanish: textos
-        turkish: metin
+        inglez: texts
+        fransez: textes
+        portugez: ''
+        kasteyano: textos
+        turko: metin
 
 
 

@@ -6,15 +6,15 @@ versions:
     accented: lavóro
 
     translations:
-        english:
+        inglez:
           - work
           - job
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - labor
           - trabajo
-        turkish:
+        turko:
         - iş
         - emek
 

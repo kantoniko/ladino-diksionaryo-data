@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: authentic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: auténtico
-      turkish: ''
+      inglez: authentic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: auténtico
+      turko: ''
 
   - ladino: autentika
     accented: auténtika
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: authentic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: auténtica
-      turkish: ''
+      inglez: authentic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: auténtica
+      turko: ''
 
   - ladino: autentikos
     accented: auténtikos
@@ -37,12 +37,12 @@ versions:
     number: plural
 
     translations:
-      english: authentic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: auténticos
-      turkish: ''
+      inglez: authentic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: auténticos
+      turko: ''
 
   - ladino: autentikas
     accented: auténtikas
@@ -51,11 +51,11 @@ versions:
     number: plural
 
     translations:
-      english: authentic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: auténticas
-      turkish: ''
+      inglez: authentic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: auténticas
+      turko: ''
 
 

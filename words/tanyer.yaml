@@ -5,13 +5,13 @@ versions:
   - ladino: tanyer
 
     translations:
-        english:
+        inglez:
         - ring
         - play
-        french: ''
-        portuguese: ''
-        spanish: tañer
-        turkish: çalgı çalmak
+        fransez: ''
+        portugez: ''
+        kasteyano: tañer
+        turko: çalgı çalmak
 
 conjugations: {}
 

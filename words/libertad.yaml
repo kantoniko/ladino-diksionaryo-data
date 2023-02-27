@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: freedom
-        french: ''
-        portuguese: ''
-        spanish: libertad
-        turkish:
+        inglez: freedom
+        fransez: ''
+        portugez: ''
+        kasteyano: libertad
+        turko:
         - hürriyet
         - özgürlük
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: collection
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: colección
-      turkish:
+      inglez: collection
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: colección
+      turko:
         - biriktirme
         - koleksyon
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: collections
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: colecciónes
-      turkish:
+      inglez: collections
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: colecciónes
+      turko:
         - biriktirmeler
         - koleksyonlar
 

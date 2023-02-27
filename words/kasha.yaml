@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - case
         - cashier's office
-        french: ''
-        portuguese: ''
-        spanish: caja
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: caja
+        turko:
         - kasa
         - vezne
 

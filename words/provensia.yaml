@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: province
-        french: ''
-        portuguese: ''
-        spanish: provincia
-        turkish:
+        inglez: province
+        fransez: ''
+        portugez: ''
+        kasteyano: provincia
+        turko:
         - eyalet
         - taşra
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: article
-        french: ''
-        portuguese: ''
-        spanish: artículo
-        turkish:
+        inglez: article
+        fransez: ''
+        portugez: ''
+        kasteyano: artículo
+        turko:
         - madde
         - makale
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: articles
-        french: ''
-        portuguese: ''
-        spanish: artículos
-        turkish:
+        inglez: articles
+        fransez: ''
+        portugez: ''
+        kasteyano: artículos
+        turko:
         - madde
         - makale
 

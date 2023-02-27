@@ -15,12 +15,12 @@ versions:
         ladino: alman
 
     translations:
-        english: German
-        french: allemand
-        hebrew: גרמנית
-        portuguese: alemão
-        spanish: alemán
-        turkish:
+        inglez: German
+        fransez: allemand
+        ebreo: גרמנית
+        portugez: alemão
+        kasteyano: alemán
+        turko:
         - Alman
         - almanca
 

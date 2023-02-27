@@ -5,12 +5,12 @@ versions:
   - ladino: ochen
 
     translations:
-        english: eighth
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: eighth
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - octavo
           - octava
-        turkish: sekizinci
+        turko: sekizinci
 
 

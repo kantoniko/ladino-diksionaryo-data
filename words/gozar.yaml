@@ -6,11 +6,11 @@ versions:
     accented: gozár
 
     translations:
-        english: enjoy
-        french: ''
-        portuguese: ''
-        spanish: disfrutar
-        turkish:
+        inglez: enjoy
+        fransez: ''
+        portugez: ''
+        kasteyano: disfrutar
+        turko:
           - tadını çıkarmak
           - zevk almak
 
@@ -19,36 +19,36 @@ conjugations:
     yo:
       ladino: gozo
       translations:
-        english: enjoy
-        spanish: disfruto
+        inglez: enjoy
+        kasteyano: disfruto
 
     tu:
       ladino: gozas
       translations:
-        english: enjoy
-        spanish: disfrutas
+        inglez: enjoy
+        kasteyano: disfrutas
 
     el:
       ladino: goza
       translations:
-        english: enjoys
-        spanish: disfruta
+        inglez: enjoys
+        kasteyano: disfruta
 
     mozotros:
       ladino: gozamos
       translations:
-        english: enjoy
-        spanish: disfrutamos
+        inglez: enjoy
+        kasteyano: disfrutamos
 
     vozotros:
       ladino: gozatesh
       translations:
-        english: enjoy
-        spanish: disfrutáis
+        inglez: enjoy
+        kasteyano: disfrutáis
 
     eyos:
       ladino: gozan
       translations:
-        english: enjoy
-        spanish: disfrutan
+        inglez: enjoy
+        kasteyano: disfrutan
 

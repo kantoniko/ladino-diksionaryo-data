@@ -8,18 +8,18 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - gas
         - oil
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - גז
         - נפט
-      portuguese: ''
-      spanish:
+      portugez: ''
+      kasteyano:
         - gas
         - gasolina
-      turkish: ''
+      turko: ''
 
 # conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: ekspozision
 
     translations:
-        english: exposition
-        french: ''
-        portuguese: ''
-        spanish: exposición
-        turkish:
+        inglez: exposition
+        fransez: ''
+        portugez: ''
+        kasteyano: exposición
+        turko:
         - sergi
         - teşhir
 

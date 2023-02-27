@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: spoon
-        french: ''
-        portuguese: ''
-        spanish: cuchara
-        turkish: kaşık
+        inglez: spoon
+        fransez: ''
+        portugez: ''
+        kasteyano: cuchara
+        turko: kaşık
 
   - ladino: kucharas
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: spoons
-        french: ''
-        portuguese: ''
-        spanish: cucharas
-        turkish: kaşık
+        inglez: spoons
+        fransez: ''
+        portugez: ''
+        kasteyano: cucharas
+        turko: kaşık
 
 
 

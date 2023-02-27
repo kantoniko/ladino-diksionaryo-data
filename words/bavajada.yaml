@@ -5,15 +5,15 @@ versions:
   - ladino: bavajada
 
     translations:
-        english:
+        inglez:
         - trifle
         - gibberish
-        french: n'importe quoi!
-        portuguese: ''
-        spanish:
+        fransez: n'importe quoi!
+        portugez: ''
+        kasteyano:
         - bagatela
         - algarabía
-        turkish:
+        turko:
         - ıvır zıvır
         - saçmalık
         - zırva

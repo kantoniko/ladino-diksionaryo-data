@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fly
-        french: ''
-        portuguese: ''
-        spanish: mosca
-        turkish: sinek
+        inglez: fly
+        fransez: ''
+        portugez: ''
+        kasteyano: mosca
+        turko: sinek
 
   - ladino: moshkas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: flies
-        french: ''
-        portuguese: ''
-        spanish: moscas
-        turkish: sinek
+        inglez: flies
+        fransez: ''
+        portugez: ''
+        kasteyano: moscas
+        turko: sinek
 
 
 

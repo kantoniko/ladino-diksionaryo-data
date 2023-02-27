@@ -5,11 +5,11 @@ versions:
   - ladino: ardor
 
     translations:
-        english: ardour
-        french: ''
-        portuguese: ''
-        spanish: ardor
-        turkish:
+        inglez: ardour
+        fransez: ''
+        portugez: ''
+        kasteyano: ardor
+        turko:
         - sevk
         - istek
 

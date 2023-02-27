@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - emotion
         - thrill
         - excitement
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - רגש
         - ריגוש
         - התרגשות
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 

@@ -8,11 +8,11 @@ versions:
       - ladino: pishin
 
     translations:
-        english: at once
-        french: ''
-        portuguese: ''
-        spanish: en seguida
-        turkish:
+        inglez: at once
+        fransez: ''
+        portugez: ''
+        kasteyano: en seguida
+        turko:
         - hemen
         - derhal
 

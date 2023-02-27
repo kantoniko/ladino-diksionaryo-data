@@ -5,16 +5,16 @@ versions:
   - ladino: echar
 
     translations:
-        english:
+        inglez:
           - throw
           - hurl
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - echar
           - arrojar
           - abalanzar
-        turkish:
+        turko:
           - atmak
           - sallamak
 

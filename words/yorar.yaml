@@ -5,43 +5,43 @@ versions:
   - ladino: yorar
 
     translations:
-        english: cry
-        french: pleurer
-        portuguese: ''
-        spanish: llorar
-        turkish: ağlamak
+        inglez: cry
+        fransez: pleurer
+        portugez: ''
+        kasteyano: llorar
+        turko: ağlamak
 
 conjugations:
   prezente:
     yo:
       ladino: yoro
       translations:
-        spanish: lloro
-        english: cry
+        kasteyano: lloro
+        inglez: cry
     tu:
       ladino: yoras
       translations:
-        spanish: lloras
-        english: cry
+        kasteyano: lloras
+        inglez: cry
     el:
       ladino: yora
       translations:
-        spanish: llora
-        english: cries
+        kasteyano: llora
+        inglez: cries
     mozotros:
       ladino: yoramos
       translations:
-        spanish: lloramos
-        english: cry
+        kasteyano: lloramos
+        inglez: cry
     vozotros:
       ladino: yorash
       translations:
-        spanish: llorais
-        english: cry
+        kasteyano: llorais
+        inglez: cry
     eyos:
       ladino: yoran
       translations:
-        spanish: lloran
-        english: cry
+        kasteyano: lloran
+        inglez: cry
 
 

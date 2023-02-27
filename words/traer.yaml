@@ -5,11 +5,11 @@ versions:
   - ladino: traer
 
     translations:
-        english: bring
-        french: ''
-        portuguese: ''
-        spanish: traer
-        turkish: getirmek
+        inglez: bring
+        fransez: ''
+        portugez: ''
+        kasteyano: traer
+        turko: getirmek
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fleet
-        french: ''
-        portuguese: ''
-        spanish: flota
-        turkish: filo
+        inglez: fleet
+        fransez: ''
+        portugez: ''
+        kasteyano: flota
+        turko: filo
 
   - ladino: flotas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: fleets
-        french: ''
-        portuguese: ''
-        spanish: flotas
-        turkish: filo
+        inglez: fleets
+        fransez: ''
+        portugez: ''
+        kasteyano: flotas
+        turko: filo
 
 
 

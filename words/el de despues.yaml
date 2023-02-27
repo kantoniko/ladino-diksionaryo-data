@@ -5,15 +5,15 @@ versions:
   - ladino: el de despues
 
     translations:
-        english:
+        inglez:
         - next
         - near
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - próximo
           - próxima
-        turkish:
+        turko:
         - sonraki
         - yakın
 

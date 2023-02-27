@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: flame
-        french: ''
-        portuguese: ''
-        spanish: llama
-        turkish: alev
+        inglez: flame
+        fransez: ''
+        portugez: ''
+        kasteyano: llama
+        turko: alev
 
   - ladino: flamas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: flames
-        french: ''
-        portuguese: ''
-        spanish: llamas
-        turkish: alev
+        inglez: flames
+        fransez: ''
+        portugez: ''
+        kasteyano: llamas
+        turko: alev
 
 
 

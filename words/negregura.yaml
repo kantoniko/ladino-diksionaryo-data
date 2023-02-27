@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - evil
         - badness
-        french: ''
-        portuguese: ''
-        spanish: maldad
-        turkish: kötülük
+        fransez: ''
+        portugez: ''
+        kasteyano: maldad
+        turko: kötülük
 

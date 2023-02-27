@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: salesman
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: vendedor
-      turkish: ''
+      inglez: salesman
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: vendedor
+      turko: ''
 
   - ladino: vendedora
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: saleswoman
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: vendedora
-      turkish: ''
+      inglez: saleswoman
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: vendedora
+      turko: ''
 
   - ladino: vendedores
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: salesmen
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: vendedores
-      turkish: ''
+      inglez: salesmen
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: vendedores
+      turko: ''
 
   - ladino: vendedoras
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: saleswomen
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: vendedoras
-      turkish: ''
+      inglez: saleswomen
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: vendedoras
+      turko: ''
 
 

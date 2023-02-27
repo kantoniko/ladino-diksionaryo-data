@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: drunk
-        french: ''
-        portuguese: ''
-        spanish: borracho
-        turkish: sarhoş
+        inglez: drunk
+        fransez: ''
+        portugez: ''
+        kasteyano: borracho
+        turko: sarhoş
 
   - ladino: borracha
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: drunk
-        french: ''
-        portuguese: ''
-        spanish: borracha
-        turkish: sarhoş
+        inglez: drunk
+        fransez: ''
+        portugez: ''
+        kasteyano: borracha
+        turko: sarhoş
 
   - ladino: borrachos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: drunks
-        french: ''
-        portuguese: ''
-        spanish: borrachos
-        turkish: sarhoş
+        inglez: drunks
+        fransez: ''
+        portugez: ''
+        kasteyano: borrachos
+        turko: sarhoş
 
   - ladino: borrachas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: drunks
-        french: ''
-        portuguese: ''
-        spanish: borrachas
-        turkish: sarhoş
+        inglez: drunks
+        fransez: ''
+        portugez: ''
+        kasteyano: borrachas
+        turko: sarhoş
 
 
 

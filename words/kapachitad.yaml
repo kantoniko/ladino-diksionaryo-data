@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - capacity
         - ability
-        french: ''
-        portuguese: ''
-        spanish: capacitad
-        turkish: beceri
+        fransez: ''
+        portugez: ''
+        kasteyano: capacitad
+        turko: beceri
 
 

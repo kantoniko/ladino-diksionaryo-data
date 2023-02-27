@@ -5,11 +5,11 @@ versions:
   - ladino: enteresar
 
     translations:
-        english: interest
-        french: ''
-        portuguese: ''
-        spanish: interesar
-        turkish: alâkadar etmek
+        inglez: interest
+        fransez: ''
+        portugez: ''
+        kasteyano: interesar
+        turko: alâkadar etmek
 
 conjugations: {}
 

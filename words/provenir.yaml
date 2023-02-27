@@ -5,13 +5,13 @@ versions:
   - ladino: provenir
 
     translations:
-        english:
+        inglez:
         - arise from
         - stem from
-        french: ''
-        portuguese: ''
-        spanish: provenir
-        turkish: hasıl olmak
+        fransez: ''
+        portugez: ''
+        kasteyano: provenir
+        turko: hasıl olmak
 
 conjugations: {}
 

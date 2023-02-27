@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: surrounded
-        french: ''
-        portuguese: ''
-        spanish: rodeado
-        turkish: çevrili
+        inglez: surrounded
+        fransez: ''
+        portugez: ''
+        kasteyano: rodeado
+        turko: çevrili
 
   - ladino: entornada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: surrounded
-        french: ''
-        portuguese: ''
-        spanish: rodeada
-        turkish: çevrili
+        inglez: surrounded
+        fransez: ''
+        portugez: ''
+        kasteyano: rodeada
+        turko: çevrili
 
   - ladino: entornados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: surrounded
-        french: ''
-        portuguese: ''
-        spanish: rodeados
-        turkish: çevrili
+        inglez: surrounded
+        fransez: ''
+        portugez: ''
+        kasteyano: rodeados
+        turko: çevrili
 
   - ladino: entornadas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: surrounded
-        french: ''
-        portuguese: ''
-        spanish: rodeadas
-        turkish: çevrili
+        inglez: surrounded
+        fransez: ''
+        portugez: ''
+        kasteyano: rodeadas
+        turko: çevrili
 
 

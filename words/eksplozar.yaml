@@ -5,15 +5,15 @@ versions:
   - ladino: eksplozar
 
     translations:
-        english:
+        inglez:
           - explode
           - burst
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - explotar
           - estallar
-        turkish:
+        turko:
           - infilâk etmek
           - patlamak
 

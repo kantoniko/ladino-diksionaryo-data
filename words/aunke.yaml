@@ -5,13 +5,13 @@ versions:
   - ladino: aunke
 
     translations:
-        english:
+        inglez:
         - although
         - though
-        french: bien que
-        portuguese: ''
-        spanish: aunque
-        turkish:
+        fransez: bien que
+        portugez: ''
+        kasteyano: aunque
+        turko:
         - rağmen
         - olduğu halde
 

@@ -6,11 +6,11 @@ versions:
     accented: devér
 
     translations:
-        english: owe
-        french: ''
-        portuguese: ''
-        spanish: deber
-        turkish:
+        inglez: owe
+        fransez: ''
+        portugez: ''
+        kasteyano: deber
+        turko:
           - borçlu olmak
           - gerekmek
 
@@ -19,7 +19,7 @@ conjugations:
     yo:
       ladino: devo
       translations:
-        english: owe
-        spanish: debo
+        inglez: owe
+        kasteyano: debo
 
 

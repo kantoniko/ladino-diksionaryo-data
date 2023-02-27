@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: description
-        french: ''
-        portuguese: ''
-        spanish: descripción
-        turkish: tarif
+        inglez: description
+        fransez: ''
+        portugez: ''
+        kasteyano: descripción
+        turko: tarif
 
   - ladino: deskripsiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: descriptions
-        french: ''
-        portuguese: ''
-        spanish: descripciónes
-        turkish: tarif
+        inglez: descriptions
+        fransez: ''
+        portugez: ''
+        kasteyano: descripciónes
+        turko: tarif
 
 
 

@@ -9,12 +9,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - spectacles
           - glasses
-        french: lunettes
-        portuguese: ''
-        spanish: gafas
-        turkish: gözlük
+        fransez: lunettes
+        portugez: ''
+        kasteyano: gafas
+        turko: gözlük
 
 

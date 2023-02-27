@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: pandemic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pandemia
-      turkish: pandemi
+      inglez: pandemic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pandemia
+      turko: pandemi
 
   - ladino: pandemiyas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: pandemics
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pandemias
-      turkish: pandemiler
+      inglez: pandemics
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pandemias
+      turko: pandemiler
 
 
 

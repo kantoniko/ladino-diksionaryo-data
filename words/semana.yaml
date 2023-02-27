@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: week
-        french: ''
-        portuguese: ''
-        spanish: semana
-        turkish: hafta
+        inglez: week
+        fransez: ''
+        portugez: ''
+        kasteyano: semana
+        turko: hafta
 
   - ladino: semanas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: weeks
-        french: ''
-        portuguese: ''
-        spanish: semanas
-        turkish: haftalar
+        inglez: weeks
+        fransez: ''
+        portugez: ''
+        kasteyano: semanas
+        turko: haftalar
 
 
 

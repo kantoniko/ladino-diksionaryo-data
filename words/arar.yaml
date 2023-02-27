@@ -6,11 +6,11 @@ versions:
     accented: arár
 
     translations:
-        english: plough
-        french: labourer
-        portuguese: ''
-        spanish: arar
-        turkish:
+        inglez: plough
+        fransez: labourer
+        portugez: ''
+        kasteyano: arar
+        turko:
           - toprağı sürmek
           - çift sürmek
 

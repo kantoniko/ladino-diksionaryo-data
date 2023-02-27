@@ -12,11 +12,11 @@ versions:
       - ladino: kal
 
     translations:
-        english: synagogue
-        french: ''
-        portuguese: ''
-        spanish: sinagoga
-        turkish:
+        inglez: synagogue
+        fransez: ''
+        portugez: ''
+        kasteyano: sinagoga
+        turko:
         - havra
         - sinagog
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: doll
-        french: ''
-        portuguese: ''
-        spanish: muñeca
-        turkish: oyuncak bebek
+        inglez: doll
+        fransez: ''
+        portugez: ''
+        kasteyano: muñeca
+        turko: oyuncak bebek
 
   - ladino: kuklas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: dolls
-        french: ''
-        portuguese: ''
-        spanish: muñecas
-        turkish: oyuncak bebek
+        inglez: dolls
+        fransez: ''
+        portugez: ''
+        kasteyano: muñecas
+        turko: oyuncak bebek
 
 
 

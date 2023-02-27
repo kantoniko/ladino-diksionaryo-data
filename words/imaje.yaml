@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: image
-        french: ''
-        portuguese: ''
-        spanish: imagen
-        turkish:
+        inglez: image
+        fransez: ''
+        portugez: ''
+        kasteyano: imagen
+        turko:
         - resim
         - tasvir
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: images
-        french: ''
-        portuguese: ''
-        spanish: imagenes
-        turkish:
+        inglez: images
+        fransez: ''
+        portugez: ''
+        kasteyano: imagenes
+        turko:
         - resim
         - tasvir
 

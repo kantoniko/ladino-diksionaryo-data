@@ -5,11 +5,11 @@ versions:
   - ladino: sonyar
 
     translations:
-        english: dream
-        french: ''
-        portuguese: ''
-        spanish: soñar
-        turkish: rüya görmek
+        inglez: dream
+        fransez: ''
+        portugez: ''
+        kasteyano: soñar
+        turko: rüya görmek
 
 conjugations: {}
 

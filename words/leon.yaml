@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: lion
-        french: léon
-        portuguese: leão
-        spanish: león
-        turkish: aslan
+        inglez: lion
+        fransez: léon
+        portugez: leão
+        kasteyano: león
+        turko: aslan
 
   - ladino: leonesa
 
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: lioness
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: lioness
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 
   - ladino: leones
@@ -37,11 +37,11 @@ versions:
     number: plural
 
     translations:
-        english: lions
-        french: ''
-        portuguese: ''
-        spanish: leónes
-        turkish: aslanlar
+        inglez: lions
+        fransez: ''
+        portugez: ''
+        kasteyano: leónes
+        turko: aslanlar
 
   - ladino: leonesas
 
@@ -49,10 +49,10 @@ versions:
     number: plural
 
     translations:
-        english: lionesses
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: lionesses
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 

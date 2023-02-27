@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: objective
-        french: ''
-        portuguese: ''
-        spanish: objetivo
-        turkish: objektif
+        inglez: objective
+        fransez: ''
+        portugez: ''
+        kasteyano: objetivo
+        turko: objektif
 
   - ladino: objektiva
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: objective
-        french: ''
-        portuguese: ''
-        spanish: objetiva
-        turkish: objektif
+        inglez: objective
+        fransez: ''
+        portugez: ''
+        kasteyano: objetiva
+        turko: objektif
 
   - ladino: objektivos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: objectives
-        french: ''
-        portuguese: ''
-        spanish: objetivos
-        turkish: objektif
+        inglez: objectives
+        fransez: ''
+        portugez: ''
+        kasteyano: objetivos
+        turko: objektif
 
   - ladino: objektivas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: objectives
-        french: ''
-        portuguese: ''
-        spanish: objetivas
-        turkish: objektif
+        inglez: objectives
+        fransez: ''
+        portugez: ''
+        kasteyano: objetivas
+        turko: objektif
 
 
 

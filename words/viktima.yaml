@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: victim
-        french: victime
-        portuguese: ''
-        spanish: víctima
-        turkish:
+        inglez: victim
+        fransez: victime
+        portugez: ''
+        kasteyano: víctima
+        turko:
         - kurban
         - mağdur
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: victims
-        french: victimes
-        portuguese: ''
-        spanish: víctimas
-        turkish:
+        inglez: victims
+        fransez: victimes
+        portugez: ''
+        kasteyano: víctimas
+        turko:
         - kurban
         - mağdur
 

@@ -12,12 +12,12 @@ versions:
         accented: endjinára
 
     translations:
-      english: artichoke
-      french: artichaut
-      hebrew: ארטישוק
-      spanish:
+      inglez: artichoke
+      fransez: artichaut
+      ebreo: ארטישוק
+      kasteyano:
         - alcaucil
         - alcachofa
-      turkish: enginar
+      turko: enginar
 
 

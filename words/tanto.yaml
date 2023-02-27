@@ -9,14 +9,14 @@ versions:
     #number: singular plural
 
     translations:
-        english:
+        inglez:
         - so much
         - so many
-        french: autant
-        portuguese: ''
-        spanish:
+        fransez: autant
+        portugez: ''
+        kasteyano:
         - tanto
-        turkish: o kadar
+        turko: o kadar
 
   - ladino: tanta
     accented: tánta
@@ -25,14 +25,14 @@ versions:
     #number: singular plural
 
     translations:
-        english:
+        inglez:
         - so much
         - so many
-        french: autant
-        portuguese: ''
-        spanish:
+        fransez: autant
+        portugez: ''
+        kasteyano:
         - tanta
-        turkish: o kadar
+        turko: o kadar
 
 
 

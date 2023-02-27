@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - letter
         - card
-        french: carte
-        portuguese: cartão
-        spanish:
+        fransez: carte
+        portugez: cartão
+        kasteyano:
         - carta
         - tarjeta
-        turkish: kart
+        turko: kart
 
   - ladino: kartas
     accented: kártas
@@ -26,14 +26,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - letters
         - cards
-        french: carte
-        portuguese: cartão
-        spanish:
+        fransez: carte
+        portugez: cartão
+        kasteyano:
         - cartas
         - tarjetas
-        turkish: kart
+        turko: kart
 
 

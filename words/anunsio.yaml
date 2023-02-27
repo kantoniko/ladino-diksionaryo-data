@@ -9,12 +9,12 @@ versions:
 
 
     translations:
-      english: announcement
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: anuncio
-      turkish: ''
+      inglez: announcement
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: anuncio
+      turko: ''
 
   - ladino: anunsios
 
@@ -23,12 +23,12 @@ versions:
 
 
     translations:
-      english: announcements
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: anuncios
-      turkish: ''
+      inglez: announcements
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: anuncios
+      turko: ''
 
 
 

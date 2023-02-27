@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: neck
-        french: ''
-        portuguese: ''
-        spanish: cuello
-        turkish: boyun
+        inglez: neck
+        fransez: ''
+        portugez: ''
+        kasteyano: cuello
+        turko: boyun
 
   - ladino: gargantas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: necks
-        french: ''
-        portuguese: ''
-        spanish: cuellos
-        turkish: boyun
+        inglez: necks
+        fransez: ''
+        portugez: ''
+        kasteyano: cuellos
+        turko: boyun
 
 
 

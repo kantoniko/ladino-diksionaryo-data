@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: tooth
-        french: ''
-        portuguese: ''
-        spanish: diente
-        turkish: diş
+        inglez: tooth
+        fransez: ''
+        portugez: ''
+        kasteyano: diente
+        turko: diş
 
   - ladino: dientes
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: teeth
-        french: ''
-        portuguese: ''
-        spanish: dientes
-        turkish: diş
+        inglez: teeth
+        fransez: ''
+        portugez: ''
+        kasteyano: dientes
+        turko: diş
 
 
 

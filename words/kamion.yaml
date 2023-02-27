@@ -12,12 +12,12 @@ versions:
 
 
     translations:
-      english: truck
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: camión
-      turkish: ''
+      inglez: truck
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: camión
+      turko: ''
 
   - ladino: kamiones
     accented: kamiónes
@@ -27,12 +27,12 @@ versions:
 
 
     translations:
-      english: trucks
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: camiones
-      turkish: ''
+      inglez: trucks
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: camiones
+      turko: ''
 
 
 

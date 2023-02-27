@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: baby clothes
-        french: layette
-        portuguese: ''
-        spanish:
+        inglez: baby clothes
+        fransez: layette
+        portugez: ''
+        kasteyano:
         - faja
         - ajuar del recien nacido
-        turkish: kundak takımı
+        turko: kundak takımı
 

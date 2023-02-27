@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: clog
-        french: ''
-        portuguese: ''
-        spanish: zueca
-        turkish:
+        inglez: clog
+        fransez: ''
+        portugez: ''
+        kasteyano: zueca
+        turko:
         - nalın
         - takunya
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: clogs
-        french: ''
-        portuguese: ''
-        spanish: zuecas
-        turkish:
+        inglez: clogs
+        fransez: ''
+        portugez: ''
+        kasteyano: zuecas
+        turko:
         - nalın
         - takunya
 

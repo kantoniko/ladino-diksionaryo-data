@@ -8,11 +8,11 @@ versions:
       - ladino: amejorear
 
     translations:
-        english: improve
-        french: améliorer
-        portuguese: ''
-        spanish: mejorar
-        turkish:
+        inglez: improve
+        fransez: améliorer
+        portugez: ''
+        kasteyano: mejorar
+        turko:
           - ıslah etmek
           - iyileştirmek
 

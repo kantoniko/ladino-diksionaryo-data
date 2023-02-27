@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: actress
-        french: ''
-        portuguese: ''
-        spanish: actriz
-        turkish: aktris
+        inglez: actress
+        fransez: ''
+        portugez: ''
+        kasteyano: actriz
+        turko: aktris
 
   - ladino: aktrisas
     accented: aktrísas
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: actresses
-        french: ''
-        portuguese: ''
-        spanish: actrizas
-        turkish: aktris
+        inglez: actresses
+        fransez: ''
+        portugez: ''
+        kasteyano: actrizas
+        turko: aktris
 
 

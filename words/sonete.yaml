@@ -9,10 +9,10 @@ versions:
     number: singular
 
     translations:
-        english: sound
-        french: son
-        portuguese: ''
-        spanish: sonido
-        turkish: ses
+        inglez: sound
+        fransez: son
+        portugez: ''
+        kasteyano: sonido
+        turko: ses
 
 

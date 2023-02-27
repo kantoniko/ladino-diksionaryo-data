@@ -10,15 +10,15 @@ versions:
         accented: apoyár
 
     translations:
-        english:
+        inglez:
           - lean
           - support
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - arrimar
           - apoyar
-        turkish: dayamak
+        turko: dayamak
 
 conjugations: {}
 

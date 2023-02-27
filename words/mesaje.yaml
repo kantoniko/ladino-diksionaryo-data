@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: message
-        french: message
-        portuguese: mensagem
-        spanish: mensaje
-        turkish: mesaj
+        inglez: message
+        fransez: message
+        portugez: mensagem
+        kasteyano: mensaje
+        turko: mesaj
 
   - ladino: mesajes
     accented: mesájes
@@ -25,10 +25,10 @@ versions:
     number: plural
 
     translations:
-        english: messages
-        french: messages
-        portuguese: ''
-        spanish: mensajes
-        turkish: mesaj
+        inglez: messages
+        fransez: messages
+        portugez: ''
+        kasteyano: mensajes
+        turko: mesaj
 
 

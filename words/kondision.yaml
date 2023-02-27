@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: condition
-        french: ''
-        portuguese: ''
-        spanish: condición
-        turkish: şart
+        inglez: condition
+        fransez: ''
+        portugez: ''
+        kasteyano: condición
+        turko: şart
 
   - ladino: kondisiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: conditions
-        french: ''
-        portuguese: ''
-        spanish: condiciónes
-        turkish: şart
+        inglez: conditions
+        fransez: ''
+        portugez: ''
+        kasteyano: condiciónes
+        turko: şart
 
 
 

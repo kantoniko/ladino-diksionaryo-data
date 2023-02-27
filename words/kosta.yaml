@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - coast
         - shore
-        french: ''
-        portuguese: ''
-        spanish: costa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: costa
+        turko:
         - kıyı
         - sahil
 

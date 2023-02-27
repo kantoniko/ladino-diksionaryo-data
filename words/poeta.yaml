@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: poet
-        french: ''
-        portuguese: ''
-        spanish: poeta
-        turkish: şair
+        inglez: poet
+        fransez: ''
+        portugez: ''
+        kasteyano: poeta
+        turko: şair
 
   - ladino: poetas
     accented: poétas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: poets
-        french: ''
-        portuguese: ''
-        spanish: poetas
-        turkish: şair
+        inglez: poets
+        fransez: ''
+        portugez: ''
+        kasteyano: poetas
+        turko: şair
 

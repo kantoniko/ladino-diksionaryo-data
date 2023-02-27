@@ -7,11 +7,11 @@ versions:
     number: singular
 
     translations:
-        english: confused
-        french: ''
-        portuguese: ''
-        spanish: confuso
-        turkish: karışik
+        inglez: confused
+        fransez: ''
+        portugez: ''
+        kasteyano: confuso
+        turko: karışik
 
   - ladino: konfuza
 
@@ -19,11 +19,11 @@ versions:
     number: singular
 
     translations:
-        english: confused
-        french: ''
-        portuguese: ''
-        spanish: confusa
-        turkish: karışik
+        inglez: confused
+        fransez: ''
+        portugez: ''
+        kasteyano: confusa
+        turko: karışik
 
   - ladino: konfuzos
 
@@ -31,11 +31,11 @@ versions:
     number: plural
 
     translations:
-        english: confused
-        french: ''
-        portuguese: ''
-        spanish: confusos
-        turkish: karışik
+        inglez: confused
+        fransez: ''
+        portugez: ''
+        kasteyano: confusos
+        turko: karışik
 
   - ladino: konfuzas
 
@@ -43,11 +43,11 @@ versions:
     number: plural
 
     translations:
-        english: confused
-        french: ''
-        portuguese: ''
-        spanish: confusas
-        turkish: karışik
+        inglez: confused
+        fransez: ''
+        portugez: ''
+        kasteyano: confusas
+        turko: karışik
 
 
 

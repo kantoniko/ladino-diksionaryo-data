@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - joy
         - happiness
-        french: ''
-        portuguese: ''
-        spanish: alegría
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: alegría
+        turko:
         - neşe
         - sevinç
         - şenlik
@@ -35,13 +35,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - joys
         - happinesses
-        french: ''
-        portuguese: ''
-        spanish: alegrías
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: alegrías
+        turko:
         - neşe
         - sevinç
         - şenlik

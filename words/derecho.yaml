@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - right
         - straight
-        french: ''
-        portuguese: ''
-        spanish: derecho
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: derecho
+        turko:
         - hak
         - yetki
         - doğru

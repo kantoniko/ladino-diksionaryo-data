@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: rent
-        french: loyer
-        portuguese: ''
-        spanish: alquiler
-        turkish: kira
+        inglez: rent
+        fransez: loyer
+        portugez: ''
+        kasteyano: alquiler
+        turko: kira
 

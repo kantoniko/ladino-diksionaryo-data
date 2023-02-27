@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - advice
         - counsel
-        french: ''
-        portuguese: ''
-        spanish: consejo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: consejo
+        turko:
         - tavsiye
         - nasihat
         - öğüt
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - advices
         - counsel
-        french: ''
-        portuguese: ''
-        spanish: consejos
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: consejos
+        turko: ''
 

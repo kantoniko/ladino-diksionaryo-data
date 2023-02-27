@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: long
-        french: ''
-        portuguese: ''
-        spanish: largo
-        turkish: uzun
+        inglez: long
+        fransez: ''
+        portugez: ''
+        kasteyano: largo
+        turko: uzun
 
   - ladino: larga
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: long
-        french: ''
-        portuguese: ''
-        spanish: larga
-        turkish: uzun
+        inglez: long
+        fransez: ''
+        portugez: ''
+        kasteyano: larga
+        turko: uzun
 
   - ladino: largos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: long
-        french: ''
-        portuguese: ''
-        spanish: largos
-        turkish: uzun
+        inglez: long
+        fransez: ''
+        portugez: ''
+        kasteyano: largos
+        turko: uzun
 
   - ladino: largas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: long
-        french: ''
-        portuguese: ''
-        spanish: largas
-        turkish: uzun
+        inglez: long
+        fransez: ''
+        portugez: ''
+        kasteyano: largas
+        turko: uzun
 
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fault
         - error
-        french: ''
-        portuguese: ''
-        spanish: error
-        turkish: hata
+        fransez: ''
+        portugez: ''
+        kasteyano: error
+        turko: hata
 
   - ladino: faltas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - faults
         - errors
-        french: ''
-        portuguese: ''
-        spanish: errores
-        turkish: hata
+        fransez: ''
+        portugez: ''
+        kasteyano: errores
+        turko: hata
 
 
 

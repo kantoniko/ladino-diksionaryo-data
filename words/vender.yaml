@@ -4,11 +4,11 @@ orijen: Jeneral
 versions:
   - ladino: vender
     translations:
-        english: sell
-        french: vendre
-        portuguese: ''
-        spanish: vender
-        turkish: satmak
+        inglez: sell
+        fransez: vendre
+        portugez: ''
+        kasteyano: vender
+        turko: satmak
 
 conjugations: {}
 

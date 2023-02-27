@@ -13,15 +13,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - wasp
         - bee
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - avispa
         - abeja
-        turkish:
+        turko:
         - eşek arısı
         - arı
 

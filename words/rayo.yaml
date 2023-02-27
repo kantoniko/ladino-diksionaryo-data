@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: lightning
-        french: ''
-        portuguese: ''
-        spanish: rayo
-        turkish: şimşek
+        inglez: lightning
+        fransez: ''
+        portugez: ''
+        kasteyano: rayo
+        turko: şimşek
 
   - ladino: rayos
 
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: lightnings
-        french: ''
-        portuguese: ''
-        spanish: rayos
-        turkish: şimşek
+        inglez: lightnings
+        fransez: ''
+        portugez: ''
+        kasteyano: rayos
+        turko: şimşek
 
 
 

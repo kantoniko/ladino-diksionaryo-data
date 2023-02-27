@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: content
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: contenido
-      turkish: içerik
+      inglez: content
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: contenido
+      turko: içerik
 
   - ladino: kontenidos
 
@@ -22,12 +22,12 @@ versions:
     number: plural
 
     translations:
-      english: contents
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: contenidos
-      turkish: içerikler
+      inglez: contents
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: contenidos
+      turko: içerikler
 
 
 

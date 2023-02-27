@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: future
-        french: avenir
-        hebrew: עתיד
-        portuguese: ''
-        spanish: futuro
-        turkish:
+        inglez: future
+        fransez: avenir
+        ebreo: עתיד
+        portugez: ''
+        kasteyano: futuro
+        turko:
         - gelecek
         - istikbal
 

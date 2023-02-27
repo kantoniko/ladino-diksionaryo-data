@@ -8,11 +8,11 @@ versions:
       - ladino: piedrer
 
     translations:
-        english: lose
-        french: ''
-        portuguese: ''
-        spanish: perder
-        turkish:
+        inglez: lose
+        fransez: ''
+        portugez: ''
+        kasteyano: perder
+        turko:
         - kaybetmek
         - zarar etmek
 

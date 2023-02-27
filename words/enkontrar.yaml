@@ -5,13 +5,13 @@ versions:
   - ladino: enkontrar
 
     translations:
-        english:
+        inglez:
         - find
         - meet
-        french: ''
-        portuguese: ''
-        spanish: encontrar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: encontrar
+        turko:
         - bulmak
         - buluşmak
 

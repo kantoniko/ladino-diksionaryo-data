@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - anger
         - fury
-        french:
+        fransez:
         - colère
         - courroux
         - emportement
-        portuguese: ''
-        spanish: cólera
-        turkish:
+        portugez: ''
+        kasteyano: cólera
+        turko:
         - öfke
         - hiddet
         - kızgınlık

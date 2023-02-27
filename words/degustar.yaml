@@ -5,11 +5,11 @@ versions:
   - ladino: degustar
 
     translations:
-        english: taste (wine)
-        french: ''
-        portuguese: ''
-        spanish: catar (vino)
-        turkish: tatmak (şarap)
+        inglez: taste (wine)
+        fransez: ''
+        portugez: ''
+        kasteyano: catar (vino)
+        turko: tatmak (şarap)
 
 conjugations: {}
 

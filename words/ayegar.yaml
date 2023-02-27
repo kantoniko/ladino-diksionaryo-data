@@ -5,13 +5,13 @@ versions:
   - ladino: ayegar
 
     translations:
-        english:
+        inglez:
         - reach
         - arrive
-        french: ''
-        portuguese: ''
-        spanish: llegar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: llegar
+        turko:
         - gelmek
         - varmak
 

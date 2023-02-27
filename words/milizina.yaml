@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - medicine
         - remedy
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - medicina
         - remedio
-        turkish:
+        turko:
         - ilaç
         - deva
 

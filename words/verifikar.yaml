@@ -5,12 +5,12 @@ versions:
   - ladino: verifikar
 
     translations:
-      english: verify
-      french: vérifier
-      hebrew: ''
-      portuguese: ''
-      spanish: verificar
-      turkish: denetleme
+      inglez: verify
+      fransez: vérifier
+      ebreo: ''
+      portugez: ''
+      kasteyano: verificar
+      turko: denetleme
 
 conjugations: {}
 

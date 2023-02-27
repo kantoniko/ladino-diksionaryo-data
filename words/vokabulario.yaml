@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: vocabulary
-      french: vocabulaire
-      hebrew: ''
-      portuguese: ''
-      spanish: vocabulario
-      turkish: kelime hazinesi
+      inglez: vocabulary
+      fransez: vocabulaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: vocabulario
+      turko: kelime hazinesi
 
   - ladino: vokabularios
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: vocabularies
-      french:  vocabulaires
-      hebrew: ''
-      portuguese: ''
-      spanish: vocabularios
-      turkish: kelime hazineleri
+      inglez: vocabularies
+      fransez:  vocabulaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: vocabularios
+      turko: kelime hazineleri
 
 
 

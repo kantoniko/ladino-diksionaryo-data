@@ -12,13 +12,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - glass
         - tumbler
-        french: ''
-        portuguese: ''
-        spanish: vaso
-        turkish: bardak
+        fransez: ''
+        portugez: ''
+        kasteyano: vaso
+        turko: bardak
 
   - ladino: kupas
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - glasses
         - tumblers
-        french: ''
-        portuguese: ''
-        spanish: vasos
-        turkish: bardak
+        fransez: ''
+        portugez: ''
+        kasteyano: vasos
+        turko: bardak
 
 
 

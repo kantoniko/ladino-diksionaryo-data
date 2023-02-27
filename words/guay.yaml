@@ -8,16 +8,16 @@ versions:
       - ladino: Ay!
 
     translations:
-        english:
+        inglez:
         - Alas!
         - Oh!
-        french: ''
-        portuguese:
+        fransez: ''
+        portugez:
           - Ai!
           - Ah!
           - Opa!
-        spanish: ¡Ay!
-        turkish:
+        kasteyano: ¡Ay!
+        turko:
         - Ah!
         - Vah!
 

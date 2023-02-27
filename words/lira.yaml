@@ -5,9 +5,9 @@ versions:
   - ladino: lira
 
     translations:
-        english: Turkish currency
-        french: ''
-        portuguese: ''
-        spanish: dinero turco
-        turkish: lira
+        inglez: Turkish currency
+        fransez: ''
+        portugez: ''
+        kasteyano: dinero turco
+        turko: lira
 

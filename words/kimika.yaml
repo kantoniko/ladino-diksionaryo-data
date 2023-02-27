@@ -8,10 +8,10 @@ versions:
     number: singular
 
     translations:
-        english: chemistry
-        french: ''
-        portuguese: ''
-        spanish: química
-        turkish: kimya
+        inglez: chemistry
+        fransez: ''
+        portugez: ''
+        kasteyano: química
+        turko: kimya
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lame
         - limping
-        french: ''
-        portuguese: ''
-        spanish: cojo
-        turkish: topal
+        fransez: ''
+        portugez: ''
+        kasteyano: cojo
+        turko: topal
 
   - ladino: kosha
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lame
         - limping
-        french: ''
-        portuguese: ''
-        spanish: coja
-        turkish: topal
+        fransez: ''
+        portugez: ''
+        kasteyano: coja
+        turko: topal
 
   - ladino: koshos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - lame
         - limping
-        french: ''
-        portuguese: ''
-        spanish: cojos
-        turkish: topal
+        fransez: ''
+        portugez: ''
+        kasteyano: cojos
+        turko: topal
 
   - ladino: koshas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - lame
         - limping
-        french: ''
-        portuguese: ''
-        spanish: cojas
-        turkish: topal
+        fransez: ''
+        portugez: ''
+        kasteyano: cojas
+        turko: topal
 
 
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: plural
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: plural
-      turkish: çoğul
+      inglez: plural
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: plural
+      turko: çoğul
 
   - ladino: plurales
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: plurals
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: plurales
-      turkish: çoğullar
+      inglez: plurals
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: plurales
+      turko: çoğullar
 
 
 

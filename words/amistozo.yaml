@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: friendly
-        french: amicale
-        portuguese: amavel
-        spanish: amistoso
-        turkish: dostça
+        inglez: friendly
+        fransez: amicale
+        portugez: amavel
+        kasteyano: amistoso
+        turko: dostça
 
   - ladino: amistoza
     accented: amistóza
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: friendly
-        french: amicale
-        portuguese: amavel
-        spanish: amistosa
-        turkish: dostça
+        inglez: friendly
+        fransez: amicale
+        portugez: amavel
+        kasteyano: amistosa
+        turko: dostça
 
   - ladino: amistozos
     accented: amistózos
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: friendly
-        french: amicale
-        portuguese: amáveis
-        spanish: amistosos
-        turkish: dostça
+        inglez: friendly
+        fransez: amicale
+        portugez: amáveis
+        kasteyano: amistosos
+        turko: dostça
 
   - ladino: amistozas
     accented: amistózas
@@ -48,10 +48,10 @@ versions:
     number: plural
 
     translations:
-        english: friendly
-        french: amicale
-        portuguese: amáveis
-        spanish: amistosas
-        turkish: dostça
+        inglez: friendly
+        fransez: amicale
+        portugez: amáveis
+        kasteyano: amistosas
+        turko: dostça
 
 

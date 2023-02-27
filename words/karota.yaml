@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: carrot
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: zanahoria
-      turkish: ''
+      inglez: carrot
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: zanahoria
+      turko: ''
 
   - ladino: karotas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: carrots
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: zanahorias
-      turkish: ''
+      inglez: carrots
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: zanahorias
+      turko: ''
 
 
 

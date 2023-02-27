@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - my
         - me
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - mi
         - mí
-        turkish:
+        turko:
         - benim
         - ben
 
@@ -26,15 +26,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - my
         - me
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - mis
         - mís
-        turkish: ''
+        turko: ''
 
 
 

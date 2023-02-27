@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - part
           - game
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - parte
           - partida
-        turkish:
+        turko:
           - kısım
           - bölüm
           - el (oyun)
@@ -27,15 +27,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - parts
           - games
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - partes
           - partidas
-        turkish:
+        turko:
           - kısım
           - bölüm
           - el (oyun)

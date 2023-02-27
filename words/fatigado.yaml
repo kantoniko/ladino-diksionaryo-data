@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: fatigado
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: fatigado
+        turko: yorgun
 
   - ladino: fatigada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: fatigada
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: fatigada
+        turko: yorgun
 
   - ladino: fatigados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: fatigados
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: fatigados
+        turko: yorgun
 
   - ladino: fatigadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: tired
-        french: ''
-        portuguese: ''
-        spanish: fatigadas
-        turkish: yorgun
+        inglez: tired
+        fransez: ''
+        portugez: ''
+        kasteyano: fatigadas
+        turko: yorgun
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: blind
-        french: ''
-        portuguese: ''
-        spanish: ciego
-        turkish: kör
+        inglez: blind
+        fransez: ''
+        portugez: ''
+        kasteyano: ciego
+        turko: kör
 
   - ladino: siega
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: blind
-        french: ''
-        portuguese: ''
-        spanish: ciega
-        turkish: kör
+        inglez: blind
+        fransez: ''
+        portugez: ''
+        kasteyano: ciega
+        turko: kör
 
   - ladino: siegos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: blind
-        french: ''
-        portuguese: ''
-        spanish: ciegos
-        turkish: körler
+        inglez: blind
+        fransez: ''
+        portugez: ''
+        kasteyano: ciegos
+        turko: körler
 
   - ladino: siegas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: blind
-        french: ''
-        portuguese: ''
-        spanish: ciega
-        turkish: körler
+        inglez: blind
+        fransez: ''
+        portugez: ''
+        kasteyano: ciega
+        turko: körler
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: chemist
-        french: ''
-        portuguese: ''
-        spanish: químico
-        turkish:
+        inglez: chemist
+        fransez: ''
+        portugez: ''
+        kasteyano: químico
+        turko:
         - kimyevî
         - kimyager
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: chemist
-        french: ''
-        portuguese: ''
-        spanish: química
-        turkish:
+        inglez: chemist
+        fransez: ''
+        portugez: ''
+        kasteyano: química
+        turko:
         - kimyevî
         - kimyager
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: chemists
-        french: ''
-        portuguese: ''
-        spanish: químicos
-        turkish:
+        inglez: chemists
+        fransez: ''
+        portugez: ''
+        kasteyano: químicos
+        turko:
         - kimyevî
         - kimyager
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: chemists
-        french: ''
-        portuguese: ''
-        spanish: químicas
-        turkish:
+        inglez: chemists
+        fransez: ''
+        portugez: ''
+        kasteyano: químicas
+        turko:
         - kimyevî
         - kimyager
 

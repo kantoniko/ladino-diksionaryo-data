@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - romance
         - ballad
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - romance
         - balada
-        turkish:
+        turko:
         - balad
         - geleneksel öykü
 
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - romances
         - ballads
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - romances
         - baladas
-        turkish:
+        turko:
         - balad
         - geleneksel öykü
 

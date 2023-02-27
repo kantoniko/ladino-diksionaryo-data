@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: miracle
-        french: ''
-        portuguese: ''
-        spanish: milagro
-        turkish: mucize
+        inglez: miracle
+        fransez: ''
+        portugez: ''
+        kasteyano: milagro
+        turko: mucize
 
   - ladino: mirakolos
 
@@ -26,11 +26,11 @@ versions:
     number: plural
 
     translations:
-        english: miracles
-        french: ''
-        portuguese: ''
-        spanish: milagros
-        turkish: mucize
+        inglez: miracles
+        fransez: ''
+        portugez: ''
+        kasteyano: milagros
+        turko: mucize
 
 
 

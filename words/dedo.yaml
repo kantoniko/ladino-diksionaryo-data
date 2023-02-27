@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: finger
-        french: ''
-        portuguese: ''
-        spanish: dedo
-        turkish: parmak
+        inglez: finger
+        fransez: ''
+        portugez: ''
+        kasteyano: dedo
+        turko: parmak
 
   - ladino: dedos
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: fingers
-        french: ''
-        portuguese: ''
-        spanish: dedos
-        turkish: parmak
+        inglez: fingers
+        fransez: ''
+        portugez: ''
+        kasteyano: dedos
+        turko: parmak
 
 
 

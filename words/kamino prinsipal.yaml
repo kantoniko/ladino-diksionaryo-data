@@ -5,14 +5,14 @@ versions:
   - ladino: kamino prinsipal
 
     translations:
-        english:
+        inglez:
         - main street
         - highway
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - carretera
         - calzada
-        turkish: anayol
+        turko: anayol
 
 

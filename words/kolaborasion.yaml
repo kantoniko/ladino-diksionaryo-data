@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: collaboration
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: colaboración
-      turkish: ''
+      inglez: collaboration
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: colaboración
+      turko: ''
 
   - ladino: kolaborasiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: collaborations
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: colaboraciónes
-      turkish: ''
+      inglez: collaborations
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: colaboraciónes
+      turko: ''
 
 
 

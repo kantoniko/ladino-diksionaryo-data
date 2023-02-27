@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - face
         - shape
-        french: ''
-        portuguese: ''
-        spanish: figura
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: figura
+        turko:
         - surat
         - figür
 

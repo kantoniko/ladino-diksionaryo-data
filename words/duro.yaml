@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: hard
-        french: dure
-        portuguese: ''
-        spanish: duro
-        turkish:
+        inglez: hard
+        fransez: dure
+        portugez: ''
+        kasteyano: duro
+        turko:
         - sert
         - zorlu
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: hard
-        french: ''
-        portuguese: ''
-        spanish: dura
-        turkish:
+        inglez: hard
+        fransez: ''
+        portugez: ''
+        kasteyano: dura
+        turko:
         - sert
         - zorlu
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: hard
-        french: ''
-        portuguese: ''
-        spanish: duros
-        turkish:
+        inglez: hard
+        fransez: ''
+        portugez: ''
+        kasteyano: duros
+        turko:
         - sert
         - zorlu
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: hard
-        french: ''
-        portuguese: ''
-        spanish: duras
-        turkish:
+        inglez: hard
+        fransez: ''
+        portugez: ''
+        kasteyano: duras
+        turko:
         - sert
         - zorlu
 

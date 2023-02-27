@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: universal
-        french: universel
-        portuguese: ''
-        spanish: universal
-        turkish: evrensel
+        inglez: universal
+        fransez: universel
+        portugez: ''
+        kasteyano: universal
+        turko: evrensel
 
   - ladino: universala
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: universal
-        french: universelle
-        portuguese: ''
-        spanish: universala
-        turkish: evrensel
+        inglez: universal
+        fransez: universelle
+        portugez: ''
+        kasteyano: universala
+        turko: evrensel
 
   - ladino: universales
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: universal
-        french: universels
-        portuguese: ''
-        spanish: universales
-        turkish: evrensel
+        inglez: universal
+        fransez: universels
+        portugez: ''
+        kasteyano: universales
+        turko: evrensel
 
   - ladino: universalas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: universal
-        french: universelles
-        portuguese: ''
-        spanish: universalas
-        turkish: evrensel
+        inglez: universal
+        fransez: universelles
+        portugez: ''
+        kasteyano: universalas
+        turko: evrensel
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: lid
-        french: bouchon
-        portuguese: ''
-        spanish: tapón
-        turkish:
+        inglez: lid
+        fransez: bouchon
+        portugez: ''
+        kasteyano: tapón
+        turko:
         - kapak
         - tipa
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: lids
-        french: bouchons
-        portuguese: ''
-        spanish: tapónes
-        turkish:
+        inglez: lids
+        fransez: bouchons
+        portugez: ''
+        kasteyano: tapónes
+        turko:
         - kapak
         - tipa
 

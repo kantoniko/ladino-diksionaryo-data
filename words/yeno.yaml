@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: full
-        french: plein
-        portuguese: ''
-        spanish: lleno
-        turkish: dolu
+        inglez: full
+        fransez: plein
+        portugez: ''
+        kasteyano: lleno
+        turko: dolu
 
   - ladino: yena
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: full
-        french: pleine
-        portuguese: ''
-        spanish: llena
-        turkish: dolu
+        inglez: full
+        fransez: pleine
+        portugez: ''
+        kasteyano: llena
+        turko: dolu
 
   - ladino: yenos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: full
-        french: pleins
-        portuguese: ''
-        spanish: llenos
-        turkish: dolu
+        inglez: full
+        fransez: pleins
+        portugez: ''
+        kasteyano: llenos
+        turko: dolu
 
   - ladino: yenas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: full
-        french: pleines
-        portuguese: ''
-        spanish: llenas
-        turkish: dolu
+        inglez: full
+        fransez: pleines
+        portugez: ''
+        kasteyano: llenas
+        turko: dolu
 
 

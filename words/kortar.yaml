@@ -5,11 +5,11 @@ versions:
   - ladino: kortar
 
     translations:
-        english: cut
-        french: ''
-        portuguese: ''
-        spanish: cortar
-        turkish: kesmek
+        inglez: cut
+        fransez: ''
+        portugez: ''
+        kasteyano: cortar
+        turko: kesmek
 
 conjugations: {}
 

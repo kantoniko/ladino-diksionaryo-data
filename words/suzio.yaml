@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: dirty
-        french: ''
-        portuguese: ''
-        spanish: sucio
-        turkish: pis
+        inglez: dirty
+        fransez: ''
+        portugez: ''
+        kasteyano: sucio
+        turko: pis
 
   - ladino: suzia
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: dirty
-        french: ''
-        portuguese: ''
-        spanish: sucia
-        turkish: pis
+        inglez: dirty
+        fransez: ''
+        portugez: ''
+        kasteyano: sucia
+        turko: pis
 
   - ladino: suzios
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: dirty
-        french: ''
-        portuguese: ''
-        spanish: sucios
-        turkish: pis
+        inglez: dirty
+        fransez: ''
+        portugez: ''
+        kasteyano: sucios
+        turko: pis
 
   - ladino: suzias
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: dirty
-        french: ''
-        portuguese: ''
-        spanish: sucias
-        turkish: pis
+        inglez: dirty
+        fransez: ''
+        portugez: ''
+        kasteyano: sucias
+        turko: pis
 
 
 

@@ -11,10 +11,10 @@ versions:
     number: singular
 
     translations:
-        english: mattress
-        french: matelas
-        portuguese: colchão
-        spanish: colchón
-        turkish: şilte
+        inglez: mattress
+        fransez: matelas
+        portugez: colchão
+        kasteyano: colchón
+        turko: şilte
 
 

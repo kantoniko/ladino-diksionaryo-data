@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - trial
         - proof
-        french: ''
-        portuguese: ''
-        spanish: prueba
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: prueba
+        turko:
         - prova
         - ispat
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - trials
         - proofs
-        french: ''
-        portuguese: ''
-        spanish: pruebas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: pruebas
+        turko:
         - prova
         - ispat
 

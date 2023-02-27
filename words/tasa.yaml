@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cup
-        french: tasse
-        portuguese: ''
-        spanish: copa
-        turkish:
+        inglez: cup
+        fransez: tasse
+        portugez: ''
+        kasteyano: copa
+        turko:
         - fincan
         - kupa
 
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: cups
-        french: tasses
-        portuguese: ''
-        spanish: copas
-        turkish:
+        inglez: cups
+        fransez: tasses
+        portugez: ''
+        kasteyano: copas
+        turko:
         - fincan
         - kupa
 

@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: doctor
-        french: ''
-        portuguese: ''
-        spanish: médico
-        turkish: doktor
+        inglez: doctor
+        fransez: ''
+        portugez: ''
+        kasteyano: médico
+        turko: doktor
 
   - ladino: medika
 
@@ -28,11 +28,11 @@ versions:
     number: singular
 
     translations:
-        english: doctor
-        french: ''
-        portuguese: ''
-        spanish: médica
-        turkish: doktor
+        inglez: doctor
+        fransez: ''
+        portugez: ''
+        kasteyano: médica
+        turko: doktor
 
   - ladino: medikos
 
@@ -43,11 +43,11 @@ versions:
     number: plural
 
     translations:
-        english: doctors
-        french: ''
-        portuguese: ''
-        spanish: médicos
-        turkish: doktor
+        inglez: doctors
+        fransez: ''
+        portugez: ''
+        kasteyano: médicos
+        turko: doktor
 
   - ladino: medikas
 
@@ -58,11 +58,11 @@ versions:
     number: plural
 
     translations:
-        english: doctors
-        french: ''
-        portuguese: ''
-        spanish: médicas
-        turkish: doktor
+        inglez: doctors
+        fransez: ''
+        portugez: ''
+        kasteyano: médicas
+        turko: doktor
 
 
 

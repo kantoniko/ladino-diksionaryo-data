@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: brush
-        french: ''
-        portuguese: ''
-        spanish: brocha
-        turkish: fırça
+        inglez: brush
+        fransez: ''
+        portugez: ''
+        kasteyano: brocha
+        turko: fırça
 
   - ladino: furchas
     accented: fúrchas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: brushes
-        french: ''
-        portuguese: ''
-        spanish: brochas
-        turkish: fırça
+        inglez: brushes
+        fransez: ''
+        portugez: ''
+        kasteyano: brochas
+        turko: fırça
 
 

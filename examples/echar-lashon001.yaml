@@ -1,7 +1,7 @@
 - ladino: Ospital. No me plaze las golores de los ospitales.
-  turkish: Hastane. Hastane kokularını hiç sevmem.
-  english: Hospital.  I don't like hospital odors.
-  spanish: Hospital.  No me gustan los olores de los hospitales.
+  turko: Hastane. Hastane kokularını hiç sevmem.
+  inglez: Hospital.  I don't like hospital odors.
+  kasteyano: Hospital.  No me gustan los olores de los hospitales.
   audio:
     - person: eti-ojalvo
       arkivo: ospital-no-me-plaze-las-dolores.ogg

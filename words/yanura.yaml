@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: plain
-        french: plaine
-        portuguese: planície
-        spanish: llanura
-        turkish:
+        inglez: plain
+        fransez: plaine
+        portugez: planície
+        kasteyano: llanura
+        turko:
         - ova
         - yazı
 

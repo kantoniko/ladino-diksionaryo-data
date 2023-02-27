@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: translator
-        french: ''
-        portuguese: ''
-        spanish: traductor
-        turkish: tercüman
+        inglez: translator
+        fransez: ''
+        portugez: ''
+        kasteyano: traductor
+        turko: tercüman
 
   - ladino: traduktora
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: translator
-        french: ''
-        portuguese: ''
-        spanish: traductora
-        turkish: tercüman
+        inglez: translator
+        fransez: ''
+        portugez: ''
+        kasteyano: traductora
+        turko: tercüman
 
   - ladino: traduktores
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: translators
-        french: ''
-        portuguese: ''
-        spanish: traductores
-        turkish: tercüman
+        inglez: translators
+        fransez: ''
+        portugez: ''
+        kasteyano: traductores
+        turko: tercüman
 
   - ladino: traduktoras
 
@@ -46,11 +46,11 @@ versions:
     number: plural
 
     translations:
-        english: translators
-        french: ''
-        portuguese: ''
-        spanish: traductoras
-        turkish: tercüman
+        inglez: translators
+        fransez: ''
+        portugez: ''
+        kasteyano: traductoras
+        turko: tercüman
 
 
 

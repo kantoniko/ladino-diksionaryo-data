@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lord
         - master
-        french: personne riche et notable
-        portuguese: patrão
-        spanish:
+        fransez: personne riche et notable
+        portugez: patrão
+        kasteyano:
         - señor
         - amo
-        turkish: ağa
+        turko: ağa
 

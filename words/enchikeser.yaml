@@ -5,11 +5,11 @@ versions:
   - ladino: enchikeser
 
     translations:
-        english: reduce
-        french: ''
-        portuguese: ''
-        spanish: reducir
-        turkish: küçültmek
+        inglez: reduce
+        fransez: ''
+        portugez: ''
+        kasteyano: reducir
+        turko: küçültmek
 
 conjugations: {}
 

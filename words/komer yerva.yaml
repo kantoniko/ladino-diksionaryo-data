@@ -5,12 +5,12 @@ versions:
   - ladino: komer yerva
 
     translations:
-        english: graze
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: graze
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pacer
         - pastar
-        turkish: otlamak
+        turko: otlamak
 
 

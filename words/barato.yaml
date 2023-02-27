@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cheap
-        french: bon marché
-        portuguese: ''
-        spanish: barato
-        turkish: ucuz
+        inglez: cheap
+        fransez: bon marché
+        portugez: ''
+        kasteyano: barato
+        turko: ucuz
 
   - ladino: barata
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: cheap
-        french: bon marché
-        portuguese: ''
-        spanish: barata
-        turkish: ucuz
+        inglez: cheap
+        fransez: bon marché
+        portugez: ''
+        kasteyano: barata
+        turko: ucuz
 
   - ladino: baratos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: cheap
-        french: bon marché
-        portuguese: ''
-        spanish: baratos
-        turkish: ucuz
+        inglez: cheap
+        fransez: bon marché
+        portugez: ''
+        kasteyano: baratos
+        turko: ucuz
 
   - ladino: baratas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: cheap
-        french: bon marché
-        portuguese: ''
-        spanish: baratas
-        turkish: ucuz
+        inglez: cheap
+        fransez: bon marché
+        portugez: ''
+        kasteyano: baratas
+        turko: ucuz
 
 

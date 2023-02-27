@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: army
-        french: ''
-        portuguese: ''
-        spanish: ejército
-        turkish: ordu
+        inglez: army
+        fransez: ''
+        portugez: ''
+        kasteyano: ejército
+        turko: ordu
 
   - ladino: armadas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: armies
-        french: ''
-        portuguese: ''
-        spanish: ejércitos
-        turkish: ordu
+        inglez: armies
+        fransez: ''
+        portugez: ''
+        kasteyano: ejércitos
+        turko: ordu
 
 
 

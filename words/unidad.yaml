@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: unity
-        french: unité
-        portuguese: ''
-        spanish: unidad
-        turkish: birlik
+        inglez: unity
+        fransez: unité
+        portugez: ''
+        kasteyano: unidad
+        turko: birlik
 
   - ladino: unidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: unities
-        french: unités
-        portuguese: ''
-        spanish: unidades
-        turkish: birlik
+        inglez: unities
+        fransez: unités
+        portugez: ''
+        kasteyano: unidades
+        turko: birlik
 
 
 

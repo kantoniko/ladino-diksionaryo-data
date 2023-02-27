@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: center
-        french: ''
-        portuguese: ''
-        spanish: centro
-        turkish: merkez
+        inglez: center
+        fransez: ''
+        portugez: ''
+        kasteyano: centro
+        turko: merkez
 
   - ladino: sentros
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: centers
-        french: ''
-        portuguese: ''
-        spanish: centros
-        turkish: merkez
+        inglez: centers
+        fransez: ''
+        portugez: ''
+        kasteyano: centros
+        turko: merkez
 
 
 

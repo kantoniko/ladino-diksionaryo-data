@@ -5,11 +5,11 @@ versions:
   - ladino: aynara
 
     translations:
-        english: evil eye
-        french: ''
-        portuguese: ''
-        spanish: mal de ojo
-        turkish:
+        inglez: evil eye
+        fransez: ''
+        portugez: ''
+        kasteyano: mal de ojo
+        turko:
           - nazar
           - kem göz
 

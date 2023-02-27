@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: system
-        french: ''
-        portuguese: ''
-        spanish: sistema
-        turkish: sistem
+        inglez: system
+        fransez: ''
+        portugez: ''
+        kasteyano: sistema
+        turko: sistem
 
   - ladino: sistemas
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: systems
-        french: ''
-        portuguese: ''
-        spanish: sistemas
-        turkish: sistem
+        inglez: systems
+        fransez: ''
+        portugez: ''
+        kasteyano: sistemas
+        turko: sistem
 
 
 

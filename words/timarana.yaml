@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - madhouse
         - mental hospital
-        french: asile d'aliénés
-        portuguese: hospício
-        spanish: manicomio
-        turkish: tımarhane
+        fransez: asile d'aliénés
+        portugez: hospício
+        kasteyano: manicomio
+        turko: tımarhane
 

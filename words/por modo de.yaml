@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english: because of
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: because of
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - a causa de
         - por causa de
-        turkish: bundan ötürü
+        turko: bundan ötürü
 
 
 # por módo de (m),Te troki siertas palavras por modo de la ortografiya ke se uza en LK.,"a causa de, por causa de",because of,bundan ötürü,Jeneral,2929,,

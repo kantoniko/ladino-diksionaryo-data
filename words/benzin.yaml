@@ -5,12 +5,12 @@ versions:
   - ladino: benzin
 
     translations:
-        english:
+        inglez:
         - petrol
         - gasoline
-        french: ''
-        portuguese: ''
-        spanish: gasolina
-        turkish: benzin
+        fransez: ''
+        portugez: ''
+        kasteyano: gasolina
+        turko: benzin
 
 

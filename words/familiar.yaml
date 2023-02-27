@@ -8,11 +8,11 @@ versions:
       - ladino: familyar
 
     translations:
-        english: familiar
-        french: ''
-        portuguese: ''
-        spanish: familiar
-        turkish:
+        inglez: familiar
+        fransez: ''
+        portugez: ''
+        kasteyano: familiar
+        turko:
         - aşina
         - bildik
 

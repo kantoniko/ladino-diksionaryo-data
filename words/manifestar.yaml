@@ -5,11 +5,11 @@ versions:
   - ladino: manifestar
 
     translations:
-        english: manifest
-        french: ''
-        portuguese: ''
-        spanish: manifestar
-        turkish:
+        inglez: manifest
+        fransez: ''
+        portugez: ''
+        kasteyano: manifestar
+        turko:
         - tezahürat yap.
         - belirtmek
 

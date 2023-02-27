@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: lamp
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: lampara
-      turkish: ''
+      inglez: lamp
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: lampara
+      turko: ''
 
   - ladino: lampas
 
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-      english: lamps
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: lamparas
-      turkish: ''
+      inglez: lamps
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: lamparas
+      turko: ''
 
 
 

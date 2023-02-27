@@ -5,12 +5,12 @@ versions:
   - ladino: peltek
 
     translations:
-        english: stuttering
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: stuttering
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - tartamudo
           - tartamuda
-        turkish: kekeme
+        turko: kekeme
 
 

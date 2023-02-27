@@ -8,11 +8,11 @@ versions:
       - ladino: rekojer
 
     translations:
-        english: collect
-        french: ''
-        portuguese: ''
-        spanish: recoger
-        turkish: toplamak
+        inglez: collect
+        fransez: ''
+        portugez: ''
+        kasteyano: recoger
+        turko: toplamak
 
 conjugations: {}
 

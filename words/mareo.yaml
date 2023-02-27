@@ -8,12 +8,12 @@ versions:
       - ladino: shasheo
 
     translations:
-        english:
+        inglez:
         - vertigo
         - giddiness
-        french: ''
-        portuguese: ''
-        spanish: vértigo
-        turkish: baş dónmesi
+        fransez: ''
+        portugez: ''
+        kasteyano: vértigo
+        turko: baş dónmesi
 
 

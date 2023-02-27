@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: gardener
-        french: ''
-        portuguese: ''
-        spanish: hortelano
-        turkish:
+        inglez: gardener
+        fransez: ''
+        portugez: ''
+        kasteyano: hortelano
+        turko:
         - bostancı
         - ziraatçi
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: gardener
-        french: ''
-        portuguese: ''
-        spanish: hortelana
-        turkish:
+        inglez: gardener
+        fransez: ''
+        portugez: ''
+        kasteyano: hortelana
+        turko:
         - bostancı
         - ziraatçi
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: gardeners
-        french: ''
-        portuguese: ''
-        spanish: hortelanos
-        turkish:
+        inglez: gardeners
+        fransez: ''
+        portugez: ''
+        kasteyano: hortelanos
+        turko:
         - bostancı
         - ziraatçi
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: gardeners
-        french: ''
-        portuguese: ''
-        spanish: hortelanas
-        turkish:
+        inglez: gardeners
+        fransez: ''
+        portugez: ''
+        kasteyano: hortelanas
+        turko:
         - bostancı
         - ziraatçi
 

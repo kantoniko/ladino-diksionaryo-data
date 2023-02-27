@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: dentist
-        french: ''
-        portuguese: ''
-        spanish: dentista
-        turkish: dişçi
+        inglez: dentist
+        fransez: ''
+        portugez: ''
+        kasteyano: dentista
+        turko: dişçi
 
   - ladino: dientista
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: dentist
-        french: ''
-        portuguese: ''
-        spanish: dentista
-        turkish: dişçi
+        inglez: dentist
+        fransez: ''
+        portugez: ''
+        kasteyano: dentista
+        turko: dişçi
 
   - ladino: dientistos
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: dentists
-        french: ''
-        portuguese: ''
-        spanish: dentistas
-        turkish: dişçi
+        inglez: dentists
+        fransez: ''
+        portugez: ''
+        kasteyano: dentistas
+        turko: dişçi
 
   - ladino: dientistas
 
@@ -46,11 +46,11 @@ versions:
     number: plural
 
     translations:
-        english: dentists
-        french: ''
-        portuguese: ''
-        spanish: dentistas
-        turkish: dişçi
+        inglez: dentists
+        fransez: ''
+        portugez: ''
+        kasteyano: dentistas
+        turko: dişçi
 
 
 

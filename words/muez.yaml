@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: walnut
-        french: noix
-        portuguese: noz
-        spanish: nuez
-        turkish: ceviz
+        inglez: walnut
+        fransez: noix
+        portugez: noz
+        kasteyano: nuez
+        turko: ceviz
 
   - ladino: muezes
     accented: muézes
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: walnuts
-        french: noix
-        portuguese: noz
-        spanish: nuezes
-        turkish: ceviz
+        inglez: walnuts
+        fransez: noix
+        portugez: noz
+        kasteyano: nuezes
+        turko: ceviz
 
 

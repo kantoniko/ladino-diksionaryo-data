@@ -5,11 +5,11 @@ versions:
   - ladino: rovar
 
     translations:
-        english: steal
-        french: ''
-        portuguese: ''
-        spanish: robar
-        turkish: çalmak
+        inglez: steal
+        fransez: ''
+        portugez: ''
+        kasteyano: robar
+        turko: çalmak
 
 conjugations: {}
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: ready
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: ready
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pronto
         - preparado
-        turkish: hazır
+        turko: hazır
 
   - ladino: pronta
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: ready
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: ready
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pronta
         - preparada
-        turkish: hazır
+        turko: hazır
 
   - ladino: prontos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: ready
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: ready
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - prontos
         - preparados
-        turkish: hazır
+        turko: hazır
 
   - ladino: prontas
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: ready
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: ready
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - prontas
         - preparadas
-        turkish: hazır
+        turko: hazır
 

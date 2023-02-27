@@ -5,11 +5,11 @@ versions:
   - ladino: konvenser
 
     translations:
-        english: convince
-        french: ''
-        portuguese: ''
-        spanish: convencer
-        turkish: ikna etmek
+        inglez: convince
+        fransez: ''
+        portugez: ''
+        kasteyano: convencer
+        turko: ikna etmek
 
 conjugations: {}
 

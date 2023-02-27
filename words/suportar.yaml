@@ -5,13 +5,13 @@ versions:
   - ladino: suportar
 
     translations:
-        english:
+        inglez:
         - support
         - endure
-        french: ''
-        portuguese: ''
-        spanish: soportar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: soportar
+        turko:
         - destek olmak
         - katlanmak
 

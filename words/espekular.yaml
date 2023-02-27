@@ -5,11 +5,11 @@ versions:
   - ladino: espekular
 
     translations:
-        english: speculate
-        french: ''
-        portuguese: ''
-        spanish: especular
-        turkish: zihinde tartmak
+        inglez: speculate
+        fransez: ''
+        portugez: ''
+        kasteyano: especular
+        turko: zihinde tartmak
 
 conjugations: {}
 

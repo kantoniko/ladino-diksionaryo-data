@@ -15,13 +15,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - porter
         - carrier
-        french: portefaix
-        portuguese: carregador
-        spanish: portador
-        turkish: hamal
+        fransez: portefaix
+        portugez: carregador
+        kasteyano: portador
+        turko: hamal
 
   - ladino: hamala
     accented: hamála
@@ -34,13 +34,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - porter
         - carrier
-        french: ''
-        portuguese: ''
-        spanish: portadora
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: portadora
+        turko: ''
 
   - ladino: hamales
     accented: hamáles
@@ -53,13 +53,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - porters
         - carriers
-        french: ''
-        portuguese: ''
-        spanish: portadores
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: portadores
+        turko: ''
 
   - ladino: hamalas
     accented: hamálas
@@ -72,11 +72,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - porters
         - carriers
-        french: ''
-        portuguese: ''
-        spanish: portadoras
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: portadoras
+        turko: ''
 

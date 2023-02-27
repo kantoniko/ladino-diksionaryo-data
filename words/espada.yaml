@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sword
-        french: ''
-        portuguese: ''
-        spanish: espada
-        turkish: kılıç
+        inglez: sword
+        fransez: ''
+        portugez: ''
+        kasteyano: espada
+        turko: kılıç
 
   - ladino: espadas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: swords
-        french: ''
-        portuguese: ''
-        spanish: espadas
-        turkish: kılıç
+        inglez: swords
+        fransez: ''
+        portugez: ''
+        kasteyano: espadas
+        turko: kılıç
 
 
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: environment
-        french: ''
-        portuguese: ''
-        spanish: entorno
-        turkish: çevre
+        inglez: environment
+        fransez: ''
+        portugez: ''
+        kasteyano: entorno
+        turko: çevre
 
   - ladino: entornos
     accented: entórnos
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: environments
-        french: ''
-        portuguese: ''
-        spanish: entornos
-        turkish: çevre
+        inglez: environments
+        fransez: ''
+        portugez: ''
+        kasteyano: entornos
+        turko: çevre
 

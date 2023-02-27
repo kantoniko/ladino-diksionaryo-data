@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: inquisitive
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: inquisitive
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - preguntón
-        turkish:
+        turko:
         - çok soru soran
         - meraklı
 
@@ -25,12 +25,12 @@ versions:
     number: singular
 
     translations:
-        english: inquisitive
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: inquisitive
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - preguntona
-        turkish:
+        turko:
         - çok soru soran
         - meraklı
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - perilous
         - risky
-        french: ''
-        portuguese: ''
-        spanish: peligroso
-        turkish: tehlikeli
+        fransez: ''
+        portugez: ''
+        kasteyano: peligroso
+        turko: tehlikeli
 
   - ladino: perikoloza
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - perilous
         - risky
-        french: ''
-        portuguese: ''
-        spanish: peligrosa
-        turkish: tehlikeli
+        fransez: ''
+        portugez: ''
+        kasteyano: peligrosa
+        turko: tehlikeli
 
   - ladino: perikolozos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - perilous
         - risky
-        french: ''
-        portuguese: ''
-        spanish: peligrosos
-        turkish: tehlikeli
+        fransez: ''
+        portugez: ''
+        kasteyano: peligrosos
+        turko: tehlikeli
 
   - ladino: perikolozas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - perilous
         - risky
-        french: ''
-        portuguese: ''
-        spanish: peligrosas
-        turkish: tehlikeli
+        fransez: ''
+        portugez: ''
+        kasteyano: peligrosas
+        turko: tehlikeli
 
 
 

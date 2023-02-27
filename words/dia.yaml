@@ -11,11 +11,11 @@ versions:
       - ladino: diya
 
     translations:
-        english: day
-        french: ''
-        portuguese: ''
-        spanish: día
-        turkish: gün
+        inglez: day
+        fransez: ''
+        portugez: ''
+        kasteyano: día
+        turko: gün
 
   - ladino: dias
 
@@ -26,10 +26,10 @@ versions:
       - ladino: diyas
 
     translations:
-        english: days
-        french: ''
-        portuguese: ''
-        spanish: días
-        turkish: gün
+        inglez: days
+        fransez: ''
+        portugez: ''
+        kasteyano: días
+        turko: gün
 
 

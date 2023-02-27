@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: authority
-        french: autorité
-        portuguese: autoridade
-        spanish: autoridad
-        turkish:
+        inglez: authority
+        fransez: autorité
+        portugez: autoridade
+        kasteyano: autoridad
+        turko:
         - iktidar
         - merci
 

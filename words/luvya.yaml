@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: rain
-        french: pluie
-        portuguese: chuva
-        spanish: lluvia
-        turkish: yağmur
+        inglez: rain
+        fransez: pluie
+        portugez: chuva
+        kasteyano: lluvia
+        turko: yağmur
 
 

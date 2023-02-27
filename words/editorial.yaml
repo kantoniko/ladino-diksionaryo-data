@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: editorial
-        french: ''
-        portuguese: ''
-        spanish: editorial
-        turkish:
+        inglez: editorial
+        fransez: ''
+        portugez: ''
+        kasteyano: editorial
+        turko:
         - başyazı
         - yazımla ilgili
 

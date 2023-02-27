@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - boy
         - son
-        french: fils
-        portuguese: filho
-        spanish: hijo
-        turkish: oğul
+        fransez: fils
+        portugez: filho
+        kasteyano: hijo
+        turko: oğul
 
   - ladino: ija
 
@@ -25,13 +25,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - girl
         - daughter
-        french: fille
-        portuguese: filha
-        spanish: hija
-        turkish: kız
+        fransez: fille
+        portugez: filha
+        kasteyano: hija
+        turko: kız
 
   - ladino: ijos
 
@@ -39,13 +39,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - boys
         - sons
-        french: fils
-        portuguese: filhos
-        spanish: hijos
-        turkish: oğul
+        fransez: fils
+        portugez: filhos
+        kasteyano: hijos
+        turko: oğul
 
   - ladino: ijas
 
@@ -53,11 +53,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - girls
         - daughters
-        french: fille
-        portuguese: filhas
-        spanish: hijas
-        turkish: kız
+        fransez: fille
+        portugez: filhas
+        kasteyano: hijas
+        turko: kız
 

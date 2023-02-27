@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: watchmaker
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: relojero
-      turkish: ''
+      inglez: watchmaker
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: relojero
+      turko: ''
 
   - ladino: orera
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: watchmaker
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: relojera
-      turkish: ''
+      inglez: watchmaker
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: relojera
+      turko: ''
 
   - ladino: oreros
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: watchmakers
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: relojeros
-      turkish: ''
+      inglez: watchmakers
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: relojeros
+      turko: ''
 
   - ladino: oreras
 
@@ -49,12 +49,12 @@ versions:
     number: plural
 
     translations:
-      english: watchmakers
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: relojeras
-      turkish: ''
+      inglez: watchmakers
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: relojeras
+      turko: ''
 
 
 

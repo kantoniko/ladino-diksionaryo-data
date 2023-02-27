@@ -6,13 +6,13 @@ versions:
     accented: emprestár
 
     translations:
-        english:
+        inglez:
         - lend
         - loan
-        french: prêter
-        portuguese: ''
-        spanish: prestar
-        turkish: ödünç vermek
+        fransez: prêter
+        portugez: ''
+        kasteyano: prestar
+        turko: ödünç vermek
 
 conjugations: {}
 

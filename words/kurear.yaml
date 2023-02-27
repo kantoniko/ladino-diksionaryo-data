@@ -6,17 +6,17 @@ versions:
     accented: kuréar
 
     translations:
-        english:
+        inglez:
           - set
           - cheat
-        french:
+        fransez:
           - remonter
           - tromper
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - regular
           - engañar
-        turkish:
+        turko:
           - kurmak
           - aldatmak
 

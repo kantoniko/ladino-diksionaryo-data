@@ -8,13 +8,13 @@ versions:
       - ladino: indemas
 
     translations:
-        english:
+        inglez:
         - besides
         - moreover
-        french: ''
-        portuguese: ''
-        spanish: además
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: además
+        turko:
         - fazladan
         - üstelik
 

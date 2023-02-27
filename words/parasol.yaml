@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - parasol
         - sunshade
-      french: ''
-      hebrew: שמשיה
-      portuguese: ''
-      spanish: sombrilla
-      turkish: ''
+      fransez: ''
+      ebreo: שמשיה
+      portugez: ''
+      kasteyano: sombrilla
+      turko: ''
 
   - ladino: parasoles
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - parasols
         - sunshades
-      french: ''
-      hebrew: שמשיות
-      portuguese: ''
-      spanish: sombrillas
-      turkish: ''
+      fransez: ''
+      ebreo: שמשיות
+      portugez: ''
+      kasteyano: sombrillas
+      turko: ''
 

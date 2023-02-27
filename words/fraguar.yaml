@@ -6,15 +6,15 @@ versions:
     accented: fraguár
 
     translations:
-        english:
+        inglez:
           - build
           - construct
-        french:
+        fransez:
           - construire
           - bâtir
-        portuguese: ''
-        spanish: construir
-        turkish: inşa etmek
+        portugez: ''
+        kasteyano: construir
+        turko: inşa etmek
 
 conjugations: {}
 

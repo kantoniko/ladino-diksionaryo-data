@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: incident
-        french: ''
-        portuguese: ''
-        spanish: incidente
-        turkish: olay (önemsiz)
+        inglez: incident
+        fransez: ''
+        portugez: ''
+        kasteyano: incidente
+        turko: olay (önemsiz)
 
   - ladino: insidentes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: incidents
-        french: ''
-        portuguese: ''
-        spanish: incidentes
-        turkish: olay (önemsiz)
+        inglez: incidents
+        fransez: ''
+        portugez: ''
+        kasteyano: incidentes
+        turko: olay (önemsiz)
 
 
 

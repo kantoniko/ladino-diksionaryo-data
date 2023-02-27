@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: clear
-      french: ''
-      hebrew: ברור
-      portuguese: ''
-      spanish: claro
-      turkish: aydınlık
+      inglez: clear
+      fransez: ''
+      ebreo: ברור
+      portugez: ''
+      kasteyano: claro
+      turko: aydınlık
 
   - ladino: klara
 
@@ -24,12 +24,12 @@ versions:
     number: singular
 
     translations:
-      english: clear
-      french: ''
-      hebrew: ברורה
-      portuguese: ''
-      spanish: clara
-      turkish: aydınlık
+      inglez: clear
+      fransez: ''
+      ebreo: ברורה
+      portugez: ''
+      kasteyano: clara
+      turko: aydınlık
 
   - ladino: klaros
 
@@ -37,12 +37,12 @@ versions:
     number: plural
 
     translations:
-      english: clear
-      french: ''
-      hebrew: ברורים
-      portuguese: ''
-      spanish: claros
-      turkish: aydınlık
+      inglez: clear
+      fransez: ''
+      ebreo: ברורים
+      portugez: ''
+      kasteyano: claros
+      turko: aydınlık
 
   - ladino: klaras
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-      english: clear
-      french: ''
-      hebrew: ברורות
-      portuguese: ''
-      spanish: claras
-      turkish: aydınlık
+      inglez: clear
+      fransez: ''
+      ebreo: ברורות
+      portugez: ''
+      kasteyano: claras
+      turko: aydınlık
 
 

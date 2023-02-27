@@ -5,12 +5,12 @@ versions:
   - ladino: vitrina
 
     translations:
-        english:
+        inglez:
         - showplace
         - showcase
-        french: vitrine
-        portuguese: ''
-        spanish: escaparate
-        turkish: vitrin
+        fransez: vitrine
+        portugez: ''
+        kasteyano: escaparate
+        turko: vitrin
 
 

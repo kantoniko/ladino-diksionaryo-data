@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: villager
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: villager
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - campesino
         - pueblerino
-        turkish: köylü
+        turko: köylü
 
   - ladino: kazalina
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: villager
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: villager
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - campesina
         - pueblerina
-        turkish: köylü
+        turko: köylü
 
   - ladino: kazalinos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: villagers
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: villagers
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - campesinos
         - pueblerinos
-        turkish: köylü
+        turko: köylü
 
   - ladino: kazalinas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english: villagers
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: villagers
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - campesinas
         - pueblerinas
-        turkish: köylü
+        turko: köylü
 
 
 

@@ -11,14 +11,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - gentle
         - kind
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: amable
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: amable
+      turko: ''
 
   - ladino: amavles
 
@@ -29,14 +29,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - gentle
         - kind
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: amables
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: amables
+      turko: ''
 
 
 

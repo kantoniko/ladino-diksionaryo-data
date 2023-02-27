@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: cherry
-      french: ''
-      hebrew: דובדבן
-      portuguese: cereja
-      spanish: cereza
-      turkish: kiraz
+      inglez: cherry
+      fransez: ''
+      ebreo: דובדבן
+      portugez: cereja
+      kasteyano: cereza
+      turko: kiraz
 
   - ladino: serezas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: cherries
-      french: ''
-      hebrew: דובדבנים
-      portuguese: cerejas
-      spanish: cerezas
-      turkish: kirazlar
+      inglez: cherries
+      fransez: ''
+      ebreo: דובדבנים
+      portugez: cerejas
+      kasteyano: cerezas
+      turko: kirazlar
 
 
 

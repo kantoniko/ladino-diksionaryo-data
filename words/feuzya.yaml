@@ -16,13 +16,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - trust
         - faith
-        french: ''
-        portuguese: ''
-        spanish: confianza
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: confianza
+        turko:
         - inanç
         - güven
         - itikat

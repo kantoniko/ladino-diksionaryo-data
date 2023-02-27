@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - memory
         - recollection
-        french: ''
-        portuguese: ''
-        spanish: recuerdo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: recuerdo
+        turko:
         - hatıra
         - anı
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - memories
         - recollections
-        french: ''
-        portuguese: ''
-        spanish: recuerdos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: recuerdos
+        turko:
         - hatıra
         - anı
 

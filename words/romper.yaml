@@ -5,11 +5,11 @@ versions:
   - ladino: romper
 
     translations:
-        english: break
-        french: ''
-        portuguese: ''
-        spanish: romper
-        turkish: kırmak
+        inglez: break
+        fransez: ''
+        portugez: ''
+        kasteyano: romper
+        turko: kırmak
 
 conjugations: {}
 

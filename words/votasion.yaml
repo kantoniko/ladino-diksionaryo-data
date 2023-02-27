@@ -5,12 +5,12 @@ versions:
   - ladino: votasion
 
     translations:
-        english:
+        inglez:
         - vote
         - voting
-        french: vote
-        portuguese: ''
-        spanish: votación
-        turkish: oylama
+        fransez: vote
+        portugez: ''
+        kasteyano: votación
+        turko: oylama
 
 

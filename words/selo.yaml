@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: jealousy
-        french: ''
-        portuguese: ''
-        spanish: celo
-        turkish: kıskançlık
+        inglez: jealousy
+        fransez: ''
+        portugez: ''
+        kasteyano: celo
+        turko: kıskançlık
 
   - ladino: selos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: jealousy
-        french: ''
-        portuguese: ''
-        spanish: celos
-        turkish: kıskançlık
+        inglez: jealousy
+        fransez: ''
+        portugez: ''
+        kasteyano: celos
+        turko: kıskançlık
 
 
 

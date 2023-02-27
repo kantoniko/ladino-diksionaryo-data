@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: generous
-        french: ''
-        portuguese: ''
-        spanish: generoso
-        turkish: cömert
+        inglez: generous
+        fransez: ''
+        portugez: ''
+        kasteyano: generoso
+        turko: cömert
 
   - ladino: jeneroza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: generous
-        french: ''
-        portuguese: ''
-        spanish: generosa
-        turkish: cömert
+        inglez: generous
+        fransez: ''
+        portugez: ''
+        kasteyano: generosa
+        turko: cömert
 
   - ladino: jenerozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: generous
-        french: ''
-        portuguese: ''
-        spanish: generosos
-        turkish: cömert
+        inglez: generous
+        fransez: ''
+        portugez: ''
+        kasteyano: generosos
+        turko: cömert
 
   - ladino: jenerozas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: generous
-        french: ''
-        portuguese: ''
-        spanish: generosas
-        turkish: cömert
+        inglez: generous
+        fransez: ''
+        portugez: ''
+        kasteyano: generosas
+        turko: cömert
 
 

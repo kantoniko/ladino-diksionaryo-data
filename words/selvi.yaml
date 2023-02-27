@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: cypress
-        french: cyprès
-        portuguese: ''
-        spanish: ciprés
-        turkish:
+        inglez: cypress
+        fransez: cyprès
+        portugez: ''
+        kasteyano: ciprés
+        turko:
         - selvi
         - servi
 

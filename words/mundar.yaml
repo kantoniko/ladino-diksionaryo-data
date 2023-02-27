@@ -5,11 +5,11 @@ versions:
   - ladino: mundar
 
     translations:
-        english: peel
-        french: ''
-        portuguese: ''
-        spanish: pelar
-        turkish: soymak
+        inglez: peel
+        fransez: ''
+        portugez: ''
+        kasteyano: pelar
+        turko: soymak
 
 conjugations: {}
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: mouth
-        french: bouche
-        portuguese: boca
-        spanish: boca
-        turkish: ağız
+        inglez: mouth
+        fransez: bouche
+        portugez: boca
+        kasteyano: boca
+        turko: ağız
 
   - ladino: bokas
     accented: bókas
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: mouthes
-        french: bouche
-        portuguese: bocas
-        spanish: bocas
-        turkish: ağızlar
+        inglez: mouthes
+        fransez: bouche
+        portugez: bocas
+        kasteyano: bocas
+        turko: ağızlar
 
 

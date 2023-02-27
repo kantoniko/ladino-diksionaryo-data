@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: curious
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: curioso
-      turkish: ''
+      inglez: curious
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: curioso
+      turko: ''
 
   - ladino: kuryoza
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: curious
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: curiosa
-      turkish: ''
+      inglez: curious
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: curiosa
+      turko: ''
 
   - ladino: kuryozos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: curious
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: curiosos
-      turkish: ''
+      inglez: curious
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: curiosos
+      turko: ''
 
   - ladino: kuryozas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: curious
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: curiosas
-      turkish: ''
+      inglez: curious
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: curiosas
+      turko: ''
 
 
 

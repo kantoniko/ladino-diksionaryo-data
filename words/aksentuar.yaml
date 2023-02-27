@@ -4,13 +4,13 @@ versions:
   - ladino: aksentuar
 
     translations:
-        english:
+        inglez:
           - accentuate
           - stress
-        french: accentuer
-        portuguese: ''
-        spanish: acentuar
-        turkish: aksan koymak
+        fransez: accentuer
+        portugez: ''
+        kasteyano: acentuar
+        turko: aksan koymak
 
 conjugations: {}
 

@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - cost
         - price
-        french: ''
-        portuguese: ''
-        spanish: coste
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: coste
+        turko:
         - paha
         - eder
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - costs
         - prices
-        french: ''
-        portuguese: ''
-        spanish: costes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: costes
+        turko:
         - paha
         - eder
 

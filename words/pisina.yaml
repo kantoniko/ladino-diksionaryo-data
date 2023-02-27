@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: swimming pool
-        french: ''
-        portuguese: ''
-        spanish: piscina
-        turkish: yüzme havuzu
+        inglez: swimming pool
+        fransez: ''
+        portugez: ''
+        kasteyano: piscina
+        turko: yüzme havuzu
 
   - ladino: pisinas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: swimming pools
-        french: ''
-        portuguese: ''
-        spanish: piscinas
-        turkish: yüzme havuzu
+        inglez: swimming pools
+        fransez: ''
+        portugez: ''
+        kasteyano: piscinas
+        turko: yüzme havuzu
 
 
 

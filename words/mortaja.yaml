@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: shroud
-        french: linceul
-        portuguese: ''
-        spanish: mortaja
-        turkish: kefen
+        inglez: shroud
+        fransez: linceul
+        portugez: ''
+        kasteyano: mortaja
+        turko: kefen
 
   - ladino: mortajas
     accented: mortájas
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: shrouds
-        french: ''
-        portuguese: ''
-        spanish: mortajas
-        turkish: kefenler
+        inglez: shrouds
+        fransez: ''
+        portugez: ''
+        kasteyano: mortajas
+        turko: kefenler
 

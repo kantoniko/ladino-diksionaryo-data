@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - direction
         - address
-        french: ''
-        portuguese: ''
-        spanish: dirección
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: dirección
+        turko:
         - yön
         - adres
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - directions
         - addresses
-        french: ''
-        portuguese: ''
-        spanish: direcciónes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: direcciónes
+        turko:
         - yön
         - adres
 

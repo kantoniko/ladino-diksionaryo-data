@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: notebook
-        french: cahier
-        portuguese: ''
-        spanish: cuaderno
-        turkish: defter
+        inglez: notebook
+        fransez: cahier
+        portugez: ''
+        kasteyano: cuaderno
+        turko: defter
 
   - ladino: tefteres
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: notebooks
-        french: cahiers
-        portuguese: ''
-        spanish: cuadernos
-        turkish: defter
+        inglez: notebooks
+        fransez: cahiers
+        portugez: ''
+        kasteyano: cuadernos
+        turko: defter
 
 
 

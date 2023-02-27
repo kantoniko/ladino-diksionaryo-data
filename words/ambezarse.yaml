@@ -6,15 +6,15 @@ versions:
     accented: ambezárse
 
     translations:
-        english:
+        inglez:
         - get accustomed
         - learn
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - acostumbrarse
         - aprender
-        turkish:
+        turko:
         - alışmak
         - öğrenmek
 

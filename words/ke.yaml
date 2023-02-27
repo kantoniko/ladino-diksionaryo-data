@@ -7,20 +7,20 @@ versions:
   - ladino: ke
 
     translations:
-        english: what
-        french: ''
-        portuguese: ''
-        spanish: qué
-        turkish: ne
+        inglez: what
+        fransez: ''
+        portugez: ''
+        kasteyano: qué
+        turko: ne
 
   - ladino: ke
 
     translations:
-        english: that
-        french: ''
-        portuguese: ''
-        spanish: que
-        turkish: ne
+        inglez: that
+        fransez: ''
+        portugez: ''
+        kasteyano: que
+        turko: ne
 
 
 

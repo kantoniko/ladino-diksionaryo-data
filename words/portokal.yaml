@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english: orange
-        french: ''
-        hebrew: תפוז
-        portuguese: laranja
-        spanish: naranja
-        turkish: portakal
+        inglez: orange
+        fransez: ''
+        ebreo: תפוז
+        portugez: laranja
+        kasteyano: naranja
+        turko: portakal
 
   - ladino: portokales
 
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-        english: oranges
-        french: ''
-        hebrew: תפוזים
-        portuguese: laranjas
-        spanish: naranjas
-        turkish: portakal
+        inglez: oranges
+        fransez: ''
+        ebreo: תפוזים
+        portugez: laranjas
+        kasteyano: naranjas
+        turko: portakal
 
 
 

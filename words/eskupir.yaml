@@ -5,11 +5,11 @@ versions:
   - ladino: eskupir
 
     translations:
-        english: spit
-        french: ''
-        portuguese: ''
-        spanish: escupir
-        turkish: tükürmek
+        inglez: spit
+        fransez: ''
+        portugez: ''
+        kasteyano: escupir
+        turko: tükürmek
 
 conjugations: {}
 

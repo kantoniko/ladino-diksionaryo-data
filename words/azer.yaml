@@ -5,49 +5,49 @@ versions:
   - ladino: azer
 
     translations:
-        english: do
-        french: ''
-        portuguese: ''
-        spanish: hacer
-        turkish: yapmak
+        inglez: do
+        fransez: ''
+        portugez: ''
+        kasteyano: hacer
+        turko: yapmak
 
 conjugations:
   prezente:
     yo:
       ladino: azo
       translations:
-        english: do
-        spanish: hago
+        inglez: do
+        kasteyano: hago
 
     tu:
       ladino: azes
       translations:
-        english: do
-        spanish: haces
+        inglez: do
+        kasteyano: haces
 
     el:
       ladino: aze
       translations:
-        english: does
-        spanish: hace
+        inglez: does
+        kasteyano: hace
 
     mozotros:
       ladino: azemos
       translations:
-        english: do
-        spanish: hacemos
+        inglez: do
+        kasteyano: hacemos
 
     vozotros:
       ladino: azesh
       translations:
-        english: do
-        spanish: hacéis
+        inglez: do
+        kasteyano: hacéis
 
     eyos:
       ladino: azen
       translations:
-        english: do
-        spanish: hacen
+        inglez: do
+        kasteyano: hacen
 
 
 

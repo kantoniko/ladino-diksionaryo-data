@@ -11,15 +11,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - hair
         - coat (animal)
         - whiskers
         - bristle
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pelo (de barba
         - de animal)
-        turkish: kıl
+        turko: kıl
 

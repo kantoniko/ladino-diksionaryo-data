@@ -8,11 +8,11 @@ versions:
       - ladino: dar a entender
 
     translations:
-        english: explain
-        french: ''
-        portuguese: ''
-        spanish: explicar
-        turkish: izah etmek
+        inglez: explain
+        fransez: ''
+        portugez: ''
+        kasteyano: explicar
+        turko: izah etmek
 
 conjugations: {}
 

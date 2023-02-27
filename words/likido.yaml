@@ -15,14 +15,14 @@ versions:
 
 
     translations:
-      english: liquid
-      french: ''
-      hebrew:
+      inglez: liquid
+      fransez: ''
+      ebreo:
         - נוזל
         - נוזלי
-      portuguese: ''
-      spanish: líquido
-      turkish: ''
+      portugez: ''
+      kasteyano: líquido
+      turko: ''
 
   - ladino: likida
     accented: líkida
@@ -37,14 +37,14 @@ versions:
 
 
     translations:
-      english: liquid
-      french: ''
-      hebrew:
+      inglez: liquid
+      fransez: ''
+      ebreo:
         - נוזל
         - נוזלי
-      portuguese: ''
-      spanish: líquida
-      turkish: ''
+      portugez: ''
+      kasteyano: líquida
+      turko: ''
 
 
 

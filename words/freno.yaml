@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: brake
-        french: ''
-        portuguese: ''
-        spanish: freno
-        turkish: fren
+        inglez: brake
+        fransez: ''
+        portugez: ''
+        kasteyano: freno
+        turko: fren
 
   - ladino: frenos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: brakes
-        french: ''
-        portuguese: ''
-        spanish: frenos
-        turkish: fren
+        inglez: brakes
+        fransez: ''
+        portugez: ''
+        kasteyano: frenos
+        turko: fren
 
 
 

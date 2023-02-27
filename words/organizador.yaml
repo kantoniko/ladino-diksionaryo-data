@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: organizer
-        french: ''
-        portuguese: ''
-        spanish: organizador
-        turkish: organizatör
+        inglez: organizer
+        fransez: ''
+        portugez: ''
+        kasteyano: organizador
+        turko: organizatör
 
   - ladino: organizadora
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: organizer
-        french: ''
-        portuguese: ''
-        spanish: organizadora
-        turkish: organizatör
+        inglez: organizer
+        fransez: ''
+        portugez: ''
+        kasteyano: organizadora
+        turko: organizatör
 
   - ladino: organizadores
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: organizers
-        french: ''
-        portuguese: ''
-        spanish: organizadores
-        turkish: organizatör
+        inglez: organizers
+        fransez: ''
+        portugez: ''
+        kasteyano: organizadores
+        turko: organizatör
 
   - ladino: organizadoras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: organizers
-        french: ''
-        portuguese: ''
-        spanish: organizadoras
-        turkish: organizatör
+        inglez: organizers
+        fransez: ''
+        portugez: ''
+        kasteyano: organizadoras
+        turko: organizatör
 
 
 

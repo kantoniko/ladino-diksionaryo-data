@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: Tuesday
-        french: ''
-        hebrew:
+        inglez: Tuesday
+        fransez: ''
+        ebreo:
           - יום שלישי
           - יום ג
-        portuguese: ''
-        spanish: martes
-        turkish: Salı
+        portugez: ''
+        kasteyano: martes
+        turko: Salı
 

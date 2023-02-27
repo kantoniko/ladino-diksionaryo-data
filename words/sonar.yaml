@@ -6,11 +6,11 @@ versions:
     accented: sonár
 
     translations:
-        english: ring
-        french: sonner
-        portuguese: soar
-        spanish: sonar
-        turkish:
+        inglez: ring
+        fransez: sonner
+        portugez: soar
+        kasteyano: sonar
+        turko:
         - zil
         - çan çalmak
 

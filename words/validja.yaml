@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: suitcase
-        french: valise
-        portuguese: ''
-        spanish: maleta
-        turkish: valiz
+        inglez: suitcase
+        fransez: valise
+        portugez: ''
+        kasteyano: maleta
+        turko: valiz
 
   - ladino: validjas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: suitcases
-        french: valises
-        portuguese: ''
-        spanish: maletas
-        turkish: valiz
+        inglez: suitcases
+        fransez: valises
+        portugez: ''
+        kasteyano: maletas
+        turko: valiz
 
 
 

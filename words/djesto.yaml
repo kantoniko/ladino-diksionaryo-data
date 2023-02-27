@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: gesture
-        french: ''
-        portuguese: ''
-        spanish: gesto
-        turkish: hareket
+        inglez: gesture
+        fransez: ''
+        portugez: ''
+        kasteyano: gesto
+        turko: hareket
 
   - ladino: djestos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: gestures
-        french: ''
-        portuguese: ''
-        spanish: gestos
-        turkish: hareket
+        inglez: gestures
+        fransez: ''
+        portugez: ''
+        kasteyano: gestos
+        turko: hareket
 
 
 

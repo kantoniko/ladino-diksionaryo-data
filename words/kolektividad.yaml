@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - whole
         - group
-        french: ''
-        portuguese: ''
-        spanish: colectividad
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: colectividad
+        turko:
         - cemiyet
         - topluluk
 
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - groups
-        french: ''
-        portuguese: ''
-        spanish: colectividades
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: colectividades
+        turko:
         - cemiyet
         - topluluk
 

@@ -13,12 +13,12 @@ versions:
       - ladino: irreguler
 
     translations:
-      english: irregular
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: irregular
-      turkish: ''
+      inglez: irregular
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: irregular
+      turko: ''
 
   - ladino: iregolares
 
@@ -31,10 +31,10 @@ versions:
       - ladino: irreguleres
 
     translations:
-      english: irregular
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: irregulares
-      turkish: ''
+      inglez: irregular
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: irregulares
+      turko: ''
 

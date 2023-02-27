@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - craft
         - trade
-        french: ''
-        portuguese: ''
-        spanish: oficio
-        turkish: meslek
+        fransez: ''
+        portugez: ''
+        kasteyano: oficio
+        turko: meslek
 
   - ladino: ofisios
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - craft
         - trade
-        french: ''
-        portuguese: ''
-        spanish: oficios
-        turkish: meslek
+        fransez: ''
+        portugez: ''
+        kasteyano: oficios
+        turko: meslek
 
 
 

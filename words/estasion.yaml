@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: station
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: estación
-      turkish: ''
+      inglez: station
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: estación
+      turko: ''
 
   - ladino: estasiones
     accented: estasiónes
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: stations
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: estaciones
-      turkish: ''
+      inglez: stations
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: estaciones
+      turko: ''
 
 
 

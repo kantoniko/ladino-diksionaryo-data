@@ -10,13 +10,13 @@ versions:
         accented: afogárse
 
     translations:
-        english:
+        inglez:
         - drown o.s.
         - suffocate
-        french: ''
-        portuguese: ''
-        spanish: ahogarse
-        turkish: boğulmak
+        fransez: ''
+        portugez: ''
+        kasteyano: ahogarse
+        turko: boğulmak
 
 conjugations: {}
 

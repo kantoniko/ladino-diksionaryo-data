@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: swimsuit
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: traje de baño
-      turkish: ''
+      inglez: swimsuit
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: traje de baño
+      turko: ''
 
   - ladino: mayos
     accented: mayós
@@ -25,12 +25,12 @@ versions:
     number: plural
 
     translations:
-      english: swimsuits
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: trajes de baño
-      turkish: ''
+      inglez: swimsuits
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: trajes de baño
+      turko: ''
 
 
 

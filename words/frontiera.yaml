@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: frontier
-        french: ''
-        portuguese: ''
-        spanish: frontera
-        turkish: sınır
+        inglez: frontier
+        fransez: ''
+        portugez: ''
+        kasteyano: frontera
+        turko: sınır
 
   - ladino: frontieras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: frontiers
-        french: ''
-        portuguese: ''
-        spanish: fronteras
-        turkish: sınır
+        inglez: frontiers
+        fransez: ''
+        portugez: ''
+        kasteyano: fronteras
+        turko: sınır
 
 
 

@@ -5,12 +5,12 @@ versions:
   - ladino: dospues
 
     translations:
-        english:
+        inglez:
         - after
         - later
-        french: ''
-        portuguese: ''
-        spanish: después
-        turkish: sonra
+        fransez: ''
+        portugez: ''
+        kasteyano: después
+        turko: sonra
 
 

@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: health
-        french: ''
-        portuguese: ''
-        spanish: salud
-        turkish: sıhhat
+        inglez: health
+        fransez: ''
+        portugez: ''
+        kasteyano: salud
+        turko: sıhhat
 

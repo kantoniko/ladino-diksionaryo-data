@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: body
-        french: ''
-        portuguese: ''
-        spanish: cuerpo
-        turkish: vücut
+        inglez: body
+        fransez: ''
+        portugez: ''
+        kasteyano: cuerpo
+        turko: vücut
 
   - ladino: puerpos
 
@@ -26,11 +26,11 @@ versions:
     number: plural
 
     translations:
-        english: bodies
-        french: ''
-        portuguese: ''
-        spanish: cuerpos
-        turkish: vücut
+        inglez: bodies
+        fransez: ''
+        portugez: ''
+        kasteyano: cuerpos
+        turko: vücut
 
 
 

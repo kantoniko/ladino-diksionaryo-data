@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: traitor
-        french: ''
-        portuguese: ''
-        spanish: traidor
-        turkish: hain
+        inglez: traitor
+        fransez: ''
+        portugez: ''
+        kasteyano: traidor
+        turko: hain
 
   - ladino: traidora
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: traitor
-        french: ''
-        portuguese: ''
-        spanish: traidora
-        turkish: hain
+        inglez: traitor
+        fransez: ''
+        portugez: ''
+        kasteyano: traidora
+        turko: hain
 
   - ladino: traidores
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: traitors
-        french: ''
-        portuguese: ''
-        spanish: traidores
-        turkish: hain
+        inglez: traitors
+        fransez: ''
+        portugez: ''
+        kasteyano: traidores
+        turko: hain
 
   - ladino: traidoras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: traitors
-        french: ''
-        portuguese: ''
-        spanish: traidoras
-        turkish: hain
+        inglez: traitors
+        fransez: ''
+        portugez: ''
+        kasteyano: traidoras
+        turko: hain
 
 
 

@@ -12,13 +12,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bed
         - bedding
-        french: ''
-        portuguese: ''
-        spanish: cama
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cama
+        turko:
         - yatak
         - döşek
 
@@ -29,13 +29,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - bed
         - bedding
-        french: ''
-        portuguese: ''
-        spanish: camas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: camas
+        turko:
         - yataklar
         - döşekler
 

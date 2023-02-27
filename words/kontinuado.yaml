@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: continuous
-        french: ''
-        portuguese: ''
-        spanish: continuado
-        turkish: devamlı
+        inglez: continuous
+        fransez: ''
+        portugez: ''
+        kasteyano: continuado
+        turko: devamlı
 
   - ladino: kontinuada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: continuous
-        french: ''
-        portuguese: ''
-        spanish: continuada
-        turkish: devamlı
+        inglez: continuous
+        fransez: ''
+        portugez: ''
+        kasteyano: continuada
+        turko: devamlı
 
   - ladino: kontinuados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: continuous
-        french: ''
-        portuguese: ''
-        spanish: continuados
-        turkish: devamlı
+        inglez: continuous
+        fransez: ''
+        portugez: ''
+        kasteyano: continuados
+        turko: devamlı
 
   - ladino: kontinuadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: continuous
-        french: ''
-        portuguese: ''
-        spanish: continuadas
-        turkish: devamlı
+        inglez: continuous
+        fransez: ''
+        portugez: ''
+        kasteyano: continuadas
+        turko: devamlı
 
 
 

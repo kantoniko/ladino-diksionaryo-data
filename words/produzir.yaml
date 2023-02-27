@@ -5,11 +5,11 @@ versions:
   - ladino: produzir
 
     translations:
-        english: produce
-        french: ''
-        portuguese: ''
-        spanish: producir
-        turkish: üretmek
+        inglez: produce
+        fransez: ''
+        portugez: ''
+        kasteyano: producir
+        turko: üretmek
 
 conjugations: {}
 

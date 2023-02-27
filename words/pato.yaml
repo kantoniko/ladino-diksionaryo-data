@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english: goose
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: goose
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - ganso
         - oca
-        turkish: kaz
+        turko: kaz
 
   - ladino: patos
     accented: pátos
@@ -26,11 +26,11 @@ versions:
     number: plural
 
     translations:
-        english: goose
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: goose
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - gansos
         - ocas
-        turkish: kaz
+        turko: kaz
 

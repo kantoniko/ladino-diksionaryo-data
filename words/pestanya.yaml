@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: eyelash
-        french: ''
-        portuguese: ''
-        spanish: pestaña
-        turkish: kirpik
+        inglez: eyelash
+        fransez: ''
+        portugez: ''
+        kasteyano: pestaña
+        turko: kirpik
 
   - ladino: pestanyas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: eyelashes
-        french: ''
-        portuguese: ''
-        spanish: pestañas
-        turkish: kirpik
+        inglez: eyelashes
+        fransez: ''
+        portugez: ''
+        kasteyano: pestañas
+        turko: kirpik
 
 
 

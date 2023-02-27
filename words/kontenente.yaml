@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: container
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: container
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: kontenentes
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: containers
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: containers
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

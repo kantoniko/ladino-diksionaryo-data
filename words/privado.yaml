@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: private
-        french: ''
-        portuguese: ''
-        spanish: privado
-        turkish:
+        inglez: private
+        fransez: ''
+        portugez: ''
+        kasteyano: privado
+        turko:
           - özel
           - ózel
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: private
-        french: ''
-        portuguese: ''
-        spanish: privada
-        turkish:
+        inglez: private
+        fransez: ''
+        portugez: ''
+        kasteyano: privada
+        turko:
           - özel
           - ózel
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: private
-        french: ''
-        portuguese: ''
-        spanish: privados
-        turkish:
+        inglez: private
+        fransez: ''
+        portugez: ''
+        kasteyano: privados
+        turko:
           - özel
           - ózel
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: private
-        french: ''
-        portuguese: ''
-        spanish: privadas
-        turkish:
+        inglez: private
+        fransez: ''
+        portugez: ''
+        kasteyano: privadas
+        turko:
           - özel
           - ózel
 

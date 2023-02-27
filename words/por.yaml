@@ -5,12 +5,12 @@ versions:
   - ladino: por
 
     translations:
-        english:
+        inglez:
         - by
         - for
-        french: ''
-        portuguese: ''
-        spanish: por
-        turkish: için
+        fransez: ''
+        portugez: ''
+        kasteyano: por
+        turko: için
 
 

@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: riddle
-        french: devinette
-        portuguese: adevinha
-        spanish: adivinanza
-        turkish: bilmece
+        inglez: riddle
+        fransez: devinette
+        portugez: adevinha
+        kasteyano: adivinanza
+        turko: bilmece
 

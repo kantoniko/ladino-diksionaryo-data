@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - good
         - OK
-        french: ''
-        portuguese: ''
-        spanish: bueno
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: bueno
+        turko:
         - peki
         - iyi
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - good
         - OK
-        french: ''
-        portuguese: ''
-        spanish: buena
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: buena
+        turko:
         - peki
         - iyi
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - good
         - OK
-        french: ''
-        portuguese: ''
-        spanish: buenos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: buenos
+        turko:
         - peki
         - iyi
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - good
         - OK
-        french: ''
-        portuguese: ''
-        spanish: buenas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: buenas
+        turko:
         - peki
         - iyi
 

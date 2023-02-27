@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: calm
-        french: ''
-        portuguese: ''
-        spanish: tranquilo
-        turkish:
+        inglez: calm
+        fransez: ''
+        portugez: ''
+        kasteyano: tranquilo
+        turko:
         - sakin
         - rahat
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: calm
-        french: ''
-        portuguese: ''
-        spanish: tranquila
-        turkish:
+        inglez: calm
+        fransez: ''
+        portugez: ''
+        kasteyano: tranquila
+        turko:
         - sakin
         - rahat
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: calm
-        french: ''
-        portuguese: ''
-        spanish: tranquilos
-        turkish: sakinler
+        inglez: calm
+        fransez: ''
+        portugez: ''
+        kasteyano: tranquilos
+        turko: sakinler
 
   - ladino: kalmas
 
@@ -48,11 +48,11 @@ versions:
     number: plural
 
     translations:
-        english: calm
-        french: ''
-        portuguese: ''
-        spanish: tranquilas
-        turkish: sakinler
+        inglez: calm
+        fransez: ''
+        portugez: ''
+        kasteyano: tranquilas
+        turko: sakinler
 
 
 

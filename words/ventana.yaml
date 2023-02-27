@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: window
-        french: fenêtre
-        portuguese: ''
-        spanish: ventana
-        turkish: pencere
+        inglez: window
+        fransez: fenêtre
+        portugez: ''
+        kasteyano: ventana
+        turko: pencere
 
   - ladino: ventanas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: windows
-        french: fenetrês
-        portuguese: ''
-        spanish: ventanas
-        turkish: pencere
+        inglez: windows
+        fransez: fenetrês
+        portugez: ''
+        kasteyano: ventanas
+        turko: pencere
 
 
 

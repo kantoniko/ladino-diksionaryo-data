@@ -12,13 +12,13 @@ versions:
     number: singular
 
     translations:
-        english: refrigerator
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: refrigerator
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - nevera
         - refrigerador
-        turkish: buzdolabı
+        turko: buzdolabı
 
   - ladino: frijideres
     accented: frijidéres
@@ -27,12 +27,12 @@ versions:
     number: plural
 
     translations:
-        english: refrigerators
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: refrigerators
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - neveras
         - refrigeradores
-        turkish: buzdolapları
+        turko: buzdolapları
 
 

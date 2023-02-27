@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - windscreen
         - windshield
-        french: verre de devant
-        portuguese: ''
-        spanish: parabrisas
-        turkish: ön cam
+        fransez: verre de devant
+        portugez: ''
+        kasteyano: parabrisas
+        turko: ön cam
 
 

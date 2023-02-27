@@ -5,49 +5,49 @@ versions:
   - ladino: viajar
 
     translations:
-        english: travel
-        french: voyager
-        portuguese: ''
-        spanish: viajar (en)
-        turkish: seyahat etmek
+        inglez: travel
+        fransez: voyager
+        portugez: ''
+        kasteyano: viajar (en)
+        turko: seyahat etmek
 
 conjugations:
   prezente:
     yo:
       ladino: viajo
       translations:
-        english: travel
-        spanish: viajo
+        inglez: travel
+        kasteyano: viajo
 
     tu:
       ladino: viajas
       translations:
-        english: travel
-        spanish: vijas
+        inglez: travel
+        kasteyano: vijas
 
     el:
       ladino: viaja
       translations:
-        english: travels
-        spanish: viaja
+        inglez: travels
+        kasteyano: viaja
 
     mozotros:
       ladino: viajamos
       translations:
-        english: travel
-        spanish: viajamos
+        inglez: travel
+        kasteyano: viajamos
 
     vozotros:
       ladino: viajash
       translations:
-        english: travel
-        spanish: viajais
+        inglez: travel
+        kasteyano: viajais
 
     eyos:
       ladino: viajan
       translations:
-        english: travel
-        spanish: viajan
+        inglez: travel
+        kasteyano: viajan
 
 
 

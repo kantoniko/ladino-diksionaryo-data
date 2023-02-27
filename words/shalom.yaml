@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - salute
         - greetings
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - saludo
         - salutación
-        turkish: selâm
+        turko: selâm
 

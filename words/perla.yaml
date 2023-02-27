@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: pearl
-        french: ''
-        portuguese: ''
-        spanish: perla
-        turkish: inci
+        inglez: pearl
+        fransez: ''
+        portugez: ''
+        kasteyano: perla
+        turko: inci
 
   - ladino: perlas
     accented: pérlas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: pearls
-        french: ''
-        portuguese: ''
-        spanish: perlas
-        turkish: inci
+        inglez: pearls
+        fransez: ''
+        portugez: ''
+        kasteyano: perlas
+        turko: inci
 
 

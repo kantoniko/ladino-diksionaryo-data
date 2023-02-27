@@ -5,11 +5,11 @@ versions:
   - ladino: atarse
 
     translations:
-        english: get attached
-        french: "s'attacher"
-        portuguese: ''
-        spanish: atarse
-        turkish: bağlanmak
+        inglez: get attached
+        fransez: "s'attacher"
+        portugez: ''
+        kasteyano: atarse
+        turko: bağlanmak
 
 conjugations: {}
 

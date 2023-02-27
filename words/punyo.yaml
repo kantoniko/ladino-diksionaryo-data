@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: fist
-        french: ''
-        portuguese: ''
-        spanish: puño
-        turkish: yumruk
+        inglez: fist
+        fransez: ''
+        portugez: ''
+        kasteyano: puño
+        turko: yumruk
 
   - ladino: punyos
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: fists
-        french: ''
-        portuguese: ''
-        spanish: puños
-        turkish: yumruklar
+        inglez: fists
+        fransez: ''
+        portugez: ''
+        kasteyano: puños
+        turko: yumruklar
 
 

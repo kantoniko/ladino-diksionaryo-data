@@ -6,39 +6,39 @@ versions:
     accented: abandonár
 
     translations:
-        english: abandon
-        french: abandonner
-        portuguese: abandonar
-        spanish: abandonar
-        turkish: terk etmek
+        inglez: abandon
+        fransez: abandonner
+        portugez: abandonar
+        kasteyano: abandonar
+        turko: terk etmek
 
 conjugations:
   prezente:
     yo:
       ladino: abando
       translations:
-        english: abandon
+        inglez: abandon
     tu:
       ladino: abandas
       translations:
-        english: abandon
+        inglez: abandon
     el:
       ladino: abanda
       translations:
-        english: abandons
+        inglez: abandons
 
     mozotros:
       ladino: abandamos
       translations:
-        english: abandon
+        inglez: abandon
 
     vozotros:
       ladino: abandash
       translations:
-        english: abandon
+        inglez: abandon
 
     eyos:
       ladino: abandan
       translations:
-        english: abandon
+        inglez: abandon
 

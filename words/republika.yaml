@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: republic
-        french: ''
-        portuguese: ''
-        spanish: república
-        turkish: cumhuriyet
+        inglez: republic
+        fransez: ''
+        portugez: ''
+        kasteyano: república
+        turko: cumhuriyet
 
   - ladino: republikas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: republics
-        french: ''
-        portuguese: ''
-        spanish: repúblicas
-        turkish: cumhuriyet
+        inglez: republics
+        fransez: ''
+        portugez: ''
+        kasteyano: repúblicas
+        turko: cumhuriyet
 
 
 

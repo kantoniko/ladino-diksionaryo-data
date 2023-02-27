@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: dress
-      french: ''
-      hebrew: שמלה
-      portuguese: ''
-      spanish: vestido
-      turkish: etek
+      inglez: dress
+      fransez: ''
+      ebreo: שמלה
+      portugez: ''
+      kasteyano: vestido
+      turko: etek
 
   - ladino: fostanes
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: dresses
-      french: ''
-      hebrew: שמלות
-      portuguese: ''
-      spanish: vestidos
-      turkish: etekler
+      inglez: dresses
+      fransez: ''
+      ebreo: שמלות
+      portugez: ''
+      kasteyano: vestidos
+      turko: etekler
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: batalia
 
     translations:
-        english: battle
-        french: bataille
-        portuguese: ''
-        spanish: batalla
-        turkish:
+        inglez: battle
+        fransez: bataille
+        portugez: ''
+        kasteyano: batalla
+        turko:
         - muharebe
         - çatışma
 

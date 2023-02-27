@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - shop
         - store
-        french: ''
-        portuguese: ''
-        spanish: almacén
-        turkish: mağaza
+        fransez: ''
+        portugez: ''
+        kasteyano: almacén
+        turko: mağaza
 
   - ladino: magazenes
     accented: magazénes
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - shops
         - stores
-        french: ''
-        portuguese: ''
-        spanish: almacénes
-        turkish: mağaza
+        fransez: ''
+        portugez: ''
+        kasteyano: almacénes
+        turko: mağaza
 

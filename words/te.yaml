@@ -8,14 +8,14 @@ versions:
     gender: both
 
     translations:
-        english:
+        inglez:
         - you
         - to you
         - yourself
-        french: thé
-        portuguese: ''
-        spanish: te
-        turkish:
+        fransez: thé
+        portugez: ''
+        kasteyano: te
+        turko:
         - seni
         - sana
 

@@ -6,16 +6,16 @@ versions:
     accented: afitár
 
     translations:
-        english:
+        inglez:
         - happen
         - occur
-        french: survenir
-        portuguese: ''
-        spanish:
+        fransez: survenir
+        portugez: ''
+        kasteyano:
         - ocurrir
         - acontecer
         - suceder
-        turkish:
+        turko:
         - meydana gelmek
         - vuku bulmak
 

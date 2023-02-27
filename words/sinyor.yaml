@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: gentleman
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: gentleman
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - caballero
           - señor
-        turkish: beyefendi
+        turko: beyefendi
 
   - ladino: sinyora
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: lady
-        french: ''
-        portuguese: ''
-        spanish: señora
-        turkish: bayan
+        inglez: lady
+        fransez: ''
+        portugez: ''
+        kasteyano: señora
+        turko: bayan
 
 
 

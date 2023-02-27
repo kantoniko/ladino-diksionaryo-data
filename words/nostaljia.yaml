@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: nostalgia
-        french: ''
-        portuguese: ''
-        spanish: nostalgia
-        turkish:
+        inglez: nostalgia
+        fransez: ''
+        portugez: ''
+        kasteyano: nostalgia
+        turko:
         - özlem
         - hasret
 

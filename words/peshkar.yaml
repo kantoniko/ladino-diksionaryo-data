@@ -5,11 +5,11 @@ versions:
   - ladino: peshkar
 
     translations:
-        english: fish
-        french: ''
-        portuguese: ''
-        spanish: pescar
-        turkish: balık tutmak
+        inglez: fish
+        fransez: ''
+        portugez: ''
+        kasteyano: pescar
+        turko: balık tutmak
 
 conjugations: {}
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - wedding
         - marriage
-        french: ''
-        portuguese: ''
-        spanish: boda
-        turkish: düğün
+        fransez: ''
+        portugez: ''
+        kasteyano: boda
+        turko: düğün
 
 

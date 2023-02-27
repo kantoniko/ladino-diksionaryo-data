@@ -5,13 +5,13 @@ versions:
   - ladino: sinyalar
 
     translations:
-        english:
+        inglez:
         - signal
         - point out
-        french: ''
-        portuguese: ''
-        spanish: señalar
-        turkish: işaret etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: señalar
+        turko: işaret etmek
 
 conjugations: {}
 

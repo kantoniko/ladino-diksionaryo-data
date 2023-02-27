@@ -5,11 +5,11 @@ versions:
   - ladino: forsar
 
     translations:
-        english: impose
-        french: ''
-        portuguese: ''
-        spanish: imponer
-        turkish: kabul ettirmek
+        inglez: impose
+        fransez: ''
+        portugez: ''
+        kasteyano: imponer
+        turko: kabul ettirmek
 
 conjugations: {}
 

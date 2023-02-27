@@ -8,18 +8,18 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - piece
         - fragment
         - part
         - portion
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - חתיכה
         - רסיס
         - חלק
         - מנה
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

@@ -5,11 +5,11 @@ versions:
   - ladino: egzistir
 
     translations:
-        english: exist
-        french: ''
-        portuguese: ''
-        spanish: existir
-        turkish: var olmak
+        inglez: exist
+        fransez: ''
+        portugez: ''
+        kasteyano: existir
+        turko: var olmak
 
 conjugations: {}
 

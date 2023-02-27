@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: damned
-        french: ''
-        portuguese: ''
-        spanish: maldito
-        turkish: lânetli
+        inglez: damned
+        fransez: ''
+        portugez: ''
+        kasteyano: maldito
+        turko: lânetli
 
   - ladino: maldicha
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: damned
-        french: ''
-        portuguese: ''
-        spanish: maldita
-        turkish: lânetli
+        inglez: damned
+        fransez: ''
+        portugez: ''
+        kasteyano: maldita
+        turko: lânetli
 
   - ladino: maldichos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: damned
-        french: ''
-        portuguese: ''
-        spanish: malditos
-        turkish: lânetli
+        inglez: damned
+        fransez: ''
+        portugez: ''
+        kasteyano: malditos
+        turko: lânetli
 
   - ladino: maldichas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: damned
-        french: ''
-        portuguese: ''
-        spanish: malditas
-        turkish: lânetli
+        inglez: damned
+        fransez: ''
+        portugez: ''
+        kasteyano: malditas
+        turko: lânetli
 
 
 

@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english: delighted
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: delighted
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - encantado
         - deleitado
-        turkish: çok mutlu
+        turko: çok mutlu
 
   - ladino: tresalida
     accented: tresalída
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english: delighted
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: delighted
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - encantada
         - deleitada
-        turkish: çok mutlu
+        turko: çok mutlu
 
   - ladino: tresalidos
     accented: tresalídos
@@ -39,13 +39,13 @@ versions:
     number: plural
 
     translations:
-        english: delighted
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: delighted
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - encantados
         - deleitados
-        turkish: çok mutlu
+        turko: çok mutlu
 
   - ladino: tresalidas
     accented: tresalídas
@@ -54,12 +54,12 @@ versions:
     number: plural
 
     translations:
-        english: delighted
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: delighted
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - encantadas
         - deleitadas
-        turkish: çok mutlu
+        turko: çok mutlu
 
 

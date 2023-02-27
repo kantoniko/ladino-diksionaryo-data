@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - reunion
         - meeting
         - gathering
-        french: ''
-        portuguese: ''
-        spanish: reunión
-        turkish: toplantı
+        fransez: ''
+        portugez: ''
+        kasteyano: reunión
+        turko: toplantı
 
   - ladino: reuniones
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - reunions
         - meetings
         - gatherings
-        french: ''
-        portuguese: ''
-        spanish: reuniónes
-        turkish: toplantı
+        fransez: ''
+        portugez: ''
+        kasteyano: reuniónes
+        turko: toplantı
 

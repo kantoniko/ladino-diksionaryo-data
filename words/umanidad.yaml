@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: humanity
-        french: humanité
-        portuguese: ''
-        spanish: humanidad
-        turkish: insanlık
+        inglez: humanity
+        fransez: humanité
+        portugez: ''
+        kasteyano: humanidad
+        turko: insanlık
 
   - ladino: umanidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: humanities
-        french: humanités
-        portuguese: ''
-        spanish: humanidades
-        turkish: insanlık
+        inglez: humanities
+        fransez: humanités
+        portugez: ''
+        kasteyano: humanidades
+        turko: insanlık
 
 
 

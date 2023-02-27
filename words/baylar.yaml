@@ -5,11 +5,11 @@ versions:
   - ladino: baylar
 
     translations:
-        english: dance
-        french: danser
-        portuguese: dançar
-        spanish: bailar
-        turkish: dansetmek
+        inglez: dance
+        fransez: danser
+        portugez: dançar
+        kasteyano: bailar
+        turko: dansetmek
 
 conjugations: {}
 

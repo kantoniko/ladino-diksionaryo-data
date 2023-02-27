@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - satisfied
         - pleased
-        french: ''
-        portuguese: ''
-        spanish: satisfecho
-        turkish: memnun
+        fransez: ''
+        portugez: ''
+        kasteyano: satisfecho
+        turko: memnun
 
   - ladino: satisfecha
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - satisfied
         - pleased
-        french: ''
-        portuguese: ''
-        spanish: satisfecha
-        turkish: memnun
+        fransez: ''
+        portugez: ''
+        kasteyano: satisfecha
+        turko: memnun
 
   - ladino: satisfechos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - satisfied
         - pleased
-        french: ''
-        portuguese: ''
-        spanish: satisfechos
-        turkish: memnun
+        fransez: ''
+        portugez: ''
+        kasteyano: satisfechos
+        turko: memnun
 
   - ladino: satisfechas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - satisfied
         - pleased
-        french: ''
-        portuguese: ''
-        spanish: satisfechas
-        turkish: memnun
+        fransez: ''
+        portugez: ''
+        kasteyano: satisfechas
+        turko: memnun
 
 
 

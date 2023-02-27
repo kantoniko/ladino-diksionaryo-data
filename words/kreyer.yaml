@@ -5,11 +5,11 @@ versions:
   - ladino: kreyer
 
     translations:
-        english: believe
-        french: ''
-        portuguese: ''
-        spanish: creer
-        turkish:
+        inglez: believe
+        fransez: ''
+        portugez: ''
+        kasteyano: creer
+        turko:
         - inanmak
         - zannetmek
 

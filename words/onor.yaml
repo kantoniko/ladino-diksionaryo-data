@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: honour
-        french: ''
-        portuguese: ''
-        spanish: honor
-        turkish: şeref
+        inglez: honour
+        fransez: ''
+        portugez: ''
+        kasteyano: honor
+        turko: şeref
 
   - ladino: onores
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: honour
-        french: ''
-        portuguese: ''
-        spanish: honores
-        turkish: şeref
+        inglez: honour
+        fransez: ''
+        portugez: ''
+        kasteyano: honores
+        turko: şeref
 
 
 

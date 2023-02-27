@@ -6,16 +6,16 @@ versions:
     accented: enderechár
 
     translations:
-        english:
+        inglez:
         - put right
         - straighten
-        french:
+        fransez:
         - résoudre
         - réparer
         - redresser
-        portuguese: ' endireitar'
-        spanish: subsanar
-        turkish: düzeltmek
+        portugez: ' endireitar'
+        kasteyano: subsanar
+        turko: düzeltmek
 
 conjugations: {}
 

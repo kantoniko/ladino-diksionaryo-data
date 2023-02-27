@@ -5,13 +5,13 @@ versions:
   - ladino: arrozar
 
     translations:
-        english:
+        inglez:
         - water
         - irrigate
-        french: ''
-        portuguese: ''
-        spanish: regar
-        turkish: sulamak
+        fransez: ''
+        portugez: ''
+        kasteyano: regar
+        turko: sulamak
 
 conjugations: {}
 

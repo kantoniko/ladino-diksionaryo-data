@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - memory
         - recollection
-        french: ''
-        portuguese: ''
-        spanish: recuerdo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: recuerdo
+        turko:
         - hatıra
         - anı
         - yadigâr

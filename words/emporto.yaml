@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - amount
         - value
         - cost
-        french: ''
-        portuguese: ''
-        spanish: importe
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: importe
+        turko:
         - miktar
         - meblağ
 

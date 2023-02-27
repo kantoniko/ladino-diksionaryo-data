@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - rag
         - cloth
-        french:
+        fransez:
         - chiffon
         - torchon
-        portuguese: ''
-        spanish: trapo
-        turkish: bez
+        portugez: ''
+        kasteyano: trapo
+        turko: bez
 

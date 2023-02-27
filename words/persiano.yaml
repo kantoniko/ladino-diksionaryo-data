@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: persian
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: persian
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: persiana
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: persian
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: persian
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: persianos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: persians
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: persians
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: persianas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: persians
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: persians
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: submarine
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: submarino
-      turkish: ''
+      inglez: submarine
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: submarino
+      turko: ''
 
   - ladino: sumarinos
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: submarines
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: submarinos
-      turkish: ''
+      inglez: submarines
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: submarinos
+      turko: ''
 
 
 

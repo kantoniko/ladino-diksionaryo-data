@@ -7,11 +7,11 @@ versions:
     number: singular
 
     translations:
-        english: lucid
-        french: ''
-        portuguese: ''
-        spanish: lúcido
-        turkish: açık seçik
+        inglez: lucid
+        fransez: ''
+        portugez: ''
+        kasteyano: lúcido
+        turko: açık seçik
 
   - ladino: lusida
 
@@ -19,11 +19,11 @@ versions:
     number: singular
 
     translations:
-        english: lucid
-        french: ''
-        portuguese: ''
-        spanish: lúcida
-        turkish: açık seçik
+        inglez: lucid
+        fransez: ''
+        portugez: ''
+        kasteyano: lúcida
+        turko: açık seçik
 
   - ladino: lusidos
 
@@ -31,11 +31,11 @@ versions:
     number: plural
 
     translations:
-        english: lucid
-        french: ''
-        portuguese: ''
-        spanish: lúcidos
-        turkish: açık seçik
+        inglez: lucid
+        fransez: ''
+        portugez: ''
+        kasteyano: lúcidos
+        turko: açık seçik
 
   - ladino: lusidas
 
@@ -43,11 +43,11 @@ versions:
     number: plural
 
     translations:
-        english: lucid
-        french: ''
-        portuguese: ''
-        spanish: lúcidas
-        turkish: açık seçik
+        inglez: lucid
+        fransez: ''
+        portugez: ''
+        kasteyano: lúcidas
+        turko: açık seçik
 
 
 

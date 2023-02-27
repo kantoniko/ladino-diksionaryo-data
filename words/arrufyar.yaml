@@ -5,13 +5,13 @@ versions:
   - ladino: arrufyar
 
     translations:
-        english: irrigate
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: irrigate
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - irrigar
         - regar
-        turkish: sulamak
+        turko: sulamak
 
 conjugations: {}
 

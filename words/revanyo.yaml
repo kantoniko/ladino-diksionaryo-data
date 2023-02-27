@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - flock
         - herd
-        french: ''
-        portuguese: ''
-        spanish: rebaño
-        turkish: sürü
+        fransez: ''
+        portugez: ''
+        kasteyano: rebaño
+        turko: sürü
 

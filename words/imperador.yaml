@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: emperor
-        french: ''
-        portuguese: ''
-        spanish: emperador
-        turkish: imparator
+        inglez: emperor
+        fransez: ''
+        portugez: ''
+        kasteyano: emperador
+        turko: imparator
 
   - ladino: imperadores
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: emperors
-        french: ''
-        portuguese: ''
-        spanish: emperadores
-        turkish: imparator
+        inglez: emperors
+        fransez: ''
+        portugez: ''
+        kasteyano: emperadores
+        turko: imparator
 
 
 

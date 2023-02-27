@@ -5,11 +5,11 @@ versions:
   - ladino: okupar
 
     translations:
-        english: occupy
-        french: ''
-        portuguese: ''
-        spanish: ocupar
-        turkish: meşgul etmek
+        inglez: occupy
+        fransez: ''
+        portugez: ''
+        kasteyano: ocupar
+        turko: meşgul etmek
 
 conjugations: {}
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: dog
-        french: ''
-        portuguese: ''
-        spanish: perro
-        turkish: köpek
+        inglez: dog
+        fransez: ''
+        portugez: ''
+        kasteyano: perro
+        turko: köpek
 
   - ladino: perros
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: dogs
-        french: ''
-        portuguese: ''
-        spanish: perros
-        turkish: köpek
+        inglez: dogs
+        fransez: ''
+        portugez: ''
+        kasteyano: perros
+        turko: köpek
 
 
 

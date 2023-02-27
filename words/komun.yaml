@@ -5,11 +5,11 @@ versions:
   - ladino: komun
 
     translations:
-        english: common
-        french: ''
-        portuguese: ''
-        spanish: común
-        turkish:
+        inglez: common
+        fransez: ''
+        portugez: ''
+        kasteyano: común
+        turko:
         - ortak
         - müşterek
         - alelade

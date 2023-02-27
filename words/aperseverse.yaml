@@ -6,15 +6,15 @@ versions:
     accented: apersevérse
 
     translations:
-        english:
+        inglez:
         - notice
         - become aware
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - fijarse en..
         - darse cuenta
-        turkish: farketmek
+        turko: farketmek
 
 conjugations: {}
 

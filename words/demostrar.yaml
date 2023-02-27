@@ -5,11 +5,11 @@ versions:
   - ladino: demostrar
 
     translations:
-        english: demonstrate
-        french: ''
-        portuguese: ''
-        spanish: demostrar
-        turkish:
+        inglez: demonstrate
+        fransez: ''
+        portugez: ''
+        kasteyano: demostrar
+        turko:
         - tezahürat yapmak
         - ispat etmek
 

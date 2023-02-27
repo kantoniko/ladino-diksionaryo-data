@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: paper bin
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: papelera
-      turkish: ''
+      inglez: paper bin
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: papelera
+      turko: ''
 
   - ladino: papeleras
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: paper bins
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: papeleras
-      turkish: ''
+      inglez: paper bins
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: papeleras
+      turko: ''
 
 
 

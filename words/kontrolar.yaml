@@ -5,11 +5,11 @@ versions:
   - ladino: kontrolar
 
     translations:
-        english: control
-        french: ''
-        portuguese: ''
-        spanish: controlar
-        turkish: kontrol etmek
+        inglez: control
+        fransez: ''
+        portugez: ''
+        kasteyano: controlar
+        turko: kontrol etmek
 
 conjugations: {}
 

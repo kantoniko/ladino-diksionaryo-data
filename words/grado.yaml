@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: grade
-        french: ''
-        portuguese: ''
-        spanish: escalafón
-        turkish:
+        inglez: grade
+        fransez: ''
+        portugez: ''
+        kasteyano: escalafón
+        turko:
         - kadem
         - rütbe
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: grades
-        french: ''
-        portuguese: ''
-        spanish: escalafónes
-        turkish:
+        inglez: grades
+        fransez: ''
+        portugez: ''
+        kasteyano: escalafónes
+        turko:
         - kadem
         - rütbe
 

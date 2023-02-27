@@ -6,14 +6,14 @@ versions:
     accented: arreventár
 
     translations:
-        english:
+        inglez:
         - burst
         - crush
         - smash
-        french: ''
-        portuguese: ''
-        spanish: reventar
-        turkish: patlamak
+        fransez: ''
+        portugez: ''
+        kasteyano: reventar
+        turko: patlamak
 
 conjugations: {}
 

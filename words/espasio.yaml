@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: space
-        french: ''
-        portuguese: ''
-        spanish: espacio
-        turkish: uzay
+        inglez: space
+        fransez: ''
+        portugez: ''
+        kasteyano: espacio
+        turko: uzay
 
   - ladino: espasios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: spaces
-        french: ''
-        portuguese: ''
-        spanish: espacios
-        turkish: uzay
+        inglez: spaces
+        fransez: ''
+        portugez: ''
+        kasteyano: espacios
+        turko: uzay
 
 
 

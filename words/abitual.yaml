@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - usual
         - habitual
-        french: habituel
-        portuguese: habitual
-        spanish:
+        fransez: habituel
+        portugez: habitual
+        kasteyano:
         - habitual
         - normal
-        turkish:
+        turko:
         - alışılagelmiş
         - sürekli
 
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - usual
         - habitual
-        french: habituel
-        portuguese: habituais
-        spanish:
+        fransez: habituel
+        portugez: habituais
+        kasteyano:
         - habituales
         - normales
-        turkish:
+        turko:
         - alışılagelmiş
         - sürekli
 

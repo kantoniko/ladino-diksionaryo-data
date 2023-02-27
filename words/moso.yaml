@@ -10,15 +10,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - maid
         - servant
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - criada
         - mozo
-        turkish: hizmetçi
+        turko: hizmetçi
 
   - ladino: mosa
 
@@ -26,15 +26,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - maid
         - servant
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - criada
         - moza
-        turkish: hizmetçi
+        turko: hizmetçi
 
   - ladino: mosos
 
@@ -42,15 +42,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - maids
         - servants
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - criadas
         - mozos
-        turkish: hizmetçi
+        turko: hizmetçi
 
   - ladino: mosas
 
@@ -58,15 +58,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - maids
         - servants
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - criadas
         - mozas
-        turkish: hizmetçi
+        turko: hizmetçi
 
 
 

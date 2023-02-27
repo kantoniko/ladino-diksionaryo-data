@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - damp
         - humid
-        french: humide
-        portuguese: ''
-        spanish: húmedo
-        turkish:
+        fransez: humide
+        portugez: ''
+        kasteyano: húmedo
+        turko:
         - nemli
         - rutubetli
 
@@ -26,13 +26,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - damp
         - humid
-        french: humide
-        portuguese: ''
-        spanish: húmeda
-        turkish:
+        fransez: humide
+        portugez: ''
+        kasteyano: húmeda
+        turko:
         - nemli
         - rutubetli
 
@@ -43,13 +43,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - damp
         - humid
-        french: humides
-        portuguese: ''
-        spanish: húmedos
-        turkish:
+        fransez: humides
+        portugez: ''
+        kasteyano: húmedos
+        turko:
         - nemli
         - rutubetli
 
@@ -60,13 +60,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - damp
         - humid
-        french: humides
-        portuguese: ''
-        spanish: húmedas
-        turkish:
+        fransez: humides
+        portugez: ''
+        kasteyano: húmedas
+        turko:
         - nemli
         - rutubetli
 

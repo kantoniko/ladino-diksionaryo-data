@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: company
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: empresa
-      turkish: ''
+      inglez: company
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: empresa
+      turko: ''
 
 
   - ladino: kompanyias
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: companies
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: empresas
-      turkish: ''
+      inglez: companies
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: empresas
+      turko: ''
 
 
 

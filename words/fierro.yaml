@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: iron
-        french: fer
-        portuguese: ferro
-        spanish: hierro
-        turkish: demir
+        inglez: iron
+        fransez: fer
+        portugez: ferro
+        kasteyano: hierro
+        turko: demir
 
   - ladino: fierros
     accented: fiérros
@@ -30,10 +30,10 @@ versions:
     number: plural
 
     translations:
-        english: irons
-        french: fer
-        portuguese: ferros
-        spanish: hierros
-        turkish: demir
+        inglez: irons
+        fransez: fer
+        portugez: ferros
+        kasteyano: hierros
+        turko: demir
 
 

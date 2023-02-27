@@ -5,11 +5,11 @@ versions:
   - ladino: espantar
 
     translations:
-        english: frighten
-        french: ''
-        portuguese: ''
-        spanish: asustar
-        turkish: korkutmak
+        inglez: frighten
+        fransez: ''
+        portugez: ''
+        kasteyano: asustar
+        turko: korkutmak
 
 conjugations: {}
 

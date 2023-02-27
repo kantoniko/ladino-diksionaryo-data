@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - nuance
         - minute difference
-        french: nuance
-        portuguese: nuance
-        spanish: matiz
-        turkish:
+        fransez: nuance
+        portugez: nuance
+        kasteyano: matiz
+        turko:
         - ayırtı
         - nüans
         - ince fark
@@ -31,13 +31,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - nuances
         - minute difference
-        french: nuance
-        portuguese: nuance
-        spanish: matizes
-        turkish:
+        fransez: nuance
+        portugez: nuance
+        kasteyano: matizes
+        turko:
         - ayırtı
         - nüans
         - ince fark

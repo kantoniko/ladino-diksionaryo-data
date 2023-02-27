@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: bonnet
-        french: ''
-        portuguese: ''
-        spanish: bonete
-        turkish:
+        inglez: bonnet
+        fransez: ''
+        portugez: ''
+        kasteyano: bonete
+        turko:
         - bone
         - takke
         - külah

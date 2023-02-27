@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - pan
           - casserole
-        french: casserole
-        portuguese: caçarola
-        spanish: cazuela
-        turkish:
+        fransez: casserole
+        portugez: caçarola
+        kasteyano: cazuela
+        turko:
         - sahan
         - tencere
 

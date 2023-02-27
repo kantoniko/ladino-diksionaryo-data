@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: minister
-        french: ''
-        portuguese: ''
-        spanish: ministro
-        turkish:
+        inglez: minister
+        fransez: ''
+        portugez: ''
+        kasteyano: ministro
+        turko:
         - bakan
         - vekil
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: ministers
-        french: ''
-        portuguese: ''
-        spanish: ministros
-        turkish:
+        inglez: ministers
+        fransez: ''
+        portugez: ''
+        kasteyano: ministros
+        turko:
         - bakan
         - vekil
 

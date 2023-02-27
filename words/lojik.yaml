@@ -8,14 +8,14 @@ versions:
       - ladino: lojiko
 
     translations:
-      english: logical
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: logical
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - lógico
         - lógica
-      turkish: ''
+      turko: ''
 
 
 

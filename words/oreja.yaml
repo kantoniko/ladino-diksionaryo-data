@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: ear
-        french: ''
-        portuguese: ''
-        spanish: oreja
-        turkish: kulak
+        inglez: ear
+        fransez: ''
+        portugez: ''
+        kasteyano: oreja
+        turko: kulak
 
   - ladino: orejas
     accented: oréjas
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: ears
-        french: ''
-        portuguese: ''
-        spanish: orejas
-        turkish: kulaklar
+        inglez: ears
+        fransez: ''
+        portugez: ''
+        kasteyano: orejas
+        turko: kulaklar
 

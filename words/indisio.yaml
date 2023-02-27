@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: clue
-        french: ''
-        portuguese: ''
-        spanish: pista
-        turkish: ipucu
+        inglez: clue
+        fransez: ''
+        portugez: ''
+        kasteyano: pista
+        turko: ipucu
 
   - ladino: indisios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: clues
-        french: ''
-        portuguese: ''
-        spanish: pistas
-        turkish: ipucu
+        inglez: clues
+        fransez: ''
+        portugez: ''
+        kasteyano: pistas
+        turko: ipucu
 
 
 

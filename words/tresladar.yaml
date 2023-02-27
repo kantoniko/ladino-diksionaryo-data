@@ -5,11 +5,11 @@ versions:
   - ladino: tresladar
 
     translations:
-        english: translate
-        french: ''
-        portuguese: ''
-        spanish: traducir
-        turkish: tercüme etmek
+        inglez: translate
+        fransez: ''
+        portugez: ''
+        kasteyano: traducir
+        turko: tercüme etmek
 
 conjugations: {}
 

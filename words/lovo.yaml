@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: wolf
-        french: ''
-        portuguese: ''
-        spanish: lobo
-        turkish: kurt
+        inglez: wolf
+        fransez: ''
+        portugez: ''
+        kasteyano: lobo
+        turko: kurt
 
   - ladino: lovos
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: wolfs
-        french: ''
-        portuguese: ''
-        spanish: lobos
-        turkish: kurt
+        inglez: wolfs
+        fransez: ''
+        portugez: ''
+        kasteyano: lobos
+        turko: kurt
 
 
 

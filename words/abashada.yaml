@@ -7,29 +7,29 @@ versions:
     gender: feminine
     number: singular
     translations:
-        english: downhill
+        inglez: downhill
           # to go
-        french: descente
-        portuguese: descida
-        spanish:
+        fransez: descente
+        portugez: descida
+        kasteyano:
           - cuesta abajo
             # ir
           - catarro
-        turkish: iniş
+        turko: iniş
 
   - ladino: abashada
     accented: abasháda
     translations:
-        english:
+        inglez:
         - cold
         - flu
-        french: rhume
-        portuguese: constipacão
-        spanish:
+        fransez: rhume
+        portugez: constipacão
+        kasteyano:
         - resfriado
         - influenza
         - gripe
-        turkish:
+        turko:
         - nezle
         - grip
 

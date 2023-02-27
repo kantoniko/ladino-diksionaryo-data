@@ -5,12 +5,12 @@ versions:
   - ladino: insultar
 
     translations:
-      english: insult
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: insultar
-      turkish: ''
+      inglez: insult
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: insultar
+      turko: ''
 
 conjugations: {}
 

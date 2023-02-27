@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: ilustration
-      french: ''
-      hebrew: איור
-      portuguese: ''
-      spanish: ilustración
-      turkish: çizim
+      inglez: ilustration
+      fransez: ''
+      ebreo: איור
+      portugez: ''
+      kasteyano: ilustración
+      turko: çizim
 
   - ladino: ilustrasiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: ilustrations
-      french: ''
-      hebrew: איורים
-      portuguese: ''
-      spanish: ilustraciónes
-      turkish: çizimler
+      inglez: ilustrations
+      fransez: ''
+      ebreo: איורים
+      portugez: ''
+      kasteyano: ilustraciónes
+      turko: çizimler
 
 
 

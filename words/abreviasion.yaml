@@ -11,16 +11,16 @@ versions:
     number: singular
 
     translations:
-      english: abbreviation
-      french: ''
-      hebrew: ''
-      portuguese:
+      inglez: abbreviation
+      fransez: ''
+      ebreo: ''
+      portugez:
         - abreviação
         - abreviatura
-      spanish:
+      kasteyano:
         - abbreviation
         - abreviatura
-      turkish: kısaltma
+      turko: kısaltma
 
   - ladino: abreviasiones
     accented: abreviasiónes
@@ -29,16 +29,16 @@ versions:
     number: plural
 
     translations:
-      english: abbreviations
-      french: ''
-      hebrew: ''
-      portuguese:
+      inglez: abbreviations
+      fransez: ''
+      ebreo: ''
+      portugez:
         - abreviações
         - abreviaturas
-      spanish:
+      kasteyano:
         - abbreviationes
         - abreviaturas
-      turkish: kısaltma
+      turko: kısaltma
 
 
 

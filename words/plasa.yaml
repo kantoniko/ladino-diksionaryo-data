@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: square
-        french: ''
-        portuguese: ''
-        spanish: plaza
-        turkish: meydan
+        inglez: square
+        fransez: ''
+        portugez: ''
+        kasteyano: plaza
+        turko: meydan
 
   - ladino: plasas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: squares
-        french: ''
-        portuguese: ''
-        spanish: plazas
-        turkish: meydan
+        inglez: squares
+        fransez: ''
+        portugez: ''
+        kasteyano: plazas
+        turko: meydan
 
 
 

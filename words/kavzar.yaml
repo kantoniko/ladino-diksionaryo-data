@@ -5,11 +5,11 @@ versions:
   - ladino: kavzar
 
     translations:
-        english: cause
-        french: ''
-        portuguese: ''
-        spanish: causar
-        turkish: sebep olmak
+        inglez: cause
+        fransez: ''
+        portugez: ''
+        kasteyano: causar
+        turko: sebep olmak
 
 conjugations: {}
 

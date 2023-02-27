@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: autumn
-        french: automne
-        hebrew: סתיו
-        portuguese: outono
-        spanish: otoño
-        turkish: sonbahar
+        inglez: autumn
+        fransez: automne
+        ebreo: סתיו
+        portugez: outono
+        kasteyano: otoño
+        turko: sonbahar
 
   - ladino: otonyos
     accented: otónyos
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: autumns
-        french: ''
-        portuguese: outonos
-        spanish: otoños
-        turkish: sonbahar
+        inglez: autumns
+        fransez: ''
+        portugez: outonos
+        kasteyano: otoños
+        turko: sonbahar
 
 
 

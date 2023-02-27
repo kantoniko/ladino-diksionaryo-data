@@ -5,15 +5,15 @@ versions:
   - ladino: brindar
 
     translations:
-        english:
+        inglez:
           - Toast
           - offer voluntarily
-        french:
+        fransez:
           - Trinquer
           - offrir volontairement
-        portuguese: ''
-        spanish: brindar
-        turkish:
+        portugez: ''
+        kasteyano: brindar
+        turko:
           - Kadeh tokuşturmak
           - gönüllü olarak vermek
 

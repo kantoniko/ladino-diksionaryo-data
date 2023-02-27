@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - worry
         - preoccupation
-        french: ''
-        portuguese: ''
-        spanish: preocupación
-        turkish: endişe
+        fransez: ''
+        portugez: ''
+        kasteyano: preocupación
+        turko: endişe
 
 

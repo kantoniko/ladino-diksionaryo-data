@@ -5,13 +5,13 @@ versions:
   - ladino: estableser
 
     translations:
-        english: establish
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: establish
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - establecer
         - plantear
-        turkish: tesis etmek
+        turko: tesis etmek
 
 conjugations: {}
 

@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - cable car
         - cableway
-      french: téléphérique
-      hebrew: ''
-      portuguese: ''
-      spanish: teleférico
-      turkish: ''
+      fransez: téléphérique
+      ebreo: ''
+      portugez: ''
+      kasteyano: teleférico
+      turko: ''
 
   - ladino: teleferikos
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - cable cars
         - cableways
-      french: téléphériques
-      hebrew: ''
-      portuguese: ''
-      spanish: teleféricos
-      turkish: ''
+      fransez: téléphériques
+      ebreo: ''
+      portugez: ''
+      kasteyano: teleféricos
+      turko: ''
 
 
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - tiredness
         - fatigue
-        french: ''
-        portuguese: ''
-        spanish: cansancio
-        turkish: yorgunluk
+        fransez: ''
+        portugez: ''
+        kasteyano: cansancio
+        turko: yorgunluk
 

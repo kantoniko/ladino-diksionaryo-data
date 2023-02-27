@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: local
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: local
-      turkish: ''
+      inglez: local
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: local
+      turko: ''
 
   - ladino: lokala
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: local
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: locala
-      turkish: ''
+      inglez: local
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: locala
+      turko: ''
 
   - ladino: lokales
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: local
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: locales
-      turkish: ''
+      inglez: local
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: locales
+      turko: ''
 
   - ladino: lokalas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: local
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: localas
-      turkish: ''
+      inglez: local
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: localas
+      turko: ''
 
 
 

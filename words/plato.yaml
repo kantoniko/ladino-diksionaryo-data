@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - plate
         - dish
-        french: ''
-        portuguese: ''
-        spanish: plato
-        turkish: tabak
+        fransez: ''
+        portugez: ''
+        kasteyano: plato
+        turko: tabak
 
   - ladino: platos
 
@@ -25,13 +25,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - plates
         - dishes
-        french: ''
-        portuguese: ''
-        spanish: platos
-        turkish: tabak
+        fransez: ''
+        portugez: ''
+        kasteyano: platos
+        turko: tabak
 
 
 

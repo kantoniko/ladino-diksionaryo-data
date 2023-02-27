@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: sack
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: saco
-      turkish: ''
+      inglez: sack
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: saco
+      turko: ''
 
   - ladino: sakos
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: sacks
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sacos
-      turkish: ''
+      inglez: sacks
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sacos
+      turko: ''
 
 
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: easy
-        french: facile
-        portuguese: fácil
-        spanish: fácil
-        turkish: kolay
+        inglez: easy
+        fransez: facile
+        portugez: fácil
+        kasteyano: fácil
+        turko: kolay
 
   - ladino: fasiles
     accented: fásiles
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: easy
-        french: facile
-        portuguese: fáceis
-        spanish: fáciles
-        turkish: kolay
+        inglez: easy
+        fransez: facile
+        portugez: fáceis
+        kasteyano: fáciles
+        turko: kolay
 
 

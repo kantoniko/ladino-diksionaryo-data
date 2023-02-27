@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: side
-        french: ''
-        portuguese: ''
-        spanish: lado
-        turkish: yan
+        inglez: side
+        fransez: ''
+        portugez: ''
+        kasteyano: lado
+        turko: yan
 
   - ladino: lados
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sides
-        french: ''
-        portuguese: ''
-        spanish: lados
-        turkish: yan
+        inglez: sides
+        fransez: ''
+        portugez: ''
+        kasteyano: lados
+        turko: yan
 
 
 

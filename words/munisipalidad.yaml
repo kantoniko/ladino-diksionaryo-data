@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: municipality
-        french: ''
-        portuguese: ''
-        spanish: ayuntamiento
-        turkish: belediye
+        inglez: municipality
+        fransez: ''
+        portugez: ''
+        kasteyano: ayuntamiento
+        turko: belediye
 
   - ladino: munisipalidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: municipalities
-        french: ''
-        portuguese: ''
-        spanish: ayuntamientos
-        turkish: belediyeler
+        inglez: municipalities
+        fransez: ''
+        portugez: ''
+        kasteyano: ayuntamientos
+        turko: belediyeler
 
 
 

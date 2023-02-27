@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-      english: digit
-      french: ''
-      hebrew: ספרה
-      portuguese: ''
-      spanish:
+      inglez: digit
+      fransez: ''
+      ebreo: ספרה
+      portugez: ''
+      kasteyano:
         - dígito
         - cifra
-      turkish: ''
+      turko: ''
 
   - ladino: shifros
 
@@ -23,14 +23,14 @@ versions:
     number: plural
 
     translations:
-      english: digits
-      french: ''
-      hebrew: ספרות
-      portuguese: ''
-      spanish:
+      inglez: digits
+      fransez: ''
+      ebreo: ספרות
+      portugez: ''
+      kasteyano:
         - dígitos
         - cifras
-      turkish: ''
+      turko: ''
 
 
 

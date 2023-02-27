@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: knee
-        french: ''
-        portuguese: ''
-        spanish: rodilla
-        turkish: diz
+        inglez: knee
+        fransez: ''
+        portugez: ''
+        kasteyano: rodilla
+        turko: diz
 
   - ladino: dizes
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: knees
-        french: ''
-        portuguese: ''
-        spanish: rodillas
-        turkish: diz
+        inglez: knees
+        fransez: ''
+        portugez: ''
+        kasteyano: rodillas
+        turko: diz
 
 
 

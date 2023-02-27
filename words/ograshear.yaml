@@ -10,13 +10,13 @@ versions:
         accented: ugrasheár
 
     translations:
-        english:
+        inglez:
         - strive
         - struggle hard
-        french: s'efforcer
-        portuguese: ''
-        spanish: esforzarse
-        turkish: uğraşmak
+        fransez: s'efforcer
+        portugez: ''
+        kasteyano: esforzarse
+        turko: uğraşmak
 
 conjugations: {}
 

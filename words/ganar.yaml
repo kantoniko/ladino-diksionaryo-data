@@ -5,13 +5,13 @@ versions:
   - ladino: ganar
 
     translations:
-        english: gain
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: gain
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - ganar
           - lucrarse
-        turkish: kazanç sağlamak
+        turko: kazanç sağlamak
 
 conjugations: {}
 

@@ -5,10 +5,10 @@ versions:
   - ladino: tino
 
     translations:
-        english: memory
-        french: ''
-        portuguese: ''
-        spanish: memoria
-        turkish: hafıza
+        inglez: memory
+        fransez: ''
+        portugez: ''
+        kasteyano: memoria
+        turko: hafıza
 
 

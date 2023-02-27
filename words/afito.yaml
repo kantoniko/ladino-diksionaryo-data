@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - happening
           - event
           - constipation
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - acontecimiento
           - estreñimiento
-        turkish:
+        turko:
           - hadise
           - olay
           - kabızlık

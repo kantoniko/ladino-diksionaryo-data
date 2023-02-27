@@ -5,11 +5,11 @@ versions:
   - ladino: egziliar
 
     translations:
-        english: exile
-        french: ''
-        portuguese: ''
-        spanish: exiliar
-        turkish: sürgüne göndermek
+        inglez: exile
+        fransez: ''
+        portugez: ''
+        kasteyano: exiliar
+        turko: sürgüne göndermek
 
 conjugations: {}
 

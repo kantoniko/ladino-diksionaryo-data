@@ -5,14 +5,14 @@ versions:
   - ladino: penserios
 
     translations:
-        english:
+        inglez:
         - sorrow
         - problems
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pena
         - problemas
-        turkish: dert
+        turko: dert
 
 

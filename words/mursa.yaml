@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - unlovable
         - sulky
-        french: boudeur
-        portuguese: ''
-        spanish:
+        fransez: boudeur
+        portugez: ''
+        kasteyano:
         - mohino
         - enfurruñado
-        turkish:
+        turko:
         - sevimsiz
         - somurtkan
 

@@ -14,12 +14,12 @@ versions:
         accented: publikasión
 
     translations:
-      english: publication
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: publicación
-      turkish: ''
+      inglez: publication
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: publicación
+      turko: ''
 
   - ladino: puvlikasiones
     accented: puvlikasiónes
@@ -33,12 +33,12 @@ versions:
         accented: publikasiónes
 
     translations:
-      english: publications
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: publicaciones
-      turkish: ''
+      inglez: publications
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: publicaciones
+      turko: ''
 
 
 

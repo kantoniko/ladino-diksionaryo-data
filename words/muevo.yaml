@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: new
-        french: ''
-        portuguese: ''
-        spanish: nuevo
-        turkish: yeni
+        inglez: new
+        fransez: ''
+        portugez: ''
+        kasteyano: nuevo
+        turko: yeni
 
   - ladino: mueva
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: new
-        french: ''
-        portuguese: ''
-        spanish: nueva
-        turkish: yeni
+        inglez: new
+        fransez: ''
+        portugez: ''
+        kasteyano: nueva
+        turko: yeni
 
   - ladino: muevos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: new
-        french: ''
-        portuguese: ''
-        spanish: nuevos
-        turkish: yeni
+        inglez: new
+        fransez: ''
+        portugez: ''
+        kasteyano: nuevos
+        turko: yeni
 
   - ladino: muevas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: new
-        french: ''
-        portuguese: ''
-        spanish: nuevas
-        turkish: yeni
+        inglez: new
+        fransez: ''
+        portugez: ''
+        kasteyano: nuevas
+        turko: yeni
 
 
 

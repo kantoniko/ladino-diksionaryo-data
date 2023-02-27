@@ -5,12 +5,12 @@ versions:
   - ladino: yave
 
     translations:
-        english: key
-        french:
+        inglez: key
+        fransez:
           - clé
           - clef
-        portuguese: ''
-        spanish: llave
-        turkish: anahtar
+        portugez: ''
+        kasteyano: llave
+        turko: anahtar
 
 

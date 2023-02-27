@@ -9,12 +9,12 @@ versions:
         accented: bastár
 
     translations:
-        english:
+        inglez:
           - be sufficient
           - be enough
-        french: ''
-        portuguese: ''
-        spanish: bastar
-        turkish: yetmek
+        fransez: ''
+        portugez: ''
+        kasteyano: bastar
+        turko: yetmek
 
 conjugations: {}

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: person
-        french: ''
-        portuguese: ''
-        spanish: persona
-        turkish:
+        inglez: person
+        fransez: ''
+        portugez: ''
+        kasteyano: persona
+        turko:
         - adam
         - insan
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: people
-        french: ''
-        portuguese: ''
-        spanish: personas
-        turkish:
+        inglez: people
+        fransez: ''
+        portugez: ''
+        kasteyano: personas
+        turko:
         - adam
         - insan
 

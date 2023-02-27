@@ -5,11 +5,11 @@ versions:
   - ladino: entreprisa
 
     translations:
-        english: enterprise
-        french: ''
-        portuguese: ''
-        spanish: empresa
-        turkish:
+        inglez: enterprise
+        fransez: ''
+        portugez: ''
+        kasteyano: empresa
+        turko:
         - girişim
         - şirket
 

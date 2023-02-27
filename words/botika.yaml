@@ -13,10 +13,10 @@ versions:
     number: singular
 
     translations:
-        english: shop
-        french: magasin
-        hebrew: חנות
-        portuguese: ''
-        spanish: tienda
-        turkish: dükkân
+        inglez: shop
+        fransez: magasin
+        ebreo: חנות
+        portugez: ''
+        kasteyano: tienda
+        turko: dükkân
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: amateur
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: amateur
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - aficionado
         - principiante
-        turkish: amatör
+        turko: amatör
 

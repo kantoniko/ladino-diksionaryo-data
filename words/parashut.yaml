@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: parachute
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: paracaídas
-      turkish: ''
+      inglez: parachute
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: paracaídas
+      turko: ''
 
   - ladino: parashutes
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: parachutes
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: paracaídas
-      turkish: ''
+      inglez: parachutes
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: paracaídas
+      turko: ''
 
 
 

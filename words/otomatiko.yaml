@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: automatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: automático
-      turkish: ''
+      inglez: automatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: automático
+      turko: ''
 
   - ladino: otomatika
     accented: otomátika
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: automatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: automática
-      turkish: ''
+      inglez: automatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: automática
+      turko: ''
 
   - ladino: otomatikos
     accented: otomátikos
@@ -37,12 +37,12 @@ versions:
     number: plural
 
     translations:
-      english: automatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: automáticos
-      turkish: ''
+      inglez: automatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: automáticos
+      turko: ''
 
   - ladino: otomatikas
     accented: otomátikas
@@ -51,11 +51,11 @@ versions:
     number: plural
 
     translations:
-      english: automatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: automáticas
-      turkish: ''
+      inglez: automatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: automáticas
+      turko: ''
 
 

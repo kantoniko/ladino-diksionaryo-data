@@ -5,11 +5,11 @@ versions:
   - ladino: dezvelopar
 
     translations:
-        english: develop
-        french: ''
-        portuguese: ''
-        spanish: desarrollar
-        turkish:
+        inglez: develop
+        fransez: ''
+        portugez: ''
+        kasteyano: desarrollar
+        turko:
         - geliştirmek
         - kalkındırmak
         - tevsi etmek

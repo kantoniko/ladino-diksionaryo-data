@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: room
-        french: chambre
-        portuguese: quarto
-        spanish: cuarto
-        turkish: oda
+        inglez: room
+        fransez: chambre
+        portugez: quarto
+        kasteyano: cuarto
+        turko: oda
 
   - ladino: kamaretas
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: rooms
-        french: chambre
-        portuguese: quarto
-        spanish: cuartos
-        turkish: oda
+        inglez: rooms
+        fransez: chambre
+        portugez: quarto
+        kasteyano: cuartos
+        turko: oda
 
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: pitcher
-        french: ''
-        portuguese: ''
-        spanish: botijo
-        turkish: testi
+        inglez: pitcher
+        fransez: ''
+        portugez: ''
+        kasteyano: botijo
+        turko: testi
 
   - ladino: kantaros
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: pitchers
-        french: ''
-        portuguese: ''
-        spanish: botijos
-        turkish: ''
+        inglez: pitchers
+        fransez: ''
+        portugez: ''
+        kasteyano: botijos
+        turko: ''
 
 
 

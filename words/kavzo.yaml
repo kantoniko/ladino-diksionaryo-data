@@ -9,13 +9,13 @@ versions:
 
 
     translations:
-        english:
+        inglez:
         - case
         - event
-        french: ''
-        portuguese: ''
-        spanish: caso
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: caso
+        turko:
         - olay
         - durum
 
@@ -26,13 +26,13 @@ versions:
 
 
     translations:
-        english:
+        inglez:
         - cases
         - events
-        french: ''
-        portuguese: ''
-        spanish: casos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: casos
+        turko:
         - olay
         - durum
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: back
-        french: ''
-        portuguese: ''
-        spanish: espalda
-        turkish: sırt
+        inglez: back
+        fransez: ''
+        portugez: ''
+        kasteyano: espalda
+        turko: sırt
 
   - ladino: espaldas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: backs
-        french: ''
-        portuguese: ''
-        spanish: espaldas
-        turkish: sırt
+        inglez: backs
+        fransez: ''
+        portugez: ''
+        kasteyano: espaldas
+        turko: sırt
 
 
 

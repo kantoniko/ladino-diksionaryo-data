@@ -5,11 +5,11 @@ versions:
   - ladino: orientar
 
     translations:
-        english: orientate
-        french: ''
-        portuguese: ''
-        spanish: orientar
-        turkish: yönlendirmek
+        inglez: orientate
+        fransez: ''
+        portugez: ''
+        kasteyano: orientar
+        turko: yönlendirmek
 
 conjugations: {}
 

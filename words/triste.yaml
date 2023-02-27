@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sad
-        french: ''
-        portuguese: ''
-        spanish: triste
-        turkish: hüzünlü
+        inglez: sad
+        fransez: ''
+        portugez: ''
+        kasteyano: triste
+        turko: hüzünlü
 
   - ladino: tristes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sad
-        french: ''
-        portuguese: ''
-        spanish: tristes
-        turkish: hüzünlü
+        inglez: sad
+        fransez: ''
+        portugez: ''
+        kasteyano: tristes
+        turko: hüzünlü
 
 
 

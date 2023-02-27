@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: sock
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: calcetín
-      turkish: ''
+      inglez: sock
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: calcetín
+      turko: ''
 
   - ladino: kalsas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: socks
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: calcetines
-      turkish: ''
+      inglez: socks
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: calcetines
+      turko: ''
 
 
 

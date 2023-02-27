@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: trunk
-        french: ''
-        portuguese: ''
-        spanish: tronco
-        turkish: kütük
+        inglez: trunk
+        fransez: ''
+        portugez: ''
+        kasteyano: tronco
+        turko: kütük
 
   - ladino: tronkos
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: trunks
-        french: ''
-        portuguese: ''
-        spanish: troncos
-        turkish: kütük
+        inglez: trunks
+        fransez: ''
+        portugez: ''
+        kasteyano: troncos
+        turko: kütük
 

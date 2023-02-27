@@ -11,13 +11,13 @@ versions:
       - ladino: bayagi
 
     translations:
-        english:
+        inglez:
         - ordinary
         - common
-        french: ''
-        portuguese: ''
-        spanish: ordinario
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: ordinario
+        turko:
         - adí
         - bayağı
 
@@ -30,13 +30,13 @@ versions:
       - ladino: bayagi
 
     translations:
-        english:
+        inglez:
         - ordinary
         - common
-        french: ''
-        portuguese: ''
-        spanish: ordinaria
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: ordinaria
+        turko:
         - adí
         - bayağı
 
@@ -49,13 +49,13 @@ versions:
       - ladino: bayagi
 
     translations:
-        english:
+        inglez:
         - ordinary
         - common
-        french: ''
-        portuguese: ''
-        spanish: ordinarios
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: ordinarios
+        turko:
         - adí
         - bayağı
 
@@ -68,13 +68,13 @@ versions:
       - ladino: bayagi
 
     translations:
-        english:
+        inglez:
         - ordinary
         - common
-        french: ''
-        portuguese: ''
-        spanish: ordinarias
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: ordinarias
+        turko:
         - adí
         - bayağı
 

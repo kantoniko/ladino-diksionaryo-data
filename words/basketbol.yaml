@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: basketball
-        french: basket-ball
-        portuguese: ''
-        spanish: baloncesto
-        turkish: basketbol
+        inglez: basketball
+        fransez: basket-ball
+        portugez: ''
+        kasteyano: baloncesto
+        turko: basketbol
 
 

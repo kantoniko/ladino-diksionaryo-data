@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - soul
         - spirit
-        french: ''
-        portuguese: ''
-        spanish: alma
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: alma
+        turko:
         - can
         - ruh
         - tin

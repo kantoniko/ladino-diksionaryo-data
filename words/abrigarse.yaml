@@ -6,16 +6,16 @@ versions:
     accented: abrigárse
 
     translations:
-        english:
+        inglez:
           - take shelter
           - protect oneself
           - wrap oneself up
-        french:
+        fransez:
           - s'abriter
           - se couvrir
-        portuguese: abrigar-se
-        spanish: abrigarse
-        turkish:
+        portugez: abrigar-se
+        kasteyano: abrigarse
+        turko:
           - barınmak
           - örtünmek
 

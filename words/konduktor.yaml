@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: conductor
-        french: ''
-        portuguese: ''
-        spanish: conductor
-        turkish: sürücü
+        inglez: conductor
+        fransez: ''
+        portugez: ''
+        kasteyano: conductor
+        turko: sürücü
 
   - ladino: konduktora
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: conductor
-        french: ''
-        portuguese: ''
-        spanish: conductor
-        turkish: sürücü
+        inglez: conductor
+        fransez: ''
+        portugez: ''
+        kasteyano: conductor
+        turko: sürücü
 
 
 

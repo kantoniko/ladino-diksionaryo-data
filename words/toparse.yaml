@@ -5,10 +5,10 @@ versions:
   - ladino: toparse
 
     translations:
-        english: to be present
-        french: ''
-        portuguese: ''
-        spanish: meterse
-        turkish: bulunmak
+        inglez: to be present
+        fransez: ''
+        portugez: ''
+        kasteyano: meterse
+        turko: bulunmak
 
 

@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - thin
         - weak
         - feeble
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - delgado
         - débil
-        turkish:
+        turko:
         - zayıf
         - kuvvetsiz
 
@@ -27,16 +27,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - thin
         - weak
         - feeble
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - delgada
         - débil
-        turkish:
+        turko:
         - zayıf
         - kuvvetsiz
 
@@ -46,16 +46,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - thin
         - weak
         - feeble
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - delgados
         - débil
-        turkish:
+        turko:
         - zayıf
         - kuvvetsiz
 
@@ -65,16 +65,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - thin
         - weak
         - feeble
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - delgadas
         - débil
-        turkish:
+        turko:
         - zayıf
         - kuvvetsiz
 

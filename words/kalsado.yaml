@@ -13,11 +13,11 @@ versions:
       - ladino: sapato
 
     translations:
-        english: shoe
-        french: ''
-        portuguese: ''
-        spanish: zapato
-        turkish: ayakkabı
+        inglez: shoe
+        fransez: ''
+        portugez: ''
+        kasteyano: zapato
+        turko: ayakkabı
 
   - ladino: kalsados
 
@@ -28,11 +28,11 @@ versions:
       - ladino: sapatos
 
     translations:
-        english: shoes
-        french: ''
-        portuguese: ''
-        spanish: zapatos
-        turkish: ayakkabı
+        inglez: shoes
+        fransez: ''
+        portugez: ''
+        kasteyano: zapatos
+        turko: ayakkabı
 
 
 

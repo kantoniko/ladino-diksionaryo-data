@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - affected
         - pretentious
-        french:
+        fransez:
         - maniéré
         - affecté
-        portuguese: presumido
-        spanish:
+        portugez: presumido
+        kasteyano:
         - amanerado
         - pretencioso
-        turkish:
+        turko:
         - numaracı
         - gösterişçi
 
@@ -30,17 +30,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - affected
         - pretentious
-        french:
+        fransez:
         - maniéré
         - affecté
-        portuguese: presumido
-        spanish:
+        portugez: presumido
+        kasteyano:
         - amanerada
         - pretencios
-        turkish:
+        turko:
         - numaracı
         - gösterişçi
 
@@ -51,17 +51,17 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - affected
         - pretentious
-        french:
+        fransez:
         - maniéré
         - affecté
-        portuguese: presumidos
-        spanish:
+        portugez: presumidos
+        kasteyano:
         - amanerados
         - pretenciosos
-        turkish:
+        turko:
         - numaracı
         - gösterişçi
 
@@ -72,17 +72,17 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - affected
         - pretentious
-        french:
+        fransez:
         - maniéré
         - affecté
-        portuguese: presumido
-        spanish:
+        portugez: presumido
+        kasteyano:
         - amaneradas
         - pretencioss
-        turkish:
+        turko:
         - numaracı
         - gösterişçi
 

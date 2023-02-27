@@ -11,11 +11,11 @@ versions:
       - ladino: komplimieento
 
     translations:
-        english: compliment
-        french: ''
-        portuguese: ''
-        spanish: cumplimiento
-        turkish: iltifat
+        inglez: compliment
+        fransez: ''
+        portugez: ''
+        kasteyano: cumplimiento
+        turko: iltifat
 
   - ladino: komplimentos
 
@@ -26,11 +26,11 @@ versions:
       - ladino: komplimieentos
 
     translations:
-        english: compliments
-        french: ''
-        portuguese: ''
-        spanish: cumplimientos
-        turkish: iltifat
+        inglez: compliments
+        fransez: ''
+        portugez: ''
+        kasteyano: cumplimientos
+        turko: iltifat
 
 
 

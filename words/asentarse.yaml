@@ -5,11 +5,11 @@ versions:
   - ladino: asentarse
 
     translations:
-        english: sit
-        french: ''
-        portuguese: ''
-        spanish: sentarse
-        turkish: oturmak
+        inglez: sit
+        fransez: ''
+        portugez: ''
+        kasteyano: sentarse
+        turko: oturmak
 
 conjugations: {}
 

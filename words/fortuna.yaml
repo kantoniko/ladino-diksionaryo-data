@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fortune
         - luck
-        french: ''
-        portuguese: ''
-        spanish: fortuna
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fortuna
+        turko:
         - servet
         - şans
 

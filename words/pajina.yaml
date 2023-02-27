@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: page
-        french: page
-        portuguese: ''
-        spanish: página
-        turkish: sayfa
+        inglez: page
+        fransez: page
+        portugez: ''
+        kasteyano: página
+        turko: sayfa
 
   - ladino: pajinas
     accented: pájinas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: pagees
-        french: page
-        portuguese: ''
-        spanish: páginas
-        turkish: sayfa
+        inglez: pagees
+        fransez: page
+        portugez: ''
+        kasteyano: páginas
+        turko: sayfa
 

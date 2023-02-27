@@ -11,12 +11,12 @@ versions:
       - ladino: granmama
 
     translations:
-        english: grandmother
-        french:
+        inglez: grandmother
+        fransez:
           - grand-mère
           - mami
-        portuguese: ''
-        spanish: abuela
-        turkish: büyükanne
+        portugez: ''
+        kasteyano: abuela
+        turko: büyükanne
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: basis
-        french: ''
-        portuguese: ''
-        spanish: base
-        turkish:
+        inglez: basis
+        fransez: ''
+        portugez: ''
+        kasteyano: base
+        turko:
         - temel
         - esas
         - dayanak

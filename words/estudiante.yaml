@@ -9,11 +9,11 @@ versions:
 
 
     translations:
-        english: student
-        french: ''
-        portuguese: ''
-        spanish: estudiante
-        turkish: öğrenci
+        inglez: student
+        fransez: ''
+        portugez: ''
+        kasteyano: estudiante
+        turko: öğrenci
 
   - ladino: estudiantes
 
@@ -22,10 +22,10 @@ versions:
 
 
     translations:
-        english: students
-        french: ''
-        portuguese: ''
-        spanish: estudiantes
-        turkish: öğrenci
+        inglez: students
+        fransez: ''
+        portugez: ''
+        kasteyano: estudiantes
+        turko: öğrenci
 
 

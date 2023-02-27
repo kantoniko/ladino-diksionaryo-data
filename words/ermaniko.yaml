@@ -14,11 +14,11 @@ versions:
     diminutivo-de: ermano
 
     translations:
-        english: (little) brother
-        french: ''
-        portuguese: ''
-        spanish: hermanito
-        turkish: ''
+        inglez: (little) brother
+        fransez: ''
+        portugez: ''
+        kasteyano: hermanito
+        turko: ''
 
   - ladino: ermanika
 
@@ -28,11 +28,11 @@ versions:
     diminutivo-de: ermana
 
     translations:
-        english: (little) sister
-        french: ''
-        portuguese: ''
-        spanish: hermanita
-        turkish: ''
+        inglez: (little) sister
+        fransez: ''
+        portugez: ''
+        kasteyano: hermanita
+        turko: ''
 
   - ladino: ermanikos
 
@@ -42,11 +42,11 @@ versions:
     diminutivo-de: ermanos
 
     translations:
-        english: (little) brothers
-        french: ''
-        portuguese: ''
-        spanish: hermanitos
-        turkish: ''
+        inglez: (little) brothers
+        fransez: ''
+        portugez: ''
+        kasteyano: hermanitos
+        turko: ''
 
   - ladino: ermanikas
 
@@ -56,11 +56,11 @@ versions:
     diminutivo-de: ermanas
 
     translations:
-        english: (little) sisters
-        french: ''
-        portuguese: ''
-        spanish: hermanitas
-        turkish: ''
+        inglez: (little) sisters
+        fransez: ''
+        portugez: ''
+        kasteyano: hermanitas
+        turko: ''
 
 
 

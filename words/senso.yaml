@@ -5,11 +5,11 @@ versions:
   - ladino: senso
 
     translations:
-        english: sense
-        french: ''
-        portuguese: ''
-        spanish: sentido
-        turkish:
+        inglez: sense
+        fransez: ''
+        portugez: ''
+        kasteyano: sentido
+        turko:
         - anlam
         - duygu
 

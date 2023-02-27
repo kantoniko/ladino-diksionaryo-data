@@ -6,13 +6,13 @@ versions:
     accented: gizár
 
     translations:
-        english: cook
-        french: cuisiner
-        portuguese: cozinhar
-        spanish:
+        inglez: cook
+        fransez: cuisiner
+        portugez: cozinhar
+        kasteyano:
           - guisar
           - cocinar
-        turkish: yemek pişirmek
+        turko: yemek pişirmek
 
 conjugations: {}
 

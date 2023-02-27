@@ -6,15 +6,15 @@ versions:
 
 
     translations:
-      english:
+      inglez:
         - knock
         - hit
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - לדפוק
         - להאבק
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

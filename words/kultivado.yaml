@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cultivated
-        french: ''
-        portuguese: ''
-        spanish: cultivado
-        turkish: kültürlü
+        inglez: cultivated
+        fransez: ''
+        portugez: ''
+        kasteyano: cultivado
+        turko: kültürlü
 
   - ladino: kultivada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: cultivated
-        french: ''
-        portuguese: ''
-        spanish: cultivada
-        turkish: kültürlü
+        inglez: cultivated
+        fransez: ''
+        portugez: ''
+        kasteyano: cultivada
+        turko: kültürlü
 
   - ladino: kultivados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: cultivated
-        french: ''
-        portuguese: ''
-        spanish: cultivados
-        turkish: kültürlü
+        inglez: cultivated
+        fransez: ''
+        portugez: ''
+        kasteyano: cultivados
+        turko: kültürlü
 
   - ladino: kultivadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: cultivated
-        french: ''
-        portuguese: ''
-        spanish: cultivadas
-        turkish: kültürlü
+        inglez: cultivated
+        fransez: ''
+        portugez: ''
+        kasteyano: cultivadas
+        turko: kültürlü
 
 
 

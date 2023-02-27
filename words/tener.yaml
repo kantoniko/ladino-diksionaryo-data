@@ -5,13 +5,13 @@ versions:
   - ladino: tener
 
     translations:
-        english:
+        inglez:
         - have
         - hold
-        french: ''
-        portuguese: ''
-        spanish: tener
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: tener
+        turko:
         - sahip olmak
         - tutmak
 
@@ -21,278 +21,278 @@ conjugations:
     yo:
       ladino: tengo
       translations:
-        english: have
-        spanish: teno
+        inglez: have
+        kasteyano: teno
 
     tu:
       ladino: tienes
       alternative-spelling:
         - ladino: tyenes
       translations:
-        english: have
-        spanish: tienes
+        inglez: have
+        kasteyano: tienes
 
     el:
       ladino: tiene
       alternative-spelling:
         - ladino: tyene
       translations:
-        english: has
-        spanish: tiene
+        inglez: has
+        kasteyano: tiene
 
     mozotros:
       ladino: tenemos
       translations:
-        english: have
-        spanish: tenemos
+        inglez: have
+        kasteyano: tenemos
 
     vozotros:
       ladino: tenesh
       translations:
-        english: have
-        spanish: teneis
+        inglez: have
+        kasteyano: teneis
 
     eyos:
       ladino: tienen
       alternative-spelling:
         - ladino: tyenen
       translations:
-        english: have
-        spanish: tienen
+        inglez: have
+        kasteyano: tienen
 
   pasado:
     yo:
       ladino: tuve
       translations:
-        english: had
-        spanish: tuve
+        inglez: had
+        kasteyano: tuve
 
     tu:
       ladino: tuvites
       translations:
-        english: had
-        spanish: tuviste
+        inglez: had
+        kasteyano: tuviste
 
     el:
       ladino: tuvo
       translations:
-        english: had
-        spanish: tuvo
+        inglez: had
+        kasteyano: tuvo
 
     mozotros:
       ladino: tuvimos
       translations:
-        english: had
-        spanish: tuvimos
+        inglez: had
+        kasteyano: tuvimos
 
     vozotros:
       ladino: tuvitesh
       translations:
-        english: had
-        spanish: tuvisteis
+        inglez: had
+        kasteyano: tuvisteis
 
     eyos:
       ladino: tuvieron
       translations:
-        english: had
-        spanish: tuvieron
+        inglez: had
+        kasteyano: tuvieron
 
   imperfekto:
     yo:
       ladino: tenia
       translations:
-        english: had
-        spanish: tenia
+        inglez: had
+        kasteyano: tenia
 
     tu:
       ladino: tenias
       translations:
-        english: had
-        spanish: tenias
+        inglez: had
+        kasteyano: tenias
 
     el:
       ladino: tenia
       translations:
-        english: had
-        spanish: tenia
+        inglez: had
+        kasteyano: tenia
 
     mozotros:
       ladino: teniamos
       translations:
-        english: had
-        spanish: teniamos
+        inglez: had
+        kasteyano: teniamos
 
     vozotros:
       ladino: teniash
       translations:
-        english: had
-        spanish: teniais
+        inglez: had
+        kasteyano: teniais
 
     eyos:
       ladino: tenian
       translations:
-        english: had
-        spanish: tenian
+        inglez: had
+        kasteyano: tenian
 
   futuro:
     yo:
       ladino: tendré
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     tu:
       ladino: tendrás
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     el:
       ladino: tendrá
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     mozotros:
       ladino: tendremos
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     vozotros:
       ladino: tendrésh
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     eyos:
       ladino: tendrán
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
   subjunktivo:
     yo:
       ladino: tenga
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     tu:
       ladino: tengas
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     el:
       ladino: tenga
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     mozotros:
       ladino: tengamos
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     vozotros:
       ladino: tengásh
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     eyos:
       ladino: tengan
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
   subjunktivo imperfekto:
     yo:
       ladino: tuviera
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     tu:
       ladino: tuvieras
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     el:
       ladino: tuviera
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     mozotros:
       ladino: tuviéramos
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     vozotros:
       ladino: tivierash
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     eyos:
       ladino: tuvieran
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
   kondisional:
     yo:
       ladino: tendría
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     tu:
       ladino: tendrías
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     el:
       ladino: tendría
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     mozotros:
       ladino: tendríamos
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     vozotros:
       ladino: tendríash
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     eyos:
       ladino: tendrían
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
   imperativo:
     tu:
       ladino: ten
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
     vozotros:
       ladino: tened
       translations:
-        english: ''
-        spanish: ''
+        inglez: ''
+        kasteyano: ''
 
 

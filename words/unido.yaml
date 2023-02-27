@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: united
-        french: uni
-        portuguese: ''
-        spanish: unido
-        turkish: birleşik
+        inglez: united
+        fransez: uni
+        portugez: ''
+        kasteyano: unido
+        turko: birleşik
 
   - ladino: unida
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: united
-        french: unie
-        portuguese: ''
-        spanish: unida
-        turkish: birleşik
+        inglez: united
+        fransez: unie
+        portugez: ''
+        kasteyano: unida
+        turko: birleşik
 
   - ladino: unidos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: united
-        french: unis
-        portuguese: ''
-        spanish: unidos
-        turkish: birleşik
+        inglez: united
+        fransez: unis
+        portugez: ''
+        kasteyano: unidos
+        turko: birleşik
 
   - ladino: unidas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: united
-        french: unies
-        portuguese: ''
-        spanish: unidas
-        turkish: birleşik
+        inglez: united
+        fransez: unies
+        portugez: ''
+        kasteyano: unidas
+        turko: birleşik
 
 
 

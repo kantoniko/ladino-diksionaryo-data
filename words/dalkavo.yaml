@@ -9,13 +9,13 @@ versions:
       - ladino: alkavo
 
     translations:
-        english:
+        inglez:
         - last
         - the last one
-        french: ''
-        portuguese: ''
-        spanish: de al cabo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: de al cabo
+        turko:
         - sonuncu
         - sondaki
         - son

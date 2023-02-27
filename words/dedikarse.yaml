@@ -5,11 +5,11 @@ versions:
   - ladino: dedikarse
 
     translations:
-        english: dedicate oneself
-        french: ''
-        portuguese: ''
-        spanish: dedicarse
-        turkish:
+        inglez: dedicate oneself
+        fransez: ''
+        portugez: ''
+        kasteyano: dedicarse
+        turko:
           - kendini adamak
           - çalışmak
 

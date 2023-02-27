@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: solution
-        french: ''
-        portuguese: ''
-        spanish: solución
-        turkish: çözüm
+        inglez: solution
+        fransez: ''
+        portugez: ''
+        kasteyano: solución
+        turko: çözüm
 
   - ladino: solusiones
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: solutions
-        french: ''
-        portuguese: ''
-        spanish: soluciónes
-        turkish: çözüm
+        inglez: solutions
+        fransez: ''
+        portugez: ''
+        kasteyano: soluciónes
+        turko: çözüm
 
 

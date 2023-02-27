@@ -5,15 +5,15 @@ versions:
   - ladino: kontinuar
 
     translations:
-        english:
+        inglez:
         - continue
         - proceed
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - continuar
         - proseguir
-        turkish: devam etmek
+        turko: devam etmek
 
 conjugations: {}
 

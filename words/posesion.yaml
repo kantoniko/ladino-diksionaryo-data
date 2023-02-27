@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: possession
-        french: ''
-        portuguese: ''
-        spanish: posesión
-        turkish: mülkiyet
+        inglez: possession
+        fransez: ''
+        portugez: ''
+        kasteyano: posesión
+        turko: mülkiyet
 
   - ladino: posesiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: possessions
-        french: ''
-        portuguese: ''
-        spanish: posesiónes
-        turkish: mülkiyet
+        inglez: possessions
+        fransez: ''
+        portugez: ''
+        kasteyano: posesiónes
+        turko: mülkiyet
 
 
 

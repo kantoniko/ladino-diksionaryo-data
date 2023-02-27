@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - final
         - end
-        french: ''
-        portuguese: ''
-        spanish: final
-        turkish: son
+        fransez: ''
+        portugez: ''
+        kasteyano: final
+        turko: son
 
   - ladino: finales
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - final
         - end
-        french: ''
-        portuguese: ''
-        spanish: finales
-        turkish: son
+        fransez: ''
+        portugez: ''
+        kasteyano: finales
+        turko: son
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: obligation
-        french: ''
-        portuguese: ''
-        spanish: obligación
-        turkish: mecburiyet
+        inglez: obligation
+        fransez: ''
+        portugez: ''
+        kasteyano: obligación
+        turko: mecburiyet
 
   - ladino: ovligasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: obligations
-        french: ''
-        portuguese: ''
-        spanish: obligaciónes
-        turkish: mecburiyet
+        inglez: obligations
+        fransez: ''
+        portugez: ''
+        kasteyano: obligaciónes
+        turko: mecburiyet
 
 
 

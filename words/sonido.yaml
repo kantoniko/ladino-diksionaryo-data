@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - sound
         - noise
-        french: son
-        portuguese: som
-        spanish: sonido
-        turkish: ses
+        fransez: son
+        portugez: som
+        kasteyano: sonido
+        turko: ses
 
   - ladino: sonidos
     accented: sonídos
@@ -28,13 +28,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - sounds
         - noises
-        french: ''
-        portuguese: ''
-        spanish: sonidos
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: sonidos
+        turko: ''
 
 
 

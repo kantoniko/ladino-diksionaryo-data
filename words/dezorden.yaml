@@ -9,10 +9,10 @@ versions:
       - ladino: konfuzion
 
     translations:
-        english:
+        inglez:
         - disorder
         - confusion
-        french: ''
-        portuguese: ''
-        spanish: desconcierto
-        turkish: karışılık şaşkınlık
+        fransez: ''
+        portugez: ''
+        kasteyano: desconcierto
+        turko: karışılık şaşkınlık

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: loved
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: amado
-      turkish: ''
+      inglez: loved
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: amado
+      turko: ''
 
   - ladino: amada
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: loved
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: amada
-      turkish: ''
+      inglez: loved
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: amada
+      turko: ''
 
   - ladino: amados
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: loved
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: amados
-      turkish: ''
+      inglez: loved
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: amados
+      turko: ''
 
   - ladino: amadas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: loved
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: amadas
-      turkish: ''
+      inglez: loved
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: amadas
+      turko: ''
 
 

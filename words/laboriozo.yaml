@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - hard-working
         - industrious
-        french: ''
-        portuguese: ''
-        spanish: trabajador
-        turkish: çalışkan
+        fransez: ''
+        portugez: ''
+        kasteyano: trabajador
+        turko: çalışkan
 
   - ladino: laborioza
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - hard-working
         - industrious
-        french: ''
-        portuguese: ''
-        spanish: trabajadora
-        turkish: çalışkan
+        fransez: ''
+        portugez: ''
+        kasteyano: trabajadora
+        turko: çalışkan
 
   - ladino: laboriozos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - hard-working
         - industrious
-        french: ''
-        portuguese: ''
-        spanish: trabajadores
-        turkish: çalışkan
+        fransez: ''
+        portugez: ''
+        kasteyano: trabajadores
+        turko: çalışkan
 
   - ladino: laboriozas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - hard-working
         - industrious
-        french: ''
-        portuguese: ''
-        spanish: trabajadoras
-        turkish: çalışkan
+        fransez: ''
+        portugez: ''
+        kasteyano: trabajadoras
+        turko: çalışkan
 
 
 

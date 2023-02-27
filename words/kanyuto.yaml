@@ -8,20 +8,20 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - pipe
           - tube
           - nostril
-        french:
+        fransez:
           - tuyau
           - tube
           - narine
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - caño
           - tubo
           - fosa nasal
-        turkish:
+        turko:
           - boru
           - tüp
           - burun deliği

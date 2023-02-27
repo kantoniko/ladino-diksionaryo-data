@@ -7,11 +7,11 @@ versions:
     number: singular
 
     translations:
-        english: quiet
-        french: ''
-        portuguese: ''
-        spanish: majo
-        turkish: durgun
+        inglez: quiet
+        fransez: ''
+        portugez: ''
+        kasteyano: majo
+        turko: durgun
 
   - ladino: maha
 
@@ -19,11 +19,11 @@ versions:
     number: singular
 
     translations:
-        english: quiet
-        french: ''
-        portuguese: ''
-        spanish: maja
-        turkish: durgun
+        inglez: quiet
+        fransez: ''
+        portugez: ''
+        kasteyano: maja
+        turko: durgun
 
   - ladino: mahos
 
@@ -31,11 +31,11 @@ versions:
     number: plural
 
     translations:
-        english: quiet
-        french: ''
-        portuguese: ''
-        spanish: majos
-        turkish: durgun
+        inglez: quiet
+        fransez: ''
+        portugez: ''
+        kasteyano: majos
+        turko: durgun
 
   - ladino: mahas
 
@@ -43,11 +43,11 @@ versions:
     number: plural
 
     translations:
-        english: quiet
-        french: ''
-        portuguese: ''
-        spanish: majas
-        turkish: durgun
+        inglez: quiet
+        fransez: ''
+        portugez: ''
+        kasteyano: majas
+        turko: durgun
 
 
 

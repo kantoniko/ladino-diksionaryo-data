@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - ballpoint pen
           - fountain pen
           - pen
-        french: ''
-        portuguese: ''
-        spanish: bolígrafo
-        turkish: tükenmez kalem
+        fransez: ''
+        portugez: ''
+        kasteyano: bolígrafo
+        turko: tükenmez kalem
 
   - ladino: stilos
 
@@ -23,14 +23,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - ballpoint pens
           - fountain pens
           - pens
-        french: ''
-        portuguese: ''
-        spanish: bolígrafos
-        turkish: tükenmez kalem
+        fransez: ''
+        portugez: ''
+        kasteyano: bolígrafos
+        turko: tükenmez kalem
 
 
 

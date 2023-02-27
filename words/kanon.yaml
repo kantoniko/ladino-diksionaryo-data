@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cannon
-        french: ''
-        portuguese: ''
-        spanish: cañón
-        turkish: top
+        inglez: cannon
+        fransez: ''
+        portugez: ''
+        kasteyano: cañón
+        turko: top
 
   - ladino: kanones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: cannons
-        french: ''
-        portuguese: ''
-        spanish: cañónes
-        turkish: top
+        inglez: cannons
+        fransez: ''
+        portugez: ''
+        kasteyano: cañónes
+        turko: top
 
 
 

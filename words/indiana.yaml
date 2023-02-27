@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: turkey
-        french: ''
-        portuguese: ''
-        spanish: pavo
-        turkish: hindi
+        inglez: turkey
+        fransez: ''
+        portugez: ''
+        kasteyano: pavo
+        turko: hindi
 
   - ladino: indianas
     accented: indiánas
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: turkeys
-        french: ''
-        portuguese: ''
-        spanish: pavos
-        turkish: hindi
+        inglez: turkeys
+        fransez: ''
+        portugez: ''
+        kasteyano: pavos
+        turko: hindi
 

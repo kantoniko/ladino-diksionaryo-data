@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: course
-        french: ''
-        portuguese: ''
-        spanish: curso
-        turkish: kurs
+        inglez: course
+        fransez: ''
+        portugez: ''
+        kasteyano: curso
+        turko: kurs
 
   - ladino: korsos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: courses
-        french: ''
-        portuguese: ''
-        spanish: cursos
-        turkish: kurs
+        inglez: courses
+        fransez: ''
+        portugez: ''
+        kasteyano: cursos
+        turko: kurs
 
 
 

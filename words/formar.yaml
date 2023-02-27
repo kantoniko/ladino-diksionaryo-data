@@ -5,13 +5,13 @@ versions:
   - ladino: formar
 
     translations:
-        english:
+        inglez:
         - form
         - shape
-        french: ''
-        portuguese: ''
-        spanish: formar
-        turkish: şekil vermek
+        fransez: ''
+        portugez: ''
+        kasteyano: formar
+        turko: şekil vermek
 
 conjugations: {}
 

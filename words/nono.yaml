@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: grandfather
-        french: ''
-        portuguese: ''
-        spanish: abuelo
-        turkish: dede
+        inglez: grandfather
+        fransez: ''
+        portugez: ''
+        kasteyano: abuelo
+        turko: dede
 
   - ladino: nona
 
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: grandmother
-        french: ''
-        portuguese: ''
-        spanish: abuela
-        turkish: büyükanne
+        inglez: grandmother
+        fransez: ''
+        portugez: ''
+        kasteyano: abuela
+        turko: büyükanne
 
   - ladino: nonos
 
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: grandfathers
-        french: ''
-        portuguese: ''
-        spanish: abuelos
-        turkish: dede
+        inglez: grandfathers
+        fransez: ''
+        portugez: ''
+        kasteyano: abuelos
+        turko: dede
 
   - ladino: nonas
 
@@ -47,9 +47,9 @@ versions:
     number: plural
 
     translations:
-        english: grandmothers
-        french: ''
-        portuguese: ''
-        spanish: abuelas
-        turkish: büyükanneler
+        inglez: grandmothers
+        fransez: ''
+        portugez: ''
+        kasteyano: abuelas
+        turko: büyükanneler
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sympathetic
-        french: ''
-        portuguese: ''
-        spanish: simpático
-        turkish: sempatik
+        inglez: sympathetic
+        fransez: ''
+        portugez: ''
+        kasteyano: simpático
+        turko: sempatik
 
   - ladino: simpatika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: sympathetic
-        french: ''
-        portuguese: ''
-        spanish: simpática
-        turkish: sempatik
+        inglez: sympathetic
+        fransez: ''
+        portugez: ''
+        kasteyano: simpática
+        turko: sempatik
 
   - ladino: simpatikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: sympathetic
-        french: ''
-        portuguese: ''
-        spanish: simpáticos
-        turkish: sempatik
+        inglez: sympathetic
+        fransez: ''
+        portugez: ''
+        kasteyano: simpáticos
+        turko: sempatik
 
   - ladino: simpatikas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: sympathetic
-        french: ''
-        portuguese: ''
-        spanish: simpáticas
-        turkish: sempatik
+        inglez: sympathetic
+        fransez: ''
+        portugez: ''
+        kasteyano: simpáticas
+        turko: sempatik
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: beggar
-        french: ''
-        portuguese: ''
-        spanish: mendigo
-        turkish: dilenci
+        inglez: beggar
+        fransez: ''
+        portugez: ''
+        kasteyano: mendigo
+        turko: dilenci
 
   - ladino: sedakera
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: beggar
-        french: ''
-        portuguese: ''
-        spanish: mendiga
-        turkish: dilenci
+        inglez: beggar
+        fransez: ''
+        portugez: ''
+        kasteyano: mendiga
+        turko: dilenci
 
   - ladino: sedakeros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: beggars
-        french: ''
-        portuguese: ''
-        spanish: mendigos
-        turkish: dilenciler
+        inglez: beggars
+        fransez: ''
+        portugez: ''
+        kasteyano: mendigos
+        turko: dilenciler
 
   - ladino: sedakeras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: beggars
-        french: ''
-        portuguese: ''
-        spanish: mendigas
-        turkish: dilenciler
+        inglez: beggars
+        fransez: ''
+        portugez: ''
+        kasteyano: mendigas
+        turko: dilenciler
 
 
 

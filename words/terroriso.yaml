@@ -11,14 +11,14 @@ versions:
     number: singular
 
     translations:
-      english: terrorist
-      french: ''
-      hebrew:
+      inglez: terrorist
+      fransez: ''
+      ebreo:
         - טרוריסט
         - מחבל
-      portuguese: ''
-      spanish: terrorista
-      turkish: ''
+      portugez: ''
+      kasteyano: terrorista
+      turko: ''
 
   - ladino: terroristos
 
@@ -29,14 +29,14 @@ versions:
     number: plural
 
     translations:
-      english: terrorists
-      french: ''
-      hebrew:
+      inglez: terrorists
+      fransez: ''
+      ebreo:
         - טרוריסטים
         - מחבלים
-      portuguese: ''
-      spanish: terrorista
-      turkish: ''
+      portugez: ''
+      kasteyano: terrorista
+      turko: ''
 
 
 

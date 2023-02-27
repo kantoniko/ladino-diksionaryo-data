@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: hat
-        french: ''
-        portuguese: ''
-        spanish: sombrero
-        turkish: şapka
+        inglez: hat
+        fransez: ''
+        portugez: ''
+        kasteyano: sombrero
+        turko: şapka
 
   - ladino: chapeos
     accented: chapéos
@@ -30,10 +30,10 @@ versions:
     number: plural
 
     translations:
-        english: hats
-        french: ''
-        portuguese: ''
-        spanish: sombreros
-        turkish: şapka
+        inglez: hats
+        fransez: ''
+        portugez: ''
+        kasteyano: sombreros
+        turko: şapka
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: victory
-        french: victoire
-        portuguese: ''
-        spanish: victoria
-        turkish: zafer
+        inglez: victory
+        fransez: victoire
+        portugez: ''
+        kasteyano: victoria
+        turko: zafer
 
   - ladino: viktorias
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: victories
-        french: victoires
-        portuguese: ''
-        spanish: victorias
-        turkish: zafer
+        inglez: victories
+        fransez: victoires
+        portugez: ''
+        kasteyano: victorias
+        turko: zafer
 
 
 

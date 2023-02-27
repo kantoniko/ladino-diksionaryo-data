@@ -10,11 +10,11 @@ versions:
         accented: dizír
 
     translations:
-        english: say
-        french: dire
-        portuguese: dizer
-        spanish: decir
-        turkish: söylemek
+        inglez: say
+        fransez: dire
+        portugez: dizer
+        kasteyano: decir
+        turko: söylemek
 
 conjugations: {}
 

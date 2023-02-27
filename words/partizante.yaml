@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: supporter
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: supporter
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - partidario
           - partidaria
-        turkish: taraftar
+        turko: taraftar
 
   - ladino: partizantes
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english: supporters
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: supporters
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - partidarios
           - partidarias
-        turkish: taraftar
+        turko: taraftar
 
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - novel
         - romance
-        french: ''
-        portuguese: ''
-        spanish: novela
-        turkish: roman
+        fransez: ''
+        portugez: ''
+        kasteyano: novela
+        turko: roman
 
   - ladino: romansos
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - novels
         - romances
-        french: ''
-        portuguese: ''
-        spanish: novelas
-        turkish: roman
+        fransez: ''
+        portugez: ''
+        kasteyano: novelas
+        turko: roman
 
 
 

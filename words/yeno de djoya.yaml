@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: bejewelled
-        french: plein de bijoux
-        portuguese: ''
-        spanish:
+        inglez: bejewelled
+        fransez: plein de bijoux
+        portugez: ''
+        kasteyano:
           - enjoyado
-        turkish: mücevherle örtülü
+        turko: mücevherle örtülü
 
   - ladino: yena de djoya
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-        english: bejewelled
-        french: pleine de bijoux
-        portuguese: ''
-        spanish:
+        inglez: bejewelled
+        fransez: pleine de bijoux
+        portugez: ''
+        kasteyano:
           - enjoyada
-        turkish: mücevherle örtülü
+        turko: mücevherle örtülü
 
 
 

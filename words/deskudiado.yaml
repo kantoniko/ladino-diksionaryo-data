@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: careless
-        french: ''
-        portuguese: ''
-        spanish: descuidado
-        turkish: dikkatsiz
+        inglez: careless
+        fransez: ''
+        portugez: ''
+        kasteyano: descuidado
+        turko: dikkatsiz
 
   - ladino: deskudiada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: careless
-        french: ''
-        portuguese: ''
-        spanish: descuidada
-        turkish: dikkatsiz
+        inglez: careless
+        fransez: ''
+        portugez: ''
+        kasteyano: descuidada
+        turko: dikkatsiz
 
   - ladino: deskudiados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: careless
-        french: ''
-        portuguese: ''
-        spanish: descuidados
-        turkish: dikkatsiz
+        inglez: careless
+        fransez: ''
+        portugez: ''
+        kasteyano: descuidados
+        turko: dikkatsiz
 
   - ladino: deskudiadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: careless
-        french: ''
-        portuguese: ''
-        spanish: descuidadas
-        turkish: dikkatsiz
+        inglez: careless
+        fransez: ''
+        portugez: ''
+        kasteyano: descuidadas
+        turko: dikkatsiz
 
 
 

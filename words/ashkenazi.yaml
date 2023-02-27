@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: ashkenazi
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: ashkenazi
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: ashkenazis
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: ashkenazis
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: ashkenazis
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

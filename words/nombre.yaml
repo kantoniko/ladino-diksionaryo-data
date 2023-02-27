@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: name
-        french: ''
-        portuguese: ''
-        spanish: nombre
-        turkish: isim
+        inglez: name
+        fransez: ''
+        portugez: ''
+        kasteyano: nombre
+        turko: isim
 
   - ladino: nombres
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: names
-        french: ''
-        portuguese: ''
-        spanish: nombres
-        turkish: isim
+        inglez: names
+        fransez: ''
+        portugez: ''
+        kasteyano: nombres
+        turko: isim
 
 
 

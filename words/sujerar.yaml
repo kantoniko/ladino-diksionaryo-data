@@ -5,19 +5,19 @@ versions:
   - ladino: sujerar
 
     translations:
-        english: suggest
-        french: ''
-        portuguese: ''
-        spanish: sugerir
-        turkish: telkin etmek
+        inglez: suggest
+        fransez: ''
+        portugez: ''
+        kasteyano: sugerir
+        turko: telkin etmek
 
 conjugations:
   prezente:
     yo:
       ladino: sujero
       translations:
-        english: suggest
-        spanish: sugiero
+        inglez: suggest
+        kasteyano: sugiero
 
 
 

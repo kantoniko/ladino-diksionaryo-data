@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: orderly
-        french: ''
-        portuguese: ''
-        spanish: ordenado
-        turkish: düzenli
+        inglez: orderly
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenado
+        turko: düzenli
 
   - ladino: ordenada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: orderly
-        french: ''
-        portuguese: ''
-        spanish: ordenada
-        turkish: düzenli
+        inglez: orderly
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenada
+        turko: düzenli
 
   - ladino: ordenados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: orderly
-        french: ''
-        portuguese: ''
-        spanish: ordenados
-        turkish: düzenli
+        inglez: orderly
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenados
+        turko: düzenli
 
   - ladino: ordenadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: orderly
-        french: ''
-        portuguese: ''
-        spanish: ordenadas
-        turkish: düzenli
+        inglez: orderly
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenadas
+        turko: düzenli
 
 
 

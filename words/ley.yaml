@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - law
         - rule
-        french: loi
-        portuguese: lei
-        spanish: ley
-        turkish:
+        fransez: loi
+        portugez: lei
+        kasteyano: ley
+        turko:
         - kanun
         - kural
 

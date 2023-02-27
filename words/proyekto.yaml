@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: project
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: proyecto
-      turkish: ''
+      inglez: project
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: proyecto
+      turko: ''
 
   - ladino: proyektos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: projects
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: proyectos
-      turkish: ''
+      inglez: projects
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: proyectos
+      turko: ''
 
 
 

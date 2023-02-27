@@ -12,12 +12,12 @@ versions:
 
 
     translations:
-      english: presentaton
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: presentación
-      turkish: ''
+      inglez: presentaton
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: presentación
+      turko: ''
 
   - ladino: prezentasiones
 
@@ -29,12 +29,12 @@ versions:
 
 
     translations:
-      english: presentatons
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: presentaciones
-      turkish: ''
+      inglez: presentatons
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: presentaciones
+      turko: ''
 
 
 

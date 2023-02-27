@@ -5,11 +5,11 @@ versions:
   - ladino: atakar
 
     translations:
-        english: attack
-        french: attaquer
-        portuguese: ''
-        spanish: atacar
-        turkish: saldırmak
+        inglez: attack
+        fransez: attaquer
+        portugez: ''
+        kasteyano: atacar
+        turko: saldırmak
 
 conjugations: {}
 

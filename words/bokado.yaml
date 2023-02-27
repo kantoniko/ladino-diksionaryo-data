@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - slice
         - bite
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - פרוסה
         - ביס
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: bokados
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - slices
         - bites
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - פרוסות
         - ביסים
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

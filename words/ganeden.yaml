@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - paradise
         - Garden of Eden
-        french: ''
-        portuguese: ''
-        spanish: paraíso
-        turkish: cennet
+        fransez: ''
+        portugez: ''
+        kasteyano: paraíso
+        turko: cennet
 
 

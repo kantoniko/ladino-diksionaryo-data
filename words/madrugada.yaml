@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: dawn
-        french: ''
-        portuguese: ''
-        spanish: madrugada
-        turkish: şafak
+        inglez: dawn
+        fransez: ''
+        portugez: ''
+        kasteyano: madrugada
+        turko: şafak
 
   - ladino: madrugadas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: dawns
-        french: ''
-        portuguese: ''
-        spanish: madrugadas
-        turkish: şafak
+        inglez: dawns
+        fransez: ''
+        portugez: ''
+        kasteyano: madrugadas
+        turko: şafak
 
 
 

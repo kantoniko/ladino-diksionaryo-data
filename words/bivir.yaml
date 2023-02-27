@@ -5,11 +5,11 @@ versions:
   - ladino: bivir
 
     translations:
-        english: live
-        french: ''
-        portuguese: ''
-        spanish: vivir
-        turkish: yaşamak
+        inglez: live
+        fransez: ''
+        portugez: ''
+        kasteyano: vivir
+        turko: yaşamak
 
 conjugations: {}
 

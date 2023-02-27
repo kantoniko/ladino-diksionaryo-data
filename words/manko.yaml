@@ -9,11 +9,11 @@ versions:
     #number: singular plural
 
     translations:
-        english: less
-        french: ''
-        portuguese: ''
-        spanish: menos
-        turkish:
+        inglez: less
+        fransez: ''
+        portugez: ''
+        kasteyano: menos
+        turko:
         - eksik
         - daha az
         - noksan
@@ -25,11 +25,11 @@ versions:
     #number: singular plural
 
     translations:
-        english: less
-        french: ''
-        portuguese: ''
-        spanish: menos
-        turkish:
+        inglez: less
+        fransez: ''
+        portugez: ''
+        kasteyano: menos
+        turko:
         - eksik
         - daha az
         - noksan

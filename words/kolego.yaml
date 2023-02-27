@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: colleague
-        french: ''
-        portuguese: ''
-        spanish: colega
-        turkish: meslektaş
+        inglez: colleague
+        fransez: ''
+        portugez: ''
+        kasteyano: colega
+        turko: meslektaş
 
   - ladino: kolega
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: colleague
-        french: ''
-        portuguese: ''
-        spanish: colega
-        turkish: meslektaş
+        inglez: colleague
+        fransez: ''
+        portugez: ''
+        kasteyano: colega
+        turko: meslektaş
 
   - ladino: kolegos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: colleagues
-        french: ''
-        portuguese: ''
-        spanish: colegas
-        turkish: meslektaş
+        inglez: colleagues
+        fransez: ''
+        portugez: ''
+        kasteyano: colegas
+        turko: meslektaş
 
   - ladino: kolegas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: colleagues
-        french: ''
-        portuguese: ''
-        spanish: colegas
-        turkish: meslektaş
+        inglez: colleagues
+        fransez: ''
+        portugez: ''
+        kasteyano: colegas
+        turko: meslektaş
 
 
 

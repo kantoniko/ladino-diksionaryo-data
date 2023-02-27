@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: group
-        french: ''
-        portuguese: ''
-        spanish: grupo
-        turkish: grup
+        inglez: group
+        fransez: ''
+        portugez: ''
+        kasteyano: grupo
+        turko: grup
 
   - ladino: grupos
     accented: grúpos
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: groups
-        french: ''
-        portuguese: ''
-        spanish: grupos
-        turkish: grup
+        inglez: groups
+        fransez: ''
+        portugez: ''
+        kasteyano: grupos
+        turko: grup
 
 

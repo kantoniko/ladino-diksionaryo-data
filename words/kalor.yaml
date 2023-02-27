@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: heat
-        french: ''
-        portuguese: ''
-        spanish: calor
-        turkish:
+        inglez: heat
+        fransez: ''
+        portugez: ''
+        kasteyano: calor
+        turko:
         - hararet
         - sıcaklık
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: heat
-        french: ''
-        portuguese: ''
-        spanish: calores
-        turkish:
+        inglez: heat
+        fransez: ''
+        portugez: ''
+        kasteyano: calores
+        turko:
         - hararet
         - sıcaklık
 

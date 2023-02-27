@@ -5,12 +5,12 @@ versions:
   - ladino: trazera
 
     translations:
-        english:
+        inglez:
         - back
         - rear
-        french: ''
-        portuguese: ''
-        spanish: trasera
-        turkish: arka
+        fransez: ''
+        portugez: ''
+        kasteyano: trasera
+        turko: arka
 
 

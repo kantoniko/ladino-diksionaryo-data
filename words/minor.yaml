@@ -5,11 +5,11 @@ versions:
   - ladino: minor
 
     translations:
-        english: minor
-        french: ''
-        portuguese: ''
-        spanish: menor
-        turkish:
+        inglez: minor
+        fransez: ''
+        portugez: ''
+        kasteyano: menor
+        turko:
         - önemsiz
         - reşit olmayan
 

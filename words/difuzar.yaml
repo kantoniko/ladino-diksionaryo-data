@@ -5,11 +5,11 @@ versions:
   - ladino: difuzar
 
     translations:
-        english: diffuse
-        french: ''
-        portuguese: ''
-        spanish: difundir
-        turkish: yaymak
+        inglez: diffuse
+        fransez: ''
+        portugez: ''
+        kasteyano: difundir
+        turko: yaymak
 
 conjugations: {}
 

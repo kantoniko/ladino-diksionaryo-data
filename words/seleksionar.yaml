@@ -5,12 +5,12 @@ versions:
   - ladino: seleksionar
 
     translations:
-      english: select
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: seleccionar
-      turkish: ''
+      inglez: select
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: seleccionar
+      turko: ''
 
 conjugations: {}
 

@@ -9,19 +9,19 @@ versions:
     gender: both
 
     translations:
-        english:
+        inglez:
           - you
           - your
-        french: 
+        fransez: 
           - tu
           - a toi
-        portuguese: 
+        portugez: 
           - você
           - teu, tua 
-        spanish: 
+        kasteyano: 
           - tú
           - tu
-        turkish: 
+        turko: 
           - sen
           - senin
 
@@ -29,10 +29,10 @@ versions:
   - ladino: tus
 
     translations:
-        english: your
-        french: a toi
-        portuguese: teus, tuas
-        spanish: tus
-        turkish: senin
+        inglez: your
+        fransez: a toi
+        portugez: teus, tuas
+        kasteyano: tus
+        turko: senin
 
 

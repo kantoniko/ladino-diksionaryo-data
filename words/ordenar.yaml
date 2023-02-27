@@ -8,13 +8,13 @@ versions:
       - ladino: meter orden
 
     translations:
-        english:
+        inglez:
         - order
         - arrange
-        french: ''
-        portuguese: ''
-        spanish: ordenar
-        turkish: düzenlemek
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenar
+        turko: düzenlemek
 
 conjugations: {}
 

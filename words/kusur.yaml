@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - rest
         - remainder
         - leftover
-        french: ''
-        portuguese: ''
-        spanish: resto
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: resto
+        turko:
         - kalan
         - artık
         - kusur

@@ -5,11 +5,11 @@ versions:
   - ladino: djugar
 
     translations:
-        english: play
-        french: jouer
-        portuguese: jogar
-        spanish: jugar
-        turkish: oynamak
+        inglez: play
+        fransez: jouer
+        portugez: jogar
+        kasteyano: jugar
+        turko: oynamak
 
 conjugations: {}
 

@@ -13,9 +13,9 @@ versions:
     number: singular
 
     translations:
-        english: accent
-        french: ''
-        portuguese: ''
-        spanish: acento
-        turkish: aksan
+        inglez: accent
+        fransez: ''
+        portugez: ''
+        kasteyano: acento
+        turko: aksan
 

@@ -7,22 +7,22 @@ versions:
     number: singular
 
     translations:
-        english: travel
-        french: voyage
-        portuguese: ''
-        spanish: viaje
-        turkish: seyahat
+        inglez: travel
+        fransez: voyage
+        portugez: ''
+        kasteyano: viaje
+        turko: seyahat
 
   - ladino: viajes
     #gender: NA # masculine feminine
     number: plural
 
     translations:
-        english: travels
-        french: voyages
-        portuguese: ''
-        spanish: viajes
-        turkish: seyahat
+        inglez: travels
+        fransez: voyages
+        portugez: ''
+        kasteyano: viajes
+        turko: seyahat
 
 
 

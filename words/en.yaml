@@ -5,16 +5,16 @@ versions:
   - ladino: en
 
     translations:
-        english:
+        inglez:
         - in
         - into
         - upon
         - at
         - by
-        french: ''
-        portuguese: ''
-        spanish: en
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: en
+        turko:
         - içinde
         - da
         - de

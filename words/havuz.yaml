@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - artificial lake
         - pond
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - אגם מלאכות
         - בריכה
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

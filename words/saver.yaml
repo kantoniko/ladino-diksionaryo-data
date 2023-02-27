@@ -5,11 +5,11 @@ versions:
   - ladino: saver
 
     translations:
-        english: know
-        french: ''
-        portuguese: ''
-        spanish: saber
-        turkish: bilmek
+        inglez: know
+        fransez: ''
+        portugez: ''
+        kasteyano: saber
+        turko: bilmek
 
 conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: rizikar
 
     translations:
-        english: risk
-        french: ''
-        portuguese: ''
-        spanish: arriesgarse
-        turkish: risketmek
+        inglez: risk
+        fransez: ''
+        portugez: ''
+        kasteyano: arriesgarse
+        turko: risketmek
 
 conjugations: {}
 

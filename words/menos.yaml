@@ -10,13 +10,13 @@ versions:
         accented: mánko
 
     translations:
-        english:
+        inglez:
         - minus
         - less
-        french: ''
-        portuguese: ''
-        spanish: menos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: menos
+        turko:
         - az
         - eksik
         - eksi

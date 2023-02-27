@@ -12,12 +12,12 @@ versions:
         accented: kastilyáno
 
     translations:
-        english: Castilian
-        french: ''
-        hebrew: ספרדית
-        portuguese: ''
-        spanish: Castellano
-        turkish:
+        inglez: Castilian
+        fransez: ''
+        ebreo: ספרדית
+        portugez: ''
+        kasteyano: Castellano
+        turko:
           - Ispanyol
           - Kastilyalı
           - Ispanyolca

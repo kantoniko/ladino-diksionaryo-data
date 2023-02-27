@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: sect
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: secta
-      turkish: ''
+      inglez: sect
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: secta
+      turko: ''
 
   - ladino: sektos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: sects
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sectas
-      turkish: ''
+      inglez: sects
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sectas
+      turko: ''
 
 
 

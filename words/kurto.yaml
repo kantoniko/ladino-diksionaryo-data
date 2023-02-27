@@ -11,13 +11,13 @@ versions:
       - ladino: bashitiko
 
     translations:
-        english: short
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: short
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - corto
         - bajo
-        turkish:
+        turko:
         - kısa
         - kısa boylu
 
@@ -30,13 +30,13 @@ versions:
       - ladino: bashitika
 
     translations:
-        english: short
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: short
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - corta
         - baja
-        turkish:
+        turko:
         - kısa
         - kısa boylu
 
@@ -49,13 +49,13 @@ versions:
       - ladino: bashitikos
 
     translations:
-        english: short
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: short
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cortos
         - bajos
-        turkish:
+        turko:
         - kısa
         - kısa boylu
 
@@ -69,13 +69,13 @@ versions:
 
 
     translations:
-        english: short
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: short
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cortas
         - bajas
-        turkish:
+        turko:
         - kısa
         - kısa boylu
 

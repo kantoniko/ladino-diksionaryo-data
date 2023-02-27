@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: dialect
-        french: ''
-        portuguese: ''
-        spanish: dialecto
-        turkish:
+        inglez: dialect
+        fransez: ''
+        portugez: ''
+        kasteyano: dialecto
+        turko:
         - lehçe
         - diyalekt
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: dialects
-        french: ''
-        portuguese: ''
-        spanish: dialectos
-        turkish:
+        inglez: dialects
+        fransez: ''
+        portugez: ''
+        kasteyano: dialectos
+        turko:
         - lehçe
         - diyalekt
 

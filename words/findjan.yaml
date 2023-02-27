@@ -18,11 +18,11 @@ versions:
     number: singular
 
     translations:
-        english: cup
-        french: ''
-        portuguese: ''
-        spanish: taza
-        turkish: fincan
+        inglez: cup
+        fransez: ''
+        portugez: ''
+        kasteyano: taza
+        turko: fincan
 
   - ladino: findjanes
     accented: findjánes
@@ -37,11 +37,11 @@ versions:
     number: plural
 
     translations:
-        english: cups
-        french: ''
-        portuguese: ''
-        spanish: tazas
-        turkish: fincan
+        inglez: cups
+        fransez: ''
+        portugez: ''
+        kasteyano: tazas
+        turko: fincan
 
 
 

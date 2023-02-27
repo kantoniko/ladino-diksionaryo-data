@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - good
         - nice
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bien
         - bueno
-        turkish: iyi
+        turko: iyi
 
   - ladino: dobra
     accented: dóbra
@@ -24,15 +24,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - good
         - nice
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bien
         - buena
-        turkish: iyi
+        turko: iyi
 
   - ladino: dobros
     accented: dóbros
@@ -40,15 +40,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - good
         - nice
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bienes
         - buenos
-        turkish: iyi
+        turko: iyi
 
   - ladino: dobras
     accented: dóbras
@@ -56,14 +56,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - good
         - nice
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bienes
         - buenas
-        turkish: iyi
+        turko: iyi
 
 

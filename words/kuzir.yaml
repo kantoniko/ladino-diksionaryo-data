@@ -4,12 +4,12 @@ orijen: Jeneral
 versions:
   - ladino: kuzir
     translations:
-        english: saw
-        french: ''
-        hebrew: לתפור
-        portuguese: ''
-        spanish: coser
-        turkish: dıkış dikmek
+        inglez: saw
+        fransez: ''
+        ebreo: לתפור
+        portugez: ''
+        kasteyano: coser
+        turko: dıkış dikmek
 
 conjugations: {}
 

@@ -6,10 +6,10 @@ versions:
     accented: aharientár
 
     translations:
-        english: damage
-        french: ''
-        portuguese: ''
-        spanish: averiar
-        turkish: bozmak
+        inglez: damage
+        fransez: ''
+        portugez: ''
+        kasteyano: averiar
+        turko: bozmak
 
 conjugations: {}

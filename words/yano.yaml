@@ -8,18 +8,18 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - flat
         - level
-        french:
+        fransez:
         - plat
         - uni
         - plane
-        portuguese: plano
-        spanish:
+        portugez: plano
+        kasteyano:
         - llano
         - plano
-        turkish:
+        turko:
         - düz
         - yassı
 
@@ -29,18 +29,18 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - flat
         - level
-        french:
+        fransez:
         - plat
         - uni
         - plane
-        portuguese: plana
-        spanish:
+        portugez: plana
+        kasteyano:
         - llana
         - plana
-        turkish:
+        turko:
         - düz
         - yassı
 
@@ -50,18 +50,18 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - flat
         - level
-        french:
+        fransez:
         - plat
         - uni
         - plane
-        portuguese: planos
-        spanish:
+        portugez: planos
+        kasteyano:
         - llanos
         - planos
-        turkish:
+        turko:
         - düz
         - yassı
 
@@ -71,18 +71,18 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - flat
         - level
-        french:
+        fransez:
         - plat
         - uni
         - plane
-        portuguese: planas
-        spanish:
+        portugez: planas
+        kasteyano:
         - llanas
         - planas
-        turkish:
+        turko:
         - düz
         - yassı
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: conscience
-        french: ''
-        portuguese: ''
-        spanish: conciencia
-        turkish:
+        inglez: conscience
+        fransez: ''
+        portugez: ''
+        kasteyano: conciencia
+        turko:
         - bilinç
         - vicdan
 

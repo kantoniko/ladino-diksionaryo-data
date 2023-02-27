@@ -5,11 +5,11 @@ versions:
   - ladino: pratikar
 
     translations:
-        english: practice
-        french: ''
-        portuguese: ''
-        spanish: practicar
-        turkish: uygulamak
+        inglez: practice
+        fransez: ''
+        portugez: ''
+        kasteyano: practicar
+        turko: uygulamak
 
 conjugations: {}
 

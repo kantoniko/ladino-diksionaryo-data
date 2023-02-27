@@ -5,20 +5,20 @@ versions:
   - ladino: meldar
 
     translations:
-        english: read
-        french: lire
-        portuguese: ler
-        spanish: leer
-        turkish: okumak
+        inglez: read
+        fransez: lire
+        portugez: ler
+        kasteyano: leer
+        turko: okumak
 
   - ladino: meldarlas
 
     translations:
-        english: read them
-        french: ''
-        portuguese: ''
-        spanish: leerlas
-        turkish: ''
+        inglez: read them
+        fransez: ''
+        portugez: ''
+        kasteyano: leerlas
+        turko: ''
 
 
 conjugations:
@@ -26,37 +26,37 @@ conjugations:
     yo:
       ladino: meldo
       translations:
-        english: read
-        spanish: leo
+        inglez: read
+        kasteyano: leo
 
     tu:
       ladino: meldas
       translations:
-        english: read
-        spanish: lees
+        inglez: read
+        kasteyano: lees
 
     el:
       ladino: melda
       translations:
-        english: reads
-        spanish: lee
+        inglez: reads
+        kasteyano: lee
 
     mozotros:
       ladino: meldamos
       translations:
-        english: read
-        spanish: leemos
+        inglez: read
+        kasteyano: leemos
 
     vozotros:
       ladino: meldash
       translations:
-        english: read
-        spanish: leéis
+        inglez: read
+        kasteyano: leéis
 
     eyos:
       ladino: meldan
       translations:
-        english: read
-        spanish: leen
+        inglez: read
+        kasteyano: leen
 
 

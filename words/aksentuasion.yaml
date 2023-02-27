@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: accentuation
-        french: accentuation
-        portuguese: ''
-        spanish: acentuación
-        turkish: aksan koyma
+        inglez: accentuation
+        fransez: accentuation
+        portugez: ''
+        kasteyano: acentuación
+        turko: aksan koyma
 

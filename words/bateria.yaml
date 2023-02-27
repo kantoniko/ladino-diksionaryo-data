@@ -12,12 +12,12 @@ versions:
       - ladino: bateriya
 
     translations:
-      english: battery
-      french: ''
-      hebrew: סוללה
-      portuguese: ''
-      spanish: batería
-      turkish: ''
+      inglez: battery
+      fransez: ''
+      ebreo: סוללה
+      portugez: ''
+      kasteyano: batería
+      turko: ''
 
   - ladino: baterias
     accented: baterías
@@ -29,11 +29,11 @@ versions:
       - ladino: bateriyas
 
     translations:
-      english: batteries
-      french: ''
-      hebrew: סוללות
-      portuguese: ''
-      spanish: baterías
-      turkish: ''
+      inglez: batteries
+      fransez: ''
+      ebreo: סוללות
+      portugez: ''
+      kasteyano: baterías
+      turko: ''
 
 

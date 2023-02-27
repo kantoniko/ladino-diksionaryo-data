@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: purple
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: morado
-      turkish: ''
+      inglez: purple
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: morado
+      turko: ''
 
 
   - ladino: morada
@@ -24,12 +24,12 @@ versions:
     number: singular
 
     translations:
-      english: purple
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: morada
-      turkish: ''
+      inglez: purple
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: morada
+      turko: ''
 
   - ladino: morados
 
@@ -37,12 +37,12 @@ versions:
     number: plural
 
     translations:
-      english: purple
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: morados
-      turkish: ''
+      inglez: purple
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: morados
+      turko: ''
 
 
   - ladino: moradas
@@ -51,12 +51,12 @@ versions:
     number: plural
 
     translations:
-      english: purple
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: moradas
-      turkish: ''
+      inglez: purple
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: moradas
+      turko: ''
 
 
 

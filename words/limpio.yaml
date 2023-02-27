@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: clean
-        french: ''
-        portuguese: ''
-        spanish: limpio
-        turkish: temiz
+        inglez: clean
+        fransez: ''
+        portugez: ''
+        kasteyano: limpio
+        turko: temiz
 
   - ladino: limpia
     accented: límpia
@@ -30,11 +30,11 @@ versions:
     number: singular
 
     translations:
-        english: clean
-        french: ''
-        portuguese: ''
-        spanish: limpia
-        turkish: temiz
+        inglez: clean
+        fransez: ''
+        portugez: ''
+        kasteyano: limpia
+        turko: temiz
 
   - ladino: limpios
     accented: límpios
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-        english: clean
-        french: ''
-        portuguese: ''
-        spanish: limpios
-        turkish: temiz
+        inglez: clean
+        fransez: ''
+        portugez: ''
+        kasteyano: limpios
+        turko: temiz
 
   - ladino: limpias
     accented: límpias
@@ -64,9 +64,9 @@ versions:
     number: plural
 
     translations:
-        english: clean
-        french: ''
-        portuguese: ''
-        spanish: limpias
-        turkish: temiz
+        inglez: clean
+        fransez: ''
+        portugez: ''
+        kasteyano: limpias
+        turko: temiz
 

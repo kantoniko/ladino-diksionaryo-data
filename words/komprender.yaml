@@ -5,12 +5,12 @@ versions:
   - ladino: komprender
 
     translations:
-      english: understand
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: understand
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}
 

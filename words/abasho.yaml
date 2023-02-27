@@ -8,16 +8,16 @@ versions:
     accented: abásho
 
     translations:
-        english:
+        inglez:
           - down
           - downwards
           - below
-        french: ''
-        portuguese: 
+        fransez: ''
+        portugez: 
           - abaixo
           - embaixo
-        spanish: abajo
-        turkish:
+        kasteyano: abajo
+        turko:
           - aşağı
           - aşağıda
           - aşağıya

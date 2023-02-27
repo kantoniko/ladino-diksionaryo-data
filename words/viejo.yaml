@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: old
-        french: vieil
-        portuguese: ''
-        spanish: antiguo
-        turkish: eski
+        inglez: old
+        fransez: vieil
+        portugez: ''
+        kasteyano: antiguo
+        turko: eski
 
   - ladino: vieja
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: old
-        french: vieille
-        portuguese: ''
-        spanish: antigua
-        turkish: eski
+        inglez: old
+        fransez: vieille
+        portugez: ''
+        kasteyano: antigua
+        turko: eski
 
   - ladino: viejos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: old
-        french: vieux
-        portuguese: ''
-        spanish: antiguos
-        turkish: eski
+        inglez: old
+        fransez: vieux
+        portugez: ''
+        kasteyano: antiguos
+        turko: eski
 
   - ladino: viejas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: old
-        french:  vieilles
-        portuguese: ''
-        spanish: antiguas
-        turkish: eski
+        inglez: old
+        fransez:  vieilles
+        portugez: ''
+        kasteyano: antiguas
+        turko: eski
 
 
 

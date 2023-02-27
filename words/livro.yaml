@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: book
-        french: livre
-        portuguese: livro
-        spanish: libro
-        turkish: kitap
+        inglez: book
+        fransez: livre
+        portugez: livro
+        kasteyano: libro
+        turko: kitap
 
   - ladino: livros
     accented: lívros
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: books
-        french: livre
-        portuguese: livros
-        spanish: libros
-        turkish: kitap
+        inglez: books
+        fransez: livre
+        portugez: livros
+        kasteyano: libros
+        turko: kitap
 

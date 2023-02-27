@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: chief
-        french: ''
-        portuguese: ''
-        spanish: jefe
-        turkish: şef
+        inglez: chief
+        fransez: ''
+        portugez: ''
+        kasteyano: jefe
+        turko: şef
 
   - ladino: shefa
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: chief
-        french: ''
-        portuguese: ''
-        spanish: jefa
-        turkish: şef
+        inglez: chief
+        fransez: ''
+        portugez: ''
+        kasteyano: jefa
+        turko: şef
 
   - ladino: shefes
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: chiefs
-        french: ''
-        portuguese: ''
-        spanish: jefes
-        turkish: şef
+        inglez: chiefs
+        fransez: ''
+        portugez: ''
+        kasteyano: jefes
+        turko: şef
 
   - ladino: shefas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: chiefs
-        french: ''
-        portuguese: ''
-        spanish: jefas
-        turkish: şef
+        inglez: chiefs
+        fransez: ''
+        portugez: ''
+        kasteyano: jefas
+        turko: şef
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: stewed
-        french: bouilli
-        portuguese: estufado
-        spanish: estofado
-        turkish: buğulama
+        inglez: stewed
+        fransez: bouilli
+        portugez: estufado
+        kasteyano: estofado
+        turko: buğulama
 
   - ladino: abafada
     accented: abafáda
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: stewed
-        french: bouillie
-        portuguese: estufada
-        spanish: estofada
-        turkish: buğulama
+        inglez: stewed
+        fransez: bouillie
+        portugez: estufada
+        kasteyano: estofada
+        turko: buğulama
 
   - ladino: abafados
     accented: abafádos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: stewed
-        french: ''
-        portuguese: estufados
-        spanish: estofados
-        turkish: buğulama
+        inglez: stewed
+        fransez: ''
+        portugez: estufados
+        kasteyano: estofados
+        turko: buğulama
 
   - ladino: abafadas
     accented: abafádas
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: stewed
-        french: ''
-        portuguese: estufadas
-        spanish: estofadas
-        turkish: buğulama
+        inglez: stewed
+        fransez: ''
+        portugez: estufadas
+        kasteyano: estofadas
+        turko: buğulama
 
 

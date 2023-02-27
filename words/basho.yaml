@@ -5,15 +5,15 @@ versions:
   - ladino: basho
 
     translations:
-        english:
+        inglez:
         - low
         - mean
-        french: bas
-        portuguese: ''
-        spanish:
+        fransez: bas
+        portugez: ''
+        kasteyano:
         - bajo
         - sórdido
-        turkish:
+        turko:
         - alçak
         - adí
 

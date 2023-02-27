@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: academic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: académico
-      turkish: ''
+      inglez: academic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: académico
+      turko: ''
 
   - ladino: akademika
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: academic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: académica
-      turkish: ''
+      inglez: academic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: académica
+      turko: ''
 
   - ladino: akademikos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: academics
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: académicos
-      turkish: ''
+      inglez: academics
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: académicos
+      turko: ''
 
   - ladino: akademikas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: academics
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: académicas
-      turkish: ''
+      inglez: academics
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: académicas
+      turko: ''
 
 
 

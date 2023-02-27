@@ -5,13 +5,13 @@ versions:
   - ladino: pasear
 
     translations:
-        english:
+        inglez:
         - walk
         - stroll
-        french: ''
-        portuguese: ''
-        spanish: pasear
-        turkish: gezmek
+        fransez: ''
+        portugez: ''
+        kasteyano: pasear
+        turko: gezmek
 
 conjugations: {}
 

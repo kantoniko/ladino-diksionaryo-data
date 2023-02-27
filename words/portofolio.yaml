@@ -5,12 +5,12 @@ versions:
   - ladino: portofolio
 
     translations:
-        english:
+        inglez:
         - billfold
         - wallet
-        french: ''
-        portuguese: ''
-        spanish: billetero
-        turkish: cüzdan
+        fransez: ''
+        portugez: ''
+        kasteyano: billetero
+        turko: cüzdan
 
 

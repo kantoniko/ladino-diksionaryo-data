@@ -5,11 +5,11 @@ versions:
   - ladino: apozar
 
     translations:
-        english: lay down
-        french: ''
-        portuguese: ''
-        spanish: posar
-        turkish: koymak
+        inglez: lay down
+        fransez: ''
+        portugez: ''
+        kasteyano: posar
+        turko: koymak
 
 conjugations: {}
 

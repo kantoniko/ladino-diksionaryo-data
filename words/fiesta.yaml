@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: feast
-        french: ''
-        portuguese: ''
-        spanish: fiesta
-        turkish: bayram
+        inglez: feast
+        fransez: ''
+        portugez: ''
+        kasteyano: fiesta
+        turko: bayram
 
   - ladino: fiestas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: feasts
-        french: ''
-        portuguese: ''
-        spanish: fiestas
-        turkish: bayram
+        inglez: feasts
+        fransez: ''
+        portugez: ''
+        kasteyano: fiestas
+        turko: bayram
 
 
 

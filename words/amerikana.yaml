@@ -13,12 +13,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - Calico
         - cotton cloth
-        french: ''
-        portuguese: ''
-        spanish: tela de algodón
-        turkish: Amerikan bezi
+        fransez: ''
+        portugez: ''
+        kasteyano: tela de algodón
+        turko: Amerikan bezi
 
 

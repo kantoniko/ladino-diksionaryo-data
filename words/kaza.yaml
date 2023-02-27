@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - house
           - home
-        french: maison
-        hebrew: בית
-        portuguese: ''
-        spanish: casa
-        turkish: ev
+        fransez: maison
+        ebreo: בית
+        portugez: ''
+        kasteyano: casa
+        turko: ev
 
   - ladino: kazas
 
@@ -23,13 +23,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - houses
           - homes
-        french: ''
-        hebrew: בתים
-        portuguese: ''
-        spanish: casas
-        turkish: evler
+        fransez: ''
+        ebreo: בתים
+        portugez: ''
+        kasteyano: casas
+        turko: evler
 
 

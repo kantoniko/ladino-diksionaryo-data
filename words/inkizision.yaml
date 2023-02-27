@@ -11,13 +11,13 @@ versions:
       - ladino: Inkizisyon
 
     translations:
-        english:
+        inglez:
           - inquisition
           - inquiry
-        french: ''
-        portuguese: ''
-        spanish: inquisición
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: inquisición
+        turko:
           - tahkikat
           - araştırma
           - Enkizisyon

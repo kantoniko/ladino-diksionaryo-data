@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: ring
-        french: bague
-        portuguese: anel
-        spanish: anillo
-        turkish: yüzük
+        inglez: ring
+        fransez: bague
+        portugez: anel
+        kasteyano: anillo
+        turko: yüzük
 
   - ladino: aniyos
     accented: aníyos
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: rings
-        french: bague
-        portuguese: anéis
-        spanish: anillos
-        turkish: yüzük
+        inglez: rings
+        fransez: bague
+        portugez: anéis
+        kasteyano: anillos
+        turko: yüzük
 
 
 

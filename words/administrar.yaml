@@ -5,11 +5,11 @@ versions:
   - ladino: administrar
     accented: administrár
     translations:
-        english: administer
-        french: administrer
-        portuguese: administrar
-        spanish: administrar
-        turkish:
+        inglez: administer
+        fransez: administrer
+        portugez: administrar
+        kasteyano: administrar
+        turko:
           - yönetmek
           - idare etmek
 

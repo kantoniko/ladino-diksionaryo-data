@@ -6,13 +6,13 @@ versions:
     accented: destakár
 
     translations:
-        english:
+        inglez:
         - detach
         - detail
-        french: détacher (mil.)
-        portuguese: ''
-        spanish: destacar
-        turkish: ifraz etmek
+        fransez: détacher (mil.)
+        portugez: ''
+        kasteyano: destacar
+        turko: ifraz etmek
 
 conjugations: {}
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: partner
-        french: ''
-        portuguese: ''
-        spanish: socio
-        turkish: ortak
+        inglez: partner
+        fransez: ''
+        portugez: ''
+        kasteyano: socio
+        turko: ortak
 
   - ladino: haverim
     accented: haverím
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: partner
-        french: ''
-        portuguese: ''
-        spanish: socios
-        turkish: ortaklar
+        inglez: partner
+        fransez: ''
+        portugez: ''
+        kasteyano: socios
+        turko: ortaklar
 

@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fire
         - (for cooking or heating)
-        french:
+        fransez:
         - feu
         - (pour cuisiner ou chauffer)
-        portuguese: fogo
-        spanish: lumbre
-        turkish: ateş
+        portugez: fogo
+        kasteyano: lumbre
+        turko: ateş
 

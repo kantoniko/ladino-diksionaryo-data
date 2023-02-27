@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: quality
-        french: ''
-        portuguese: ''
-        spanish: cualidad
-        turkish:
+        inglez: quality
+        fransez: ''
+        portugez: ''
+        kasteyano: cualidad
+        turko:
         - kalite
         - meziyet
 

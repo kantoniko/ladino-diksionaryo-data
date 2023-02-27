@@ -5,10 +5,10 @@ versions:
   - ladino: roves
 
     translations:
-        english: reverse
-        french: ''
-        portuguese: ''
-        spanish: revés
-        turkish: tersine
+        inglez: reverse
+        fransez: ''
+        portugez: ''
+        kasteyano: revés
+        turko: tersine
 
 

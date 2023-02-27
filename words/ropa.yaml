@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: cloth
-      french: ''
-      hebrew: בגד
-      portuguese: ''
-      spanish: ropa
-      turkish: giyim
+      inglez: cloth
+      fransez: ''
+      ebreo: בגד
+      portugez: ''
+      kasteyano: ropa
+      turko: giyim
 
   - ladino: ropas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: clothes
-      french: ''
-      hebrew: בגדים
-      portuguese: ''
-      spanish: ropas
-      turkish: giyim
+      inglez: clothes
+      fransez: ''
+      ebreo: בגדים
+      portugez: ''
+      kasteyano: ropas
+      turko: giyim
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: astonished
-        french: ''
-        portuguese: ''
-        spanish: asombrado
-        turkish: şaşkın
+        inglez: astonished
+        fransez: ''
+        portugez: ''
+        kasteyano: asombrado
+        turko: şaşkın
 
   - ladino: enkantada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: astonished
-        french: ''
-        portuguese: ''
-        spanish: asombrada
-        turkish: şaşkın
+        inglez: astonished
+        fransez: ''
+        portugez: ''
+        kasteyano: asombrada
+        turko: şaşkın
 
   - ladino: enkantados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: astonished
-        french: ''
-        portuguese: ''
-        spanish: asombrados
-        turkish: şaşkın
+        inglez: astonished
+        fransez: ''
+        portugez: ''
+        kasteyano: asombrados
+        turko: şaşkın
 
   - ladino: enkantadas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: astonished
-        french: ''
-        portuguese: ''
-        spanish: asombradas
-        turkish: şaşkın
+        inglez: astonished
+        fransez: ''
+        portugez: ''
+        kasteyano: asombradas
+        turko: şaşkın
 
 

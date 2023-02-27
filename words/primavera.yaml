@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: spring
-        french: printemps
-        hebrew: אביב
-        portuguese: primavera
-        spanish: primavera
-        turkish: ilkbahar
+        inglez: spring
+        fransez: printemps
+        ebreo: אביב
+        portugez: primavera
+        kasteyano: primavera
+        turko: ilkbahar
 
 

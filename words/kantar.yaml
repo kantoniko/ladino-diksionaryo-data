@@ -5,49 +5,49 @@ versions:
   - ladino: kantar
 
     translations:
-        english: sing
-        french: ''
-        portuguese: ''
-        spanish: cantar
-        turkish: şarkı söylemek
+        inglez: sing
+        fransez: ''
+        portugez: ''
+        kasteyano: cantar
+        turko: şarkı söylemek
 
 conjugations:
   prezente:
     yo:
       ladino: kanto
       translations:
-        english: sing
-        spanish: canto
+        inglez: sing
+        kasteyano: canto
 
     tu:
       ladino: kantas
       translations:
-        english: sing
-        spanish: cantas
+        inglez: sing
+        kasteyano: cantas
 
     el:
       ladino: kanta
       translations:
-        english: sings
-        spanish: canta
+        inglez: sings
+        kasteyano: canta
 
     mozotros:
       ladino: kantamos
       translations:
-        english: sing
-        spanish: cantamo
+        inglez: sing
+        kasteyano: cantamo
 
     vozotros:
       ladino: kantash
       translations:
-        english: sing
-        spanish: cantáis
+        inglez: sing
+        kasteyano: cantáis
 
     eyos:
       ladino: kantan
       translations:
-        english: sing
-        spanish: cantan
+        inglez: sing
+        kasteyano: cantan
 
 
 

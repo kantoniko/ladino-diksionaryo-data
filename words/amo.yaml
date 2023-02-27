@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - master
         - proprietor
-        french:
+        fransez:
         - maître
         - propriétaire
         - patron
-        portuguese: dono
-        spanish: amo
-        turkish:
+        portugez: dono
+        kasteyano: amo
+        turko:
         - patron
         - sahip
 
@@ -27,16 +27,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - master
         - proprietor
-        french:
+        fransez:
         - maître
         - propriétaire
         - patron
-        portuguese: dono
-        spanish: ama
-        turkish:
+        portugez: dono
+        kasteyano: ama
+        turko:
         - patron
         - sahip
 
@@ -46,16 +46,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - masters
         - proprietors
-        french:
+        fransez:
         - maître
         - propriétaire
         - patron
-        portuguese: dono
-        spanish: amos
-        turkish:
+        portugez: dono
+        kasteyano: amos
+        turko:
         - patron
         - sahip
 
@@ -65,16 +65,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - masters
         - proprietors
-        french:
+        fransez:
         - maître
         - propriétaire
         - patron
-        portuguese: dono
-        spanish: amas
-        turkish:
+        portugez: dono
+        kasteyano: amas
+        turko:
         - patron
         - sahip
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: airport
-      french: ''
-      hebrew: ''
-      portuguese: aeroporto
-      spanish: aeropuerto
-      turkish: ''
+      inglez: airport
+      fransez: ''
+      ebreo: ''
+      portugez: aeroporto
+      kasteyano: aeropuerto
+      turko: ''
 
   - ladino: aeroportos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: airports
-      french: ''
-      hebrew: ''
-      portuguese: aeroportos
-      spanish: aeropuertos
-      turkish: ''
+      inglez: airports
+      fransez: ''
+      ebreo: ''
+      portugez: aeroportos
+      kasteyano: aeropuertos
+      turko: ''
 
 
 

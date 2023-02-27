@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english: balcony
-        french: balcon
-        portuguese: ''
-        spanish:
+        inglez: balcony
+        fransez: balcon
+        portugez: ''
+        kasteyano:
         - balcón
         - palco
-        turkish: balkon
+        turko: balkon
 
 

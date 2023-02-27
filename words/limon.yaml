@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english: lemon
-        french: ''
-        hebrew: לימון
-        portuguese: limão
-        spanish: limón
-        turkish: limon
+        inglez: lemon
+        fransez: ''
+        ebreo: לימון
+        portugez: limão
+        kasteyano: limón
+        turko: limon
 
   - ladino: limones
 
@@ -23,10 +23,10 @@ versions:
     number: plural
 
     translations:
-        english: lemons
-        french: ''
-        hebrew: לימונים
-        portuguese:  limãos
-        spanish: limónes
-        turkish: limon
+        inglez: lemons
+        fransez: ''
+        ebreo: לימונים
+        portugez:  limãos
+        kasteyano: limónes
+        turko: limon
 

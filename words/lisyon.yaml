@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lesson
         - warning
-        french: ''
-        portuguese: ''
-        spanish: lección
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: lección
+        turko:
         - ders
         - ibret
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - lessons
         - warnings
-        french: ''
-        portuguese: ''
-        spanish: lecciónes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: lecciónes
+        turko:
         - ders
         - ibret
 

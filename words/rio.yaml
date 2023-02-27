@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: river
-        french: ''
-        portuguese: ''
-        spanish: río
-        turkish: nehir
+        inglez: river
+        fransez: ''
+        portugez: ''
+        kasteyano: río
+        turko: nehir
 
   - ladino: rios
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: rivers
-        french: ''
-        portuguese: ''
-        spanish: ríos
-        turkish: nehirler
+        inglez: rivers
+        fransez: ''
+        portugez: ''
+        kasteyano: ríos
+        turko: nehirler
 
 
 

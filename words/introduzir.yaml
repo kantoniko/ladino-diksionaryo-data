@@ -8,11 +8,11 @@ versions:
       - ladino: introdusir
 
     translations:
-        english: introduce
-        french: ''
-        portuguese: ''
-        spanish: introducir
-        turkish: dahil etmek
+        inglez: introduce
+        fransez: ''
+        portugez: ''
+        kasteyano: introducir
+        turko: dahil etmek
 
 conjugations: {}
 

@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: certain
-        french: ''
-        portuguese: ''
-        spanish: cierto
-        turkish: muhakkak
+        inglez: certain
+        fransez: ''
+        portugez: ''
+        kasteyano: cierto
+        turko: muhakkak
 
   - ladino: sierta
     accented: siérta
@@ -30,11 +30,11 @@ versions:
     number: singular
 
     translations:
-        english: certain
-        french: ''
-        portuguese: ''
-        spanish: cierta
-        turkish: muhakkak
+        inglez: certain
+        fransez: ''
+        portugez: ''
+        kasteyano: cierta
+        turko: muhakkak
 
   - ladino: siertos
     accented: siértos
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-        english: certain
-        french: ''
-        portuguese: ''
-        spanish: ciertos
-        turkish: muhakkak
+        inglez: certain
+        fransez: ''
+        portugez: ''
+        kasteyano: ciertos
+        turko: muhakkak
 
   - ladino: siertas
     accented: siértas
@@ -64,11 +64,11 @@ versions:
     number: plural
 
     translations:
-        english: certain
-        french: ''
-        portuguese: ''
-        spanish: ciertas
-        turkish: muhakkak
+        inglez: certain
+        fransez: ''
+        portugez: ''
+        kasteyano: ciertas
+        turko: muhakkak
 
 
 

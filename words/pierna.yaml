@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: thigh
-        french: ''
-        portuguese: ''
-        spanish: muslo
-        turkish: baldır
+        inglez: thigh
+        fransez: ''
+        portugez: ''
+        kasteyano: muslo
+        turko: baldır
 
   - ladino: piernas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: thigh
-        french: ''
-        portuguese: ''
-        spanish: muslos
-        turkish: baldır
+        inglez: thigh
+        fransez: ''
+        portugez: ''
+        kasteyano: muslos
+        turko: baldır
 
 
 

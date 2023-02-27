@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cinema
-        french: ''
-        portuguese: ''
-        spanish: cine
-        turkish: sinema
+        inglez: cinema
+        fransez: ''
+        portugez: ''
+        kasteyano: cine
+        turko: sinema
 
   - ladino: sinemas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: cinemas
-        french: ''
-        portuguese: ''
-        spanish: cines
-        turkish: sinema
+        inglez: cinemas
+        fransez: ''
+        portugez: ''
+        kasteyano: cines
+        turko: sinema
 
 
 

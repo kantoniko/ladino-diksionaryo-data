@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: correction
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: corrección
-      turkish: ''
+      inglez: correction
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: corrección
+      turko: ''
 
   - ladino: korreksiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: corrections
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: correcciónes
-      turkish: ''
+      inglez: corrections
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: correcciónes
+      turko: ''
 
 
 

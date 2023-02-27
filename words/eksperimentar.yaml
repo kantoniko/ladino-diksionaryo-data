@@ -5,11 +5,11 @@ versions:
   - ladino: eksperimentar
 
     translations:
-        english: experiment
-        french: ''
-        portuguese: ''
-        spanish: experimentar
-        turkish: denemek
+        inglez: experiment
+        fransez: ''
+        portugez: ''
+        kasteyano: experimentar
+        turko: denemek
 
 conjugations: {}
 

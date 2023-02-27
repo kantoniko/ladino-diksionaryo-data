@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: sour
-      french: ''
-      hebrew: חמוץ
-      portuguese: ''
-      spanish: agrio
-      turkish: ''
+      inglez: sour
+      fransez: ''
+      ebreo: חמוץ
+      portugez: ''
+      kasteyano: agrio
+      turko: ''
 
   - ladino: agra
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: sour
-      french: ''
-      hebrew: חמוצה
-      portuguese: ''
-      spanish: agria
-      turkish: ''
+      inglez: sour
+      fransez: ''
+      ebreo: חמוצה
+      portugez: ''
+      kasteyano: agria
+      turko: ''
 
   - ladino: agros
 
@@ -34,12 +34,12 @@ versions:
     number: plual
 
     translations:
-      english: sour
-      french: ''
-      hebrew: חמוצים
-      portuguese: ''
-      spanish: agrios
-      turkish: ''
+      inglez: sour
+      fransez: ''
+      ebreo: חמוצים
+      portugez: ''
+      kasteyano: agrios
+      turko: ''
 
   - ladino: agras
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: sour
-      french: ''
-      hebrew: חמוצות
-      portuguese: ''
-      spanish: agrias
-      turkish: ''
+      inglez: sour
+      fransez: ''
+      ebreo: חמוצות
+      portugez: ''
+      kasteyano: agrias
+      turko: ''
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: eskojer
 
     translations:
-        english: choose
-        french: ''
-        portuguese: ''
-        spanish: escoger
-        turkish: seçmek
+        inglez: choose
+        fransez: ''
+        portugez: ''
+        kasteyano: escoger
+        turko: seçmek
 
 conjugations: {}
 

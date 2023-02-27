@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - quarrel
         - fight
-        french: ''
-        portuguese: ''
-        spanish: pelea
-        turkish: kavga
+        fransez: ''
+        portugez: ''
+        kasteyano: pelea
+        turko: kavga
 
   - ladino: peleas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - quarrels
         - fights
-        french: ''
-        portuguese: ''
-        spanish: peleas
-        turkish: kavga
+        fransez: ''
+        portugez: ''
+        kasteyano: peleas
+        turko: kavga
 
 
 

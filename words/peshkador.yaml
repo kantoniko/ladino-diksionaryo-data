@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: fisherman
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pescador
-      turkish: ''
+      inglez: fisherman
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pescador
+      turko: ''
 
   - ladino: peshkadora
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: fisherwoman
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pescadora
-      turkish: ''
+      inglez: fisherwoman
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pescadora
+      turko: ''
 
   - ladino: peshkadores
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: fishermen
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pescadores
-      turkish: ''
+      inglez: fishermen
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pescadores
+      turko: ''
 
   - ladino: peshkadoras
 
@@ -49,12 +49,12 @@ versions:
     number: plural
 
     translations:
-      english: fisherwomen
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pescadoras
-      turkish: ''
+      inglez: fisherwomen
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pescadoras
+      turko: ''
 
 
 

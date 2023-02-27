@@ -5,11 +5,11 @@ versions:
   - ladino: pagar
 
     translations:
-        english: pay
-        french: ''
-        portuguese: ''
-        spanish: pagar
-        turkish: ödemek
+        inglez: pay
+        fransez: ''
+        portugez: ''
+        kasteyano: pagar
+        turko: ödemek
 
 conjugations: {}
 

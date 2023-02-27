@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - dear
         - expensive
-        french: ''
-        portuguese: ''
-        spanish: caro
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: caro
+        turko:
         - değerli
         - pahalı
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - dear
         - expensive
-        french: ''
-        portuguese: ''
-        spanish: cara
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cara
+        turko:
         - değerli
         - pahalı
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - dear
         - expensive
-        french: ''
-        portuguese: ''
-        spanish: caros
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: caros
+        turko:
         - değerli
         - pahalı
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - dear
         - expensive
-        french: ''
-        portuguese: ''
-        spanish: caras
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: caras
+        turko:
         - değerli
         - pahalı
 

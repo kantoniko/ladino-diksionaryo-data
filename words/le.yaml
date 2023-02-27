@@ -5,13 +5,13 @@ versions:
   - ladino: le
 
     translations:
-        english:
+        inglez:
         - him
         - to him
         - to her
         - to it
-        french: ''
-        portuguese: ''
-        spanish: le
-        turkish: ona
+        fransez: ''
+        portugez: ''
+        kasteyano: le
+        turko: ona
 

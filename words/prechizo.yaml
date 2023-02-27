@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: precise
-        french: ''
-        portuguese: ''
-        spanish: preciso
-        turkish:
+        inglez: precise
+        fransez: ''
+        portugez: ''
+        kasteyano: preciso
+        turko:
         - belirli
         - kesin
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: precise
-        french: ''
-        portuguese: ''
-        spanish: precisa
-        turkish:
+        inglez: precise
+        fransez: ''
+        portugez: ''
+        kasteyano: precisa
+        turko:
         - belirli
         - kesin
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: precise
-        french: ''
-        portuguese: ''
-        spanish: precisos
-        turkish:
+        inglez: precise
+        fransez: ''
+        portugez: ''
+        kasteyano: precisos
+        turko:
         - belirli
         - kesin
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: precise
-        french: ''
-        portuguese: ''
-        spanish: precisas
-        turkish:
+        inglez: precise
+        fransez: ''
+        portugez: ''
+        kasteyano: precisas
+        turko:
         - belirli
         - kesin
 

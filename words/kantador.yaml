@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: singer
-        french: ''
-        portuguese: ''
-        spanish: cantor
-        turkish: şarkıcı
+        inglez: singer
+        fransez: ''
+        portugez: ''
+        kasteyano: cantor
+        turko: şarkıcı
 
   - ladino: kantadera
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: singer
-        french: ''
-        portuguese: ''
-        spanish: cantora
-        turkish: şarkıcı
+        inglez: singer
+        fransez: ''
+        portugez: ''
+        kasteyano: cantora
+        turko: şarkıcı
 
   - ladino: kantadores
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: singers
-        french: ''
-        portuguese: ''
-        spanish: cantors
-        turkish: şarkıcı
+        inglez: singers
+        fransez: ''
+        portugez: ''
+        kasteyano: cantors
+        turko: şarkıcı
 
   - ladino: kantaderas
 
@@ -46,10 +46,10 @@ versions:
     number: plural
 
     translations:
-        english: singers
-        french: ''
-        portuguese: ''
-        spanish: cantoras
-        turkish: şarkıcı
+        inglez: singers
+        fransez: ''
+        portugez: ''
+        kasteyano: cantoras
+        turko: şarkıcı
 
 

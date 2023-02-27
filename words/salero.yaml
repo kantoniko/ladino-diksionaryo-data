@@ -5,14 +5,14 @@ versions:
   - ladino: salero
 
     translations:
-        english:
+        inglez:
           - salt-cellar
           - charm
           - appeal
-        french: ''
-        portuguese: ''
-        spanish: salero
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: salero
+        turko:
           - tuzluk
           - çekicilik
 

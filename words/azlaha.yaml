@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - success
         - abundance
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - éxito
         - abundancia
-        turkish:
+        turko:
         - başarı
         - bereket
 

@@ -5,11 +5,11 @@ versions:
   - ladino: parparear
 
     translations:
-        english: show-off
-        french: ''
-        portuguese: ''
-        spanish: lucir
-        turkish: gósteriş yapmak
+        inglez: show-off
+        fransez: ''
+        portugez: ''
+        kasteyano: lucir
+        turko: gósteriş yapmak
 
 conjugations: {}
 

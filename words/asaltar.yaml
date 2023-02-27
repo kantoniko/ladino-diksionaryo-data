@@ -5,11 +5,11 @@ versions:
   - ladino: asaltar
 
     translations:
-        english: assault
-        french: ''
-        portuguese: ''
-        spanish: embestir
-        turkish: saldırmak
+        inglez: assault
+        fransez: ''
+        portugez: ''
+        kasteyano: embestir
+        turko: saldırmak
 
 conjugations: {}
 

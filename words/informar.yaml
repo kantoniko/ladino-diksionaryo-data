@@ -5,11 +5,11 @@ versions:
   - ladino: informar
 
     translations:
-        english: inform
-        french: ''
-        portuguese: ''
-        spanish: dar una noticia
-        turkish: haber vermek
+        inglez: inform
+        fransez: ''
+        portugez: ''
+        kasteyano: dar una noticia
+        turko: haber vermek
 
 conjugations: {}
 

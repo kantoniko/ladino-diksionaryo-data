@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: thought
-        french: ''
-        portuguese: ''
-        spanish: pensamiento
-        turkish: düşünce
+        inglez: thought
+        fransez: ''
+        portugez: ''
+        kasteyano: pensamiento
+        turko: düşünce
 
   - ladino: pensadas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: thoughts
-        french: ''
-        portuguese: ''
-        spanish: pensamientos
-        turkish: düşünce
+        inglez: thoughts
+        fransez: ''
+        portugez: ''
+        kasteyano: pensamientos
+        turko: düşünce
 
 
 

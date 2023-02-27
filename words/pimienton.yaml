@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - green pepper
         - fresh
-        french: ''
-        portuguese: ''
-        spanish: pimientón verde
-        turkish: yeşil biber
+        fransez: ''
+        portugez: ''
+        kasteyano: pimientón verde
+        turko: yeşil biber
 
   - ladino: pimientones
     accented: pimientónes
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - green peppers
         - fresh
-        french: ''
-        portuguese: ''
-        spanish: pimientón verde
-        turkish: yeşil biber
+        fransez: ''
+        portugez: ''
+        kasteyano: pimientón verde
+        turko: yeşil biber
 
 
 

@@ -5,13 +5,13 @@ versions:
   - ladino: klase
 
     translations:
-        english:
+        inglez:
           - type
           - class
-        french: ''
-        portuguese: ''
-        spanish: índole
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: índole
+        turko:
         - tip
         - tür
 

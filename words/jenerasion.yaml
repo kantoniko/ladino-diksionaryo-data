@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: generation
-        french: ''
-        portuguese: ''
-        spanish: generación
-        turkish: nesil
+        inglez: generation
+        fransez: ''
+        portugez: ''
+        kasteyano: generación
+        turko: nesil
 
   - ladino: jenerasiones
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: generations
-        french: ''
-        portuguese: ''
-        spanish: generaciónes
-        turkish: nesil
+        inglez: generations
+        fransez: ''
+        portugez: ''
+        kasteyano: generaciónes
+        turko: nesil
 

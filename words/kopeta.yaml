@@ -13,12 +13,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - meat patty
         - meatball
-        french: ''
-        portuguese: ''
-        spanish: albóndiga
-        turkish: köfte
+        fransez: ''
+        portugez: ''
+        kasteyano: albóndiga
+        turko: köfte
 
 

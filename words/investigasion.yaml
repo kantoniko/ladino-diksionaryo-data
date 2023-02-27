@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: investigation
-        french: ''
-        portuguese: ''
-        spanish: investigación
-        turkish:
+        inglez: investigation
+        fransez: ''
+        portugez: ''
+        kasteyano: investigación
+        turko:
         - araştırma
         - tahkik
 

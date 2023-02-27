@@ -6,13 +6,13 @@ versions:
     accented: akordár
 
     translations:
-        english:
+        inglez:
         - grant
         - concede
-        french: accorder
-        portuguese: ''
-        spanish: acordar
-        turkish:
+        fransez: accorder
+        portugez: ''
+        kasteyano: acordar
+        turko:
         - uzlaşmak
         - anlaşmak
 

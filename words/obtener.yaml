@@ -5,13 +5,13 @@ versions:
   - ladino: obtener
 
     translations:
-        english: obtain
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: obtain
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - obtener
         - conseguir
-        turkish: elde etmek
+        turko: elde etmek
 
 conjugations: {}
 

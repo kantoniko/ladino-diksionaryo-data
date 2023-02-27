@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: egg
-        french: ''
-        portuguese: ''
-        spanish: huevo
-        turkish: yumurta
+        inglez: egg
+        fransez: ''
+        portugez: ''
+        kasteyano: huevo
+        turko: yumurta
 
   - ladino: guevos
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: eggs
-        french: ''
-        portuguese: ''
-        spanish: huevos
-        turkish: yumurta
+        inglez: eggs
+        fransez: ''
+        portugez: ''
+        kasteyano: huevos
+        turko: yumurta
 
 

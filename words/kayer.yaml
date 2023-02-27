@@ -5,11 +5,11 @@ versions:
   - ladino: kayer
 
     translations:
-        english: fall
-        french: ''
-        portuguese: ''
-        spanish: caer
-        turkish: düşmek
+        inglez: fall
+        fransez: ''
+        portugez: ''
+        kasteyano: caer
+        turko: düşmek
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: employee
-        french: ''
-        portuguese: ''
-        spanish: empleado
-        turkish: müstahdem
+        inglez: employee
+        fransez: ''
+        portugez: ''
+        kasteyano: empleado
+        turko: müstahdem
 
   - ladino: empiegada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: employee
-        french: ''
-        portuguese: ''
-        spanish: empleada
-        turkish: müstahdem
+        inglez: employee
+        fransez: ''
+        portugez: ''
+        kasteyano: empleada
+        turko: müstahdem
 
   - ladino: empiegados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: employees
-        french: ''
-        portuguese: ''
-        spanish: empleados
-        turkish: müstahdem
+        inglez: employees
+        fransez: ''
+        portugez: ''
+        kasteyano: empleados
+        turko: müstahdem
 
   - ladino: empiegadas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: employees
-        french: ''
-        portuguese: ''
-        spanish: empleadas
-        turkish: müstahdem
+        inglez: employees
+        fransez: ''
+        portugez: ''
+        kasteyano: empleadas
+        turko: müstahdem
 
 
 

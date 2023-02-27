@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - ram
         - sheep
-        french:
+        fransez:
         - bélier
         - mouton
-        portuguese: carneiro
-        spanish: carnero
-        turkish:
+        portugez: carneiro
+        kasteyano: carnero
+        turko:
         - koç
         - koyun
 

@@ -5,11 +5,11 @@ versions:
   - ladino: kontentar
 
     translations:
-        english: please
-        french: ''
-        portuguese: ''
-        spanish: contentar
-        turkish: memnun etmek
+        inglez: please
+        fransez: ''
+        portugez: ''
+        kasteyano: contentar
+        turko: memnun etmek
 
 conjugations: {}
 

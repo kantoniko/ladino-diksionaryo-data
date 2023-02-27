@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: devil
-        french: ''
-        portuguese: ''
-        spanish: diablo
-        turkish:
+        inglez: devil
+        fransez: ''
+        portugez: ''
+        kasteyano: diablo
+        turko:
         - şeytan
         - iblis
 

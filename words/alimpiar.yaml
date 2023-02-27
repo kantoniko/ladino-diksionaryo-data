@@ -9,11 +9,11 @@ versions:
         accented: alimpyár
 
     translations:
-        english: clean
-        french: nettoyer
-        portuguese: limpar
-        spanish: limpiar
-        turkish: temizlemek
+        inglez: clean
+        fransez: nettoyer
+        portugez: limpar
+        kasteyano: limpiar
+        turko: temizlemek
 
 
 conjugations: {}

@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: title
-        french: ''
-        portuguese: ''
-        spanish: título
-        turkish:
+        inglez: title
+        fransez: ''
+        portugez: ''
+        kasteyano: título
+        turko:
           - başlık
           - unvan
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: titles
-        french: ''
-        portuguese: ''
-        spanish: títulos
-        turkish:
+        inglez: titles
+        fransez: ''
+        portugez: ''
+        kasteyano: títulos
+        turko:
           - başlık
           - unvan
 

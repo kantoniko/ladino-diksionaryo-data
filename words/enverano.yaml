@@ -5,11 +5,11 @@ versions:
   - ladino: enverano
 
     translations:
-        english: summer
-        french: été
-        hebrew: קיץ
-        portuguese: ''
-        spanish: verano
-        turkish: yaz
+        inglez: summer
+        fransez: été
+        ebreo: קיץ
+        portugez: ''
+        kasteyano: verano
+        turko: yaz
 
 

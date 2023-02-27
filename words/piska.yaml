@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: flick
-      french: ''
-      hebrew: קמצוץ
-      portuguese: ''
-      spanish: ''
-      turkish: fiske
+      inglez: flick
+      fransez: ''
+      ebreo: קמצוץ
+      portugez: ''
+      kasteyano: ''
+      turko: fiske
 
   - ladino: piskas
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: flicks
-      french: ''
-      hebrew: קמצוצים
-      portuguese: ''
-      spanish: ''
-      turkish: fiskeler
+      inglez: flicks
+      fransez: ''
+      ebreo: קמצוצים
+      portugez: ''
+      kasteyano: ''
+      turko: fiskeler
 
 

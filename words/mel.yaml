@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-      english: email
-      french: ''
-      portuguese: ''
-      spanish:
+      inglez: email
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - correo electrónico
         - email
-      turkish: posta
+      turko: posta
 

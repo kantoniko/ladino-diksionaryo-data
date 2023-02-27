@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - sentence
         - phrase
-        french: ''
-        portuguese: ''
-        spanish: frase
-        turkish: cümle
+        fransez: ''
+        portugez: ''
+        kasteyano: frase
+        turko: cümle
 
   - ladino: frazas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - sentences
         - phrases
-        french: ''
-        portuguese: ''
-        spanish: frases
-        turkish: cümle
+        fransez: ''
+        portugez: ''
+        kasteyano: frases
+        turko: cümle
 
 
 

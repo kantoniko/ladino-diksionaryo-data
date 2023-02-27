@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - part
         - side
-        french: ''
-        portuguese: ''
-        spanish: parte
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: parte
+        turko:
         - kısım
         - taraf
         - pay
@@ -25,13 +25,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - parts
         - sides
-        french: ''
-        portuguese: ''
-        spanish: partes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: partes
+        turko:
         - kısım
         - taraf
         - pay

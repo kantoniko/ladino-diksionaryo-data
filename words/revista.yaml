@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: magazine
-        french: ''
-        portuguese: ''
-        spanish: revista
-        turkish: dergi
+        inglez: magazine
+        fransez: ''
+        portugez: ''
+        kasteyano: revista
+        turko: dergi
 
   - ladino: revistas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: magazines
-        french: ''
-        portuguese: ''
-        spanish: revistas
-        turkish: dergi
+        inglez: magazines
+        fransez: ''
+        portugez: ''
+        kasteyano: revistas
+        turko: dergi
 
 
 

@@ -5,22 +5,22 @@ versions:
   - ladino: durmir
 
     translations:
-        english: sleep
-        french: dormir
-        portuguese: dormir
-        spanish: dormir
-        turkish: uyumak
+        inglez: sleep
+        fransez: dormir
+        portugez: dormir
+        kasteyano: dormir
+        turko: uyumak
 
 
 
   - ladino: duri
 
     translations:
-        english: I slept
-        french: ''
-        portuguese: ''
-        spanish: durmi
-        turkish: ''
+        inglez: I slept
+        fransez: ''
+        portugez: ''
+        kasteyano: durmi
+        turko: ''
 
 
 conjugations: {}

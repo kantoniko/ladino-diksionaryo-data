@@ -5,11 +5,11 @@ versions:
   - ladino: kaminar
 
     translations:
-        english: walk
-        french: ''
-        portuguese: ''
-        spanish: caminar
-        turkish: yürümek
+        inglez: walk
+        fransez: ''
+        portugez: ''
+        kasteyano: caminar
+        turko: yürümek
 
 conjugations: {}
 

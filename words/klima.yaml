@@ -9,10 +9,10 @@ versions:
     number: singular
 
     translations:
-        english: climate
-        french: climat
-        portuguese: clima
-        spanish: clima
-        turkish: hava durumu
+        inglez: climate
+        fransez: climat
+        portugez: clima
+        kasteyano: clima
+        turko: hava durumu
 
 

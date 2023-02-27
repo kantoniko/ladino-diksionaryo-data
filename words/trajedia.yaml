@@ -5,11 +5,11 @@ versions:
   - ladino: trajedia
 
     translations:
-        english: tragedy
-        french: ''
-        portuguese: ''
-        spanish: tragedia
-        turkish:
+        inglez: tragedy
+        fransez: ''
+        portugez: ''
+        kasteyano: tragedia
+        turko:
         - facia
         - trajedi
 

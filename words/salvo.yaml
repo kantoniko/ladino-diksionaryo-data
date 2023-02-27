@@ -6,15 +6,15 @@ versions:
     accented: sálvo
 
     translations:
-        english:
+        inglez:
         - safe
         - saved
         - except
         - save
-        french: ''
-        portuguese: ''
-        spanish: salvo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: salvo
+        turko:
         - saği salim
         - hariç
         - maada

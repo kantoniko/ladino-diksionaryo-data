@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: welcome
-      french: ''
-      hebrew: ברוך הבא
-      portuguese: ''
-      spanish: bienvenido
-      turkish: ''
+      inglez: welcome
+      fransez: ''
+      ebreo: ברוך הבא
+      portugez: ''
+      kasteyano: bienvenido
+      turko: ''
 
   - ladino: bienvenida
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: welcome
-      french: ''
-      hebrew: ברוך הבאה
-      portuguese: ''
-      spanish: bienvenida
-      turkish: ''
+      inglez: welcome
+      fransez: ''
+      ebreo: ברוך הבאה
+      portugez: ''
+      kasteyano: bienvenida
+      turko: ''
 
   - ladino: bienvenidos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: welcome
-      french: ''
-      hebrew: ברוכים הבאים
-      portuguese: ''
-      spanish: bienvenidos
-      turkish: ''
+      inglez: welcome
+      fransez: ''
+      ebreo: ברוכים הבאים
+      portugez: ''
+      kasteyano: bienvenidos
+      turko: ''
 
   - ladino: bienvenidas
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: welcome
-      french: ''
-      hebrew: ברוכות הבאות
-      portuguese: ''
-      spanish: bienvenidas
-      turkish: ''
+      inglez: welcome
+      fransez: ''
+      ebreo: ברוכות הבאות
+      portugez: ''
+      kasteyano: bienvenidas
+      turko: ''
 
 

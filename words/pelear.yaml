@@ -5,14 +5,14 @@ versions:
   - ladino: pelear
 
     translations:
-      english: fight
-      french: ''
-      hebrew:
+      inglez: fight
+      fransez: ''
+      ebreo:
         - להאבק
         - להלחם
         - לריב
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

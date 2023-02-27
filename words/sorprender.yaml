@@ -5,11 +5,11 @@ versions:
   - ladino: sorprender
 
     translations:
-        english: surprise
-        french: ''
-        portuguese: ''
-        spanish: sorprender
-        turkish: şaşırtmak
+        inglez: surprise
+        fransez: ''
+        portugez: ''
+        kasteyano: sorprender
+        turko: şaşırtmak
 
 conjugations: {}
 

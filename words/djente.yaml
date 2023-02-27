@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: people
-        french: ''
-        hebrew: אנשים
-        portuguese: ''
-        spanish: gente
-        turkish:
+        inglez: people
+        fransez: ''
+        ebreo: אנשים
+        portugez: ''
+        kasteyano: gente
+        turko:
         - ahali
         - halk
         - elâlem

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: support
-        french: ''
-        portuguese: ''
-        spanish: apoyo
-        turkish:
+        inglez: support
+        fransez: ''
+        portugez: ''
+        kasteyano: apoyo
+        turko:
         - destek
         - dayanak
 

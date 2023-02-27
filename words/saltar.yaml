@@ -5,13 +5,13 @@ versions:
   - ladino: saltar
 
     translations:
-        english:
+        inglez:
         - leap
         - jump
-        french: ''
-        portuguese: ''
-        spanish: saltar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: saltar
+        turko:
         - atlamak
         - sıçramak
 

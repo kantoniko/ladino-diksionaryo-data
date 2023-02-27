@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: rustic
-        french: ''
-        portuguese: ''
-        spanish: rústico
-        turkish: rüstik
+        inglez: rustic
+        fransez: ''
+        portugez: ''
+        kasteyano: rústico
+        turko: rüstik
 
   - ladino: rustika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: rustic
-        french: ''
-        portuguese: ''
-        spanish: rústica
-        turkish: rüstik
+        inglez: rustic
+        fransez: ''
+        portugez: ''
+        kasteyano: rústica
+        turko: rüstik
 
   - ladino: rustikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: rustic
-        french: ''
-        portuguese: ''
-        spanish: rústicos
-        turkish: rüstik
+        inglez: rustic
+        fransez: ''
+        portugez: ''
+        kasteyano: rústicos
+        turko: rüstik
 
   - ladino: rustikas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: rustic
-        french: ''
-        portuguese: ''
-        spanish: rústicas
-        turkish: rüstik
+        inglez: rustic
+        fransez: ''
+        portugez: ''
+        kasteyano: rústicas
+        turko: rüstik
 
 

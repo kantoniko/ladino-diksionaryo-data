@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: mountain
-        french: ''
-        portuguese: ''
-        spanish: montaña
-        turkish: dag
+        inglez: mountain
+        fransez: ''
+        portugez: ''
+        kasteyano: montaña
+        turko: dag
 
   - ladino: montanyas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: mountains
-        french: ''
-        portuguese: ''
-        spanish: montañas
-        turkish: dag
+        inglez: mountains
+        fransez: ''
+        portugez: ''
+        kasteyano: montañas
+        turko: dag
 
 
 

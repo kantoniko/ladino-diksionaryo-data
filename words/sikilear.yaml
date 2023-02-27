@@ -5,12 +5,12 @@ versions:
   - ladino: sikilear
 
     translations:
-      english: bore
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aburrir
-      turkish: ''
+      inglez: bore
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aburrir
+      turko: ''
 
 
 conjugations: {}

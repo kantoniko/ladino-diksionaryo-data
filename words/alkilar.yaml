@@ -6,13 +6,13 @@ versions:
     accented: alkilár
 
     translations:
-        english:
+        inglez:
           - rent
           - rent out
-        french: ''
-        portuguese: ''
-        spanish: alquilar
-        turkish: kiralamak
+        fransez: ''
+        portugez: ''
+        kasteyano: alquilar
+        turko: kiralamak
 
 conjugations: {}
 

@@ -6,15 +6,15 @@ versions:
     accented: achunkádo
 
     translations:
-        english: crouched
-        french: accroupi
-        portuguese:
+        inglez: crouched
+        fransez: accroupi
+        portugez:
         - agachado
         - babaixado
-        spanish:
+        kasteyano:
         - agachado
         - puesto en cuclillas
-        turkish:
+        turko:
         - çökmüş
         - çömelmiş
 

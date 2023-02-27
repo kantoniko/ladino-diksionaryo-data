@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: meeting
-        french: ''
-        portuguese: ''
-        spanish: encuentro
-        turkish: karşilaşma
+        inglez: meeting
+        fransez: ''
+        portugez: ''
+        kasteyano: encuentro
+        turko: karşilaşma
 
   - ladino: enkontros
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: meetings
-        french: ''
-        portuguese: ''
-        spanish: encuentros
-        turkish: karşilaşma
+        inglez: meetings
+        fransez: ''
+        portugez: ''
+        kasteyano: encuentros
+        turko: karşilaşma
 
 
 

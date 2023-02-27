@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - happy
           - glad
-        french: ''
-        portuguese: ''
-        spanish: alegre
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: alegre
+        turko:
           - neşeli
           - şen
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - happy
           - glad
-        french: ''
-        portuguese: ''
-        spanish: alegres
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: alegres
+        turko:
           - neşeli
           - şen
 

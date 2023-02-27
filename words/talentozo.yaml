@@ -12,12 +12,12 @@ versions:
 
 
     translations:
-      english: talented
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: talentoso
-      turkish: ''
+      inglez: talented
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: talentoso
+      turko: ''
 
   - ladino: talentoza
 
@@ -29,12 +29,12 @@ versions:
 
 
     translations:
-      english: talented
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: talentosa
-      turkish: ''
+      inglez: talented
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: talentosa
+      turko: ''
 
   - ladino: talentozos
 
@@ -46,12 +46,12 @@ versions:
 
 
     translations:
-      english: talented
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: talentosos
-      turkish: ''
+      inglez: talented
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: talentosos
+      turko: ''
 
   - ladino: talentozas
 
@@ -62,12 +62,12 @@ versions:
       - ladino: talentuozas
 
     translations:
-      english: talented
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: talentosas
-      turkish: ''
+      inglez: talented
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: talentosas
+      turko: ''
 
 
 

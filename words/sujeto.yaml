@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: subject
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: subject
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - tema
         - sujeto
-        turkish: konu
+        turko: konu
 
   - ladino: sujetos
 
@@ -22,12 +22,12 @@ versions:
     number: plural
 
     translations:
-        english: subjects
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: subjects
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - temas
         - sujetos
-        turkish: konu
+        turko: konu
 
 

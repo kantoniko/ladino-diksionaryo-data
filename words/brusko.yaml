@@ -8,17 +8,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - brusque
           - dark
-        french:
+        fransez:
           - brusque
           - sombre
-        portuguese: brusco
-        spanish:
+        portugez: brusco
+        kasteyano:
           - brusco
           - oscuro
-        turkish:
+        turko:
           - sert
           - ters
           - acele
@@ -31,15 +31,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - brusque
           - dark
-        french: ''
-        portuguese: brusca
-        spanish:
+        fransez: ''
+        portugez: brusca
+        kasteyano:
           - brusca
           - oscura
-        turkish:
+        turko:
           - sert
           - ters
           - acele
@@ -52,15 +52,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - brusque
           - dark
-        french: ''
-        portuguese: bruscos
-        spanish:
+        fransez: ''
+        portugez: bruscos
+        kasteyano:
           - bruscos
           - oscuros
-        turkish:
+        turko:
           - sert
           - ters
           - acele
@@ -73,15 +73,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - brusque
           - dark
-        french: ''
-        portuguese: bruscas
-        spanish:
+        fransez: ''
+        portugez: bruscas
+        kasteyano:
           - bruscas
           - oscuras
-        turkish:
+        turko:
           - sert
           - ters
           - acele

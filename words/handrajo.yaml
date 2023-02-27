@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: rag
-        french: ''
-        portuguese: ''
-        spanish: andrajo
-        turkish:
+        inglez: rag
+        fransez: ''
+        portugez: ''
+        kasteyano: andrajo
+        turko:
         - bez
         - paçavra
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: rags
-        french: ''
-        portuguese: ''
-        spanish: andrajos
-        turkish:
+        inglez: rags
+        fransez: ''
+        portugez: ''
+        kasteyano: andrajos
+        turko:
         - bez
         - paçavra
 

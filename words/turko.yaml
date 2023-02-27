@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-        english: Turkish
-        french: ''
-        hebrew:
+        inglez: Turkish
+        fransez: ''
+        ebreo:
           - טורקית
           - טורקי
-        portuguese: ''
-        spanish: turco
-        turkish: Türkçe
+        portugez: ''
+        kasteyano: turco
+        turko: Türkçe
 
   - ladino: turka
 
@@ -25,12 +25,12 @@ versions:
     number: singular
 
     translations:
-        english: Turkish
-        french: ''
-        hebrew: ''
-        portuguese: ''
-        spanish: turca
-        turkish: Türkçe
+        inglez: Turkish
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: turca
+        turko: Türkçe
 
   - ladino: turkos
 
@@ -38,12 +38,12 @@ versions:
     number: plural
 
     translations:
-        english: Turkish
-        french: ''
-        hebrew: ''
-        portuguese: ''
-        spanish: turcos
-        turkish: ''
+        inglez: Turkish
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: turcos
+        turko: ''
 
   - ladino: turkas
 
@@ -51,11 +51,11 @@ versions:
     number: plural
 
     translations:
-        english: Turkish
-        french: ''
-        hebrew: ''
-        portuguese: ''
-        spanish: turcas
-        turkish: ''
+        inglez: Turkish
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: turcas
+        turko: ''
 
 

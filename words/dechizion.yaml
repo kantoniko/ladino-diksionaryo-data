@@ -18,11 +18,11 @@ versions:
     number: singular
 
     translations:
-        english: decision
-        french: décision
-        portuguese: ''
-        spanish: decisión
-        turkish: karar
+        inglez: decision
+        fransez: décision
+        portugez: ''
+        kasteyano: decisión
+        turko: karar
 
   - ladino: dechiziones
     accented: dechiziónes
@@ -40,11 +40,11 @@ versions:
     number: plural
 
     translations:
-        english: decisions
-        french: décision
-        portuguese: ''
-        spanish: decisiónes
-        turkish: karar
+        inglez: decisions
+        fransez: décision
+        portugez: ''
+        kasteyano: decisiónes
+        turko: karar
 
 
 

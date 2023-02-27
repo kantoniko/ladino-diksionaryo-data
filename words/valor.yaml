@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - value
         - worth
-        french: valeur
-        portuguese: ''
-        spanish: valor
-        turkish: kıymet
+        fransez: valeur
+        portugez: ''
+        kasteyano: valor
+        turko: kıymet
 
   - ladino: valores
     accented: valóres
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - valuees
         - worth
-        french: valeurs
-        portuguese: ''
-        spanish: valores
-        turkish: kıymet
+        fransez: valeurs
+        portugez: ''
+        kasteyano: valores
+        turko: kıymet
 
 

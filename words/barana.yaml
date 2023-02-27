@@ -8,18 +8,18 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - uproar
           - racket
           - tumult
-        french:
+        fransez:
           - remue-ménage
           - tumulte
-        portuguese: barulho
-        spanish:
+        portugez: barulho
+        kasteyano:
           - alboroto
           - tumulto
-        turkish:
+        turko:
           - gürültü
           - patırdı
 

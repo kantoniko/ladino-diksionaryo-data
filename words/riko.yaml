@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: rich
-        french: ''
-        portuguese: ''
-        spanish: rico
-        turkish: zengin
+        inglez: rich
+        fransez: ''
+        portugez: ''
+        kasteyano: rico
+        turko: zengin
 
   - ladino: rika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: rich
-        french: ''
-        portuguese: ''
-        spanish: rica
-        turkish: zengin
+        inglez: rich
+        fransez: ''
+        portugez: ''
+        kasteyano: rica
+        turko: zengin
 
   - ladino: rikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: rich
-        french: ''
-        portuguese: ''
-        spanish: ricos
-        turkish: zengin
+        inglez: rich
+        fransez: ''
+        portugez: ''
+        kasteyano: ricos
+        turko: zengin
 
   - ladino: rikas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: rich
-        french: ''
-        portuguese: ''
-        spanish: ricas
-        turkish: zengin
+        inglez: rich
+        fransez: ''
+        portugez: ''
+        kasteyano: ricas
+        turko: zengin
 
 
 

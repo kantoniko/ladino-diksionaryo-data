@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: pretty
-        french: ''
-        portuguese: ''
-        spanish: lindo
-        turkish: güzel
+        inglez: pretty
+        fransez: ''
+        portugez: ''
+        kasteyano: lindo
+        turko: güzel
 
   - ladino: linda
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: pretty
-        french: ''
-        portuguese: ''
-        spanish: linda
-        turkish: güzel
+        inglez: pretty
+        fransez: ''
+        portugez: ''
+        kasteyano: linda
+        turko: güzel
 
   - ladino: lindos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: pretty
-        french: ''
-        portuguese: ''
-        spanish: lindos
-        turkish: güzel
+        inglez: pretty
+        fransez: ''
+        portugez: ''
+        kasteyano: lindos
+        turko: güzel
 
   - ladino: lindas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: pretty
-        french: ''
-        portuguese: ''
-        spanish: lindas
-        turkish: güzel
+        inglez: pretty
+        fransez: ''
+        portugez: ''
+        kasteyano: lindas
+        turko: güzel
 
 
 

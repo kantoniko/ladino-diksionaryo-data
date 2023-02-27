@@ -5,12 +5,12 @@ versions:
   - ladino: ayi
 
     translations:
-        english:
+        inglez:
           - there
           - just there
-        french: ''
-        portuguese: ''
-        spanish: ahí
-        turkish: şurada
+        fransez: ''
+        portugez: ''
+        kasteyano: ahí
+        turko: şurada
 
 

@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: ostrich
-        french: autruche
-        portuguese: avestruz
-        spanish: avestruz
-        turkish: devekuşu
-        hebrew: יָעֵן
+        inglez: ostrich
+        fransez: autruche
+        portugez: avestruz
+        kasteyano: avestruz
+        turko: devekuşu
+        ebreo: יָעֵן
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: smell
-        french: ''
-        portuguese: ''
-        spanish: olor
-        turkish: koku
+        inglez: smell
+        fransez: ''
+        portugez: ''
+        kasteyano: olor
+        turko: koku
 
   - ladino: guesmos
     accented: guésmos
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: smells
-        french: ''
-        portuguese: ''
-        spanish: olores
-        turkish: koku
+        inglez: smells
+        fransez: ''
+        portugez: ''
+        kasteyano: olores
+        turko: koku
 

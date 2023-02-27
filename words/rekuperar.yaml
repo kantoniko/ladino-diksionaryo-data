@@ -8,11 +8,11 @@ versions:
       - ladino: rekovrar
 
     translations:
-        english: recuperate
-        french: ''
-        portuguese: ''
-        spanish: recuperar
-        turkish: geri kazanmak
+        inglez: recuperate
+        fransez: ''
+        portugez: ''
+        kasteyano: recuperar
+        turko: geri kazanmak
 
 conjugations: {}
 

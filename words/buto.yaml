@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: goal
-        french: ''
-        portuguese: ''
-        spanish: meta
-        turkish:
+        inglez: goal
+        fransez: ''
+        portugez: ''
+        kasteyano: meta
+        turko:
         - amaç
         - emel
         - gaye
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: goals
-        french: ''
-        portuguese: ''
-        spanish: metas
-        turkish:
+        inglez: goals
+        fransez: ''
+        portugez: ''
+        kasteyano: metas
+        turko:
         - amaç
         - emel
         - gaye

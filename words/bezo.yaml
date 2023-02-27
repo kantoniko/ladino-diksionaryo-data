@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: kiss
-        french: ''
-        portuguese: ''
-        spanish: beso
-        turkish:
+        inglez: kiss
+        fransez: ''
+        portugez: ''
+        kasteyano: beso
+        turko:
         - buse
         - öpücük
 
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: kisses
-        french: ''
-        portuguese: ''
-        spanish: besos
-        turkish: ''
+        inglez: kisses
+        fransez: ''
+        portugez: ''
+        kasteyano: besos
+        turko: ''
 
 

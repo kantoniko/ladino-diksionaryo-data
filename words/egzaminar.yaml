@@ -5,11 +5,11 @@ versions:
   - ladino: egzaminar
 
     translations:
-        english: examine
-        french: ''
-        portuguese: ''
-        spanish: examinar
-        turkish: imtihan etmek
+        inglez: examine
+        fransez: ''
+        portugez: ''
+        kasteyano: examinar
+        turko: imtihan etmek
 
 conjugations: {}
 

@@ -10,15 +10,15 @@ versions:
         accented: enshugár
 
     translations:
-        english: dry
-        french: sécher
-        portuguese:
+        inglez: dry
+        fransez: sécher
+        portugez:
           - secar
           - enxugar
-        spanish:
+        kasteyano:
           - secar
           - enjugar
-        turkish: kurutmak
+        turko: kurutmak
 
 conjugations: {}
 

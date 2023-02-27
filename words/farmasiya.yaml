@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: pharmacy
-        french: ''
-        portuguese: ''
-        spanish: farmacia
-        turkish: eczane
+        inglez: pharmacy
+        fransez: ''
+        portugez: ''
+        kasteyano: farmacia
+        turko: eczane
 
   - ladino: farmasiyas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: pharmacies
-        french: ''
-        portuguese: ''
-        spanish: farmacias
-        turkish: eczane
+        inglez: pharmacies
+        fransez: ''
+        portugez: ''
+        kasteyano: farmacias
+        turko: eczane
 
 
 

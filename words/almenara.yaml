@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: chandelier
-        french: lustre
-        portuguese: lustre
-        spanish:
+        inglez: chandelier
+        fransez: lustre
+        portugez: lustre
+        kasteyano:
         - lámpara
         - araña (de luces)
-        turkish: avize
+        turko: avize
 

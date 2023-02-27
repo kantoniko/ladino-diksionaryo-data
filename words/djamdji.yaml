@@ -11,17 +11,17 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - glazier
         - glass blower
         - glass seller
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - זגג
         - אומן זיגוג
         - נופח זכוכית
         - מוכר זכוכית
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

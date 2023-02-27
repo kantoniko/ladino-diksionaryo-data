@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: meaning
-        french: ''
-        hebrew: משמעות
-        portuguese: ''
-        spanish: significado
-        turkish: anlam
+        inglez: meaning
+        fransez: ''
+        ebreo: משמעות
+        portugez: ''
+        kasteyano: significado
+        turko: anlam
 
   - ladino: sinyifikasiones
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-        english: meanings
-        french: ''
-        hebrew: משמעויות
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: meanings
+        fransez: ''
+        ebreo: משמעויות
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 

@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: thrashing
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: thrashing
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - golpe
         - zurra
-        turkish: dayak
+        turko: dayak
 

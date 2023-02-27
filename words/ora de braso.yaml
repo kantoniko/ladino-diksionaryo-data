@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: wrist-watch
-        french: montre-bracelet
-        portuguese: relógio
-        spanish:
+        inglez: wrist-watch
+        fransez: montre-bracelet
+        portugez: relógio
+        kasteyano:
         - reloj
         - muñequera
-        turkish: kol saati
+        turko: kol saati
 
 

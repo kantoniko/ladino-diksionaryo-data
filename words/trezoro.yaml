@@ -7,11 +7,11 @@ versions:
     number: singular
 
     translations:
-        english: treasure
-        french: ''
-        portuguese: ''
-        spanish: tesoro
-        turkish: hazine
+        inglez: treasure
+        fransez: ''
+        portugez: ''
+        kasteyano: tesoro
+        turko: hazine
 
   - ladino: trezoros
 
@@ -19,11 +19,11 @@ versions:
     number: plural
 
     translations:
-        english: treasures
-        french: ''
-        portuguese: ''
-        spanish: tesoros
-        turkish: hazine
+        inglez: treasures
+        fransez: ''
+        portugez: ''
+        kasteyano: tesoros
+        turko: hazine
 
 
 

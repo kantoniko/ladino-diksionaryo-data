@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: leek pastry
-        french: ''
-        portuguese: ''
-        spanish: fritada de puerro
-        turkish: pırasa kayganası
+        inglez: leek pastry
+        fransez: ''
+        portugez: ''
+        kasteyano: fritada de puerro
+        turko: pırasa kayganası
 
   - ladino: prasifuchis
     accented: prasifúchis
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: leek pastries
-        french: ''
-        portuguese: ''
-        spanish: fritadas de puerro
-        turkish: pırasa kayganası
+        inglez: leek pastries
+        fransez: ''
+        portugez: ''
+        kasteyano: fritadas de puerro
+        turko: pırasa kayganası
 
 
 

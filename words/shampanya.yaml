@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-      english: champagne
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: champagne
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - champán
         - champaña
-      turkish: ''
+      turko: ''
 
 
 

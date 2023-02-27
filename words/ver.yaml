@@ -5,48 +5,48 @@ versions:
   - ladino: ver
 
     translations:
-        english: see
-        french: voir
-        portuguese: ''
-        spanish: ver
-        turkish: görmek
+        inglez: see
+        fransez: voir
+        portugez: ''
+        kasteyano: ver
+        turko: görmek
 
 conjugations:
   prezente:
     yo:
       ladino: veo
       translations:
-        english: see
-        spanish: veo
+        inglez: see
+        kasteyano: veo
 
     tu:
       ladino: ves
       translations:
-        english: see
-        spanish: ves
+        inglez: see
+        kasteyano: ves
 
     el:
       ladino: ve
       translations:
-        english: sees
-        spanish: ve
+        inglez: sees
+        kasteyano: ve
 
     mozotros:
       ladino: vemos
       translations:
-        english: see
-        spanish: vemos
+        inglez: see
+        kasteyano: vemos
 
     vozotros:
       ladino: vesh
       translations:
-        english: see
-        spanish: veis
+        inglez: see
+        kasteyano: veis
 
     eyos:
       ladino: ven
       translations:
-        english: see
-        spanish: ven
+        inglez: see
+        kasteyano: ven
 
 

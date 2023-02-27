@@ -11,11 +11,11 @@ versions:
       - ladino: kopya
 
     translations:
-        english: copy
-        french: ''
-        portuguese: ''
-        spanish: copia
-        turkish: kopya
+        inglez: copy
+        fransez: ''
+        portugez: ''
+        kasteyano: copia
+        turko: kopya
 
   - ladino: kopias
 
@@ -26,11 +26,11 @@ versions:
       - ladino: kopyas
 
     translations:
-        english: copies
-        french: ''
-        portuguese: ''
-        spanish: copias
-        turkish: kopya
+        inglez: copies
+        fransez: ''
+        portugez: ''
+        kasteyano: copias
+        turko: kopya
 
 
 

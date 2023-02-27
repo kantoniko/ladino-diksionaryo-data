@@ -5,11 +5,11 @@ versions:
   - ladino: deskrivir
 
     translations:
-        english: describe
-        french: decrire
-        portuguese: descrever
-        spanish: describir
-        turkish: tarif etmek
+        inglez: describe
+        fransez: decrire
+        portugez: descrever
+        kasteyano: describir
+        turko: tarif etmek
 
 conjugations: {}
 

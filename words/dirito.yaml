@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: right
-        french: ''
-        portuguese: ''
-        spanish: derecho
-        turkish:
+        inglez: right
+        fransez: ''
+        portugez: ''
+        kasteyano: derecho
+        turko:
         - hak
         - yetki
 

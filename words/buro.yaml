@@ -11,19 +11,19 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - office
           - study
-        french: ''
-        hebrew:
+        fransez: ''
+        ebreo:
           - משרד
           - חדר עבודה
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - oficina
           - buró
           - despacho
-        turkish: büro
+        turko: büro
 
   - ladino: buros
     accented: burós
@@ -32,13 +32,13 @@ versions:
     number: plural
 
     translations:
-        english: offices
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: offices
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - oficinas
           - burós
           - despachos
-        turkish: büro
+        turko: büro
 
 

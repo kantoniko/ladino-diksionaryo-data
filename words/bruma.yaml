@@ -8,13 +8,13 @@ versions:
       - ladino: duman
 
     translations:
-        english:
+        inglez:
         - mist
         - fog
-        french: ''
-        portuguese: ''
-        spanish: niebla
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: niebla
+        turko:
         - sis
         - pus
 

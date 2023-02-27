@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - drug
         - medicine
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - droga
         - medicamento
-        turkish:
+        turko:
         - uyuşturucu
         - ilaç
 
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - drugs
         - medicines
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - drogas
         - medicamentos
-        turkish:
+        turko:
         - uyuşturucu
         - ilaç
 

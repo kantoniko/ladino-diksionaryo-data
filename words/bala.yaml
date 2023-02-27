@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - ball
         - bullet
         - bale
-        french: baluchon
-        portuguese: ''
-        spanish:
+        fransez: baluchon
+        portugez: ''
+        kasteyano:
         - balón
         - bala
-        turkish:
+        turko:
         - top
         - mermi
         - fişek

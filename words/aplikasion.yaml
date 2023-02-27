@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: application
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aplicación
-      turkish: uygulama
+      inglez: application
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aplicación
+      turko: uygulama
 
   - ladino: aplikasiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: applications
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: aplicaciónes
-      turkish: uygulamalr
+      inglez: applications
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: aplicaciónes
+      turko: uygulamalr
 
 
 

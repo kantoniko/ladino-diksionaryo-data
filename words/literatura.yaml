@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: literature
-        french: ''
-        portuguese: ''
-        spanish: literatura
-        turkish: edebiyat
+        inglez: literature
+        fransez: ''
+        portugez: ''
+        kasteyano: literatura
+        turko: edebiyat
 

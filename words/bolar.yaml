@@ -5,11 +5,11 @@ versions:
   - ladino: bolar
 
     translations:
-        english: fly
-        french: ''
-        portuguese: ''
-        spanish: volar
-        turkish: uçmak
+        inglez: fly
+        fransez: ''
+        portugez: ''
+        kasteyano: volar
+        turko: uçmak
 
 conjugations: {}
 

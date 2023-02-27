@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: gratitude
-        french: ''
-        portuguese: 
+        inglez: gratitude
+        fransez: ''
+        portugez: 
            - agradecimento
            - gratidão
-        spanish: agradecimiento
-        turkish: şükran
+        kasteyano: agradecimiento
+        turko: şükran
 

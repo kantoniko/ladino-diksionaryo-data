@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: misfortune
-        french: ''
-        portuguese: ''
-        spanish: desgracia
-        turkish:
+        inglez: misfortune
+        fransez: ''
+        portugez: ''
+        kasteyano: desgracia
+        turko:
         - felâket
         - talihsizlik
 

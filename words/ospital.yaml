@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: hospital
-        french: ''
-        portuguese: ''
-        spanish: hospital
-        turkish: hastane
+        inglez: hospital
+        fransez: ''
+        portugez: ''
+        kasteyano: hospital
+        turko: hastane
 
   - ladino: ospitales
 
@@ -30,11 +30,11 @@ versions:
     number: plural
 
     translations:
-        english: hospitals
-        french: ''
-        portuguese: ''
-        spanish: hospitales
-        turkish: ''
+        inglez: hospitals
+        fransez: ''
+        portugez: ''
+        kasteyano: hospitales
+        turko: ''
 
 
 

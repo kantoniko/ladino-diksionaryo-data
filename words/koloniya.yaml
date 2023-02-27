@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: colony
-        french: ''
-        portuguese: ''
-        spanish: colonia
-        turkish: müstemleke
+        inglez: colony
+        fransez: ''
+        portugez: ''
+        kasteyano: colonia
+        turko: müstemleke
 
   - ladino: koloniyas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: colonies
-        french: ''
-        portuguese: ''
-        spanish: colonias
-        turkish: müstemleke
+        inglez: colonies
+        fransez: ''
+        portugez: ''
+        kasteyano: colonias
+        turko: müstemleke
 
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: wide
-        french: large
-        portuguese: ''
-        spanish: ancho
-        turkish: geniş
+        inglez: wide
+        fransez: large
+        portugez: ''
+        kasteyano: ancho
+        turko: geniş
 
   - ladino: ancha
     accented: áncha
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: wide
-        french: large
-        portuguese: ''
-        spanish: ancha
-        turkish: geniş
+        inglez: wide
+        fransez: large
+        portugez: ''
+        kasteyano: ancha
+        turko: geniş
 
   - ladino: anchos
     accented: ánchos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: wide
-        french: large
-        portuguese: ''
-        spanish: anchos
-        turkish: geniş
+        inglez: wide
+        fransez: large
+        portugez: ''
+        kasteyano: anchos
+        turko: geniş
 
   - ladino: anchas
     accented: ánchas
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: wide
-        french: large
-        portuguese: ''
-        spanish: anchas
-        turkish: geniş
+        inglez: wide
+        fransez: large
+        portugez: ''
+        kasteyano: anchas
+        turko: geniş
 
 # Espanyol,English,Turkish,Origen,id,Portuguese,French
 # despreocupado,free from care,kaygısız,Jeneral,3041,despreocupado,insouciant

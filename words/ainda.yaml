@@ -13,15 +13,15 @@ versions:
         accented: daínda
 
     translations:
-        english:
+        inglez:
         - yet
         - still
-        french: ''
-        portuguese: ainda
-        spanish:
+        fransez: ''
+        portugez: ainda
+        kasteyano:
         - aún
         - todavía
-        turkish:
+        turko:
         - henüz
         - hâlâ
         - hâlen

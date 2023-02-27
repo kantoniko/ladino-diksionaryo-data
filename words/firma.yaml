@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: signature
-        french: ''
-        portuguese: ''
-        spanish: firma
-        turkish: imza
+        inglez: signature
+        fransez: ''
+        portugez: ''
+        kasteyano: firma
+        turko: imza
 

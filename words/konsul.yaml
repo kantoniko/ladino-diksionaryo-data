@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: consulate
-        french: ''
-        portuguese: ''
-        spanish: cónsul
-        turkish: konsolos
+        inglez: consulate
+        fransez: ''
+        portugez: ''
+        kasteyano: cónsul
+        turko: konsolos
 
   - ladino: konsules
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: consulate
-        french: ''
-        portuguese: ''
-        spanish: cónsul
-        turkish: konsolos
+        inglez: consulate
+        fransez: ''
+        portugez: ''
+        kasteyano: cónsul
+        turko: konsolos
 
 
 

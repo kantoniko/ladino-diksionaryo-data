@@ -5,14 +5,14 @@ versions:
   - ladino: abrevar
     accented: abrevár
     translations:
-        english:
+        inglez:
           - water (animal)
           - give a drink
-        english: water
-        french: abreuver
-        portuguese: ''
-        spanish: abrevar
-        turkish:
+        inglez: water
+        fransez: abreuver
+        portugez: ''
+        kasteyano: abrevar
+        turko:
           - su içirmek
           - su vermek
           - sulamak

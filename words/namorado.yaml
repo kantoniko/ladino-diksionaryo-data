@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - in love
         - enamored
         - enamoured
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enamorado
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enamorado
+      turko: ''
 
   - ladino: namorada
 
@@ -24,15 +24,15 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - in love
         - enamored
         - enamoured
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enamorada
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enamorada
+      turko: ''
 
   - ladino: namorados
 
@@ -40,15 +40,15 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - in love
         - enamored
         - enamoured
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enamorados
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enamorados
+      turko: ''
 
   - ladino: namoradas
 
@@ -56,14 +56,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - in love
         - enamored
         - enamoured
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enamoradas
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enamoradas
+      turko: ''
 
 

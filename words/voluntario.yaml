@@ -12,12 +12,12 @@ versions:
 
 
     translations:
-      english: voluntary
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: voluntario
-      turkish: ''
+      inglez: voluntary
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: voluntario
+      turko: ''
 
   - ladino: voluntaria
 
@@ -29,12 +29,12 @@ versions:
 
 
     translations:
-      english: voluntary
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: voluntaria
-      turkish: ''
+      inglez: voluntary
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: voluntaria
+      turko: ''
 
   - ladino: voluntarios
 
@@ -46,12 +46,12 @@ versions:
 
 
     translations:
-      english: voluntaries
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: voluntarios
-      turkish: ''
+      inglez: voluntaries
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: voluntarios
+      turko: ''
 
   - ladino: voluntarias
 
@@ -63,12 +63,12 @@ versions:
 
 
     translations:
-      english: voluntaries
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: voluntarias
-      turkish: ''
+      inglez: voluntaries
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: voluntarias
+      turko: ''
 
 
 

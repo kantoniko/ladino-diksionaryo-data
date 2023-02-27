@@ -5,16 +5,16 @@ versions:
   - ladino: apuntar
 
     translations:
-      english:
+      inglez:
         - point at
         - aim
         - emphasize
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - להצביע
         - לכוון
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

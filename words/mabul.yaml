@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - flood
           - great quantity
-        french:
+        fransez:
           - déluge
           - grande quantité
-        portuguese: diluvio
-        spanish:
+        portugez: diluvio
+        kasteyano:
           - diluvio
           - gran cantidad
-        turkish:
+        turko:
           - tufan
           - sel
           - çok miktarda

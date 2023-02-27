@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: astronaut
-        french: astronaute
-        portuguese: ''
-        spanish: astronauta
-        turkish: astronot
+        inglez: astronaut
+        fransez: astronaute
+        portugez: ''
+        kasteyano: astronauta
+        turko: astronot
 
   - ladino: astronota
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: astronaut
-        french: astronaute
-        portuguese: ''
-        spanish: astronauta
-        turkish: astronot
+        inglez: astronaut
+        fransez: astronaute
+        portugez: ''
+        kasteyano: astronauta
+        turko: astronot
 
   - ladino: astronotos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: astronauts
-        french: astronautes
-        portuguese: ''
-        spanish: astronautas
-        turkish: asronotlar
+        inglez: astronauts
+        fransez: astronautes
+        portugez: ''
+        kasteyano: astronautas
+        turko: asronotlar
 
   - ladino: astronotas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: astronauts
-        french: astronautes
-        portuguese: ''
-        spanish: astronautas
-        turkish: astronot
+        inglez: astronauts
+        fransez: astronautes
+        portugez: ''
+        kasteyano: astronautas
+        turko: astronot
 
 
 

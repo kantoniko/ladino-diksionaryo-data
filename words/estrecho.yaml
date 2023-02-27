@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: narrow
-        french: étroit
-        portuguese: estreito
-        spanish: estrecho
-        turkish: dar
+        inglez: narrow
+        fransez: étroit
+        portugez: estreito
+        kasteyano: estrecho
+        turko: dar
 
   - ladino: estrecha
     accented: estrécha
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: narrow
-        french: étroite
-        portuguese: estreita
-        spanish: estrecha
-        turkish: dar
+        inglez: narrow
+        fransez: étroite
+        portugez: estreita
+        kasteyano: estrecha
+        turko: dar
 
   - ladino: estrechos
     accented: estréchos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: narrow
-        french: ''
-        portuguese: estreitos
-        spanish: estrechos
-        turkish: dar
+        inglez: narrow
+        fransez: ''
+        portugez: estreitos
+        kasteyano: estrechos
+        turko: dar
 
   - ladino: estrechas
     accented: estréchas
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: narrow
-        french: ''
-        portuguese: estreitas
-        spanish: estrechas
-        turkish: dar
+        inglez: narrow
+        fransez: ''
+        portugez: estreitas
+        kasteyano: estrechas
+        turko: dar
 

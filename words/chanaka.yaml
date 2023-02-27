@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: pot
-        french: ''
-        portuguese: ''
-        spanish: cáliz
-        turkish: çanak
+        inglez: pot
+        fransez: ''
+        portugez: ''
+        kasteyano: cáliz
+        turko: çanak
 
   - ladino: chanakas
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: pots
-        french: ''
-        portuguese: ''
-        spanish: cálizes
-        turkish: ''
+        inglez: pots
+        fransez: ''
+        portugez: ''
+        kasteyano: cálizes
+        turko: ''
 
 

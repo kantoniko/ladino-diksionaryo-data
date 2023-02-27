@@ -8,13 +8,13 @@ versions:
       - ladino: gudrura
 
     translations:
-        english:
+        inglez:
         - fatness
         - fat
-        french: ''
-        portuguese: ''
-        spanish: gordura
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: gordura
+        turko:
         - şişmanlık
         - yağ
 

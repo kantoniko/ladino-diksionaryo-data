@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-      english: assistant
-      french: ''
-      hebrew:
+      inglez: assistant
+      fransez: ''
+      ebreo:
         - עוזר
         - אסיסטנט
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

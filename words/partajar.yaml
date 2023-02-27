@@ -5,20 +5,20 @@ versions:
   - ladino: partajar
 
     translations:
-        english: share
-        french: ''
-        portuguese: ''
-        spanish: compartir
-        turkish: paylaşmak
+        inglez: share
+        fransez: ''
+        portugez: ''
+        kasteyano: compartir
+        turko: paylaşmak
 
   - ladino: partajarvos
 
     translations:
-        english: share with you
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: ''
+        inglez: share with you
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 
 conjugations: {}

@@ -10,13 +10,13 @@ versions:
         accented: oír
 
     translations:
-        english:
+        inglez:
           - hear
           - listen
-        french: ''
-        portuguese: ''
-        spanish: escuchar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: escuchar
+        turko:
           - dinlemek
           - duymak
 
@@ -25,38 +25,38 @@ conjugations:
     yo:
       ladino: oygo
       translations:
-        english: hear
-        spanish: escucho
+        inglez: hear
+        kasteyano: escucho
 
     tu:
       ladino: oyes
       translations:
-        english: hear
-        spanish: escuchas
+        inglez: hear
+        kasteyano: escuchas
 
     el:
       ladino: oye
       translations:
-        english: hears
-        spanish: escucha
+        inglez: hears
+        kasteyano: escucha
 
     mozotros:
       ladino: oyemo
       translations:
-        english: hear
-        spanish: escuchamos
+        inglez: hear
+        kasteyano: escuchamos
 
     vozotros:
       ladino: oyesh
       translations:
-        english: hear
-        spanish: escucháis
+        inglez: hear
+        kasteyano: escucháis
 
     eyos:
       ladino: oyen
       translations:
-        english: hear
-        spanish: escuchan
+        inglez: hear
+        kasteyano: escuchan
 
 
 

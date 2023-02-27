@@ -5,14 +5,14 @@ versions:
   - ladino: apegarse
 
     translations:
-      english:
+      inglez:
         - be glued
         - be stuck
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - להידבק
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}

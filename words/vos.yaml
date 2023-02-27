@@ -9,14 +9,14 @@ versions:
 
 
     translations:
-        english:
+        inglez:
         - you
         - to you
         - to yourselves
-        french: vous
-        portuguese: ''
-        spanish: os
-        turkish:
+        fransez: vous
+        portugez: ''
+        kasteyano: os
+        turko:
         - siz
         - size
         - kendinize

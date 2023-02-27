@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: prayer
-        french: ''
-        portuguese: ''
-        spanish: plegaria
-        turkish: dua
+        inglez: prayer
+        fransez: ''
+        portugez: ''
+        kasteyano: plegaria
+        turko: dua
 
   - ladino: orasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: prayers
-        french: ''
-        portuguese: ''
-        spanish: plegarias
-        turkish: dua
+        inglez: prayers
+        fransez: ''
+        portugez: ''
+        kasteyano: plegarias
+        turko: dua
 
 
 

@@ -6,13 +6,13 @@ versions:
     accented: yazér
 
     translations:
-        english:
+        inglez:
           - to lie
           - to be lying (dead)
-        french: gésir
-        portuguese: ''
-        spanish: yacer
-        turkish:
+        fransez: gésir
+        portugez: ''
+        kasteyano: yacer
+        turko:
           - yatmak
           - mezarda yatmak
 

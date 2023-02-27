@@ -11,11 +11,11 @@ versions:
       - ladino: ancho
 
     translations:
-        english: extensive
-        french: étendu
-        portuguese: expandido
-        spanish: extenso
-        turkish:
+        inglez: extensive
+        fransez: étendu
+        portugez: expandido
+        kasteyano: extenso
+        turko:
           - geniş
           - yaygın
 
@@ -28,11 +28,11 @@ versions:
       - ladino: ancha
 
     translations:
-        english: extensive
-        french: étende
-        portuguese: expandida
-        spanish: extensa
-        turkish:
+        inglez: extensive
+        fransez: étende
+        portugez: expandida
+        kasteyano: extensa
+        turko:
           - geniş
           - yaygın
 
@@ -45,11 +45,11 @@ versions:
       - ladino: anchos
 
     translations:
-        english: extensives
-        french: étendu
-        portuguese: expandidos
-        spanish: extensos
-        turkish:
+        inglez: extensives
+        fransez: étendu
+        portugez: expandidos
+        kasteyano: extensos
+        turko:
           - geniş
           - yaygın
 
@@ -62,11 +62,11 @@ versions:
       - ladino: anchas
 
     translations:
-        english: extensives
-        french: étende
-        portuguese: expandidas
-        spanish: extensas
-        turkish:
+        inglez: extensives
+        fransez: étende
+        portugez: expandidas
+        kasteyano: extensas
+        turko:
           - geniş
           - yaygın
 

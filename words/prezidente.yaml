@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: president
-        french: ''
-        portuguese: ''
-        spanish: presidente
-        turkish:
+        inglez: president
+        fransez: ''
+        portugez: ''
+        kasteyano: presidente
+        turko:
         - başkan
         - cumhurbaşkanı
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: presidents
-        french: ''
-        portuguese: ''
-        spanish: presidentes
-        turkish:
+        inglez: presidents
+        fransez: ''
+        portugez: ''
+        kasteyano: presidentes
+        turko:
         - başkan
         - cumhurbaşkanı
 

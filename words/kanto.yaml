@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - chant
         - song
-        french: ''
-        portuguese: ''
-        spanish: canto
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: canto
+        turko:
         - şarkı
         - dinî ezgi
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - chants
         - songs
-        french: ''
-        portuguese: ''
-        spanish: cantos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cantos
+        turko:
         - şarkı
         - dinî ezgi
 

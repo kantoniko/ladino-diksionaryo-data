@@ -5,11 +5,11 @@ versions:
   - ladino: enventar
 
     translations:
-        english: invent
-        french: ''
-        portuguese: ''
-        spanish: inventar
-        turkish: icadetmek
+        inglez: invent
+        fransez: ''
+        portugez: ''
+        kasteyano: inventar
+        turko: icadetmek
 
 conjugations: {}
 

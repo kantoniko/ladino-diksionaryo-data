@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: linguistics
-        french: ''
-        portuguese: ''
-        spanish: lingüística
-        turkish:
+        inglez: linguistics
+        fransez: ''
+        portugez: ''
+        kasteyano: lingüística
+        turko:
         - dilbilimi
         - linguistik
 

@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - beauty
         - loveliness
-        french: ''
-        portuguese: ''
-        spanish: hermosura
-        turkish: güzellik
+        fransez: ''
+        portugez: ''
+        kasteyano: hermosura
+        turko: güzellik
 
   - ladino: ermozuras
     accented: ermozúras
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - beauty
         - loveliness
-        french: ''
-        portuguese: ''
-        spanish: hermosuras
-        turkish: güzellik
+        fransez: ''
+        portugez: ''
+        kasteyano: hermosuras
+        turko: güzellik
 
 

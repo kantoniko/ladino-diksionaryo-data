@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: worm
-        french: ''
-        portuguese: ''
-        spanish: gusano
-        turkish: solucan
+        inglez: worm
+        fransez: ''
+        portugez: ''
+        kasteyano: gusano
+        turko: solucan
 
   - ladino: guzanos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: worms
-        french: ''
-        portuguese: ''
-        spanish: gusanos
-        turkish: solucan
+        inglez: worms
+        fransez: ''
+        portugez: ''
+        kasteyano: gusanos
+        turko: solucan
 
 
 

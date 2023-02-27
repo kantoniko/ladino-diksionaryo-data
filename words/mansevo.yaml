@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english: young person
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: young person
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - joven
         - muchacho
         - chico
-        turkish: genç insan
+        turko: genç insan
 
   - ladino: manseva
 
@@ -24,14 +24,14 @@ versions:
     number: singular
 
     translations:
-        english: young person
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: young person
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - joven
         - muchacha
         - chica
-        turkish: genç insan
+        turko: genç insan
 
   - ladino: mansevos
     accented: mansévos
@@ -40,14 +40,14 @@ versions:
     number: plural
 
     translations:
-        english: young person
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: young person
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jovenes
         - muchachos
         - chicos
-        turkish: genç insan
+        turko: genç insan
 
   - ladino: mansevas
 
@@ -55,12 +55,12 @@ versions:
     number: plural
 
     translations:
-        english: young person
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: young person
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jovenes
         - muchachas
         - chicas
-        turkish: genç insan
+        turko: genç insan
 

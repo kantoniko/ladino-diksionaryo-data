@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - important
         - significant
-        french: ''
-        portuguese: ''
-        spanish: importante
-        turkish: önemli
+        fransez: ''
+        portugez: ''
+        kasteyano: importante
+        turko: önemli
 
   - ladino: emportantes
     accented: emportántes
@@ -32,12 +32,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - important
         - significant
-        french: ''
-        portuguese: ''
-        spanish: importantes
-        turkish: önemli
+        fransez: ''
+        portugez: ''
+        kasteyano: importantes
+        turko: önemli
 
 

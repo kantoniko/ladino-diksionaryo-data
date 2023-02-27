@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: ice cream
-        french: crème glacée
-        portuguese: ''
-        spanish: helado
-        turkish: dordurma
+        inglez: ice cream
+        fransez: crème glacée
+        portugez: ''
+        kasteyano: helado
+        turko: dordurma
 
   - ladino: dondurmas
     accented: dondurmás
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: ice creams
-        french: crème glacée
-        portuguese: ''
-        spanish: helados
-        turkish: dordurma
+        inglez: ice creams
+        fransez: crème glacée
+        portugez: ''
+        kasteyano: helados
+        turko: dordurma
 
 

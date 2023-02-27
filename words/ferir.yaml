@@ -6,13 +6,13 @@ versions:
     accented: ferír
 
     translations:
-        english:
+        inglez:
           - hurt
           - injure
-        french: ''
-        portuguese: ''
-        spanish: herir
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: herir
+        turko:
           - acıtmak
           - yaralamak
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sex
-        french: ''
-        portuguese: ''
-        spanish: sexo
-        turkish: seks
+        inglez: sex
+        fransez: ''
+        portugez: ''
+        kasteyano: sexo
+        turko: seks
 
   - ladino: seksos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sexes
-        french: ''
-        portuguese: ''
-        spanish: sexos
-        turkish: seks
+        inglez: sexes
+        fransez: ''
+        portugez: ''
+        kasteyano: sexos
+        turko: seks
 
 
 

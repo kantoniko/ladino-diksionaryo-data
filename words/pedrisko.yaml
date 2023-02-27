@@ -7,11 +7,11 @@ versions:
     number: singular
 
     translations:
-        english: hail
-        french: grêle
-        portuguese: granizo
-        spanish: pedrisco
-        turkish: dolu
+        inglez: hail
+        fransez: grêle
+        portugez: granizo
+        kasteyano: pedrisco
+        turko: dolu
 
   - ladino: pedriskos
     accented: pedrískos
@@ -19,10 +19,10 @@ versions:
     number: plural
 
     translations:
-        english: hail
-        french: ''
-        portuguese: ''
-        spanish: pedriscos
-        turkish: dolu
+        inglez: hail
+        fransez: ''
+        portugez: ''
+        kasteyano: pedriscos
+        turko: dolu
 
 

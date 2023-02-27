@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: unique
-        french: ''
-        portuguese: ''
-        spanish: único
-        turkish: biricik
+        inglez: unique
+        fransez: ''
+        portugez: ''
+        kasteyano: único
+        turko: biricik
 
   - ladino: regalada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: unique
-        french: ''
-        portuguese: ''
-        spanish: única
-        turkish: biricik
+        inglez: unique
+        fransez: ''
+        portugez: ''
+        kasteyano: única
+        turko: biricik
 
   - ladino: regalados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: unique
-        french: ''
-        portuguese: ''
-        spanish: únicos
-        turkish: biricik
+        inglez: unique
+        fransez: ''
+        portugez: ''
+        kasteyano: únicos
+        turko: biricik
 
   - ladino: regaladas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: unique
-        french: ''
-        portuguese: ''
-        spanish: únicas
-        turkish: biricik
+        inglez: unique
+        fransez: ''
+        portugez: ''
+        kasteyano: únicas
+        turko: biricik
 
 
 

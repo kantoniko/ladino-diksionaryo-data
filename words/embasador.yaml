@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: ambassador
-        french: ''
-        portuguese: ''
-        spanish: embajador
-        turkish:
+        inglez: ambassador
+        fransez: ''
+        portugez: ''
+        kasteyano: embajador
+        turko:
         - elçi
         - sefir
 

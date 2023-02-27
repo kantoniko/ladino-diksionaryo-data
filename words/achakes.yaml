@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english: because of
-        french: à cause de
-        portuguese:
+        inglez: because of
+        fransez: à cause de
+        portugez:
         - culpa de
         - por conta de
-        spanish: culpa de
-        turkish:
+        kasteyano: culpa de
+        turko:
         - dolayı
         - nedeniyle
         - yüzünden

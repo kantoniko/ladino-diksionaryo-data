@@ -5,11 +5,11 @@ versions:
   - ladino: avrir
 
     translations:
-        english: open
-        french: ''
-        portuguese: ''
-        spanish: abrir
-        turkish: açmak
+        inglez: open
+        fransez: ''
+        portugez: ''
+        kasteyano: abrir
+        turko: açmak
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: invitation
-        french: ''
-        portuguese: ''
-        spanish: invitación
-        turkish: dâvet
+        inglez: invitation
+        fransez: ''
+        portugez: ''
+        kasteyano: invitación
+        turko: dâvet
 
   - ladino: invitasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: invitations
-        french: ''
-        portuguese: ''
-        spanish: invitaciónes
-        turkish: dâvet
+        inglez: invitations
+        fransez: ''
+        portugez: ''
+        kasteyano: invitaciónes
+        turko: dâvet
 
 
 

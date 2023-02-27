@@ -5,11 +5,11 @@ versions:
   - ladino: asigun
 
     translations:
-        english: according to
-        french: ''
-        portuguese: ''
-        spanish: según
-        turkish:
+        inglez: according to
+        fransez: ''
+        portugez: ''
+        kasteyano: según
+        turko:
         - gibi
         - mucibince
 

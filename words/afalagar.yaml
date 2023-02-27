@@ -6,17 +6,17 @@ versions:
     accented: afalagár
 
     translations:
-        english:
+        inglez:
         - console
         - comfort
-        french:
+        fransez:
         - consoler
         - réconforter
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - consolar
         - reconfortar
-        turkish:
+        turko:
         - avutmak
         - teselli etmek
 

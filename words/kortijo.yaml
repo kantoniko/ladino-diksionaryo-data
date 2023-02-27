@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - farmyard
         - patio
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - corral
         - patio
-        turkish: avlu
+        turko: avlu
 
 

@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - vase
           - glass
-        french: vase
-        portuguese: ''
-        spanish: florero
-        turkish: vazo
+        fransez: vase
+        portugez: ''
+        kasteyano: florero
+        turko: vazo
 
   - ladino: vazos
 
@@ -25,13 +25,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - vases
           - glasses
-        french: ''
-        portuguese: ''
-        spanish: floreros
-        turkish: ''
+        fransez: ''
+        portugez: ''
+        kasteyano: floreros
+        turko: ''
 
 
 

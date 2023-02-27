@@ -6,16 +6,16 @@ versions:
     accented: morár
 
     translations:
-        english:
+        inglez:
         - live
         - dwell
         - reside
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - morar
         - habitar
-        turkish:
+        turko:
         - oturmak
         - ikâmet etmek
 

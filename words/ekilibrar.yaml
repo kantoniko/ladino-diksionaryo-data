@@ -5,11 +5,11 @@ versions:
   - ladino: ekilibrar
 
     translations:
-        english: balance
-        french: ''
-        portuguese: ''
-        spanish: abalanzar
-        turkish: dengelemek
+        inglez: balance
+        fransez: ''
+        portugez: ''
+        kasteyano: abalanzar
+        turko: dengelemek
 
 conjugations: {}
 

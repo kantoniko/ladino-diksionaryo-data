@@ -14,12 +14,12 @@ versions:
       - ladino: "'holandezo"
 
     translations:
-      english: dutch
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: holandés
-      turkish: ''
+      inglez: dutch
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: holandés
+      turko: ''
 
   - ladino: olandeza
 
@@ -30,12 +30,12 @@ versions:
       - ladino: "'holandeza"
 
     translations:
-      english: dutch
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: holandesa
-      turkish: ''
+      inglez: dutch
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: holandesa
+      turko: ''
 
   - ladino: olandezes
 
@@ -46,12 +46,12 @@ versions:
       - ladino: "'holandezes"
 
     translations:
-      english: dutch
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: holandeses
-      turkish: ''
+      inglez: dutch
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: holandeses
+      turko: ''
 
   - ladino: olandezas
 
@@ -62,11 +62,11 @@ versions:
       - ladino: "'holandezas"
 
     translations:
-      english: dutch
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: holandesas
-      turkish: ''
+      inglez: dutch
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: holandesas
+      turko: ''
 
 

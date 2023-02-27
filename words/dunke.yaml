@@ -8,12 +8,12 @@ versions:
       - ladino: alora
 
     translations:
-        english: therefore
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: therefore
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - entonces
         - por lo tanto
-        turkish: öyleyse
+        turko: öyleyse
 
 

@@ -5,13 +5,13 @@ versions:
   - ladino: kontener
 
     translations:
-        english:
+        inglez:
         - contain
         - keep in check
-        french: ''
-        portuguese: ''
-        spanish: contener
-        turkish: içermek
+        fransez: ''
+        portugez: ''
+        kasteyano: contener
+        turko: içermek
 
 conjugations: {}
 

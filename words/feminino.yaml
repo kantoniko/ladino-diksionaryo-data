@@ -8,24 +8,24 @@ versions:
     number: singular
 
     translations:
-      english: feminine
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: dişil
+      inglez: feminine
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: dişil
 
   - ladino: femininos
     gender: masculine
     number: plural
 
     translations:
-      english: feminines
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: dişiller
+      inglez: feminines
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: dişiller
 
 
 

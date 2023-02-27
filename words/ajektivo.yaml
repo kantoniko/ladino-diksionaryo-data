@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: adjective
-        french: ''
-        portuguese: ''
-        spanish: adjetivo
-        turkish: sıfat
+        inglez: adjective
+        fransez: ''
+        portugez: ''
+        kasteyano: adjetivo
+        turko: sıfat
 
   - ladino: ajektivos
     accented: ajektívos
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: adjectives
-        french: ''
-        portuguese: ''
-        spanish: adjetivos
-        turkish: sıfat
+        inglez: adjectives
+        fransez: ''
+        portugez: ''
+        kasteyano: adjetivos
+        turko: sıfat
 
 

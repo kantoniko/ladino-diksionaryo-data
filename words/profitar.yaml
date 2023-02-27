@@ -5,11 +5,11 @@ versions:
   - ladino: profitar
 
     translations:
-        english: profit
-        french: ''
-        portuguese: ''
-        spanish: aprovechar
-        turkish: istifade etmek
+        inglez: profit
+        fransez: ''
+        portugez: ''
+        kasteyano: aprovechar
+        turko: istifade etmek
 
 conjugations: {}
 

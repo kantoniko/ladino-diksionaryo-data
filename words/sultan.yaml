@@ -6,13 +6,13 @@ versions:
     accented: sultán
 
     translations:
-        english: sultan
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: sultan
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - sultán
         - sultana
-        turkish:
+        turko:
         - padişah
         - sultan
 

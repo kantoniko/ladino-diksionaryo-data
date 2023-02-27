@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: unfortunate
-        french: ''
-        portuguese: ''
-        spanish: funesto
-        turkish: meşum
+        inglez: unfortunate
+        fransez: ''
+        portugez: ''
+        kasteyano: funesto
+        turko: meşum
 
   - ladino: funesta
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: unfortunate
-        french: ''
-        portuguese: ''
-        spanish: funesta
-        turkish: meşum
+        inglez: unfortunate
+        fransez: ''
+        portugez: ''
+        kasteyano: funesta
+        turko: meşum
 
   - ladino: funestos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: unfortunate
-        french: ''
-        portuguese: ''
-        spanish: funestos
-        turkish: meşum
+        inglez: unfortunate
+        fransez: ''
+        portugez: ''
+        kasteyano: funestos
+        turko: meşum
 
   - ladino: funestas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: unfortunate
-        french: ''
-        portuguese: ''
-        spanish: funestas
-        turkish: meşum
+        inglez: unfortunate
+        fransez: ''
+        portugez: ''
+        kasteyano: funestas
+        turko: meşum
 
 
 

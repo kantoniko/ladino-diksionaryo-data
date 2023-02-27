@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - depressed
         - distressed
-        french: affligé
-        portuguese: deprimido
-        spanish:
+        fransez: affligé
+        portugez: deprimido
+        kasteyano:
         - abatido
         - afligido
-        turkish: üzgün
+        turko: üzgün
 
   - ladino: abatida
     accented: abatída
@@ -24,15 +24,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - depressed
         - distressed
-        french: affligée
-        portuguese: deprimida
-        spanish:
+        fransez: affligée
+        portugez: deprimida
+        kasteyano:
         - abatida
         - afligida
-        turkish: üzgün
+        turko: üzgün
 
   - ladino: abatidos
     accented: abatídos
@@ -40,15 +40,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - depressed
         - distressed
-        french: affligé
-        portuguese: deprimidos
-        spanish:
+        fransez: affligé
+        portugez: deprimidos
+        kasteyano:
         - abatidos
         - afligidos
-        turkish: üzgün
+        turko: üzgün
 
   - ladino: abatidas
     accented: abatídas
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - depressed
         - distressed
-        french: affligée
-        portuguese: deprimidas
-        spanish:
+        fransez: affligée
+        portugez: deprimidas
+        kasteyano:
         - abatidas
         - afligidas
-        turkish: üzgün
+        turko: üzgün
 

@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - view
         - sight
-        french: vue
-        portuguese: ''
-        spanish: vista
-        turkish:
+        fransez: vue
+        portugez: ''
+        kasteyano: vista
+        turko:
         - manzara
         - görüş
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - views
         - sights
-        french: vues
-        portuguese: ''
-        spanish: vistas
-        turkish:
+        fransez: vues
+        portugez: ''
+        kasteyano: vistas
+        turko:
         - manzara
         - görüş
 

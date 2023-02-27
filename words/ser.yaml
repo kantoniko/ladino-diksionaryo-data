@@ -5,247 +5,247 @@ versions:
   - ladino: ser
 
     translations:
-        english: to be
-        french: être
-        portuguese: ser
-        spanish: ser
-        turkish: olmak
+        inglez: to be
+        fransez: être
+        portugez: ser
+        kasteyano: ser
+        turko: olmak
 
 conjugations:
   prezente:
     yo:
       ladino: so
       translations:
-        english: I am
-        spanish: soy
+        inglez: I am
+        kasteyano: soy
 
     tu:
       ladino: sos
       translations:
-        english: you are
-        spanish: eres
+        inglez: you are
+        kasteyano: eres
 
     el:
       ladino: es
       translations:
-        english:
+        inglez:
           - he is
           - she is
           - it is
-        spanish: es
+        kasteyano: es
 
     mozotros:
       ladino: semos
       translations:
-        english: we are
-        spanish: somos
+        inglez: we are
+        kasteyano: somos
 
     vozotros:
       ladino: sosh
       translations:
-        english: you are
-        spanish: sois
+        inglez: you are
+        kasteyano: sois
 
     eyos:
       ladino: son
       translations:
-        english: they are
-        spanish: son
+        inglez: they are
+        kasteyano: son
 
   pasado:
     yo:
       ladino: fui
       translations:
-        english: I was
-        spanish: soy
+        inglez: I was
+        kasteyano: soy
 
     tu:
       ladino: fuites
       translations:
-        english: you were
-        spanish: fuiste
+        inglez: you were
+        kasteyano: fuiste
 
     el:
       ladino: fue
       translations:
-        english:
+        inglez:
           - he was
           - she was
           - it was
-        spanish: fue
+        kasteyano: fue
 
     mozotros:
       ladino: fuimos
       translations:
-        english: we were
-        spanish: fuimos
+        inglez: we were
+        kasteyano: fuimos
 
     vozotros:
       ladino: fuitesh
       translations:
-        english: you were
-        spanish: fuisteis
+        inglez: you were
+        kasteyano: fuisteis
 
     eyos:
       ladino: fueron
       translations:
-        english: they were
-        spanish: fueron
+        inglez: they were
+        kasteyano: fueron
 
   imperfekto:
     yo:
       ladino: era
       translations:
-        english: I was
-        spanish: era
+        inglez: I was
+        kasteyano: era
 
     tu:
       ladino: eras
       translations:
-        english: you were
-        spanish: eras
+        inglez: you were
+        kasteyano: eras
 
     el:
       ladino: era
       translations:
-        english:
+        inglez:
           - he was
           - she was
           - it was
-        spanish: era
+        kasteyano: era
 
     mozotros:
       ladino: éramos
       translations:
-        english: we were
-        spanish: éramos
+        inglez: we were
+        kasteyano: éramos
 
     vozotros:
       ladino: erash
       translations:
-        english: you were
-        spanish: erais
+        inglez: you were
+        kasteyano: erais
 
     eyos:
       ladino: eran
       translations:
-        english: they were
-        spanish: eran
+        inglez: they were
+        kasteyano: eran
 
   futuro:
     yo:
       ladino: seré
       translations:
-        english: I will
-        spanish: era
+        inglez: I will
+        kasteyano: era
 
     tu:
       ladino: serás
       translations:
-        english: you will
-        spanish: eras
+        inglez: you will
+        kasteyano: eras
 
     el:
       ladino: será
       translations:
-        english:
+        inglez:
           - he will
           - she will
           - it will
-        spanish: era
+        kasteyano: era
 
     mozotros:
       ladino: seremos
       translations:
-        english: we will
-        spanish: éramos
+        inglez: we will
+        kasteyano: éramos
 
     vozotros:
       ladino: serésh
       translations:
-        english: you will
-        spanish: erais
+        inglez: you will
+        kasteyano: erais
 
     eyos:
       ladino: serán
       translations:
-        english: they will
-        spanish: eran
+        inglez: they will
+        kasteyano: eran
 
   subjunktivo:
     yo:
       ladino: sea
       translations:
-        english: ''
-        spanish: sea
+        inglez: ''
+        kasteyano: sea
 
     tu:
       ladino: seas
       translations:
-        english: ''
-        spanish: seas
+        inglez: ''
+        kasteyano: seas
 
     el:
       ladino: sea
       translations:
-        english: ''
-        spanish: sea
+        inglez: ''
+        kasteyano: sea
 
     mozotros:
       ladino: seamos
       translations:
-        english: ''
-        spanish: seamos
+        inglez: ''
+        kasteyano: seamos
 
     vozotros:
       ladino: seásh
       translations:
-        english: ''
-        spanish: seáis
+        inglez: ''
+        kasteyano: seáis
 
     eyos:
       ladino: sean
       translations:
-        english: ''
-        spanish: sean
+        inglez: ''
+        kasteyano: sean
 
   subjunktivo imperfekto:
 
     yo:
       ladino: fuera
       translations:
-        english: ''
-        spanish: fuera
+        inglez: ''
+        kasteyano: fuera
 
     tu:
       ladino: fueras
       translations:
-        english: ''
-        spanish: fueras
+        inglez: ''
+        kasteyano: fueras
 
     el:
       ladino: fuera
       translations:
-        english: ''
-        spanish: fuera
+        inglez: ''
+        kasteyano: fuera
 
     mozotros:
       ladino: fuéramos
       translations:
-        english: ''
-        spanish: fuéramos
+        inglez: ''
+        kasteyano: fuéramos
 
     vozotros:
       ladino: fuerash
       translations:
-        english: ''
-        spanish: fuerais
+        inglez: ''
+        kasteyano: fuerais
 
     eyos:
       ladino: fueran
       translations:
-        english: ''
-        spanish: fueran
+        inglez: ''
+        kasteyano: fueran
 
 
 

@@ -10,11 +10,11 @@ versions:
         accented: ulvidár
 
     translations:
-        english: forget
-        french: oublier
-        portuguese: esqueser
-        spanish: olvidar
-        turkish: unutmak
+        inglez: forget
+        fransez: oublier
+        portugez: esqueser
+        kasteyano: olvidar
+        turko: unutmak
 
 conjugations: {}
 

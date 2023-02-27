@@ -5,11 +5,11 @@ versions:
   - ladino: mirar
 
     translations:
-        english: look
-        french: ''
-        portuguese: ''
-        spanish: mirar
-        turkish: bakmak
+        inglez: look
+        fransez: ''
+        portugez: ''
+        kasteyano: mirar
+        turko: bakmak
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: humiliation
-        french: humiliation
-        portuguese: ''
-        spanish: humillación
-        turkish: aşağılanma
+        inglez: humiliation
+        fransez: humiliation
+        portugez: ''
+        kasteyano: humillación
+        turko: aşağılanma
 
   - ladino: umiliasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: humiliations
-        french: humiliations
-        portuguese: ''
-        spanish: humillaciónes
-        turkish: aşağılanma
+        inglez: humiliations
+        fransez: humiliations
+        portugez: ''
+        kasteyano: humillaciónes
+        turko: aşağılanma
 
 
 

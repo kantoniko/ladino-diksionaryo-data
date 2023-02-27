@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: nervous
-        french: ''
-        portuguese: ''
-        spanish: nervioso
-        turkish: sinirli
+        inglez: nervous
+        fransez: ''
+        portugez: ''
+        kasteyano: nervioso
+        turko: sinirli
 
   - ladino: inyervoza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: nervous
-        french: ''
-        portuguese: ''
-        spanish: nerviosa
-        turkish: sinirli
+        inglez: nervous
+        fransez: ''
+        portugez: ''
+        kasteyano: nerviosa
+        turko: sinirli
 
   - ladino: inyervozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: nervous
-        french: ''
-        portuguese: ''
-        spanish: nerviosos
-        turkish: sinirliler
+        inglez: nervous
+        fransez: ''
+        portugez: ''
+        kasteyano: nerviosos
+        turko: sinirliler
 
   - ladino: inyervozas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: nervous
-        french: ''
-        portuguese: ''
-        spanish: nerviosas
-        turkish: sinirliler
+        inglez: nervous
+        fransez: ''
+        portugez: ''
+        kasteyano: nerviosas
+        turko: sinirliler
 
 

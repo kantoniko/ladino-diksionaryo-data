@@ -5,55 +5,55 @@ versions:
   - ladino: pensar
 
     translations:
-        english: think
-        french: ''
-        portuguese: ''
-        spanish: pensar
-        turkish: düşünmek
+        inglez: think
+        fransez: ''
+        portugez: ''
+        kasteyano: pensar
+        turko: düşünmek
 
 conjugations:
   prezente:
     yo:
       ladino: penso
       translations:
-        english: think
-        spanish: pienso
+        inglez: think
+        kasteyano: pienso
 
     tu:
       ladino: pensas
       translations:
-        english: think
-        spanish: piensas
+        inglez: think
+        kasteyano: piensas
 
     el:
       ladino: pensa
       translations:
-        english: thinks
-        spanish: piensa
+        inglez: thinks
+        kasteyano: piensa
 
     mozotros:
       ladino: pensamos
       translations:
-        english: think
-        spanish: pensamos
+        inglez: think
+        kasteyano: pensamos
 
     vozotros:
       ladino: pensash
       translations:
-        english: think
-        spanish: pensáis
+        inglez: think
+        kasteyano: pensáis
 
     eyos:
       ladino: pensan
       translations:
-        english: think
-        spanish: piensan
+        inglez: think
+        kasteyano: piensan
 
   pasado:
     yo:
       ladino: pensi
       translations:
-        english: thought
-        spanish: pensé
+        inglez: thought
+        kasteyano: pensé
 
 

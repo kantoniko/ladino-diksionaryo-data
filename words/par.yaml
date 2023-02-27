@@ -5,12 +5,12 @@ versions:
   - ladino: par
 
     translations:
-        english:
+        inglez:
         - pair
         - couple
-        french: ''
-        portuguese: ''
-        spanish: par
-        turkish: çift
+        fransez: ''
+        portugez: ''
+        kasteyano: par
+        turko: çift
 
 

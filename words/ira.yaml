@@ -13,17 +13,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - great anger
         - fury
-        french:
+        fransez:
         - grande colère
         - fureur
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - cólera
         - furor
-        turkish:
+        turko:
         - öfke
         - hiddet
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: candle
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: candela
-      turkish: ''
+      inglez: candle
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: candela
+      turko: ''
 
   - ladino: kandelas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: candles
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: candelas
-      turkish: ''
+      inglez: candles
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: candelas
+      turko: ''
 
 
 

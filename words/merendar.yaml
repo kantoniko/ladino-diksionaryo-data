@@ -7,13 +7,13 @@ versions:
     alternative-spelling:
       - ladino: piknikar
     translations:
-        english:
+        inglez:
         - lunch
         - picnic
-        french: ''
-        portuguese: ''
-        spanish: merendar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: merendar
+        turko:
           - öğle
           - piknik yemeği yemek
 

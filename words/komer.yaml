@@ -6,11 +6,11 @@ versions:
     accented: komér
 
     translations:
-      english: eat
-      french: manger
-      portuguese: ''
-      spanish: comer
-      turkish: yemek yemek
+      inglez: eat
+      fransez: manger
+      portugez: ''
+      kasteyano: comer
+      turko: yemek yemek
 
     alternative-spelling:
       - ladino: kumer
@@ -21,33 +21,33 @@ conjugations:
     yo:
       ladino: komo
       translations:
-        spanish: como
-        english: eat
+        kasteyano: como
+        inglez: eat
     tu:
       ladino: komes
       translations:
-        spanish: comes
-        english: eat
+        kasteyano: comes
+        inglez: eat
     el:
       ladino: kome
       translations:
-        spanish: come
-        english: eats
+        kasteyano: come
+        inglez: eats
     mozotros:
       ladino: komemos
       translations:
-        spanish: comemos
-        english: eat
+        kasteyano: comemos
+        inglez: eat
     vozotros:
       ladino: komesh
       translations:
-        spanish: comeis
-        english: eat
+        kasteyano: comeis
+        inglez: eat
     eyos:
       ladino: komen
       translations:
-        spanish: comen
-        english: eat
+        kasteyano: comen
+        inglez: eat
 
 
 

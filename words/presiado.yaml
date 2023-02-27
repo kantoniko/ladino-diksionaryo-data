@@ -8,15 +8,15 @@ versions:
       - ladino: presyado
 
     translations:
-        english:
+        inglez:
         - precious
         - beloved
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - precioso
         - querido
-        turkish:
+        turko:
         - değerli
         - kıymetli
         - sevgili

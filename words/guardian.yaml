@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - guard
         - watchman
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - שומר
         - נוטר
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

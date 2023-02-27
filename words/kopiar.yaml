@@ -5,12 +5,12 @@ versions:
   - ladino: kopiar
 
     translations:
-      english: copy
-      french: ''
-      hebrew: להעתיק
-      portuguese: ''
-      spanish: copiar
-      turkish: ''
+      inglez: copy
+      fransez: ''
+      ebreo: להעתיק
+      portugez: ''
+      kasteyano: copiar
+      turko: ''
 
 conjugations: {}
 

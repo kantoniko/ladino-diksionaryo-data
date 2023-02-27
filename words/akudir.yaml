@@ -6,12 +6,12 @@ versions:
     accented: akudír
 
     translations:
-        english:
+        inglez:
           - rush up
           - hurry to help
-        french: accourir au secours
-        portuguese: ''
-        spanish: acudir
-        turkish: yardıma koşmak
+        fransez: accourir au secours
+        portugez: ''
+        kasteyano: acudir
+        turko: yardıma koşmak
 
 conjugations: {}

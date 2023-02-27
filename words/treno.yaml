@@ -14,11 +14,11 @@ versions:
     number: singular
 
     translations:
-        english: train
-        french: ''
-        portuguese: ''
-        spanish: tren
-        turkish: tren
+        inglez: train
+        fransez: ''
+        portugez: ''
+        kasteyano: tren
+        turko: tren
 
   - ladino: trenos
     accented: trénos
@@ -30,9 +30,9 @@ versions:
     number: plural
 
     translations:
-        english: trains
-        french: ''
-        portuguese: ''
-        spanish: trenes
-        turkish: tren
+        inglez: trains
+        fransez: ''
+        portugez: ''
+        kasteyano: trenes
+        turko: tren
 

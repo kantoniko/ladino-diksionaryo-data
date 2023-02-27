@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english: top (toy)
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: top (toy)
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - peón
           - peonza
           - trompo
-        turkish: topaç
+        turko: topaç
 
 

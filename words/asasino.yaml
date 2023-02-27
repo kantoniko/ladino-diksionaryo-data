@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - assassin
         - murderer
-      french: ''
-      hebrew: רוצח
-      portuguese: ''
-      spanish: asesino
-      turkish: ''
+      fransez: ''
+      ebreo: רוצח
+      portugez: ''
+      kasteyano: asesino
+      turko: ''
 
   - ladino: asasina
 
@@ -23,14 +23,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - assassin
         - murderer
-      french: ''
-      hebrew: רוצחת
-      portuguese: ''
-      spanish: asesina
-      turkish: ''
+      fransez: ''
+      ebreo: רוצחת
+      portugez: ''
+      kasteyano: asesina
+      turko: ''
 
   - ladino: asasinos
 
@@ -38,14 +38,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - assassins
         - murderers
-      french: ''
-      hebrew: רוצחים
-      portuguese: ''
-      spanish: asesinos
-      turkish: ''
+      fransez: ''
+      ebreo: רוצחים
+      portugez: ''
+      kasteyano: asesinos
+      turko: ''
 
   - ladino: asasinas
 
@@ -53,14 +53,14 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - assassins
         - murderers
-      french: ''
-      hebrew: רוצחות
-      portuguese: ''
-      spanish: asesinas
-      turkish: ''
+      fransez: ''
+      ebreo: רוצחות
+      portugez: ''
+      kasteyano: asesinas
+      turko: ''
 
 
 

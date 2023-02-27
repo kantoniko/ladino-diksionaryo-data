@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: introduction
-        french: ''
-        portuguese: ''
-        spanish: introducción
-        turkish:
+        inglez: introduction
+        fransez: ''
+        portugez: ''
+        kasteyano: introducción
+        turko:
         - sunuş
         - takdim
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: introductions
-        french: ''
-        portuguese: ''
-        spanish: introducciónes
-        turkish:
+        inglez: introductions
+        fransez: ''
+        portugez: ''
+        kasteyano: introducciónes
+        turko:
         - sunuş
         - takdim
 

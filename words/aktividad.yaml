@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: activity
-        french: ''
-        portuguese: ''
-        spanish: actividad
-        turkish:
+        inglez: activity
+        fransez: ''
+        portugez: ''
+        kasteyano: actividad
+        turko:
           - faaliyet
           - etkinlik
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: activities
-        french: ''
-        portuguese: ''
-        spanish: actividades
-        turkish:
+        inglez: activities
+        fransez: ''
+        portugez: ''
+        kasteyano: actividades
+        turko:
           - faaliyet
           - etkinlik
 

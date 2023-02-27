@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: motor
-        french: ''
-        portuguese: ''
-        spanish: motor
-        turkish: motor
+        inglez: motor
+        fransez: ''
+        portugez: ''
+        kasteyano: motor
+        turko: motor
 
   - ladino: motores
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: motor
-        french: ''
-        portuguese: ''
-        spanish: motor
-        turkish: motorlar
+        inglez: motor
+        fransez: ''
+        portugez: ''
+        kasteyano: motor
+        turko: motorlar
 
 
 

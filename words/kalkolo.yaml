@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: calculation
-        french: ''
-        portuguese: ''
-        spanish: cálculo
-        turkish: hesap
+        inglez: calculation
+        fransez: ''
+        portugez: ''
+        kasteyano: cálculo
+        turko: hesap
 
   - ladino: kalkolos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: calculations
-        french: ''
-        portuguese: ''
-        spanish: cálculos
-        turkish: hesap
+        inglez: calculations
+        fransez: ''
+        portugez: ''
+        kasteyano: cálculos
+        turko: hesap
 
 
 

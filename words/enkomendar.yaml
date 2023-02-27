@@ -5,15 +5,15 @@ versions:
   - ladino: enkomendar
 
     translations:
-        english:
+        inglez:
         - recommend
         - place an order
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - recomendar
         - encargar
-        turkish:
+        turko:
         - tembih etmek
         - sipariş etmek
 

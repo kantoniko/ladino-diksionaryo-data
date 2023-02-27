@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: newspaper
-        french: journal
-        portuguese: jornal
-        spanish: periódico
-        turkish: gazete
+        inglez: newspaper
+        fransez: journal
+        portugez: jornal
+        kasteyano: periódico
+        turko: gazete
 
   - ladino: gazetas
     accented: gazétas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: newspapers
-        french: journal
-        portuguese: jornal
-        spanish: periódicos
-        turkish: gazete
+        inglez: newspapers
+        fransez: journal
+        portugez: jornal
+        kasteyano: periódicos
+        turko: gazete
 

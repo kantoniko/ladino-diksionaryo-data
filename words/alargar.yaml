@@ -6,46 +6,46 @@ versions:
     accented: alargár
 
     translations:
-        english:
+        inglez:
           - lengthen
           - prolong
           - extend
-        french: ''
-        portuguese: ''
-        spanish: alargar
-        turkish: uzatmak
+        fransez: ''
+        portugez: ''
+        kasteyano: alargar
+        turko: uzatmak
 
 conjugations:
   prezente:
     yo:
       ladino: alargo
       translations:
-        spanish: alargo
-        english: lengthen
+        kasteyano: alargo
+        inglez: lengthen
     tu:
       ladino: alargas
       translations:
-        spanish: alargas
-        english: lengthen
+        kasteyano: alargas
+        inglez: lengthen
     el:
       ladino: alarga
       translations:
-        spanish: alarga
-        english: lengthens
+        kasteyano: alarga
+        inglez: lengthens
     mozotros:
       ladino: alargamos
       translations:
-        spanish: alargamos
-        english: lengthen
+        kasteyano: alargamos
+        inglez: lengthen
     vozotros:
       ladino: alargash
       translations:
-        spanish: alagrais
-        english: lengthen
+        kasteyano: alagrais
+        inglez: lengthen
     eyos:
       ladino: alargan
       translations:
-        spanish: alargan
-        english: lengthen
+        kasteyano: alargan
+        inglez: lengthen
 
 

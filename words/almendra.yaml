@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english: almond
-        french: amande
-        hebrew: שקד
-        portuguese: amêndoa
-        spanish: almendra
-        turkish: badem
+        inglez: almond
+        fransez: amande
+        ebreo: שקד
+        portugez: amêndoa
+        kasteyano: almendra
+        turko: badem
 
   - ladino: almendras
     accented: alméndras
@@ -25,10 +25,10 @@ versions:
     number: plural
 
     translations:
-        english: almonds
-        french: amande
-        hebrew: שקדים
-        portuguese: amêndoas
-        spanish: almendras
-        turkish: badem
+        inglez: almonds
+        fransez: amande
+        ebreo: שקדים
+        portugez: amêndoas
+        kasteyano: almendras
+        turko: badem
 

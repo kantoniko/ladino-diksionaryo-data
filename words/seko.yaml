@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: dry
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: seco
-      turkish: ''
+      inglez: dry
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: seco
+      turko: ''
 
   - ladino: seka
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: dry
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: seca
-      turkish: ''
+      inglez: dry
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: seca
+      turko: ''
 
   - ladino: seka
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: dry
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: secos
-      turkish: ''
+      inglez: dry
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: secos
+      turko: ''
 
   - ladino: sekas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: dry
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: secas
-      turkish: ''
+      inglez: dry
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: secas
+      turko: ''
 
 
 

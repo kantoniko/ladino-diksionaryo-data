@@ -9,18 +9,18 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - cold
         - flu
-        french: rhume
-        portuguese:
+        fransez: rhume
+        portugez:
           - constipacão
           - resfriado
-        spanish:
+        kasteyano:
         - resfriado
         - influenza
         - gripe
-        turkish:
+        turko:
         - nezle
         - grip
 

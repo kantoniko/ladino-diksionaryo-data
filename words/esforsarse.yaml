@@ -5,13 +5,13 @@ versions:
   - ladino: esforsarse
 
     translations:
-        english:
+        inglez:
         - strain
         - exert oneself
-        french: ''
-        portuguese: ''
-        spanish: esforzarse
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: esforzarse
+        turko:
         - çabalamak
         - gayret etmek
 

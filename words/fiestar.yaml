@@ -5,11 +5,11 @@ versions:
   - ladino: fiestar
 
     translations:
-        english: feast
-        french: ''
-        portuguese: ''
-        spanish: hacer fiesta
-        turkish: kutlamak
+        inglez: feast
+        fransez: ''
+        portugez: ''
+        kasteyano: hacer fiesta
+        turko: kutlamak
 
 conjugations: {}
 

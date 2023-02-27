@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: shoe
-        french: ''
-        portuguese: ''
-        spanish: zapato
-        turkish: ayakkabı
+        inglez: shoe
+        fransez: ''
+        portugez: ''
+        kasteyano: zapato
+        turko: ayakkabı
 
   - ladino: chapines
     accented: chapínes
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: shoes
-        french: ''
-        portuguese: ''
-        spanish: zapatos
-        turkish: ayakkabı
+        inglez: shoes
+        fransez: ''
+        portugez: ''
+        kasteyano: zapatos
+        turko: ayakkabı
 
 

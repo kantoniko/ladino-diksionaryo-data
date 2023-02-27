@@ -5,11 +5,11 @@ versions:
   - ladino: ekonomizar
 
     translations:
-        english: save
-        french: ''
-        portuguese: ''
-        spanish: ahorrar
-        turkish: tasarruf etmek
+        inglez: save
+        fransez: ''
+        portugez: ''
+        kasteyano: ahorrar
+        turko: tasarruf etmek
 
 conjugations: {}
 

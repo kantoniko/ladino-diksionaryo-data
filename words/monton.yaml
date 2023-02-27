@@ -5,11 +5,11 @@ versions:
   - ladino: monton
 
     translations:
-        english: heap
-        french: ''
-        portuguese: ''
-        spanish: montón
-        turkish:
+        inglez: heap
+        fransez: ''
+        portugez: ''
+        kasteyano: montón
+        turko:
         - bir sürü
         - bır tepe
 

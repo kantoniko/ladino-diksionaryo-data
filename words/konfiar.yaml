@@ -5,11 +5,11 @@ versions:
   - ladino: konfiar
 
     translations:
-        english: entrust
-        french: ''
-        portuguese: ''
-        spanish: confiar
-        turkish:
+        inglez: entrust
+        fransez: ''
+        portugez: ''
+        kasteyano: confiar
+        turko:
         - emanet etmek
         - güvenmek
 

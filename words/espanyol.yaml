@@ -7,10 +7,10 @@ versions:
   - ladino: espanyol
 
     translations:
-        english: Spanish
-        french: ''
-        portuguese: ''
-        spanish: español
-        turkish: ispanyol
+        inglez: Spanish
+        fransez: ''
+        portugez: ''
+        kasteyano: español
+        turko: ispanyol
 
 

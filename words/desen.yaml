@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: design
-        french: dessin
-        portuguese: ''
-        spanish:
+        inglez: design
+        fransez: dessin
+        portugez: ''
+        kasteyano:
         - diseño
         - dibujo
-        turkish: desen
+        turko: desen
 

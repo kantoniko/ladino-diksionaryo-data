@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - document
         - certificate
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - documento
         - cédula
-        turkish:
+        turko:
         - belge
         - evrak
         - vesika

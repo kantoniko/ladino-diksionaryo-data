@@ -5,13 +5,13 @@ versions:
   - ladino: subsistir
 
     translations:
-        english:
+        inglez:
         - subsist
         - last
-        french: ''
-        portuguese: ''
-        spanish: subsistir
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: subsistir
+        turko:
         - dayanmak
         - sürmek
 

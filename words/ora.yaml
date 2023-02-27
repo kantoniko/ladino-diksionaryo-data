@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - time
           - watch
           - clock
           - hour
-        french:
+        fransez:
           - heure
           - montre
-        portuguese: hora
-        spanish: hora
-        turkish: saat
+        portugez: hora
+        kasteyano: hora
+        turko: saat
 
   - ladino: oras
     accented: óras
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - times
           - watches
           - clocks
           - hours
-        french: ''
-        portuguese: horas
-        spanish: horas
-        turkish: saat
+        fransez: ''
+        portugez: horas
+        kasteyano: horas
+        turko: saat
 
 
 

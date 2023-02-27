@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - oven pan
         - tray
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cazuela
         - bandeja
-        turkish: tepsi
+        turko: tepsi
 

@@ -8,18 +8,18 @@ versions:
     accented: afilú
 
     translations:
-        english:
+        inglez:
           - though
           - even
-        french:
+        fransez:
         - même
         - bien que
         - quoique
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - aunque
         - mismo
-        turkish:
+        turko:
         - bile
         - hatta
 

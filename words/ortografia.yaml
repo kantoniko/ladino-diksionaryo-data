@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: spelling
-        french: ''
-        portuguese: ''
-        spanish: ortografía
-        turkish:
+        inglez: spelling
+        fransez: ''
+        portugez: ''
+        kasteyano: ortografía
+        turko:
         - imlâ
         - yazım
 

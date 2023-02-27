@@ -5,14 +5,14 @@ versions:
   - ladino: kontente
 
     translations:
-        english:
+        inglez:
         - content
         - pleased
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - contento
           - contenta
-        turkish: memnun
+        turko: memnun
 
 

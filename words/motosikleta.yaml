@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: motorcycle
-        french: ''
-        portuguese: ''
-        spanish: motocicleta
-        turkish: motosiklet
+        inglez: motorcycle
+        fransez: ''
+        portugez: ''
+        kasteyano: motocicleta
+        turko: motosiklet
 
   - ladino: motosikletas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: motorcycles
-        french: ''
-        portuguese: ''
-        spanish: motocicletas
-        turkish: motorsikletler
+        inglez: motorcycles
+        fransez: ''
+        portugez: ''
+        kasteyano: motocicletas
+        turko: motorsikletler
 
 
 

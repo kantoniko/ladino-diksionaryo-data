@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - man
         - adult male
-        french:
+        fransez:
         - homme
         - homme adulte
-        portuguese: varão
-        spanish:
+        portugez: varão
+        kasteyano:
         - varón
         - hombre
-        turkish:
+        turko:
         - adam
         - erkek
 

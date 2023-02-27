@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - teapot
         - kettle
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: tetera
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: tetera
+      turko: ''
 
 

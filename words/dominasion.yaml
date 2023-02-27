@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - dominion
         - power
-        french: domination
-        portuguese: ''
-        spanish: dominio
-        turkish: hakimiyet
+        fransez: domination
+        portugez: ''
+        kasteyano: dominio
+        turko: hakimiyet
 

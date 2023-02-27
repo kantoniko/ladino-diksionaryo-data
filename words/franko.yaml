@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - frank
         - open
         - Frankish
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - franco
-        turkish:
+        turko:
         - samimi
         - frenk
 
@@ -28,15 +28,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - frank
         - open
         - Frankish
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - franca
-        turkish:
+        turko:
         - samimi
         - frenk
 

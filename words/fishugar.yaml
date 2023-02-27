@@ -5,11 +5,11 @@ versions:
   - ladino: fishugar
 
     translations:
-        english: molest
-        french: ''
-        portuguese: ''
-        spanish: molestar
-        turkish:
+        inglez: molest
+        fransez: ''
+        portugez: ''
+        kasteyano: molestar
+        turko:
         - rahatsız etmek
         - taciz etmek
 

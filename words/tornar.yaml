@@ -5,22 +5,22 @@ versions:
   - ladino: tornar
 
     translations:
-        english:
+        inglez:
           - turn
           - return
-        french: ''
-        portuguese: ''
-        spanish: tornar
-        turkish: dönmek
+        fransez: ''
+        portugez: ''
+        kasteyano: tornar
+        turko: dönmek
 
   - ladino: torni
 
     translations:
-        english: I returned
-        french: ''
-        portuguese: ''
-        spanish: torni
-        turkish: ''
+        inglez: I returned
+        fransez: ''
+        portugez: ''
+        kasteyano: torni
+        turko: ''
 
 
 conjugations: {}

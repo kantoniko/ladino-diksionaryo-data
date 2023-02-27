@@ -5,11 +5,11 @@ versions:
   - ladino: redaktar
 
     translations:
-        english: write
-        french: ''
-        portuguese: ''
-        spanish: redactar
-        turkish: kaleme almak
+        inglez: write
+        fransez: ''
+        portugez: ''
+        kasteyano: redactar
+        turko: kaleme almak
 
 conjugations: {}
 

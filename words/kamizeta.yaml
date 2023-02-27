@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: t-shirt
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: camiseta
-      turkish: ''
+      inglez: t-shirt
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: camiseta
+      turko: ''
 
   - ladino: kamizetas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: t-shirts
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: camisetas
-      turkish: ''
+      inglez: t-shirts
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: camisetas
+      turko: ''
 
 
 

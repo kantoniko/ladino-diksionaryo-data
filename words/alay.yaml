@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english: multitude
-        french: multitude
-        portuguese:
+        inglez: multitude
+        fransez: multitude
+        portugez:
         - muito
         - muita coisa
-        spanish: multitud
-        turkish:
+        kasteyano: multitud
+        turko:
         - çokluk
         - bir alay
 

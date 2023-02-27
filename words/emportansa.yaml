@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: importance
-        french: ''
-        portuguese: ''
-        spanish: importancia
-        turkish:
+        inglez: importance
+        fransez: ''
+        portugez: ''
+        kasteyano: importancia
+        turko:
         - önem
         - ehemmiyet
 

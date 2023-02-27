@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: theatre
-        french: théâtre
-        portuguese: ''
-        spanish: teatro
-        turkish: tiyatro
+        inglez: theatre
+        fransez: théâtre
+        portugez: ''
+        kasteyano: teatro
+        turko: tiyatro
 
   - ladino: teatros
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: theaters
-        french: théâtres
-        portuguese: ''
-        spanish: teatros
-        turkish: tiyatro
+        inglez: theaters
+        fransez: théâtres
+        portugez: ''
+        kasteyano: teatros
+        turko: tiyatro
 
 

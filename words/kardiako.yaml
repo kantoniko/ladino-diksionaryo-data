@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cardiac
-        french: ''
-        portuguese: ''
-        spanish: cardiaco
-        turkish: kalple ilgili
+        inglez: cardiac
+        fransez: ''
+        portugez: ''
+        kasteyano: cardiaco
+        turko: kalple ilgili
 
   - ladino: kardiaka
 
@@ -20,10 +20,10 @@ versions:
     number: singular
 
     translations:
-        english: cardiac
-        french: ''
-        portuguese: ''
-        spanish: cardiaca
-        turkish: kalple ilgili
+        inglez: cardiac
+        fransez: ''
+        portugez: ''
+        kasteyano: cardiaca
+        turko: kalple ilgili
 
 

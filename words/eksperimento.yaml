@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: experiment
-      french: ''
-      hebrew: ניסוי
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: experiment
+      fransez: ''
+      ebreo: ניסוי
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: eksperimentos
 
@@ -21,10 +21,10 @@ versions:
     number: plural
 
     translations:
-      english: experiments
-      french: ''
-      hebrew: ניסויים
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: experiments
+      fransez: ''
+      ebreo: ניסויים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

@@ -6,30 +6,30 @@ versions:
     accented: uzár
 
     translations:
-        english: to use
-        french: ''
-        portuguese: user
-        spanish: usar
-        turkish: kullanmak
+        inglez: to use
+        fransez: ''
+        portugez: user
+        kasteyano: usar
+        turko: kullanmak
 
   - ladino: uzarlo
     accented: uzárlo
 
     translations:
-        english: to use it
-        french: user de
-        portuguese: ''
-        spanish: usarlo
-        turkish: kullanmak
+        inglez: to use it
+        fransez: user de
+        portugez: ''
+        kasteyano: usarlo
+        turko: kullanmak
 
   - ladino: uzando
 
     translations:
-        english: being used
-        french: ''
-        portuguese: ''
-        spanish: usando
-        turkish: ''
+        inglez: being used
+        fransez: ''
+        portugez: ''
+        kasteyano: usando
+        turko: ''
 
 
 conjugations:
@@ -37,38 +37,38 @@ conjugations:
     yo:
       ladino: uzo
       translations:
-        english: use
-        spanish: uso
+        inglez: use
+        kasteyano: uso
 
     tu:
       ladino: uzas
       translations:
-        english: use
-        spanish: usas
+        inglez: use
+        kasteyano: usas
 
     el:
       ladino: uza
       translations:
-        english: uses
-        spanish: usa
+        inglez: uses
+        kasteyano: usa
 
     mozotros:
       ladino: uzamos
       translations:
-        english: use
-        spanish: usamos
+        inglez: use
+        kasteyano: usamos
 
     vozotros:
       ladino: uzash
       translations:
-        english: use
-        spanish: usáis
+        inglez: use
+        kasteyano: usáis
 
     eyos:
       ladino: uzan
       translations:
-        english: use
-        spanish: usan
+        inglez: use
+        kasteyano: usan
 
 
 

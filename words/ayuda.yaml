@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - help
         - assistance
         - aid
-        french: ''
-        portuguese: ''
-        spanish: ayuda
-        turkish: yardım
+        fransez: ''
+        portugez: ''
+        kasteyano: ayuda
+        turko: yardım
 
 
 # ayúda (f),Todo se va enderechar kon ayuda del Dio.,ayuda,"help, assistance, aid",yardım,Jeneral,2402,,

@@ -5,13 +5,13 @@ versions:
   - ladino: mantener
 
     translations:
-        english:
+        inglez:
         - maintain
         - sustain
-        french: ''
-        portuguese: ''
-        spanish: mantener
-        turkish: geçindirmek
+        fransez: ''
+        portugez: ''
+        kasteyano: mantener
+        turko: geçindirmek
 
 conjugations: {}
 

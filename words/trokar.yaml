@@ -5,11 +5,11 @@ versions:
   - ladino: trokar
 
     translations:
-        english: change
-        french: ''
-        portuguese: ''
-        spanish: cambiar
-        turkish: değiştirmek
+        inglez: change
+        fransez: ''
+        portugez: ''
+        kasteyano: cambiar
+        turko: değiştirmek
 
 conjugations: {}
 

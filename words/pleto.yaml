@@ -13,15 +13,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - quarrel
         - dispute
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - disputa
         - riña
-        turkish: kavga
+        turko: kavga
 
   - ladino: pletos
     accented: plétos
@@ -34,13 +34,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - quarrels
         - disputes
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - disputas
         - riñas
-        turkish: kavga
+        turko: kavga
 

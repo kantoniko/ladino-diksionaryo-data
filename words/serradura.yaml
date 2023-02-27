@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: lock
-        french: ''
-        portuguese: ''
-        spanish: cerradura
-        turkish: kilit
+        inglez: lock
+        fransez: ''
+        portugez: ''
+        kasteyano: cerradura
+        turko: kilit
 
   - ladino: serraduras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: locks
-        french: ''
-        portuguese: ''
-        spanish: cerraduras
-        turkish: kilit
+        inglez: locks
+        fransez: ''
+        portugez: ''
+        kasteyano: cerraduras
+        turko: kilit
 
 
 

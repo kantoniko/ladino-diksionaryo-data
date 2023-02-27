@@ -5,11 +5,11 @@ versions:
   - ladino: kontentarse
 
     translations:
-        english: manage
-        french: ''
-        portuguese: ''
-        spanish: arreglarse
-        turkish: idare etmek
+        inglez: manage
+        fransez: ''
+        portugez: ''
+        kasteyano: arreglarse
+        turko: idare etmek
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fresh
-        french: ''
-        portuguese: ''
-        spanish: fresco
-        turkish:
+        inglez: fresh
+        fransez: ''
+        portugez: ''
+        kasteyano: fresco
+        turko:
         - serin
         - taze
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: fresh
-        french: ''
-        portuguese: ''
-        spanish: fresca
-        turkish:
+        inglez: fresh
+        fransez: ''
+        portugez: ''
+        kasteyano: fresca
+        turko:
         - serin
         - taze
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: fresh
-        french: ''
-        portuguese: ''
-        spanish: frescos
-        turkish:
+        inglez: fresh
+        fransez: ''
+        portugez: ''
+        kasteyano: frescos
+        turko:
         - serin
         - taze
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: fresh
-        french: ''
-        portuguese: ''
-        spanish: frescas
-        turkish:
+        inglez: fresh
+        fransez: ''
+        portugez: ''
+        kasteyano: frescas
+        turko:
         - serin
         - taze
 

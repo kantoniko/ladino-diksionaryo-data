@@ -5,13 +5,13 @@ versions:
   - ladino: asender
 
     translations:
-        english:
+        inglez:
         - light
         - ignite
-        french: ''
-        portuguese: ''
-        spanish: encender
-        turkish: yakmak
+        fransez: ''
+        portugez: ''
+        kasteyano: encender
+        turko: yakmak
 
 conjugations: {}
 

@@ -12,15 +12,15 @@ versions:
         accented: zarzavát
 
     translations:
-        english: vegetables
-        french: légume
-        portuguese:
+        inglez: vegetables
+        fransez: légume
+        portugez:
           - verdura
           - vegetais
-        spanish:
+        kasteyano:
           - verdura
           - legumbre
-        turkish:
+        turko:
           - sebze
           - zerzevat
 

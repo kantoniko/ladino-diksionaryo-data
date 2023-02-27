@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: inheritance
-        french: ''
-        portuguese: ''
-        spanish: herencia
-        turkish:
+        inglez: inheritance
+        fransez: ''
+        portugez: ''
+        kasteyano: herencia
+        turko:
         - miras
         - veraset
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: inheritances
-        french: ''
-        portuguese: ''
-        spanish: herencias
-        turkish:
+        inglez: inheritances
+        fransez: ''
+        portugez: ''
+        kasteyano: herencias
+        turko:
         - miras
         - veraset
 

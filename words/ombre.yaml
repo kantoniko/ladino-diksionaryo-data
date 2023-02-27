@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: man
-        french: ''
-        portuguese: ''
-        spanish: hombre
-        turkish:
+        inglez: man
+        fransez: ''
+        portugez: ''
+        kasteyano: hombre
+        turko:
         - adam
         - erkek
 
@@ -22,11 +22,11 @@ versions:
     number: plurel
 
     translations:
-        english: men
-        french: ''
-        portuguese: ''
-        spanish: hombres
-        turkish:
+        inglez: men
+        fransez: ''
+        portugez: ''
+        kasteyano: hombres
+        turko:
         - adam
         - erkek
 

@@ -11,11 +11,11 @@ versions:
       - ladino: bogcha
         accented: bogchá
     translations:
-        english: bundle
-        french: balluchon
-        portuguese: trouxa
-        spanish: lío
-        turkish: bohça
+        inglez: bundle
+        fransez: balluchon
+        portugez: trouxa
+        kasteyano: lío
+        turko: bohça
 
   - ladino: bogos
     accented: bógos
@@ -26,9 +26,9 @@ versions:
       - ladino: bogchas
         accented: bogchás
     translations:
-        english: bundles
-        french: balluchon
-        portuguese: trouxas
-        spanish: líos
-        turkish: bohça
+        inglez: bundles
+        fransez: balluchon
+        portugez: trouxas
+        kasteyano: líos
+        turko: bohça
 

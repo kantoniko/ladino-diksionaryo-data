@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: opportunity
-        french: ''
-        portuguese: ''
-        spanish: oportunidad
-        turkish: olanak
+        inglez: opportunity
+        fransez: ''
+        portugez: ''
+        kasteyano: oportunidad
+        turko: olanak
 
   - ladino: oportunidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: opportunities
-        french: ''
-        portuguese: ''
-        spanish: oportunidades
-        turkish: fırsatlar
+        inglez: opportunities
+        fransez: ''
+        portugez: ''
+        kasteyano: oportunidades
+        turko: fırsatlar
 
 
 

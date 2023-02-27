@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: trouser
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pantalon
-      turkish: ''
+      inglez: trouser
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pantalon
+      turko: ''
 
   - ladino: pantalones
 
@@ -23,13 +23,13 @@ versions:
     number: plural
 
     translations:
-      english:
+      inglez:
         - trousers
         - pants
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pantalones
-      turkish: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pantalones
+      turko: ''
 
 

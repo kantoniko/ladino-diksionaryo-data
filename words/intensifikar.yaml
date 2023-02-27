@@ -5,11 +5,11 @@ versions:
   - ladino: intensifikar
 
     translations:
-        english: intensify
-        french: ''
-        portuguese: ''
-        spanish: intensificar
-        turkish: yoğunlaştırmak
+        inglez: intensify
+        fransez: ''
+        portugez: ''
+        kasteyano: intensificar
+        turko: yoğunlaştırmak
 
 conjugations: {}
 

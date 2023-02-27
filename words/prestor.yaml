@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - speed
         - velocity
-        french: ''
-        portuguese: ''
-        spanish: velocidad
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: velocidad
+        turko:
         - hız
         - çabukluk
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: annoying
-        french: ''
-        portuguese: ''
-        spanish: fastidioso
-        turkish: usandırıcı
+        inglez: annoying
+        fransez: ''
+        portugez: ''
+        kasteyano: fastidioso
+        turko: usandırıcı
 
   - ladino: fastidioza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: annoying
-        french: ''
-        portuguese: ''
-        spanish: fastidiosa
-        turkish: usandırıcı
+        inglez: annoying
+        fransez: ''
+        portugez: ''
+        kasteyano: fastidiosa
+        turko: usandırıcı
 
 
   - ladino: fastidiozas
@@ -33,10 +33,10 @@ versions:
     number: plural
 
     translations:
-        english: annoying
-        french: ''
-        portuguese: ''
-        spanish: fastidiosas
-        turkish: yorucu
+        inglez: annoying
+        fransez: ''
+        portugez: ''
+        kasteyano: fastidiosas
+        turko: yorucu
 
 

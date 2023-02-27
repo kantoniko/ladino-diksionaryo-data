@@ -5,11 +5,11 @@ versions:
   - ladino: de
 
     translations:
-        english:
+        inglez:
           - of
           - from
-        french: ''
-        portuguese: ''
-        spanish: de
-        turkish: den
+        fransez: ''
+        portugez: ''
+        kasteyano: de
+        turko: den
 

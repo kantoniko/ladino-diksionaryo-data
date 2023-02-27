@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: heavy
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pesado
-      turkish: ''
+      inglez: heavy
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pesado
+      turko: ''
 
   - ladino: pezgada
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: heavy
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pesada
-      turkish: ''
+      inglez: heavy
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pesada
+      turko: ''
 
   - ladino: pezgados
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: heavy
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pesados
-      turkish: ''
+      inglez: heavy
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pesados
+      turko: ''
 
   - ladino: pezgadas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: heavy
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pesadas
-      turkish: ''
+      inglez: heavy
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pesadas
+      turko: ''
 
 

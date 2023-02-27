@@ -5,11 +5,11 @@ versions:
   - ladino: kozer
 
     translations:
-        english: cook
-        french: ''
-        portuguese: ''
-        spanish: cocinar
-        turkish: pişirmek
+        inglez: cook
+        fransez: ''
+        portugez: ''
+        kasteyano: cocinar
+        turko: pişirmek
 
 conjugations: {}
 

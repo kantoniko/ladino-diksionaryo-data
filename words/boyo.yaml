@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: savoury flaky pastry
-        french: ''
-        portuguese: ''
-        spanish: bollo
-        turkish: hamur işi
+        inglez: savoury flaky pastry
+        fransez: ''
+        portugez: ''
+        kasteyano: bollo
+        turko: hamur işi
 
   - ladino: boyos
     accented: bóyos
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: savoury flaky pastry
-        french: ''
-        portuguese: ''
-        spanish: bollos
-        turkish: hamur işi
+        inglez: savoury flaky pastry
+        fransez: ''
+        portugez: ''
+        kasteyano: bollos
+        turko: hamur işi
 
 
 

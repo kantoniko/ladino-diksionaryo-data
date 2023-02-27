@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: none
-        french: ''
-        portuguese: ''
-        spanish: ninguno
-        turkish: hiçbiri
+        inglez: none
+        fransez: ''
+        portugez: ''
+        kasteyano: ninguno
+        turko: hiçbiri
 
   - ladino: ninguna
     accented: ningúna
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: none
-        french: ''
-        portuguese: ''
-        spanish: ninguna
-        turkish: hiçbiri
+        inglez: none
+        fransez: ''
+        portugez: ''
+        kasteyano: ninguna
+        turko: hiçbiri
 
 
 

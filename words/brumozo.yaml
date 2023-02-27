@@ -5,13 +5,13 @@ versions:
   - ladino: brumozo
 
     translations:
-        english:
+        inglez:
         - misty
         - foggy
-        french: ''
-        portuguese: ''
-        spanish: nebuloso
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: nebuloso
+        turko:
         - sisli
         - puslu
 

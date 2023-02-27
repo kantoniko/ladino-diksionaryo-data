@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: actor
-        french: ''
-        portuguese: ''
-        spanish: actor
-        turkish: aktör
+        inglez: actor
+        fransez: ''
+        portugez: ''
+        kasteyano: actor
+        turko: aktör
 
   - ladino: aktores
     accented: aktóres
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: actors
-        french: ''
-        portuguese: ''
-        spanish: actores
-        turkish: aktör
+        inglez: actors
+        fransez: ''
+        portugez: ''
+        kasteyano: actores
+        turko: aktör
 
 
 

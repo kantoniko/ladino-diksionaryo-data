@@ -5,11 +5,11 @@ versions:
   - ladino: ofrir
 
     translations:
-        english: offer
-        french: ''
-        portuguese: ''
-        spanish: ofrecer
-        turkish: ikram etmek
+        inglez: offer
+        fransez: ''
+        portugez: ''
+        kasteyano: ofrecer
+        turko: ikram etmek
 
 conjugations: {}
 

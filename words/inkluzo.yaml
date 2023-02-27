@@ -5,12 +5,12 @@ versions:
   - ladino: inkluzo
 
     translations:
-        english: included
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: included
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - incluso
         - incluido
-        turkish: dahil
+        turko: dahil
 
 

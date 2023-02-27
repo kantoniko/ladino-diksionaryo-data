@@ -11,9 +11,9 @@ versions:
     number: plural
 
     translations:
-        english: parents
-        french: ''
-        portuguese: ''
-        spanish: padres
-        turkish: ebeveyn
+        inglez: parents
+        fransez: ''
+        portugez: ''
+        kasteyano: padres
+        turko: ebeveyn
 

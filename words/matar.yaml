@@ -5,11 +5,11 @@ versions:
   - ladino: matar
 
     translations:
-        english: kill
-        french: ''
-        portuguese: ''
-        spanish: matar
-        turkish: óldürmek
+        inglez: kill
+        fransez: ''
+        portugez: ''
+        kasteyano: matar
+        turko: óldürmek
 
 conjugations: {}
 

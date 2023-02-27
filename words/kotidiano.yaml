@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: daily
-        french: ''
-        portuguese: ''
-        spanish: cotidiano
-        turkish:
+        inglez: daily
+        fransez: ''
+        portugez: ''
+        kasteyano: cotidiano
+        turko:
         - gündelik
         - günlük
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: daily
-        french: ''
-        portuguese: ''
-        spanish: cotidiana
-        turkish:
+        inglez: daily
+        fransez: ''
+        portugez: ''
+        kasteyano: cotidiana
+        turko:
         - gündelik
         - günlük
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: daily
-        french: ''
-        portuguese: ''
-        spanish: cotidianos
-        turkish:
+        inglez: daily
+        fransez: ''
+        portugez: ''
+        kasteyano: cotidianos
+        turko:
         - gündelik
         - günlük
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: daily
-        french: ''
-        portuguese: ''
-        spanish: cotidianas
-        turkish:
+        inglez: daily
+        fransez: ''
+        portugez: ''
+        kasteyano: cotidianas
+        turko:
         - gündelik
         - günlük
 

@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: swedish
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sueco
-      turkish: ''
+      inglez: swedish
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sueco
+      turko: ''
 
   - ladino: suediana
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: swedish
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sueca
-      turkish: ''
+      inglez: swedish
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sueca
+      turko: ''
 
   - ladino: suedianos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: swedish
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: suecos
-      turkish: ''
+      inglez: swedish
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: suecos
+      turko: ''
 
   - ladino: suedianas
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: swedish
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: suecas
-      turkish: ''
+      inglez: swedish
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: suecas
+      turko: ''
 
 

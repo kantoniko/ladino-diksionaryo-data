@@ -5,11 +5,11 @@ versions:
   - ladino: apareser
 
     translations:
-        english: appear
-        french: ''
-        portuguese: ''
-        spanish: aparecer
-        turkish: belirmek
+        inglez: appear
+        fransez: ''
+        portugez: ''
+        kasteyano: aparecer
+        turko: belirmek
 
 conjugations: {}
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: hospitality
-        french: ''
-        portuguese: ''
-        spanish: hospitalidad
-        turkish: konukseverlik
+        inglez: hospitality
+        fransez: ''
+        portugez: ''
+        kasteyano: hospitalidad
+        turko: konukseverlik
 
   - ladino: ospitalidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: hospitality
-        french: ''
-        portuguese: ''
-        spanish: hospitalidades
-        turkish: konukseverlik
+        inglez: hospitality
+        fransez: ''
+        portugez: ''
+        kasteyano: hospitalidades
+        turko: konukseverlik
 
 
 

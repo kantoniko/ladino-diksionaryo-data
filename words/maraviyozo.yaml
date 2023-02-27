@@ -13,11 +13,11 @@ versions:
         accented: maraviozo
 
     translations:
-        english: marvelous
-        french: ''
-        portuguese: ''
-        spanish: maravilloso
-        turkish:
+        inglez: marvelous
+        fransez: ''
+        portugez: ''
+        kasteyano: maravilloso
+        turko:
           - harika
           - fevkalade
 
@@ -32,11 +32,11 @@ versions:
         accented: maravioza
 
     translations:
-        english: marvelous
-        french: ''
-        portuguese: ''
-        spanish: maravillosa
-        turkish:
+        inglez: marvelous
+        fransez: ''
+        portugez: ''
+        kasteyano: maravillosa
+        turko:
           - harika
           - fevkalade
 
@@ -51,11 +51,11 @@ versions:
         accented: maraviozos
 
     translations:
-        english: marvelous
-        french: ''
-        portuguese: ''
-        spanish: maravillosos
-        turkish:
+        inglez: marvelous
+        fransez: ''
+        portugez: ''
+        kasteyano: maravillosos
+        turko:
           - harika
           - fevkalade
 
@@ -70,11 +70,11 @@ versions:
         accented: maraviozas
 
     translations:
-        english: marvelous
-        french: ''
-        portuguese: ''
-        spanish: maravillosas
-        turkish:
+        inglez: marvelous
+        fransez: ''
+        portugez: ''
+        kasteyano: maravillosas
+        turko:
           - harika
           - fevkalade
 

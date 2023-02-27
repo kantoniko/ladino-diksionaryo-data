@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - account
           - bill
           - story
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuenta
           - cuento
-        turkish:
+        turko:
           - hesap
           - masal
 
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - accounts
           - bills
           - stories
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuentas
           - cuentos
-        turkish:
+        turko:
           - hesaplar
           - masallar 

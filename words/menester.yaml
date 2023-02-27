@@ -6,11 +6,11 @@ versions:
     accented: menestér
 
     translations:
-        english: necessary
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: necessary
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - menester
         - necesidad
-        turkish: lâzım
+        turko: lâzım
 

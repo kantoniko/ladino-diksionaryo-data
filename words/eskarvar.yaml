@@ -6,15 +6,15 @@ versions:
     accented: eskarvár
 
     translations:
-        english:
+        inglez:
           - dig
           - ransack
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cavar
           - buscar en cada rincón
-        turkish:
+        turko:
           - karıştırmak
           - aramak
 

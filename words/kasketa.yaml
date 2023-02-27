@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: baseball hat
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: gorra de béisbol
-      turkish: ''
+      inglez: baseball hat
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: gorra de béisbol
+      turko: ''
 
   - ladino: kasketas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: baseball hats
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: gorras de béisbol
-      turkish: ''
+      inglez: baseball hats
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: gorras de béisbol
+      turko: ''
 
 
 

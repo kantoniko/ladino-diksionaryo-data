@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: rope
-        french: ''
-        portuguese: ''
-        spanish: cuerda
-        turkish: ip
+        inglez: rope
+        fransez: ''
+        portugez: ''
+        kasteyano: cuerda
+        turko: ip
 
   - ladino: kuedras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: rope
-        french: ''
-        portuguese: ''
-        spanish: cuerdas
-        turkish: ip
+        inglez: rope
+        fransez: ''
+        portugez: ''
+        kasteyano: cuerdas
+        turko: ip
 
 
 

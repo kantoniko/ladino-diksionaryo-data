@@ -10,16 +10,16 @@ versions:
         accented: chafteár
 
     translations:
-        english:
+        inglez:
           - clash
           - knock
           - bump into
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - chocar
           - topar con
-        turkish:
+        turko:
           - çarpmak
           - çarpışmak
 

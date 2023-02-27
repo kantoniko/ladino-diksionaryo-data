@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: our
-        french: ''
-        portuguese: ''
-        spanish: nuestro
-        turkish: bizim
+        inglez: our
+        fransez: ''
+        portugez: ''
+        kasteyano: nuestro
+        turko: bizim
 
   - ladino: muestra
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: our
-        french: ''
-        portuguese: ''
-        spanish: nuestra
-        turkish: bizim
+        inglez: our
+        fransez: ''
+        portugez: ''
+        kasteyano: nuestra
+        turko: bizim
 
   - ladino: muestros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: our
-        french: ''
-        portuguese: ''
-        spanish: nuestros
-        turkish: bizim
+        inglez: our
+        fransez: ''
+        portugez: ''
+        kasteyano: nuestros
+        turko: bizim
 
   - ladino: muestras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: our
-        french: ''
-        portuguese: ''
-        spanish: nuestras
-        turkish: bizim
+        inglez: our
+        fransez: ''
+        portugez: ''
+        kasteyano: nuestras
+        turko: bizim
 
 
 

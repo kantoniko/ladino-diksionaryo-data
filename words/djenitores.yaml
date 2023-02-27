@@ -8,10 +8,10 @@ versions:
     number: plural
 
     translations:
-        english: parents
-        french: ''
-        portuguese: ''
-        spanish: progenitores
-        turkish: ebeveyn
+        inglez: parents
+        fransez: ''
+        portugez: ''
+        kasteyano: progenitores
+        turko: ebeveyn
 
 

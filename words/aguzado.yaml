@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sharp
-        french: aiguisé
-        portuguese: afiado
-        spanish: afilado
-        turkish: keskin
+        inglez: sharp
+        fransez: aiguisé
+        portugez: afiado
+        kasteyano: afilado
+        turko: keskin
 
   - ladino: aguzada
     accented: aguzáda
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: sharp
-        french: aiguisé
-        portuguese: afiada
-        spanish: afilada
-        turkish: keskin
+        inglez: sharp
+        fransez: aiguisé
+        portugez: afiada
+        kasteyano: afilada
+        turko: keskin
 
   - ladino: aguzados
     accented: aguzádos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: sharp
-        french: aiguisé
-        portuguese: afiados
-        spanish: afilados
-        turkish: keskin
+        inglez: sharp
+        fransez: aiguisé
+        portugez: afiados
+        kasteyano: afilados
+        turko: keskin
 
   - ladino: aguzadas
     accented: aguzádas
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: sharp
-        french: aiguisé
-        portuguese: afiadas
-        spanish: afiladas
-        turkish: keskin
+        inglez: sharp
+        fransez: aiguisé
+        portugez: afiadas
+        kasteyano: afiladas
+        turko: keskin
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: avyertura
 
     translations:
-        english: opening
-        french: ''
-        portuguese: ''
-        spanish: apertura
-        turkish:
+        inglez: opening
+        fransez: ''
+        portugez: ''
+        kasteyano: apertura
+        turko:
         - açılış
         - gedik
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: stamp
-        french: ''
-        portuguese: ''
-        spanish: estampa
-        turkish: mühür ıstampa
+        inglez: stamp
+        fransez: ''
+        portugez: ''
+        kasteyano: estampa
+        turko: mühür ıstampa
 
   - ladino: estampas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: stamps
-        french: ''
-        portuguese: ''
-        spanish: estampas
-        turkish: mühür ıstampa
+        inglez: stamps
+        fransez: ''
+        portugez: ''
+        kasteyano: estampas
+        turko: mühür ıstampa
 
 
 

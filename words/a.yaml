@@ -5,13 +5,13 @@ versions:
   - ladino: a
 
     translations:
-        english:
+        inglez:
         - at
         - to
-        french: ''
-        portuguese: ''
-        spanish: a
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: a
+        turko:
         - a
         - e
         - ya

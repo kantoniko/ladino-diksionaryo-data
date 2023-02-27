@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: foundation
-        french: ''
-        portuguese: ''
-        spanish: fundación
-        turkish: kuruluş
+        inglez: foundation
+        fransez: ''
+        portugez: ''
+        kasteyano: fundación
+        turko: kuruluş
 
   - ladino: fondasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: foundationes
-        french: ''
-        portuguese: ''
-        spanish: fundaciónes
-        turkish: kuruluş
+        inglez: foundationes
+        fransez: ''
+        portugez: ''
+        kasteyano: fundaciónes
+        turko: kuruluş
 
 
 

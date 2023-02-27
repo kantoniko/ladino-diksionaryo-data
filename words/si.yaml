@@ -6,16 +6,16 @@ versions:
     accented: sí
 
     translations:
-        english:
+        inglez:
           - 'yes'
           - if
           - himself
           - herself
           - it
-        french: ''
-        portuguese: ''
-        spanish: sí
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sí
+        turko:
           - evet
           - eğer
           - kendi

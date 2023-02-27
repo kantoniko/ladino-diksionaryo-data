@@ -10,13 +10,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - one
           - identical
-        french: un
-        portuguese: ''
-        spanish: uno
-        turkish:
+        fransez: un
+        portugez: ''
+        kasteyano: uno
+        turko:
           - bir
           - biri
           - tıpkısı
@@ -27,13 +27,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - one
           - identical
-        french: une
-        portuguese: ''
-        spanish: una
-        turkish:
+        fransez: une
+        portugez: ''
+        kasteyano: una
+        turko:
           - bir
           - biri
           - tıpkısı
@@ -44,13 +44,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - ones
           - identicals
-        french: uns
-        portuguese: ''
-        spanish: unos
-        turkish: biriler
+        fransez: uns
+        portugez: ''
+        kasteyano: unos
+        turko: biriler
 
   - ladino: unas
     accented: únas
@@ -58,12 +58,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - ones
           - identicals
-        french: unes
-        portuguese: ''
-        spanish: unas
-        turkish: biriler
+        fransez: unes
+        portugez: ''
+        kasteyano: unas
+        turko: biriler
 
 

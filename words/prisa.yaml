@@ -10,13 +10,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - hurry
         - haste
-        french: ''
-        portuguese: ''
-        spanish: prisa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: prisa
+        turko:
         - acele
         - telâş
 

@@ -5,12 +5,12 @@ versions:
   - ladino: asoltar
 
     translations:
-      english: release
-      french: ''
-      hebrew: לפלוט
-      portuguese: ''
-      spanish: soltar
-      turkish: ''
+      inglez: release
+      fransez: ''
+      ebreo: לפלוט
+      portugez: ''
+      kasteyano: soltar
+      turko: ''
 
 conjugations: {}
 

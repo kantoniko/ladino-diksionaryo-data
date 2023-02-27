@@ -5,11 +5,11 @@ versions:
   - ladino: defenderse
 
     translations:
-        english: defend oneself
-        french: ''
-        portuguese: ''
-        spanish: defenderse
-        turkish: kendini müdafaa etmek
+        inglez: defend oneself
+        fransez: ''
+        portugez: ''
+        kasteyano: defenderse
+        turko: kendini müdafaa etmek
 
 conjugations: {}
 

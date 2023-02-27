@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: cold
-        french: froid
-        portuguese: ''
-        spanish: frío
-        turkish: soğuk
+        inglez: cold
+        fransez: froid
+        portugez: ''
+        kasteyano: frío
+        turko: soğuk
 
   - ladino: yelada
     accented: yeláda
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: cold
-        french: froid
-        portuguese: ''
-        spanish: fría
-        turkish: soğuk
+        inglez: cold
+        fransez: froid
+        portugez: ''
+        kasteyano: fría
+        turko: soğuk
 
   - ladino: yelados
     accented: yeládos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: cold
-        french: froids
-        portuguese: ''
-        spanish: fríos
-        turkish: soğuk
+        inglez: cold
+        fransez: froids
+        portugez: ''
+        kasteyano: fríos
+        turko: soğuk
 
   - ladino: yeladas
     accented: yeládas
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: cold
-        french: froids
-        portuguese: ''
-        spanish: frías
-        turkish: soğuk
+        inglez: cold
+        fransez: froids
+        portugez: ''
+        kasteyano: frías
+        turko: soğuk
 

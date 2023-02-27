@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: university
-        french: université
-        portuguese: ''
-        spanish: universidad
-        turkish: üniversite
+        inglez: university
+        fransez: université
+        portugez: ''
+        kasteyano: universidad
+        turko: üniversite
 
   - ladino: universitas
     accented: universitás
@@ -30,11 +30,11 @@ versions:
     number: plural
 
     translations:
-        english: universities
-        french: universités
-        portuguese: ''
-        spanish: universidades
-        turkish: üniversite
+        inglez: universities
+        fransez: universités
+        portugez: ''
+        kasteyano: universidades
+        turko: üniversite
 
 
 

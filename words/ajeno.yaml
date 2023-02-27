@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: stranger
-        french: ''
-        portuguese: ''
-        spanish: extranjero
-        turkish: yabancı
+        inglez: stranger
+        fransez: ''
+        portugez: ''
+        kasteyano: extranjero
+        turko: yabancı
 
   - ladino: ajena
     accented: ajéna
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: stranger
-        french: ''
-        portuguese: ''
-        spanish: extranjera
-        turkish: yabancı
+        inglez: stranger
+        fransez: ''
+        portugez: ''
+        kasteyano: extranjera
+        turko: yabancı
 
   - ladino: ajenos
     accented: ajénos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: stranger
-        french: ''
-        portuguese: ''
-        spanish: extranjeros
-        turkish: yabancı
+        inglez: stranger
+        fransez: ''
+        portugez: ''
+        kasteyano: extranjeros
+        turko: yabancı
 
   - ladino: ajenas
     accented: ajénas
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: stranger
-        french: ''
-        portuguese: ''
-        spanish: extranjeras
-        turkish: yabancı
+        inglez: stranger
+        fransez: ''
+        portugez: ''
+        kasteyano: extranjeras
+        turko: yabancı
 

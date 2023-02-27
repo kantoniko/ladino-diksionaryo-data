@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: paralytic
-        french: ''
-        portuguese: ''
-        spanish: paralítico
-        turkish: felçli
+        inglez: paralytic
+        fransez: ''
+        portugez: ''
+        kasteyano: paralítico
+        turko: felçli
 
   - ladino: paralizada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: paralytic
-        french: ''
-        portuguese: ''
-        spanish: paralítica
-        turkish: felçli
+        inglez: paralytic
+        fransez: ''
+        portugez: ''
+        kasteyano: paralítica
+        turko: felçli
 
   - ladino: paralizados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: paralytics
-        french: ''
-        portuguese: ''
-        spanish: paralíticos
-        turkish: felçli
+        inglez: paralytics
+        fransez: ''
+        portugez: ''
+        kasteyano: paralíticos
+        turko: felçli
 
   - ladino: paralizadas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: paralytics
-        french: ''
-        portuguese: ''
-        spanish: paralíticas
-        turkish: felçli
+        inglez: paralytics
+        fransez: ''
+        portugez: ''
+        kasteyano: paralíticas
+        turko: felçli
 
 

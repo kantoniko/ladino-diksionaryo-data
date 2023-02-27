@@ -5,11 +5,11 @@ versions:
   - ladino: fonksionar
 
     translations:
-        english: function
-        french: ''
-        portuguese: ''
-        spanish: funcionar
-        turkish:
+        inglez: function
+        fransez: ''
+        portugez: ''
+        kasteyano: funcionar
+        turko:
         - işlemek
         - çalışmak
 

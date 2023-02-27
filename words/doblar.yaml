@@ -5,13 +5,13 @@ versions:
   - ladino: doblar
 
     translations:
-        english:
+        inglez:
         - double
         - fold up
-        french: ''
-        portuguese: ''
-        spanish: doblar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: doblar
+        turko:
         - çiftlemek
         - katlamak
 

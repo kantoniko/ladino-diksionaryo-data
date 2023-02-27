@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: purse
-        french: ''
-        portuguese: ''
-        spanish: monedero
-        turkish: kadın cüzdanı
+        inglez: purse
+        fransez: ''
+        portugez: ''
+        kasteyano: monedero
+        turko: kadın cüzdanı
 
   - ladino: portmones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: purses
-        french: ''
-        portuguese: ''
-        spanish: monederos
-        turkish: kadın cüzdanı
+        inglez: purses
+        fransez: ''
+        portugez: ''
+        kasteyano: monederos
+        turko: kadın cüzdanı
 
 
 

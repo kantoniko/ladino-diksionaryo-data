@@ -9,16 +9,16 @@ versions:
         accented: etsétera
 
     translations:
-        english:
+        inglez:
         - etc.
         - et caetera
         - and so on
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - etc.
         - etcétera
-        turkish:
+        turko:
         - v.s.
         - ve saire
 

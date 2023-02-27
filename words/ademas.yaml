@@ -6,17 +6,17 @@ versions:
     accented: además
 
     translations:
-        english:
+        inglez:
         - besides
         - moreover
-        french:
+        fransez:
         - en outre
         - d'autant plus
-        portuguese:
+        portugez:
         - além do mais
         - ademais
-        spanish: además
-        turkish:
+        kasteyano: además
+        turko:
         - keza
         - üstelik
 

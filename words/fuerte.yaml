@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: strong
-        french: ''
-        portuguese: ''
-        spanish: fuerte
-        turkish: kuvvetli
+        inglez: strong
+        fransez: ''
+        portugez: ''
+        kasteyano: fuerte
+        turko: kuvvetli
 
   - ladino: fuerta
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: strong
-        french: ''
-        portuguese: ''
-        spanish: fuerta
-        turkish: kuvvetli
+        inglez: strong
+        fransez: ''
+        portugez: ''
+        kasteyano: fuerta
+        turko: kuvvetli
 
   - ladino: fuertes
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: strong
-        french: ''
-        portuguese: ''
-        spanish: fuertes
-        turkish: kuvvetli
+        inglez: strong
+        fransez: ''
+        portugez: ''
+        kasteyano: fuertes
+        turko: kuvvetli
 
   - ladino: fuertas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: strong
-        french: ''
-        portuguese: ''
-        spanish: fuertas
-        turkish: kuvvetli
+        inglez: strong
+        fransez: ''
+        portugez: ''
+        kasteyano: fuertas
+        turko: kuvvetli
 
 
 

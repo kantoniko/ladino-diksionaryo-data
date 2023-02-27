@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: insect
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: insecto
-      turkish: ''
+      inglez: insect
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: insecto
+      turko: ''
 
   - ladino: insektos
 
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-      english: insects
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: insectos
-      turkish: ''
+      inglez: insects
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: insectos
+      turko: ''
 
 
 

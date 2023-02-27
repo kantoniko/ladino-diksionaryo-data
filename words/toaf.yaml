@@ -6,11 +6,11 @@ versions:
     accented: toáf
 
     translations:
-        english: odd
-        french: étrange
-        portuguese: estranho
-        spanish:
+        inglez: odd
+        fransez: étrange
+        portugez: estranho
+        kasteyano:
         - extraño
         - raro
-        turkish: tuhaf
+        turko: tuhaf
 

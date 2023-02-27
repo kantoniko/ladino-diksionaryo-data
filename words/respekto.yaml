@@ -8,14 +8,14 @@ versions:
       - ladino: omenaje
 
     translations:
-        english:
+        inglez:
         - respect
         - homage
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - respeto
         - homenaje
-        turkish: saygı
+        turko: saygı
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: notar
 
     translations:
-        english: annotate
-        french: ''
-        portuguese: ''
-        spanish: apostillar
-        turkish: kaydetmek
+        inglez: annotate
+        fransez: ''
+        portugez: ''
+        kasteyano: apostillar
+        turko: kaydetmek
 
 conjugations: {}
 

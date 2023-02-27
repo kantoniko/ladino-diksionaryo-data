@@ -14,12 +14,12 @@ versions:
     number: singular
 
     translations:
-      english: ant
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: hormiga
-      turkish: ''
+      inglez: ant
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: hormiga
+      turko: ''
 
   - ladino: ormigas
 
@@ -27,12 +27,12 @@ versions:
     number: plural
 
     translations:
-      english: ants
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: hormigas
-      turkish: ''
+      inglez: ants
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: hormigas
+      turko: ''
 
 
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: table
-        french: ''
-        portuguese: ''
-        spanish: mesa
-        turkish: masa
+        inglez: table
+        fransez: ''
+        portugez: ''
+        kasteyano: mesa
+        turko: masa
 
   - ladino: mezas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: tables
-        french: ''
-        portuguese: ''
-        spanish: mesas
-        turkish: masa
+        inglez: tables
+        fransez: ''
+        portugez: ''
+        kasteyano: mesas
+        turko: masa
 
 
 

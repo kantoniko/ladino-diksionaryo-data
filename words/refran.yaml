@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - proverb
         - saying
-        french: ''
-        portuguese: ''
-        spanish: refrán
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: refrán
+        turko:
         - atasözü
         - deyim
 
@@ -34,13 +34,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - proverbs
         - sayings
-        french: ''
-        portuguese: ''
-        spanish: refránes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: refránes
+        turko:
         - atasözü
         - deyim
 

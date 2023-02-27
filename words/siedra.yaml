@@ -8,10 +8,10 @@ versions:
     number: singular
 
     translations:
-        english: left
-        french: ''
-        portuguese: ''
-        spanish: izquierda
-        turkish: sol
+        inglez: left
+        fransez: ''
+        portugez: ''
+        kasteyano: izquierda
+        turko: sol
 
 

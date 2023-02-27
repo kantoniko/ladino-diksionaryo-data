@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: place
-        french: ''
-        portuguese: ''
-        spanish: lugar
-        turkish: yer
+        inglez: place
+        fransez: ''
+        portugez: ''
+        kasteyano: lugar
+        turko: yer
 
   - ladino: lugares
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: places
-        french: ''
-        portuguese: ''
-        spanish: lugares
-        turkish: yer
+        inglez: places
+        fransez: ''
+        portugez: ''
+        kasteyano: lugares
+        turko: yer
 
 
 

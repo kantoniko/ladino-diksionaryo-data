@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: religion
-        french: ''
-        portuguese: ''
-        spanish: religión
-        turkish: din
+        inglez: religion
+        fransez: ''
+        portugez: ''
+        kasteyano: religión
+        turko: din
 
   - ladino: relijiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: religions
-        french: ''
-        portuguese: ''
-        spanish: religiónes
-        turkish: din
+        inglez: religions
+        fransez: ''
+        portugez: ''
+        kasteyano: religiónes
+        turko: din
 
 
 

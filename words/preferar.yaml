@@ -5,11 +5,11 @@ versions:
   - ladino: preferar
 
     translations:
-        english: prefer
-        french: ''
-        portuguese: ''
-        spanish: preferir
-        turkish: tercih etmek
+        inglez: prefer
+        fransez: ''
+        portugez: ''
+        kasteyano: preferir
+        turko: tercih etmek
 
 conjugations: {}
 

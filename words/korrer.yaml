@@ -5,11 +5,11 @@ versions:
   - ladino: korrer
 
     translations:
-        english: run
-        french: ''
-        portuguese: ''
-        spanish: correr
-        turkish: koşmak
+        inglez: run
+        fransez: ''
+        portugez: ''
+        kasteyano: correr
+        turko: koşmak
 
 conjugations: {}
 

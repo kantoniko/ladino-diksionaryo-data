@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - humidity
         - wetness
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - רטיבות
         - לחות
-      portuguese: ''
-      spanish: humedad
-      turkish: ''
+      portugez: ''
+      kasteyano: humedad
+      turko: ''
 

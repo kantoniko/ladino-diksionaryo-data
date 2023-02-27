@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: example
-        french: ''
-        portuguese: ''
-        spanish: ejemplo
-        turkish:
+        inglez: example
+        fransez: ''
+        portugez: ''
+        kasteyano: ejemplo
+        turko:
         - misal
         - örnek
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: examples
-        french: ''
-        portuguese: ''
-        spanish: ejemplos
-        turkish:
+        inglez: examples
+        fransez: ''
+        portugez: ''
+        kasteyano: ejemplos
+        turko:
         - misal
         - örnek
 

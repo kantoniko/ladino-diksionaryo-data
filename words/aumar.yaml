@@ -10,15 +10,15 @@ versions:
         accented: afumár
 
     translations:
-        english:
+        inglez:
         - smoke
         - cure
-        french:
+        fransez:
           - fumer
           - enfumer
-        portuguese: ''
-        spanish: ahumar
-        turkish:
+        portugez: ''
+        kasteyano: ahumar
+        turko:
         - tütsülemek
         - dumana tutmak (et balık v.s.)
 

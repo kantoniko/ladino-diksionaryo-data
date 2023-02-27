@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: invalid
-        french: ''
-        portuguese: ''
-        spanish: inválido
-        turkish: sakat
+        inglez: invalid
+        fransez: ''
+        portugez: ''
+        kasteyano: inválido
+        turko: sakat
 
   - ladino: enfirma
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: invalid
-        french: ''
-        portuguese: ''
-        spanish: inválida
-        turkish: sakat
+        inglez: invalid
+        fransez: ''
+        portugez: ''
+        kasteyano: inválida
+        turko: sakat
 
   - ladino: enfirmos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: invalid
-        french: ''
-        portuguese: ''
-        spanish: inválidos
-        turkish: sakat
+        inglez: invalid
+        fransez: ''
+        portugez: ''
+        kasteyano: inválidos
+        turko: sakat
 
   - ladino: enfirmas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: invalid
-        french: ''
-        portuguese: ''
-        spanish: inválidas
-        turkish: sakat
+        inglez: invalid
+        fransez: ''
+        portugez: ''
+        kasteyano: inválidas
+        turko: sakat
 
 
 

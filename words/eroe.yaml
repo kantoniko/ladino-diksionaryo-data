@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: hero
-        french: ''
-        portuguese: ''
-        spanish: héroe
-        turkish: kahraman
+        inglez: hero
+        fransez: ''
+        portugez: ''
+        kasteyano: héroe
+        turko: kahraman
 
   - ladino: eroes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: heros
-        french: ''
-        portuguese: ''
-        spanish: héroes
-        turkish: kahraman
+        inglez: heros
+        fransez: ''
+        portugez: ''
+        kasteyano: héroes
+        turko: kahraman
 
 
 

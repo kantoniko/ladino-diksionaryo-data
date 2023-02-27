@@ -5,10 +5,10 @@ versions:
   - ladino: dado
 
     translations:
-        english: dice
-        french: ''
-        portuguese: ''
-        spanish: dado
-        turkish: zar
+        inglez: dice
+        fransez: ''
+        portugez: ''
+        kasteyano: dado
+        turko: zar
 
 

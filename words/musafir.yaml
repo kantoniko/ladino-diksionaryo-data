@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: guest
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: guest
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - huésped
         - convidado
-        turkish:
+        turko:
         - misafir
         - konuk
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english: guests
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: guests
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - huéspedes
         - convidados
-        turkish:
+        turko:
         - misafir
         - konuk
 

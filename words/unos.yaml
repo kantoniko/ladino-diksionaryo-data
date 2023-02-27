@@ -8,10 +8,10 @@ versions:
     number: plural
 
     translations:
-      english: some
-      french: ''
-      spanish: unos
-      turkish: biriler
+      inglez: some
+      fransez: ''
+      kasteyano: unos
+      turko: biriler
 
   - ladino: unas
 
@@ -19,9 +19,9 @@ versions:
     number: plural
 
     translations:
-      english: some
-      french: ''
-      spanish: unas
-      turkish: biriler
+      inglez: some
+      fransez: ''
+      kasteyano: unas
+      turko: biriler
 
 

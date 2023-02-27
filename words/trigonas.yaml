@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: walnut-filled fila triangles
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: walnut-filled fila triangles
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - fila con nuez
         - triangular
-        turkish: cevizli muska böreği
+        turko: cevizli muska böreği
 
 

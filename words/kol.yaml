@@ -7,11 +7,11 @@ versions:
   - ladino: kol
 
     translations:
-        english: cabbage
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: cabbage
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - col
         - repollo
-        turkish: lahana
+        turko: lahana
 

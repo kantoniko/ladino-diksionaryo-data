@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: cold
-        french: froid
-        portuguese: frio
-        spanish: frío
-        turkish: soğuk
+        inglez: cold
+        fransez: froid
+        portugez: frio
+        kasteyano: frío
+        turko: soğuk
 
   - ladino: frios
     accented: fríos
@@ -30,10 +30,10 @@ versions:
     number: plural
 
     translations:
-        english: cold
-        french: froid
-        portuguese: frios
-        spanish: fríos
-        turkish: soğuk
+        inglez: cold
+        fransez: froid
+        portugez: frios
+        kasteyano: fríos
+        turko: soğuk
 
 

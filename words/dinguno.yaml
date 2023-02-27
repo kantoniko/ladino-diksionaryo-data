@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: nobody
-        french: ''
-        portuguese: ''
-        spanish: nadie
-        turkish: hiçkimse
+        inglez: nobody
+        fransez: ''
+        portugez: ''
+        kasteyano: nadie
+        turko: hiçkimse
 
   - ladino: dinguna
     accented: dingúna
@@ -30,11 +30,11 @@ versions:
     number: singular
 
     translations:
-        english: nobody
-        french: ''
-        portuguese: ''
-        spanish: nadie
-        turkish: hiçkimse
+        inglez: nobody
+        fransez: ''
+        portugez: ''
+        kasteyano: nadie
+        turko: hiçkimse
 
   - ladino: dingunos
     accented: dingúnos
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-        english: nobody
-        french: ''
-        portuguese: ''
-        spanish: nadie
-        turkish: hiçkimse
+        inglez: nobody
+        fransez: ''
+        portugez: ''
+        kasteyano: nadie
+        turko: hiçkimse
 
   - ladino: dingunas
     accented: dingúnas
@@ -64,9 +64,9 @@ versions:
     number: plural
 
     translations:
-        english: nobody
-        french: ''
-        portuguese: ''
-        spanish: nadie
-        turkish: hiçkimse
+        inglez: nobody
+        fransez: ''
+        portugez: ''
+        kasteyano: nadie
+        turko: hiçkimse
 

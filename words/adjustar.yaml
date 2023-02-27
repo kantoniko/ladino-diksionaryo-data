@@ -6,13 +6,13 @@ versions:
     accented: adjustár
 
     translations:
-        english: add
-        french: ajouter
-        portuguese: 
+        inglez: add
+        fransez: ajouter
+        portugez: 
            - acrescentar
            - adicionar
-        spanish: añadir
-        turkish: eklemek
+        kasteyano: añadir
+        turko: eklemek
 
 
 conjugations:
@@ -20,42 +20,42 @@ conjugations:
     yo:
       ladino: adjusto
       translations:
-        english: add
-        spanish:  añado
+        inglez: add
+        kasteyano:  añado
 
     tu:
       ladino: adjustas
       translations:
-        english: add
-        spanish: añades
+        inglez: add
+        kasteyano: añades
 
     el:
       ladino: adjusta
       translations:
-        english: adds
-        spanish: añade
+        inglez: adds
+        kasteyano: añade
 
     mozotros:
       ladino: adjustamos
       translations:
-        english: add
-        spanish: añadimos
+        inglez: add
+        kasteyano: añadimos
 
     vozotros:
       ladino: adjustash
       translations:
-        english: add
-        spanish: añadis
+        inglez: add
+        kasteyano: añadis
 
     eyos:
       ladino: adjustan
       translations:
-        english: add
-        spanish: añaden
+        inglez: add
+        kasteyano: añaden
   pasado:
     yo:
       ladino: adjusti
       translations:
-        english: added
+        inglez: added
 
 

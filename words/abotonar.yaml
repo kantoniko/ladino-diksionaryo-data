@@ -5,12 +5,12 @@ versions:
   - ladino: abotonar
 
     translations:
-      english: button
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: abotonar
-      turkish: ''
+      inglez: button
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: abotonar
+      turko: ''
 
 conjugations: {}
 

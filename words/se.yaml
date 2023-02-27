@@ -8,16 +8,16 @@ versions:
     gender: both
 
     translations:
-        english:
+        inglez:
         - himself
         - herself
         - it
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - se
         - sé
-        turkish:
+        turko:
         - o
         - kendi
 

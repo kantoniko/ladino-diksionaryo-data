@@ -5,13 +5,13 @@ versions:
   - ladino: ekspulsion
 
     translations:
-        english:
+        inglez:
         - ezpulsion
         - ejection
-        french: ''
-        portuguese: ''
-        spanish: expulsión
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: expulsión
+        turko:
         - kovma
         - çıkarma
         - tard

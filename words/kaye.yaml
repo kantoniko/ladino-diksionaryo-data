@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - street
         - road
-        french: ''
-        portuguese: ''
-        spanish: calle
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: calle
+        turko:
         - sokak
         - cadde
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - streets
         - roads
-        french: ''
-        portuguese: ''
-        spanish: calles
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: calles
+        turko:
         - sokak
         - cadde
 

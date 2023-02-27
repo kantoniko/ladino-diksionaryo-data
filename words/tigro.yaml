@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: tigre
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: tigre
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: tigresa
 
@@ -24,12 +24,12 @@ versions:
     number: singular
 
     translations:
-      english: tigre
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: tigre
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

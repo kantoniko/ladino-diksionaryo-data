@@ -5,11 +5,11 @@ versions:
   - ladino: goler
 
     translations:
-        english: smell
-        french: ''
-        portuguese: ''
-        spanish: oler
-        turkish: kokmak
+        inglez: smell
+        fransez: ''
+        portugez: ''
+        kasteyano: oler
+        turko: kokmak
 
 conjugations: {}
 

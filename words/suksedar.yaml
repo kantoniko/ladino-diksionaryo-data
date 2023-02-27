@@ -5,13 +5,13 @@ versions:
   - ladino: suksedar
 
     translations:
-        english:
+        inglez:
         - succeed
         - follow
-        french: ''
-        portuguese: ''
-        spanish: suceder
-        turkish: arkasından gelmek
+        fransez: ''
+        portugez: ''
+        kasteyano: suceder
+        turko: arkasından gelmek
 
 conjugations: {}
 

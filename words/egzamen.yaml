@@ -5,10 +5,10 @@ versions:
   - ladino: egzamen
 
     translations:
-        english: examination
-        french: ''
-        portuguese: ''
-        spanish: examen
-        turkish: imtihan
+        inglez: examination
+        fransez: ''
+        portugez: ''
+        kasteyano: examen
+        turko: imtihan
 
 

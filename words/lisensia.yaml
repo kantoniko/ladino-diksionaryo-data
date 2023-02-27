@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - licence
         - permission
-        french: ''
-        portuguese: ''
-        spanish: licencia
-        turkish: lisans
+        fransez: ''
+        portugez: ''
+        kasteyano: licencia
+        turko: lisans
 
   - ladino: lisensias
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - licences
         - permissions
-        french: ''
-        portuguese: ''
-        spanish: licencias
-        turkish: lisans
+        fransez: ''
+        portugez: ''
+        kasteyano: licencias
+        turko: lisans
 
 
 

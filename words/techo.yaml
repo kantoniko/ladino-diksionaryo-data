@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - roof
         - ceiling
-        french: toit
-        portuguese: ''
-        spanish: techo
-        turkish: tavan
+        fransez: toit
+        portugez: ''
+        kasteyano: techo
+        turko: tavan
 
   - ladino: techos
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - roofs
         - ceilings
-        french: toits
-        portuguese: ''
-        spanish: techos
-        turkish: tavan
+        fransez: toits
+        portugez: ''
+        kasteyano: techos
+        turko: tavan
 
 
 

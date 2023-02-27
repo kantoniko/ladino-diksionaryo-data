@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: pencil
-        french: ''
-        portuguese: ''
-        spanish: lápiz
-        turkish: kurşun kalem
+        inglez: pencil
+        fransez: ''
+        portugez: ''
+        kasteyano: lápiz
+        turko: kurşun kalem
 
   - ladino: kalemes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: pencils
-        french: ''
-        portuguese: ''
-        spanish: lápizes
-        turkish: kurşun kalem
+        inglez: pencils
+        fransez: ''
+        portugez: ''
+        kasteyano: lápizes
+        turko: kurşun kalem
 
 
 

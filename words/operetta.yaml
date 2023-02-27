@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: operetta
-        french: ''
-        portuguese: ''
-        spanish: zarzuela
-        turkish:
+        inglez: operetta
+        fransez: ''
+        portugez: ''
+        kasteyano: zarzuela
+        turko:
         - operet
         - opera komik
 

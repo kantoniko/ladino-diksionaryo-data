@@ -5,11 +5,11 @@ versions:
   - ladino: deskudio
 
     translations:
-        english: carelessness
-        french: ''
-        portuguese: ''
-        spanish: desaprensión
-        turkish:
+        inglez: carelessness
+        fransez: ''
+        portugez: ''
+        kasteyano: desaprensión
+        turko:
         - dikkatsizlik
         - umursamazlık
 

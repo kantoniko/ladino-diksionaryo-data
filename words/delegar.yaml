@@ -5,11 +5,11 @@ versions:
   - ladino: delegar
 
     translations:
-        english: delegate
-        french: ''
-        portuguese: ''
-        spanish: delegar
-        turkish: temsilci atamak
+        inglez: delegate
+        fransez: ''
+        portugez: ''
+        kasteyano: delegar
+        turko: temsilci atamak
 
 conjugations: {}
 

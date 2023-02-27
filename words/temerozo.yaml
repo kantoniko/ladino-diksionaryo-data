@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - rash
         - reckless
-        french: ''
-        portuguese: ''
-        spanish: temerario
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: temerario
+        turko:
         - korkutucu
         - gözüpek
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - rash
         - reckless
-        french: ''
-        portuguese: ''
-        spanish: temeraria
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: temeraria
+        turko:
         - korkutucu
         - gözüpek
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - rash
         - reckless
-        french: ''
-        portuguese: ''
-        spanish: temerarios
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: temerarios
+        turko:
         - korkutucu
         - gözüpek
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - rash
         - reckless
-        french: ''
-        portuguese: ''
-        spanish: temerarias
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: temerarias
+        turko:
         - korkutucu
         - gözüpek
 

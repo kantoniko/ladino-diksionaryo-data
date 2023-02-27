@@ -5,11 +5,11 @@ versions:
   - ladino: entrar
 
     translations:
-        english: enter
-        french: ''
-        portuguese: ''
-        spanish: entrar
-        turkish: girmek
+        inglez: enter
+        fransez: ''
+        portugez: ''
+        kasteyano: entrar
+        turko: girmek
 
 conjugations: {}
 

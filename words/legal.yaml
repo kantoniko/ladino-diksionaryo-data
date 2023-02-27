@@ -9,12 +9,12 @@ versions:
 
 
     translations:
-      english: legal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: legal
-      turkish: ''
+      inglez: legal
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: legal
+      turko: ''
 
   - ladino: legala
 
@@ -23,12 +23,12 @@ versions:
 
 
     translations:
-      english: legal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: legala
-      turkish: ''
+      inglez: legal
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: legala
+      turko: ''
 
   - ladino: legales
 
@@ -37,12 +37,12 @@ versions:
 
 
     translations:
-      english: legal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: legales
-      turkish: ''
+      inglez: legal
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: legales
+      turko: ''
 
   - ladino: legalas
 
@@ -51,12 +51,12 @@ versions:
 
 
     translations:
-      english: legal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: legalas
-      turkish: ''
+      inglez: legal
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: legalas
+      turko: ''
 
 
 

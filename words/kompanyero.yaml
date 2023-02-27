@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: companion
-        french: ''
-        portuguese: ''
-        spanish: compañero
-        turkish:
+        inglez: companion
+        fransez: ''
+        portugez: ''
+        kasteyano: compañero
+        turko:
           - eş
           - yoldaş
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: companion
-        french: ''
-        portuguese: ''
-        spanish: compañera
-        turkish: yoldaş
+        inglez: companion
+        fransez: ''
+        portugez: ''
+        kasteyano: compañera
+        turko: yoldaş
 
   - ladino: kompanyeros
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: companions
-        french: ''
-        portuguese: ''
-        spanish: compañeros
-        turkish:
+        inglez: companions
+        fransez: ''
+        portugez: ''
+        kasteyano: compañeros
+        turko:
           - eş
           - yoldaşlar
 
@@ -48,11 +48,11 @@ versions:
     number: plural
 
     translations:
-        english: companions
-        french: ''
-        portuguese: ''
-        spanish: compañeras
-        turkish: yoldaşlar
+        inglez: companions
+        fransez: ''
+        portugez: ''
+        kasteyano: compañeras
+        turko: yoldaşlar
 
 
 

@@ -7,18 +7,18 @@ versions:
       - ladino: eskorchar
 
     translations:
-        english:
+        inglez:
           - skin
           - peel
           - remove skin from
-        french:
+        fransez:
           - peler
           - enlever la peau de
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
           - pelar
           - quitar el cuero de
-        turkish:
+        turko:
           - yüzmek
           - soymak
 

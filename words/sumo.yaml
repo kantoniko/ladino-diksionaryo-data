@@ -7,13 +7,13 @@ versions:
   - ladino: sumo
 
     translations:
-        english: juice
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: juice
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - zumo
         - jumo
         - jugo
-        turkish: usare (meyva suyu)
+        turko: usare (meyva suyu)
 
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: forkbeard fish
-        french: ''
-        portuguese: ''
-        spanish: zarguela
-        turkish:
+        inglez: forkbeard fish
+        fransez: ''
+        portugez: ''
+        kasteyano: zarguela
+        turko:
           - gelincik
           - kaya balığı
 

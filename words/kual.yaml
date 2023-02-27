@@ -12,11 +12,11 @@ versions:
         accented: kuála
 
     translations:
-        english: which
-        french: ''
-        portuguese: ''
-        spanish: cual
-        turkish:
+        inglez: which
+        fransez: ''
+        portugez: ''
+        kasteyano: cual
+        turko:
         - hangi
         - hangisi
 

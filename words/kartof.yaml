@@ -10,13 +10,13 @@ versions:
     number: singular
 
     translations:
-      english: potato
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: potato
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - papa
         - patata
-      turkish: ''
+      turko: ''
 
 

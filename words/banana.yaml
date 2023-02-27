@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english: banana
-        french: banane
-        hebrew: בננה
-        portuguese: ''
-        spanish: plátano
-        turkish: muz
+        inglez: banana
+        fransez: banane
+        ebreo: בננה
+        portugez: ''
+        kasteyano: plátano
+        turko: muz
 
   - ladino: bananas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-        english: bananas
-        french: bananes
-        hebrew: בננות
-        portuguese: ''
-        spanish: plátanos
-        turkish: muz
+        inglez: bananas
+        fransez: bananes
+        ebreo: בננות
+        portugez: ''
+        kasteyano: plátanos
+        turko: muz
 
 
 

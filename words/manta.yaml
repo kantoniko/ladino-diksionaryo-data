@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: blanket
-        french: couverture
-        portuguese: manta
-        spanish: manta
-        turkish: battaniye
+        inglez: blanket
+        fransez: couverture
+        portugez: manta
+        kasteyano: manta
+        turko: battaniye
 
   - ladino: mantas
     accented: mántas
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: blankets
-        french: ''
-        portuguese: ''
-        spanish: mantas
-        turkish: battaniyeler
+        inglez: blankets
+        fransez: ''
+        portugez: ''
+        kasteyano: mantas
+        turko: battaniyeler
 

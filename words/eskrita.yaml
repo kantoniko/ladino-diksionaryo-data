@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - letter
         - written document
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - escrito
         - manuscrito
-        turkish:
+        turko:
         - belge
         - el yazması
 
@@ -26,15 +26,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - letters
         - written documents
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - escritos
         - manuscritos
-        turkish:
+        turko:
         - belge
         - el yazması
 

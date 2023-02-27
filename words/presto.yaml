@@ -5,11 +5,11 @@ versions:
   - ladino: presto
 
     translations:
-        english: quick
-        french: ''
-        portuguese: ''
-        spanish: pronto
-        turkish:
+        inglez: quick
+        fransez: ''
+        portugez: ''
+        kasteyano: pronto
+        turko:
         - erken
         - çabuk
 

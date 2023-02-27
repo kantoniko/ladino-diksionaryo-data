@@ -5,11 +5,11 @@ versions:
   - ladino: imitar
 
     translations:
-        english: imitate
-        french: ''
-        portuguese: ''
-        spanish: imitar
-        turkish: taklit etmek
+        inglez: imitate
+        fransez: ''
+        portugez: ''
+        kasteyano: imitar
+        turko: taklit etmek
 
 conjugations: {}
 

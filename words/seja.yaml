@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: eyebrow
-        french: ''
-        portuguese: ''
-        spanish: ceja
-        turkish: kaş
+        inglez: eyebrow
+        fransez: ''
+        portugez: ''
+        kasteyano: ceja
+        turko: kaş
 
   - ladino: sejas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: eyebrows
-        french: ''
-        portuguese: ''
-        spanish: ceja
-        turkish: kaş
+        inglez: eyebrows
+        fransez: ''
+        portugez: ''
+        kasteyano: ceja
+        turko: kaş
 
 
 

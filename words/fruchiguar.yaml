@@ -6,17 +6,17 @@ versions:
     accented: fruchiguár
 
     translations:
-        english:
+        inglez:
         - produce
         - multiply
-        french:
+        fransez:
         - fructifier
         - se multiplier
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - fructificar
         - multiplicarse
-        turkish:
+        turko:
         - üremek
         - çoğalmak
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: leek
-        french: ''
-        portuguese: ''
-        spanish: puerro
-        turkish: prasa
+        inglez: leek
+        fransez: ''
+        portugez: ''
+        kasteyano: puerro
+        turko: prasa
 
   - ladino: prasas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: leeks
-        french: ''
-        portuguese: ''
-        spanish: puerros
-        turkish: prasa
+        inglez: leeks
+        fransez: ''
+        portugez: ''
+        kasteyano: puerros
+        turko: prasa
 
 
 

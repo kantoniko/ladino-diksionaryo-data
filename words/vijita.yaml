@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: visit
-        french: visite
-        portuguese: ''
-        spanish: visita
-        turkish: misafirlik
+        inglez: visit
+        fransez: visite
+        portugez: ''
+        kasteyano: visita
+        turko: misafirlik
 
   - ladino: vijitas
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: visits
-        french: visites
-        portuguese: ''
-        spanish: visitas
-        turkish: misafirlik
+        inglez: visits
+        fransez: visites
+        portugez: ''
+        kasteyano: visitas
+        turko: misafirlik
 
 

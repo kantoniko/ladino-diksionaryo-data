@@ -5,14 +5,14 @@ versions:
   - ladino: es
 
     translations:
-        english:
+        inglez:
         - it
         - it is
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - es
-        turkish:
+        turko:
           - dır
           - dir
 

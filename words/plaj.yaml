@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: beach
-        french: ''
-        portuguese: ''
-        spanish: playa
-        turkish: plaj
+        inglez: beach
+        fransez: ''
+        portugez: ''
+        kasteyano: playa
+        turko: plaj
 
   - ladino: plajas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: beaches
-        french: ''
-        portuguese: ''
-        spanish: playas
-        turkish: plajar
+        inglez: beaches
+        fransez: ''
+        portugez: ''
+        kasteyano: playas
+        turko: plajar
 
 
 

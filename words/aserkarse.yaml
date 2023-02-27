@@ -5,13 +5,13 @@ versions:
   - ladino: aserkarse
 
     translations:
-        english:
+        inglez:
         - approach
         - come near
-        french: ''
-        portuguese: ''
-        spanish: acercarse
-        turkish: yaklaşmak
+        fransez: ''
+        portugez: ''
+        kasteyano: acercarse
+        turko: yaklaşmak
 
 conjugations: {}
 

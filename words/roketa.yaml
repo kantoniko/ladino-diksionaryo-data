@@ -5,11 +5,11 @@ versions:
   - ladino: roketa
 
     translations:
-        english: rocket
-        french: ''
-        portuguese: ''
-        spanish: cohete
-        turkish:
+        inglez: rocket
+        fransez: ''
+        portugez: ''
+        kasteyano: cohete
+        turko:
         - roket
         - füze
 

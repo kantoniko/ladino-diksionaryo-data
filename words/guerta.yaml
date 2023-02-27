@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: small garden
-        french: ''
-        portuguese: ''
-        spanish: huerto
-        turkish: küçük bahçe
+        inglez: small garden
+        fransez: ''
+        portugez: ''
+        kasteyano: huerto
+        turko: küçük bahçe
 
   - ladino: guertas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: small gardens
-        french: ''
-        portuguese: ''
-        spanish: huertos
-        turkish: küçük bahçe
+        inglez: small gardens
+        fransez: ''
+        portugez: ''
+        kasteyano: huertos
+        turko: küçük bahçe
 
 
 

@@ -14,13 +14,13 @@ versions:
     number: singular
 
     translations:
-        english: face
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: face
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - faz
         - cara
-        turkish:
+        turko:
         - surat
         - yüz
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: faces
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: faces
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - fazas
         - caras
-        turkish:
+        turko:
         - surat
         - yüz
 

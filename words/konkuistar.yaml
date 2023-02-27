@@ -8,21 +8,21 @@ versions:
       - ladino: konkistar
 
     translations:
-        english: conquer
-        french: ''
-        portuguese: ''
-        spanish: conquistar
-        turkish: fethetmek
+        inglez: conquer
+        fransez: ''
+        portugez: ''
+        kasteyano: conquistar
+        turko: fethetmek
 
 
   - ladino: konkistaron
 
     translations:
-        english: conquered
-        french: ''
-        portuguese: ''
-        spanish: conquistaron
-        turkish: ''
+        inglez: conquered
+        fransez: ''
+        portugez: ''
+        kasteyano: conquistaron
+        turko: ''
 
 
 conjugations: {}

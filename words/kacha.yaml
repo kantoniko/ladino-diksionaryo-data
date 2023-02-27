@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - cover (of book)
-        french:
+        fransez:
         - couverture (de livre jacquette etc.) étui
-        portuguese: capa
-        spanish:
+        portugez: capa
+        kasteyano:
         - portado (de periódico)
         - tapa (de libro)
-        turkish:
+        turko:
         - kapak (kitap - v.s.)
         - kın
         - kılıf

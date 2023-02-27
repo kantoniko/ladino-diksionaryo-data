@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - boat (small)
-        french: bateau
-        portuguese: ''
-        spanish: barca
-        turkish: kayık
+        fransez: bateau
+        portugez: ''
+        kasteyano: barca
+        turko: kayık
 
   - ladino: barkos
     accented: bárkos
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - boats (small)
-        french: bateaux
-        portuguese: ''
-        spanish: barcas
-        turkish: kayık
+        fransez: bateaux
+        portugez: ''
+        kasteyano: barcas
+        turko: kayık
 
 

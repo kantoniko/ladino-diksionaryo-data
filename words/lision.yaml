@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: lesson
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: lección
-      turkish: ''
+      inglez: lesson
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: lección
+      turko: ''
 
   - ladino: lisiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: lessons
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: lecciones
-      turkish: ''
+      inglez: lessons
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: lecciones
+      turko: ''
 
 
 

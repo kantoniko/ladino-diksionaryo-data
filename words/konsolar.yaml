@@ -6,15 +6,15 @@ versions:
     accented: konsolár
 
     translations:
-        english:
+        inglez:
           - console
           - comfort
-        french:
+        fransez:
           - consoler
           - réconforter
-        portuguese: consolar
-        spanish: consolar
-        turkish: teselli etmek
+        portugez: consolar
+        kasteyano: consolar
+        turko: teselli etmek
 
 conjugations: {}
 

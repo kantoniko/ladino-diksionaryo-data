@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-        english: pineapple
-        french: ''
-        hebrew: אננס
-        portuguese:
+        inglez: pineapple
+        fransez: ''
+        ebreo: אננס
+        portugez:
           - abacaxi
           - ananás
-        spanish: piña tropical
-        turkish: ananas
+        kasteyano: piña tropical
+        turko: ananas
 

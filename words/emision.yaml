@@ -5,11 +5,11 @@ versions:
   - ladino: emision
 
     translations:
-        english: emission
-        french: ''
-        portuguese: ''
-        spanish: emisión
-        turkish:
+        inglez: emission
+        fransez: ''
+        portugez: ''
+        kasteyano: emisión
+        turko:
         - yayın
         - neşir
 

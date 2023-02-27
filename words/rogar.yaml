@@ -5,11 +5,11 @@ versions:
   - ladino: rogar
 
     translations:
-        english: request
-        french: ''
-        portuguese: ''
-        spanish: pedir
-        turkish: rica etmek
+        inglez: request
+        fransez: ''
+        portugez: ''
+        kasteyano: pedir
+        turko: rica etmek
 
 conjugations: {}
 

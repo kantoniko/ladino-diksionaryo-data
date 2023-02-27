@@ -13,15 +13,15 @@ versions:
         accented: paryentes
 
     translations:
-        english:
+        inglez:
         - parents
         - relatives
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - parientes
         - padres
-        turkish:
+        turko:
         - ebeveyn
         - akrabalar
 

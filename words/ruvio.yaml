@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: red-haired
-        french: ''
-        portuguese: ''
-        spanish: pelirrojo
-        turkish: kızıl saçlı
+        inglez: red-haired
+        fransez: ''
+        portugez: ''
+        kasteyano: pelirrojo
+        turko: kızıl saçlı
 
   - ladino: ruvia
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: red-haired
-        french: ''
-        portuguese: ''
-        spanish: pelirroja
-        turkish: kızıl saçlı
+        inglez: red-haired
+        fransez: ''
+        portugez: ''
+        kasteyano: pelirroja
+        turko: kızıl saçlı
 
   - ladino: ruvios
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: red-haired
-        french: ''
-        portuguese: ''
-        spanish: pelirrojos
-        turkish: kızıl saçlı
+        inglez: red-haired
+        fransez: ''
+        portugez: ''
+        kasteyano: pelirrojos
+        turko: kızıl saçlı
 
   - ladino: ruvias
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: red-haired
-        french: ''
-        portuguese: ''
-        spanish: pelirrojas
-        turkish: kızıl saçlı
+        inglez: red-haired
+        fransez: ''
+        portugez: ''
+        kasteyano: pelirrojas
+        turko: kızıl saçlı
 
 
 

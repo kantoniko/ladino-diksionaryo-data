@@ -12,13 +12,13 @@ versions:
       - ladino: vyernes
 
     translations:
-        english: Friday
-        french: vendredi
-        hebrew:
+        inglez: Friday
+        fransez: vendredi
+        ebreo:
           - יום שישי
           - יום ו
-        portuguese: ''
-        spanish: viernes
-        turkish: cuma
+        portugez: ''
+        kasteyano: viernes
+        turko: cuma
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: deskansar
 
     translations:
-        english: rest
-        french: ''
-        portuguese: ''
-        spanish: descansar
-        turkish: dinlenmek
+        inglez: rest
+        fransez: ''
+        portugez: ''
+        kasteyano: descansar
+        turko: dinlenmek
 
 conjugations: {}
 

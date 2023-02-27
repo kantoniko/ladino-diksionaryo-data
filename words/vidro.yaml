@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: glass
-        french: verre
-        portuguese: ''
-        spanish: cristal
-        turkish: cam
+        inglez: glass
+        fransez: verre
+        portugez: ''
+        kasteyano: cristal
+        turko: cam
 
   - ladino: vidros
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: glasses
-        french: verres
-        portuguese: ''
-        spanish: cristals
-        turkish: cam
+        inglez: glasses
+        fransez: verres
+        portugez: ''
+        kasteyano: cristals
+        turko: cam
 

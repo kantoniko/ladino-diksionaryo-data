@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: museum
-        french: ''
-        portuguese: ''
-        spanish: museo
-        turkish: müze
+        inglez: museum
+        fransez: ''
+        portugez: ''
+        kasteyano: museo
+        turko: müze
 
   - ladino: muzeos
     accented: muzéos
@@ -30,9 +30,9 @@ versions:
     number: plural
 
     translations:
-        english: museums
-        french: ''
-        portuguese: ''
-        spanish: museos
-        turkish: müze
+        inglez: museums
+        fransez: ''
+        portugez: ''
+        kasteyano: museos
+        turko: müze
 

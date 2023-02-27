@@ -13,15 +13,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lord
         - master
-        french:
+        fransez:
         - personne riche
         - notable
-        portuguese: rico-homem
-        spanish:
+        portugez: rico-homem
+        kasteyano:
         - señor
         - amo
-        turkish: ağa
+        turko: ağa
 

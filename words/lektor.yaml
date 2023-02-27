@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: reader
-        french: ''
-        portuguese: ''
-        spanish: lector
-        turkish: okur
+        inglez: reader
+        fransez: ''
+        portugez: ''
+        kasteyano: lector
+        turko: okur
 
   - ladino: lektores
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: readers
-        french: ''
-        portuguese: ''
-        spanish: lectores
-        turkish: okur
+        inglez: readers
+        fransez: ''
+        portugez: ''
+        kasteyano: lectores
+        turko: okur
 
 
 

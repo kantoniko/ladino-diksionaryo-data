@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: strange
-        french: ''
-        portuguese: ''
-        spanish: extraño
-        turkish: acayip
+        inglez: strange
+        fransez: ''
+        portugez: ''
+        kasteyano: extraño
+        turko: acayip
 
   - ladino: estranya
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: strange
-        french: ''
-        portuguese: ''
-        spanish: extraña
-        turkish: acayip
+        inglez: strange
+        fransez: ''
+        portugez: ''
+        kasteyano: extraña
+        turko: acayip
 
   - ladino: estranyos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: strange
-        french: ''
-        portuguese: ''
-        spanish: extraños
-        turkish: acayip
+        inglez: strange
+        fransez: ''
+        portugez: ''
+        kasteyano: extraños
+        turko: acayip
 
   - ladino: estranyas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: strange
-        french: ''
-        portuguese: ''
-        spanish: extrañas
-        turkish: acayip
+        inglez: strange
+        fransez: ''
+        portugez: ''
+        kasteyano: extrañas
+        turko: acayip
 
 

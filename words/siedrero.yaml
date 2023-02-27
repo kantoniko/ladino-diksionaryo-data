@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: left-handed
-        french: ''
-        portuguese: ''
-        spanish: zurdo
-        turkish: solak
+        inglez: left-handed
+        fransez: ''
+        portugez: ''
+        kasteyano: zurdo
+        turko: solak
 
   - ladino: siedrera
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: left-handed
-        french: ''
-        portuguese: ''
-        spanish: zurda
-        turkish: solak
+        inglez: left-handed
+        fransez: ''
+        portugez: ''
+        kasteyano: zurda
+        turko: solak
 
   - ladino: siedreros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: left-handed
-        french: ''
-        portuguese: ''
-        spanish: zurdos
-        turkish: solak
+        inglez: left-handed
+        fransez: ''
+        portugez: ''
+        kasteyano: zurdos
+        turko: solak
 
   - ladino: siedreras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: left-handed
-        french: ''
-        portuguese: ''
-        spanish: zurdas
-        turkish: solak
+        inglez: left-handed
+        fransez: ''
+        portugez: ''
+        kasteyano: zurdas
+        turko: solak
 
 
 

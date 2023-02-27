@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - happiness
         - felicity
-        french: ''
-        portuguese: ''
-        spanish: felicidad
-        turkish: mutluluk
+        fransez: ''
+        portugez: ''
+        kasteyano: felicidad
+        turko: mutluluk
 
 

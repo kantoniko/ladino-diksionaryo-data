@@ -5,12 +5,12 @@ versions:
   - ladino: avagar
 
     translations:
-        english: slowly
-        french: lentement
-        portuguese: ''
-        spanish:
+        inglez: slowly
+        fransez: lentement
+        portugez: ''
+        kasteyano:
           - despacio
           - lentamente
-        turkish: yavaş
+        turko: yavaş
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: combination
-        french: ''
-        portuguese: ''
-        spanish: combinación
-        turkish: tertip
+        inglez: combination
+        fransez: ''
+        portugez: ''
+        kasteyano: combinación
+        turko: tertip
 
   - ladino: kombinasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: combinations
-        french: ''
-        portuguese: ''
-        spanish: combinaciónes
-        turkish: tertip
+        inglez: combinations
+        fransez: ''
+        portugez: ''
+        kasteyano: combinaciónes
+        turko: tertip
 
 
 

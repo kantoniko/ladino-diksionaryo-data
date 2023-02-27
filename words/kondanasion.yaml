@@ -5,12 +5,12 @@ versions:
   - ladino: kondanasion
 
     translations:
-        english:
+        inglez:
         - condemnation
         - sentence
-        french: ''
-        portuguese: ''
-        spanish: condenación
-        turkish: mahkûmiyet
+        fransez: ''
+        portugez: ''
+        kasteyano: condenación
+        turko: mahkûmiyet
 
 

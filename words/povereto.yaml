@@ -8,15 +8,15 @@ versions:
       - ladino: ax
 
     translations:
-        english:
+        inglez:
         - poor
         - wretch
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - pobre
         - desgraciado
-        turkish:
+        turko:
         - fakir
         - zavallı
 

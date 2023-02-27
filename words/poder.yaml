@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - power
         - authority
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - poder
         - potencia
-        turkish:
+        turko:
         - güç
         - iktidar
         - kuvvet

@@ -6,10 +6,10 @@ versions:
     accented: firmár
 
     translations:
-        english: sign
-        french: ''
-        portuguese: ''
-        spanish: firmar
-        turkish: imzalamak
+        inglez: sign
+        fransez: ''
+        portugez: ''
+        kasteyano: firmar
+        turko: imzalamak
 
 conjugations: {}

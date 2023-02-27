@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: refrigerator
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: refrigerator
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - nevera
         - frigorífico
-        turkish: buzdolabı
+        turko: buzdolabı
 

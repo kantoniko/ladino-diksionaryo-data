@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: perfect
-        french: ''
-        portuguese: ''
-        spanish: perfecto
-        turkish: mükemmel
+        inglez: perfect
+        fransez: ''
+        portugez: ''
+        kasteyano: perfecto
+        turko: mükemmel
 
   - ladino: perfekta
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: perfect
-        french: ''
-        portuguese: ''
-        spanish: perfecta
-        turkish: mükemmel
+        inglez: perfect
+        fransez: ''
+        portugez: ''
+        kasteyano: perfecta
+        turko: mükemmel
 
   - ladino: perfektos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: perfect
-        french: ''
-        portuguese: ''
-        spanish: perfectos
-        turkish: mükemmel
+        inglez: perfect
+        fransez: ''
+        portugez: ''
+        kasteyano: perfectos
+        turko: mükemmel
 
   - ladino: perfektas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: perfect
-        french: ''
-        portuguese: ''
-        spanish: perfectas
-        turkish: mükemmel
+        inglez: perfect
+        fransez: ''
+        portugez: ''
+        kasteyano: perfectas
+        turko: mükemmel
 
 
 

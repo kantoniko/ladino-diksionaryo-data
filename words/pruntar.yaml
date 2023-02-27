@@ -10,10 +10,10 @@ versions:
         accented: demandár
 
     translations:
-        english: ask
-        french: ''
-        portuguese: ''
-        spanish: preguntar
-        turkish: sormak
+        inglez: ask
+        fransez: ''
+        portugez: ''
+        kasteyano: preguntar
+        turko: sormak
 
 conjugations: {}

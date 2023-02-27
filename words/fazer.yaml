@@ -5,13 +5,13 @@ versions:
   - ladino: fazer
 
     translations:
-        english:
+        inglez:
         - do
         - make
-        french: ''
-        portuguese: ''
-        spanish: hacer
-        turkish: yapmak
+        fransez: ''
+        portugez: ''
+        kasteyano: hacer
+        turko: yapmak
 
 conjugations: {}
 

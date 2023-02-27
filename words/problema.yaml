@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: problem
-        french: ''
-        portuguese: ''
-        spanish: problema
-        turkish: problem
+        inglez: problem
+        fransez: ''
+        portugez: ''
+        kasteyano: problema
+        turko: problem
 
   - ladino: problemas
     accented: problémas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: problems
-        french: ''
-        portuguese: ''
-        spanish: problemas
-        turkish: problem
+        inglez: problems
+        fransez: ''
+        portugez: ''
+        kasteyano: problemas
+        turko: problem
 

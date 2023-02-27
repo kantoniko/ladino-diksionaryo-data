@@ -5,13 +5,13 @@ versions:
   - ladino: kontar
 
     translations:
-        english:
+        inglez:
         - count
         - tell
-        french: ''
-        portuguese: ''
-        spanish: contar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: contar
+        turko:
         - saymak
         - anlatmak
 

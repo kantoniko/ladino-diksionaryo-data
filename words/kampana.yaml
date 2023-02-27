@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: bell
-        french: cloche
-        portuguese: campana
-        spanish: campana
-        turkish:
+        inglez: bell
+        fransez: cloche
+        portugez: campana
+        kasteyano: campana
+        turko:
         - çan
         - kampana
 

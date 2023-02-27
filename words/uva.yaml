@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: grape
-      french: raisin
-      hebrew: ענב
-      portuguese: uva
-      spanish: uva
-      turkish: üzüm
+      inglez: grape
+      fransez: raisin
+      ebreo: ענב
+      portugez: uva
+      kasteyano: uva
+      turko: üzüm
 
   - ladino: uvas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: grapes
-      french: raisins
-      hebrew: ענבים
-      portuguese: uvas
-      spanish: uvas
-      turkish: üzümler
+      inglez: grapes
+      fransez: raisins
+      ebreo: ענבים
+      portugez: uvas
+      kasteyano: uvas
+      turko: üzümler
 
 
 

@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: category
-      french: ''
-      hebrew: קטגוריה
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: category
+      fransez: ''
+      ebreo: קטגוריה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: kategorias
     accented: kategorías
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-      english: categories
-      french: ''
-      hebrew: קטגוריות
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: categories
+      fransez: ''
+      ebreo: קטגוריות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 

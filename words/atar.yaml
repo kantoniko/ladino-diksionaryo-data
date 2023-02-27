@@ -5,11 +5,11 @@ versions:
   - ladino: atar
 
     translations:
-        english: tie
-        french: attacher
-        portuguese: ''
-        spanish: atar
-        turkish: bağlamak
+        inglez: tie
+        fransez: attacher
+        portugez: ''
+        kasteyano: atar
+        turko: bağlamak
 
 conjugations: {}
 

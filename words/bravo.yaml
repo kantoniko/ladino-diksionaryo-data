@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: brave
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: brave
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bravo
-        turkish: cesur
+        turko: cesur
 
   - ladino: brava
     accented: bráva
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-        english: brave
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: brave
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - brava
-        turkish: cesur
+        turko: cesur
 
 
 

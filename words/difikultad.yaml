@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: difficulty
-        french: ''
-        portuguese: ''
-        spanish: dificultad
-        turkish: güçlük
+        inglez: difficulty
+        fransez: ''
+        portugez: ''
+        kasteyano: dificultad
+        turko: güçlük
 
   - ladino: difikultades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: difficulties
-        french: ''
-        portuguese: ''
-        spanish: dificultades
-        turkish: güçlük
+        inglez: difficulties
+        fransez: ''
+        portugez: ''
+        kasteyano: dificultades
+        turko: güçlük
 
 
 

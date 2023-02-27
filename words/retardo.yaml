@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: delay
-        french: ''
-        portuguese: ''
-        spanish: retraso
-        turkish: gecikme
+        inglez: delay
+        fransez: ''
+        portugez: ''
+        kasteyano: retraso
+        turko: gecikme
 
   - ladino: retardos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: delays
-        french: ''
-        portuguese: ''
-        spanish: retrasos
-        turkish: gecikme
+        inglez: delays
+        fransez: ''
+        portugez: ''
+        kasteyano: retrasos
+        turko: gecikme
 
 
 

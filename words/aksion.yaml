@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: action
-        french: ''
-        portuguese: ''
-        spanish: acción
-        turkish:
+        inglez: action
+        fransez: ''
+        portugez: ''
+        kasteyano: acción
+        turko:
         - hareket
         - eylem
         - hisse
@@ -25,11 +25,11 @@ versions:
     number: plural
 
     translations:
-        english: actions
-        french: ''
-        portuguese: ''
-        spanish: acciónes
-        turkish:
+        inglez: actions
+        fransez: ''
+        portugez: ''
+        kasteyano: acciónes
+        turko:
         - hareket
         - eylem
         - hisse

@@ -5,11 +5,11 @@ versions:
   - ladino: mayor
 
     translations:
-        english: major
-        french: ''
-        portuguese: ''
-        spanish: mayor
-        turkish:
+        inglez: major
+        fransez: ''
+        portugez: ''
+        kasteyano: mayor
+        turko:
         - reşit
         - ónemli
         - binbaşı

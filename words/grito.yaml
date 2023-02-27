@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - yell
         - scream
         - shout
-        french: ''
-        portuguese: ''
-        spanish: grito
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: grito
+        turko:
         - nara
         - çığlık
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - yells
         - screams
         - shouts
-        french: ''
-        portuguese: ''
-        spanish: gritos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: gritos
+        turko:
         - nara
         - çığlık
 

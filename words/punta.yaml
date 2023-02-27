@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: point
-        french: ''
-        portuguese: ''
-        spanish: confín
-        turkish:
+        inglez: point
+        fransez: ''
+        portugez: ''
+        kasteyano: confín
+        turko:
         - ufuk
         - uç
 

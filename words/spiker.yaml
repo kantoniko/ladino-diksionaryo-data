@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: announcer
-        french: ''
-        portuguese: ''
-        spanish: locutor
-        turkish: spiker
+        inglez: announcer
+        fransez: ''
+        portugez: ''
+        kasteyano: locutor
+        turko: spiker
 
   - ladino: spikeres
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: announcers
-        french: ''
-        portuguese: ''
-        spanish: locutores
-        turkish: spiker
+        inglez: announcers
+        fransez: ''
+        portugez: ''
+        kasteyano: locutores
+        turko: spiker
 
 
 

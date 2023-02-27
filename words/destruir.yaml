@@ -5,11 +5,11 @@ versions:
   - ladino: destruir
 
     translations:
-        english: destroy
-        french: ''
-        portuguese: ''
-        spanish: destruir
-        turkish: yıkmak
+        inglez: destroy
+        fransez: ''
+        portugez: ''
+        kasteyano: destruir
+        turko: yıkmak
 
 conjugations: {}
 

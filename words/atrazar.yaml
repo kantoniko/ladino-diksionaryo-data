@@ -5,13 +5,13 @@ versions:
   - ladino: atrazar
 
     translations:
-        english:
+        inglez:
           - retard
           - be slow (clock)
-        french: tarder
-        portuguese: ''
-        spanish: atrasar
-        turkish:
+        fransez: tarder
+        portugez: ''
+        kasteyano: atrasar
+        turko:
           - tehir etmek
           - gerilemek (saat)
 

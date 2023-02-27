@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: star
-        french: ''
-        portuguese: ''
-        spanish: estrella
-        turkish: yıldız
+        inglez: star
+        fransez: ''
+        portugez: ''
+        kasteyano: estrella
+        turko: yıldız
 
   - ladino: estreyas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: stars
-        french: ''
-        portuguese: ''
-        spanish: estrellas
-        turkish: yıldız
+        inglez: stars
+        fransez: ''
+        portugez: ''
+        kasteyano: estrellas
+        turko: yıldız
 
 
 

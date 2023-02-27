@@ -5,11 +5,11 @@ versions:
   - ladino: bostan
 
     translations:
-        english: market garden
-        french: ''
-        portuguese: ''
-        spanish: huerta
-        turkish:
+        inglez: market garden
+        fransez: ''
+        portugez: ''
+        kasteyano: huerta
+        turko:
         - bostan
         - büyük bahçe
 

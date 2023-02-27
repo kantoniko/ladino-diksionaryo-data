@@ -5,11 +5,11 @@ versions:
   - ladino: egzekutir
 
     translations:
-        english: execute
-        french: ''
-        portuguese: ''
-        spanish: ejecutar
-        turkish: infaz etmek
+        inglez: execute
+        fransez: ''
+        portugez: ''
+        kasteyano: ejecutar
+        turko: infaz etmek
 
 conjugations: {}
 

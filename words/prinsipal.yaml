@@ -15,14 +15,14 @@ versions:
 
 
     translations:
-      english:
+      inglez:
         - main
         - major
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: principal
-      turkish:  asıl
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: principal
+      turko:  asıl
 
   - ladino: prinsipales
     #accented:
@@ -36,14 +36,14 @@ versions:
 
 
     translations:
-      english:
+      inglez:
         - main
         - major
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: principales
-      turkish: asıllar
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: principales
+      turko: asıllar
 
 
 

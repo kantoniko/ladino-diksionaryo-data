@@ -5,11 +5,11 @@ versions:
   - ladino: siguir
 
     translations:
-        english: follow
-        french: ''
-        portuguese: ''
-        spanish: seguir
-        turkish: izlemek
+        inglez: follow
+        fransez: ''
+        portugez: ''
+        kasteyano: seguir
+        turko: izlemek
 
 conjugations: {}
 

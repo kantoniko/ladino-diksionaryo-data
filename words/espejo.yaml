@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: mirror
-        french: ''
-        portuguese: ''
-        spanish: espejo
-        turkish: ayna
+        inglez: mirror
+        fransez: ''
+        portugez: ''
+        kasteyano: espejo
+        turko: ayna
 
   - ladino: espejos
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: mirrors
-        french: ''
-        portuguese: ''
-        spanish: espejos
-        turkish: ayna
+        inglez: mirrors
+        fransez: ''
+        portugez: ''
+        kasteyano: espejos
+        turko: ayna
 
 
 

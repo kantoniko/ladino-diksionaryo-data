@@ -5,11 +5,11 @@ versions:
   - ladino: salir
 
     translations:
-        english: go out
-        french: ''
-        portuguese: ''
-        spanish: salir
-        turkish: çıkmak
+        inglez: go out
+        fransez: ''
+        portugez: ''
+        kasteyano: salir
+        turko: çıkmak
 
 conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: animar
 
     translations:
-        english: animate
-        french: ''
-        portuguese: ''
-        spanish: animar
-        turkish: canlandırmak
+        inglez: animate
+        fransez: ''
+        portugez: ''
+        kasteyano: animar
+        turko: canlandırmak
 
 conjugations: {}
 

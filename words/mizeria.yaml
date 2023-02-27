@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: misery
-        french: ''
-        portuguese: ''
-        spanish: miseria
-        turkish: sefâlet
+        inglez: misery
+        fransez: ''
+        portugez: ''
+        kasteyano: miseria
+        turko: sefâlet
 
   - ladino: mizerias
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: miseries
-        french: ''
-        portuguese: ''
-        spanish: miserias
-        turkish: sefâlet
+        inglez: miseries
+        fransez: ''
+        portugez: ''
+        kasteyano: miserias
+        turko: sefâlet
 
 
 

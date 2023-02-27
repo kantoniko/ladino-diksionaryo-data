@@ -5,11 +5,11 @@ versions:
   - ladino: eskonderse
 
     translations:
-        english: hide
-        french: ''
-        portuguese: ''
-        spanish: esconderse
-        turkish: saklanmak
+        inglez: hide
+        fransez: ''
+        portugez: ''
+        kasteyano: esconderse
+        turko: saklanmak
 
 conjugations: {}
 

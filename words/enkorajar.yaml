@@ -5,15 +5,15 @@ versions:
   - ladino: enkorajar
 
     translations:
-        english:
+        inglez:
           - encourage
           - urge on
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - animar
           - jalear
-        turkish:
+        turko:
           - cesaretlendirmek
           - teşvik etmek
 

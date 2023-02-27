@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - lay out
         - format
-        french: mise-en-page
-        portuguese: compaginação
-        spanish:
+        fransez: mise-en-page
+        portugez: compaginação
+        kasteyano:
         - compaginación
         - maquetación
-        turkish:
+        turko:
         - dizgi
         - tertip
         - sahifelendirme

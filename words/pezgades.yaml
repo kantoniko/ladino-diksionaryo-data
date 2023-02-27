@@ -5,13 +5,13 @@ versions:
   - ladino: pezgades
 
     translations:
-        english:
+        inglez:
         - heaviness
         - weight
-        french: ''
-        portuguese: ''
-        spanish: pesadez
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: pesadez
+        turko:
         - ağırlık
         - sırnaşıklık
 

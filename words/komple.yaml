@@ -13,12 +13,12 @@ versions:
       - ladino: kostum
 
     translations:
-        english:
+        inglez:
         - costume
         - suit
-        french: ''
-        portuguese: ''
-        spanish: traje
-        turkish: takım elbise
+        fransez: ''
+        portugez: ''
+        kasteyano: traje
+        turko: takım elbise
 
 

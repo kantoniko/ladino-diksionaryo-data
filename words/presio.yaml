@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: price
-        french: ''
-        portuguese: ''
-        spanish: precio
-        turkish: fiyat
+        inglez: price
+        fransez: ''
+        portugez: ''
+        kasteyano: precio
+        turko: fiyat
 
   - ladino: presios
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: prices
-        french: ''
-        portuguese: ''
-        spanish: precios
-        turkish: fiyat
+        inglez: prices
+        fransez: ''
+        portugez: ''
+        kasteyano: precios
+        turko: fiyat
 
 
 

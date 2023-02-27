@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english: watermelon
-        french: ''
-        hebrew: אבטיח
-        portuguese: melancia
-        spanish: sandía
-        turkish: karpuz
+        inglez: watermelon
+        fransez: ''
+        ebreo: אבטיח
+        portugez: melancia
+        kasteyano: sandía
+        turko: karpuz
 
   - ladino: karpuzes
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-        english: watermelons
-        french: ''
-        hebrew: אבטיחים
-        portuguese:  melancias
-        spanish: sandías
-        turkish: karpuzlar
+        inglez: watermelons
+        fransez: ''
+        ebreo: אבטיחים
+        portugez:  melancias
+        kasteyano: sandías
+        turko: karpuzlar
 
 
 

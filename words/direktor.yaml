@@ -11,15 +11,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - director
         - manager
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - director
         - empresario
-        turkish:
+        turko:
         - yönetici
         - müdür
         - direktör
@@ -31,15 +31,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - director
         - manager
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - directora
         - empresaria
-        turkish:
+        turko:
         - yönetici
         - müdür
         - direktör
@@ -51,15 +51,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - directors
         - managers
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - directores
         - empresarios
-        turkish:
+        turko:
         - yönetici
         - müdür
         - direktör
@@ -71,15 +71,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - directors
         - managers
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - directoras
         - empresarias
-        turkish:
+        turko:
         - yönetici
         - müdür
         - direktör

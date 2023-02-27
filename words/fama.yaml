@@ -5,11 +5,11 @@ versions:
   - ladino: fama
 
     translations:
-        english: fame
-        french: ''
-        portuguese: ''
-        spanish: fama
-        turkish:
+        inglez: fame
+        fransez: ''
+        portugez: ''
+        kasteyano: fama
+        turko:
         - ün
         - şöhret
 

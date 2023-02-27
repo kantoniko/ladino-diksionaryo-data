@@ -6,18 +6,18 @@ versions:
     accented: aferrár
 
     translations:
-        english:
+        inglez:
         - seize
         - hold in place
-        french:
+        fransez:
         - saisir
         - attraper
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - atrapar
         - agarrar
         - coger
         - prender
-        turkish: yakalamak
+        turko: yakalamak
 
 conjugations: {}

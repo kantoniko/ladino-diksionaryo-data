@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: search
-        french: ''
-        portuguese: ''
-        spanish: búsqueda
-        turkish: arama
+        inglez: search
+        fransez: ''
+        portugez: ''
+        kasteyano: búsqueda
+        turko: arama
 
   - ladino: bushkidas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: searches
-        french: ''
-        portuguese: ''
-        spanish: búsquedas
-        turkish: arama
+        inglez: searches
+        fransez: ''
+        portugez: ''
+        kasteyano: búsquedas
+        turko: arama
 
 
 

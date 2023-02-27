@@ -5,13 +5,13 @@ versions:
   - ladino: igual
 
     translations:
-        english:
+        inglez:
         - equal
         - same
-        french: ''
-        portuguese: ''
-        spanish: igual
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: igual
+        turko:
         - gibi
         - eşit
 

@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - remedy
           - solution
-        french: ''
-        portuguese: ''
-        spanish: remedio
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: remedio
+        turko:
         - çare
         - derman
 
@@ -34,13 +34,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - remedies
           - solutions
-        french: ''
-        portuguese: ''
-        spanish: remedios
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: remedios
+        turko:
         - çare
         - derman
 

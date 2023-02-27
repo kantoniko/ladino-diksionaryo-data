@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: region
-        french: ''
-        portuguese: ''
-        spanish: región
-        turkish:
+        inglez: region
+        fransez: ''
+        portugez: ''
+        kasteyano: región
+        turko:
         - bölge
         - yöre
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: regions
-        french: ''
-        portuguese: ''
-        spanish: regiónes
-        turkish:
+        inglez: regions
+        fransez: ''
+        portugez: ''
+        kasteyano: regiónes
+        turko:
         - bölge
         - yöre
 

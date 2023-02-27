@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: tasty
-        french: ''
-        portuguese: ''
-        spanish: sabroso
-        turkish: lezzetli
+        inglez: tasty
+        fransez: ''
+        portugez: ''
+        kasteyano: sabroso
+        turko: lezzetli
 
   - ladino: savroza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: tasty
-        french: ''
-        portuguese: ''
-        spanish: sabrosa
-        turkish: lezzetli
+        inglez: tasty
+        fransez: ''
+        portugez: ''
+        kasteyano: sabrosa
+        turko: lezzetli
 
   - ladino: savrozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: tasty
-        french: ''
-        portuguese: ''
-        spanish: sabrosos
-        turkish: lezzetli
+        inglez: tasty
+        fransez: ''
+        portugez: ''
+        kasteyano: sabrosos
+        turko: lezzetli
 
   - ladino: savrozas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: tasty
-        french: ''
-        portuguese: ''
-        spanish: sabrosas
-        turkish: lezzetli
+        inglez: tasty
+        fransez: ''
+        portugez: ''
+        kasteyano: sabrosas
+        turko: lezzetli
 
 
 

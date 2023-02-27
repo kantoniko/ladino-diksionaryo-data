@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: million
-        french: ''
-        portuguese: ''
-        spanish: millón
-        turkish: milyon
+        inglez: million
+        fransez: ''
+        portugez: ''
+        kasteyano: millón
+        turko: milyon
 
   - ladino: milyones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: millions
-        french: ''
-        portuguese: ''
-        spanish: millónes
-        turkish: milyon
+        inglez: millions
+        fransez: ''
+        portugez: ''
+        kasteyano: millónes
+        turko: milyon
 
 
 

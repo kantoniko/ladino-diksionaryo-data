@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sincere
-        french: ''
-        portuguese: ''
-        spanish: sincero
-        turkish: samimî
+        inglez: sincere
+        fransez: ''
+        portugez: ''
+        kasteyano: sincero
+        turko: samimî
 
   - ladino: sinsera
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: sincere
-        french: ''
-        portuguese: ''
-        spanish: sincera
-        turkish: samimî
+        inglez: sincere
+        fransez: ''
+        portugez: ''
+        kasteyano: sincera
+        turko: samimî
 
   - ladino: sinseros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: sincere
-        french: ''
-        portuguese: ''
-        spanish: sinceros
-        turkish: samimî
+        inglez: sincere
+        fransez: ''
+        portugez: ''
+        kasteyano: sinceros
+        turko: samimî
 
   - ladino: sinseras
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: sincere
-        french: ''
-        portuguese: ''
-        spanish: sinceras
-        turkish: samimî
+        inglez: sincere
+        fransez: ''
+        portugez: ''
+        kasteyano: sinceras
+        turko: samimî
 
 
 

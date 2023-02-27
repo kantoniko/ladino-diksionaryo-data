@@ -8,11 +8,11 @@ versions:
       - ladino: inventado
 
     translations:
-        english: invented
-        french: ''
-        portuguese: ''
-        spanish: inventado
-        turkish: ''
+        inglez: invented
+        fransez: ''
+        portugez: ''
+        kasteyano: inventado
+        turko: ''
 
   - ladino: enventados
 
@@ -20,11 +20,11 @@ versions:
       - ladino: inventados
 
     translations:
-        english: invented
-        french: ''
-        portuguese: ''
-        spanish: inventados
-        turkish: ''
+        inglez: invented
+        fransez: ''
+        portugez: ''
+        kasteyano: inventados
+        turko: ''
 
 
 

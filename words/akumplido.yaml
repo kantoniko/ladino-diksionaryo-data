@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - gifted
         - accomplished
-        french: accompli
-        portuguese: dotado
-        spanish:
+        fransez: accompli
+        portugez: dotado
+        kasteyano:
         - dotado
         - hábil
-        turkish:
+        turko:
         - hünerli
         - becerikli
 
@@ -26,15 +26,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - gifted
         - accomplished
-        french: accomplie
-        portuguese: dotada
-        spanish:
+        fransez: accomplie
+        portugez: dotada
+        kasteyano:
         - dotada
         - hábil
-        turkish:
+        turko:
         - hünerli
         - becerikli
 
@@ -44,15 +44,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - gifted
         - accomplished
-        french: ''
-        portuguese: dotados
-        spanish:
+        fransez: ''
+        portugez: dotados
+        kasteyano:
         - dotados
         - hábil
-        turkish:
+        turko:
         - hünerli
         - becerikli
 
@@ -62,15 +62,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - gifted
         - accomplished
-        french: ''
-        portuguese: dotadas
-        spanish:
+        fransez: ''
+        portugez: dotadas
+        kasteyano:
         - dotadas
         - hábil
-        turkish:
+        turko:
         - hünerli
         - becerikli
 

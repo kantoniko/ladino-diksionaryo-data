@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: cloud
-        french: nuage
-        portuguese: nuvem
-        spanish: nube
-        turkish: bulut
+        inglez: cloud
+        fransez: nuage
+        portugez: nuvem
+        kasteyano: nube
+        turko: bulut
 
   - ladino: nuves
     accented: núves
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: clouds
-        french: ''
-        portuguese: ''
-        spanish: nubes
-        turkish: ''
+        inglez: clouds
+        fransez: ''
+        portugez: ''
+        kasteyano: nubes
+        turko: ''
 
 
 

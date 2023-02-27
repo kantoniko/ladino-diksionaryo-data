@@ -12,12 +12,12 @@ versions:
     number: singular
 
     translations:
-      english: nationality
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: nacionalidad
-      turkish: ''
+      inglez: nationality
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: nacionalidad
+      turko: ''
 
   - ladino: nasionalidades
 
@@ -29,11 +29,11 @@ versions:
     number: plural
 
     translations:
-      english: nationality
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: nacionalidades
-      turkish: ''
+      inglez: nationality
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: nacionalidades
+      turko: ''
 
 

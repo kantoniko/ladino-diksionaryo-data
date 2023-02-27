@@ -9,21 +9,21 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fate
         - destiny
         - sort
         - chance
         - lot
-        french:
+        fransez:
         - destinée
         - sort
         - chance
-        portuguese: sorte
-        spanish:
+        portugez: sorte
+        kasteyano:
         - suerte
         - destino
-        turkish:
+        turko:
         - nasip
         - kısmet
 

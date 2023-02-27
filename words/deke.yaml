@@ -8,13 +8,13 @@ versions:
     accented: deké
 
     translations:
-        english: why
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: why
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - por qué
         - para qué
-        turkish:
+        turko:
         - neden
         - niye
 

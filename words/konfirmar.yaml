@@ -5,11 +5,11 @@ versions:
   - ladino: konfirmar
 
     translations:
-        english: corroborate
-        french: ''
-        portuguese: ''
-        spanish: corroborar
-        turkish: teyid etmek
+        inglez: corroborate
+        fransez: ''
+        portugez: ''
+        kasteyano: corroborar
+        turko: teyid etmek
 
 conjugations: {}
 

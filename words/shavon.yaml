@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: soap
-        french: ''
-        portuguese: ''
-        spanish: jabón
-        turkish: sabun
+        inglez: soap
+        fransez: ''
+        portugez: ''
+        kasteyano: jabón
+        turko: sabun
 
   - ladino: shavones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: soaps
-        french: ''
-        portuguese: ''
-        spanish: jabónes
-        turkish: sabun
+        inglez: soaps
+        fransez: ''
+        portugez: ''
+        kasteyano: jabónes
+        turko: sabun
 
 
 

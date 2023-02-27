@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: concert
-        french: ''
-        portuguese: ''
-        spanish: concierto
-        turkish: konser
+        inglez: concert
+        fransez: ''
+        portugez: ''
+        kasteyano: concierto
+        turko: konser
 
   - ladino: konsertos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: concerts
-        french: ''
-        portuguese: ''
-        spanish: conciertos
-        turkish: konser
+        inglez: concerts
+        fransez: ''
+        portugez: ''
+        kasteyano: conciertos
+        turko: konser
 
 
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: fur
-      french: ''
-      hebrew: פרווה
-      portuguese: ''
-      spanish: pelo
-      turkish: ''
+      inglez: fur
+      fransez: ''
+      ebreo: פרווה
+      portugez: ''
+      kasteyano: pelo
+      turko: ''
 
   - ladino: samaras
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: furs
-      french: ''
-      hebrew: פרוות
-      portuguese: ''
-      spanish: pelos
-      turkish: ''
+      inglez: furs
+      fransez: ''
+      ebreo: פרוות
+      portugez: ''
+      kasteyano: pelos
+      turko: ''
 
 

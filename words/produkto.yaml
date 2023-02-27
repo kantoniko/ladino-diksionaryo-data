@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: product
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: producto
-      turkish: ''
+      inglez: product
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: producto
+      turko: ''
 
   - ladino: produktos
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: products
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: productos
-      turkish: ''
+      inglez: products
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: productos
+      turko: ''
 
 

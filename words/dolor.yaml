@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - pain
         - ache
-        french: douleur
-        portuguese: dor
-        spanish: dolor
-        turkish: ağrı
+        fransez: douleur
+        portugez: dor
+        kasteyano: dolor
+        turko: ağrı
 
 

@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - chicken
           - chick
-        french: poulet
-        hebrew: תרנגולת
-        portuguese: frango
-        spanish: pollo
-        turkish: piliç
+        fransez: poulet
+        ebreo: תרנגולת
+        portugez: frango
+        kasteyano: pollo
+        turko: piliç
 
   - ladino: gaynas
 
@@ -25,13 +25,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - chickens
           - chicks
-        french: ''
-        hebrew: תרנגולות
-        portuguese: ''
-        spanish: pollos
-        turkish: tavuklar
+        fransez: ''
+        ebreo: תרנגולות
+        portugez: ''
+        kasteyano: pollos
+        turko: tavuklar
 
 

@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - archive
           - file
-        french: ''
-        portuguese: ''
-        spanish: archivo
-        turkish: arşiv
+        fransez: ''
+        portugez: ''
+        kasteyano: archivo
+        turko: arşiv
 
   - ladino: archivos
 
@@ -28,13 +28,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - archives
           - files
-        french: ''
-        portuguese: ''
-        spanish: archivos
-        turkish: arşiv
+        fransez: ''
+        portugez: ''
+        kasteyano: archivos
+        turko: arşiv
 
 
 

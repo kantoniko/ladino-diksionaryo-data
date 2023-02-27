@@ -5,11 +5,11 @@ versions:
   - ladino: kayarse
 
     translations:
-        english: keep quiet
-        french: ''
-        portuguese: ''
-        spanish: callarse
-        turkish: susmak
+        inglez: keep quiet
+        fransez: ''
+        portugez: ''
+        kasteyano: callarse
+        turko: susmak
 
 conjugations: {}
 

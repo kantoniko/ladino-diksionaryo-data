@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: data
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: datos
-      turkish: ''
+      inglez: data
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: datos
+      turko: ''
 
   - ladino: datos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: data
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: datos
-      turkish: ''
+      inglez: data
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: datos
+      turko: ''
 
 
 

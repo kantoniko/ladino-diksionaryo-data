@@ -7,11 +7,11 @@ versions:
       - ladino: empesijo
 
     translations:
-        english: beginning
-        french: ''
-        portuguese: ''
-        spanish: principio
-        turkish:
+        inglez: beginning
+        fransez: ''
+        portugez: ''
+        kasteyano: principio
+        turko:
         - önce
         - başlangıç
 

@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: nurse
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enfermero
-      turkish: hasta
+      inglez: nurse
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enfermero
+      turko: hasta
 
   - ladino: enfermera
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: nurse
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enfermera
-      turkish: hasta
+      inglez: nurse
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enfermera
+      turko: hasta
 
   - ladino: enfermeros
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: nurses
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enfermeros
-      turkish: hastalar
+      inglez: nurses
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enfermeros
+      turko: hastalar
 
   - ladino: enfermeras
 
@@ -49,12 +49,12 @@ versions:
     number: plural
 
     translations:
-      english: nurses
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: enfermeras
-      turkish: hastalar
+      inglez: nurses
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: enfermeras
+      turko: hastalar
 
 
 

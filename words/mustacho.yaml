@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: moustache
-        french: ''
-        portuguese: ''
-        spanish: bigote
-        turkish: bıyık
+        inglez: moustache
+        fransez: ''
+        portugez: ''
+        kasteyano: bigote
+        turko: bıyık
 
   - ladino: mustachos
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: moustaches
-        french: ''
-        portuguese: ''
-        spanish: bigotes
-        turkish: bıyık
+        inglez: moustaches
+        fransez: ''
+        portugez: ''
+        kasteyano: bigotes
+        turko: bıyık
 
 
 

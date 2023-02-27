@@ -5,13 +5,13 @@ versions:
   - ladino: gusto
 
     translations:
-        english:
+        inglez:
         - pleasure
         - taste
-        french: ''
-        portuguese: ''
-        spanish: gusto
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: gusto
+        turko:
         - zevk
         - tat
 

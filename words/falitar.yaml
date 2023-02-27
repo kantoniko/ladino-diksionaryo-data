@@ -5,13 +5,13 @@ versions:
   - ladino: falitar
 
     translations:
-        english:
+        inglez:
         - be ruined
         - be bankrupt
-        french: ''
-        portuguese: ''
-        spanish: arruinarse
-        turkish: iflâs etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: arruinarse
+        turko: iflâs etmek
 
 conjugations: {}
 

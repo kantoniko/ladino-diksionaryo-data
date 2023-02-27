@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: blessed
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bendecido
-      turkish: ''
+      inglez: blessed
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bendecido
+      turko: ''
 
   - ladino: bendicha
 
@@ -27,12 +27,12 @@ versions:
     number: singular
 
     translations:
-      english: blessed
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bendecida
-      turkish: ''
+      inglez: blessed
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bendecida
+      turko: ''
 
   - ladino: bendichos
 
@@ -43,12 +43,12 @@ versions:
     number: plural
 
     translations:
-      english: blessed
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bendecidos
-      turkish: ''
+      inglez: blessed
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bendecidos
+      turko: ''
 
   - ladino: bendichas
 
@@ -59,11 +59,11 @@ versions:
     number: plural
 
     translations:
-      english: blessed
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bendecidas
-      turkish: ''
+      inglez: blessed
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bendecidas
+      turko: ''
 
 

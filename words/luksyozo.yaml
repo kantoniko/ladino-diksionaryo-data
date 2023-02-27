@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: luxurious
-        french: ''
-        portuguese: ''
-        spanish: lujoso
-        turkish: lüks
+        inglez: luxurious
+        fransez: ''
+        portugez: ''
+        kasteyano: lujoso
+        turko: lüks
 
   - ladino: luksyoza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: luxurious
-        french: ''
-        portuguese: ''
-        spanish: lujosa
-        turkish: lüks
+        inglez: luxurious
+        fransez: ''
+        portugez: ''
+        kasteyano: lujosa
+        turko: lüks
 
   - ladino: luksyozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: luxurious
-        french: ''
-        portuguese: ''
-        spanish: lujosos
-        turkish: lüks
+        inglez: luxurious
+        fransez: ''
+        portugez: ''
+        kasteyano: lujosos
+        turko: lüks
 
   - ladino: luksyozas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: luxurious
-        french: ''
-        portuguese: ''
-        spanish: lujosas
-        turkish: lüks
+        inglez: luxurious
+        fransez: ''
+        portugez: ''
+        kasteyano: lujosas
+        turko: lüks
 
 
 

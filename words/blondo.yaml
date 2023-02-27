@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: blond
-        french: ''
-        portuguese: ''
-        spanish: rubio
-        turkish: sarışın
+        inglez: blond
+        fransez: ''
+        portugez: ''
+        kasteyano: rubio
+        turko: sarışın
 
   - ladino: blonda
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: blond
-        french: ''
-        portuguese: ''
-        spanish: rubia
-        turkish: sarışın
+        inglez: blond
+        fransez: ''
+        portugez: ''
+        kasteyano: rubia
+        turko: sarışın
 
   - ladino: blondos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: blonds
-        french: ''
-        portuguese: ''
-        spanish: rubios
-        turkish: sarışın
+        inglez: blonds
+        fransez: ''
+        portugez: ''
+        kasteyano: rubios
+        turko: sarışın
 
   - ladino: blondas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: blonds
-        french: ''
-        portuguese: ''
-        spanish: rubias
-        turkish: sarışın
+        inglez: blonds
+        fransez: ''
+        portugez: ''
+        kasteyano: rubias
+        turko: sarışın
 
 
 

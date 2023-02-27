@@ -8,14 +8,14 @@ versions:
     gender: both
 
     translations:
-        english:
+        inglez:
         - us
         - to us
         - ourselves
-        french: ''
-        portuguese: ''
-        spanish: nos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: nos
+        turko:
         - bizi
         - bize
 

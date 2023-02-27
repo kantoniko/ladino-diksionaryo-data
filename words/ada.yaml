@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: island
-        french: île
-        portuguese: ilha
-        spanish: isla
-        turkish: ada
+        inglez: island
+        fransez: île
+        portugez: ilha
+        kasteyano: isla
+        turko: ada
 
   - ladino: adas
     accented: adás
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: islands
-        french: île
-        portuguese: ilhas
-        spanish: islas
-        turkish: ada
+        inglez: islands
+        fransez: île
+        portugez: ilhas
+        kasteyano: islas
+        turko: ada
 
 

@@ -5,10 +5,10 @@ versions:
   - ladino: retina
 
     translations:
-        english: retina
-        french: ''
-        portuguese: ''
-        spanish: retina
-        turkish: retina
+        inglez: retina
+        fransez: ''
+        portugez: ''
+        kasteyano: retina
+        turko: retina
 
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: conversation
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: conversacion
-      turkish: ''
+      inglez: conversation
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: conversacion
+      turko: ''
 
   - ladino: konversasiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: conversations
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: conversaciones
-      turkish: ''
+      inglez: conversations
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: conversaciones
+      turko: ''
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: espandir
 
     translations:
-        english: extend
-        french: ''
-        portuguese: ''
-        spanish: expandir
-        turkish:
+        inglez: extend
+        fransez: ''
+        portugez: ''
+        kasteyano: expandir
+        turko:
         - uzatmak
         - yaymak
 

@@ -5,11 +5,11 @@ versions:
   - ladino: egzemplar
 
     translations:
-        english: exemplary
-        french: ''
-        portuguese: ''
-        spanish: ejemplar
-        turkish: órnek olabilecek
+        inglez: exemplary
+        fransez: ''
+        portugez: ''
+        kasteyano: ejemplar
+        turko: órnek olabilecek
 
 conjugations: {}
 

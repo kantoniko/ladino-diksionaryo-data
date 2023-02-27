@@ -6,15 +6,15 @@ versions:
     accented: fiárse
 
     translations:
-        english:
+        inglez:
         - rely
         - trust
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - fiarse
         - hacer confianza
-        turkish: güvenmek
+        turko: güvenmek
 
 conjugations: {}
 

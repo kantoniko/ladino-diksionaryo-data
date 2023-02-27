@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: touch
-        french: ''
-        portuguese: ''
-        spanish: tacto
-        turkish: temas
+        inglez: touch
+        fransez: ''
+        portugez: ''
+        kasteyano: tacto
+        turko: temas
 
   - ladino: kontaktos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: touches
-        french: ''
-        portuguese: ''
-        spanish: tactos
-        turkish: temas
+        inglez: touches
+        fransez: ''
+        portugez: ''
+        kasteyano: tactos
+        turko: temas
 
 
 

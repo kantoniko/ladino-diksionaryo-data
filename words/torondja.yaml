@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: grapefruit
-      french: ''
-      hebrew: אשכולית
-      portuguese: toranja
-      spanish: toronja
-      turkish:
+      inglez: grapefruit
+      fransez: ''
+      ebreo: אשכולית
+      portugez: toranja
+      kasteyano: toronja
+      turko:
         - greyfrut
         - altıntop
 

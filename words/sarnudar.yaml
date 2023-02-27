@@ -10,11 +10,11 @@ versions:
         accented: estornudár
 
     translations:
-        english: sneeze
-        french: ''
-        portuguese: ''
-        spanish: estornudar
-        turkish:
+        inglez: sneeze
+        fransez: ''
+        portugez: ''
+        kasteyano: estornudar
+        turko:
         - aksırmak
         - hapşırmak
 

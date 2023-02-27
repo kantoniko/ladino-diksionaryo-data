@@ -5,11 +5,11 @@ versions:
   - ladino: espertar
 
     translations:
-        english: wake
-        french: ''
-        portuguese: ''
-        spanish: despertar
-        turkish: uyandırmak
+        inglez: wake
+        fransez: ''
+        portugez: ''
+        kasteyano: despertar
+        turko: uyandırmak
 
 conjugations: {}
 

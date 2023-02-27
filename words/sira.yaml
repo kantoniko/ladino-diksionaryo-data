@@ -9,16 +9,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - row
         - rank
         - opportune moment
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - fila
         - rango
         - momento oportuno
-        turkish: sıra
+        turko: sıra
 
 

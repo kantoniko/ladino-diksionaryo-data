@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: German
-        french: allemand
-        portuguese: alemão
-        spanish: alemán
-        turkish:
+        inglez: German
+        fransez: allemand
+        portugez: alemão
+        kasteyano: alemán
+        turko:
         - alman
         - almanca
 

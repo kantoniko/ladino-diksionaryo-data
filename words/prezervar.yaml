@@ -5,11 +5,11 @@ versions:
   - ladino: prezervar
 
     translations:
-        english: preserve
-        french: ''
-        portuguese: ''
-        spanish: preservar
-        turkish: muhafaza etmek
+        inglez: preserve
+        fransez: ''
+        portugez: ''
+        kasteyano: preservar
+        turko: muhafaza etmek
 
 conjugations: {}
 

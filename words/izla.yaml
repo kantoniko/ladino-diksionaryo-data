@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: island
-        french: ''
-        portuguese: ''
-        spanish: isla
-        turkish: ada
+        inglez: island
+        fransez: ''
+        portugez: ''
+        kasteyano: isla
+        turko: ada
 
   - ladino: izlas
     accented: ízlas
@@ -30,9 +30,9 @@ versions:
     number: plural
 
     translations:
-        english: islands
-        french: ''
-        portuguese: ''
-        spanish: islas
-        turkish: ada
+        inglez: islands
+        fransez: ''
+        portugez: ''
+        kasteyano: islas
+        turko: ada
 

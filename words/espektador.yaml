@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: spectator
-        french: ''
-        portuguese: ''
-        spanish: espectador
-        turkish: seyirci
+        inglez: spectator
+        fransez: ''
+        portugez: ''
+        kasteyano: espectador
+        turko: seyirci
 
   - ladino: espektadores
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: spectators
-        french: ''
-        portuguese: ''
-        spanish: espectadores
-        turkish: seyirci
+        inglez: spectators
+        fransez: ''
+        portugez: ''
+        kasteyano: espectadores
+        turko: seyirci
 
 
 

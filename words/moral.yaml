@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: moral
-        french: ''
-        portuguese: ''
-        spanish: moral
-        turkish:
+        inglez: moral
+        fransez: ''
+        portugez: ''
+        kasteyano: moral
+        turko:
         - moral
         - maneviyat
 

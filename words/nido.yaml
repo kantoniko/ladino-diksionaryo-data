@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: nest
-        french: ''
-        portuguese: ''
-        spanish: nido
-        turkish: kuş yuvası
+        inglez: nest
+        fransez: ''
+        portugez: ''
+        kasteyano: nido
+        turko: kuş yuvası
 
   - ladino: nidos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: nests
-        french: ''
-        portuguese: ''
-        spanish: nidos
-        turkish: kuş yuvası
+        inglez: nests
+        fransez: ''
+        portugez: ''
+        kasteyano: nidos
+        turko: kuş yuvası
 
 
 

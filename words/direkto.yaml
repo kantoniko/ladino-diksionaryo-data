@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: direct
-        french: ''
-        portuguese: ''
-        spanish: directo
-        turkish: dosdoğru
+        inglez: direct
+        fransez: ''
+        portugez: ''
+        kasteyano: directo
+        turko: dosdoğru
 
   - ladino: direkta
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: direct
-        french: ''
-        portuguese: ''
-        spanish: directa
-        turkish: dosdoğru
+        inglez: direct
+        fransez: ''
+        portugez: ''
+        kasteyano: directa
+        turko: dosdoğru
 
   - ladino: direktos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: direct
-        french: ''
-        portuguese: ''
-        spanish: directos
-        turkish: dosdoğru
+        inglez: direct
+        fransez: ''
+        portugez: ''
+        kasteyano: directos
+        turko: dosdoğru
 
   - ladino: direktas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: direct
-        french: ''
-        portuguese: ''
-        spanish: directas
-        turkish: dosdoğru
+        inglez: direct
+        fransez: ''
+        portugez: ''
+        kasteyano: directas
+        turko: dosdoğru
 
 
 

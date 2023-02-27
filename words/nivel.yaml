@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: level
-        french: ''
-        portuguese: ''
-        spanish: nivel
-        turkish: seviye
+        inglez: level
+        fransez: ''
+        portugez: ''
+        kasteyano: nivel
+        turko: seviye
 
   - ladino: niveles
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: levels
-        french: ''
-        portuguese: ''
-        spanish: niveles
-        turkish: seviye
+        inglez: levels
+        fransez: ''
+        portugez: ''
+        kasteyano: niveles
+        turko: seviye
 
 
 

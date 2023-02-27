@@ -5,11 +5,11 @@ versions:
   - ladino: lavorar
 
     translations:
-        english: work
-        french: ''
-        portuguese: ''
-        spanish: trabajar
-        turkish: çalışmak
+        inglez: work
+        fransez: ''
+        portugez: ''
+        kasteyano: trabajar
+        turko: çalışmak
 
 conjugations: {}
 

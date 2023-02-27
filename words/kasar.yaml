@@ -5,11 +5,11 @@ versions:
   - ladino: kasar
 
     translations:
-        english: hunt
-        french: ''
-        portuguese: ''
-        spanish: cazar
-        turkish: avlamak
+        inglez: hunt
+        fransez: ''
+        portugez: ''
+        kasteyano: cazar
+        turko: avlamak
 
 conjugations: {}
 

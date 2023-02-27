@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: natural
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: natural
-      turkish:
+      inglez: natural
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: natural
+      turko:
         - doğal
         - tabii
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: natural
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: naturala
-      turkish:
+      inglez: natural
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: naturala
+      turko:
         - doğal
         - tabii
 
@@ -38,12 +38,12 @@ versions:
     number: plural
 
     translations:
-      english: natural
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: naturalos
-      turkish:
+      inglez: natural
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: naturalos
+      turko:
         - doğal
         - tabii
 
@@ -53,11 +53,11 @@ versions:
     number: plural
 
     translations:
-      english: natural
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: naturalas
-      turkish: ''
+      inglez: natural
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: naturalas
+      turko: ''
 
 

@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - young
         - young man
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - joven
         - mancebo
-        turkish:
+        turko:
         - genç
         - delikanlı
 
@@ -26,15 +26,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - young
         - young woman
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jovena
         - manceba
-        turkish:
+        turko:
         - genç
         - delikanlı
 
@@ -44,15 +44,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - young
         - young men
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jovenes
         - mancebos
-        turkish:
+        turko:
         - genç
         - delikanlı
 
@@ -62,15 +62,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - young
         - young women
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - jovenas
         - mancebas
-        turkish:
+        turko:
         - genç
         - delikanlı
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: consequence
-        french: ''
-        portuguese: ''
-        spanish: consecuencia
-        turkish: bir olayın sonucu
+        inglez: consequence
+        fransez: ''
+        portugez: ''
+        kasteyano: consecuencia
+        turko: bir olayın sonucu
 
   - ladino: konsekuensas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: consequences
-        french: ''
-        portuguese: ''
-        spanish: consecuencias
-        turkish: bir olayın sonucu
+        inglez: consequences
+        fransez: ''
+        portugez: ''
+        kasteyano: consecuencias
+        turko: bir olayın sonucu
 
 
 

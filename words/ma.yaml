@@ -5,11 +5,11 @@ versions:
   - ladino: ma
 
     translations:
-        english: but
-        french: ''
-        portuguese: ''
-        spanish: mas
-        turkish:
+        inglez: but
+        fransez: ''
+        portugez: ''
+        kasteyano: mas
+        turko:
         - fakat
         - ama
 

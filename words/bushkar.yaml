@@ -6,22 +6,22 @@ versions:
     accented: bushkár
 
     translations:
-        english: search
-        french: ''
-        portuguese: ''
-        spanish: buscar
-        turkish: aramak
+        inglez: search
+        fransez: ''
+        portugez: ''
+        kasteyano: buscar
+        turko: aramak
 
 
   - ladino: bushka
     # imperative
 
     translations:
-        english: search
-        french: ''
-        portuguese: ''
-        spanish: busca
-        turkish: ''
+        inglez: search
+        fransez: ''
+        portugez: ''
+        kasteyano: busca
+        turko: ''
 
 
 conjugations: {}

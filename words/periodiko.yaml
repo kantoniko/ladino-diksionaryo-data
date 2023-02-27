@@ -5,13 +5,13 @@ versions:
   - ladino: periodiko
 
     translations:
-        english:
+        inglez:
           - periodic
           - periodical
-        french: ''
-        portuguese: ''
-        spanish: periódico
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: periódico
+        turko:
           - dergi
           - düzenli aralıklarla tekrarlanan
 

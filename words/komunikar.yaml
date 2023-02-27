@@ -5,11 +5,11 @@ versions:
   - ladino: komunikar
 
     translations:
-        english: communicate
-        french: ''
-        portuguese: ''
-        spanish: comunicar
-        turkish:
+        inglez: communicate
+        fransez: ''
+        portugez: ''
+        kasteyano: comunicar
+        turko:
         - bildirmek
         - iletmek
 

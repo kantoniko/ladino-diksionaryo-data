@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: founder
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: fundador
-      turkish: ''
+      inglez: founder
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: fundador
+      turko: ''
 
   - ladino: fondadora
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: founder
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: fundadora
-      turkish: ''
+      inglez: founder
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: fundadora
+      turko: ''
 
   - ladino: fondadores
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: founders
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: fundadores
-      turkish: ''
+      inglez: founders
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: fundadores
+      turko: ''
 
   - ladino: fondadoras
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: founders
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: fundadorsas
-      turkish: ''
+      inglez: founders
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: fundadorsas
+      turko: ''
 
 
 

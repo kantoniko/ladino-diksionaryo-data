@@ -14,12 +14,12 @@ versions:
     #    accented:
 
     translations:
-      english: breakfast
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: desayuno
-      turkish: kahvaltı
+      inglez: breakfast
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: desayuno
+      turko: kahvaltı
 
   - ladino: dezayunos
     #accented:
@@ -32,12 +32,12 @@ versions:
     #    accented:
 
     translations:
-      english: breakfasts
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: desayunos
-      turkish: kahvaltılar
+      inglez: breakfasts
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: desayunos
+      turko: kahvaltılar
 
 
 

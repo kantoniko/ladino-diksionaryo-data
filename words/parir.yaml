@@ -5,11 +5,11 @@ versions:
   - ladino: parir
 
     translations:
-        english: give birth
-        french: ''
-        portuguese: ''
-        spanish: parir
-        turkish: doğurmak
+        inglez: give birth
+        fransez: ''
+        portugez: ''
+        kasteyano: parir
+        turko: doğurmak
 
 conjugations: {}
 

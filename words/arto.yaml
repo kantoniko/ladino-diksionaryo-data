@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - full
         - fed up
-        french: ''
-        portuguese: ''
-        spanish: harto
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: harto
+        turko:
         - tok
         - bıkkın
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - full
         - fed up
-        french: ''
-        portuguese: ''
-        spanish: harta
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: harta
+        turko:
         - tok
         - bıkkın
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - full
         - fed up
-        french: ''
-        portuguese: ''
-        spanish: hartos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: hartos
+        turko:
         - tok
         - bıkkın
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - full
         - fed up
-        french: ''
-        portuguese: ''
-        spanish: hartas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: hartas
+        turko:
         - tok
         - bıkkın
 

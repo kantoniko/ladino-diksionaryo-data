@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - worm-eaten
         - rotten
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - gusanado
         - putrefacto
-        turkish:
+        turko:
         - kurtlu
         - böcekli
         - çürümüş

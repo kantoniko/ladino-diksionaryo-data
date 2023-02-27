@@ -5,11 +5,11 @@ versions:
   - ladino: deskuvrir
     accented: deskuvrír
     translations:
-        english: discover
-        french: ''
-        portuguese: ''
-        spanish: descubrir
-        turkish:
+        inglez: discover
+        fransez: ''
+        portugez: ''
+        kasteyano: descubrir
+        turko:
           - bulmak
           - keşfetmek
 

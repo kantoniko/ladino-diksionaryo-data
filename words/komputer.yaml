@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: computer
-        french: ''
-        portuguese: ''
-        spanish: ordenador
-        turkish: bilgisayar
+        inglez: computer
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenador
+        turko: bilgisayar
 
   - ladino: komputers
     accented: kompúters
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: computers
-        french: ''
-        portuguese: ''
-        spanish: ordenadores
-        turkish: bilgisayar
+        inglez: computers
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenadores
+        turko: bilgisayar
 
 
 

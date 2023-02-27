@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: chapter
-      french: ''
-      hebrew: פרק
-      portuguese: ''
-      spanish: capítulo
-      turkish: ''
+      inglez: chapter
+      fransez: ''
+      ebreo: פרק
+      portugez: ''
+      kasteyano: capítulo
+      turko: ''
 
   - ladino: kapitolos
     accented: kapítolos
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-      english: chapters
-      french: ''
-      hebrew: פרקים
-      portuguese: ''
-      spanish: capítulos
-      turkish: ''
+      inglez: chapters
+      fransez: ''
+      ebreo: פרקים
+      portugez: ''
+      kasteyano: capítulos
+      turko: ''
 
 

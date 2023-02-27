@@ -8,14 +8,14 @@ versions:
       - ladino: pishin
 
     translations:
-        english:
+        inglez:
           - already
           - indeed
           - at once
-        french: déjà
-        portuguese: ''
-        spanish: ya
-        turkish:
+        fransez: déjà
+        portugez: ''
+        kasteyano: ya
+        turko:
           - artık
           - hemen
 

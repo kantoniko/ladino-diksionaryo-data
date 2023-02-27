@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: other
-        french: ''
-        portuguese: ''
-        spanish: otro
-        turkish:
+        inglez: other
+        fransez: ''
+        portugez: ''
+        kasteyano: otro
+        turko:
         - sair
         - diğer
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: other
-        french: ''
-        portuguese: ''
-        spanish: otra
-        turkish:
+        inglez: other
+        fransez: ''
+        portugez: ''
+        kasteyano: otra
+        turko:
         - sair
         - diğer
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: other
-        french: ''
-        portuguese: ''
-        spanish: otros
-        turkish:
+        inglez: other
+        fransez: ''
+        portugez: ''
+        kasteyano: otros
+        turko:
         - sair
         - diğer
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: other
-        french: ''
-        portuguese: ''
-        spanish: otras
-        turkish:
+        inglez: other
+        fransez: ''
+        portugez: ''
+        kasteyano: otras
+        turko:
         - sair
         - diğer
 

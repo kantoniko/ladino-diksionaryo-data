@@ -5,11 +5,11 @@ versions:
   - ladino: sirkular
 
     translations:
-        english: circulate
-        french: ''
-        portuguese: ''
-        spanish: circular
-        turkish: dolaşmak
+        inglez: circulate
+        fransez: ''
+        portugez: ''
+        kasteyano: circular
+        turko: dolaşmak
 
 conjugations: {}
 

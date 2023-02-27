@@ -6,11 +6,11 @@ versions:
     accented: yegár
 
     translations:
-        english: arrive
-        french: arriver
-        portuguese: ''
-        spanish: llegar
-        turkish:
+        inglez: arrive
+        fransez: arriver
+        portugez: ''
+        kasteyano: llegar
+        turko:
           - erişmek
           - vasıl olmak
 
@@ -18,11 +18,11 @@ versions:
   - ladino: yegaron
 
     translations:
-        english: arrived
-        french: ''
-        portuguese: ''
-        spanish: llegaron
-        turkish: ''
+        inglez: arrived
+        fransez: ''
+        portugez: ''
+        kasteyano: llegaron
+        turko: ''
 
 
 conjugations:
@@ -30,36 +30,36 @@ conjugations:
     yo:
       ladino: yego
       translations:
-        english: arrive
-        spanish: llego
+        inglez: arrive
+        kasteyano: llego
 
     tu:
       ladino: yegas
       translations:
-        english: arrive
-        spanish: llegas
+        inglez: arrive
+        kasteyano: llegas
     el:
       ladino: yega
       translations:
-        english: arrives
-        spanish: llega
+        inglez: arrives
+        kasteyano: llega
 
     mozotros:
       ladino: yegamos
       translations:
-        english: arrive
-        spanish: llegamos
+        inglez: arrive
+        kasteyano: llegamos
 
     vozotros:
       ladino: yegash
       translations:
-        english: arrive
-        spanish: llegáis
+        inglez: arrive
+        kasteyano: llegáis
 
     eyos:
       ladino: yegan
       translations:
-        english: arrive
-        spanish: llegan
+        inglez: arrive
+        kasteyano: llegan
 
 

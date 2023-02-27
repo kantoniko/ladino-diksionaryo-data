@@ -5,15 +5,15 @@ versions:
   - ladino: eskaldar
 
     translations:
-        english:
+        inglez:
         - scald
         - stew
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - escaldar
         - estofar
-        turkish: haşlamak
+        turko: haşlamak
 
 conjugations: {}
 

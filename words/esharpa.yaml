@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: scarf
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bufanda
-      turkish: ''
+      inglez: scarf
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bufanda
+      turko: ''
 
   - ladino: esharpas
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: scarfs
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bufandas
-      turkish: ''
+      inglez: scarfs
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bufandas
+      turko: ''
 
 
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: anonymous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: anónimo
-      turkish: ''
+      inglez: anonymous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: anónimo
+      turko: ''
 
   - ladino: anonima
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: anonymous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: anónima
-      turkish: ''
+      inglez: anonymous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: anónima
+      turko: ''
 
   - ladino: anonimos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: anonymous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: anónimos
-      turkish: ''
+      inglez: anonymous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: anónimos
+      turko: ''
 
   - ladino: anonimas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: anonymous
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: anónimas
-      turkish: ''
+      inglez: anonymous
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: anónimas
+      turko: ''
 
 

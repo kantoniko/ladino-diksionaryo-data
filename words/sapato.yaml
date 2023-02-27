@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: slipper
-        french: ''
-        portuguese: ''
-        spanish: zapatilla
-        turkish:
+        inglez: slipper
+        fransez: ''
+        portugez: ''
+        kasteyano: zapatilla
+        turko:
         - terlik
         - çarık
 
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english: slippers
-        french: ''
-        portuguese: ''
-        spanish: zapatillas
-        turkish:
+        inglez: slippers
+        fransez: ''
+        portugez: ''
+        kasteyano: zapatillas
+        turko:
         - terlik
         - çarık
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - smell
         - scent
-        french: ''
-        portuguese: ''
-        spanish: olor
-        turkish: koku
+        fransez: ''
+        portugez: ''
+        kasteyano: olor
+        turko: koku
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - medicine
         - drug
-        french: ''
-        portuguese: ''
-        spanish: medicamento
-        turkish: ilâç
+        fransez: ''
+        portugez: ''
+        kasteyano: medicamento
+        turko: ilâç
 
   - ladino: kuras
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - medicine
         - drugs
-        french: ''
-        portuguese: ''
-        spanish: medicamentos
-        turkish: ilâç
+        fransez: ''
+        portugez: ''
+        kasteyano: medicamentos
+        turko: ilâç
 
 
 

@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-        english: modern
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: modern
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - moderno
-        turkish: modern
+        turko: modern
 
   - ladino: moderna
     accented: modérna
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-        english: modern
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: modern
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - moderna
-        turkish: modern
+        turko: modern
 
   - ladino: modernos
     accented: modérnos
@@ -37,12 +37,12 @@ versions:
     number: plural
 
     translations:
-        english: modern
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: modern
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - modernos
-        turkish: modern
+        turko: modern
 
   - ladino: modernas
     accented: modérnas
@@ -51,10 +51,10 @@ versions:
     number: plural
 
     translations:
-        english: modern
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: modern
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - modernas
-        turkish: modern
+        turko: modern
 

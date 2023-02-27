@@ -5,11 +5,11 @@ versions:
   - ladino: konsentir
 
     translations:
-        english: consent
-        french: ''
-        portuguese: ''
-        spanish: consentir
-        turkish: razı olmak
+        inglez: consent
+        fransez: ''
+        portugez: ''
+        kasteyano: consentir
+        turko: razı olmak
 
 conjugations: {}
 

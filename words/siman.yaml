@@ -13,16 +13,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - signal
         - indication
         - mark
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - señal
         - indicio
-        turkish:
+        turko:
         - belirti
         - işaret
 

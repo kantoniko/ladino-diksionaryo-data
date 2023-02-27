@@ -5,11 +5,11 @@ versions:
   - ladino: bravura
 
     translations:
-        english: bravery
-        french: ''
-        portuguese: ''
-        spanish: bravura
-        turkish:
+        inglez: bravery
+        fransez: ''
+        portugez: ''
+        kasteyano: bravura
+        turko:
         - kahramanlık
         - dehşet
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - article
         - report
-        french: ''
-        portuguese: ''
-        spanish: reportaje
-        turkish: röportaj
+        fransez: ''
+        portugez: ''
+        kasteyano: reportaje
+        turko: röportaj
 
   - ladino: reportajes
 
@@ -22,12 +22,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - articles
         - reports
-        french: ''
-        portuguese: ''
-        spanish: reportajes
-        turkish: röportaj
+        fransez: ''
+        portugez: ''
+        kasteyano: reportajes
+        turko: röportaj
 
 

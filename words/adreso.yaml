@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: address
-        french: adresse
-        portuguese: endereço
-        spanish: dirección
-        turkish: adres
+        inglez: address
+        fransez: adresse
+        portugez: endereço
+        kasteyano: dirección
+        turko: adres
 
   - ladino: adresos
     accented: adrésos
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: addresses
-        french: adresse
-        portuguese: endereços
-        spanish: direcciónes
-        turkish: adres
+        inglez: addresses
+        fransez: adresse
+        portugez: endereços
+        kasteyano: direcciónes
+        turko: adres
 
 

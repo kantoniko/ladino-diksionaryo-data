@@ -5,11 +5,11 @@ versions:
   - ladino: aturvar
 
     translations:
-        english: disturb
-        french: effrayer
-        portuguese: ''
-        spanish: azorar
-        turkish: rahatsız etmek
+        inglez: disturb
+        fransez: effrayer
+        portugez: ''
+        kasteyano: azorar
+        turko: rahatsız etmek
 
 conjugations: {}
 

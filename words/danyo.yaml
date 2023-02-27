@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - damage
         - harm
-        french: ''
-        portuguese: ''
-        spanish: daño
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: daño
+        turko:
         - hasar
         - zarar
         - ziyan

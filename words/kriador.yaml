@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: creator
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: creador
-      turkish: yaratıcı
+      inglez: creator
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: creador
+      turko: yaratıcı
 
   - ladino: kriadora
 
@@ -22,12 +22,12 @@ versions:
     number: singular
 
     translations:
-      english: creator
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: creadora
-      turkish: yaratıcı
+      inglez: creator
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: creadora
+      turko: yaratıcı
 
   - ladino: kriadores
 
@@ -35,12 +35,12 @@ versions:
     number: plural
 
     translations:
-      english: creators
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: creadores
-      turkish: yaratıcılar
+      inglez: creators
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: creadores
+      turko: yaratıcılar
 
   - ladino: kriadoras
 
@@ -48,12 +48,12 @@ versions:
     number: plural
 
     translations:
-      english: creators
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: creadoras
-      turkish: yaratıcılar
+      inglez: creators
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: creadoras
+      turko: yaratıcılar
 
 
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: poster
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: afiche
-      turkish: afiş
+      inglez: poster
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: afiche
+      turko: afiş
 
   - ladino: afishes
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: posters
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: afiches
-      turkish: afişler
+      inglez: posters
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: afiches
+      turko: afişler
 
 
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: program
-        french: ''
-        portuguese: ''
-        spanish: programa
-        turkish: program
+        inglez: program
+        fransez: ''
+        portugez: ''
+        kasteyano: programa
+        turko: program
 
   - ladino: programas
 
@@ -26,10 +26,10 @@ versions:
     number: plural
 
     translations:
-        english: programs
-        french: ''
-        portuguese: ''
-        spanish: programas
-        turkish: program
+        inglez: programs
+        fransez: ''
+        portugez: ''
+        kasteyano: programas
+        turko: program
 
 

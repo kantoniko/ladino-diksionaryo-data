@@ -5,15 +5,15 @@ versions:
   - ladino: arrestar
 
     translations:
-        english:
+        inglez:
         - arrest
         - stop
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - arrestar
         - parar
-        turkish:
+        turko:
         - tevkif etmek
         - durdurmak
 

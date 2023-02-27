@@ -5,11 +5,11 @@ versions:
   - ladino: suksesion
 
     translations:
-        english: succession
-        french: ''
-        portuguese: ''
-        spanish: sucesión
-        turkish:
+        inglez: succession
+        fransez: ''
+        portugez: ''
+        kasteyano: sucesión
+        turko:
         - miras
         - ardından geliş
 

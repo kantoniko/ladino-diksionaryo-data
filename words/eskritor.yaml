@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: writer
-        french: ''
-        portuguese: ''
-        spanish: escritor
-        turkish: yazar
+        inglez: writer
+        fransez: ''
+        portugez: ''
+        kasteyano: escritor
+        turko: yazar
 
   - ladino: eskritora
     accented: eskritóra
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: writer
-        french: ''
-        portuguese: ''
-        spanish: escritors
-        turkish: yazar
+        inglez: writer
+        fransez: ''
+        portugez: ''
+        kasteyano: escritors
+        turko: yazar
 
   - ladino: eskritores
     accented: eskritóres
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: writer
-        french: ''
-        portuguese: ''
-        spanish: escritores
-        turkish: yazar
+        inglez: writer
+        fransez: ''
+        portugez: ''
+        kasteyano: escritores
+        turko: yazar
 
   - ladino: eskritoras
     accented: eskritóras
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: writer
-        french: ''
-        portuguese: ''
-        spanish: escritores
-        turkish: yazar
+        inglez: writer
+        fransez: ''
+        portugez: ''
+        kasteyano: escritores
+        turko: yazar
 
 
 

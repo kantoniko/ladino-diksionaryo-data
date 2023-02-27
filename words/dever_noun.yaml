@@ -4,19 +4,19 @@ orijen: Jeneral
 versions:
   - ladino: dever
     translations:
-      english:
+      inglez:
         - task
         - duty
-      spanish: faena
-      turkish: vazife (spor)
+      kasteyano: faena
+      turko: vazife (spor)
 
   - ladino: mision
     translations:
-      english:
+      inglez:
         - task
         - duty
-      spanish: faena
-      turkish: vazife (spor)
+      kasteyano: faena
+      turko: vazife (spor)
 
 
 

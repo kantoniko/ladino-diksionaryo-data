@@ -5,10 +5,10 @@ versions:
   - ladino: eksepsion
 
     translations:
-        english: exception
-        french: ''
-        portuguese: ''
-        spanish: excepción
-        turkish: istisna
+        inglez: exception
+        fransez: ''
+        portugez: ''
+        kasteyano: excepción
+        turko: istisna
 
 

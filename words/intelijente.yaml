@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: intelligent
-        french: ''
-        portuguese: ''
-        spanish: inteligente
-        turkish: zeki
+        inglez: intelligent
+        fransez: ''
+        portugez: ''
+        kasteyano: inteligente
+        turko: zeki
 
   - ladino: intelijentes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: intelligents
-        french: ''
-        portuguese: ''
-        spanish: inteligentes
-        turkish: zeki
+        inglez: intelligents
+        fransez: ''
+        portugez: ''
+        kasteyano: inteligentes
+        turko: zeki
 
 
 

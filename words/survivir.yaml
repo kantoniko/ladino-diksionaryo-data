@@ -5,11 +5,11 @@ versions:
   - ladino: survivir
 
     translations:
-        english: survive
-        french: ''
-        portuguese: ''
-        spanish: sobrevivir
-        turkish: hayatta kalmak
+        inglez: survive
+        fransez: ''
+        portugez: ''
+        kasteyano: sobrevivir
+        turko: hayatta kalmak
 
 conjugations: {}
 

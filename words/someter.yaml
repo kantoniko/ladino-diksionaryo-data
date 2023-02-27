@@ -5,11 +5,11 @@ versions:
   - ladino: someter
 
     translations:
-        english: submit
-        french: ''
-        portuguese: ''
-        spanish: someter
-        turkish:
+        inglez: submit
+        fransez: ''
+        portugez: ''
+        kasteyano: someter
+        turko:
         - boyun eğmek
         - takdim etmek
 

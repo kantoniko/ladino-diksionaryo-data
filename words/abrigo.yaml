@@ -13,15 +13,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - shelter
         - refuge
-        french: abris
-        portuguese: ''
-        spanish:
+        fransez: abris
+        portugez: ''
+        kasteyano:
         - abrigo
         - refugio
-        turkish:
+        turko:
         - barınak
         - sığınak
 
@@ -36,15 +36,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - shelters
         - refuges
-        french: abris
-        portuguese: ''
-        spanish:
+        fransez: abris
+        portugez: ''
+        kasteyano:
         - abrigos
         - refugios
-        turkish:
+        turko:
         - barınak
         - sığınak
 

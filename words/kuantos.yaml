@@ -11,14 +11,14 @@ versions:
     #number: singular plural
 
     translations:
-        english:
+        inglez:
         - how many
         - all those
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cuantos
-        turkish:
+        turko:
         - kaç tane
         - hepsi
 
@@ -29,14 +29,14 @@ versions:
     #number: singular plural
 
     translations:
-        english:
+        inglez:
         - how many
         - all those
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cuantas
-        turkish:
+        turko:
         - kaç tane
         - hepsi
 

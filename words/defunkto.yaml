@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: deceased
-        french: ''
-        portuguese: ''
-        spanish: difunto
-        turkish:
+        inglez: deceased
+        fransez: ''
+        portugez: ''
+        kasteyano: difunto
+        turko:
         - rahmetli
         - ölü
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: deceased
-        french: ''
-        portuguese: ''
-        spanish: difunta
-        turkish:
+        inglez: deceased
+        fransez: ''
+        portugez: ''
+        kasteyano: difunta
+        turko:
         - rahmetli
         - ölü
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: deceased
-        french: ''
-        portuguese: ''
-        spanish: difuntos
-        turkish:
+        inglez: deceased
+        fransez: ''
+        portugez: ''
+        kasteyano: difuntos
+        turko:
         - rahmetli
         - ölü
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: deceased
-        french: ''
-        portuguese: ''
-        spanish: difuntas
-        turkish:
+        inglez: deceased
+        fransez: ''
+        portugez: ''
+        kasteyano: difuntas
+        turko:
         - rahmetli
         - ölü
 

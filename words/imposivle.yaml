@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: imposible
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: imposible
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: imposivles
 
@@ -21,10 +21,10 @@ versions:
     number: plural
 
     translations:
-      english: imposibles
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: imposibles
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

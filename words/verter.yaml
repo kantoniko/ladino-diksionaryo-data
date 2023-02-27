@@ -5,13 +5,13 @@ versions:
   - ladino: verter
 
     translations:
-        english:
+        inglez:
         - pour
         - spill
-        french: verser
-        portuguese: ''
-        spanish: verter
-        turkish:
+        fransez: verser
+        portugez: ''
+        kasteyano: verter
+        turko:
         - dökmek
         - saçmak
 

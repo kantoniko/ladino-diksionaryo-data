@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: historic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: histórico
-      turkish: ''
+      inglez: historic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: histórico
+      turko: ''
 
   - ladino: istorika
     accented: istórika
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: historic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: histórica
-      turkish: ''
+      inglez: historic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: histórica
+      turko: ''
 
   - ladino: istorikos
     accented: istórikos
@@ -37,12 +37,12 @@ versions:
     number: plural
 
     translations:
-      english: historic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: históricos
-      turkish: ''
+      inglez: historic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: históricos
+      turko: ''
 
   - ladino: istorikas
     accented: istórikas
@@ -51,11 +51,11 @@ versions:
     number: plural
 
     translations:
-      english: historic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: históricas
-      turkish: ''
+      inglez: historic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: históricas
+      turko: ''
 
 

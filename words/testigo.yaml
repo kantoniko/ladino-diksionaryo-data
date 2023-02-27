@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: witness
-      french: ''
-      hebrew: עד
-      portuguese: ''
-      spanish: testigo
-      turkish: ''
+      inglez: witness
+      fransez: ''
+      ebreo: עד
+      portugez: ''
+      kasteyano: testigo
+      turko: ''
 
   - ladino: testigos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: witnesses
-      french: ''
-      hebrew: עדים
-      portuguese: ''
-      spanish: testigos
-      turkish: ''
+      inglez: witnesses
+      fransez: ''
+      ebreo: עדים
+      portugez: ''
+      kasteyano: testigos
+      turko: ''
 
 
 

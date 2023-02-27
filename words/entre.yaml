@@ -5,12 +5,12 @@ versions:
   - ladino: entre
 
     translations:
-        english:
+        inglez:
         - between
         - among
-        french: ''
-        portuguese: ''
-        spanish: entre
-        turkish: arasında
+        fransez: ''
+        portugez: ''
+        kasteyano: entre
+        turko: arasında
 
 

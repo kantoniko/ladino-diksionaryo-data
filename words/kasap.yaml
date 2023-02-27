@@ -10,10 +10,10 @@ versions:
       - ladino: karnesero
 
     translations:
-        english: butcher
-        french: ''
-        portuguese: ''
-        spanish: carnicero
-        turkish: kasap
+        inglez: butcher
+        fransez: ''
+        portugez: ''
+        kasteyano: carnicero
+        turko: kasap
 
 

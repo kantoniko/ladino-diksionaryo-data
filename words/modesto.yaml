@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: modest
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: modesto
-      turkish: ''
+      inglez: modest
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: modesto
+      turko: ''
 
   - ladino: modesta
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: modest
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: modesta
-      turkish: ''
+      inglez: modest
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: modesta
+      turko: ''
 
   - ladino: modestos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: modest
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: modestos
-      turkish: ''
+      inglez: modest
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: modestos
+      turko: ''
 
   - ladino: modestas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: modest
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: modestas
-      turkish: ''
+      inglez: modest
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: modestas
+      turko: ''
 
 

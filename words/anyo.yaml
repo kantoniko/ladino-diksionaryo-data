@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: year
-        french: an
-        portuguese: ''
-        spanish: año
-        turkish: sene
+        inglez: year
+        fransez: an
+        portugez: ''
+        kasteyano: año
+        turko: sene
 
   - ladino: anyos
     accented: ányos
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: years
-        french: an
-        portuguese: ''
-        spanish: años
-        turkish: sene
+        inglez: years
+        fransez: an
+        portugez: ''
+        kasteyano: años
+        turko: sene
 
 

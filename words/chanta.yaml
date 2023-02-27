@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: purse
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bolso
-      turkish: ''
+      inglez: purse
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bolso
+      turko: ''
 
   - ladino: chantas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: purses
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: bolsos
-      turkish: ''
+      inglez: purses
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: bolsos
+      turko: ''
 
 
 

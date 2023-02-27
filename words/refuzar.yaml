@@ -5,11 +5,11 @@ versions:
   - ladino: refuzar
 
     translations:
-        english: refuse
-        french: ''
-        portuguese: ''
-        spanish: rehusar
-        turkish: reddetmek
+        inglez: refuse
+        fransez: ''
+        portugez: ''
+        kasteyano: rehusar
+        turko: reddetmek
 
 conjugations: {}
 

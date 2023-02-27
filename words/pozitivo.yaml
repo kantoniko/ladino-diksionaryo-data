@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: positive
-        french: ''
-        portuguese: ''
-        spanish: positivo
-        turkish:
+        inglez: positive
+        fransez: ''
+        portugez: ''
+        kasteyano: positivo
+        turko:
         - olumlu
         - müspet
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: positive
-        french: ''
-        portuguese: ''
-        spanish: positiva
-        turkish:
+        inglez: positive
+        fransez: ''
+        portugez: ''
+        kasteyano: positiva
+        turko:
         - olumlu
         - müspet
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: positive
-        french: ''
-        portuguese: ''
-        spanish: positivos
-        turkish:
+        inglez: positive
+        fransez: ''
+        portugez: ''
+        kasteyano: positivos
+        turko:
         - olumlu
         - müspet
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: positive
-        french: ''
-        portuguese: ''
-        spanish: positivas
-        turkish:
+        inglez: positive
+        fransez: ''
+        portugez: ''
+        kasteyano: positivas
+        turko:
         - olumlu
         - müspet
 

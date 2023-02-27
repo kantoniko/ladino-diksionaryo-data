@@ -5,12 +5,12 @@ versions:
   - ladino: mal
 
     translations:
-        english:
+        inglez:
           - evil
           - badly
-        french: ''
-        portuguese: ''
-        spanish: mal
-        turkish: kötülük
+        fransez: ''
+        portugez: ''
+        kasteyano: mal
+        turko: kötülük
 
 

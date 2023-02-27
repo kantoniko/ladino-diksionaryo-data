@@ -18,13 +18,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - story
         - history
-        french: ''
-        portuguese: ''
-        spanish: historia
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: historia
+        turko:
         - hıkâye
         - masal
 

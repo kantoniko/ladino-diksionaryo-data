@@ -6,13 +6,13 @@ versions:
     accented: embreneárse
 
     translations:
-        english: be delighted
-        french: être ravi
-        portuguese: ''
-        spanish:
+        inglez: be delighted
+        fransez: être ravi
+        portugez: ''
+        kasteyano:
         - tener gusto
         - estar encantado
-        turkish: sevinmek
+        turko: sevinmek
 
 conjugations: {}
 

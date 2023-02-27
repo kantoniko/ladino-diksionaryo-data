@@ -6,17 +6,17 @@ versions:
     accented: adolensyárse
 
     translations:
-        english:
+        inglez:
           - fall ill
           - whine
-        french:
+        fransez:
           - tomber malade
           - geindre
-        portuguese: ficar enfermo
-        spanish:
+        portugez: ficar enfermo
+        kasteyano:
           - caer enfermo
           - gimotear
-        turkish:
+        turko:
           - hastalanmak
           - yakınmak
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: column
-        french: ''
-        portuguese: ''
-        spanish: columna
-        turkish: sütun
+        inglez: column
+        fransez: ''
+        portugez: ''
+        kasteyano: columna
+        turko: sütun
 
   - ladino: kolonas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: columns
-        french: ''
-        portuguese: ''
-        spanish: columnas
-        turkish: sütun
+        inglez: columns
+        fransez: ''
+        portugez: ''
+        kasteyano: columnas
+        turko: sütun
 
 
 

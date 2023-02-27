@@ -8,12 +8,12 @@ versions:
       - ladino: claim
 
     translations:
-        english:
+        inglez:
         - pretend
         - claim
-        french: ''
-        portuguese: ''
-        spanish: pretender
-        turkish: iddia etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: pretender
+        turko: iddia etmek
 
 

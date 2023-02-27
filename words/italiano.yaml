@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: Italian
-        french: ''
-        portuguese: ''
-        spanish: italiano
-        turkish:
+        inglez: Italian
+        fransez: ''
+        portugez: ''
+        kasteyano: italiano
+        turko:
         - Italyan
         - italyanca
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: Italian
-        french: ''
-        portuguese: ''
-        spanish: italiana
-        turkish:
+        inglez: Italian
+        fransez: ''
+        portugez: ''
+        kasteyano: italiana
+        turko:
         - Italyan
         - italyanca
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: Italians
-        french: ''
-        portuguese: ''
-        spanish: italianos
-        turkish:
+        inglez: Italians
+        fransez: ''
+        portugez: ''
+        kasteyano: italianos
+        turko:
         - Italyan
         - italyanca
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: Italians
-        french: ''
-        portuguese: ''
-        spanish: italianas
-        turkish:
+        inglez: Italians
+        fransez: ''
+        portugez: ''
+        kasteyano: italianas
+        turko:
         - Italyan
         - italyanca
 

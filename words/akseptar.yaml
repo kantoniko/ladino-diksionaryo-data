@@ -6,48 +6,48 @@ versions:
     accented: akseptár
 
     translations:
-        english: accept
-        french: ''
-        portuguese: ''
-        spanish: aceptar
-        turkish: kabul etmek
+        inglez: accept
+        fransez: ''
+        portugez: ''
+        kasteyano: aceptar
+        turko: kabul etmek
 
 conjugations:
   prezente:
     yo:
       ladino: aksepto
       translations:
-        english: accept
-        spanish: acepto
+        inglez: accept
+        kasteyano: acepto
 
     tu:
       ladino: akseptas
       translations:
-        english: accept
-        spanish: aceptas
+        inglez: accept
+        kasteyano: aceptas
 
     el:
       ladino: aksepta
       translations:
-        english: accepts
-        spanish: acepta
+        inglez: accepts
+        kasteyano: acepta
 
     mozotros:
       ladino: akseptamos
       translations:
-        english: accept
-        spanish: aceptamos
+        inglez: accept
+        kasteyano: aceptamos
 
     vozotros:
       ladino: akseptash
       translations:
-        english: accept
-        spanish: aceptáis
+        inglez: accept
+        kasteyano: aceptáis
 
     eyos:
       ladino: akseptan
       translations:
-        english: accept
-        spanish: aceptan
+        inglez: accept
+        kasteyano: aceptan
 
 

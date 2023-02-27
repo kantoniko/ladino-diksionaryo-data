@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: consonant
-        french: ''
-        portuguese: ''
-        spanish: consonante
-        turkish: sessiz harf
+        inglez: consonant
+        fransez: ''
+        portugez: ''
+        kasteyano: consonante
+        turko: sessiz harf
 
   - ladino: konsonantes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: consonants
-        french: ''
-        portuguese: ''
-        spanish: consonantes
-        turkish: sessiz harf
+        inglez: consonants
+        fransez: ''
+        portugez: ''
+        kasteyano: consonantes
+        turko: sessiz harf
 
 
 

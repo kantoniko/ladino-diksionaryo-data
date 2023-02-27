@@ -9,17 +9,17 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - spider
         - spider's web
-        french:
+        fransez:
         - araignée
         - toile d'araignée
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - araña
         - telaraña
-        turkish:
+        turko:
         - örümcek
         - örümcek ağı
 

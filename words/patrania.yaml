@@ -5,11 +5,11 @@ versions:
   - ladino: patrania
 
     translations:
-        english: gibberish
-        french: ''
-        portuguese: ''
-        spanish: algarabía
-        turkish:
+        inglez: gibberish
+        fransez: ''
+        portugez: ''
+        kasteyano: algarabía
+        turko:
         - zırva
         - saçma
 

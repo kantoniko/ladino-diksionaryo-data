@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: act
-        french: ''
-        portuguese: ''
-        spanish: acto
-        turkish:
+        inglez: act
+        fransez: ''
+        portugez: ''
+        kasteyano: acto
+        turko:
         - eylem
         - perde
 

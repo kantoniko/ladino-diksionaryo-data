@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: story
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: story
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - conseja
         - cuento
-        turkish: masal
+        turko: masal
 

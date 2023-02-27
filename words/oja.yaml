@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - leaf
         - page (of book)
-        french: ''
-        portuguese: ''
-        spanish: hoja
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: hoja
+        turko:
         - yaprak
         - sayfa
 

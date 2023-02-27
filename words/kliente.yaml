@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: client
-        french: ''
-        portuguese: ''
-        spanish: cliente
-        turkish: müşteri
+        inglez: client
+        fransez: ''
+        portugez: ''
+        kasteyano: cliente
+        turko: müşteri
 
   - ladino: klientes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: clients
-        french: ''
-        portuguese: ''
-        spanish: clientes
-        turkish: müşteri
+        inglez: clients
+        fransez: ''
+        portugez: ''
+        kasteyano: clientes
+        turko: müşteri
 
 
 

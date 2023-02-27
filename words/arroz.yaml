@@ -11,9 +11,9 @@ versions:
     number: singular
 
     translations:
-        english: rice
-        french: riz
-        portuguese: arroz
-        spanish: arroz
-        turkish: pirinç
+        inglez: rice
+        fransez: riz
+        portugez: arroz
+        kasteyano: arroz
+        turko: pirinç
 

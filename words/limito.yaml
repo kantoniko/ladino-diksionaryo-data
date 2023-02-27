@@ -5,11 +5,11 @@ versions:
   - ladino: limito
 
     translations:
-        english: limit
-        french: ''
-        portuguese: ''
-        spanish: limite
-        turkish:
+        inglez: limit
+        fransez: ''
+        portugez: ''
+        kasteyano: limite
+        turko:
         - had
         - limit
 

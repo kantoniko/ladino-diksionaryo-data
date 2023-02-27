@@ -5,11 +5,11 @@ versions:
   - ladino: regretar
 
     translations:
-        english: regret
-        french: ''
-        portuguese: ''
-        spanish: lamentar
-        turkish:
+        inglez: regret
+        fransez: ''
+        portugez: ''
+        kasteyano: lamentar
+        turko:
         - esef etmek
         - pişman olmak
 

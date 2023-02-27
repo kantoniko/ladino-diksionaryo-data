@@ -5,11 +5,11 @@ versions:
   - ladino: progresar
 
     translations:
-        english: progress
-        french: ''
-        portuguese: ''
-        spanish: progresar
-        turkish: ilerlemek
+        inglez: progress
+        fransez: ''
+        portugez: ''
+        kasteyano: progresar
+        turko: ilerlemek
 
 conjugations: {}
 

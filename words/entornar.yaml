@@ -5,13 +5,13 @@ versions:
   - ladino: entornar
 
     translations:
-        english:
+        inglez:
         - surround
         - encircle
-        french: ''
-        portuguese: ''
-        spanish: rodear
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: rodear
+        turko:
         - çevirmek
         - kuşatmak
 

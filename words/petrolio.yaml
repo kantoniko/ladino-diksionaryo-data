@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - gas
         - petrol
-        french: ''
-        portuguese: ''
-        spanish: petróleo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: petróleo
+        turko:
         - gaz
         - petrol
 

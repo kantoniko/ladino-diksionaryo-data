@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: competitive
-        french: ''
-        portuguese: ''
-        spanish: competitivo
-        turkish: rekabet edici
+        inglez: competitive
+        fransez: ''
+        portugez: ''
+        kasteyano: competitivo
+        turko: rekabet edici
 
   - ladino: kompetitiva
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: competitive
-        french: ''
-        portuguese: ''
-        spanish: competitiva
-        turkish: rekabet edici
+        inglez: competitive
+        fransez: ''
+        portugez: ''
+        kasteyano: competitiva
+        turko: rekabet edici
 
   - ladino: kompetitivos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: competitives
-        french: ''
-        portuguese: ''
-        spanish: competitivos
-        turkish: rekabet edici
+        inglez: competitives
+        fransez: ''
+        portugez: ''
+        kasteyano: competitivos
+        turko: rekabet edici
 
   - ladino: kompetitivas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: competitives
-        french: ''
-        portuguese: ''
-        spanish: competitivas
-        turkish: rekabet edici
+        inglez: competitives
+        fransez: ''
+        portugez: ''
+        kasteyano: competitivas
+        turko: rekabet edici
 
 
 

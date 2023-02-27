@@ -10,15 +10,15 @@ versions:
         accented: atagentár
 
     translations:
-        english:
+        inglez:
         - annoy
         - bore
-        french: ennuyer
-        portuguese: ''
-        spanish:
+        fransez: ennuyer
+        portugez: ''
+        kasteyano:
         - molestar
         - fastidiar
-        turkish: can sıkmak
+        turko: can sıkmak
 
 conjugations: {}
 

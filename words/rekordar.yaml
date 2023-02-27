@@ -5,12 +5,12 @@ versions:
   - ladino: rekordar
 
     translations:
-      english: record
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: grabar
-      turkish: ''
+      inglez: record
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: grabar
+      turko: ''
 
 conjugations: {}
 

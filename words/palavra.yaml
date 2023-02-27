@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: word
-        french: ''
-        portuguese: ''
-        spanish: palabra
-        turkish: kelime
+        inglez: word
+        fransez: ''
+        portugez: ''
+        kasteyano: palabra
+        turko: kelime
 
   - ladino: palavras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: words
-        french: ''
-        portuguese: ''
-        spanish: palabras
-        turkish: kelime
+        inglez: words
+        fransez: ''
+        portugez: ''
+        kasteyano: palabras
+        turko: kelime
 
 
 

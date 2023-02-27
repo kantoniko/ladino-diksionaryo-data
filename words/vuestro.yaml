@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - your
         - yours
-        french: la vôtre
-        portuguese: ''
-        spanish:
+        fransez: la vôtre
+        portugez: ''
+        kasteyano:
         - vuestro
-        turkish: sizin
+        turko: sizin
 
   - ladino: vuestra
 
@@ -24,12 +24,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - your
         - yours
-        french: la vôtre
-        portuguese: ''
-        spanish:
+        fransez: la vôtre
+        portugez: ''
+        kasteyano:
         - vuestra
-        turkish: sizin
+        turko: sizin
 

@@ -5,13 +5,13 @@ versions:
   - ladino: fuyir
 
     translations:
-        english:
+        inglez:
         - run away
         - escape
-        french: ''
-        portuguese: ''
-        spanish: huir
-        turkish: kaçmak
+        fransez: ''
+        portugez: ''
+        kasteyano: huir
+        turko: kaçmak
 
 conjugations: {}
 

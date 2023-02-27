@@ -5,11 +5,11 @@ versions:
   - ladino: vijitar
 
     translations:
-        english: visit
-        french: visiter
-        portuguese: ''
-        spanish: visitar
-        turkish: ziyaret etmek
+        inglez: visit
+        fransez: visiter
+        portugez: ''
+        kasteyano: visitar
+        turko: ziyaret etmek
 
 conjugations: {}
 

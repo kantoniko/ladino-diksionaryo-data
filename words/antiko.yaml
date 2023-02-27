@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: antique
-        french: ''
-        portuguese: ''
-        spanish: antigua
-        turkish: antika
+        inglez: antique
+        fransez: ''
+        portugez: ''
+        kasteyano: antigua
+        turko: antika
 
   - ladino: antika
     accented: antíka
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: antique
-        french: ''
-        portuguese: ''
-        spanish: antigua
-        turkish: antika
+        inglez: antique
+        fransez: ''
+        portugez: ''
+        kasteyano: antigua
+        turko: antika
 
   - ladino: antikos
     accented: antíkos
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: antiques
-        french: ''
-        portuguese: ''
-        spanish: antiguas
-        turkish: antika
+        inglez: antiques
+        fransez: ''
+        portugez: ''
+        kasteyano: antiguas
+        turko: antika
 
   - ladino: antikas
     accented: antíkas
@@ -48,11 +48,11 @@ versions:
     number: plural
 
     translations:
-        english: antiques
-        french: ''
-        portuguese: ''
-        spanish: antiguas
-        turkish: antika
+        inglez: antiques
+        fransez: ''
+        portugez: ''
+        kasteyano: antiguas
+        turko: antika
 
 
 

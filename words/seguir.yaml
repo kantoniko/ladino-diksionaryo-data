@@ -9,11 +9,11 @@ versions:
       - ladino: ir detras
 
     translations:
-        english: follow
-        french: ''
-        portuguese: ''
-        spanish: seguir
-        turkish: takip etmek
+        inglez: follow
+        fransez: ''
+        portugez: ''
+        kasteyano: seguir
+        turko: takip etmek
 
 conjugations: {}
 

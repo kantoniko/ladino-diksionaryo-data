@@ -14,12 +14,12 @@ versions:
         accented: míshpola
 
     translations:
-      english: loquat
-      french: ''
-      hebrew: שסק
-      portuguese: nêspera
-      spanish: níspero
-      turkish: Muşmula
+      inglez: loquat
+      fransez: ''
+      ebreo: שסק
+      portugez: nêspera
+      kasteyano: níspero
+      turko: Muşmula
 
   - ladino: eshkidunyas
 
@@ -31,12 +31,12 @@ versions:
         accented: míshpolas
 
     translations:
-      english: loquats
-      french: ''
-      hebrew: שסק
-      portuguese: nêsperas
-      spanish: nísperos
-      turkish:  Muşmulalar
+      inglez: loquats
+      fransez: ''
+      ebreo: שסק
+      portugez: nêsperas
+      kasteyano: nísperos
+      turko:  Muşmulalar
 
 
 

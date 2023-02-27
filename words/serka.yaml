@@ -5,14 +5,14 @@ versions:
   - ladino: serka
 
     translations:
-        english:
+        inglez:
         - near
         - close
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cerca
         - próxima
-        turkish: yakın
+        turko: yakın
 
 

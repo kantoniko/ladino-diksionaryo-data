@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: printer
-        french: ''
-        portuguese: ''
-        spanish: imprimidor
-        turkish: matbaacı
+        inglez: printer
+        fransez: ''
+        portugez: ''
+        kasteyano: imprimidor
+        turko: matbaacı
 

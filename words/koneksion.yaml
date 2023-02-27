@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: connection
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: conexión
-      turkish: ''
+      inglez: connection
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: conexión
+      turko: ''
 
   - ladino: koneksiones
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: connections
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: conexiones
-      turkish: ''
+      inglez: connections
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: conexiones
+      turko: ''
 
 
 

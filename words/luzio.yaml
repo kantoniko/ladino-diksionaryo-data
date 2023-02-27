@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - pretty
         - nice
-        french: ''
-        portuguese: ''
-        spanish: bonito
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: bonito
+        turko:
         - güzel
         - hoş
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - pretty
         - nice
-        french: ''
-        portuguese: ''
-        spanish: bonita
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: bonita
+        turko:
         - güzel
         - hoş
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - pretty
         - nice
-        french: ''
-        portuguese: ''
-        spanish: bonitos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: bonitos
+        turko:
         - güzel
         - hoş
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - pretty
         - nice
-        french: ''
-        portuguese: ''
-        spanish: bonitas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: bonitas
+        turko:
         - güzel
         - hoş
 

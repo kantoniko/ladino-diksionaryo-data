@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: selfish
-        french: ''
-        portuguese: ''
-        spanish: egoísta
-        turkish: bencil
+        inglez: selfish
+        fransez: ''
+        portugez: ''
+        kasteyano: egoísta
+        turko: bencil
 
   - ladino: egoista
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: selfish
-        french: ''
-        portuguese: ''
-        spanish: egoísta
-        turkish: bencil
+        inglez: selfish
+        fransez: ''
+        portugez: ''
+        kasteyano: egoísta
+        turko: bencil
 
   - ladino: egoistos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: selfish
-        french: ''
-        portuguese: ''
-        spanish: egoístas
-        turkish: bencil
+        inglez: selfish
+        fransez: ''
+        portugez: ''
+        kasteyano: egoístas
+        turko: bencil
 
   - ladino: egoistas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: selfish
-        french: ''
-        portuguese: ''
-        spanish: egoístas
-        turkish: bencil
+        inglez: selfish
+        fransez: ''
+        portugez: ''
+        kasteyano: egoístas
+        turko: bencil
 
 
 

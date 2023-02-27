@@ -6,20 +6,20 @@ versions:
     accented: muchiguár
 
     translations:
-        english:
+        inglez:
         - increase
         - multiply
         - augment
-        french:
+        fransez:
         - accroître
         - augmenter
         - multiplier
-        portuguese: aumentar
-        spanish:
+        portugez: aumentar
+        kasteyano:
         - incrementar
         - aumentar
         - multiplicar
-        turkish:
+        turko:
         - çoğalmak
         - artmak
 

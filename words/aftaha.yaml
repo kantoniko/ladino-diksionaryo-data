@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: hope
-        french: ''
-        portuguese: esperança
-        spanish: esperansa
-        turkish:
+        inglez: hope
+        fransez: ''
+        portugez: esperança
+        kasteyano: esperansa
+        turko:
         - ümit
         - umut
 

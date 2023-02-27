@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: repercussion
-        french: ''
-        portuguese: ''
-        spanish: repercusión
-        turkish: etki
+        inglez: repercussion
+        fransez: ''
+        portugez: ''
+        kasteyano: repercusión
+        turko: etki
 
   - ladino: reperkusiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: repercussions
-        french: ''
-        portuguese: ''
-        spanish: repercusiónes
-        turkish: etki
+        inglez: repercussions
+        fransez: ''
+        portugez: ''
+        kasteyano: repercusiónes
+        turko: etki
 
 
 

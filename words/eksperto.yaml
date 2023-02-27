@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: expert
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: experto
-      turkish: ''
+      inglez: expert
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: experto
+      turko: ''
 
   - ladino: eksperta
 
@@ -22,12 +22,12 @@ versions:
     number: singular
 
     translations:
-      english: expert
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: experta
-      turkish: ''
+      inglez: expert
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: experta
+      turko: ''
 
   - ladino: ekspertos
 
@@ -35,12 +35,12 @@ versions:
     number: plural
 
     translations:
-      english: experts
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: expertos
-      turkish: ''
+      inglez: experts
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: expertos
+      turko: ''
 
   - ladino: ekspertas
 
@@ -48,11 +48,11 @@ versions:
     number: plural
 
     translations:
-      english: experts
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: expertas
-      turkish: ''
+      inglez: experts
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: expertas
+      turko: ''
 
 

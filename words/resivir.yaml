@@ -5,11 +5,11 @@ versions:
   - ladino: resivir
 
     translations:
-        english: receive
-        french: ''
-        portuguese: ''
-        spanish: recibir
-        turkish:
+        inglez: receive
+        fransez: ''
+        portugez: ''
+        kasteyano: recibir
+        turko:
         - almak
         - kabul etmek
 

@@ -5,11 +5,11 @@ versions:
   - ladino: dezeyar
 
     translations:
-        english: wish
-        french: ''
-        portuguese: ''
-        spanish: desear
-        turkish: arzu etmek
+        inglez: wish
+        fransez: ''
+        portugez: ''
+        kasteyano: desear
+        turko: arzu etmek
 
 conjugations: {}
 

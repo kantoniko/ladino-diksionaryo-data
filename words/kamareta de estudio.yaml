@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - study
         - private room
-        french: chambre d'étude
-        portuguese: ''
-        spanish: gabinete
-        turkish: çalışma odası
+        fransez: chambre d'étude
+        portugez: ''
+        kasteyano: gabinete
+        turko: çalışma odası
 
 

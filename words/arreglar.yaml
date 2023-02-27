@@ -5,13 +5,13 @@ versions:
   - ladino: arreglar
 
     translations:
-        english:
+        inglez:
         - arrangement
         - settlement
-        french: ''
-        portuguese: ''
-        spanish: arreglar
-        turkish: tanzim etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: arreglar
+        turko: tanzim etmek
 
 conjugations: {}
 

@@ -5,11 +5,11 @@ versions:
   - ladino: arrepentimiento
 
     translations:
-        english: repentance
-        french: ''
-        portuguese: ''
-        spanish: arrepentimiento
-        turkish:
+        inglez: repentance
+        fransez: ''
+        portugez: ''
+        kasteyano: arrepentimiento
+        turko:
         - pişmanlık
         - tövbe
 

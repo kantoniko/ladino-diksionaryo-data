@@ -5,45 +5,45 @@ versions:
   - ladino: avlar
 
     translations:
-        english: speak
-        french: parler
-        portuguese: falar
-        spanish: hablar
-        turkish: konumak
+        inglez: speak
+        fransez: parler
+        portugez: falar
+        kasteyano: hablar
+        turko: konumak
 
 conjugations:
   prezente:
     yo:
       ladino: avlo
       translations:
-        english: speak
-        turkish: konuştu
+        inglez: speak
+        turko: konuştu
     tu:
       ladino: avlas
       translations:
-        english: speak
-        turkish: konuşursun
+        inglez: speak
+        turko: konuşursun
     el:
       ladino: avla
       translations:
-        english: speaks
+        inglez: speaks
 
     mozotros:
       ladino: avlamos
       translations:
-        english: speak
-        turkish: konuşuruz
+        inglez: speak
+        turko: konuşuruz
 
     vozotros:
       ladino: avlash
       translations:
-        english: speak
-        turkish: konuşur
+        inglez: speak
+        turko: konuşur
 
     eyos:
       ladino: avlan
       translations:
-        english: speak
-        turkish: konuşurlar
+        inglez: speak
+        turko: konuşurlar
 
 

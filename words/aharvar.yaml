@@ -6,15 +6,15 @@ versions:
     accented: aharvár
 
     translations:
-        english:
+        inglez:
         - strike
         - beat
-        french: frapper
-        portuguese: ''
-        spanish:
+        fransez: frapper
+        portugez: ''
+        kasteyano:
         - golpear
         - pegar
-        turkish: vurmak
+        turko: vurmak
 
 conjugations: {}
 

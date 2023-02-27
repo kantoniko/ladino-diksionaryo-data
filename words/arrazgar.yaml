@@ -5,11 +5,11 @@ versions:
   - ladino: arrazgar
 
     translations:
-        english: tear
-        french: ''
-        portuguese: ''
-        spanish: rasgar
-        turkish: yırtmak
+        inglez: tear
+        fransez: ''
+        portugez: ''
+        kasteyano: rasgar
+        turko: yırtmak
 
 conjugations: {}
 

@@ -5,13 +5,13 @@ versions:
   - ladino: prolungar
 
     translations:
-        english:
+        inglez:
         - prolong
         - extend
-        french: ''
-        portuguese: ''
-        spanish: prolongar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: prolongar
+        turko:
         - uzatmak
         - temdit etmek
 

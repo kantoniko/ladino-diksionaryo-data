@@ -5,18 +5,18 @@ versions:
   - ladino: murir
 
     translations:
-        english:
+        inglez:
         - die
         - expire
         - pass away
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - morir
         - deceder
         - fallecer
         - expirar
-        turkish:
+        turko:
         - ölmek
         - vefat etmek
 

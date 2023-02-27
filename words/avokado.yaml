@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-      english: avocado
-      french: avocat
-      hebrew: אבוקדו
-      portuguese: abacate
-      spanish: avocado
-      turkish: avokado
+      inglez: avocado
+      fransez: avocat
+      ebreo: אבוקדו
+      portugez: abacate
+      kasteyano: avocado
+      turko: avokado
 
 

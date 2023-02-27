@@ -5,11 +5,11 @@ versions:
   - ladino: aprender
 
     translations:
-        english: learn
-        french: ''
-        portuguese: ''
-        spanish: aprender
-        turkish: öğrenmek
+        inglez: learn
+        fransez: ''
+        portugez: ''
+        kasteyano: aprender
+        turko: öğrenmek
 
 conjugations: {}
 

@@ -5,12 +5,12 @@ versions:
   - ladino: pikante
 
     translations:
-        english:
+        inglez:
         - hot
         - peppery
-        french: ''
-        portuguese: ''
-        spanish: picante
-        turkish: biberli
+        fransez: ''
+        portugez: ''
+        kasteyano: picante
+        turko: biberli
 
 

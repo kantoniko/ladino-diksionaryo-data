@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: second
-        french: ''
-        portuguese: ''
-        spanish: segundo
-        turkish: ikinci
+        inglez: second
+        fransez: ''
+        portugez: ''
+        kasteyano: segundo
+        turko: ikinci
 
   - ladino: segunda
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: second
-        french: ''
-        portuguese: ''
-        spanish: segunda
-        turkish: ikinci
+        inglez: second
+        fransez: ''
+        portugez: ''
+        kasteyano: segunda
+        turko: ikinci
 
   - ladino: segundos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: seconds
-        french: ''
-        portuguese: ''
-        spanish: segundos
-        turkish: ikinci
+        inglez: seconds
+        fransez: ''
+        portugez: ''
+        kasteyano: segundos
+        turko: ikinci
 
   - ladino: segundas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: seconds
-        french: ''
-        portuguese: ''
-        spanish: segundas
-        turkish: ikinci
+        inglez: seconds
+        fransez: ''
+        portugez: ''
+        kasteyano: segundas
+        turko: ikinci
 
 
 

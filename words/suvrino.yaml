@@ -13,12 +13,12 @@ versions:
       - ladino: sovrino
 
     translations:
-      english: nephew
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sobrino
-      turkish: ''
+      inglez: nephew
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sobrino
+      turko: ''
 
   - ladino: suvrina
 
@@ -29,12 +29,12 @@ versions:
       - ladino: sovrina
 
     translations:
-      english: niece
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sobrina
-      turkish: ''
+      inglez: niece
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sobrina
+      turko: ''
 
   - ladino: suvrinos
 
@@ -45,12 +45,12 @@ versions:
       - ladino: sovrinos
 
     translations:
-      english: nephews
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sobrinos
-      turkish: ''
+      inglez: nephews
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sobrinos
+      turko: ''
 
   - ladino: suvrinas
 
@@ -61,11 +61,11 @@ versions:
       - ladino: sovrinas
 
     translations:
-      english: nieces
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sobrinas
-      turkish: ''
+      inglez: nieces
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sobrinas
+      turko: ''
 
 

@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: palestinian
-      french: ''
-      hebrew: פלשתיני
-      portuguese: ''
-      spanish: palestino
-      turkish: ''
+      inglez: palestinian
+      fransez: ''
+      ebreo: פלשתיני
+      portugez: ''
+      kasteyano: palestino
+      turko: ''
 
   - ladino: palestiniana
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: palestinian
-      french: ''
-      hebrew: פלשתיניה
-      portuguese: ''
-      spanish: palestina
-      turkish: ''
+      inglez: palestinian
+      fransez: ''
+      ebreo: פלשתיניה
+      portugez: ''
+      kasteyano: palestina
+      turko: ''
 
   - ladino: palestinianos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: palestinians
-      french: ''
-      hebrew: פלשתינים
-      portuguese: ''
-      spanish: palestinos
-      turkish: ''
+      inglez: palestinians
+      fransez: ''
+      ebreo: פלשתינים
+      portugez: ''
+      kasteyano: palestinos
+      turko: ''
 
   - ladino: palestinianas
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: palestinians
-      french: ''
-      hebrew: פלשתיניות
-      portuguese: ''
-      spanish: palestinas
-      turkish: ''
+      inglez: palestinians
+      fransez: ''
+      ebreo: פלשתיניות
+      portugez: ''
+      kasteyano: palestinas
+      turko: ''
 
 

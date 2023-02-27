@@ -5,12 +5,12 @@ versions:
   - ladino: meter en movimiento
 
     translations:
-        english:
+        inglez:
         - move
         - shift
-        french: ''
-        portuguese: ''
-        spanish: mover
-        turkish: hareket ettirmek
+        fransez: ''
+        portugez: ''
+        kasteyano: mover
+        turko: hareket ettirmek
 
 

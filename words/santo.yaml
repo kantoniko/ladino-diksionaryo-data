@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - saint
         - holy
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - santo
-        turkish:
+        turko:
         - aziz
         - kutsal
         - mukaddes
@@ -28,14 +28,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - saint
         - holy
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - santa
-        turkish:
+        turko:
         - aziz
         - kutsal
         - mukaddes
@@ -47,14 +47,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - saint
         - holy
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - santos
-        turkish:
+        turko:
         - aziz
         - kutsal
         - mukaddes
@@ -66,14 +66,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - saint
         - holy
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - santas
-        turkish:
+        turko:
         - aziz
         - kutsal
         - mukaddes

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fever
-        french: ''
-        portuguese: ''
-        spanish: fiebre
-        turkish:
+        inglez: fever
+        fransez: ''
+        portugez: ''
+        kasteyano: fiebre
+        turko:
         - ateş
         - hararet
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: fevers
-        french: ''
-        portuguese: ''
-        spanish: fiebres
-        turkish:
+        inglez: fevers
+        fransez: ''
+        portugez: ''
+        kasteyano: fiebres
+        turko:
         - ateş
         - hararet
 

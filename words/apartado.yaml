@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - remote
         - isolated
-        french:
+        fransez:
         - séparé
         - isolé
-        portuguese: separado
-        spanish: apartado
-        turkish:
+        portugez: separado
+        kasteyano: apartado
+        turko:
         - ayrı
         - izole
 
@@ -26,13 +26,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - remote
         - isolated
-        french: ''
-        portuguese: separada
-        spanish: apartada
-        turkish:
+        fransez: ''
+        portugez: separada
+        kasteyano: apartada
+        turko:
         - ayrı
         - izole
 
@@ -42,15 +42,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - remote
         - isolated
-        french:
+        fransez:
         - séparé
         - isolé
-        portuguese: separados
-        spanish: apartados
-        turkish:
+        portugez: separados
+        kasteyano: apartados
+        turko:
         - ayrı
         - izole
 
@@ -60,13 +60,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - remote
         - isolated
-        french: ''
-        portuguese: separadas
-        spanish: apartadas
-        turkish:
+        fransez: ''
+        portugez: separadas
+        kasteyano: apartadas
+        turko:
         - ayrı
         - izole
 

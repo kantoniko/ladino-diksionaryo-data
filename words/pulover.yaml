@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: sweather
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: suéter
-      turkish: ''
+      inglez: sweather
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: suéter
+      turko: ''
 
   - ladino: puloveres
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: sweathers
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: suéteres
-      turkish: ''
+      inglez: sweathers
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: suéteres
+      turko: ''
 
 
 

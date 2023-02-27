@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: belt
-        french: ''
-        portuguese: ''
-        spanish: cinturón
-        turkish: kuşak
+        inglez: belt
+        fransez: ''
+        portugez: ''
+        kasteyano: cinturón
+        turko: kuşak
 
   - ladino: sinturas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: belts
-        french: ''
-        portuguese: ''
-        spanish: cinturónes
-        turkish: kuşak
+        inglez: belts
+        fransez: ''
+        portugez: ''
+        kasteyano: cinturónes
+        turko: kuşak
 
 
 

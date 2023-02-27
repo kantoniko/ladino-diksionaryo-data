@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: crisis
-        french: ''
-        portuguese: ''
-        spanish: crisis
-        turkish: kriz
+        inglez: crisis
+        fransez: ''
+        portugez: ''
+        kasteyano: crisis
+        turko: kriz
 
   - ladino: krizas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: crisises
-        french: ''
-        portuguese: ''
-        spanish: crisises
-        turkish: kriz
+        inglez: crisises
+        fransez: ''
+        portugez: ''
+        kasteyano: crisises
+        turko: kriz
 
 
 

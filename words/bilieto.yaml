@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: ticket
-        french: ''
-        portuguese: ''
-        spanish: billete
-        turkish: bilet
+        inglez: ticket
+        fransez: ''
+        portugez: ''
+        kasteyano: billete
+        turko: bilet
 
   - ladino: bilietos
 
@@ -26,11 +26,11 @@ versions:
     number: plural
 
     translations:
-        english: tickets
-        french: ''
-        portuguese: ''
-        spanish: billetes
-        turkish: bilet
+        inglez: tickets
+        fransez: ''
+        portugez: ''
+        kasteyano: billetes
+        turko: bilet
 
 
 

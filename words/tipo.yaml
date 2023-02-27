@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: type
-        french: ''
-        portuguese: ''
-        spanish: tipo
-        turkish:
+        inglez: type
+        fransez: ''
+        portugez: ''
+        kasteyano: tipo
+        turko:
         - tip
         - tür
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: type
-        french: ''
-        portuguese: ''
-        spanish: tipos
-        turkish:
+        inglez: type
+        fransez: ''
+        portugez: ''
+        kasteyano: tipos
+        turko:
         - tip
         - tür
 

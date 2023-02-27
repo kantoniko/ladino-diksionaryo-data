@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: beginning
-        french: ''
-        portuguese: ''
-        spanish: comienzo
-        turkish: başlangıç
+        inglez: beginning
+        fransez: ''
+        portugez: ''
+        kasteyano: comienzo
+        turko: başlangıç
 
   - ladino: empesijos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: beginnings
-        french: ''
-        portuguese: ''
-        spanish: comienzos
-        turkish: başlangıç
+        inglez: beginnings
+        fransez: ''
+        portugez: ''
+        kasteyano: comienzos
+        turko: başlangıç
 
 
 

@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - strong
         - robust
-        french: ''
-        portuguese: ''
-        spanish: recio
-        turkish: sağlam
+        fransez: ''
+        portugez: ''
+        kasteyano: recio
+        turko: sağlam
 
   - ladino: rezia
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - strong
         - robust
-        french: ''
-        portuguese: ''
-        spanish: recia
-        turkish: sağlam
+        fransez: ''
+        portugez: ''
+        kasteyano: recia
+        turko: sağlam
 
   - ladino: rezios
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - strong
         - robust
-        french: ''
-        portuguese: ''
-        spanish: recios
-        turkish: sağlam
+        fransez: ''
+        portugez: ''
+        kasteyano: recios
+        turko: sağlam
 
   - ladino: rezias
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - strong
         - robust
-        french: ''
-        portuguese: ''
-        spanish: recias
-        turkish: sağlam
+        fransez: ''
+        portugez: ''
+        kasteyano: recias
+        turko: sağlam
 
 
 

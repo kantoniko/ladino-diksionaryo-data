@@ -5,11 +5,11 @@ versions:
   - ladino: depender
 
     translations:
-        english: depend
-        french: ''
-        portuguese: ''
-        spanish: depender
-        turkish: bağımlı olmak
+        inglez: depend
+        fransez: ''
+        portugez: ''
+        kasteyano: depender
+        turko: bağımlı olmak
 
 conjugations: {}
 

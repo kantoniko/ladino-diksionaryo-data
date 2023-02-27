@@ -8,9 +8,9 @@ versions:
     number: singular
 
     translations:
-        english: cabin
-        french: cabine
-        portuguese: cabine
-        spanish: cabina
-        turkish: kabin
+        inglez: cabin
+        fransez: cabine
+        portugez: cabine
+        kasteyano: cabina
+        turko: kabin
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sleeve
-        french: ''
-        portuguese: ''
-        spanish: manga
-        turkish: elbise kolu
+        inglez: sleeve
+        fransez: ''
+        portugez: ''
+        kasteyano: manga
+        turko: elbise kolu
 
   - ladino: mangas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sleeves
-        french: ''
-        portuguese: ''
-        spanish: mangas
-        turkish: elbise kolu
+        inglez: sleeves
+        fransez: ''
+        portugez: ''
+        kasteyano: mangas
+        turko: elbise kolu
 
 
 

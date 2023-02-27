@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: thief
-        french: ''
-        portuguese: ''
-        spanish: ladrón
-        turkish: hırsız
+        inglez: thief
+        fransez: ''
+        portugez: ''
+        kasteyano: ladrón
+        turko: hırsız
 
   - ladino: ladrona
     accented: ladróna
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: thief
-        french: ''
-        portuguese: ''
-        spanish: ladrona
-        turkish: hırsız
+        inglez: thief
+        fransez: ''
+        portugez: ''
+        kasteyano: ladrona
+        turko: hırsız
 
   - ladino: ladrones
     accented: ladrónes
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: thieves
-        french: ''
-        portuguese: ''
-        spanish: ladrones
-        turkish: ''
+        inglez: thieves
+        fransez: ''
+        portugez: ''
+        kasteyano: ladrones
+        turko: ''
 
   - ladino: ladronas
     accented: ladrónas
@@ -47,9 +47,9 @@ versions:
     number: plural
 
     translations:
-        english: thieves
-        french: ''
-        portuguese: ''
-        spanish: ladronas
-        turkish: ''
+        inglez: thieves
+        fransez: ''
+        portugez: ''
+        kasteyano: ladronas
+        turko: ''
 

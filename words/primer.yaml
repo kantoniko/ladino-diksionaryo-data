@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - first
         - foremost
         - primary
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - primer
-        turkish:
+        turko:
         - birinci
         - ilk
         - ilk önce
@@ -29,15 +29,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - first
         - foremost
         - primary
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - primera
-        turkish:
+        turko:
         - birinci
         - ilk
         - ilk önce

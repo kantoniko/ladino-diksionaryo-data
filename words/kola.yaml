@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - tail
         - end
         - queue
-        french: ''
-        portuguese: ''
-        spanish: cola
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cola
+        turko:
         - kuyruk
         - sıra
 

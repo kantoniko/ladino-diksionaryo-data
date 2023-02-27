@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: tablecloth
-        french: ''
-        portuguese: ''
-        spanish: mantel
-        turkish: masa örtüsü
+        inglez: tablecloth
+        fransez: ''
+        portugez: ''
+        kasteyano: mantel
+        turko: masa örtüsü
 
   - ladino: manteles
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: tableclothes
-        french: ''
-        portuguese: ''
-        spanish: manteles
-        turkish: masa örtüsü
+        inglez: tableclothes
+        fransez: ''
+        portugez: ''
+        kasteyano: manteles
+        turko: masa örtüsü
 
 
 

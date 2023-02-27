@@ -9,12 +9,12 @@ versions:
     number: singular
 
     translations:
-      english: moderator
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: moderador
-      turkish: moderatör
+      inglez: moderator
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: moderador
+      turko: moderatör
 
   - ladino: moderadora
 
@@ -22,12 +22,12 @@ versions:
     number: singular
 
     translations:
-      english: moderator
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: moderadora
-      turkish: moderatör
+      inglez: moderator
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: moderadora
+      turko: moderatör
 
   - ladino: moderadores
 
@@ -35,12 +35,12 @@ versions:
     number: plural
 
     translations:
-      english: moderators
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: moderadores
-      turkish: moderatörler
+      inglez: moderators
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: moderadores
+      turko: moderatörler
 
   - ladino: moderadoras
 
@@ -48,12 +48,12 @@ versions:
     number: plural
 
     translations:
-      english: moderators
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: moderadoras
-      turkish: moderatörler
+      inglez: moderators
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: moderadoras
+      turko: moderatörler
 
 
 

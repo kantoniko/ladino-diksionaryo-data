@@ -5,12 +5,12 @@ versions:
   - ladino: enterramiento
 
     translations:
-        english:
+        inglez:
         - burial
         - funeral
-        french: ''
-        portuguese: ''
-        spanish: entierro
-        turkish: cenaze
+        fransez: ''
+        portugez: ''
+        kasteyano: entierro
+        turko: cenaze
 
 

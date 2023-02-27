@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: tube
-        french: ''
-        portuguese: ''
-        spanish: tubo
-        turkish: tüp
+        inglez: tube
+        fransez: ''
+        portugez: ''
+        kasteyano: tubo
+        turko: tüp
 
   - ladino: tubos
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: tubes
-        french: ''
-        portuguese: ''
-        spanish: tubos
-        turkish: tüp
+        inglez: tubes
+        fransez: ''
+        portugez: ''
+        kasteyano: tubos
+        turko: tüp
 
 
 

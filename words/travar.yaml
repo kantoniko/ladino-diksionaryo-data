@@ -5,13 +5,13 @@ versions:
   - ladino: travar
 
     translations:
-        english:
+        inglez:
         - pull
         - shoot
-        french: ''
-        portuguese: ''
-        spanish: tirar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: tirar
+        turko:
         - çekmek
         - ates etmek
 

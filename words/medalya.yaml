@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: medal
-        french: ''
-        portuguese: ''
-        spanish: medalla
-        turkish: madalya
+        inglez: medal
+        fransez: ''
+        portugez: ''
+        kasteyano: medalla
+        turko: madalya
 
   - ladino: medalyas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: medals
-        french: ''
-        portuguese: ''
-        spanish: medallas
-        turkish: madalya
+        inglez: medals
+        fransez: ''
+        portugez: ''
+        kasteyano: medallas
+        turko: madalya
 
 
 

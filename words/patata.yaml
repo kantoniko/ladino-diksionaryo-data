@@ -10,13 +10,13 @@ versions:
     number: singular
 
     translations:
-        english: potato
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: potato
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - papa
         - patata
-        turkish: patates
+        turko: patates
 
   - ladino: patatas
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english: potatoes
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: potatoes
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - papas
         - patatas
-        turkish: patates
+        turko: patates
 
 
 

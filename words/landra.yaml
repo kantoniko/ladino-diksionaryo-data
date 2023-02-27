@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: plague
-        french: peste
-        portuguese:
+        inglez: plague
+        fransez: peste
+        portugez:
         - praga
         - peste
-        spanish: peste
-        turkish: veba
+        kasteyano: peste
+        turko: veba
 

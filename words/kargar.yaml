@@ -5,13 +5,13 @@ versions:
   - ladino: kargar
 
     translations:
-        english:
+        inglez:
         - load
         - charge
-        french: ''
-        portuguese: ''
-        spanish: cargar
-        turkish: yüklemek
+        fransez: ''
+        portugez: ''
+        kasteyano: cargar
+        turko: yüklemek
 
 conjugations: {}
 

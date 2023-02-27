@@ -6,11 +6,11 @@ versions:
     accented: média
 
     translations:
-        english: half
-        french: ''
-        portuguese: ''
-        spanish: media
-        turkish:
+        inglez: half
+        fransez: ''
+        portugez: ''
+        kasteyano: media
+        turko:
         - yarım
         - orta
 

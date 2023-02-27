@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - road
         - way
-        french: ''
-        portuguese: ''
-        spanish: camino
-        turkish: yol
+        fransez: ''
+        portugez: ''
+        kasteyano: camino
+        turko: yol
 
   - ladino: kaminos
     accented: kamínos
@@ -24,11 +24,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - roads
         - ways
-        french: ''
-        portuguese: ''
-        spanish: caminos
-        turkish: yol
+        fransez: ''
+        portugez: ''
+        kasteyano: caminos
+        turko: yol
 

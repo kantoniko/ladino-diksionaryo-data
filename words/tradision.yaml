@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: tradition
-        french: ''
-        portuguese: ''
-        spanish: tradición
-        turkish:
+        inglez: tradition
+        fransez: ''
+        portugez: ''
+        kasteyano: tradición
+        turko:
         - gelenek
         - anane
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: traditions
-        french: ''
-        portuguese: ''
-        spanish: tradiciónes
-        turkish:
+        inglez: traditions
+        fransez: ''
+        portugez: ''
+        kasteyano: tradiciónes
+        turko:
         - gelenek
         - anane
 

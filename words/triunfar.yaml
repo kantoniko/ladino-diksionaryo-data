@@ -5,11 +5,11 @@ versions:
   - ladino: triunfar
 
     translations:
-        english: triumph
-        french: ''
-        portuguese: ''
-        spanish: triunfar
-        turkish: galip gelmek
+        inglez: triumph
+        fransez: ''
+        portugez: ''
+        kasteyano: triunfar
+        turko: galip gelmek
 
 conjugations: {}
 

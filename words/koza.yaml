@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: thing
-        french: ''
-        portuguese: ''
-        spanish: cosa
-        turkish: şey
+        inglez: thing
+        fransez: ''
+        portugez: ''
+        kasteyano: cosa
+        turko: şey
 
   - ladino: kozas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: things
-        french: ''
-        portuguese: ''
-        spanish: cosas
-        turkish: şey
+        inglez: things
+        fransez: ''
+        portugez: ''
+        kasteyano: cosas
+        turko: şey
 
 
 

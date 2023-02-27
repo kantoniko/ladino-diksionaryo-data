@@ -5,12 +5,12 @@ versions:
   - ladino: embidia
 
     translations:
-        english:
+        inglez:
         - envy
         - jealousy
-        french: ''
-        portuguese: ''
-        spanish: envidia
-        turkish: kıskançlık
+        fransez: ''
+        portugez: ''
+        kasteyano: envidia
+        turko: kıskançlık
 
 

@@ -5,13 +5,13 @@ versions:
   - ladino: turar
 
     translations:
-        english:
+        inglez:
         - last
         - endure
-        french: ''
-        portuguese: ''
-        spanish: durar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: durar
+        turko:
         - sürmek
         - dayanmak
 

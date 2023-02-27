@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: chair
-        french: ''
-        portuguese: ''
-        spanish: silla
-        turkish: sandalye
+        inglez: chair
+        fransez: ''
+        portugez: ''
+        kasteyano: silla
+        turko: sandalye
 
   - ladino: siyas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: chairs
-        french: ''
-        portuguese: ''
-        spanish: sillas
-        turkish: sandalye
+        inglez: chairs
+        fransez: ''
+        portugez: ''
+        kasteyano: sillas
+        turko: sandalye
 
 
 

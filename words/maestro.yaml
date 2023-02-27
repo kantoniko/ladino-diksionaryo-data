@@ -7,13 +7,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - teacher
         - master
-        french: ''
-        portuguese: ''
-        spanish: maestro
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: maestro
+        turko:
         - öğretmen
         - usta
 
@@ -23,13 +23,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - teacher
         - master
-        french: ''
-        portuguese: ''
-        spanish: maestra
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: maestra
+        turko:
         - öğretmen
         - usta
 
@@ -39,13 +39,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - teachers
         - masters
-        french: ''
-        portuguese: ''
-        spanish: maestros
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: maestros
+        turko:
         - öğretmen
         - usta
 
@@ -55,13 +55,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - teachers
         - masters
-        french: ''
-        portuguese: ''
-        spanish: maestras
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: maestras
+        turko:
         - öğretmen
         - usta
 

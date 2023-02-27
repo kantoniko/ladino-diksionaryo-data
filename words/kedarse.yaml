@@ -5,13 +5,13 @@ versions:
   - ladino: kedarse
 
     translations:
-        english:
+        inglez:
         - stay
         - remain
-        french: ''
-        portuguese: ''
-        spanish: quedarse
-        turkish: kalmak
+        fransez: ''
+        portugez: ''
+        kasteyano: quedarse
+        turko: kalmak
 
 conjugations: {}
 

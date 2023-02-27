@@ -5,11 +5,11 @@ versions:
   - ladino: kemar
 
     translations:
-        english: burn
-        french: ''
-        portuguese: ''
-        spanish: quemar
-        turkish: yakmak
+        inglez: burn
+        fransez: ''
+        portugez: ''
+        kasteyano: quemar
+        turko: yakmak
 
 conjugations: {}
 

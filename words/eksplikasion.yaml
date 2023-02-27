@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: explanation
-        french: ''
-        portuguese: ''
-        spanish: explicación
-        turkish: izah
+        inglez: explanation
+        fransez: ''
+        portugez: ''
+        kasteyano: explicación
+        turko: izah
 
   - ladino: eksplikasiones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: explanations
-        french: ''
-        portuguese: ''
-        spanish: explicaciónes
-        turkish: izah
+        inglez: explanations
+        fransez: ''
+        portugez: ''
+        kasteyano: explicaciónes
+        turko: izah
 
 
 

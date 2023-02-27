@@ -5,15 +5,15 @@ versions:
   - ladino: a la fin
 
     translations:
-        english:
+        inglez:
           - at the end
           - finally
-        french: enfin
-        portuguese: no final
-        spanish:
+        fransez: enfin
+        portugez: no final
+        kasteyano:
           - al fin
           - al final
-        turkish:
+        turko:
           - sonunda
           - nihayet
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: humoristic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: humorístico
-      turkish: ''
+      inglez: humoristic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: humorístico
+      turko: ''
 
   - ladino: umoristika
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: humoristic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: humorística
-      turkish: ''
+      inglez: humoristic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: humorística
+      turko: ''
 
   - ladino: umoristikos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: humoristic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: humorísticos
-      turkish: ''
+      inglez: humoristic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: humorísticos
+      turko: ''
 
   - ladino: umoristikas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-      english: humoristic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: humorísticas
-      turkish: ''
+      inglez: humoristic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: humorísticas
+      turko: ''
 
 
 

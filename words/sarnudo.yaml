@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: sneeze
-        french: ''
-        portuguese: ''
-        spanish: estornudo
-        turkish:
+        inglez: sneeze
+        fransez: ''
+        portugez: ''
+        kasteyano: estornudo
+        turko:
         - aksırık
         - hapşırık
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: sneezes
-        french: ''
-        portuguese: ''
-        spanish: estornudos
-        turkish:
+        inglez: sneezes
+        fransez: ''
+        portugez: ''
+        kasteyano: estornudos
+        turko:
         - aksırık
         - hapşırık
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: ugly
-        french: ''
-        portuguese: ''
-        spanish: feo
-        turkish: çirkin
+        inglez: ugly
+        fransez: ''
+        portugez: ''
+        kasteyano: feo
+        turko: çirkin
 
   - ladino: fea
 
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: ugly
-        french: ''
-        portuguese: ''
-        spanish: fea
-        turkish: çirkin
+        inglez: ugly
+        fransez: ''
+        portugez: ''
+        kasteyano: fea
+        turko: çirkin
 
   - ladino: feos
 
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: ugly
-        french: ''
-        portuguese: ''
-        spanish: feos
-        turkish: çirkinler
+        inglez: ugly
+        fransez: ''
+        portugez: ''
+        kasteyano: feos
+        turko: çirkinler
 
   - ladino: feas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-        english: ugly
-        french: ''
-        portuguese: ''
-        spanish: feas
-        turkish: çirkinler
+        inglez: ugly
+        fransez: ''
+        portugez: ''
+        kasteyano: feas
+        turko: çirkinler
 
 
 

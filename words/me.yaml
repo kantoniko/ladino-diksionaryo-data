@@ -5,14 +5,14 @@ versions:
   - ladino: me
 
     translations:
-        english:
+        inglez:
         - me
         - to me
         - myself
-        french: ''
-        portuguese: ''
-        spanish: me
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: me
+        turko:
         - beni
         - bana
 

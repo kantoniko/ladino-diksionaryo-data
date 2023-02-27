@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: grammar
-        french: ''
-        portuguese: ''
-        spanish: gramática
-        turkish: dilbilgisi
+        inglez: grammar
+        fransez: ''
+        portugez: ''
+        kasteyano: gramática
+        turko: dilbilgisi
 
   - ladino: gramatikas
     accented: gramátikas
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: grammars
-        french: ''
-        portuguese: ''
-        spanish: gramáticas
-        turkish: dil bilgisi
+        inglez: grammars
+        fransez: ''
+        portugez: ''
+        kasteyano: gramáticas
+        turko: dil bilgisi
 

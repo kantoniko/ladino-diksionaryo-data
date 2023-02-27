@@ -5,13 +5,13 @@ versions:
   - ladino: asegurar
 
     translations:
-        english:
+        inglez:
           - secure
           - insure
-        french: ''
-        portuguese: ''
-        spanish: asegurar
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: asegurar
+        turko:
           - temin
           - sigorta etmek
 

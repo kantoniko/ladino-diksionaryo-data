@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: carrot
-        french: ''
-        portuguese: ''
-        spanish: zanahoria
-        turkish: havuç
+        inglez: carrot
+        fransez: ''
+        portugez: ''
+        kasteyano: zanahoria
+        turko: havuç
 
   - ladino: safanoryas
     accented: safanóryas
@@ -32,10 +32,10 @@ versions:
     number: plural
 
     translations:
-        english: carrots
-        french: ''
-        portuguese: ''
-        spanish: zanahorias
-        turkish: havuç
+        inglez: carrots
+        fransez: ''
+        portugez: ''
+        kasteyano: zanahorias
+        turko: havuç
 
 

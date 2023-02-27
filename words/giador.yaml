@@ -10,22 +10,22 @@ versions:
     number: singular
 
     translations:
-        english: guide
-        french: ''
-        portuguese: ''
-        spanish: guía
-        turkish:
+        inglez: guide
+        fransez: ''
+        portugez: ''
+        kasteyano: guía
+        turko:
         - rehber
         - lıder
 
   - ladino: giadora
 
     translations:
-        english: guide
-        french: ''
-        portuguese: ''
-        spanish: guía
-        turkish:
+        inglez: guide
+        fransez: ''
+        portugez: ''
+        kasteyano: guía
+        turko:
         - rehber
         - lıder
 

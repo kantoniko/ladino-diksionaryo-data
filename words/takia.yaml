@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: cap
-        french: calotte
-        portuguese: ''
-        spanish: gorro
-        turkish: takke
+        inglez: cap
+        fransez: calotte
+        portugez: ''
+        kasteyano: gorro
+        turko: takke
 
   - ladino: takias
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: caps
-        french: calottes
-        portuguese: ''
-        spanish: gorros
-        turkish: takke
+        inglez: caps
+        fransez: calottes
+        portugez: ''
+        kasteyano: gorros
+        turko: takke
 
 

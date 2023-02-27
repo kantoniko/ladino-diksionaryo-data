@@ -12,12 +12,12 @@ versions:
     number: singular
 
     translations:
-        english: first-born
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: first-born
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - primogénito
-        turkish: ilk çocuk
+        turko: ilk çocuk
 
   - ladino: bohora
     accented: bohóra
@@ -26,11 +26,11 @@ versions:
     number: singular
 
     translations:
-        english: first-born
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: first-born
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - primogénita
-        turkish: ilk çocuk
+        turko: ilk çocuk
 
 

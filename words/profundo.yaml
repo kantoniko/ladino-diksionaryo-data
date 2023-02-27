@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - deep
         - profound
-        french: ''
-        portuguese: ''
-        spanish: profundo
-        turkish: derin
+        fransez: ''
+        portugez: ''
+        kasteyano: profundo
+        turko: derin
 
   - ladino: profunda
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - deep
         - profound
-        french: ''
-        portuguese: ''
-        spanish: profunda
-        turkish: derin
+        fransez: ''
+        portugez: ''
+        kasteyano: profunda
+        turko: derin
 
   - ladino: profundos
 
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - deep
         - profound
-        french: ''
-        portuguese: ''
-        spanish: profundos
-        turkish: derin
+        fransez: ''
+        portugez: ''
+        kasteyano: profundos
+        turko: derin
 
   - ladino: profundas
 
@@ -50,13 +50,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - deep
         - profound
-        french: ''
-        portuguese: ''
-        spanish: profundas
-        turkish: derin
+        fransez: ''
+        portugez: ''
+        kasteyano: profundas
+        turko: derin
 
 
 

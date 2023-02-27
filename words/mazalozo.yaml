@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: fortunate
-        french:
+        inglez: fortunate
+        fransez:
         - chanceux
-        portuguese: fortunoso
-        spanish: afortunado
-        turkish:
+        portugez: fortunoso
+        kasteyano: afortunado
+        turko:
         - şanslı
         - kısmetli
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-        english: fortunate
-        french:
+        inglez: fortunate
+        fransez:
         - chanceux
-        portuguese: fortunosa
-        spanish: afortunada
-        turkish:
+        portugez: fortunosa
+        kasteyano: afortunada
+        turko:
         - şanslı
         - kısmetli
 
@@ -38,12 +38,12 @@ versions:
     number: plural
 
     translations:
-        english: fortunate
-        french:
+        inglez: fortunate
+        fransez:
         - chanceux
-        portuguese: fortunosos
-        spanish: afortunados
-        turkish:
+        portugez: fortunosos
+        kasteyano: afortunados
+        turko:
         - şanslı
         - kısmetli
 
@@ -53,12 +53,12 @@ versions:
     number: plural
 
     translations:
-        english: fortunate
-        french:
+        inglez: fortunate
+        fransez:
         - chanceux
-        portuguese: fortunosas
-        spanish: afortunadas
-        turkish:
+        portugez: fortunosas
+        kasteyano: afortunadas
+        turko:
         - şanslı
         - kısmetli
 

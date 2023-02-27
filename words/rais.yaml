@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: root
-        french: ''
-        portuguese: ''
-        spanish: raíz
-        turkish: kök
+        inglez: root
+        fransez: ''
+        portugez: ''
+        kasteyano: raíz
+        turko: kök
 
   - ladino: raises
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: roots
-        french: ''
-        portuguese: ''
-        spanish: raízes
-        turkish: kök
+        inglez: roots
+        fransez: ''
+        portugez: ''
+        kasteyano: raízes
+        turko: kök
 
 
 

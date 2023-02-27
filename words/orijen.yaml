@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - origin
         - source
-        french: ''
-        portuguese: ''
-        spanish: origen
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: origen
+        turko:
         - menşe
         - kaynak
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - origins
         - sources
-        french: ''
-        portuguese: ''
-        spanish: origenes
-        turkish: kökenler
+        fransez: ''
+        portugez: ''
+        kasteyano: origenes
+        turko: kökenler
 

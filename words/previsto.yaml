@@ -5,10 +5,10 @@ versions:
   - ladino: previsto
 
     translations:
-        english: forecast
-        french: ''
-        portuguese: ''
-        spanish: pronostico
-        turkish: öngörü
+        inglez: forecast
+        fransez: ''
+        portugez: ''
+        kasteyano: pronostico
+        turko: öngörü
 
 

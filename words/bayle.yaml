@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: dance
-        french: danse
-        portuguese: ''
-        spanish: baile
-        turkish: dans
+        inglez: dance
+        fransez: danse
+        portugez: ''
+        kasteyano: baile
+        turko: dans
 
   - ladino: bayles
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: dances
-        french: danses
-        portuguese: ''
-        spanish: bailes
-        turkish: dans
+        inglez: dances
+        fransez: danses
+        portugez: ''
+        kasteyano: bailes
+        turko: dans
 
 
 

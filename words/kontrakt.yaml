@@ -13,12 +13,12 @@ versions:
 
 
     translations:
-      english: contract
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: contrato
-      turkish: ''
+      inglez: contract
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: contrato
+      turko: ''
 
   - ladino: kontraktos
 
@@ -30,11 +30,11 @@ versions:
 
 
     translations:
-      english: contracts
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: contratos
-      turkish: ''
+      inglez: contracts
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: contratos
+      turko: ''
 
 

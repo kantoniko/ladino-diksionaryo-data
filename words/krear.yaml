@@ -5,22 +5,22 @@ versions:
   - ladino: krear
 
     translations:
-        english: create
-        french: ''
-        portuguese: ''
-        spanish: crear
-        turkish: yaratmak
+        inglez: create
+        fransez: ''
+        portugez: ''
+        kasteyano: crear
+        turko: yaratmak
 
 
   # they past
   - ladino: krearon
 
     translations:
-        english: created
-        french: ''
-        portuguese: ''
-        spanish: crearo
-        turkish: ''
+        inglez: created
+        fransez: ''
+        portugez: ''
+        kasteyano: crearo
+        turko: ''
 
 conjugations: {}
 

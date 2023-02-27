@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: season
-        french: saison
-        portuguese: estação
-        spanish: estación
-        turkish: mevsim
+        inglez: season
+        fransez: saison
+        portugez: estação
+        kasteyano: estación
+        turko: mevsim
 
   - ladino: sezones
     accented: sezónes
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: seaso
-        french: saison
-        portuguese: estaçãos
-        spanish: estaciónes
-        turkish: mevsim
+        inglez: seaso
+        fransez: saison
+        portugez: estaçãos
+        kasteyano: estaciónes
+        turko: mevsim
 
 
 

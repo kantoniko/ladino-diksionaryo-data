@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: continent
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: continente
-      turkish: kıta
+      inglez: continent
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: continente
+      turko: kıta
 
   - ladino: kontinentes
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: continents
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: continentes
-      turkish: kıtalar
+      inglez: continents
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: continentes
+      turko: kıtalar
 
 
 

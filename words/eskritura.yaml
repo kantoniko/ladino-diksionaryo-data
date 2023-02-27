@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - writing
         - script
         - handwriting
-        french: ''
-        portuguese: ''
-        spanish: escritura
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: escritura
+        turko:
         - yazı
         - elyazısı
 

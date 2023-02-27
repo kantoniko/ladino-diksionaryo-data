@@ -12,12 +12,12 @@ versions:
         accented: manía
 
     translations:
-      english: bracelet
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: brazalete
-      turkish: ''
+      inglez: bracelet
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: brazalete
+      turko: ''
 
   - ladino: maniyas
 
@@ -29,11 +29,11 @@ versions:
         accented: manías
 
     translations:
-      english: bracelets
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: brazaletes
-      turkish: ''
+      inglez: bracelets
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: brazaletes
+      turko: ''
 
 

@@ -6,14 +6,14 @@ versions:
     accented: aborresér
 
     translations:
-        english:
+        inglez:
           - detest
           - hate
-        french: détester
-        portuguese: odiar
-        spanish:
+        fransez: détester
+        portugez: odiar
+        kasteyano:
           - aborrecer
           - odiar
-        turkish: nefret etmek
+        turko: nefret etmek
 
 conjugations: {}

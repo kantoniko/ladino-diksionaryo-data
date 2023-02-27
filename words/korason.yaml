@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: heart
-        french: ''
-        portuguese: ''
-        spanish: corazón
-        turkish: kalp
+        inglez: heart
+        fransez: ''
+        portugez: ''
+        kasteyano: corazón
+        turko: kalp
 
   - ladino: korasones
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: hearts
-        french: ''
-        portuguese: ''
-        spanish: corazónes
-        turkish: kalp
+        inglez: hearts
+        fransez: ''
+        portugez: ''
+        kasteyano: corazónes
+        turko: kalp
 
 
 

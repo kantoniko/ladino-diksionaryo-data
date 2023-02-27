@@ -5,11 +5,11 @@ versions:
   - ladino: engrandeser
 
     translations:
-        english: grow
-        french: ''
-        portuguese: ''
-        spanish: crecer
-        turkish: büyümek
+        inglez: grow
+        fransez: ''
+        portugez: ''
+        kasteyano: crecer
+        turko: büyümek
 
 conjugations: {}
 

@@ -5,12 +5,12 @@ versions:
   - ladino: sinken
 
     translations:
-        english: fifth
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: fifth
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - quinto
           - quinta
-        turkish: beşinci
+        turko: beşinci
 
 

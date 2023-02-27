@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: platform
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: plataforma
-      turkish: ''
+      inglez: platform
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: plataforma
+      turko: ''
 
   - ladino: platformas
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: platforms
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: plataformas
-      turkish: ''
+      inglez: platforms
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: plataformas
+      turko: ''
 
 
 

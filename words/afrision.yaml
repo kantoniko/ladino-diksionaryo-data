@@ -13,16 +13,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - deprivation
           - persecution
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - privación
           - penuría
           - persecución
-        turkish:
+        turko:
           - mahrumiyet
           - zulüm
           - eziyet

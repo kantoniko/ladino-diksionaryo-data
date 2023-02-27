@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - grandfather
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - abuelo
-        turkish:
+        turko:
         - büyükbaba
         - ata
 
@@ -27,13 +27,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - grandmother
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - abuela
-        turkish:
+        turko:
         - büyükanne
 
   - ladino: avuelos
@@ -42,13 +42,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - grandfathers
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - abuelos
-        turkish:
+        turko:
         - büyükbaba
         - ata
 
@@ -58,13 +58,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - grandmothers
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - abuelas
-        turkish:
+        turko:
         - büyükanne
 
 

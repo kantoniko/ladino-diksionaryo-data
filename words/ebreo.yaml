@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: Hebrew
-        french: ''
-        portuguese: ''
-        spanish: hebreo
-        turkish: ıbranıce
+        inglez: Hebrew
+        fransez: ''
+        portugez: ''
+        kasteyano: hebreo
+        turko: ıbranıce
 
   - ladino: ebrea
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: Hebrew
-        french: ''
-        portuguese: ''
-        spanish: hebrea
-        turkish: ıbranıce
+        inglez: Hebrew
+        fransez: ''
+        portugez: ''
+        kasteyano: hebrea
+        turko: ıbranıce
 
   - ladino: ebreos
 
@@ -34,11 +34,11 @@ versions:
     number: plura
 
     translations:
-        english: Hebrew
-        french: ''
-        portuguese: ''
-        spanish: hebreos
-        turkish: ıbranıce
+        inglez: Hebrew
+        fransez: ''
+        portugez: ''
+        kasteyano: hebreos
+        turko: ıbranıce
 
   - ladino: ebreas
 
@@ -46,10 +46,10 @@ versions:
     number: plura
 
     translations:
-        english: Hebrew
-        french: ''
-        portuguese: ''
-        spanish: hebreas
-        turkish: ıbranıce
+        inglez: Hebrew
+        fransez: ''
+        portugez: ''
+        kasteyano: hebreas
+        turko: ıbranıce
 
 

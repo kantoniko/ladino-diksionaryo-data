@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: kilometre
-        french: ''
-        portuguese: ''
-        spanish: kilómetro
-        turkish: kilometre
+        inglez: kilometre
+        fransez: ''
+        portugez: ''
+        kasteyano: kilómetro
+        turko: kilometre
 
   - ladino: kilometros
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: kilometres
-        french: ''
-        portuguese: ''
-        spanish: kilómetros
-        turkish: kilometre
+        inglez: kilometres
+        fransez: ''
+        portugez: ''
+        kasteyano: kilómetros
+        turko: kilometre
 
 
 

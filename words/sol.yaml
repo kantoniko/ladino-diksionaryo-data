@@ -10,10 +10,10 @@ versions:
     number: singular
 
     translations:
-        english: sun
-        french: soleil
-        portuguese: sol
-        spanish: sol
-        turkish: güneş
+        inglez: sun
+        fransez: soleil
+        portugez: sol
+        kasteyano: sol
+        turko: güneş
 
 

@@ -5,15 +5,15 @@ versions:
   - ladino: piadad
 
     translations:
-        english:
+        inglez:
         - pity
         - compassion
-        french:
+        fransez:
         - pitié
         - compassion
-        portuguese: ''
-        spanish: piedad
-        turkish:
+        portugez: ''
+        kasteyano: piedad
+        turko:
         - merhamet
         - insaf
 

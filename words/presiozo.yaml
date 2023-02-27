@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - precious
         - valuable
-        french: ''
-        portuguese: ''
-        spanish: precioso
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: precioso
+        turko:
         - değerli
         - kıymetli
 
@@ -34,13 +34,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - precious
         - valuable
-        french: ''
-        portuguese: ''
-        spanish: preciosa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: preciosa
+        turko:
         - değerli
         - kıymetli
 
@@ -55,13 +55,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - precious
         - valuable
-        french: ''
-        portuguese: ''
-        spanish: preciosos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: preciosos
+        turko:
         - değerli
         - kıymetli
 
@@ -76,13 +76,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - precious
         - valuable
-        french: ''
-        portuguese: ''
-        spanish: preciosas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: preciosas
+        turko:
         - değerli
         - kıymetli
 

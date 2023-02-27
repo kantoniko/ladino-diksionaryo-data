@@ -12,22 +12,22 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - brave
         - robust
-        french:
+        fransez:
         - fort
         - robuste
         - vaillant
-        portuguese:
+        portugez:
         - forte
         - robusto
         - valente
-        spanish:
+        kasteyano:
         - valiente
         - animoso
         - robusto
-        turkish:
+        turko:
         - yiğit
         - güçlü
 

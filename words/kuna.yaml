@@ -5,15 +5,15 @@ versions:
   - ladino: kuna
 
     translations:
-        english:
+        inglez:
         - swing
         - cradle
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - columpio
         - cuna
-        turkish:
+        turko:
         - salıncak
         - beşik
 

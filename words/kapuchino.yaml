@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: capuchino
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: capuchino
-      turkish: ''
+      inglez: capuchino
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: capuchino
+      turko: ''
 
   - ladino: kapuchinos
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: capuchinos
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: capuchinos
-      turkish: ''
+      inglez: capuchinos
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: capuchinos
+      turko: ''
 
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: neglijar
 
     translations:
-        english: neglect
-        french: négliger
-        portuguese: ''
-        spanish: descuidar
-        turkish: ihmal etmek
+        inglez: neglect
+        fransez: négliger
+        portugez: ''
+        kasteyano: descuidar
+        turko: ihmal etmek
 
 conjugations: {}
 

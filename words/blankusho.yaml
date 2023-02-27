@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: albino
-        french: ''
-        portuguese: ''
-        spanish: albino
-        turkish: albinos
+        inglez: albino
+        fransez: ''
+        portugez: ''
+        kasteyano: albino
+        turko: albinos
 
   - ladino: blankusha
     accented: blankúsha
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: albinos
-        french: ''
-        portuguese: ''
-        spanish: albinos
-        turkish: albinos
+        inglez: albinos
+        fransez: ''
+        portugez: ''
+        kasteyano: albinos
+        turko: albinos
 

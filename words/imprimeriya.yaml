@@ -13,9 +13,9 @@ versions:
     number: singular
 
     translations:
-        english: printing-house
-        french: ''
-        portuguese: ''
-        spanish: imprenta
-        turkish: matbaa
+        inglez: printing-house
+        fransez: ''
+        portugez: ''
+        kasteyano: imprenta
+        turko: matbaa
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: personal
-        french: ''
-        portuguese: ''
-        spanish: personal
-        turkish: şahsî
+        inglez: personal
+        fransez: ''
+        portugez: ''
+        kasteyano: personal
+        turko: şahsî
 
   - ladino: personala
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: personal
-        french: ''
-        portuguese: ''
-        spanish: personala
-        turkish: şahsî
+        inglez: personal
+        fransez: ''
+        portugez: ''
+        kasteyano: personala
+        turko: şahsî
 
   - ladino: personales
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: personal
-        french: ''
-        portuguese: ''
-        spanish: personales
-        turkish: şahsî
+        inglez: personal
+        fransez: ''
+        portugez: ''
+        kasteyano: personales
+        turko: şahsî
 
   - ladino: personalas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: personal
-        french: ''
-        portuguese: ''
-        spanish: personalas
-        turkish: şahsî
+        inglez: personal
+        fransez: ''
+        portugez: ''
+        kasteyano: personalas
+        turko: şahsî
 
 
 

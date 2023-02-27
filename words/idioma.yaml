@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: idiom
-        french: ''
-        portuguese: ''
-        spanish: idioma
-        turkish:
+        inglez: idiom
+        fransez: ''
+        portugez: ''
+        kasteyano: idioma
+        turko:
         - dil
         - lehçe
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: idioms
-        french: ''
-        portuguese: ''
-        spanish: idiomas
-        turkish:
+        inglez: idioms
+        fransez: ''
+        portugez: ''
+        kasteyano: idiomas
+        turko:
         - dil
         - lehçe
 

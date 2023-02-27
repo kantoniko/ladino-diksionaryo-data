@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: idea
-        french: ''
-        portuguese: ''
-        spanish: idea
-        turkish: fikir
+        inglez: idea
+        fransez: ''
+        portugez: ''
+        kasteyano: idea
+        turko: fikir
 
   - ladino: ideas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: ideas
-        french: ''
-        portuguese: ''
-        spanish: ideas
-        turkish: fikir
+        inglez: ideas
+        fransez: ''
+        portugez: ''
+        kasteyano: ideas
+        turko: fikir
 
 
 

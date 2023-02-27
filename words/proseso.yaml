@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: process
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: proceso
-      turkish: ''
+      inglez: process
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: proceso
+      turko: ''
 
   - ladino: prosesos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: processes
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: procesos
-      turkish: ''
+      inglez: processes
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: procesos
+      turko: ''
 
 
 

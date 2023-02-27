@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-      english:
+      inglez:
         - shape
         - pattern
         - mold
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - צורה
         - תבנית
         - דגם
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

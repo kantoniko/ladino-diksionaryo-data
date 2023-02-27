@@ -15,13 +15,13 @@ versions:
       - ladino: proyekto
 
     translations:
-      english: project
-      french: ''
-      hebrew:
+      inglez: project
+      fransez: ''
+      ebreo:
         - תכנית
         - מיזם
         - פרוייקט
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

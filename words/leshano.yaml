@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: far
-        french: ''
-        portuguese: ''
-        spanish: lejano
-        turkish: uzak
+        inglez: far
+        fransez: ''
+        portugez: ''
+        kasteyano: lejano
+        turko: uzak
 
   - ladino: leshana
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: far
-        french: ''
-        portuguese: ''
-        spanish: lejana
-        turkish: uzak
+        inglez: far
+        fransez: ''
+        portugez: ''
+        kasteyano: lejana
+        turko: uzak
 
   - ladino: leshanos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: far
-        french: ''
-        portuguese: ''
-        spanish: lejanos
-        turkish: uzak
+        inglez: far
+        fransez: ''
+        portugez: ''
+        kasteyano: lejanos
+        turko: uzak
 
   - ladino: leshanas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: far
-        french: ''
-        portuguese: ''
-        spanish: lejanas
-        turkish: uzak
+        inglez: far
+        fransez: ''
+        portugez: ''
+        kasteyano: lejanas
+        turko: uzak
 
 
 

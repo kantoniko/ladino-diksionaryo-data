@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - success
         - achievement
-        french: réussite
-        portuguese: êxito
-        spanish:
+        fransez: réussite
+        portugez: êxito
+        kasteyano:
         - éxito
         - logro
-        turkish: başarı
+        turko: başarı
 
   - ladino: reushitas
     accented: reushitás
@@ -26,14 +26,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - successes
         - achievements
-        french: réussite
-        portuguese: êxito
-        spanish:
+        fransez: réussite
+        portugez: êxito
+        kasteyano:
         - éxitos
         - logros
-        turkish: başarı
+        turko: başarı
 
 

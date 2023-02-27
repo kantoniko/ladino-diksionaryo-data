@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - inn
         - motel
-        french: ''
-        portuguese: ''
-        spanish: fonda
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fonda
+        turko:
         - motel
         - han
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - inns
         - motels
-        french: ''
-        portuguese: ''
-        spanish: fondas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fondas
+        turko:
         - motel
         - han
 

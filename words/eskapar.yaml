@@ -5,11 +5,11 @@ versions:
   - ladino: eskapar
 
     translations:
-        english: finish
-        french: ''
-        portuguese: ''
-        spanish: acabar
-        turkish: bitirmek
+        inglez: finish
+        fransez: ''
+        portugez: ''
+        kasteyano: acabar
+        turko: bitirmek
 
 conjugations: {}
 

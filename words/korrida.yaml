@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - run
         - dash
         - bull-fight
-        french: ''
-        portuguese: ''
-        spanish: corrida
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: corrida
+        turko:
         - koşu
         - boğa güreşi
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - runs
         - dashes
         - bull-fights
-        french: ''
-        portuguese: ''
-        spanish: corridas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: corridas
+        turko:
         - koşu
         - boğa güreşi
 

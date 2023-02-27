@@ -5,11 +5,11 @@ versions:
   - ladino: Kipur
 
     translations:
-        english: Jewish Grand Pardon and Fasting Day
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: Jewish Grand Pardon and Fasting Day
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - Kipur
         - Día de Ayuno
-        turkish: Büyük Af ve Oruç Günü
+        turko: Büyük Af ve Oruç Günü
 

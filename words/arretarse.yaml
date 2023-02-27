@@ -8,11 +8,11 @@ versions:
       - ladino: kedarse
 
     translations:
-        english: stop
-        french: ''
-        portuguese: ''
-        spanish: pararse
-        turkish: durmak
+        inglez: stop
+        fransez: ''
+        portugez: ''
+        kasteyano: pararse
+        turko: durmak
 
 conjugations: {}
 

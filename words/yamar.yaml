@@ -5,11 +5,11 @@ versions:
   - ladino: yamar
 
     translations:
-        english: to call
-        french: appeler
-        portuguese: ''
-        spanish: llamar
-        turkish: çağırmak
+        inglez: to call
+        fransez: appeler
+        portugez: ''
+        kasteyano: llamar
+        turko: çağırmak
 
 conjugations: {}
 

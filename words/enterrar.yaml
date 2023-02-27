@@ -5,11 +5,11 @@ versions:
   - ladino: enterrar
 
     translations:
-        english: bury
-        french: ''
-        portuguese: ''
-        spanish: enterrar
-        turkish: gömmek
+        inglez: bury
+        fransez: ''
+        portugez: ''
+        kasteyano: enterrar
+        turko: gömmek
 
 conjugations: {}
 

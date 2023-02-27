@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: sheep
-        french: brebis
-        portuguese: ovelha
-        spanish: oveja
-        turkish: koyun
+        inglez: sheep
+        fransez: brebis
+        portugez: ovelha
+        kasteyano: oveja
+        turko: koyun
 
   - ladino: ovejas
     accented: ovéjas
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: sheep
-        french: brebis
-        portuguese: ovelha
-        spanish: ovejas
-        turkish: koyun
+        inglez: sheep
+        fransez: brebis
+        portugez: ovelha
+        kasteyano: ovejas
+        turko: koyun
 

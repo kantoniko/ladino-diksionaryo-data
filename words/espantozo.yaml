@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: coward
-        french: ''
-        portuguese: ''
-        spanish: cobarde
-        turkish: korkak
+        inglez: coward
+        fransez: ''
+        portugez: ''
+        kasteyano: cobarde
+        turko: korkak
 
   - ladino: espantoza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: coward
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: korkak
+        inglez: coward
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: korkak
 
   - ladino: espantozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: cowards
-        french: ''
-        portuguese: ''
-        spanish: cobardes
-        turkish: korkak
+        inglez: cowards
+        fransez: ''
+        portugez: ''
+        kasteyano: cobardes
+        turko: korkak
 
   - ladino: espantozas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: cowards
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: korkak
+        inglez: cowards
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: korkak
 
 

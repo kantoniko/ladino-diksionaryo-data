@@ -14,14 +14,14 @@ versions:
         accented: pamplemús
 
     translations:
-      english: grapefruit
-      french: ''
-      hebrew: אשכוליות
-      portuguese: greipfrut
-      spanish:
+      inglez: grapefruit
+      fransez: ''
+      ebreo: אשכוליות
+      portugez: greipfrut
+      kasteyano:
         - pomelo
         - toronja
-      turkish:
+      turko:
         - greyfrut
         - altıntop
 

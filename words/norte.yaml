@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: north
-        french: ''
-        portuguese: ''
-        spanish: norte
-        turkish:
+        inglez: north
+        fransez: ''
+        portugez: ''
+        kasteyano: norte
+        turko:
         - kuzey
         - şimal
 

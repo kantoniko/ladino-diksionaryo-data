@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - well-known
         - familiar
-        french: ''
-        portuguese: ''
-        spanish: conocido
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: conocido
+        turko:
         - meihur
         - tanıdık
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - well-known
         - familiar
-        french: ''
-        portuguese: ''
-        spanish: conocida
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: conocida
+        turko:
         - meihur
         - tanıdık
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - well-known
         - familiar
-        french: ''
-        portuguese: ''
-        spanish: conocidos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: conocidos
+        turko:
         - meihur
         - tanıdık
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - well-known
         - familiar
-        french: ''
-        portuguese: ''
-        spanish: conocidas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: conocidas
+        turko:
         - meihur
         - tanıdık
 

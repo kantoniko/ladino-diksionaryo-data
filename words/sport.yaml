@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sport
-        french: ''
-        portuguese: ''
-        spanish: deporte
-        turkish: spor
+        inglez: sport
+        fransez: ''
+        portugez: ''
+        kasteyano: deporte
+        turko: spor
 
   - ladino: sportes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sports
-        french: ''
-        portuguese: ''
-        spanish: deportes
-        turkish: spor
+        inglez: sports
+        fransez: ''
+        portugez: ''
+        kasteyano: deportes
+        turko: spor
 
 
 

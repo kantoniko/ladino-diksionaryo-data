@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: hotel
-        french: ''
-        portuguese: ''
-        spanish: hotel
-        turkish: otel
+        inglez: hotel
+        fransez: ''
+        portugez: ''
+        kasteyano: hotel
+        turko: otel
 
   - ladino: oteles
     accented: otéles
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: hotels
-        french: ''
-        portuguese: ''
-        spanish: hoteles
-        turkish: otel
+        inglez: hotels
+        fransez: ''
+        portugez: ''
+        kasteyano: hoteles
+        turko: otel
 

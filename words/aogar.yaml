@@ -10,13 +10,13 @@ versions:
         accented: afogár
 
     translations:
-        english:
+        inglez:
         - drown
         - suffocate
-        french: ''
-        portuguese: ''
-        spanish: ahogar
-        turkish: boğmak
+        fransez: ''
+        portugez: ''
+        kasteyano: ahogar
+        turko: boğmak
 
 conjugations: {}
 

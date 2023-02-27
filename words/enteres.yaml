@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: interest
-        french: ''
-        portuguese: ''
-        spanish: interés
-        turkish:
+        inglez: interest
+        fransez: ''
+        portugez: ''
+        kasteyano: interés
+        turko:
         - ilgi
         - faiz
 

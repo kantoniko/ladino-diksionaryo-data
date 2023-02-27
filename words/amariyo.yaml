@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: yellow
-        french: jaune
-        portuguese: amarelo
-        spanish: amarillo
-        turkish: sarı
+        inglez: yellow
+        fransez: jaune
+        portugez: amarelo
+        kasteyano: amarillo
+        turko: sarı
 
   - ladino: amariya
     accented: amaríya
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: yellow
-        french: jaune
-        portuguese: amarelo
-        spanish: amarilla
-        turkish: sarı
+        inglez: yellow
+        fransez: jaune
+        portugez: amarelo
+        kasteyano: amarilla
+        turko: sarı
 
   - ladino: amariyos
     accented: amaríyos
@@ -37,11 +37,11 @@ versions:
     number: plural
 
     translations:
-        english: yellow
-        french: jaune
-        portuguese: amarelos
-        spanish: amarillos
-        turkish: sarı
+        inglez: yellow
+        fransez: jaune
+        portugez: amarelos
+        kasteyano: amarillos
+        turko: sarı
 
   - ladino: amariyas
     accented: amaríyas
@@ -50,10 +50,10 @@ versions:
     number: plural
 
     translations:
-        english: yellow
-        french: jaune
-        portuguese: amarelas
-        spanish: amarillas
-        turkish: sarı
+        inglez: yellow
+        fransez: jaune
+        portugez: amarelas
+        kasteyano: amarillas
+        turko: sarı
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: observar
 
     translations:
-        english: notice
-        french: ''
-        portuguese: ''
-        spanish: observar
-        turkish: müşahade - riayet etmek
+        inglez: notice
+        fransez: ''
+        portugez: ''
+        kasteyano: observar
+        turko: müşahade - riayet etmek
 
 conjugations: {}
 

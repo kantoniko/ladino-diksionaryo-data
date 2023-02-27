@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: helicopter
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: helicóptero
-      turkish: ''
+      inglez: helicopter
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: helicóptero
+      turko: ''
 
   - ladino: helikopteros
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-      english: helicopters
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: helicópteros
-      turkish: ''
+      inglez: helicopters
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: helicópteros
+      turko: ''
 
 

@@ -6,15 +6,15 @@ versions:
     accented: algún
 
     translations:
-        english:
+        inglez:
         - someone
         - something
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - alguien
         - algo
-        turkish:
+        turko:
         - birisi
         - herhangi bir
 

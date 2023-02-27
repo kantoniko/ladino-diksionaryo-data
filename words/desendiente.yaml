@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: descendant
-        french: descendant
-        portuguese: ''
-        spanish: descendiente
-        turkish:
+        inglez: descendant
+        fransez: descendant
+        portugez: ''
+        kasteyano: descendiente
+        turko:
         - soyundan gelen
         - oğul
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: descendants
-        french: descendant
-        portuguese: ''
-        spanish: descendientes
-        turkish:
+        inglez: descendants
+        fransez: descendant
+        portugez: ''
+        kasteyano: descendientes
+        turko:
         - soyundan gelen
         - oğul
 

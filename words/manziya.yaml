@@ -9,18 +9,18 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - misfortune
         - mishap
         - waste
-        french:
+        fransez:
         - infortune
         - gaspillage
-        portuguese: desperdicio
-        spanish:
+        portugez: desperdicio
+        kasteyano:
         - desgracia
         - desgaste
-        turkish:
+        turko:
         - talihsizlik
         - ziyan
 

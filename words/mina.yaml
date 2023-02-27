@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: pastry
-        french: ''
-        portuguese: ''
-        spanish: empanada
-        turkish: börek
+        inglez: pastry
+        fransez: ''
+        portugez: ''
+        kasteyano: empanada
+        turko: börek
 
   - ladino: minas
     accented: mínas
@@ -24,9 +24,9 @@ versions:
     number: plural
 
     translations:
-        english: pastries
-        french: ''
-        portuguese: ''
-        spanish: empanadas
-        turkish: börek
+        inglez: pastries
+        fransez: ''
+        portugez: ''
+        kasteyano: empanadas
+        turko: börek
 

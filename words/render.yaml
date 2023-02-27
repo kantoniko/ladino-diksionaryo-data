@@ -5,11 +5,11 @@ versions:
   - ladino: render
 
     translations:
-        english: yield
-        french: ''
-        portuguese: ''
-        spanish: rendir
-        turkish: vermek (ürün)
+        inglez: yield
+        fransez: ''
+        portugez: ''
+        kasteyano: rendir
+        turko: vermek (ürün)
 
 conjugations: {}
 

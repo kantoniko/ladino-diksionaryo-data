@@ -10,11 +10,11 @@ versions:
         accented: myéntres
 
     translations:
-        english: while
-        french: ''
-        portuguese: ''
-        spanish: mientras
-        turkish:
+        inglez: while
+        fransez: ''
+        portugez: ''
+        kasteyano: mientras
+        turko:
         - iken
         - süresince
 

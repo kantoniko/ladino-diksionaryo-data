@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-        english: apple
-        french: ''
-        hebrew: תפוח עץ
-        portuguese: maçã
-        spanish: manzana
-        turkish: elma
+        inglez: apple
+        fransez: ''
+        ebreo: תפוח עץ
+        portugez: maçã
+        kasteyano: manzana
+        turko: elma
 
   - ladino: mansanas
 
@@ -23,14 +23,14 @@ versions:
     number: plural
 
     translations:
-        english: apples
-        french: ''
-        hebrew:
+        inglez: apples
+        fransez: ''
+        ebreo:
           - תפוחי עץ
           - תפוחים
-        portuguese:  maçãs
-        spanish: manzanas
-        turkish: elma
+        portugez:  maçãs
+        kasteyano: manzanas
+        turko: elma
 
 
 

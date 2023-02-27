@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - film
         - movie
-        french: ''
-        portuguese: ''
-        spanish: película
-        turkish: film
+        fransez: ''
+        portugez: ''
+        kasteyano: película
+        turko: film
 
   - ladino: filmos
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - films
         - movies
-        french: ''
-        portuguese: ''
-        spanish: películas
-        turkish: film
+        fransez: ''
+        portugez: ''
+        kasteyano: películas
+        turko: film
 
 
 

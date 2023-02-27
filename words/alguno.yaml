@@ -8,16 +8,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - someone
         - some
         - any
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - alguien
         - alguno
-        turkish:
+        turko:
         - birisi
         - herhangi biri
 
@@ -27,16 +27,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - someone
         - some
         - any
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - alguien
         - alguna
-        turkish:
+        turko:
         - birisi
         - herhangi biri
 
@@ -46,16 +46,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - someone
         - some
         - any
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - alguien
         - algunos
-        turkish:
+        turko:
         - birisi
         - herhangi biri
 
@@ -65,16 +65,16 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - someone
         - some
         - any
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - alguien
         - algunas
-        turkish:
+        turko:
         - birisi
         - herhangi biri
 

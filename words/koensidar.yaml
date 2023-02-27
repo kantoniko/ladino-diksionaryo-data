@@ -5,11 +5,11 @@ versions:
   - ladino: koensidar
 
     translations:
-        english: coincide
-        french: ''
-        portuguese: ''
-        spanish: coincidir
-        turkish:
+        inglez: coincide
+        fransez: ''
+        portugez: ''
+        kasteyano: coincidir
+        turko:
         - uyuşmak
         - uymak
 

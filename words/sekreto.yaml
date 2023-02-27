@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: secret
-        french: ''
-        portuguese: ''
-        spanish: secreto
-        turkish: gizli
+        inglez: secret
+        fransez: ''
+        portugez: ''
+        kasteyano: secreto
+        turko: gizli
 
   - ladino: sekreta
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: secret
-        french: ''
-        portuguese: ''
-        spanish: secreta
-        turkish: gizli
+        inglez: secret
+        fransez: ''
+        portugez: ''
+        kasteyano: secreta
+        turko: gizli
 
   - ladino: sekretos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: secrets
-        french: ''
-        portuguese: ''
-        spanish: secretos
-        turkish: gizli
+        inglez: secrets
+        fransez: ''
+        portugez: ''
+        kasteyano: secretos
+        turko: gizli
 
   - ladino: sekretas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: secrets
-        french: ''
-        portuguese: ''
-        spanish: secretas
-        turkish: gizli
+        inglez: secrets
+        fransez: ''
+        portugez: ''
+        kasteyano: secretas
+        turko: gizli
 
 
 

@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - step
         - pace
-        french: ''
-        portuguese: ''
-        spanish: paso
-        turkish: adım
+        fransez: ''
+        portugez: ''
+        kasteyano: paso
+        turko: adım
 
   - ladino: pasos
     accented: pásos
@@ -24,12 +24,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - steps
         - pace
-        french: ''
-        portuguese: ''
-        spanish: pasos
-        turkish: adım
+        fransez: ''
+        portugez: ''
+        kasteyano: pasos
+        turko: adım
 
 

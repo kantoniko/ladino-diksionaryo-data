@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: colour
-        french: ''
-        portuguese: ''
-        spanish: color (el)
-        turkish: renk
+        inglez: colour
+        fransez: ''
+        portugez: ''
+        kasteyano: color (el)
+        turko: renk
 
   - ladino: kolores
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: colours
-        french: ''
-        portuguese: ''
-        spanish: colores
-        turkish: renk
+        inglez: colours
+        fransez: ''
+        portugez: ''
+        kasteyano: colores
+        turko: renk
 

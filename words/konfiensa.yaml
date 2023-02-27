@@ -8,10 +8,10 @@ versions:
     number: singular
 
     translations:
-        english: confidence
-        french: ''
-        portuguese: ''
-        spanish: confianza
-        turkish: güven
+        inglez: confidence
+        fransez: ''
+        portugez: ''
+        kasteyano: confianza
+        turko: güven
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: sakrifisio
 
     translations:
-        english: sacrifice
-        french: ''
-        portuguese: ''
-        spanish: sacrificio
-        turkish:
+        inglez: sacrifice
+        fransez: ''
+        portugez: ''
+        kasteyano: sacrificio
+        turko:
           - fedakârlık
           - kurban
 

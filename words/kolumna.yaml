@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: column
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: columna
-      turkish: ''
+      inglez: column
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: columna
+      turko: ''
 
   - ladino: kolumnas
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: columns
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: columnas
-      turkish: ''
+      inglez: columns
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: columnas
+      turko: ''
 
 

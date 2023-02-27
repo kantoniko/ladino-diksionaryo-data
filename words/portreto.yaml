@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: portrait
-        french: ''
-        portuguese: ''
-        spanish: retrato
-        turkish: portre
+        inglez: portrait
+        fransez: ''
+        portugez: ''
+        kasteyano: retrato
+        turko: portre
 
   - ladino: portretos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: portrait
-        french: ''
-        portuguese: ''
-        spanish: retrato
-        turkish: portre
+        inglez: portrait
+        fransez: ''
+        portugez: ''
+        kasteyano: retrato
+        turko: portre
 
 
 

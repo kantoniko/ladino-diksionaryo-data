@@ -5,13 +5,13 @@ versions:
   - ladino: kontrario
 
     translations:
-        english: contrary
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: contrary
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - contrario
           - contrario
-        turkish:
+        turko:
         - aksi
         - ters
 

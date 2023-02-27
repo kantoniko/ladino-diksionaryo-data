@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: effort
-        french: ''
-        portuguese: ''
-        spanish: esfuerzo
-        turkish:
+        inglez: effort
+        fransez: ''
+        portugez: ''
+        kasteyano: esfuerzo
+        turko:
         - gayret
         - çaba
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: efforts
-        french: ''
-        portuguese: ''
-        spanish: esfuerzos
-        turkish:
+        inglez: efforts
+        fransez: ''
+        portugez: ''
+        kasteyano: esfuerzos
+        turko:
         - gayret
         - çaba
 

@@ -5,11 +5,11 @@ versions:
   - ladino: inkluir
 
     translations:
-        english: include
-        french: ''
-        portuguese: ''
-        spanish: incluir
-        turkish: dahil etmek
+        inglez: include
+        fransez: ''
+        portugez: ''
+        kasteyano: incluir
+        turko: dahil etmek
 
 conjugations: {}
 

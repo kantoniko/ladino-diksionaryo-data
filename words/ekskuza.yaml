@@ -5,21 +5,21 @@ versions:
   - ladino: ekskuza
 
     translations:
-        english: excuse
-        french: ''
-        portuguese: ''
-        spanish: excusa
-        turkish: mazeret
+        inglez: excuse
+        fransez: ''
+        portugez: ''
+        kasteyano: excusa
+        turko: mazeret
 
 
   - ladino: ekskuzame
 
     translations:
-        english: excuse me
-        french: ''
-        portuguese: ''
-        spanish: ''
-        turkish: özür dilerim
+        inglez: excuse me
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: özür dilerim
 
 
 

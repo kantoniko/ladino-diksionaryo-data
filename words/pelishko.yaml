@@ -9,12 +9,12 @@ versions:
 
 
     translations:
-      english: pinch
-      french: ''
-      hebrew: צביטה
-      portuguese: ''
-      spanish: ''
-      turkish: çimdik
+      inglez: pinch
+      fransez: ''
+      ebreo: צביטה
+      portugez: ''
+      kasteyano: ''
+      turko: çimdik
 
   - ladino: pelishkos
 
@@ -23,10 +23,10 @@ versions:
 
 
     translations:
-      english: pinches
-      french: ''
-      hebrew: צביטות
-      portuguese: ''
-      spanish: ''
-      turkish: çimdikler
+      inglez: pinches
+      fransez: ''
+      ebreo: צביטות
+      portugez: ''
+      kasteyano: ''
+      turko: çimdikler
 

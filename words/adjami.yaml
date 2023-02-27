@@ -10,19 +10,19 @@ versions:
         accented: adjamía
 
     translations:
-        english:
+        inglez:
           - novice
           - inexperienced
-        french:
+        fransez:
           - novice
           - inexpérimenté
-        portuguese:
+        portugez:
           - novato
           - inexperiente
-        spanish:
+        kasteyano:
           - novicio
           - inexperto
-        turkish:
+        turko:
           - acemi
           - tecrübesiz
 

@@ -18,11 +18,11 @@ versions:
     number: singular
 
     translations:
-        english: kitchen
-        french: ''
-        portuguese: ''
-        spanish: cocina
-        turkish: mutfak
+        inglez: kitchen
+        fransez: ''
+        portugez: ''
+        kasteyano: cocina
+        turko: mutfak
 
   - ladino: kozinas
     accented: kozínas
@@ -38,11 +38,11 @@ versions:
     number: plural
 
     translations:
-        english: kitchens
-        french: ''
-        portuguese: ''
-        spanish: cocinas
-        turkish: mutfak
+        inglez: kitchens
+        fransez: ''
+        portugez: ''
+        kasteyano: cocinas
+        turko: mutfak
 
 
 

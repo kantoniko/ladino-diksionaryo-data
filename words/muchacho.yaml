@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - boy
-        french: ''
-        portuguese: ''
-        spanish: muchacho
-        turkish: oğlan
+        fransez: ''
+        portugez: ''
+        kasteyano: muchacho
+        turko: oğlan
 
   - ladino: muchacha
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - girl
-        french: ''
-        portuguese: ''
-        spanish: muchacha
-        turkish: kız
+        fransez: ''
+        portugez: ''
+        kasteyano: muchacha
+        turko: kız
 
   - ladino: muchachos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - boys
-        french: ''
-        portuguese: ''
-        spanish: muchachos
-        turkish: oğlan
+        fransez: ''
+        portugez: ''
+        kasteyano: muchachos
+        turko: oğlan
 
   - ladino: muchachas
 
@@ -47,12 +47,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - girls
-        french: ''
-        portuguese: ''
-        spanish: muchachas
-        turkish: kız
+        fransez: ''
+        portugez: ''
+        kasteyano: muchachas
+        turko: kız
 
 
 

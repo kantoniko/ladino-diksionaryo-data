@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: community
-        french: ''
-        portuguese: ''
-        spanish: comunidad
-        turkish:
+        inglez: community
+        fransez: ''
+        portugez: ''
+        kasteyano: comunidad
+        turko:
         - cemaattopluluk
         - toplum
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: communities
-        french: ''
-        portuguese: ''
-        spanish: comunidades
-        turkish:
+        inglez: communities
+        fransez: ''
+        portugez: ''
+        kasteyano: comunidades
+        turko:
         - cemaattopluluk
         - toplum
 

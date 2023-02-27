@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: horrible
-        french: ''
-        portuguese: ''
-        spanish: horrible
-        turkish: fecí
+        inglez: horrible
+        fransez: ''
+        portugez: ''
+        kasteyano: horrible
+        turko: fecí
 
   - ladino: orivles
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: horrible
-        french: ''
-        portuguese: ''
-        spanish: horrible
-        turkish: korkunçlar
+        inglez: horrible
+        fransez: ''
+        portugez: ''
+        kasteyano: horrible
+        turko: korkunçlar
 
 
 

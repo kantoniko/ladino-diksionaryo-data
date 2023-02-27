@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-      english: comedian
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: comedian
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - cómico
         - comediante
-      turkish: ''
+      turko: ''
 
   - ladino: komediantes
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-      english: comedians
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: comedians
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - cómicos
         - comediantes
-      turkish: ''
+      turko: ''
 
 
 

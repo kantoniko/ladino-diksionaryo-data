@@ -8,17 +8,17 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - pretentious
         - affected manners
-        french:
+        fransez:
         - manières prétentieuses
         - mièvreries
-        portuguese: maneirismo
-        spanish:
+        portugez: maneirismo
+        kasteyano:
         - modales pretenciosas
         - amaneramiento
-        turkish:
+        turko:
         - debdebe
         - gösteriş
         - yapmacık hal

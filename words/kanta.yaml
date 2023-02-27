@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: song
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: song
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - canta
           - canción
-        turkish: ''
+        turko: ''
 
   - ladino: kantas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english: songs
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: songs
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cantas
           - canciones
-        turkish: ''
+        turko: ''
 
 
 

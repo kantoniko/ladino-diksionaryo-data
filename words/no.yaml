@@ -5,14 +5,14 @@ versions:
   - ladino: 'no'
 
     translations:
-        english:
+        inglez:
         - 'no'
         - not
         - don't
-        french: ''
-        portuguese: ''
-        spanish: 'no'
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: 'no'
+        turko:
         - hayır
         - değil
 

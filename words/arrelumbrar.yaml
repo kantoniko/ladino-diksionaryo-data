@@ -8,11 +8,11 @@ versions:
       - ladino: asender
 
     translations:
-        english: illuminate
-        french: ''
-        portuguese: ''
-        spanish: alumbrar
-        turkish: aydınlatmak
+        inglez: illuminate
+        fransez: ''
+        portugez: ''
+        kasteyano: alumbrar
+        turko: aydınlatmak
 
 conjugations: {}
 

@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: conference
-        french: ''
-        portuguese: ''
-        spanish: conferencia
-        turkish: konferans
+        inglez: conference
+        fransez: ''
+        portugez: ''
+        kasteyano: conferencia
+        turko: konferans
 
   - ladino: konferensias
     accented: konferénsias
@@ -28,9 +28,9 @@ versions:
     number: plural
 
     translations:
-        english: conferences
-        french: ''
-        portuguese: ''
-        spanish: conferencias
-        turkish: konferans
+        inglez: conferences
+        fransez: ''
+        portugez: ''
+        kasteyano: conferencias
+        turko: konferans
 

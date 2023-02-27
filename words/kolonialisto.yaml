@@ -11,12 +11,12 @@ versions:
       - ladino: kolonialiste
 
     translations:
-      english: colonialist
-      french: ''
-      hebrew: קולוניאליסט
-      portuguese: ''
-      spanish: colonialista
-      turkish: ''
+      inglez: colonialist
+      fransez: ''
+      ebreo: קולוניאליסט
+      portugez: ''
+      kasteyano: colonialista
+      turko: ''
 
   - ladino: kolonialista
 
@@ -27,12 +27,12 @@ versions:
       - ladino: kolonialiste
 
     translations:
-      english: colonialist
-      french: ''
-      hebrew: קולוניאליסטה
-      portuguese: ''
-      spanish: colonialista
-      turkish: ''
+      inglez: colonialist
+      fransez: ''
+      ebreo: קולוניאליסטה
+      portugez: ''
+      kasteyano: colonialista
+      turko: ''
 
 
 

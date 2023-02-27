@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: paper
-        french: ''
-        portuguese: ''
-        spanish: papel
-        turkish: kâğıt
+        inglez: paper
+        fransez: ''
+        portugez: ''
+        kasteyano: papel
+        turko: kâğıt
 
   - ladino: papeles
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: papers
-        french: ''
-        portuguese: ''
-        spanish: papeles
-        turkish: kâğıt
+        inglez: papers
+        fransez: ''
+        portugez: ''
+        kasteyano: papeles
+        turko: kâğıt
 
 
 

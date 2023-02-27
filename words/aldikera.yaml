@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: pocket
-        french: ''
-        portuguese: ''
-        spanish: bolsillo
-        turkish: cep
+        inglez: pocket
+        fransez: ''
+        portugez: ''
+        kasteyano: bolsillo
+        turko: cep
 
   - ladino: aldikeras
     accented: aldikéras
@@ -30,11 +30,11 @@ versions:
     number: plural
 
     translations:
-        english: pockets
-        french: ''
-        portuguese: ''
-        spanish: bolsillos
-        turkish: cep
+        inglez: pockets
+        fransez: ''
+        portugez: ''
+        kasteyano: bolsillos
+        turko: cep
 
 
 

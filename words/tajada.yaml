@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - big slice
           - slice
-        french: ''
-        portuguese: ''
-        spanish: tajada
-        turkish: büyük dilim
+        fransez: ''
+        portugez: ''
+        kasteyano: tajada
+        turko: büyük dilim
 
   - ladino: tajadas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: big slices
-        french: ''
-        portuguese: ''
-        spanish: tajadas
-        turkish: büyük dilim
+        inglez: big slices
+        fransez: ''
+        portugez: ''
+        kasteyano: tajadas
+        turko: büyük dilim
 
 
 

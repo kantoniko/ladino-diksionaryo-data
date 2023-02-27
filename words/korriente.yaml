@@ -5,11 +5,11 @@ versions:
   - ladino: korriente
 
     translations:
-        english: current
-        french: ''
-        portuguese: ''
-        spanish: corriente
-        turkish:
+        inglez: current
+        fransez: ''
+        portugez: ''
+        kasteyano: corriente
+        turko:
         - cereyan
         - olağan
 

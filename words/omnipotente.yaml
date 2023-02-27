@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: omnipotent
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: omnipotente
-      turkish:
+      inglez: omnipotent
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: omnipotente
+      turko:
         - ulu
         - yüce
 

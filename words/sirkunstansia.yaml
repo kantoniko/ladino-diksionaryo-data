@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: circumstance
-        french: ''
-        portuguese: ''
-        spanish: circunstancia
-        turkish: durum
+        inglez: circumstance
+        fransez: ''
+        portugez: ''
+        kasteyano: circunstancia
+        turko: durum
 
   - ladino: sirkunstansias
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: circumstances
-        french: ''
-        portuguese: ''
-        spanish: circunstancias
-        turkish: durum
+        inglez: circumstances
+        fransez: ''
+        portugez: ''
+        kasteyano: circunstancias
+        turko: durum
 
 
 

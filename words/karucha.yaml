@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: wheel
-        french: ''
-        portuguese: ''
-        spanish: rueda
-        turkish: tekerlek
+        inglez: wheel
+        fransez: ''
+        portugez: ''
+        kasteyano: rueda
+        turko: tekerlek
 
   - ladino: karuchas
     accented: karúchas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: wheels
-        french: ''
-        portuguese: ''
-        spanish: ruedas
-        turkish: tekerlek
+        inglez: wheels
+        fransez: ''
+        portugez: ''
+        kasteyano: ruedas
+        turko: tekerlek
 
 

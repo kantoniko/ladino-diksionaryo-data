@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: practical
-        french: ''
-        portuguese: ''
-        spanish: práctico
-        turkish: pratik
+        inglez: practical
+        fransez: ''
+        portugez: ''
+        kasteyano: práctico
+        turko: pratik
 
   - ladino: pratika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: practical
-        french: ''
-        portuguese: ''
-        spanish: práctica
-        turkish: pratik
+        inglez: practical
+        fransez: ''
+        portugez: ''
+        kasteyano: práctica
+        turko: pratik
 
   - ladino: pratikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: practical
-        french: ''
-        portuguese: ''
-        spanish: prácticos
-        turkish: pratik
+        inglez: practical
+        fransez: ''
+        portugez: ''
+        kasteyano: prácticos
+        turko: pratik
 
   - ladino: pratikas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: practical
-        french: ''
-        portuguese: ''
-        spanish: prácticas
-        turkish: pratik
+        inglez: practical
+        fransez: ''
+        portugez: ''
+        kasteyano: prácticas
+        turko: pratik
 
 

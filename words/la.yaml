@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - the
         - she
         - her
-        french: ''
-        portuguese: ''
-        spanish: la
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: la
+        turko:
         - belirten (the)
         - o (dişi)
 
@@ -25,13 +25,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - the
         - hers
-        french: ''
-        portuguese: ''
-        spanish: las
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: las
+        turko:
           - bu
           - bunlar
 

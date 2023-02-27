@@ -6,15 +6,15 @@ versions:
     accented: avertír
 
     translations:
-        english:
+        inglez:
         - advise
         - warn
-        french:
+        fransez:
           - avertir
           - prevenir
-        portuguese: ''
-        spanish: advertir
-        turkish: ikaz etmek
+        portugez: ''
+        kasteyano: advertir
+        turko: ikaz etmek
 
 conjugations: {}
 

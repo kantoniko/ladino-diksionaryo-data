@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: liver
-        french: ''
-        portuguese: ''
-        spanish: hígado
-        turkish:
+        inglez: liver
+        fransez: ''
+        portugez: ''
+        kasteyano: hígado
+        turko:
         - ciğer
         - karaciğer
 
@@ -34,11 +34,11 @@ versions:
     number: plural
 
     translations:
-        english: livers
-        french: ''
-        portuguese: ''
-        spanish: hígados
-        turkish:
+        inglez: livers
+        fransez: ''
+        portugez: ''
+        kasteyano: hígados
+        turko:
         - ciğer
         - karaciğer
 

@@ -8,10 +8,10 @@ versions:
     number: singular
 
     translations:
-        english: scribe
-        french: scribe
-        portuguese: ''
-        spanish: escriba
-        turkish: yazıcı
+        inglez: scribe
+        fransez: scribe
+        portugez: ''
+        kasteyano: escriba
+        turko: yazıcı
 
 

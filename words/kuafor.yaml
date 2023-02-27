@@ -11,13 +11,13 @@ versions:
       - ladino: berber
 
     translations:
-        english:
+        inglez:
         - hairdresser
         - barber
-        french: ''
-        portuguese: ''
-        spanish: peluquería
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: peluquería
+        turko:
         - kuaför
         - berber
 

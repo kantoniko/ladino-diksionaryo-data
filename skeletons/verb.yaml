@@ -6,49 +6,49 @@ versions:
     accented: ''
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations:
   prezente:
     yo:
       ladino:
       translations:
-        english:
-        spanish:
+        inglez:
+        kasteyano:
 
     tu:
       ladino:
       translations:
-        english:
-        spanish:
+        inglez:
+        kasteyano:
 
     el:
       ladino:
       translations:
-        english:
-        spanish:
+        inglez:
+        kasteyano:
 
     mozotros:
       ladino:
       translations:
-        english:
-        spanish:
+        inglez:
+        kasteyano:
 
     vozotros:
       ladino:
       translations:
-        english:
-        spanish:
+        inglez:
+        kasteyano:
 
     eyos:
       ladino:
       translations:
-        english:
-        spanish:
+        inglez:
+        kasteyano:
 
 

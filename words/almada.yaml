@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: pillow
-        french: oreiller
-        portuguese: almoada
-        spanish: almohada
-        turkish: yastık
+        inglez: pillow
+        fransez: oreiller
+        portugez: almoada
+        kasteyano: almohada
+        turko: yastık
 
   - ladino: almadas
     accented: almádas
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: pillow
-        french: oreiller
-        portuguese: almoadas
-        spanish: almohadas
-        turkish: yastık
+        inglez: pillow
+        fransez: oreiller
+        portugez: almoadas
+        kasteyano: almohadas
+        turko: yastık
 
 
 

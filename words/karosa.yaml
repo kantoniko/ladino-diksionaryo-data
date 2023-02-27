@@ -10,13 +10,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - coach
         - carriage
-        french: ''
-        portuguese: ''
-        spanish: carroza
-        turkish: atlı araba
+        fransez: ''
+        portugez: ''
+        kasteyano: carroza
+        turko: atlı araba
 
   - ladino: karosas
 
@@ -24,13 +24,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - coaches
         - carriages
-        french: ''
-        portuguese: ''
-        spanish: carrozas
-        turkish: atlı araba
+        fransez: ''
+        portugez: ''
+        kasteyano: carrozas
+        turko: atlı araba
 
 
 

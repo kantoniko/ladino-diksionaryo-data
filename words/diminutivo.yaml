@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: dimunitive
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: dimunitivo
-      turkish: ''
+      inglez: dimunitive
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: dimunitivo
+      turko: ''
 
   - ladino: diminutivos
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: dimunitives
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: dimunitivos
-      turkish: ''
+      inglez: dimunitives
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: dimunitivos
+      turko: ''
 
 
 

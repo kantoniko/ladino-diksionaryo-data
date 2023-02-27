@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: friendship
-        french: amitié
-        portuguese: amizade
-        spanish: amistad
-        turkish: dostluk
+        inglez: friendship
+        fransez: amitié
+        portugez: amizade
+        kasteyano: amistad
+        turko: dostluk
 

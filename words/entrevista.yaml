@@ -8,24 +8,24 @@ versions:
     number: singular
 
     translations:
-      english: interview
-      french: ''
-      hebrew: ראיון
-      portuguese: ''
-      spanish: entrevista
-      turkish: görüşme
+      inglez: interview
+      fransez: ''
+      ebreo: ראיון
+      portugez: ''
+      kasteyano: entrevista
+      turko: görüşme
 
   - ladino: entrevistas
     gender: feminine
     number: plural
 
     translations:
-      english: interviewes
-      french: ''
-      hebrew: ראיונית
-      portuguese: ''
-      spanish: entrevistas
-      turkish: görüşmeler
+      inglez: interviewes
+      fransez: ''
+      ebreo: ראיונית
+      portugez: ''
+      kasteyano: entrevistas
+      turko: görüşmeler
 
 
 

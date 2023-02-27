@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: necessity
-        french: ''
-        portuguese: ''
-        spanish: necesidad
-        turkish: ihtiyaç
+        inglez: necessity
+        fransez: ''
+        portugez: ''
+        kasteyano: necesidad
+        turko: ihtiyaç
 
   - ladino: nesesidades
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: necessities
-        french: ''
-        portuguese: ''
-        spanish: necesidades
-        turkish: ihtiyaç
+        inglez: necessities
+        fransez: ''
+        portugez: ''
+        kasteyano: necesidades
+        turko: ihtiyaç
 
 
 

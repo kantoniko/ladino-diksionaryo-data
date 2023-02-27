@@ -5,13 +5,13 @@ versions:
   - ladino: dezeo
 
     translations:
-        english:
+        inglez:
         - wish
         - desire
-        french: ''
-        portuguese: ''
-        spanish: deseo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: deseo
+        turko:
         - arzu
         - heves
 

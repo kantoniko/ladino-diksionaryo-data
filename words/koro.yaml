@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: choir
-        french: ''
-        portuguese: ''
-        spanish: coro
-        turkish: koro
+        inglez: choir
+        fransez: ''
+        portugez: ''
+        kasteyano: coro
+        turko: koro
 
   - ladino: koros
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: choirs
-        french: ''
-        portuguese: ''
-        spanish: coros
-        turkish: koro
+        inglez: choirs
+        fransez: ''
+        portugez: ''
+        kasteyano: coros
+        turko: koro
 
 
 

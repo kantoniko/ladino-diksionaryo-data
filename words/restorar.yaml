@@ -5,11 +5,11 @@ versions:
   - ladino: restorar
 
     translations:
-        english: restore
-        french: ''
-        portuguese: ''
-        spanish: restaurar
-        turkish: onarmak
+        inglez: restore
+        fransez: ''
+        portugez: ''
+        kasteyano: restaurar
+        turko: onarmak
 
 conjugations: {}
 

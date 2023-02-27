@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: appropriate
-        french: ''
-        portuguese: ''
-        spanish: propio
-        turkish: uygun
+        inglez: appropriate
+        fransez: ''
+        portugez: ''
+        kasteyano: propio
+        turko: uygun
 
   - ladino: apropiada
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: appropriate
-        french: ''
-        portuguese: ''
-        spanish: propia
-        turkish: uygun
+        inglez: appropriate
+        fransez: ''
+        portugez: ''
+        kasteyano: propia
+        turko: uygun
 
   - ladino: apropiados
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: appropriate
-        french: ''
-        portuguese: ''
-        spanish: propios
-        turkish: uygun
+        inglez: appropriate
+        fransez: ''
+        portugez: ''
+        kasteyano: propios
+        turko: uygun
 
   - ladino: apropiadas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: appropriate
-        french: ''
-        portuguese: ''
-        spanish: propias
-        turkish: uygun
+        inglez: appropriate
+        fransez: ''
+        portugez: ''
+        kasteyano: propias
+        turko: uygun
 
 

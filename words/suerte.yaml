@@ -5,13 +5,13 @@ versions:
   - ladino: suerte
 
     translations:
-        english:
+        inglez:
         - luck
         - fortune
-        french: ''
-        portuguese: ''
-        spanish: suerte
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: suerte
+        turko:
         - şans
         - kader
 

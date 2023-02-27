@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: creature
-        french: ''
-        portuguese: ''
-        spanish: criatura
-        turkish: yaratık
+        inglez: creature
+        fransez: ''
+        portugez: ''
+        kasteyano: criatura
+        turko: yaratık
 
   - ladino: kriansas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: creatures
-        french: ''
-        portuguese: ''
-        spanish: criaturas
-        turkish: yaratık
+        inglez: creatures
+        fransez: ''
+        portugez: ''
+        kasteyano: criaturas
+        turko: yaratık
 
 
 

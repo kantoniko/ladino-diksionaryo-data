@@ -5,13 +5,13 @@ versions:
   - ladino: profesar
 
     translations:
-        english:
+        inglez:
         - profess
         - practice
-        french: ''
-        portuguese: ''
-        spanish: profesar
-        turkish: mesleğini icra etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: profesar
+        turko: mesleğini icra etmek
 
 conjugations: {}
 

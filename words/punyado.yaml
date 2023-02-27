@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: avuç
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: avuç
 
   - ladino: punyados
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: ''
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: avuçlar
+      inglez: ''
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: avuçlar
 
 

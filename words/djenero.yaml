@@ -5,11 +5,11 @@ versions:
   - ladino: djenero
 
     translations:
-        english: gender
-        french: ''
-        portuguese: ''
-        spanish: género
-        turkish:
+        inglez: gender
+        fransez: ''
+        portugez: ''
+        kasteyano: género
+        turko:
         - cins
         - tür
 

@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - use
         - usage
         - custom
-        french: usage
-        portuguese: ''
-        spanish: uso
-        turkish:
+        fransez: usage
+        portugez: ''
+        kasteyano: uso
+        turko:
         - âdet
         - alışkanlık
         - örf

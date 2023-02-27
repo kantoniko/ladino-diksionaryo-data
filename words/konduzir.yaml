@@ -7,11 +7,11 @@ versions:
       - ladino: konduzar
 
     translations:
-        english: drive
-        french: ''
-        portuguese: ''
-        spanish: conducir
-        turkish: sürmek
+        inglez: drive
+        fransez: ''
+        portugez: ''
+        kasteyano: conducir
+        turko: sürmek
 
 conjugations: {}
 

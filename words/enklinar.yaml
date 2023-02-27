@@ -5,11 +5,11 @@ versions:
   - ladino: enklinar
 
     translations:
-        english: incline
-        french: ''
-        portuguese: ''
-        spanish: inclinar
-        turkish: meyletmek
+        inglez: incline
+        fransez: ''
+        portugez: ''
+        kasteyano: inclinar
+        turko: meyletmek
 
 conjugations: {}
 

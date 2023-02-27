@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: curious
-        french: ''
-        portuguese: ''
-        spanish: curioso
-        turkish: meraklı
+        inglez: curious
+        fransez: ''
+        portugez: ''
+        kasteyano: curioso
+        turko: meraklı
 
   - ladino: kurioza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: curious
-        french: ''
-        portuguese: ''
-        spanish: curiosa
-        turkish: meraklı
+        inglez: curious
+        fransez: ''
+        portugez: ''
+        kasteyano: curiosa
+        turko: meraklı
 
   - ladino: kuriozos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: curiouses
-        french: ''
-        portuguese: ''
-        spanish: curiosos
-        turkish: meraklı
+        inglez: curiouses
+        fransez: ''
+        portugez: ''
+        kasteyano: curiosos
+        turko: meraklı
 
   - ladino: kuriozas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: curiouses
-        french: ''
-        portuguese: ''
-        spanish: curiosas
-        turkish: meraklı
+        inglez: curiouses
+        fransez: ''
+        portugez: ''
+        kasteyano: curiosas
+        turko: meraklı
 
 
 

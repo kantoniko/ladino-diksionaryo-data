@@ -5,11 +5,11 @@ versions:
   - ladino: bezar
 
     translations:
-        english: kiss
-        french: ''
-        portuguese: ''
-        spanish: besar
-        turkish: öpmek
+        inglez: kiss
+        fransez: ''
+        portugez: ''
+        kasteyano: besar
+        turko: öpmek
 
 conjugations: {}
 

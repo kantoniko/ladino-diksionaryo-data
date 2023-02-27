@@ -5,11 +5,11 @@ versions:
   - ladino: estampar
 
     translations:
-        english: stamp
-        french: ''
-        portuguese: ''
-        spanish: estampar
-        turkish: mühürlemek
+        inglez: stamp
+        fransez: ''
+        portugez: ''
+        kasteyano: estampar
+        turko: mühürlemek
 
 conjugations: {}
 

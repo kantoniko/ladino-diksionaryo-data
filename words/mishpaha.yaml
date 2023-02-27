@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - clan
         - family
-        french:
+        fransez:
         - clan
         - famille
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - clan
         - familia
-        turkish: sülale
+        turko: sülale
 

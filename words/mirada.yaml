@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - look
         - glance
-        french: ''
-        portuguese: ''
-        spanish: mirada
-        turkish: bakış
+        fransez: ''
+        portugez: ''
+        kasteyano: mirada
+        turko: bakış
 
   - ladino: miradas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - looks
         - glances
-        french: ''
-        portuguese: ''
-        spanish: miradas
-        turkish: bakış
+        fransez: ''
+        portugez: ''
+        kasteyano: miradas
+        turko: bakış
 
 
 

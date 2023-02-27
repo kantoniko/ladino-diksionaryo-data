@@ -5,11 +5,11 @@ versions:
   - ladino: aunar
 
     translations:
-        english: unite
-        french: unir
-        portuguese: ''
-        spanish: unir
-        turkish: birleştirmek
+        inglez: unite
+        fransez: unir
+        portugez: ''
+        kasteyano: unir
+        turko: birleştirmek
 
 conjugations: {}
 

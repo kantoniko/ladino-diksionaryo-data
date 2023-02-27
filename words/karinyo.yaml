@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: affection
-        french: ''
-        portuguese: ''
-        spanish: cariño
-        turkish: şefkat
+        inglez: affection
+        fransez: ''
+        portugez: ''
+        kasteyano: cariño
+        turko: şefkat
 
   - ladino: karinyos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: affections
-        french: ''
-        portuguese: ''
-        spanish: cariños
-        turkish: şefkat
+        inglez: affections
+        fransez: ''
+        portugez: ''
+        kasteyano: cariños
+        turko: şefkat
 
 
 

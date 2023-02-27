@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: poem
-        french: ''
-        portuguese: ''
-        spanish: poema
-        turkish: şiir
+        inglez: poem
+        fransez: ''
+        portugez: ''
+        kasteyano: poema
+        turko: şiir
 
   - ladino: poemas
     accented: poémas
@@ -22,9 +22,9 @@ versions:
     number: plural
 
     translations:
-        english: poems
-        french: ''
-        portuguese: ''
-        spanish: poemas
-        turkish: şiir
+        inglez: poems
+        fransez: ''
+        portugez: ''
+        kasteyano: poemas
+        turko: şiir
 

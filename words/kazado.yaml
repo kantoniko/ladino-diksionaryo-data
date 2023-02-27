@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: married
-      french: ''
-      hebrew: נשוי
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: married
+      fransez: ''
+      ebreo: נשוי
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: kazada
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: married
-      french: ''
-      hebrew: נשואה
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: married
+      fransez: ''
+      ebreo: נשואה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: kazados
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: married
-      french: ''
-      hebrew: נשוים
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: married
+      fransez: ''
+      ebreo: נשוים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: kazadas
 
@@ -47,10 +47,10 @@ versions:
     number: singular
 
     translations:
-      english: married
-      french: ''
-      hebrew: נשואות
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: married
+      fransez: ''
+      ebreo: נשואות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

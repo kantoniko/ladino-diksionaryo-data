@@ -5,13 +5,13 @@ versions:
   - ladino: molestar
 
     translations:
-        english:
+        inglez:
         - annoy
         - bother
-        french: ''
-        portuguese: ''
-        spanish: molestar
-        turkish: rahatsız etmek
+        fransez: ''
+        portugez: ''
+        kasteyano: molestar
+        turko: rahatsız etmek
 
 conjugations: {}
 

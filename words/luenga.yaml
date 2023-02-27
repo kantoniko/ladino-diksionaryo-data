@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: tongue
-        french: ''
-        portuguese: ''
-        spanish: luenga
-        turkish: dil
+        inglez: tongue
+        fransez: ''
+        portugez: ''
+        kasteyano: luenga
+        turko: dil
 
   - ladino: luengas
     accented: luéngas
@@ -32,10 +32,10 @@ versions:
     number: plural
 
     translations:
-        english: tongues
-        french: ''
-        portuguese: ''
-        spanish: luengas
-        turkish: dil
+        inglez: tongues
+        fransez: ''
+        portugez: ''
+        kasteyano: luengas
+        turko: dil
 
 

@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: judaism
-        french: ''
-        portuguese: ''
-        spanish: judaísmo
-        turkish:
+        inglez: judaism
+        fransez: ''
+        portugez: ''
+        kasteyano: judaísmo
+        turko:
         - yahudilik
         - Musevilik
 

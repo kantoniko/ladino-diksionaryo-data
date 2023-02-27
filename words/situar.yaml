@@ -5,11 +5,11 @@ versions:
   - ladino: situar
 
     translations:
-        english: situate
-        french: ''
-        portuguese: ''
-        spanish: situar
-        turkish: yerleştirmek
+        inglez: situate
+        fransez: ''
+        portugez: ''
+        kasteyano: situar
+        turko: yerleştirmek
 
 conjugations: {}
 

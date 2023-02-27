@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - singing
         - popular song
-        french: ''
-        portuguese: ''
-        spanish: cante
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cante
+        turko:
         - şarkı
         - türkü
 
@@ -26,13 +26,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - singing
         - popular song
-        french: ''
-        portuguese: ''
-        spanish: cantes
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: cantes
+        turko:
         - şarkı
         - türkü
 

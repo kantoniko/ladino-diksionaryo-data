@@ -5,13 +5,13 @@ versions:
   - ladino: o
 
     translations:
-        english:
+        inglez:
         - or
         - either... or
-        french: ''
-        portuguese: ''
-        spanish: o
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: o
+        turko:
         - veya
         - yahut
 

@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - epoch
         - period
         - time
-        french: ''
-        portuguese: ''
-        spanish: época
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: época
+        turko:
         - devir
         - zaman
 
@@ -27,14 +27,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - epochs
         - periods
         - times
-        french: ''
-        portuguese: ''
-        spanish: épocas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: épocas
+        turko:
         - devir
         - zaman
 

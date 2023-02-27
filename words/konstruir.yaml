@@ -5,11 +5,11 @@ versions:
   - ladino: konstruir
 
     translations:
-        english: build
-        french: ''
-        portuguese: ''
-        spanish: construir
-        turkish: inşa etmek
+        inglez: build
+        fransez: ''
+        portugez: ''
+        kasteyano: construir
+        turko: inşa etmek
 
 conjugations: {}
 

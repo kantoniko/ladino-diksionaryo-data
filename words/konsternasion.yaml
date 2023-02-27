@@ -5,11 +5,11 @@ versions:
   - ladino: konsternasion
 
     translations:
-        english: consternation
-        french: ''
-        portuguese: ''
-        spanish: consternación
-        turkish:
+        inglez: consternation
+        fransez: ''
+        portugez: ''
+        kasteyano: consternación
+        turko:
         - hayret
         - dehşet
 

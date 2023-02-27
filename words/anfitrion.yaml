@@ -11,16 +11,16 @@ versions:
     -   accented: anfitrióna
         ladino: anfitriona
     translations:
-        english:
+        inglez:
         - amphitryon
         - host
-        french:
+        fransez:
         - amphitryon
         - hôte
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - anfitrión
-        turkish: misafirperver ev sahibi
+        turko: misafirperver ev sahibi
 
   - ladino: anfitriona
     accented: anfitrióna
@@ -28,15 +28,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - amphitryon
         - host
-        french:
+        fransez:
         - amphitryon
         - hôte
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - anfitrióna
-        turkish: misafirperver ev sahibi
+        turko: misafirperver ev sahibi
 
 

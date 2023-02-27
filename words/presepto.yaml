@@ -5,13 +5,13 @@ versions:
   - ladino: presepto
 
     translations:
-        english:
+        inglez:
         - precept
         - order
-        french: ''
-        portuguese: ''
-        spanish: precepto
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: precepto
+        turko:
         - kural
         - kaide
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: opinion
-        french: ''
-        portuguese: ''
-        spanish: opinión
-        turkish: kanaat
+        inglez: opinion
+        fransez: ''
+        portugez: ''
+        kasteyano: opinión
+        turko: kanaat
 
   - ladino: opiniones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: opinions
-        french: ''
-        portuguese: ''
-        spanish: opiniónes
-        turkish: kanaat
+        inglez: opinions
+        fransez: ''
+        portugez: ''
+        kasteyano: opiniónes
+        turko: kanaat
 
 
 

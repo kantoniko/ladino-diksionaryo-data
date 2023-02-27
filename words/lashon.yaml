@@ -6,15 +6,15 @@ versions:
     accented: lashón
 
     translations:
-        english:
+        inglez:
         - language
         - tongue
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - lenguaje
         - lengua
-        turkish:
+        turko:
         - lisan
         - dil
 

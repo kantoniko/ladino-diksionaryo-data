@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: cupboard
-        french: ''
-        portuguese: ''
-        spanish: armario
-        turkish: dolap
+        inglez: cupboard
+        fransez: ''
+        portugez: ''
+        kasteyano: armario
+        turko: dolap
 
   - ladino: almarios
     accented: almários
@@ -32,10 +32,10 @@ versions:
     number: plural
 
     translations:
-        english: cupboards
-        french: ''
-        portuguese: ''
-        spanish: armarios
-        turkish: dolaplar
+        inglez: cupboards
+        fransez: ''
+        portugez: ''
+        kasteyano: armarios
+        turko: dolaplar
 
 

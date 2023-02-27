@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: borrowed
-        french:
+        inglez: borrowed
+        fransez:
         - emprunté
         - prêté
-        portuguese: emprestado
-        spanish: prestado
-        turkish: ödünç
+        portugez: emprestado
+        kasteyano: prestado
+        turko: ödünç
 
   - ladino: emprestada
     accented: emprestáda
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: borrowed
-        french:
+        inglez: borrowed
+        fransez:
         - empruntée
         - prêtée
-        portuguese: emprestada
-        spanish: prestada
-        turkish: ödünç
+        portugez: emprestada
+        kasteyano: prestada
+        turko: ödünç
 
   - ladino: emprestados
     accented: emprestádos
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: borrowed
-        french:
+        inglez: borrowed
+        fransez:
         - emprunté
         - prêté
-        portuguese: emprestados
-        spanish: prestados
-        turkish: ödünç
+        portugez: emprestados
+        kasteyano: prestados
+        turko: ödünç
 
   - ladino: emprestadas
     accented: emprestádas
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: borrowed
-        french:
+        inglez: borrowed
+        fransez:
         - empruntée
         - prêtée
-        portuguese: emprestadas
-        spanish: prestadas
-        turkish: ödünç
+        portugez: emprestadas
+        kasteyano: prestadas
+        turko: ödünç
 

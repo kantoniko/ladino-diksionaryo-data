@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: screen
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pantalla
-      turkish: ekran
+      inglez: screen
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pantalla
+      turko: ekran
 
   - ladino: ekranes
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: screens
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: pantallas
-      turkish: ekranlar
+      inglez: screens
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: pantallas
+      turko: ekranlar
 
 
 

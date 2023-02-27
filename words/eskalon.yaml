@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - step
         - grade
-        french: ''
-        portuguese: ''
-        spanish: escalón
-        turkish: basamak
+        fransez: ''
+        portugez: ''
+        kasteyano: escalón
+        turko: basamak
 
   - ladino: eskalone
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - steps
         - grades
-        french: ''
-        portuguese: ''
-        spanish: escalónes
-        turkish: basamak
+        fransez: ''
+        portugez: ''
+        kasteyano: escalónes
+        turko: basamak
 
 
 

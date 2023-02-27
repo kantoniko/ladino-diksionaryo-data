@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: furniture
-        french: ''
-        portuguese: ''
-        spanish: mueble
-        turkish: mobilya
+        inglez: furniture
+        fransez: ''
+        portugez: ''
+        kasteyano: mueble
+        turko: mobilya
 
   - ladino: mobles
 
@@ -20,9 +20,9 @@ versions:
     number: plural
 
     translations:
-        english: furniture
-        french: ''
-        portuguese: ''
-        spanish: muebles
-        turkish: mobilya
+        inglez: furniture
+        fransez: ''
+        portugez: ''
+        kasteyano: muebles
+        turko: mobilya
 

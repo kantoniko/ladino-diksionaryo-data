@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: filling
-        french: ''
-        portuguese: ''
-        spanish: relleno
-        turkish:
+        inglez: filling
+        fransez: ''
+        portugez: ''
+        kasteyano: relleno
+        turko:
         - dolgu
         - harç
         - malzeme

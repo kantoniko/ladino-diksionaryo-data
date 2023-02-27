@@ -12,11 +12,11 @@ versions:
         accented: estóryas
 
     translations:
-        english: gossip
-        french: ''
-        portuguese: ''
-        spanish: historias
-        turkish:
+        inglez: gossip
+        fransez: ''
+        portugez: ''
+        kasteyano: historias
+        turko:
         - masal
         - martaval
 

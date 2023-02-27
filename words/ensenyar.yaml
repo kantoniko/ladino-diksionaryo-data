@@ -5,11 +5,11 @@ versions:
   - ladino: ensenyar
 
     translations:
-        english: teach
-        french: ''
-        portuguese: ''
-        spanish: enseñar
-        turkish: öğretmek
+        inglez: teach
+        fransez: ''
+        portugez: ''
+        kasteyano: enseñar
+        turko: öğretmek
 
 conjugations: {}
 

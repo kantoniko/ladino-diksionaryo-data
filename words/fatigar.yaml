@@ -5,11 +5,11 @@ versions:
   - ladino: fatigar
 
     translations:
-        english: tire
-        french: ''
-        portuguese: ''
-        spanish: fatigar
-        turkish: yorulmak
+        inglez: tire
+        fransez: ''
+        portugez: ''
+        kasteyano: fatigar
+        turko: yorulmak
 
 conjugations: {}
 

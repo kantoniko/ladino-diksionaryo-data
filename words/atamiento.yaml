@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: attachment
-        french: attachement
-        portuguese: ''
-        spanish: apego
-        turkish: bağlılık
+        inglez: attachment
+        fransez: attachement
+        portugez: ''
+        kasteyano: apego
+        turko: bağlılık
 
   - ladino: atamientos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: attachments
-        french: attachements
-        portuguese: ''
-        spanish: apegos
-        turkish: bağlılık
+        inglez: attachments
+        fransez: attachements
+        portugez: ''
+        kasteyano: apegos
+        turko: bağlılık
 
 
 

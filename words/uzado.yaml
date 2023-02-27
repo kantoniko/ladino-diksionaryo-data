@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - used
           - worn
-        french: usé
-        portuguese: ''
-        spanish: usado
-        turkish:
+        fransez: usé
+        portugez: ''
+        kasteyano: usado
+        turko:
           - alışık
           - kullanılmış
 
@@ -24,13 +24,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - used
           - worn
-        french: usée
-        portuguese: ''
-        spanish: usada
-        turkish:
+        fransez: usée
+        portugez: ''
+        kasteyano: usada
+        turko:
           - alışık
           - kullanılmış
 
@@ -40,13 +40,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - used
           - worn
-        french: usés
-        portuguese: ''
-        spanish: usados
-        turkish:
+        fransez: usés
+        portugez: ''
+        kasteyano: usados
+        turko:
           - alışık
           - kullanılmış
 
@@ -56,13 +56,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - used
           - worn
-        french: usées
-        portuguese: ''
-        spanish: usadas
-        turkish:
+        fransez: usées
+        portugez: ''
+        kasteyano: usadas
+        turko:
           - alışık
           - kullanılmış
 

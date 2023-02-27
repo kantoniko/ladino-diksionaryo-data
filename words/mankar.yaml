@@ -8,11 +8,11 @@ versions:
       - ladino: faltar
 
     translations:
-        english: lack
-        french: ''
-        portuguese: ''
-        spanish: faltar
-        turkish:
+        inglez: lack
+        fransez: ''
+        portugez: ''
+        kasteyano: faltar
+        turko:
         - eksik olmak
         - yanılmak
 

@@ -8,14 +8,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - near
         - next
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - próximo
-        turkish:
+        turko:
         - yakın
         - gelecek
 
@@ -25,14 +25,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - near
         - next
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - próxima
-        turkish:
+        turko:
         - yakın
         - gelecek
 
@@ -42,14 +42,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - near
         - next
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - próximos
-        turkish:
+        turko:
         - yakın
         - gelecek
 
@@ -59,14 +59,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - near
         - next
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - próximas
-        turkish:
+        turko:
         - yakın
         - gelecek
 

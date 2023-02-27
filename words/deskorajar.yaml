@@ -5,11 +5,11 @@ versions:
   - ladino: deskorajar
 
     translations:
-        english: discourage
-        french: ''
-        portuguese: ''
-        spanish: desanimar
-        turkish: cesareti kırılmak
+        inglez: discourage
+        fransez: ''
+        portugez: ''
+        kasteyano: desanimar
+        turko: cesareti kırılmak
 
 conjugations: {}
 

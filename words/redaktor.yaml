@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: editor
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: editor
-      turkish: ''
+      inglez: editor
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: editor
+      turko: ''
 
   - ladino: redaktora
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: editor
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: editora
-      turkish: ''
+      inglez: editor
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: editora
+      turko: ''
 
   - ladino: redaktores
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: editors
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: editores
-      turkish: ''
+      inglez: editors
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: editores
+      turko: ''
 
   - ladino: redaktoras
 
@@ -49,11 +49,11 @@ versions:
     number: plural
 
     translations:
-      english: editors
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: editoras
-      turkish: ''
+      inglez: editors
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: editoras
+      turko: ''
 
 

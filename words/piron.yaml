@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: fork
-        french: ''
-        portuguese: ''
-        spanish: tenedor
-        turkish: çatal
+        inglez: fork
+        fransez: ''
+        portugez: ''
+        kasteyano: tenedor
+        turko: çatal
 
   - ladino: pirones
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: forks
-        french: ''
-        portuguese: ''
-        spanish: tenedores
-        turkish: çatal
+        inglez: forks
+        fransez: ''
+        portugez: ''
+        kasteyano: tenedores
+        turko: çatal
 
 
 

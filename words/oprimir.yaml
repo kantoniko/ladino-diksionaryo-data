@@ -5,11 +5,11 @@ versions:
   - ladino: oprimir
 
     translations:
-        english: oppress
-        french: ''
-        portuguese: ''
-        spanish: agobiar
-        turkish:
+        inglez: oppress
+        fransez: ''
+        portugez: ''
+        kasteyano: agobiar
+        turko:
         - zulmetmek
         - ezmek
 

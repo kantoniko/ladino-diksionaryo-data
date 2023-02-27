@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - sorrow
         - trouble
-        french: ''
-        portuguese: ''
-        spanish: pena
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: pena
+        turko:
         - zahmet
         - üzüntü
 

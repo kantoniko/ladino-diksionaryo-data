@@ -5,11 +5,11 @@ versions:
   - ladino: refujiarse
 
     translations:
-        english: take refuge
-        french: ''
-        portuguese: ''
-        spanish: refugiarse
-        turkish:
+        inglez: take refuge
+        fransez: ''
+        portugez: ''
+        kasteyano: refugiarse
+        turko:
         - barınmak
         - sığınmak
 

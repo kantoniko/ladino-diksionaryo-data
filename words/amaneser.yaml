@@ -6,11 +6,11 @@ versions:
     accented: amanesér
 
     translations:
-        english: dawn
-        french: lever du soleil
-        portuguese: amanhecer
-        spanish: amanecer
-        turkish: gün doğmak
+        inglez: dawn
+        fransez: lever du soleil
+        portugez: amanhecer
+        kasteyano: amanecer
+        turko: gün doğmak
 
 conjugations: {}
 

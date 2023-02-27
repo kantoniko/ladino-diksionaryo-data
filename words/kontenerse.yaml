@@ -5,11 +5,11 @@ versions:
   - ladino: kontenerse
 
     translations:
-        english: hold o.s. in check
-        french: ''
-        portuguese: ''
-        spanish: contenerse
-        turkish: kendini tutmak
+        inglez: hold o.s. in check
+        fransez: ''
+        portugez: ''
+        kasteyano: contenerse
+        turko: kendini tutmak
 
 conjugations: {}
 

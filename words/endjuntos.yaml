@@ -5,15 +5,15 @@ versions:
   - ladino: endjuntos
 
     translations:
-        english:
+        inglez:
         - together
         - at the same time
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - junto
         - juntamente
-        turkish:
+        turko:
         - beraber
         - hep birlikte
 

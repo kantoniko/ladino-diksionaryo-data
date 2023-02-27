@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: of Turkish origin
-        french: ''
-        portuguese: ''
-        spanish: de Turquía
-        turkish: Türkiyeli
+        inglez: of Turkish origin
+        fransez: ''
+        portugez: ''
+        kasteyano: de Turquía
+        turko: Türkiyeli
 
   - ladino: turkana
     accented: turkána
@@ -24,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        english: of Turkish origin
-        french: ''
-        portuguese: ''
-        spanish: de Turquía
-        turkish: Türkiyeli
+        inglez: of Turkish origin
+        fransez: ''
+        portugez: ''
+        kasteyano: de Turquía
+        turko: Türkiyeli
 
   - ladino: turkanos
     accented: turkános
@@ -37,11 +37,11 @@ versions:
     number: plural
 
     translations:
-        english: of Turkish origin
-        french: ''
-        portuguese: ''
-        spanish: de Turquía
-        turkish: Türkiyeli
+        inglez: of Turkish origin
+        fransez: ''
+        portugez: ''
+        kasteyano: de Turquía
+        turko: Türkiyeli
 
   - ladino: turkanas
     accented: turkánas
@@ -50,9 +50,9 @@ versions:
     number: plural
 
     translations:
-        english: of Turkish origin
-        french: ''
-        portuguese: ''
-        spanish: de Turquía
-        turkish: Türkiyeli
+        inglez: of Turkish origin
+        fransez: ''
+        portugez: ''
+        kasteyano: de Turquía
+        turko: Türkiyeli
 

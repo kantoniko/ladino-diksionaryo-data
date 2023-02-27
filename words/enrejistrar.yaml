@@ -5,22 +5,22 @@ versions:
   - ladino: enrejistrar
 
     translations:
-      english: register
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: registrar
-      turkish: ''
+      inglez: register
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: registrar
+      turko: ''
 
   - ladino: enrejistraron
 
     translations:
-      english: registered
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: registraron
-      turkish: ''
+      inglez: registered
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: registraron
+      turko: ''
 
 conjugations: {}
 

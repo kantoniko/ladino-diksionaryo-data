@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: crime
-        french: ''
-        portuguese: ''
-        spanish: crimen
-        turkish:
+        inglez: crime
+        fransez: ''
+        portugez: ''
+        kasteyano: crimen
+        turko:
         - cinayet
         - cürüm
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: crimes
-        french: ''
-        portuguese: ''
-        spanish: crimenes
-        turkish:
+        inglez: crimes
+        fransez: ''
+        portugez: ''
+        kasteyano: crimenes
+        turko:
         - cinayet
         - cürüm
 

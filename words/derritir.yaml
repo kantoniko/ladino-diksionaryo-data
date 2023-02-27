@@ -5,10 +5,10 @@ versions:
   - ladino: derritir
     accented: derritír
     translations:
-        english: melt
-        french: ''
-        portuguese: ''
-        spanish: derretir
-        turkish: eritmek
+        inglez: melt
+        fransez: ''
+        portugez: ''
+        kasteyano: derretir
+        turko: eritmek
 
 conjugations: {}

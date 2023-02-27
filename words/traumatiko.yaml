@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: traumatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: traumático
-      turkish: ''
+      inglez: traumatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: traumático
+      turko: ''
 
   - ladino: traumatika
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: traumatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: traumática
-      turkish: ''
+      inglez: traumatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: traumática
+      turko: ''
 
   - ladino: traumatikos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: traumatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: traumáticos
-      turkish: ''
+      inglez: traumatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: traumáticos
+      turko: ''
 
   - ladino: traumatikas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: traumatic
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: traumáticas
-      turkish: ''
+      inglez: traumatic
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: traumáticas
+      turko: ''
 
 

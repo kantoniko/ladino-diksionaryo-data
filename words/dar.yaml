@@ -5,31 +5,31 @@ versions:
   - ladino: dar
 
     translations:
-        english: give
-        french: ''
-        portuguese: ''
-        spanish: dar
-        turkish: vermek
+        inglez: give
+        fransez: ''
+        portugez: ''
+        kasteyano: dar
+        turko: vermek
 
 conjugations:
   prezente:
     yo:
       ladino: do
       translations:
-        english: give
-        spanish: doy
+        inglez: give
+        kasteyano: doy
 
     tu:
       ladino: das
       translations:
-        english: give
-        spanish: das
+        inglez: give
+        kasteyano: das
 
     el:
       ladino: da
       translations:
-        english: gives
-        spanish: da
+        inglez: gives
+        kasteyano: da
 
 
 

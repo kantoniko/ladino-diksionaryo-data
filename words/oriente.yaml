@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - east
         - orient
-        french: ''
-        portuguese: ''
-        spanish: oriente
-        turkish: doğu
+        fransez: ''
+        portugez: ''
+        kasteyano: oriente
+        turko: doğu
 

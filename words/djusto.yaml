@@ -9,14 +9,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - just
         - right
         - fair
-        french: ''
-        portuguese: ''
-        spanish: justo
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: justo
+        turko:
         - tam
         - tamam
         - doğru
@@ -29,14 +29,14 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - just
         - right
         - fair
-        french: ''
-        portuguese: ''
-        spanish: justa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: justa
+        turko:
         - tam
         - tamam
         - doğru
@@ -49,14 +49,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - just
         - right
         - fair
-        french: ''
-        portuguese: ''
-        spanish: justos
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: justos
+        turko:
         - tam
         - tamam
         - doğru
@@ -69,14 +69,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - just
         - right
         - fair
-        french: ''
-        portuguese: ''
-        spanish: justa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: justa
+        turko:
         - tam
         - tamam
         - doğru

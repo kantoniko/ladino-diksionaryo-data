@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: bottle
-        french: bouteille
-        portuguese: ''
-        spanish: botella
-        turkish: şişe
+        inglez: bottle
+        fransez: bouteille
+        portugez: ''
+        kasteyano: botella
+        turko: şişe
 
   - ladino: bokales
     accented: bokáles
@@ -24,10 +24,10 @@ versions:
     number: plural
 
     translations:
-        english: bottles
-        french: ''
-        portuguese: ''
-        spanish: botellas
-        turkish: ''
+        inglez: bottles
+        fransez: ''
+        portugez: ''
+        kasteyano: botellas
+        turko: ''
 
 

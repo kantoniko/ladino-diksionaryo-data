@@ -5,15 +5,15 @@ versions:
   - ladino: indemas
 
     translations:
-        english:
+        inglez:
         - besides
         - moreover
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - además
         - por ende
-        turkish:
+        turko:
         - üstelik
         - hele
 

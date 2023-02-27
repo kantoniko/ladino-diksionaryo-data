@@ -5,18 +5,18 @@ versions:
   - ladino: apegar
 
     translations:
-      english:
+      inglez:
         - glue
         - stick
         - join together
         - infect
         - slap
-      french: ''
-      hebrew:
+      fransez: ''
+      ebreo:
         - להדביק
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}
 

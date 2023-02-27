@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: lake
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: lago
-      turkish: lagün
+      inglez: lake
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: lago
+      turko: lagün
 
   - ladino: lagos
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: lakes
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: lagos
-      turkish: lagünler
+      inglez: lakes
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: lagos
+      turko: lagünler
 
 
 

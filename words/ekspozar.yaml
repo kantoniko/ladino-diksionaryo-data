@@ -5,11 +5,11 @@ versions:
   - ladino: ekspozar
 
     translations:
-        english: expose
-        french: ''
-        portuguese: ''
-        spanish: exponer
-        turkish:
+        inglez: expose
+        fransez: ''
+        portugez: ''
+        kasteyano: exponer
+        turko:
         - teşhir etmek
         - maruz bırakmak
 

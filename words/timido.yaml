@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: timid
-        french: ''
-        portuguese: ''
-        spanish: tímido
-        turkish: çekingen
+        inglez: timid
+        fransez: ''
+        portugez: ''
+        kasteyano: tímido
+        turko: çekingen
 
   - ladino: timida
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: timid
-        french: ''
-        portuguese: ''
-        spanish: tímida
-        turkish: çekingen
+        inglez: timid
+        fransez: ''
+        portugez: ''
+        kasteyano: tímida
+        turko: çekingen
 
   - ladino: timidos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: timid
-        french: ''
-        portuguese: ''
-        spanish: tímidos
-        turkish: utangaçlar
+        inglez: timid
+        fransez: ''
+        portugez: ''
+        kasteyano: tímidos
+        turko: utangaçlar
 
   - ladino: timidas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: timid
-        french: ''
-        portuguese: ''
-        spanish: tímidas
-        turkish: utangaçlar
+        inglez: timid
+        fransez: ''
+        portugez: ''
+        kasteyano: tímidas
+        turko: utangaçlar
 
 
 

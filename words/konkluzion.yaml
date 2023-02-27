@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: conclusion
-        french: ''
-        portuguese: ''
-        spanish: conclusión
-        turkish: sonuç
+        inglez: conclusion
+        fransez: ''
+        portugez: ''
+        kasteyano: conclusión
+        turko: sonuç
 
   - ladino: konkluziones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: conclusions
-        french: ''
-        portuguese: ''
-        spanish: conclusiónes
-        turkish: sonuç
+        inglez: conclusions
+        fransez: ''
+        portugez: ''
+        kasteyano: conclusiónes
+        turko: sonuç
 
 
 

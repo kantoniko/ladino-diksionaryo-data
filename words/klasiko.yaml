@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: classic
-        french: ''
-        portuguese: ''
-        spanish: clásico
-        turkish: klasik
+        inglez: classic
+        fransez: ''
+        portugez: ''
+        kasteyano: clásico
+        turko: klasik
 
   - ladino: klasika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: classic
-        french: ''
-        portuguese: ''
-        spanish: clásica
-        turkish: klasik
+        inglez: classic
+        fransez: ''
+        portugez: ''
+        kasteyano: clásica
+        turko: klasik
 
   - ladino: klasikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: classics
-        french: ''
-        portuguese: ''
-        spanish: clásicos
-        turkish: klasik
+        inglez: classics
+        fransez: ''
+        portugez: ''
+        kasteyano: clásicos
+        turko: klasik
 
   - ladino: klasikas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: classics
-        french: ''
-        portuguese: ''
-        spanish: clásicas
-        turkish: klasik
+        inglez: classics
+        fransez: ''
+        portugez: ''
+        kasteyano: clásicas
+        turko: klasik
 
 
 

@@ -5,10 +5,10 @@ versions:
   - ladino: vakansas
 
     translations:
-        english: holiday
-        french: vacances
-        portuguese: ''
-        spanish: vacaciones
-        turkish: tatil
+        inglez: holiday
+        fransez: vacances
+        portugez: ''
+        kasteyano: vacaciones
+        turko: tatil
 
 

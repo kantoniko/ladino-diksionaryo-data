@@ -13,13 +13,13 @@ versions:
         accented: kumída
 
     translations:
-        english:
+        inglez:
           - food
           - meal
-        french: ''
-        portuguese: ''
-        spanish: comida
-        turkish: yemek
+        fransez: ''
+        portugez: ''
+        kasteyano: comida
+        turko: yemek
 
   - ladino: komidas
     accented: komídas
@@ -32,13 +32,13 @@ versions:
         accented: kumídas
 
     translations:
-        english:
+        inglez:
           - food
           - meals
-        french: ''
-        portuguese: ''
-        spanish: comidas
-        turkish: yemek
+        fransez: ''
+        portugez: ''
+        kasteyano: comidas
+        turko: yemek
 
 
 

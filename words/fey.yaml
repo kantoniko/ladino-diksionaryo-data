@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - faith
         - belief
-        french: ''
-        portuguese: ''
-        spanish: fe
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fe
+        turko:
         - inanç
         - iman
         - itikat

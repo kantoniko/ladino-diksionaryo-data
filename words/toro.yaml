@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: bull
-        french: ''
-        portuguese: ''
-        spanish: toro
-        turkish: boğa
+        inglez: bull
+        fransez: ''
+        portugez: ''
+        kasteyano: toro
+        turko: boğa
 
   - ladino: toros
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: bulls
-        french: ''
-        portuguese: ''
-        spanish: toros
-        turkish: boğa
+        inglez: bulls
+        fransez: ''
+        portugez: ''
+        kasteyano: toros
+        turko: boğa
 
 
 

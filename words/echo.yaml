@@ -5,10 +5,10 @@ versions:
   - ladino: echo
 
     translations:
-        english: work
-        french: ''
-        portuguese: ''
-        spanish: trabajo
-        turkish: iş
+        inglez: work
+        fransez: ''
+        portugez: ''
+        kasteyano: trabajo
+        turko: iş
 
 

@@ -5,11 +5,11 @@ versions:
   - ladino: meditar
 
     translations:
-        english: meditate
-        french: ''
-        portuguese: ''
-        spanish: meditar
-        turkish: tefekkür etmek
+        inglez: meditate
+        fransez: ''
+        portugez: ''
+        kasteyano: meditar
+        turko: tefekkür etmek
 
 conjugations: {}
 

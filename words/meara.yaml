@@ -11,15 +11,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - cave
         - cavern
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - cueva
         - caverna
-        turkish:
+        turko:
         - mağara
         - in
 

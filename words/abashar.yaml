@@ -7,22 +7,22 @@ versions:
     rashi: אבאשאר
 
     translations:
-        english:
+        inglez:
         - take down
         - get down
         - lower
         - to download
-        french:
+        fransez:
         - descendre
         - abaisser
-        portuguese:
+        portugez:
         - baixa
         - queda
         - download
-        spanish:
+        kasteyano:
         - bajar
         - descargar
-        turkish:
+        turko:
         - indirmek
         - inmek
 

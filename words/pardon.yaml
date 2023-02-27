@@ -5,14 +5,14 @@ versions:
   - ladino: pardon
 
     translations:
-        english:
+        inglez:
           - pardon
           - forgiveness
           - excuse me
-        french: ''
-        portuguese: ''
-        spanish: perdón
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: perdón
+        turko:
           - af
           - pardon
 

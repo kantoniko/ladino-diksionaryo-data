@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: telephone
-        french: téléphone
-        portuguese: ''
-        spanish: teléfono
-        turkish: telefon
+        inglez: telephone
+        fransez: téléphone
+        portugez: ''
+        kasteyano: teléfono
+        turko: telefon
 
   - ladino: telefones
 
@@ -23,9 +23,9 @@ versions:
     number: plural
 
     translations:
-        english: telephones
-        french: téléphones
-        portuguese: ''
-        spanish: teléfonos
-        turkish: telefon
+        inglez: telephones
+        fransez: téléphones
+        portugez: ''
+        kasteyano: teléfonos
+        turko: telefon
 

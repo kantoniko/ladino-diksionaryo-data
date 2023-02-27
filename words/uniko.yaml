@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: unique
-        french: unique
-        portuguese: ''
-        spanish: único
-        turkish: tek
+        inglez: unique
+        fransez: unique
+        portugez: ''
+        kasteyano: único
+        turko: tek
 
   - ladino: unika
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: unique
-        french: unique
-        portuguese: ''
-        spanish: única
-        turkish: tek
+        inglez: unique
+        fransez: unique
+        portugez: ''
+        kasteyano: única
+        turko: tek
 
   - ladino: unikos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: unique
-        french: uniques
-        portuguese: ''
-        spanish: únicos
-        turkish: tek
+        inglez: unique
+        fransez: uniques
+        portugez: ''
+        kasteyano: únicos
+        turko: tek
 
   - ladino: unikas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: unique
-        french: uniques
-        portuguese: ''
-        spanish: únicas
-        turkish: tek
+        inglez: unique
+        fransez: uniques
+        portugez: ''
+        kasteyano: únicas
+        turko: tek
 
 
 

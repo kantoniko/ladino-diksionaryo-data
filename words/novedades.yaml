@@ -8,10 +8,10 @@ versions:
       - ladino: avizos
 
     translations:
-        english: news
-        french: ''
-        portuguese: ''
-        spanish: informativo
-        turkish: haberler
+        inglez: news
+        fransez: ''
+        portugez: ''
+        kasteyano: informativo
+        turko: haberler
 
 

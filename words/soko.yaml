@@ -11,16 +11,16 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - market
         - souk
-        french:
+        fransez:
         - marché
         - souk
-        hebrew: שוק
-        portuguese: ''
-        spanish: mercado
-        turkish:
+        ebreo: שוק
+        portugez: ''
+        kasteyano: mercado
+        turko:
         - çarşı
         - pazar
 

@@ -15,11 +15,11 @@ versions:
     number: singular
 
     translations:
-        english: fish
-        french: poisson
-        portuguese: peixe
-        spanish: pescado
-        turkish: balık
+        inglez: fish
+        fransez: poisson
+        portugez: peixe
+        kasteyano: pescado
+        turko: balık
 
   - ladino: peshkados
     accented: peshkádos
@@ -32,10 +32,10 @@ versions:
     number: plural
 
     translations:
-        english: fish
-        french: poisson
-        portuguese: peixe
-        spanish: pescados
-        turkish: balık
+        inglez: fish
+        fransez: poisson
+        portugez: peixe
+        kasteyano: pescados
+        turko: balık
 
 

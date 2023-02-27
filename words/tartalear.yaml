@@ -5,11 +5,11 @@ versions:
   - ladino: tartalear
 
     translations:
-        english: stutter
-        french: bafouiller
-        portuguese: ''
-        spanish: balbucear
-        turkish: dili dolaşmak
+        inglez: stutter
+        fransez: bafouiller
+        portugez: ''
+        kasteyano: balbucear
+        turko: dili dolaşmak
 
 
 conjugations: {}

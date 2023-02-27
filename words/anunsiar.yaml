@@ -6,13 +6,13 @@ versions:
     accented: anunsiár
 
     translations:
-        english:
+        inglez:
           - announce
           - proclaim
-        french: annoncer
-        portuguese: ''
-        spanish: anunciar
-        turkish:
+        fransez: annoncer
+        portugez: ''
+        kasteyano: anunciar
+        turko:
           - duyurmak
           - ilân etmek
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: occasion
-        french: ''
-        portuguese: ''
-        spanish: ocasión
-        turkish: fırsat
+        inglez: occasion
+        fransez: ''
+        portugez: ''
+        kasteyano: ocasión
+        turko: fırsat
 
   - ladino: okaziones
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: occasions
-        french: ''
-        portuguese: ''
-        spanish: ocasiónes
-        turkish: fırsat
+        inglez: occasions
+        fransez: ''
+        portugez: ''
+        kasteyano: ocasiónes
+        turko: fırsat
 
 
 

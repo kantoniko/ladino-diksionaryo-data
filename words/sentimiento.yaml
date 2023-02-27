@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: feeling
-        french: ''
-        portuguese: ''
-        spanish: sentimiento
-        turkish: duygu
+        inglez: feeling
+        fransez: ''
+        portugez: ''
+        kasteyano: sentimiento
+        turko: duygu
 
   - ladino: sentimientos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: feelings
-        french: ''
-        portuguese: ''
-        spanish: sentimientos
-        turkish: duygu
+        inglez: feelings
+        fransez: ''
+        portugez: ''
+        kasteyano: sentimientos
+        turko: duygu
 
 
 

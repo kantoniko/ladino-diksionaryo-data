@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: obstacle
-        french: ''
-        portuguese: ''
-        spanish: obstáculo
-        turkish: engel
+        inglez: obstacle
+        fransez: ''
+        portugez: ''
+        kasteyano: obstáculo
+        turko: engel
 
   - ladino: obstakolos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: obstacles
-        french: ''
-        portuguese: ''
-        spanish: obstáculos
-        turkish: engel
+        inglez: obstacles
+        fransez: ''
+        portugez: ''
+        kasteyano: obstáculos
+        turko: engel
 
 
 

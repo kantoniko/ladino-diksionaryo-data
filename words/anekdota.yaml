@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - joke
         - anecdote
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - anécdota
         - chiste
-        turkish: fıkra
+        turko: fıkra
 
   - ladino: anekdotas
     accented: anekdótas
@@ -26,15 +26,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - jokes
         - anecdotes
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - anécdotas
         - chistes
-        turkish: fıkra
+        turko: fıkra
 
 
 

@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - fish
         - very small
-        french: poisson très petit
-        portuguese: ''
-        spanish: pescado muy pequeño
-        turkish:
+        fransez: poisson très petit
+        portugez: ''
+        kasteyano: pescado muy pequeño
+        turko:
         - kıraça
         - küçük balık
 

@@ -5,12 +5,12 @@ versions:
   - ladino: shaten
 
     translations:
-        english: chestnut-coloured
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: chestnut-coloured
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - castaño
           - castaña
-        turkish: kumral
+        turko: kumral
 
 

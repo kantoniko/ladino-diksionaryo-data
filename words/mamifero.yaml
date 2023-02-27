@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: mammal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: mamífero
-      turkish: ''
+      inglez: mammal
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: mamífero
+      turko: ''
 
   - ladino: mamiferos
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: mammals
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: mamíferos
-      turkish: ''
+      inglez: mammals
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: mamíferos
+      turko: ''
 
 

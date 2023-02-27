@@ -5,12 +5,12 @@ versions:
   - ladino: siguiente
 
     translations:
-        english:
+        inglez:
         - next
         - following
-        french: ''
-        portuguese: ''
-        spanish: siguiente
-        turkish: takip eden
+        fransez: ''
+        portugez: ''
+        kasteyano: siguiente
+        turko: takip eden
 
 

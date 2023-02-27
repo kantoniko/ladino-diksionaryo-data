@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: site
-        french: ''
-        portuguese: ''
-        spanish: sitio
-        turkish:
+        inglez: site
+        fransez: ''
+        portugez: ''
+        kasteyano: sitio
+        turko:
         - yer
         - mahal
         - site
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-        english: sites
-        french: ''
-        portuguese: ''
-        spanish: sitios
-        turkish:
+        inglez: sites
+        fransez: ''
+        portugez: ''
+        kasteyano: sitios
+        turko:
         - yer
         - mahal
         - site

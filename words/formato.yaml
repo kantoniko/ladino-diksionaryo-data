@@ -7,14 +7,14 @@ versions:
     number: singular
 
     translations:
-      english: format
-      turkish: biçim
+      inglez: format
+      turko: biçim
 
   - ladino: formatos
     gender: masculine
     number: plural
 
     translations:
-      english: formats
-      turkish: biçimler
+      inglez: formats
+      turko: biçimler
 

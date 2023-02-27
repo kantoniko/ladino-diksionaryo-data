@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: preposition
-        french: ''
-        portuguese: ''
-        spanish: preposición
-        turkish: edat
+        inglez: preposition
+        fransez: ''
+        portugez: ''
+        kasteyano: preposición
+        turko: edat
 
   - ladino: prepozisiones
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: prepositions
-        french: ''
-        portuguese: ''
-        spanish: preposiciónes
-        turkish: edat
+        inglez: prepositions
+        fransez: ''
+        portugez: ''
+        kasteyano: preposiciónes
+        turko: edat
 
 
 

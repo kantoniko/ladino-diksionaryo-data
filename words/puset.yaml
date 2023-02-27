@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: pram
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: cochecito
-      turkish: ''
+      inglez: pram
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: cochecito
+      turko: ''
 
   - ladino: pusetes
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: prams
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: cochecitos
-      turkish: ''
+      inglez: prams
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: cochecitos
+      turko: ''
 
 
 

@@ -8,13 +8,13 @@ versions:
       - ladino: pishin
 
     translations:
-        english:
+        inglez:
         - immediately
         - at once
-        french: ''
-        portuguese: ''
-        spanish: enseguida
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: enseguida
+        turko:
         - derhal
         - hemen
 

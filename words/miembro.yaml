@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: member
-        french: ''
-        portuguese: ''
-        spanish: miembro
-        turkish: aza
+        inglez: member
+        fransez: ''
+        portugez: ''
+        kasteyano: miembro
+        turko: aza
 
   - ladino: miembra
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: member
-        french: ''
-        portuguese: ''
-        spanish: miembra
-        turkish: aza
+        inglez: member
+        fransez: ''
+        portugez: ''
+        kasteyano: miembra
+        turko: aza
 
   - ladino: miembros
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: members
-        french: ''
-        portuguese: ''
-        spanish: miembros
-        turkish: aza
+        inglez: members
+        fransez: ''
+        portugez: ''
+        kasteyano: miembros
+        turko: aza
 
   - ladino: miembras
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: members
-        french: ''
-        portuguese: ''
-        spanish: miembras
-        turkish: aza
+        inglez: members
+        fransez: ''
+        portugez: ''
+        kasteyano: miembras
+        turko: aza
 
 

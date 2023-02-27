@@ -8,11 +8,11 @@ versions:
       - ladino: lise
 
     translations:
-        english: high school
-        french: ''
-        portuguese: ''
-        spanish: colegio
-        turkish:
+        inglez: high school
+        fransez: ''
+        portugez: ''
+        kasteyano: colegio
+        turko:
         - kolej
         - lise
 

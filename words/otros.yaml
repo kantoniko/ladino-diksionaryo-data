@@ -5,12 +5,12 @@ versions:
   - ladino: otros
 
     translations:
-        english:
+        inglez:
         - others
         - more
-        french: ''
-        portuguese: ''
-        spanish: demás
-        turkish: ötekiler
+        fransez: ''
+        portugez: ''
+        kasteyano: demás
+        turko: ötekiler
 
 

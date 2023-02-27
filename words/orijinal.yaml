@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: original
-        french: ''
-        portuguese: ''
-        spanish: original
-        turkish:
+        inglez: original
+        fransez: ''
+        portugez: ''
+        kasteyano: original
+        turko:
         - orijinal
         - özgün
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: original
-        french: ''
-        portuguese: ''
-        spanish: originales
-        turkish:
+        inglez: original
+        fransez: ''
+        portugez: ''
+        kasteyano: originales
+        turko:
         - orijinal
         - özgün
 

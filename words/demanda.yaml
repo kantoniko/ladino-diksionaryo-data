@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - question
         - request
-        french: ''
-        portuguese: ''
-        spanish: pregunta
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: pregunta
+        turko:
         - soru
         - sual
         - talep
@@ -27,13 +27,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - questions
         - requests
-        french: ''
-        portuguese: ''
-        spanish: preguntas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: preguntas
+        turko:
         - soru
         - sual
         - talep

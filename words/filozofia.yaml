@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: philosophy
-        french: ''
-        portuguese: ''
-        spanish: filosofía
-        turkish: felsefe
+        inglez: philosophy
+        fransez: ''
+        portugez: ''
+        kasteyano: filosofía
+        turko: felsefe
 
   - ladino: filozofias
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: philosophies
-        french: ''
-        portuguese: ''
-        spanish: filosofías
-        turkish: felsefe
+        inglez: philosophies
+        fransez: ''
+        portugez: ''
+        kasteyano: filosofías
+        turko: felsefe
 
 
 

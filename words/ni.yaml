@@ -6,17 +6,17 @@ versions:
   # ni... ni...
 
     translations:
-        english:
+        inglez:
           - neither
           - nor
   # neither... nor
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - tampoco
         - ni
         #- ni... ni...
-        turkish: ne
+        turko: ne
         # ne... ne...
 
 

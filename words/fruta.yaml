@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: fruit
-        french: fruit
-        portuguese: fruta
-        spanish: fruta
-        turkish: meyva
+        inglez: fruit
+        fransez: fruit
+        portugez: fruta
+        kasteyano: fruta
+        turko: meyva
 
   - ladino: frutas
     accented: frútas
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: fruits
-        french: ''
-        portuguese: frutas
-        spanish: frutas
-        turkish: meyva
+        inglez: fruits
+        fransez: ''
+        portugez: frutas
+        kasteyano: frutas
+        turko: meyva
 
 

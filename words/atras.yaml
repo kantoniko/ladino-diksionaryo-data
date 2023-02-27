@@ -6,14 +6,14 @@ versions:
     accented: atrás
 
     translations:
-        english:
+        inglez:
         - back
         - backwards
         - behind
-        french: arrière
-        portuguese: ''
-        spanish: atrás
-        turkish:
+        fransez: arrière
+        portugez: ''
+        kasteyano: atrás
+        turko:
           - geri
           - ard
           - arkasında

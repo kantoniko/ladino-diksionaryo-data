@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: lie
-        french: ''
-        portuguese: ''
-        spanish: mentira
-        turkish: yalan
+        inglez: lie
+        fransez: ''
+        portugez: ''
+        kasteyano: mentira
+        turko: yalan
 
   - ladino: mentiras
 
@@ -26,11 +26,11 @@ versions:
     number: plural
 
     translations:
-        english: lies
-        french: ''
-        portuguese: ''
-        spanish: mentiras
-        turkish: yalan
+        inglez: lies
+        fransez: ''
+        portugez: ''
+        kasteyano: mentiras
+        turko: yalan
 
 
 

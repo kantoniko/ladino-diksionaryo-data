@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: undecided
-        french: ''
-        portuguese: ''
-        spanish: vago
-        turkish: kararsız
+        inglez: undecided
+        fransez: ''
+        portugez: ''
+        kasteyano: vago
+        turko: kararsız
 
   - ladino: indechiza
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: undecided
-        french: ''
-        portuguese: ''
-        spanish: vaga
-        turkish: kararsız
+        inglez: undecided
+        fransez: ''
+        portugez: ''
+        kasteyano: vaga
+        turko: kararsız
 
   - ladino: indechizos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: undecided
-        french: ''
-        portuguese: ''
-        spanish: vagos
-        turkish: kararsız
+        inglez: undecided
+        fransez: ''
+        portugez: ''
+        kasteyano: vagos
+        turko: kararsız
 
   - ladino: indechizas
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: undecided
-        french: ''
-        portuguese: ''
-        spanish: vagas
-        turkish: kararsız
+        inglez: undecided
+        fransez: ''
+        portugez: ''
+        kasteyano: vagas
+        turko: kararsız
 
 
 

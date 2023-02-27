@@ -10,13 +10,13 @@ versions:
       - ladino: mujer de kaza
 
     translations:
-        english:
+        inglez:
         - landlady
         - housewife
-        french: ''
-        portuguese: ''
-        spanish: ama de casa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: ama de casa
+        turko:
           - ev kadını
           - sahibesi
 
@@ -29,13 +29,13 @@ versions:
       - ladino: mujeres de kaza
 
     translations:
-        english:
+        inglez:
         - landladies
         - housewifes
-        french: ''
-        portuguese: ''
-        spanish: amas de casa
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: amas de casa
+        turko:
           - ev kadını
           - sahibesi
 

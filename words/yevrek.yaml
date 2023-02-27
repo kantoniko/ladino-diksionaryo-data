@@ -12,11 +12,11 @@ versions:
         accented: simit
 
     translations:
-        english: sesame-covered bread rings
-        french: croustillant
-        portuguese: ''
-        spanish: tostada con sésamo
-        turkish:
+        inglez: sesame-covered bread rings
+        fransez: croustillant
+        portugez: ''
+        kasteyano: tostada con sésamo
+        turko:
           - simit
           - gevrek
 

@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: hidden corner
-      french: ''
-      hebrew: פינה נסתרת
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: hidden corner
+      fransez: ''
+      ebreo: פינה נסתרת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: kantonikos
 
@@ -21,11 +21,11 @@ versions:
     number: plural
 
     translations:
-      english: hidden corners
-      french: ''
-      hebrew: פינות נסתרות
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: hidden corners
+      fransez: ''
+      ebreo: פינות נסתרות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: door
-        french: ''
-        portuguese: ''
-        spanish: puerta
-        turkish: kapı
+        inglez: door
+        fransez: ''
+        portugez: ''
+        kasteyano: puerta
+        turko: kapı
 
   - ladino: puertas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: doors
-        french: ''
-        portuguese: ''
-        spanish: puertas
-        turkish: kapı
+        inglez: doors
+        fransez: ''
+        portugez: ''
+        kasteyano: puertas
+        turko: kapı
 
 
 

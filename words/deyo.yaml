@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: piece
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: piece
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - de ello
-        turkish: tane
+        turko: tane
 
 versions:
   - ladino: deya
@@ -22,12 +22,12 @@ versions:
     number: singular
 
     translations:
-        english: piece
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: piece
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - de ella
-        turkish: tane
+        turko: tane
 
 
 

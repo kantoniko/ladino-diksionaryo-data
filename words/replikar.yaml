@@ -8,15 +8,15 @@ versions:
       - ladino: kontestar
 
     translations:
-        english:
+        inglez:
         - answer back
         - answer
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - replicar
         - contestar
-        turkish:
+        turko:
         - mukabele etmek
         - cevap vermek
 

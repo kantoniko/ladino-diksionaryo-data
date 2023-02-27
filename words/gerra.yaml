@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: war
-        french: ''
-        portuguese: ''
-        spanish: guerra
-        turkish: harp
+        inglez: war
+        fransez: ''
+        portugez: ''
+        kasteyano: guerra
+        turko: harp
 
   - ladino: gerras
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: wars
-        french: ''
-        portuguese: ''
-        spanish: guerras
-        turkish: harp
+        inglez: wars
+        fransez: ''
+        portugez: ''
+        kasteyano: guerras
+        turko: harp
 
 
 

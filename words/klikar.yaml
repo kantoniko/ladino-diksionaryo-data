@@ -5,12 +5,12 @@ versions:
   - ladino: klikar
 
     translations:
-      english: click
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: ''
-      turkish: ''
+      inglez: click
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}
 

@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - wrist
         - pulse
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - muñeca
         - pulso
-        turkish:
+        turko:
         - el bileği
         - nabız
 

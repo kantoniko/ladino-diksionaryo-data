@@ -4,49 +4,49 @@ versions:
   - ladino: pueder
 
     translations:
-        english: be able to
-        french: ''
-        portuguese: ''
-        spanish: poder
-        turkish: yapabilmek
+        inglez: be able to
+        fransez: ''
+        portugez: ''
+        kasteyano: poder
+        turko: yapabilmek
 
 conjugations:
   prezente:
     yo:
       ladino: puedo
       translations:
-        english: can
-        spanish: puedo
+        inglez: can
+        kasteyano: puedo
 
     tu:
       ladino: puedes
       translations:
-        english: can
-        spanish: puedes
+        inglez: can
+        kasteyano: puedes
 
     el:
       ladino: puede
       translations:
-        english: can
-        spanish: puede
+        inglez: can
+        kasteyano: puede
 
     mozotros:
       ladino: podemos
       translations:
-        english: can
-        spanish: podemos
+        inglez: can
+        kasteyano: podemos
 
     vozotros:
       ladino: podesh
       translations:
-        english: can
-        spanish: podéis
+        inglez: can
+        kasteyano: podéis
 
     eyos:
       ladino: pueden
       translations:
-        english: can
-        spanish: pueden
+        inglez: can
+        kasteyano: pueden
 
 
 

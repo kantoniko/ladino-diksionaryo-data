@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: King
-        french: ''
-        portuguese: ''
-        spanish: Rey
-        turkish: Kral
+        inglez: King
+        fransez: ''
+        portugez: ''
+        kasteyano: Rey
+        turko: Kral
 
   - ladino: Reyes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: Kings
-        french: ''
-        portuguese: ''
-        spanish: Reyes
-        turkish: Kral
+        inglez: Kings
+        fransez: ''
+        portugez: ''
+        kasteyano: Reyes
+        turko: Kral
 
 
 

@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: driver
-        french: ''
-        portuguese: ''
-        spanish: chofer
-        turkish: şoför
+        inglez: driver
+        fransez: ''
+        portugez: ''
+        kasteyano: chofer
+        turko: şoför
 
   - ladino: shofores
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: drivers
-        french: ''
-        portuguese: ''
-        spanish: choferes
-        turkish: şoför
+        inglez: drivers
+        fransez: ''
+        portugez: ''
+        kasteyano: choferes
+        turko: şoför
 
 
 

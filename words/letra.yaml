@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english: letter
-        french: lettre
-        portuguese:
+        inglez: letter
+        fransez: lettre
+        portugez:
         - letra
         - carta
-        spanish:
+        kasteyano:
         - carta
         - letra
-        turkish:
+        turko:
         - mektup
         - harf
 
@@ -28,15 +28,15 @@ versions:
     number: plural
 
     translations:
-        english: letters
-        french: lettre
-        portuguese:
+        inglez: letters
+        fransez: lettre
+        portugez:
         - letras
         - cartas
-        spanish:
+        kasteyano:
         - cartas
         - letras
-        turkish:
+        turko:
         - mektup
         - harf
 

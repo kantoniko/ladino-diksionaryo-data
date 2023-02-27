@@ -15,11 +15,11 @@ versions:
     diminutivo-de: kanta
 
     translations:
-        english: song
-        french: ''
-        portuguese: ''
-        spanish: canción
-        turkish: şarkı
+        inglez: song
+        fransez: ''
+        portugez: ''
+        kasteyano: canción
+        turko: şarkı
 
   - ladino: kantikas
     accented: kantíkas
@@ -34,9 +34,9 @@ versions:
     diminutivo-de: kantas
 
     translations:
-        english: songs
-        french: ''
-        portuguese: ''
-        spanish: canciónes
-        turkish: şarkı
+        inglez: songs
+        fransez: ''
+        portugez: ''
+        kasteyano: canciónes
+        turko: şarkı
 

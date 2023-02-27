@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: pear
-      french: ''
-      hebrew: אגס
-      portuguese: pera
-      spanish: pera
-      turkish: armut
+      inglez: pear
+      fransez: ''
+      ebreo: אגס
+      portugez: pera
+      kasteyano: pera
+      turko: armut
 
   - ladino: peras
 
@@ -23,11 +23,11 @@ versions:
     number: plural
 
     translations:
-      english: pears
-      french: ''
-      hebrew: אגסים
-      portuguese: peras
-      spanish: peras
-      turkish: armutlar
+      inglez: pears
+      fransez: ''
+      ebreo: אגסים
+      portugez: peras
+      kasteyano: peras
+      turko: armutlar
 
 

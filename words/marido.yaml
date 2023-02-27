@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: husband
-        french: ''
-        portuguese: ''
-        spanish: marido
-        turkish:
+        inglez: husband
+        fransez: ''
+        portugez: ''
+        kasteyano: marido
+        turko:
         - koca
         - eş
 
@@ -27,11 +27,11 @@ versions:
     number: plural
 
     translations:
-        english: husbands
-        french: ''
-        portuguese: ''
-        spanish: maridos
-        turkish:
+        inglez: husbands
+        fransez: ''
+        portugez: ''
+        kasteyano: maridos
+        turko:
         - koca
         - eş
 

@@ -10,14 +10,14 @@ versions:
     number: singular
 
     translations:
-      english: scientist
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: scientist
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - científico
         - científica
-      turkish: ''
+      turko: ''
 
   - ladino: sientistas
 
@@ -25,14 +25,14 @@ versions:
     number: plural
 
     translations:
-      english: scientists
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish:
+      inglez: scientists
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
         - científicos
         - científicas
-      turkish: ''
+      turko: ''
 
 
 

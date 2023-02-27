@@ -5,13 +5,13 @@ versions:
   - ladino: parvenir
 
     translations:
-        english:
+        inglez:
         - succeed
         - reach
-        french: ''
-        portuguese: ''
-        spanish: lograr
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: lograr
+        turko:
         - becermek
         - erişmek
 

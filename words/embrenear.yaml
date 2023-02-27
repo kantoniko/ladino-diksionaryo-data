@@ -6,17 +6,17 @@ versions:
     accented: embreneár
 
     translations:
-        english:
+        inglez:
         - delight
         - charm
-        french:
+        fransez:
         - réjouir
         - charmer
-        portuguese: ''
-        spanish:
+        portugez: ''
+        kasteyano:
         - placer
         - encantar
-        turkish: sevindirmek
+        turko: sevindirmek
 
 conjugations: {}
 

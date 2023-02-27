@@ -11,12 +11,12 @@ versions:
       - ladino: komento
 
     translations:
-      english: comment
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: comentario
-      turkish: yorum
+      inglez: comment
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: comentario
+      turko: yorum
 
   - ladino: komentes
 
@@ -27,12 +27,12 @@ versions:
       - ladino: komentos
 
     translations:
-      english: comments
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: comentarios
-      turkish: yorumlar
+      inglez: comments
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: comentarios
+      turko: yorumlar
 
 
 

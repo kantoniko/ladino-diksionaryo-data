@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: pouch
-        french: ''
-        portuguese: ''
-        spanish: bolsa
-        turkish: torba
+        inglez: pouch
+        fransez: ''
+        portugez: ''
+        kasteyano: bolsa
+        turko: torba
 
   - ladino: bolsas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: pouches
-        french: ''
-        portuguese: ''
-        spanish: bolsas
-        turkish: ''
+        inglez: pouches
+        fransez: ''
+        portugez: ''
+        kasteyano: bolsas
+        turko: ''
 
 
 

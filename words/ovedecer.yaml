@@ -8,11 +8,11 @@ versions:
       - ladino: obeisar
 
     translations:
-        english: obey
-        french: ''
-        portuguese: ''
-        spanish: obedecer
-        turkish: itaat etmek
+        inglez: obey
+        fransez: ''
+        portugez: ''
+        kasteyano: obedecer
+        turko: itaat etmek
 
 conjugations: {}
 

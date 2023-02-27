@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - recipe
         - prescription
-        french: ''
-        portuguese: ''
-        spanish: receta
-        turkish: reçete
+        fransez: ''
+        portugez: ''
+        kasteyano: receta
+        turko: reçete
 
   - ladino: rechetas
 
@@ -22,13 +22,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - recipes
         - prescriptions
-        french: ''
-        portuguese: ''
-        spanish: recetas
-        turkish: reçete
+        fransez: ''
+        portugez: ''
+        kasteyano: recetas
+        turko: reçete
 
 
 

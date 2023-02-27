@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: possibility
-        french: ''
-        portuguese: ''
-        spanish: posibilidad
-        turkish: imkân
+        inglez: possibility
+        fransez: ''
+        portugez: ''
+        kasteyano: posibilidad
+        turko: imkân
 
   - ladino: posibilidades
 
@@ -30,11 +30,11 @@ versions:
     number: plural
 
     translations:
-        english: possibilities
-        french: ''
-        portuguese: ''
-        spanish: posibilidades
-        turkish: ''
+        inglez: possibilities
+        fransez: ''
+        portugez: ''
+        kasteyano: posibilidades
+        turko: ''
 
 
 

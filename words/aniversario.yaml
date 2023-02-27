@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: birthday
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: birthday
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - aniversario
         - cumpleaños
-        turkish: doğum günü
+        turko: doğum günü
 

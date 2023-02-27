@@ -6,12 +6,12 @@ versions:
     accented: aboltár
 
     translations:
-        english: turn
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: turn
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - girar
           - volver
-        turkish: dönmek
+        turko: dönmek
 
 conjugations: {}

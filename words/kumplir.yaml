@@ -5,11 +5,11 @@ versions:
   - ladino: kumplir
 
     translations:
-        english: accomplish
-        french: ''
-        portuguese: ''
-        spanish: cumplir
-        turkish: tamamlamak
+        inglez: accomplish
+        fransez: ''
+        portugez: ''
+        kasteyano: cumplir
+        turko: tamamlamak
 
 conjugations: {}
 

@@ -5,13 +5,13 @@ versions:
   - ladino: vestir
 
     translations:
-        english: wear
-        french:
+        inglez: wear
+        fransez:
           - porter
           - vétir
-        portuguese: ''
-        spanish: vestir
-        turkish:
+        portugez: ''
+        kasteyano: vestir
+        turko:
         - giymek
         - giyinmek
 

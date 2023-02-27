@@ -5,25 +5,25 @@ versions:
   - ladino: su
 
     translations:
-        english:
+        inglez:
         - his
         - hers
         - its
         - one's
-        french: ''
-        portuguese: ''
-        spanish: su
-        turkish: onun
+        fransez: ''
+        portugez: ''
+        kasteyano: su
+        turko: onun
 
   - ladino: sus
 
     translations:
-        english:
+        inglez:
         - their
         - theirs
-        french: ''
-        portuguese: ''
-        spanish: sus
-        turkish: onların
+        fransez: ''
+        portugez: ''
+        kasteyano: sus
+        turko: onların
 
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: preoccupied
-        french: ''
-        portuguese: ''
-        spanish: preocupado
-        turkish:
+        inglez: preoccupied
+        fransez: ''
+        portugez: ''
+        kasteyano: preocupado
+        turko:
         - endişeli
         - kaygılı
 
@@ -22,11 +22,11 @@ versions:
     number: singular
 
     translations:
-        english: preoccupied
-        french: ''
-        portuguese: ''
-        spanish: preocupada
-        turkish:
+        inglez: preoccupied
+        fransez: ''
+        portugez: ''
+        kasteyano: preocupada
+        turko:
         - endişeli
         - kaygılı
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: preoccupied
-        french: ''
-        portuguese: ''
-        spanish: preocupados
-        turkish:
+        inglez: preoccupied
+        fransez: ''
+        portugez: ''
+        kasteyano: preocupados
+        turko:
         - endişeli
         - kaygılı
 
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: preoccupied
-        french: ''
-        portuguese: ''
-        spanish: preocupadas
-        turkish:
+        inglez: preoccupied
+        fransez: ''
+        portugez: ''
+        kasteyano: preocupadas
+        turko:
         - endişeli
         - kaygılı
 

@@ -7,25 +7,25 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - time
           - instance
-        french: fois
-        portuguese: ''
-        spanish: vez
-        turkish: defa
+        fransez: fois
+        portugez: ''
+        kasteyano: vez
+        turko: defa
 
   - ladino: vezes
 
     number: plural
 
     translations:
-        english:
+        inglez:
           - times
           - instances
-        french: fois
-        portuguese: ''
-        spanish: veces
-        turkish: bazen
+        fransez: fois
+        portugez: ''
+        kasteyano: veces
+        turko: bazen
 
 

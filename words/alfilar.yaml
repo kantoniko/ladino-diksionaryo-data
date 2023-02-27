@@ -4,13 +4,13 @@ versions:
   - ladino: alfilar
     accented: alfilár
     translations:
-        english:
+        inglez:
         - string (beads, etc.)
-        french:
+        fransez:
         - enfiler (perles, etc.)
-        portuguese: enfiar
-        spanish: ensartar
-        turkish:
+        portugez: enfiar
+        kasteyano: ensartar
+        turko:
         - dizmek (boncuk, v.s.)
 
 
@@ -19,11 +19,11 @@ versions:
     gender: masculine
 
     translations:
-        english: pin
-        french: épingle
-        portuguese: alfinete
-        spanish: alfiler
-        turkish: toplu iğne
+        inglez: pin
+        fransez: épingle
+        portugez: alfinete
+        kasteyano: alfiler
+        turko: toplu iğne
 
 
 conjugations: {}

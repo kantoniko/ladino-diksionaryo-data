@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: sale
-        french: vendue
-        portuguese: ''
-        spanish: venta
-        turkish: satış
+        inglez: sale
+        fransez: vendue
+        portugez: ''
+        kasteyano: venta
+        turko: satış
 
   - ladino: vendidas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: sales
-        french: vendues
-        portuguese: ''
-        spanish: ventas
-        turkish: satış
+        inglez: sales
+        fransez: vendues
+        portugez: ''
+        kasteyano: ventas
+        turko: satış
 
 
 

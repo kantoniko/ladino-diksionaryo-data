@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: judicial
-      french: ''
-      hebrew: משפטי
-      portuguese: ''
-      spanish: judicial
-      turkish: ''
+      inglez: judicial
+      fransez: ''
+      ebreo: משפטי
+      portugez: ''
+      kasteyano: judicial
+      turko: ''
 
   - ladino: juridikos
 
@@ -21,12 +21,12 @@ versions:
     number: plural
 
     translations:
-      english: judicial
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: judiciales
-      turkish: ''
+      inglez: judicial
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: judiciales
+      turko: ''
 
 
 

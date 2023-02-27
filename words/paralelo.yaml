@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: parallel
-        french: ''
-        portuguese: ''
-        spanish: paralelo
-        turkish: paralel
+        inglez: parallel
+        fransez: ''
+        portugez: ''
+        kasteyano: paralelo
+        turko: paralel
 
   - ladino: paralela
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: parallel
-        french: ''
-        portuguese: ''
-        spanish: paralela
-        turkish: paralel
+        inglez: parallel
+        fransez: ''
+        portugez: ''
+        kasteyano: paralela
+        turko: paralel
 
   - ladino: paralelos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: parallels
-        french: ''
-        portuguese: ''
-        spanish: paralelos
-        turkish: paraleller
+        inglez: parallels
+        fransez: ''
+        portugez: ''
+        kasteyano: paralelos
+        turko: paraleller
 
   - ladino: paralelas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: parallels
-        french: ''
-        portuguese: ''
-        spanish: paralelas
-        turkish: paraleller
+        inglez: parallels
+        fransez: ''
+        portugez: ''
+        kasteyano: paralelas
+        turko: paraleller
 
 

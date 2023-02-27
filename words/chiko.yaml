@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - small
           - young
-        french: petit
-        portuguese: pequeno
-        spanish: pequeño
-        turkish: küçük
+        fransez: petit
+        portugez: pequeno
+        kasteyano: pequeño
+        turko: küçük
 
   - ladino: chika
 
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - small
           - young
-        french: petite
-        portuguese: pequena
-        spanish: pequeña
-        turkish: küçük
+        fransez: petite
+        portugez: pequena
+        kasteyano: pequeña
+        turko: küçük
 
   - ladino: chikos
 
@@ -36,11 +36,11 @@ versions:
     number: plural
 
     translations:
-        english: small
-        french: petit
-        portuguese: pequenos
-        spanish: pequeños
-        turkish: küçük
+        inglez: small
+        fransez: petit
+        portugez: pequenos
+        kasteyano: pequeños
+        turko: küçük
 
   - ladino: chikas
 
@@ -48,9 +48,9 @@ versions:
     number: plural
 
     translations:
-        english: small
-        french: petite
-        portuguese: pequenas
-        spanish: pequeñas
-        turkish: küçük
+        inglez: small
+        fransez: petite
+        portugez: pequenas
+        kasteyano: pequeñas
+        turko: küçük
 

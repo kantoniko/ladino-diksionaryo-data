@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: belly
-        french: ''
-        portuguese: ''
-        spanish: vientre
-        turkish: karın
+        inglez: belly
+        fransez: ''
+        portugez: ''
+        kasteyano: vientre
+        turko: karın
 
   - ladino: tripas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: bellies
-        french: ''
-        portuguese: ''
-        spanish: vientres
-        turkish: karın
+        inglez: bellies
+        fransez: ''
+        portugez: ''
+        kasteyano: vientres
+        turko: karın
 
 
 

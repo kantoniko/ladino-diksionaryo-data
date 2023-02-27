@@ -5,11 +5,11 @@ versions:
   - ladino: data
     accented: dáta
     translations:
-        english: date
-        french: ''
-        portuguese: ''
-        spanish: fecha
-        turkish:
+        inglez: date
+        fransez: ''
+        portugez: ''
+        kasteyano: fecha
+        turko:
           - tarih
           - gün
           - ay

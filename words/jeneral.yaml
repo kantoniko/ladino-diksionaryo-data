@@ -10,11 +10,11 @@ versions:
         accented: djenerál
 
     translations:
-        english: general
-        french: ''
-        portuguese: ''
-        spanish: general
-        turkish:
+        inglez: general
+        fransez: ''
+        portugez: ''
+        kasteyano: general
+        turko:
           - genel
           - general
 

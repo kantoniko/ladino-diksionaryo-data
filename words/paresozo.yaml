@@ -11,11 +11,11 @@ versions:
       - ladino: haragan
 
     translations:
-        english: lazy
-        french: ''
-        portuguese: ''
-        spanish: perezoso
-        turkish: tembel
+        inglez: lazy
+        fransez: ''
+        portugez: ''
+        kasteyano: perezoso
+        turko: tembel
 
   - ladino: paresoza
 
@@ -23,11 +23,11 @@ versions:
     number: singular
 
     translations:
-        english: lazy
-        french: ''
-        portuguese: ''
-        spanish: perezosa
-        turkish: tembel
+        inglez: lazy
+        fransez: ''
+        portugez: ''
+        kasteyano: perezosa
+        turko: tembel
 
   - ladino: paresozos
 
@@ -35,11 +35,11 @@ versions:
     number: plural
 
     translations:
-        english: lazy
-        french: ''
-        portuguese: ''
-        spanish: perezosos
-        turkish: tembel
+        inglez: lazy
+        fransez: ''
+        portugez: ''
+        kasteyano: perezosos
+        turko: tembel
 
   - ladino: paresozas
 
@@ -47,11 +47,11 @@ versions:
     number: singular
 
     translations:
-        english: lazy
-        french: ''
-        portuguese: ''
-        spanish: perezosas
-        turkish: tembel
+        inglez: lazy
+        fransez: ''
+        portugez: ''
+        kasteyano: perezosas
+        turko: tembel
 
 
 

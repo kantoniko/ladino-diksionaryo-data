@@ -8,18 +8,18 @@ versions:
       - ladino: aser ke
 
     translations:
-        english:
+        inglez:
         - since
         - then
         - however
         - nevertheless
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - por tanto
         - pues
         - no obstante
-        turkish:
+        turko:
         - zira
         - halbuki
         - oysa

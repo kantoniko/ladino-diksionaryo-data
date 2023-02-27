@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - force
         - strength
-        french: ''
-        portuguese: ''
-        spanish: fuerza
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fuerza
+        turko:
         - güç
         - kuvvet
         - derman
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - forces
         - strengths
-        french: ''
-        portuguese: ''
-        spanish: fuerzas
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: fuerzas
+        turko:
         - güç
         - kuvvet
         - derman

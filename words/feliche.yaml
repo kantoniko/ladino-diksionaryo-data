@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: happy
-        french: ''
-        portuguese: ''
-        spanish: feliz
-        turkish: mutlu
+        inglez: happy
+        fransez: ''
+        portugez: ''
+        kasteyano: feliz
+        turko: mutlu
 
   - ladino: feliches
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: happy
-        french: ''
-        portuguese: ''
-        spanish: felizes
-        turkish: mutlu
+        inglez: happy
+        fransez: ''
+        portugez: ''
+        kasteyano: felizes
+        turko: mutlu
 
 
 

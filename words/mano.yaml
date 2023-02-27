@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: hand
-        french: ''
-        portuguese: ''
-        spanish: mano
-        turkish: el
+        inglez: hand
+        fransez: ''
+        portugez: ''
+        kasteyano: mano
+        turko: el
 
   - ladino: manos
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: hands
-        french: ''
-        portuguese: ''
-        spanish: manos
-        turkish: el
+        inglez: hands
+        fransez: ''
+        portugez: ''
+        kasteyano: manos
+        turko: el
 
 
 

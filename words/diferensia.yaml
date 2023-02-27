@@ -8,15 +8,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - difference
         - disparity
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - diferencia
         - disparidad
-        turkish:
+        turko:
         - fark
         - eşitsizlik
 
@@ -26,15 +26,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - differences
         - disparities
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - diferencias
         - disparidades
-        turkish:
+        turko:
         - fark
         - eşitsizlik
 

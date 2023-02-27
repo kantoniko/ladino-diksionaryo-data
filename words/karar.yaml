@@ -5,15 +5,15 @@ versions:
   - ladino: karar
 
     translations:
-        english:
+        inglez:
           - quantity
           - decision
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuantitad
           - decision
-        turkish:
+        turko:
           - kadar
           - karar
 

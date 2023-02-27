@@ -7,22 +7,22 @@ versions:
   - ladino: komo
 
     translations:
-      english: how
-      french: ''
-      hebrew: איך
-      portuguese: ''
-      spanish: como
-      turkish: nasıl
+      inglez: how
+      fransez: ''
+      ebreo: איך
+      portugez: ''
+      kasteyano: como
+      turko: nasıl
 
   - ladino: komo
 
     translations:
-      english: as
-      spanish: como
+      inglez: as
+      kasteyano: como
 
   - ladino: komo
     translations:
-      english: like
-      spanish: como
+      inglez: like
+      kasteyano: como
 
 

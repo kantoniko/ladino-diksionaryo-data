@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: answer
-        french: ''
-        portuguese: ''
-        spanish: respuesta
-        turkish: cevap
+        inglez: answer
+        fransez: ''
+        portugez: ''
+        kasteyano: respuesta
+        turko: cevap
 
   - ladino: repuestas
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: answers
-        french: ''
-        portuguese: ''
-        spanish: respuestas
-        turkish: cevap
+        inglez: answers
+        fransez: ''
+        portugez: ''
+        kasteyano: respuestas
+        turko: cevap
 
 
 

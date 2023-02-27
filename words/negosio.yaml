@@ -11,13 +11,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - business
         - trade
-        french: ''
-        portuguese: ''
-        spanish: negocio
-        turkish: iş
+        fransez: ''
+        portugez: ''
+        kasteyano: negocio
+        turko: iş
 
   - ladino: negosios
 
@@ -28,13 +28,13 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - businesses
         - trade
-        french: ''
-        portuguese: ''
-        spanish: negocios
-        turkish: iş
+        fransez: ''
+        portugez: ''
+        kasteyano: negocios
+        turko: iş
 
 
 

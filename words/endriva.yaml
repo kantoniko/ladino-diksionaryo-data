@@ -8,14 +8,14 @@ versions:
       - ladino: sovre
 
     translations:
-        english:
+        inglez:
         - 'on'
         - on top
         - about
-        french: ''
-        portuguese: ''
-        spanish: sobre
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: sobre
+        turko:
         - üstünde
         - hakkında
 

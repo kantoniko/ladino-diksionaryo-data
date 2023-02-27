@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: order
-        french: ''
-        portuguese: ''
-        spanish: orden
-        turkish: intizam
+        inglez: order
+        fransez: ''
+        portugez: ''
+        kasteyano: orden
+        turko: intizam
 
   - ladino: ordenes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: orders
-        french: ''
-        portuguese: ''
-        spanish: ordenes
-        turkish: emirler
+        inglez: orders
+        fransez: ''
+        portugez: ''
+        kasteyano: ordenes
+        turko: emirler
 
 
 

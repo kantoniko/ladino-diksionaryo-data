@@ -11,11 +11,11 @@ versions:
       - ladino: byervo
 
     translations:
-        english: word
-        french: ''
-        portuguese: ''
-        spanish: palabra
-        turkish: kelime
+        inglez: word
+        fransez: ''
+        portugez: ''
+        kasteyano: palabra
+        turko: kelime
 
   - ladino: biervos
 
@@ -26,11 +26,11 @@ versions:
       - ladino: byervos
 
     translations:
-        english: words
-        french: ''
-        portuguese: ''
-        spanish: palabras
-        turkish: kelime
+        inglez: words
+        fransez: ''
+        portugez: ''
+        kasteyano: palabras
+        turko: kelime
 
 
 

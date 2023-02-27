@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - number
           - item
           - turn
           - edition
-        french: ''
-        portuguese: ''
-        spanish: número
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: número
+        turko:
           - numara
           - rakkam
           - sıra
@@ -29,15 +29,15 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - numbers
           - items
           - turns
           - editions
-        french: ''
-        portuguese: ''
-        spanish: números
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: números
+        turko:
           - numara
           - rakkam
           - sıra

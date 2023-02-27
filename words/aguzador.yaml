@@ -9,9 +9,9 @@ versions:
     number: singular
 
     translations:
-        english: sharpener
-        french: aiguiseur
-        portuguese: afiador
-        spanish: afilador
-        turkish: bileyici
+        inglez: sharpener
+        fransez: aiguiseur
+        portugez: afiador
+        kasteyano: afilador
+        turko: bileyici
 

@@ -13,13 +13,13 @@ versions:
     number: singular
 
     translations:
-        english: question
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: question
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuestión
           - pregunta
-        turkish: soru
+        turko: soru
 
   - ladino: kestiones
     accented: kestiónes
@@ -32,12 +32,12 @@ versions:
     number: plural
 
     translations:
-        english: questions
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: questions
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - cuestiónes
           - preguntas
-        turkish: soru
+        turko: soru
 
 

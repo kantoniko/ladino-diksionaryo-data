@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: stupendous
-        french: ''
-        portuguese: ''
-        spanish: estupendo
-        turkish: harikulâde
+        inglez: stupendous
+        fransez: ''
+        portugez: ''
+        kasteyano: estupendo
+        turko: harikulâde
 
   - ladino: estupenda
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: stupendous
-        french: ''
-        portuguese: ''
-        spanish: estupenda
-        turkish: harikulâde
+        inglez: stupendous
+        fransez: ''
+        portugez: ''
+        kasteyano: estupenda
+        turko: harikulâde
 
   - ladino: estupendos
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: stupendous
-        french: ''
-        portuguese: ''
-        spanish: estupendos
-        turkish: harikulâde
+        inglez: stupendous
+        fransez: ''
+        portugez: ''
+        kasteyano: estupendos
+        turko: harikulâde
 
   - ladino: estupendas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: stupendous
-        french: ''
-        portuguese: ''
-        spanish: estupendas
-        turkish: harikulâde
+        inglez: stupendous
+        fransez: ''
+        portugez: ''
+        kasteyano: estupendas
+        turko: harikulâde
 
 

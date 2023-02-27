@@ -5,15 +5,15 @@ versions:
   - ladino: arresentarse
 
     translations:
-        english:
+        inglez:
         - moderate oneself
         - temper down
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - moderarse
         - templarse
-        turkish:
+        turko:
         - uslanmak
         - düzene girmek
 

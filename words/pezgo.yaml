@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: weight
-        french: ''
-        portuguese: ''
-        spanish: peso
-        turkish: ağırlık
+        inglez: weight
+        fransez: ''
+        portugez: ''
+        kasteyano: peso
+        turko: ağırlık
 
   - ladino: pezgos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: weights
-        french: ''
-        portuguese: ''
-        spanish: pesos
-        turkish: ağırlık
+        inglez: weights
+        fransez: ''
+        portugez: ''
+        kasteyano: pesos
+        turko: ağırlık
 
 
 

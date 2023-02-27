@@ -5,24 +5,24 @@ versions:
   - ladino: planear
 
     translations:
-      english: plan
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: planificar
-      turkish: ''
+      inglez: plan
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: planificar
+      turko: ''
 
 
 
   - ladino: planeamos
 
     translations:
-      english: we plan
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: planificamos
-      turkish: ''
+      inglez: we plan
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: planificamos
+      turko: ''
 
 conjugations: {}
 

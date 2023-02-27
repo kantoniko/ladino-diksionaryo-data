@@ -6,13 +6,13 @@ versions:
     accented: aprovár
 
     translations:
-        english: try
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: try
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - intentar
         - probar
-        turkish:
+        turko:
         - niyet etmek
         - denemek
 

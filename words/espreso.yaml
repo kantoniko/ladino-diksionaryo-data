@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: espresso
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: café exprés
-      turkish: ''
+      inglez: espresso
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: café exprés
+      turko: ''
 
   - ladino: espresos
 
@@ -23,12 +23,12 @@ versions:
     number: plural
 
     translations:
-      english: espressos
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: cafes exprés
-      turkish: ''
+      inglez: espressos
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: cafes exprés
+      turko: ''
 
 
 

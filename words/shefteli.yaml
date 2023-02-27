@@ -15,12 +15,12 @@ versions:
       - ladino: brisko
 
     translations:
-        english: peach
-        french: ''
-        hebrew: אפרסק
-        portuguese: pêssego
-        spanish: melocotón
-        turkish: şeftali
+        inglez: peach
+        fransez: ''
+        ebreo: אפרסק
+        portugez: pêssego
+        kasteyano: melocotón
+        turko: şeftali
 
   - ladino: sheftelis
 
@@ -33,12 +33,12 @@ versions:
       - ladino: briskos
 
     translations:
-        english: peaches
-        french: ''
-        hebrew: אפרסקים
-        portuguese: pêssegos
-        spanish: melocotónes
-        turkish: şeftali
+        inglez: peaches
+        fransez: ''
+        ebreo: אפרסקים
+        portugez: pêssegos
+        kasteyano: melocotónes
+        turko: şeftali
 
 
 

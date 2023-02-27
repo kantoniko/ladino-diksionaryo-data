@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: interesting
-        french: ''
-        portuguese: ''
-        spanish: interesante
-        turkish: ilginç
+        inglez: interesting
+        fransez: ''
+        portugez: ''
+        kasteyano: interesante
+        turko: ilginç
 
   - ladino: enteresantes
     accented: enteresántes
@@ -30,11 +30,11 @@ versions:
     number: plural
 
     translations:
-        english: interesting
-        french: ''
-        portuguese: ''
-        spanish: interesantes
-        turkish: ilginç
+        inglez: interesting
+        fransez: ''
+        portugez: ''
+        kasteyano: interesantes
+        turko: ilginç
 
 
 

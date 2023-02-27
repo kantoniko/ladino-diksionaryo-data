@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: agency
-        french: agence
-        portuguese: agência
-        spanish: agencia
-        turkish: ajans
+        inglez: agency
+        fransez: agence
+        portugez: agência
+        kasteyano: agencia
+        turko: ajans
 
   - ladino: adjensias
     accented: adjénsias
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: agencies
-        french: agence
-        portuguese: agências
-        spanish: agencias
-        turkish: ajans
+        inglez: agencies
+        fransez: agence
+        portugez: agências
+        kasteyano: agencias
+        turko: ajans
 
 

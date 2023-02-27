@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: south
-        french: ''
-        portuguese: ''
-        spanish: sur
-        turkish:
+        inglez: south
+        fransez: ''
+        portugez: ''
+        kasteyano: sur
+        turko:
         - güney
         - cenup
 

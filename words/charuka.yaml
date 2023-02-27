@@ -9,15 +9,15 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - slipper
         - mule
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - zapatilla
         - babucha
-        turkish:
+        turko:
         - terlik
         - çarık
 

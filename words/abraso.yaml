@@ -9,13 +9,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
           - embrace
           - hug
-        french: étreinte
-        portuguese: abraço
-        spanish: abrazo
-        turkish:
+        fransez: étreinte
+        portugez: abraço
+        kasteyano: abrazo
+        turko:
           - kucaklama
           - sarılış
 
@@ -26,12 +26,12 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
           - embraces
           - hugs
-        french: ''
-        portuguese: abraços
-        spanish: abrazos
-        turkish: ''
+        fransez: ''
+        portugez: abraços
+        kasteyano: abrazos
+        turko: ''
 
 

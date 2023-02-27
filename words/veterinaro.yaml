@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: veterinarian
-      french: vétérinaire
-      hebrew: ''
-      portuguese: ''
-      spanish: veterinario
-      turkish:
+      inglez: veterinarian
+      fransez: vétérinaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: veterinario
+      turko:
         - veteriner
         - baytar
 
@@ -25,12 +25,12 @@ versions:
     number: singular
 
     translations:
-      english: veterinarian
-      french: vétérinaire
-      hebrew: ''
-      portuguese: ''
-      spanish: veterinaria
-      turkish:
+      inglez: veterinarian
+      fransez: vétérinaire
+      ebreo: ''
+      portugez: ''
+      kasteyano: veterinaria
+      turko:
         - veteriner
         - baytar
 
@@ -40,12 +40,12 @@ versions:
     number: plural
 
     translations:
-      english: veterinarian
-      french:  vétérinaires
-      hebrew: ''
-      portuguese: ''
-      spanish: veterinarios
-      turkish:
+      inglez: veterinarian
+      fransez:  vétérinaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: veterinarios
+      turko:
         - veterinerler
         - baytarlar
 
@@ -55,12 +55,12 @@ versions:
     number: plural
 
     translations:
-      english: veterinarian
-      french:  vétérinaires
-      hebrew: ''
-      portuguese: ''
-      spanish: veterinarias
-      turkish:
+      inglez: veterinarian
+      fransez:  vétérinaires
+      ebreo: ''
+      portugez: ''
+      kasteyano: veterinarias
+      turko:
         - veterinerler
         - baytarlar
 

@@ -13,11 +13,11 @@ versions:
     number: singular
 
     translations:
-        english: dried salted fish roe
-        french:
+        inglez: dried salted fish roe
+        fransez:
           - oeufs de poisson salés secs
           - boutargue
-        portuguese: ovas de peixe
-        spanish: hueva seca salada
-        turkish: balık yumurtası
+        portugez: ovas de peixe
+        kasteyano: hueva seca salada
+        turko: balık yumurtası
 

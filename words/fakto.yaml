@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: fact
-        french: ''
-        portuguese: ''
-        spanish: hecho
-        turkish: olgu
+        inglez: fact
+        fransez: ''
+        portugez: ''
+        kasteyano: hecho
+        turko: olgu
 
   - ladino: faktos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: facts
-        french: ''
-        portuguese: ''
-        spanish: hechos
-        turkish: olgu
+        inglez: facts
+        fransez: ''
+        portugez: ''
+        kasteyano: hechos
+        turko: olgu
 
 
 

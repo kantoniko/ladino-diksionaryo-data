@@ -8,12 +8,12 @@ versions:
       - ladino: un poko
 
     translations:
-        english:
+        inglez:
           - a little
           - a bit
-        french: ''
-        portuguese: ''
-        spanish: poco
-        turkish: az
+        fransez: ''
+        portugez: ''
+        kasteyano: poco
+        turko: az
 
 

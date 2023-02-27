@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: bicycle
-        french: ''
-        portuguese: ''
-        spanish: bicicleta
-        turkish: bisiklet
+        inglez: bicycle
+        fransez: ''
+        portugez: ''
+        kasteyano: bicicleta
+        turko: bisiklet
 
   - ladino: bisikletas
 
@@ -22,10 +22,10 @@ versions:
     number: plural
 
     translations:
-        english: bicycles
-        french: ''
-        portuguese: ''
-        spanish: bicicletas
-        turkish: ''
+        inglez: bicycles
+        fransez: ''
+        portugez: ''
+        kasteyano: bicicletas
+        turko: ''
 
 

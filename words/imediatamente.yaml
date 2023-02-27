@@ -5,11 +5,11 @@ versions:
   - ladino: imediatamente
 
     translations:
-        english: immediately
-        french: ''
-        portuguese: ''
-        spanish: inmediatamente
-        turkish:
+        inglez: immediately
+        fransez: ''
+        portugez: ''
+        kasteyano: inmediatamente
+        turko:
         - hemen
         - derhal
 

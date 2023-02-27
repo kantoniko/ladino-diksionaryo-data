@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: active
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: active
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - activo
         - lanzado
-        turkish: faal
+        turko: faal
 
   - ladino: aktiva
     accented: aktíva
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: active
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: active
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - activa
         - lanzada
-        turkish: faal
+        turko: faal
 
   - ladino: aktivos
     accented: aktívos
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: active
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: active
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - activos
         - lanzados
-        turkish: faal
+        turko: faal
 
   - ladino: aktivas
     accented: aktívas
@@ -50,12 +50,12 @@ versions:
     number: plural
 
     translations:
-        english: active
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: active
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - activas
         - lanzadas
-        turkish: faal
+        turko: faal
 
 

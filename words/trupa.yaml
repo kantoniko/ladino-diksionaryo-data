@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-        english: troop
-        french: ''
-        hebrew: ''
-        portuguese: ''
-        spanish: tropa
-        turkish: grup
+        inglez: troop
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: tropa
+        turko: grup
 
   - ladino: trupas
 
@@ -21,10 +21,10 @@ versions:
     number: plural
 
     translations:
-        english: troops
-        french: ''
-        hebrew: ''
-        portuguese: ''
-        spanish: tropas
-        turkish: gruplar
+        inglez: troops
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: tropas
+        turko: gruplar
 

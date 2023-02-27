@@ -5,11 +5,11 @@ versions:
   - ladino: avansar
 
     translations:
-        english: advance
-        french: avancer
-        portuguese: ''
-        spanish: avanzar
-        turkish: ilerlemek
+        inglez: advance
+        fransez: avancer
+        portugez: ''
+        kasteyano: avanzar
+        turko: ilerlemek
 
 conjugations: {}
 

@@ -9,21 +9,21 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - bazaar
         - market
         - souk
-        french:
+        fransez:
         - bazar
         - marché
         - souk
-        portuguese:
+        portugez:
         - feira
         - mercado
-        spanish:
+        kasteyano:
         - bazar
         - mercado oriental
-        turkish:
+        turko:
         - pazar
         - çarşı
 
@@ -34,14 +34,14 @@ versions:
     number: plural
 
     translations:
-        english:
+        inglez:
         - bazaars
         - markets
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - bazares
         - mercados orientales
-        turkish: ''
+        turko: ''
 
 

@@ -6,57 +6,57 @@ versions:
     accented: efasár
 
     translations:
-        english:
+        inglez:
           - erase
           - rub out
-        french: ''
-        portuguese: ''
-        spanish: borrar
-        turkish: silmek
+        fransez: ''
+        portugez: ''
+        kasteyano: borrar
+        turko: silmek
 
 conjugations:
   prezente:
     yo:
       ladino: efaso
       translations:
-        english: erase
-        spanish: borro
+        inglez: erase
+        kasteyano: borro
 
     tu:
       ladino: efasas
       translations:
-        english: erase
-        spanish: borras
+        inglez: erase
+        kasteyano: borras
 
     el:
       ladino: efasa
       translations:
-        english: erases
-        spanish: borra
+        inglez: erases
+        kasteyano: borra
 
     mozotros:
       ladino: efasamos
       translations:
-        english: erase
-        spanish: borramos
+        inglez: erase
+        kasteyano: borramos
 
     vozotros:
       ladino: efasash
       translations:
-        english: erase
-        spanish: borráis
+        inglez: erase
+        kasteyano: borráis
 
     eyos:
       ladino: efasan
       translations:
-        english: erase
-        spanish: borran
+        inglez: erase
+        kasteyano: borran
 
   pasado:
     yo:
       ladino: efasi
       translations:
-        english: erased
-        spanish: borré
+        inglez: erased
+        kasteyano: borré
 
 

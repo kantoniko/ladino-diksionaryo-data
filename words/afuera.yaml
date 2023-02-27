@@ -13,13 +13,13 @@ versions:
         accented: fuéra
 
     translations:
-        english:
+        inglez:
         - out
         - outside
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - afuera
         - fuera
-        turkish: dışarı
+        turko: dışarı
 

@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: voice
-        french: voix
-        portuguese: voz
-        spanish: voz
-        turkish: ses
+        inglez: voice
+        fransez: voix
+        portugez: voz
+        kasteyano: voz
+        turko: ses
 
   - ladino: bozes
 
@@ -20,10 +20,10 @@ versions:
     number: plural
 
     translations:
-        english: voices
-        french: ''
-        portuguese: ''
-        spanish: vozes
-        turkish: ses
+        inglez: voices
+        fransez: ''
+        portugez: ''
+        kasteyano: vozes
+        turko: ses
 
 

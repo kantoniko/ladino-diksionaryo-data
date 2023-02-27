@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: hot
-        french: ''
-        portuguese: ''
-        spanish: caliente
-        turkish: sıcak
+        inglez: hot
+        fransez: ''
+        portugez: ''
+        kasteyano: caliente
+        turko: sıcak
 
   - ladino: kayenta
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: hot
-        french: ''
-        portuguese: ''
-        spanish: calienta
-        turkish: sıcak
+        inglez: hot
+        fransez: ''
+        portugez: ''
+        kasteyano: calienta
+        turko: sıcak
 
   - ladino: kayentes
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: hot
-        french: ''
-        portuguese: ''
-        spanish: calientes
-        turkish: ''
+        inglez: hot
+        fransez: ''
+        portugez: ''
+        kasteyano: calientes
+        turko: ''
 
   - ladino: kayentas
 
@@ -44,10 +44,10 @@ versions:
     number: plural
 
     translations:
-        english: hot
-        french: ''
-        portuguese: ''
-        spanish: calientas
-        turkish: ''
+        inglez: hot
+        fransez: ''
+        portugez: ''
+        kasteyano: calientas
+        turko: ''
 
 

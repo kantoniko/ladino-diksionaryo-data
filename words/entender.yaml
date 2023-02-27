@@ -6,13 +6,13 @@ versions:
     accented: entendér
 
     translations:
-        english: understand
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: understand
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - comprender
           - entender
-        turkish: anlamak
+        turko: anlamak
 
 conjugations:
   prezente:
@@ -20,44 +20,44 @@ conjugations:
       ladino: entyendo
       # TODO: add entiendo
       translations:
-        english: understand
-        spanish: entiendo
+        inglez: understand
+        kasteyano: entiendo
 
     tu:
       ladino: entyendes
       translations:
-        english: understand
-        spanish: entiendes
+        inglez: understand
+        kasteyano: entiendes
 
     el:
       ladino: entyende
       translations:
-        english: understands
-        spanish: entiende
+        inglez: understands
+        kasteyano: entiende
 
     mozotros:
       ladino: entyendemos
       translations:
-        english: understand
-        spanish: entendemos
+        inglez: understand
+        kasteyano: entendemos
 
     vozotros:
       ladino: entyendesh
       translations:
-        english: understand
-        spanish: entendéis
+        inglez: understand
+        kasteyano: entendéis
 
     eyos:
       ladino: entyenden
       translations:
-        english: understand
-        spanish: entienden
+        inglez: understand
+        kasteyano: entienden
 
   pasado:
     yo:
       ladino: entendi
       translations:
-        english: understood
-        spanish: entendi
+        inglez: understood
+        kasteyano: entendi
 
 

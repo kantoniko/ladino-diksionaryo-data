@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: oven
-        french: ''
-        portuguese: ''
-        spanish: horno
-        turkish: fırın
+        inglez: oven
+        fransez: ''
+        portugez: ''
+        kasteyano: horno
+        turko: fırın
 
   - ladino: ornos
 
@@ -23,10 +23,10 @@ versions:
     number: plural
 
     translations:
-        english: ovens
-        french: ''
-        portuguese: ''
-        spanish: hornos
-        turkish: fırın
+        inglez: ovens
+        fransez: ''
+        portugez: ''
+        kasteyano: hornos
+        turko: fırın
 
 

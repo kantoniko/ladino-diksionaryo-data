@@ -9,11 +9,11 @@ versions:
     number: singular
 
     translations:
-        english: year
-        french: ''
-        portuguese: ''
-        spanish: año
-        turkish:
+        inglez: year
+        fransez: ''
+        portugez: ''
+        kasteyano: año
+        turko:
         - senelik
         - yıl
 

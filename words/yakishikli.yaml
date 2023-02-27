@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english: handsome
-        french:
+        inglez: handsome
+        fransez:
         - beau
         - élégant
-        portuguese: ''
-        spanish: guapo
-        turkish: yakışıklı
+        portugez: ''
+        kasteyano: guapo
+        turko: yakışıklı
 
   - ladino: yakishikliya
     accented: yakishiklíya
@@ -22,13 +22,13 @@ versions:
     number: singular
 
     translations:
-        english: handsome
-        french:
+        inglez: handsome
+        fransez:
         - beau
         - élégant
-        portuguese: ''
-        spanish: guapa
-        turkish: yakışıklı
+        portugez: ''
+        kasteyano: guapa
+        turko: yakışıklı
 
   - ladino: yakishiklis
     accented: yakishiklís
@@ -36,13 +36,13 @@ versions:
     number: plural
 
     translations:
-        english: handsome
-        french:
+        inglez: handsome
+        fransez:
         - beau
         - élégant
-        portuguese: ''
-        spanish: guapos
-        turkish: yakışıklı
+        portugez: ''
+        kasteyano: guapos
+        turko: yakışıklı
 
   - ladino: yakishikliyas
     accented: yakishiklíyas
@@ -50,11 +50,11 @@ versions:
     number: plural
 
     translations:
-        english: handsome
-        french:
+        inglez: handsome
+        fransez:
         - beau
         - élégant
-        portuguese: ''
-        spanish: guapas
-        turkish: yakışıklı
+        portugez: ''
+        kasteyano: guapas
+        turko: yakışıklı
 

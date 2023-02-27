@@ -5,13 +5,13 @@ versions:
   - ladino: finalmente
 
     translations:
-        english: finally
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: finally
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - finalmente
         - por fin
-        turkish:
+        turko:
         - nihayet
         - sonunda
 

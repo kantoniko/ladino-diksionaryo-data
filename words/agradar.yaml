@@ -6,11 +6,11 @@ versions:
     accented: agradár
 
     translations:
-        english: like
-        french: ''
-        portuguese: ''
-        spanish: gustar
-        turkish: hoşlanmak
+        inglez: like
+        fransez: ''
+        portugez: ''
+        kasteyano: gustar
+        turko: hoşlanmak
 
   - ladino: agradar a...
     accented: agradár a...
@@ -18,34 +18,34 @@ versions:
       - ladino: plazer a...
         accented: plazér a...
     translations:
-        english: be pleasing to
-        french: ''
-        portuguese: ''
-        spanish: gustar a...
-        turkish: hoşuna gitmek
+        inglez: be pleasing to
+        fransez: ''
+        portugez: ''
+        kasteyano: gustar a...
+        turko: hoşuna gitmek
 
 conjugations:
   prezente:
     yo:
       ladino: agrado
       translations:
-        english: like
-        spanish: gusto
-        turkish: beğenildi
+        inglez: like
+        kasteyano: gusto
+        turko: beğenildi
 
     tu:
       ladino: agradas
       translations:
-        english: like
-        spanish: gustas
-        turkish: beğenildi
+        inglez: like
+        kasteyano: gustas
+        turko: beğenildi
 
     el:
       ladino: agrada
       translations:
-        english: likes
-        spanish: gusta
-        turkish:
+        inglez: likes
+        kasteyano: gusta
+        turko:
           - beğeniyorum
           - beğeniyorsun
           - beğeniyor
@@ -53,23 +53,23 @@ conjugations:
     mozotros:
       ladino: agradamos
       translations:
-        english: like
-        spanish: gustamos
-        turkish: beğeniyoruz
+        inglez: like
+        kasteyano: gustamos
+        turko: beğeniyoruz
 
     vozotros:
       ladino: agradash
       translations:
-        english: like
-        spanish: gustáis
-        turkish: beğenildiniz
+        inglez: like
+        kasteyano: gustáis
+        turko: beğenildiniz
 
     eyos:
       ladino: agradan
       translations:
-        english: like
-        spanish: gustan
-        turkish: beğenilir
+        inglez: like
+        kasteyano: gustan
+        turko: beğenilir
 
   #- I like:       me agrada
   #- pleasant:     agradavle

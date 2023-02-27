@@ -8,13 +8,13 @@ versions:
     number: singular
 
     translations:
-        english:
+        inglez:
         - confidence
         - secret
-        french: ''
-        portuguese: ''
-        spanish: confidencia
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: confidencia
+        turko:
         - sır
         - güven
 

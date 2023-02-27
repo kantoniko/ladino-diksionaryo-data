@@ -6,13 +6,13 @@ versions:
     accented: manár
 
     translations:
-        english:
+        inglez:
         - flow
         - fig. abound
-        french: ''
-        portuguese: ''
-        spanish: manar
-        turkish: fışkırmak
+        fransez: ''
+        portugez: ''
+        kasteyano: manar
+        turko: fışkırmak
 
 conjugations: {}
 

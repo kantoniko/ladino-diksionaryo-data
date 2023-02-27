@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: he
-        french: il
-        portuguese: ele
-        spanish: él
-        turkish: o
+        inglez: he
+        fransez: il
+        portugez: ele
+        kasteyano: él
+        turko: o
 
   - ladino: eyos
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: they
-        french: ils
-        portuguese: eles
-        spanish: ellos
-        turkish: onlar
+        inglez: they
+        fransez: ils
+        portugez: eles
+        kasteyano: ellos
+        turko: onlar
 
 
 

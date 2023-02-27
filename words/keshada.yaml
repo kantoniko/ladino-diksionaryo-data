@@ -7,12 +7,12 @@ versions:
   - ladino: keshada
 
     translations:
-        english: chin
-        french: ''
-        portuguese: ''
-        spanish:
+        inglez: chin
+        fransez: ''
+        portugez: ''
+        kasteyano:
         - barbilla
         - mentón
-        turkish: çene
+        turko: çene
 
 

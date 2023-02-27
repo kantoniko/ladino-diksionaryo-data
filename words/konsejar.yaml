@@ -5,11 +5,11 @@ versions:
   - ladino: konsejar
 
     translations:
-        english: advise
-        french: ''
-        portuguese: ''
-        spanish: aconsejar
-        turkish: nasihat etmek
+        inglez: advise
+        fransez: ''
+        portugez: ''
+        kasteyano: aconsejar
+        turko: nasihat etmek
 
 conjugations: {}
 

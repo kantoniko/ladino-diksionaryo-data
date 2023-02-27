@@ -5,14 +5,14 @@ versions:
   - ladino: konfonder
 
     translations:
-        english:
+        inglez:
         - confuse
         - mix
         - mingle
-        french: ''
-        portuguese: ''
-        spanish: confundir
-        turkish:
+        fransez: ''
+        portugez: ''
+        kasteyano: confundir
+        turko:
         - karıştırmak
         - şaşırtmak
 

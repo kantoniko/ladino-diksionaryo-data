@@ -12,11 +12,11 @@ versions:
     number: singular
 
     translations:
-        english: wheel
-        french: ''
-        portuguese: ''
-        spanish: rueda
-        turkish: tekerlek çark
+        inglez: wheel
+        fransez: ''
+        portugez: ''
+        kasteyano: rueda
+        turko: tekerlek çark
 
 
 # "chark, chárke (m)",La bisikleta tiene dos charkes.,rueda,wheel,tekerlek çark,Izmir,2834,,

@@ -8,10 +8,10 @@ versions:
     number: singular
 
     translations:
-        english: district
-        french: quartier
-        portuguese: bairo
-        spanish: barrio
-        turkish: mahalle
+        inglez: district
+        fransez: quartier
+        portugez: bairo
+        kasteyano: barrio
+        turko: mahalle
 
 

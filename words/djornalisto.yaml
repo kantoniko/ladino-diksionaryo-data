@@ -10,12 +10,12 @@ versions:
     number: singular
 
     translations:
-      english: journalist
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: periodista
-      turkish: ''
+      inglez: journalist
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: periodista
+      turko: ''
 
   - ladino: djoranalista
 
@@ -23,12 +23,12 @@ versions:
     number: singular
 
     translations:
-      english: journalist
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: periodista
-      turkish: ''
+      inglez: journalist
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: periodista
+      turko: ''
 
   - ladino: djoranalistos
 
@@ -36,12 +36,12 @@ versions:
     number: plural
 
     translations:
-      english: journalists
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: periodistas
-      turkish: ''
+      inglez: journalists
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: periodistas
+      turko: ''
 
   - ladino: djoranalistas
 
@@ -49,12 +49,12 @@ versions:
     number: plural
 
     translations:
-      english: journalists
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: periodistas
-      turkish: ''
+      inglez: journalists
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: periodistas
+      turko: ''
 
 
 

@@ -9,10 +9,10 @@ versions:
     number: singular
 
     translations:
-        english: cotton
-        french: coton
-        portuguese: algodão
-        spanish: algodón
-        turkish: pamuk
+        inglez: cotton
+        fransez: coton
+        portugez: algodão
+        kasteyano: algodón
+        turko: pamuk
 
 

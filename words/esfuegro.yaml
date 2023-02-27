@@ -11,11 +11,11 @@ versions:
     number: singular
 
     translations:
-        english: father-in-law
-        french: ''
-        portuguese: ''
-        spanish: suegro
-        turkish:
+        inglez: father-in-law
+        fransez: ''
+        portugez: ''
+        kasteyano: suegro
+        turko:
         - kayınpeder
         - kayınvalide
 
@@ -25,11 +25,11 @@ versions:
     number: singular
 
     translations:
-        english: mother-in-law
-        french: ''
-        portuguese: ''
-        spanish: suegra
-        turkish:
+        inglez: mother-in-law
+        fransez: ''
+        portugez: ''
+        kasteyano: suegra
+        turko:
         - kayınpeder
         - kayınvalide
 
@@ -39,11 +39,11 @@ versions:
     number: plural
 
     translations:
-        english: father-in-law
-        french: ''
-        portuguese: ''
-        spanish: suegros
-        turkish:
+        inglez: father-in-law
+        fransez: ''
+        portugez: ''
+        kasteyano: suegros
+        turko:
         - kayınpeder
         - kayınvalide
 
@@ -53,11 +53,11 @@ versions:
     number: plural
 
     translations:
-        english: mother-in-law
-        french: ''
-        portuguese: ''
-        spanish: suegras
-        turkish:
+        inglez: mother-in-law
+        fransez: ''
+        portugez: ''
+        kasteyano: suegras
+        turko:
         - kayınpeder
         - kayınvalide
 

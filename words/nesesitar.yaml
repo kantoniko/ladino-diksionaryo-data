@@ -8,11 +8,11 @@ versions:
       - ladino: tener menester
 
     translations:
-        english: need
-        french: ''
-        portuguese: ''
-        spanish: necesitar
-        turkish:
+        inglez: need
+        fransez: ''
+        portugez: ''
+        kasteyano: necesitar
+        turko:
         - ihtiyacı olmak
         - gerekmek
 

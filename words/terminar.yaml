@@ -5,13 +5,13 @@ versions:
   - ladino: terminar
 
     translations:
-        english:
+        inglez:
         - terminate
         - finish
-        french: ''
-        portuguese: ''
-        spanish: terminar
-        turkish: bitirmek
+        fransez: ''
+        portugez: ''
+        kasteyano: terminar
+        turko: bitirmek
 
 conjugations: {}
 

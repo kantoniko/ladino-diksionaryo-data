@@ -9,13 +9,13 @@ versions:
 
 
     translations:
-        english:
+        inglez:
           - class
           - classroom
-        french: ''
-        portuguese: ''
-        spanish: clase
-        turkish: sınıf
+        fransez: ''
+        portugez: ''
+        kasteyano: clase
+        turko: sınıf
 
   - ladino: klasas
 
@@ -24,13 +24,13 @@ versions:
 
 
     translations:
-        english:
+        inglez:
           - classes
           - classrooms
-        french: ''
-        portuguese: ''
-        spanish: clases
-        turkish: sınıf
+        fransez: ''
+        portugez: ''
+        kasteyano: clases
+        turko: sınıf
 
 
 

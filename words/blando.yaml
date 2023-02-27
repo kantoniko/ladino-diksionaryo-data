@@ -8,12 +8,12 @@ versions:
     number: singular
 
     translations:
-      english: soft
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: blando
-      turkish: ''
+      inglez: soft
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: blando
+      turko: ''
 
   - ladino: blanda
 
@@ -21,12 +21,12 @@ versions:
     number: singular
 
     translations:
-      english: soft
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: blanda
-      turkish: ''
+      inglez: soft
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: blanda
+      turko: ''
 
   - ladino: blandos
 
@@ -34,12 +34,12 @@ versions:
     number: plural
 
     translations:
-      english: soft
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: blandos
-      turkish: ''
+      inglez: soft
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: blandos
+      turko: ''
 
   - ladino: blandas
 
@@ -47,11 +47,11 @@ versions:
     number: plural
 
     translations:
-      english: soft
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: blandas
-      turkish: ''
+      inglez: soft
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: blandas
+      turko: ''
 
 

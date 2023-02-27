@@ -11,12 +11,12 @@ versions:
     number: singular
 
     translations:
-      english: from Izmir
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: de Izmir
-      turkish: ''
+      inglez: from Izmir
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: de Izmir
+      turko: ''
 
   - ladino: izmirlis
     accented: izmirlís
@@ -25,12 +25,12 @@ versions:
     number: plural
 
     translations:
-      english: from Izmir
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: de Izmir
-      turkish: ''
+      inglez: from Izmir
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: de Izmir
+      turko: ''
 
 
 

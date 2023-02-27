@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: mad
-        french: fou
-        portuguese: ''
-        spanish: loco
-        turkish: deli
+        inglez: mad
+        fransez: fou
+        portugez: ''
+        kasteyano: loco
+        turko: deli
 
   - ladino: loka
     accented: lóka
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: mad
-        french: folle
-        portuguese: ''
-        spanish: loca
-        turkish: deli
+        inglez: mad
+        fransez: folle
+        portugez: ''
+        kasteyano: loca
+        turko: deli
 
   - ladino: lokos
     accented: lókos
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: mad
-        french: fou
-        portuguese: ''
-        spanish: locos
-        turkish: deli
+        inglez: mad
+        fransez: fou
+        portugez: ''
+        kasteyano: locos
+        turko: deli
 
   - ladino: lokas
     accented: lókas
@@ -44,9 +44,9 @@ versions:
     number: plural
 
     translations:
-        english: mad
-        french: folle
-        portuguese: ''
-        spanish: locas
-        turkish: deli
+        inglez: mad
+        fransez: folle
+        portugez: ''
+        kasteyano: locas
+        turko: deli
 

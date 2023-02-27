@@ -8,21 +8,21 @@ versions:
     accented: mása
 
     translations:
-        english: dough
-        french: ''
-        portuguese: ''
-        spanish: masa
-        turkish: hamur
+        inglez: dough
+        fransez: ''
+        portugez: ''
+        kasteyano: masa
+        turko: hamur
 
   - ladino: masas
     accented: másas
 
     translations:
-        english: dough
-        french: ''
-        portuguese: ''
-        spanish: masas
-        turkish: hamur
+        inglez: dough
+        fransez: ''
+        portugez: ''
+        kasteyano: masas
+        turko: hamur
 
 
 

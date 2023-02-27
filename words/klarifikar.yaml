@@ -5,14 +5,14 @@ versions:
   - ladino: klarifikar
 
     translations:
-      english: clarify
-      french: ''
-      hebrew: להבהיר
-      portuguese: ''
-      spanish:
+      inglez: clarify
+      fransez: ''
+      ebreo: להבהיר
+      portugez: ''
+      kasteyano:
         - aclarar
         - clarificar
-      turkish: ''
+      turko: ''
 
 conjugations: {}
 

@@ -14,12 +14,12 @@ versions:
 
 
     translations:
-      english: sandal
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sandalia
-      turkish: ''
+      inglez: sandal
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sandalia
+      turko: ''
 
   - ladino: sandales
 
@@ -27,11 +27,11 @@ versions:
     number: plural
 
     translations:
-      english: sandals
-      french: ''
-      hebrew: ''
-      portuguese: ''
-      spanish: sandalias
-      turkish: ''
+      inglez: sandals
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: sandalias
+      turko: ''
 
 

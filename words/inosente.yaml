@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: innocent
-        french: ''
-        portuguese: ''
-        spanish: inocente
-        turkish: masum
+        inglez: innocent
+        fransez: ''
+        portugez: ''
+        kasteyano: inocente
+        turko: masum
 
   - ladino: inosentes
 
@@ -20,11 +20,11 @@ versions:
     number: plural
 
     translations:
-        english: innocent
-        french: ''
-        portuguese: ''
-        spanish: inocentes
-        turkish: masum
+        inglez: innocent
+        fransez: ''
+        portugez: ''
+        kasteyano: inocentes
+        turko: masum
 
 
 

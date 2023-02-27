@@ -11,9 +11,9 @@ versions:
     number: singular
 
     translations:
-        english: milk
-        french: lait
-        portuguese: leite
-        spanish: leche
-        turkish: süt
+        inglez: milk
+        fransez: lait
+        portugez: leite
+        kasteyano: leche
+        turko: süt
 

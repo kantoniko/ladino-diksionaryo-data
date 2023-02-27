@@ -5,16 +5,16 @@ versions:
   - ladino: kitar
 
     translations:
-        english:
+        inglez:
         - take out
         - remove
         - extract
-        french: ''
-        portuguese: ''
-        spanish:
+        fransez: ''
+        portugez: ''
+        kasteyano:
           - quitar
           - sacar
-        turkish: çıkarmak
+        turko: çıkarmak
 
 conjugations: {}
 

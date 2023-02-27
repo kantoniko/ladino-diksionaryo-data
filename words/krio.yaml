@@ -8,11 +8,11 @@ versions:
     number: singular
 
     translations:
-        english: young child
-        french: ''
-        portuguese: ''
-        spanish: crío
-        turkish: küçük çocuk
+        inglez: young child
+        fransez: ''
+        portugez: ''
+        kasteyano: crío
+        turko: küçük çocuk
 
   - ladino: kria
 
@@ -20,11 +20,11 @@ versions:
     number: singular
 
     translations:
-        english: young child
-        french: ''
-        portuguese: ''
-        spanish: cría
-        turkish: küçük çocuk
+        inglez: young child
+        fransez: ''
+        portugez: ''
+        kasteyano: cría
+        turko: küçük çocuk
 
   - ladino: krios
 
@@ -32,11 +32,11 @@ versions:
     number: plural
 
     translations:
-        english: young children
-        french: ''
-        portuguese: ''
-        spanish: críos
-        turkish: küçük çocuk
+        inglez: young children
+        fransez: ''
+        portugez: ''
+        kasteyano: críos
+        turko: küçük çocuk
 
   - ladino: krias
 
@@ -44,11 +44,11 @@ versions:
     number: plural
 
     translations:
-        english: young children
-        french: ''
-        portuguese: ''
-        spanish: crías
-        turkish: küçük çocuk
+        inglez: young children
+        fransez: ''
+        portugez: ''
+        kasteyano: crías
+        turko: küçük çocuk
 
 
 

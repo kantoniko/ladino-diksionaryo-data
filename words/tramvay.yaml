@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: streetcar
-        french: ''
-        portuguese: ''
-        spanish: tranvía
-        turkish: tramvay
+        inglez: streetcar
+        fransez: ''
+        portugez: ''
+        kasteyano: tranvía
+        turko: tramvay
 
   - ladino: tramvayes
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: streetcars
-        french: ''
-        portuguese: ''
-        spanish: tranvías
-        turkish: tramvay
+        inglez: streetcars
+        fransez: ''
+        portugez: ''
+        kasteyano: tranvías
+        turko: tramvay
 
 
 

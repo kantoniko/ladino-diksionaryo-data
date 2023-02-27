@@ -10,11 +10,11 @@ versions:
     number: singular
 
     translations:
-        english: salad
-        french: ''
-        portuguese: ''
-        spanish: ensalada
-        turkish: salata
+        inglez: salad
+        fransez: ''
+        portugez: ''
+        kasteyano: ensalada
+        turko: salata
 
   - ladino: salatas
 
@@ -22,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        english: salads
-        french: ''
-        portuguese: ''
-        spanish: ensaladas
-        turkish: salata
+        inglez: salads
+        fransez: ''
+        portugez: ''
+        kasteyano: ensaladas
+        turko: salata
 
 
 
