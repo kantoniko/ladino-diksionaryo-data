@@ -11,7 +11,7 @@ versions:
     translations:
         english: address
         french: adresse
-        portuguese: ''
+        portuguese: endereço
         spanish: dirección
         turkish: adres
 
@@ -24,7 +24,7 @@ versions:
     translations:
         english: addresses
         french: adresse
-        portuguese: ''
+        portuguese: endereços
         spanish: direcciónes
         turkish: adres
 
