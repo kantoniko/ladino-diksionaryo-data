@@ -11,7 +11,9 @@ versions:
     translations:
         english: gratitude
         french: ''
-        portuguese: ''
+        portuguese: 
+           - agradecimento
+           - gratidão
         spanish: agradecimiento
         turkish: şükran
 
