@@ -13,7 +13,9 @@ versions:
           - downwards
           - below
         french: ''
-        portuguese: ''
+        portuguese: 
+          - abaixo
+          - embaixo
         spanish: abajo
         turkish:
           - aşağı
