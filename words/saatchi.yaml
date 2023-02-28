@@ -1,0 +1,20 @@
+grammar: noun
+orijen: Ladinadores
+linguas:
+  - turko
+
+versions:
+  - ladino: saatchi
+    accented: saatchí
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: clockmaker
+      fransez: ''
+      ebreo: שען
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

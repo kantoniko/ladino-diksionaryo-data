@@ -1,0 +1,20 @@
+grammar: noun
+orijen: Ladinadores
+linguas:
+  - turko
+
+versions:
+  - ladino: saraf
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - חלפן
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

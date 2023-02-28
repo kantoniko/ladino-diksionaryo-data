@@ -1,0 +1,17 @@
+grammar: adjective
+orijen: Ladinokomunita
+
+versions:
+  - ladino: agradesiente
+
+    gender: both
+    number: singular
+
+    translations:
+      inglez: thankful
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

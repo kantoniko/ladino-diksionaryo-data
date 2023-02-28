@@ -1,0 +1,40 @@
+grammar: adjective
+orijen: Ladinokomunita
+
+versions:
+  - ladino: agradavle
+
+    gender: both
+    number: singular
+
+    translations:
+      inglez:
+        - pleasant
+        - courteous
+        - kind
+      fransez: ''
+      ebreo:
+        - נעים
+        - אדיב
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: agradavles
+
+    gender: both
+    number: plural
+
+    translations:
+      inglez:
+        - pleasant
+        - courteous
+        - kind
+      fransez: ''
+      ebreo:
+        - נעים
+        - אדיבים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

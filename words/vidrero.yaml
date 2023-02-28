@@ -1,0 +1,21 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: vidrero
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - זגג
+        - מוכר כלי זכוכית
+        - יצרן זכוכית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

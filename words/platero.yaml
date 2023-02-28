@@ -1,0 +1,17 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: platero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: jeweler
+      fransez: ''
+      ebreo: צורף
+      portugez: ''
+      kasteyano: joyero
+      turko: ''
+
