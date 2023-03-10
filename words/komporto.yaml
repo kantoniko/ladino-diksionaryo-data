@@ -1,0 +1,18 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: komporto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - התנהגות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

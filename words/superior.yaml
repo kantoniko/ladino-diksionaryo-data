@@ -1,0 +1,21 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: superior
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - עליון
+        - הגבוה ביותר
+        - בכיר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

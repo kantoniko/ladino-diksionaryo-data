@@ -1,0 +1,23 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: kariera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - career
+        - profession
+        - occupation
+      fransez: ''
+      ebreo:
+        - קריירה
+        - מקצוע
+        - משלח יד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

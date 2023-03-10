@@ -4,6 +4,10 @@ orijen: Jeneral
 versions:
   - ladino: nasyon
 
+    alternative-spelling:
+      - ladino: nasion
+        accented: nasión
+
     gender: feminine
     number: singular
 
@@ -18,8 +22,12 @@ versions:
 
   - ladino: nasyones
 
+    alternative-spelling:
+      - ladino: nasiones
+
     gender: feminine
     number: plural
+
 
     translations:
         inglez: nations

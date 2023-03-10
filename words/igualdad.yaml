@@ -1,0 +1,17 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: igualdad
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: equality
+      fransez: ''
+      ebreo: שוויון
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

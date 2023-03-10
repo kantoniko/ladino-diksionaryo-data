@@ -1,0 +1,33 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: trokamiento
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: change
+      fransez: ''
+      ebreo:
+        - שינוי
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: trokamientos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: changes
+      fransez: ''
+      ebreo:
+        - שינוים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

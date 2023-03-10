@@ -1,0 +1,21 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: gerrero
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: gerreero
+
+
+    translations:
+      inglez: fighter
+      fransez: ''
+      ebreo: לוחם
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

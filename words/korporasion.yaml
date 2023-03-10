@@ -1,0 +1,36 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: korporasion
+    accented: korporasión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: corporation
+      fransez: ''
+      ebreo:
+        - קורפורציה
+        - איגוד מקצועי
+        - תאגיד
+      portugez: ''
+      kasteyano: corporación
+      turko: ''
+
+  - ladino: korporasiones
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: corporations
+      fransez: ''
+      ebreo:
+        - תאגידים
+      portugez: ''
+      kasteyano: corporaciones
+      turko: ''
+
+

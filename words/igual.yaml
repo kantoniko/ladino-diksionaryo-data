@@ -4,6 +4,10 @@ orijen: Jeneral
 versions:
   - ladino: igual
 
+    gender: both
+    number: singular
+
+
     translations:
         inglez:
         - equal
@@ -14,5 +18,35 @@ versions:
         turko:
         - gibi
         - eşit
+
+  - ladino: iguales
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+        inglez:
+        - equal
+        - same
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
+
+  - ladino: igualas
+
+    gender: feminine
+    number: plural
+
+
+    translations:
+        inglez:
+        - equal
+        - same
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 

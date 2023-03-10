@@ -1,5 +1,6 @@
 grammar: NA
 orijen: Jeneral
+
 versions:
   - ladino: derecho
     accented: derécho
@@ -18,4 +19,18 @@ versions:
         - hak
         - yetki
         - doğru
+
+  - ladino: derechos
+    accented: deréchos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez:
+        - rights
+        fransez: ''
+        portugez: ''
+        kasteyano: derechos
+        turko: ''
 

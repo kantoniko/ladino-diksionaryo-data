@@ -1,0 +1,17 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: innovasion
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: innovation
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: innovación
+      turko: ''
+

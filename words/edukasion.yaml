@@ -5,6 +5,10 @@ versions:
   - ladino: edukasion
     accented: edukasión
 
+    alternative-spelling:
+      - ladino: edukasyon
+        accented: edukasyón
+
     gender: feminine
     number: singular
 

@@ -32,6 +32,8 @@ versions:
     alternative-spelling:
       - ladino: paezes
         accented: paézes
+      - ladino: paizes
+        accented: paízes
 
     gender: masculine
     number: plural

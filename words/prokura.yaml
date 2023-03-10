@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: prokura
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - יפוי כח
+        - הרשאה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
