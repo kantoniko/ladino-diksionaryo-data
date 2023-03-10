@@ -15,6 +15,9 @@ versions:
         - boy
         - son
         fransez: fils
+        ebreo:
+        - ילד
+        - בן
         portugez: filho
         kasteyano: hijo
         turko: oğul
