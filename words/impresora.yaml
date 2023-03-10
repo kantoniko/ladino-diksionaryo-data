@@ -1,0 +1,18 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: impresora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: printer
+      fransez: ''
+      ebreo: מדפסת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+# conjugations: {}

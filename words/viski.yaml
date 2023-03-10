@@ -1,0 +1,25 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - bevidas
+linguas:
+  - ebreo
+
+versions:
+  - ladino: viski
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: guiski
+
+
+    translations:
+      inglez: whiskey
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: whisky
+      turko: ''
+

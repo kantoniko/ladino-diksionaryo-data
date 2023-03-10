@@ -1,0 +1,19 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: anekso
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - annex
+        - attachment
+      fransez: ''
+      ebreo: נספח
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

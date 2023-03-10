@@ -1,0 +1,17 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: eskaner
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: scanner
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

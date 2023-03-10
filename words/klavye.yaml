@@ -1,0 +1,18 @@
+grammar: noun
+orijen: Ladinadores
+
+versions:
+  - ladino: klavye
+    accented: klavyé
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: keyboard
+      fransez: ''
+      ebreo: מקלדת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
