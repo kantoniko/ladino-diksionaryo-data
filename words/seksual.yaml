@@ -1,0 +1,17 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: seksual
+
+    gender: both
+    number: singular
+
+    translations:
+      inglez: sexual
+      fransez: ''
+      ebreo: מיני
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

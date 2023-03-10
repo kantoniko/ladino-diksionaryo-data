@@ -4,6 +4,9 @@ orijen: Ladinokomunita
 versions:
   - ladino: violensia
 
+    alternative-spelling:
+      - ladino: violansia
+
     gender: feminine
     number: singular
 

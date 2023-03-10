@@ -18,7 +18,7 @@ versions:
         - konu
         - mevzu
 
-  - ladino: tema
+  - ladino: temas
 
     gender: masculine
     number: plural

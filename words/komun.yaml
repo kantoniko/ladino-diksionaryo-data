@@ -4,6 +4,25 @@ orijen: Jeneral
 versions:
   - ladino: komun
 
+    gender: both
+    number: singular
+
+
+    translations:
+        inglez: common
+        fransez: ''
+        portugez: ''
+        kasteyano: común
+        turko:
+        - ortak
+        - müşterek
+        - alelade
+
+  - ladino: komunes
+
+    gender: both
+    number: plural
+
     translations:
         inglez: common
         fransez: ''

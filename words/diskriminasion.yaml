@@ -1,0 +1,41 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: diskriminasion
+    accented: diskriminasión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - discrimination
+        - distinction
+      fransez: ''
+      ebreo:
+        - הפליה
+        - הבחנה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: diskriminasiones
+    accented: diskriminasiónes
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - discriminations
+        - distinctions
+      fransez: ''
+      ebreo:
+        - הפליות
+        - הבחנות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

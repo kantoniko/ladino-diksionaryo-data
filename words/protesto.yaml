@@ -1,0 +1,19 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: protesto
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez: protest
+      fransez: ''
+      ebreo:
+        - מחאה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

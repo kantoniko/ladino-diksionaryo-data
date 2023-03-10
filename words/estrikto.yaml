@@ -1,0 +1,64 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: estrikto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: strict
+      fransez: ''
+      ebreo:
+        - קפדני
+        - מחמיר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: estrikta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: strict
+      fransez: ''
+      ebreo:
+        - קפדנית
+        - מחמירה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: estriktos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: strict
+      fransez: ''
+      ebreo:
+        - קפדנים
+        - מחמירים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: estriktas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: strict
+      fransez: ''
+      ebreo:
+        - קפדניות
+        - מחמירות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,0 +1,20 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: populasion
+    accented: populasión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: population
+      fransez: ''
+      ebreo:
+        - אוכלוסיה
+        - תושבים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
