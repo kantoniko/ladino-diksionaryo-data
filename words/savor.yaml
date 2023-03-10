@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: taste
-        fransez: ''
+        ebreo: טעם
+        fransez: gout
         portugez: ''
         kasteyano: sabor
         turko: tad
@@ -21,7 +22,8 @@ versions:
 
     translations:
         inglez: tastes
-        fransez: ''
+        ebreo: טעמים
+        fransez: gouts
         portugez: ''
         kasteyano: sabores
         turko: tad
