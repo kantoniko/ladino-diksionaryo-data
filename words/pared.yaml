@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: wall
-        fransez: ''
+        fransez: mur
+        ebreo: קיר
         portugez: ''
         kasteyano: pared
         turko: duvar
@@ -21,7 +22,8 @@ versions:
 
     translations:
         inglez: walls
-        fransez: ''
+        fransez: murs
+        ebreo: קירות
         portugez: ''
         kasteyano: paredes
         turko: duvar
