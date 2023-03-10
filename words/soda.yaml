@@ -1,0 +1,20 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - bevidas
+
+versions:
+  - ladino: soda
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: soda
+      fransez: ''
+      ebreo:
+        - סודה
+        - מים מוגזים
+      portugez: ''
+      kasteyano: ''
+      turko: ''

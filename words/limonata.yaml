@@ -1,0 +1,23 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - bevidas
+
+versions:
+  - ladino: limonata
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: limonada
+
+
+    translations:
+      inglez: lemonade
+      fransez: ''
+      ebreo: לימונדה
+      portugez: ''
+      kasteyano: limonada
+      turko: ''
+

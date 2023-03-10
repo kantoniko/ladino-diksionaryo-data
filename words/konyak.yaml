@@ -1,0 +1,21 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - bevidas
+linguas:
+  - fransez
+
+versions:
+  - ladino: konyak
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: cognac
+      fransez: ''
+      ebreo: קוניאק
+      portugez: ''
+      kasteyano: coñac
+      turko: ''
+

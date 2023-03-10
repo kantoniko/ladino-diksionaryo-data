@@ -1,0 +1,20 @@
+grammar: noun
+orijen: Ladinadores
+kategorias:
+  - bevidas
+  - komidas
+
+versions:
+  - ladino: chikolata
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: chocolate
+      fransez: ''
+      ebreo: שוקולד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
