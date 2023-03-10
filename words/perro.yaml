@@ -12,7 +12,8 @@ versions:
 
     translations:
         inglez: dog
-        fransez: ''
+        fransez: chien
+        ebreo: כלב
         portugez: ''
         kasteyano: perro
         turko: köpek
@@ -24,7 +25,8 @@ versions:
 
     translations:
         inglez: dogs
-        fransez: ''
+        ebreo: כלבים
+        fransez: chiens
         portugez: ''
         kasteyano: perros
         turko: köpek
