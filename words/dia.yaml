@@ -12,7 +12,8 @@ versions:
 
     translations:
         inglez: day
-        fransez: ''
+        ebreo: יום
+        fransez: jour
         portugez: ''
         kasteyano: día
         turko: gün
@@ -27,7 +28,8 @@ versions:
 
     translations:
         inglez: days
-        fransez: ''
+        ebreo: ימים
+        fransez: jours
         portugez: ''
         kasteyano: días
         turko: gün
