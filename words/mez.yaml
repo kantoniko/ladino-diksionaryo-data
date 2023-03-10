@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: month
-        fransez: ''
+        fransez: mois
+        ebreo: חודש
         portugez: ''
         kasteyano: mes
         turko: ay
@@ -21,7 +22,8 @@ versions:
 
     translations:
         inglez: months
-        fransez: ''
+        fransez: mois
+        ebreo: חודשים
         portugez: ''
         kasteyano: meses
         turko: ay
