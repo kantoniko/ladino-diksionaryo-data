@@ -12,7 +12,10 @@ versions:
 
     translations:
         inglez: short
-        fransez: ''
+        ebreo: 
+          - קצר
+          - נמוך
+        fransez: courte
         portugez: ''
         kasteyano:
         - corto
