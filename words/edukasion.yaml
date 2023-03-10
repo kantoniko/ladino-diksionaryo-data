@@ -1,0 +1,19 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: edukasion
+    accented: edukasión
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez: education
+      fransez: ''
+      ebreo: חינוך
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

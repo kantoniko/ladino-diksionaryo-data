@@ -1,0 +1,21 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: progreso
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez: progress
+      fransez: ''
+      ebreo:
+        - התקדמות
+        - התפתחות
+        - קידמה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

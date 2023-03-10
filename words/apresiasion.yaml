@@ -1,0 +1,23 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: apresiasion
+    accented: apresiasión
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez:
+        - appreciation
+        - respect
+      fransez: ''
+      ebreo:
+        - הערכה
+        - כבוד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
