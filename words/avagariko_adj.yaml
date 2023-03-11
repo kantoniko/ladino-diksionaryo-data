@@ -1,17 +1,13 @@
-grammar: adverb
+grammar: adjective
 orijen: Jeneral
-kategorias:
-  - diminutivos
 
 versions:
   - ladino: avagariko
 
-    diminutivo-de: avagar
-
     translations:
-        inglez: slowly
+        inglez: slow
         fransez: ''
-        ebreo: לאט
+        ebreo: אטי
         portugez: ''
         kasteyano: ''
         turko: ''
