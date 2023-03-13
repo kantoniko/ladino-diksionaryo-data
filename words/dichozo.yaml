@@ -1,0 +1,23 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: dichozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - lucky
+        - happy
+      fransez: ''
+      ebreo:
+        - בעל מזל
+        - בר מזל
+        - מאושר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+# conjugations: {}

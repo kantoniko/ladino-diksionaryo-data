@@ -1,0 +1,44 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: dicho
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - article
+        - statement
+        - report
+        - saying
+      fransez: ''
+      ebreo:
+        - מאמר
+        - אמירה
+        - פקודה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: dichos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - articles
+        - statements
+        - reports
+        - sayings
+      fransez: ''
+      ebreo:
+        - מאמרים
+        - אמירות
+        - פקודות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

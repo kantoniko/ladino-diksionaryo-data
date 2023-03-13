@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: gayina
+    accented: gayína
 
     gender: feminine
     number: singular
@@ -17,6 +18,7 @@ versions:
         turko: tavuk
 
   - ladino: gayinas
+    accented: gayínas
 
     gender: feminine
     number: plural
