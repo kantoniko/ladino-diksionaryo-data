@@ -1,0 +1,23 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: aflijido
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez:
+        - sorrowful
+        - melancholic
+        - bleak
+        - hurting
+      fransez: ''
+      ebreo:
+        - עגום
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

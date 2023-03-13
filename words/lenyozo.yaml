@@ -1,0 +1,17 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: lenyozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:  wooden
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

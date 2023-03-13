@@ -1,0 +1,19 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: ventura
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: luck
+      fransez: ''
+      ebreo:
+        - מזל
+        - אושר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -4,6 +4,10 @@ orijen: Jeneral
 versions:
   - ladino: proverbio
 
+    alternative-spelling:
+      - ladino: proverbyo
+      - ladino: proverbo
+
     gender: masculine
     number: singular
 
@@ -15,6 +19,11 @@ versions:
         turko: atasözü
 
   - ladino: proverbios
+
+    alternative-spelling:
+      - ladino: proverbyos
+      - ladino: proverbos
+
 
     gender: masculine
     number: plural

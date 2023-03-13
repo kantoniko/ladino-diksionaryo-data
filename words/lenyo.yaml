@@ -1,0 +1,18 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: lenyo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: wood
+      fransez: ''
+      ebreo:
+        - בול עץ
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
