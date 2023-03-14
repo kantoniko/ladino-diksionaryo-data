@@ -1,0 +1,18 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: naval
+
+    gender: both
+    number: singular
+
+    translations:
+      inglez: naval
+      fransez: ''
+      ebreo:
+        - ימי
+      portugez: ''
+      kasteyano: naval
+      turko: ''
+

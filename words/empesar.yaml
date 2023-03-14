@@ -14,9 +14,29 @@ versions:
 conjugations:
   prezente:
     yo:
-      ladino: empeso
+      ladino: empéso
       translations:
         inglez: start
+    tu:
+      ladino: empésas
+      translations:
+        inglez: ''
+    el:
+      ladino: empésa
+      translations:
+        inglez: ''
+    mozotros:
+      ladino: empesámos
+      translations:
+        inglez: ''
+    vozotros:
+      ladino: empesásh
+      translations:
+        inglez: ''
+    eyos:
+      ladino: empésan
+      translations:
+        inglez: ''
 
   pasado:
     yo:

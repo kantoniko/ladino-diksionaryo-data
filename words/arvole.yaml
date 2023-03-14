@@ -17,7 +17,22 @@ versions:
     translations:
         inglez: tree
         fransez: ''
+        hebrew: עץ
         portugez: ''
         kasteyano: árbol
         turko: ağaçlar
+
+  - ladino: arvoles
+    accented: arvolés
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: trees
+        fransez: ''
+        hebrew: עצים
+        portugez: ''
+        kasteyano: árboles
+        turko: ''
 
