@@ -1,9 +1,9 @@
-- ladino: '"Blankusho" era akeya kreatura (persona) ke nasiya kon los kaveyos i los  parparos blankos.'
-  inglez: '"Albino" was that baby (person) who was born with white hair and eyelids.'
-  kasteyano: '"Albino" era aquella creatura (persona) que nacía con cabellos y párpados blancos.'
-  words:
-    - blankusho
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: blankusho-era-akeya-kreatura.ogg
+ladino: '"Blankusho" era akeya kreatura (persona) ke nasiya kon los kaveyos i los  parparos blankos.'
+inglez: '"Albino" was that baby (person) who was born with white hair and eyelids.'
+kasteyano: '"Albino" era aquella creatura (persona) que nacía con cabellos y párpados blancos.'
+words:
+  - blankusho
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: blankusho-era-akeya-kreatura.ogg
 

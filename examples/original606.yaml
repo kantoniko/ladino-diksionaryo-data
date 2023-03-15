@@ -1,9 +1,9 @@
-- ladino: El Kasteyano es madre de la lingua muestra.
-  inglez: Castilian is the mother of our language.
-  kasteyano: El castellano es la madre de nuestra lengua.
-  words:
-    kasteyano
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: el-kasteyano-es-madre-de-la-lingua-muestra.ogg
+ladino: El Kasteyano es madre de la lingua muestra.
+inglez: Castilian is the mother of our language.
+kasteyano: El castellano es la madre de nuestra lengua.
+words:
+  kasteyano
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: el-kasteyano-es-madre-de-la-lingua-muestra.ogg
 

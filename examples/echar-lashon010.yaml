@@ -1,10 +1,10 @@
-- ladino: Kozina. El mijor lugar de la kaza es la kozina.
-  turko: Mutfak. Evin en güzel yeri mutfaktır.
-  inglez: Kitchen. The best place of the house is the kitchen.
-  kasteyano: Cocina. El mejor lugar de la casa es la cocina.
-  fransez: Cuisine. Le meilleur endroit dans la maison est la cuisine.
-  ebreo: .המקום הטוב ביותר בבית הוא המטבח. מטבח
-  audio:
-    - person: eti-ojalvo
-      arkivo: kozina-el-mijor-logar-de-la-kaza.ogg
+ladino: Kozina. El mijor lugar de la kaza es la kozina.
+turko: Mutfak. Evin en güzel yeri mutfaktır.
+inglez: Kitchen. The best place of the house is the kitchen.
+kasteyano: Cocina. El mejor lugar de la casa es la cocina.
+fransez: Cuisine. Le meilleur endroit dans la maison est la cuisine.
+ebreo: .המקום הטוב ביותר בבית הוא המטבח. מטבח
+audio:
+  - person: eti-ojalvo
+    arkivo: kozina-el-mijor-logar-de-la-kaza.ogg
 

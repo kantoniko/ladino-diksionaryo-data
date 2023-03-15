@@ -1,10 +1,10 @@
-- ladino: Para kada palavra nesesitamos un egzempio en una fraza.
-  inglez: For each word we need an example in a sentence.
-  kasteyano: Para cada palabra necesitamos un ejemplo en una frase.
+ladino: Para kada palavra nesesitamos un egzempio en una fraza.
+inglez: For each word we need an example in a sentence.
+kasteyano: Para cada palabra necesitamos un ejemplo en una frase.
 
-  words:
-    - egzempio
-  audio:
-    - person: szabgab
-      arkivo: para_kada_palavra.ogg
+words:
+  - egzempio
+audio:
+  - person: szabgab
+    arkivo: para_kada_palavra.ogg
 

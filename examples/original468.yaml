@@ -1,6 +1,6 @@
-- ladino: '...gaynas, 1300 patos, 50 pyernas de puerko, 17 kintales de karne, 700...  "GATO" por "PATO".'
-  inglez: '...hens, 1300 ducks, 50 pork legs, 17 hundredweight of meat, 700...  "CAT" for "DUCK."' 
-  kasteyano: '...gallinas, 1300 patos, 50 piernas de puerco, 17 quintales de carne, 700...  "GATO" por "PATO."'
-  words:
-    - pato
+ladino: '...gaynas, 1300 patos, 50 pyernas de puerko, 17 kintales de karne, 700...  "GATO" por "PATO".'
+inglez: '...hens, 1300 ducks, 50 pork legs, 17 hundredweight of meat, 700...  "CAT" for "DUCK."' 
+kasteyano: '...gallinas, 1300 patos, 50 piernas de puerco, 17 quintales de carne, 700...  "GATO" por "PATO."'
+words:
+  - pato
 

@@ -1,9 +1,9 @@
-- ladino: Abasho reprezentamos los sonidos del alfabeto.
-  inglez: Below we represent the sounds of the alphabet.
-  kasteyano: Abajo representamos los sonidos del alfabeto.
-  words:
-    - sonidos
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: abasho-reprezentamos-los-sonidos-del-alfabeto.ogg
+ladino: Abasho reprezentamos los sonidos del alfabeto.
+inglez: Below we represent the sounds of the alphabet.
+kasteyano: Abajo representamos los sonidos del alfabeto.
+words:
+  - sonidos
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: abasho-reprezentamos-los-sonidos-del-alfabeto.ogg
 

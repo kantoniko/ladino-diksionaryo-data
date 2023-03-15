@@ -1,9 +1,9 @@
-- ladino: '"Musandara" es la kamareta ke esta debasho del techo.'
-  inglez: '"Attic" is the room that is under the roof.'
-  kasteyano: '"Ático, buhardilla, desván" es el cuarto que está debajo del techo.'
-  words:
-    - musandara
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: musandara-es-la-kamareta.ogg
+ladino: '"Musandara" es la kamareta ke esta debasho del techo.'
+inglez: '"Attic" is the room that is under the roof.'
+kasteyano: '"Ático, buhardilla, desván" es el cuarto que está debajo del techo.'
+words:
+  - musandara
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: musandara-es-la-kamareta.ogg
 

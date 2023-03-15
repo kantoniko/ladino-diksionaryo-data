@@ -1,10 +1,10 @@
-- ladino: A las kreaturas, les plaze la chikolata.
-  inglez: Children like chocolate.
-  kasteyano: A los niños les gusta el chocolate.
-  words:
-    - plaze
-    - plazer
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: a-las-kreaturas-les-plaze-la-chikolata.ogg
+ladino: A las kreaturas, les plaze la chikolata.
+inglez: Children like chocolate.
+kasteyano: A los niños les gusta el chocolate.
+words:
+  - plaze
+  - plazer
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: a-las-kreaturas-les-plaze-la-chikolata.ogg
 

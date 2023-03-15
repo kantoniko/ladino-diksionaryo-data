@@ -1,9 +1,9 @@
-- ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
-  inglez: At eight in the morning, the church bell rings.
-  kasteyano: A las ocho de la mañana, la campana de la iglesia suena.
-  words:
-    - kampana
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: a-las-ocho-de-la-demanyana-la-kampana-de-la-eglisya-sona.ogg
+ladino: A las ocho de la demanyana, la kampana de la eglisya sona.
+inglez: At eight in the morning, the church bell rings.
+kasteyano: A las ocho de la mañana, la campana de la iglesia suena.
+words:
+  - kampana
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: a-las-ocho-de-la-demanyana-la-kampana-de-la-eglisya-sona.ogg
 

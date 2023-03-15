@@ -1,7 +1,7 @@
-- ladino: Este pan es para este kezo.
-  inglez: This bread is for this cheese.
-  words:
-    - pan
-    - kezo
-    - para
+ladino: Este pan es para este kezo.
+inglez: This bread is for this cheese.
+words:
+  - pan
+  - kezo
+  - para
 

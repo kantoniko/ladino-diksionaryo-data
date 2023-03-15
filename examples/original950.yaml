@@ -1,10 +1,10 @@
-- ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
-  inglez: '"Where the devil shaves" is a faraway place.'
-  kasteyano: '"Donde se rasura el diablo" es un un lugar muy lejos.'
-  fransez: '"Où le diable se rase" est un endroit lointain.'
-  words:
-    - guerko
-  audio:
-    - person: rachel-amado-bortnick
-      arkivo: ande-se-arrapa-el-guerko.ogg
+ladino: '"Ande se arrapa el guerko" es un lugar muy leshos.'
+inglez: '"Where the devil shaves" is a faraway place.'
+kasteyano: '"Donde se rasura el diablo" es un un lugar muy lejos.'
+fransez: '"Où le diable se rase" est un endroit lointain.'
+words:
+  - guerko
+audio:
+  - person: rachel-amado-bortnick
+    arkivo: ande-se-arrapa-el-guerko.ogg
 

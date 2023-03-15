@@ -1,10 +1,10 @@
-- ladino: Enderechar. Arvole tuerto nunka se enderecha.
-  inglez: Straighten. A crooked tree never straightens itself.
-  kasteyano: Enderezar. Árbol torcido nunca se endereza.
-  
-  words:
-    - enderechar
-  audio:
-    - person: perla-katan
-      arkivo: arvole-tuerto-nunka-se-enderecha.ogg
+ladino: Enderechar. Arvole tuerto nunka se enderecha.
+inglez: Straighten. A crooked tree never straightens itself.
+kasteyano: Enderezar. Árbol torcido nunca se endereza.
+
+words:
+  - enderechar
+audio:
+  - person: perla-katan
+    arkivo: arvole-tuerto-nunka-se-enderecha.ogg
 
