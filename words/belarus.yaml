@@ -13,7 +13,9 @@ versions:
       inglez: Belarus
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez: 
+                - Bielorrússia
+                - Belarus
       kasteyano: Bielorrusia
       turko: ''
 
