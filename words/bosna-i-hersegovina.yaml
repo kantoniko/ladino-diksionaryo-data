@@ -10,7 +10,9 @@ versions:
       inglez: Bosnia and Herzegovina
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez: 
+                - Bósnia e Herzegovina
+                - Bósnia-Herzegovina
       kasteyano: Bosnia y Herzegovina
       turko: ''
 
