@@ -4,11 +4,37 @@ orijen: Jeneral
 versions:
   - ladino: informasion
 
+    alternative-spelling:
+      - ladino: informasyon
+
+    gender: feminine
+    number: singular
+
     translations:
         inglez: information
         fransez: ''
+        ebreo:
+          - מידע
+          - הודעה
+          - פרסום
         portugez: ''
         kasteyano: información
         turko: malûmat
+
+  - ladino: informasiones
+
+    alternative-spelling:
+      - ladino: informasyones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: information
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: informaciónes
+        turko: ''
 
 

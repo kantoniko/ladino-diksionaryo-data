@@ -1,0 +1,42 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: relasion
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: relasyon
+
+
+    translations:
+      inglez: relationship
+      fransez: ''
+      ebreo:
+        - קשר
+        - יחס
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: relasiones
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: relasyones
+
+
+    translations:
+      inglez: relationships
+      fransez: ''
+      ebreo:
+        - קשרים
+        - יחסים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

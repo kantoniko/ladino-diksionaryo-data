@@ -1,0 +1,58 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: valorozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: valuable
+      fransez: ''
+      ebreo:
+        - בעל ערך
+        - יקר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: valoroza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: valuable
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: valorozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: valuable
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: valorozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: valuable
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -4,6 +4,9 @@ orijen: Jeneral
 versions:
   - ladino: venir
 
+    alternative-spelling:
+      - ladino: vinir
+
     translations:
         inglez: come
         fransez: venir

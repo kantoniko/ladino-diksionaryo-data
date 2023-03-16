@@ -11,8 +11,16 @@ versions:
         kasteyano: acabar
         turko: bitirmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: eskapo
+      translations:
+        inglez: finish
 
-# eskapi - I finished
-
+  pasado:
+    yo:
+      ladino: eskapi
+      translations:
+        inglez: finished
 

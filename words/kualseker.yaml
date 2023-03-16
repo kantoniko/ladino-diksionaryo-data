@@ -1,0 +1,19 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: kualseker
+
+    #gender: NA # masculine feminine both
+    #number: singular plural
+
+    translations:
+      inglez: whichever
+      fransez: ''
+      ebreo:
+        - כלשהו
+        - איזשהו
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -11,6 +11,12 @@ versions:
         kasteyano: saber
         turko: bilmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    el:
+      ladino: save
+      translations:
+        inglez: knows
+
 
 

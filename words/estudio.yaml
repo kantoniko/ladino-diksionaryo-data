@@ -18,3 +18,16 @@ versions:
         - öğrenme
         - araştırma
 
+  - ladino: estudios
+    accented: estúdios
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: studies
+        fransez: ''
+        portugez: ''
+        kasteyano: estudios
+        turko: ''
+

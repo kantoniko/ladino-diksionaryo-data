@@ -1,14 +1,37 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
   - ladino: situasion
 
+    alternative-spelling:
+      - ladino: situasyon
+
+    gender: feminine
+    number: singular
+
     translations:
         inglez: situation
         fransez: ''
+        ebreo:
+          - מצב
+          - סיטואציה
         portugez: ''
         kasteyano: situación
         turko: vaziyet
 
+  - ladino: situasiones
+
+    alternative-spelling:
+      - ladino: situasyones
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: situations
+        fransez: ''
+        portugez: ''
+        kasteyano: situaciónes
+        turko: ''
 

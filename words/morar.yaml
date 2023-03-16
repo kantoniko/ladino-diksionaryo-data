@@ -19,5 +19,36 @@ versions:
         - oturmak
         - ikâmet etmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: moro
+      translations:
+        inglez: live
+
+    tu:
+      ladino: moras
+      translations:
+        inglez: live
+
+    el:
+      ladino: mora
+      translations:
+        inglez: lives
+
+    mozotros:
+      ladino: moramos
+      translations:
+        inglez: live
+
+    vozotros:
+      ladino: morash
+      translations:
+        inglez: live
+
+    eyos:
+      ladino: moran
+      translations:
+        inglez: live
+
 
