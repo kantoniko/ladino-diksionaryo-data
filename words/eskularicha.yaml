@@ -8,9 +8,9 @@ versions:
     number: singular
 
     translations:
-        inglez: ''
+        inglez: earring
         fransez: ''
-        ebreo: ''
+        ebreo: עגיל
         portugez: ''
         kasteyano: ''
         turko: küpe
@@ -21,9 +21,9 @@ versions:
     number: plural
 
     translations:
-        inglez: ''
+        inglez: earrings
         fransez: ''
-        ebreo: ''
+        ebreo: עגילים
         portugez: ''
         kasteyano: ''
         turko: küpeler
