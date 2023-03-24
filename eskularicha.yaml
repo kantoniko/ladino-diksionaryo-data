@@ -1,0 +1,29 @@
+grammar: NA
+orijen: Jeneral
+
+versions:
+  - ladino: eskularicha
+
+    gender: ''
+    number: singular
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: küpe
+
+  - ladino: eskularichas
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: küpeler
