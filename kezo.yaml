@@ -1,0 +1,30 @@
+grammar: NA
+orijen: Jeneral
+
+versions:
+  - ladino: kezo
+
+    gender: ''
+    number: singular
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: peynir
+               
+
+  - ladino: kezo
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: peynirler
