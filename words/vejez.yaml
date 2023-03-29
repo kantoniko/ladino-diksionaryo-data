@@ -1,0 +1,32 @@
+grammar: NA
+orijen: Jeneral
+
+versions:
+  - ladino: 
+
+    gender: ''
+    number: singular
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ihtiyarlık
+               yaşlılık
+               
+
+  - ladino: tinta
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ihtiyarlıklar
+               yaşlılıklar
