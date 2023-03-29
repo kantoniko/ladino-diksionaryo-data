@@ -1,0 +1,30 @@
+grammar: NA
+orijen: Jeneral
+
+versions:
+  - ladino: toser
+
+    gender: ''
+    number: singular
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: öksürmek
+              
+
+  - ladino: 
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: öksürmeler
