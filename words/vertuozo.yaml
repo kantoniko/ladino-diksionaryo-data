@@ -1,0 +1,66 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: vertuozo
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez:
+        - upright
+        - moral
+      fransez: ''
+      ebreo: בעל יושרה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: vertuoza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - upright
+        - moral
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: vertuozos
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      inglez:
+        - upright
+        - moral
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: vertuozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - upright
+        - moral
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

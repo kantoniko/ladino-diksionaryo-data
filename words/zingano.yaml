@@ -1,0 +1,62 @@
+grammar: NA
+orijen: NA
+linguas:
+  - turko
+
+versions:
+  - ladino: zingano
+    accented: zíngano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: gipsy
+      fransez: ''
+      ebreo: צועני
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: zingana
+    accented: zíngana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: gipsy
+      fransez: ''
+      ebreo: צועניה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: zinganos
+    accented: zínganos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: gipsies
+      fransez: ''
+      ebreo: צוענים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: zingana
+    accented: zíngana
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: gipsies
+      fransez: ''
+      ebreo: צועניות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

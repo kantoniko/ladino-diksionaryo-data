@@ -4,6 +4,7 @@ orijen: Estanbol
 versions:
   - ladino: zerzevat
     accented: zerzevát
+
     gender: masculine
     number: singular
 
@@ -23,5 +24,20 @@ versions:
         turko:
           - sebze
           - zerzevat
+
+  - ladino: zerzevates
+    accented: zerzevátes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: vegetables
+        fransez: légume
+        portugez: ''
+        kasteyano:
+          - verduras
+          - legumbres
+        turko: ''
 
 

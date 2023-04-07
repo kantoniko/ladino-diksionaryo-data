@@ -1,0 +1,20 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: vibrante
+
+    #gender: NA # masculine feminine both
+    #number: singular plural
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - רועד
+        - רוטט
+        - מרגש
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

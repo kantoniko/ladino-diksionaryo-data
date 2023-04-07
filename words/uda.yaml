@@ -1,0 +1,21 @@
+grammar: noun
+orijen: NA
+linguas:
+  - turko
+
+versions:
+  - ladino: uda
+    accented: udá
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez: room
+      fransez: ''
+      ebreo: חדר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
