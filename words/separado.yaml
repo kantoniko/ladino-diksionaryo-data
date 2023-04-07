@@ -1,0 +1,64 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: separado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: separated
+      fransez: ''
+      ebreo:
+        - נפרד
+        - מנותק
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: separada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: separated
+      fransez: ''
+      ebreo:
+        - נפרדת
+        - מנותקת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: separados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: separated
+      fransez: ''
+      ebreo:
+        - נפרדים
+        - מנותקים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: separadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: separated
+      fransez: ''
+      ebreo:
+        - נפרדות
+        - מנותקות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

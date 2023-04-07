@@ -1,0 +1,62 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: selozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: jealous
+      fransez: ''
+      ebreo:
+        - מקנא
+        - קנאי
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: seloza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: jealous
+      fransez: ''
+      ebreo:
+        - קנאית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: selozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: jealous
+      fransez: ''
+      ebreo:
+        - קנאים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: selozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: jealous
+      fransez: ''
+      ebreo:
+        - קנאיות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

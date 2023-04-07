@@ -1,0 +1,60 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: sano
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: healthy
+      fransez: ''
+      ebreo:
+        - בריא
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sana
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: healthy
+      fransez: ''
+      ebreo:
+        - בריאה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sanos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: healthy
+      fransez: ''
+      ebreo:
+        - בריאים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sanas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: healthy
+      fransez: ''
+      ebreo:
+        - בריאות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
