@@ -4,7 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: toser
 
-    gender: ''
+    gender: masculine
     number: singular
 
     translations:
@@ -14,11 +14,11 @@ versions:
         portugez: ''
         kasteyano: ''
         turko: öksürmek
-              
 
-  - ladino: 
 
-    gender: ''
+  - ladino: toseres
+
+    gender: masculine
     number: plural
 
     translations:

@@ -2,31 +2,18 @@ grammar: NA
 orijen: Jeneral
 
 versions:
-  - ladino: 
+  - ladino: vejez
 
     gender: ''
     number: singular
 
     translations:
-        inglez: ''
+        inglez: old age
         fransez: ''
         ebreo: ''
         portugez: ''
         kasteyano: ''
-        turko: ihtiyarlık
-               yaşlılık
-               
+        turko:
+          - ihtiyarlık
+          - yaşlılık
 
-  - ladino: tinta
-
-    gender: ''
-    number: plural
-
-    translations:
-        inglez: ''
-        fransez: ''
-        ebreo: ''
-        portugez: ''
-        kasteyano: ''
-        turko: ihtiyarlıklar
-               yaşlılıklar
