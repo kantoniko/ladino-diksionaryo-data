@@ -11,7 +11,22 @@ versions:
     translations:
         inglez: food
         fransez: ''
+        ebreo: מזון
         portugez: ''
         kasteyano: alimento
         turko: besin
+
+  - ladino: alimentos
+    accented: aliméntos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: food
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: alimentos
+        turko: ''
 

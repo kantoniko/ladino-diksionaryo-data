@@ -19,3 +19,18 @@ versions:
           - pazar
           - Pazar günü
 
+  - ladino: alhades
+    accented: alhádes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: Sundays
+        fransez: ''
+        ebreo:
+          - ימי ראשון
+        portugez: ''
+        kasteyano: domingos
+        turko: ''
+

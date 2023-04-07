@@ -1,0 +1,39 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: altura
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - height
+        - altitude
+      fransez: ''
+      ebreo:
+        - גובה
+        - גבעה
+        - תל
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: alturas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - heights
+        - altitudes
+        - hill
+        - mound
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

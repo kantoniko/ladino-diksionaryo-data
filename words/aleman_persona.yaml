@@ -1,0 +1,60 @@
+grammar: noun
+orijen: Jeneral
+
+versions:
+  - ladino: aleman
+    accented: alemán
+
+    gender: masculine
+    number: singular
+
+    translations:
+        inglez: German
+        fransez: ''
+        ebreo: גרמני
+        portugez: ''
+        kasteyano: alemán
+        turko: ''
+
+  - ladino: alemana
+    accented: alemána
+
+    gender: feminine
+    number: singular
+
+    translations:
+        inglez: German
+        fransez: ''
+        ebreo: גרמנית
+        portugez: ''
+        kasteyano: alemána
+        turko: ''
+
+  - ladino: alemanes
+    accented: alemánes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: Germans
+        fransez: ''
+        ebreo: גרמנים
+        portugez: ''
+        kasteyano: alemánes
+        turko: ''
+
+  - ladino: alemanas
+    accented: alemánas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: Germans
+        fransez: ''
+        ebreo: גרמניות
+        portugez: ''
+        kasteyano: alemánas
+        turko: ''
+

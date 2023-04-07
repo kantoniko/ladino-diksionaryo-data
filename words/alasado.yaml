@@ -1,0 +1,20 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: alasado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - tired
+        - exhausted
+      fransez: ''
+      ebreo:
+        - עייף
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -5,15 +5,42 @@ versions:
   - ladino: aniversario
     accented: aniversário
 
+    alternative-spelling:
+      - ladino: aniversaryo
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: birthday
+        inglez:
+          - birthday
+          - anniversary
         fransez: ''
+        ebreo:
+          יום השנה
         portugez: ''
         kasteyano:
         - aniversario
         - cumpleaños
         turko: doğum günü
+
+  - ladino: aniversarios
+    accented: aniversários
+
+    alternative-spelling:
+      - ladino: aniversaryos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez:
+          - birthdays
+          - anniversaries
+        fransez: ''
+        portugez: ''
+        kasteyano:
+        - aniversarios
+        - cumpleaños
+        turko: ''
 

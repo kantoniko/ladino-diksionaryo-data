@@ -17,3 +17,18 @@ versions:
         - araña (de luces)
         turko: avize
 
+  - ladino: almenaras
+    accented: almenáras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: chandelieres
+        fransez: ''
+        portugez: ''
+        kasteyano:
+        - lámparas
+        - arañas
+        turko: ''
+

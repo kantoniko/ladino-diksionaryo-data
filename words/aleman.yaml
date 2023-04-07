@@ -11,8 +11,8 @@ versions:
     number: singular
 
     alternative-spelling:
-    -   accented: almán
-        ladino: alman
+      - ladino: alman
+        accented: almán
 
     translations:
         inglez: German
@@ -23,4 +23,5 @@ versions:
         turko:
         - Alman
         - almanca
+
 
