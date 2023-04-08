@@ -1,0 +1,36 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: subtitulo
+    accented: subtítulo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: subtitle
+      fransez: ''
+      ebreo:
+        - כותרת משנה
+        - כתובית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: subtitulos
+    accented: subtítulos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: subtitles
+      fransez: ''
+      ebreo:
+        - כותרות משנה
+        - כתוביות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
