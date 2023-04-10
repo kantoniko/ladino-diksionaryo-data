@@ -15,6 +15,7 @@ versions:
         portugez: ''
         kasteyano: silla
         turko: sandalye
+               iskemle
 
   - ladino: siyas
 
@@ -26,7 +27,8 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: sillas
-        turko: sandalye
+        turko: sandalyeler
+               iskemleler
 
 
 
