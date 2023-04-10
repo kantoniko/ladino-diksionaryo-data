@@ -12,7 +12,9 @@ versions:
         - mist
         - fog
         fransez: ''
-        portugez: ''
+        portugez:
+        - neblina
+        - bruma
         kasteyano: niebla
         turko:
         - sis
