@@ -17,7 +17,7 @@ versions:
         portugez:
         - idoso
         kasteyano: anciano
-        turko: yaşlı
+        turko: yaşlı erkek
 
   - ladino: aedada
     accented: aedáda
@@ -34,7 +34,7 @@ versions:
         portugez:
         - idosa
         kasteyano: anciana
-        turko: yaşlı
+        turko: yaşlı kadın
 
   - ladino: aedados
     accented: aedádos
@@ -51,7 +51,7 @@ versions:
         portugez:
         - idosos
         kasteyano: ancianos
-        turko: yaşlı
+        turko: yaşlı erkekler
 
   - ladino: aedadas
     accented: aedádas
@@ -68,5 +68,5 @@ versions:
         portugez:
         - idosas
         kasteyano: ancianas
-        turko: yaşlı
+        turko: yaşlı kadınlar
 
