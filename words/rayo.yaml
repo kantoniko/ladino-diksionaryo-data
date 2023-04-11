@@ -15,7 +15,9 @@ versions:
     translations:
         inglez: lightning
         fransez: ''
-        portugez: ''
+        portugez:
+        - raio
+        - relâmpago
         kasteyano: rayo
         turko: şimşek
 
@@ -27,7 +29,9 @@ versions:
     translations:
         inglez: lightnings
         fransez: ''
-        portugez: ''
+        portugez:
+        - raios
+        - relâmpagos
         kasteyano: rayos
         turko: şimşek
 
