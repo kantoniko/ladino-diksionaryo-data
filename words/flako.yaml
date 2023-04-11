@@ -18,8 +18,8 @@ versions:
         - delgado
         - débil
         turko:
-        - zayıf
-        - kuvvetsiz
+        - zayıf (erkek)
+        - kuvvetsiz (erkek)
 
   - ladino: flaka
     accented: fláka
@@ -37,8 +37,8 @@ versions:
         - delgada
         - débil
         turko:
-        - zayıf
-        - kuvvetsiz
+        - zayıf (kadın)
+        - kuvvetsiz (kadın)
 
   - ladino: flakos
     accented: flákos
@@ -56,8 +56,8 @@ versions:
         - delgados
         - débil
         turko:
-        - zayıf
-        - kuvvetsiz
+        - zayıflar (erkek)
+        - kuvvetsizler (erkek)
 
   - ladino: flakas
     accented: flákas
@@ -75,6 +75,6 @@ versions:
         - delgadas
         - débil
         turko:
-        - zayıf
-        - kuvvetsiz
+        - zayıflar (kadın)
+        - kuvvetsizler (kadın)
 
