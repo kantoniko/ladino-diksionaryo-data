@@ -16,8 +16,9 @@ versions:
         - joven
         - muchacho
         - chico
-        turko: genç insan
-               genç erkek
+        turko:
+        - genç insan
+        - genç erkek
         
 
   - ladino: manseva
@@ -33,8 +34,10 @@ versions:
         - joven
         - muchacha
         - chica
-        turko: genç insan
-               genç erkek
+        turko:
+        - genç insan
+        - genç erkek
+
   - ladino: mansevos
     accented: mansévos
 
@@ -49,8 +52,9 @@ versions:
         - jovenes
         - muchachos
         - chicos
-        turko: genç insanlar
-               genç erkekler
+        turko:
+        - genç insanlar
+        - genç erkekler
 
   - ladino: mansevas
 
@@ -65,5 +69,6 @@ versions:
         - jovenes
         - muchachas
         - chicas
-        turko: genç insanlar
-               genç kadınlar
+        turko:
+        - genç insanlar
+        - genç kadınlar
