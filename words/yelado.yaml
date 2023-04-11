@@ -10,7 +10,7 @@ versions:
     translations:
         inglez: cold
         fransez: froid
-        portugez: ''
+        portugez: frio
         kasteyano: frío
         turko: soğuk
 
@@ -22,7 +22,7 @@ versions:
     translations:
         inglez: cold
         fransez: froid
-        portugez: ''
+        portugez: fria
         kasteyano: fría
         turko: soğuk
 
@@ -34,7 +34,7 @@ versions:
     translations:
         inglez: cold
         fransez: froids
-        portugez: ''
+        portugez: frios
         kasteyano: fríos
         turko: soğuk
 
@@ -46,7 +46,7 @@ versions:
     translations:
         inglez: cold
         fransez: froids
-        portugez: ''
+        portugez: frias
         kasteyano: frías
         turko: soğuklar
 
