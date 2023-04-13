@@ -10,5 +10,6 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: anteayer
-        turko: evvelki gün
-               önceki gün
+        turko:
+        - evvelki gün
+        - önceki gün
