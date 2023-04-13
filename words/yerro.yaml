@@ -14,8 +14,9 @@ versions:
         kasteyano:
           - hierro
           - yerro
-        turko: hata
-               yanlış
+        turko:
+        - hata
+        - yanlış
 
   - ladino: yerros
 
@@ -29,7 +30,8 @@ versions:
         kasteyano:
           - hierros
           - yerros
-        turko: hatalar
-               yaniışlar
+        turko:
+          - hatalar
+          - yaniışlar
 
 
