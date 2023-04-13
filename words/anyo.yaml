@@ -13,7 +13,9 @@ versions:
         fransez: an
         portugez: ''
         kasteyano: año
-        turko: sene
+        turko:
+        - sene
+        - yıl
 
   - ladino: anyos
     accented: ányos
@@ -26,6 +28,8 @@ versions:
         fransez: an
         portugez: ''
         kasteyano: años
-        turko: sene
+        turko:
+          - seneler
+          - yıllar
 
 
