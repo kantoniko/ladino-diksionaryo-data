@@ -21,6 +21,7 @@ versions:
         portugez: ''
         kasteyano: siglo
         turko: yüzyıl
+               asır
 
   - ladino: siglos
     accented: síglos
@@ -40,7 +41,8 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: siglos
-        turko: yüzyıl
+        turko: yüzyıllar
+               asırlar
 
 
 
