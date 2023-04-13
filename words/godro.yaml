@@ -12,7 +12,7 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: gordo
-        turko: şişman (erkek)
+        turko: şişman 
 
   - ladino: godra
 
@@ -24,7 +24,7 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: gorda
-        turko: şişman (kadın)
+        turko: şişman 
 
   - ladino: godros
 
@@ -36,7 +36,7 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: gordos
-        turko: şişmanlar (erkek)
+        turko: şişmanlar 
 
   - ladino: godras
 
@@ -48,6 +48,6 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: gordas
-        turko: şişmanlar (kadın)
+        turko: şişmanlar 
 
 
