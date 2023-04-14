@@ -13,14 +13,14 @@ versions:
 
 
 
-  - ladino: duri
+  - ladino: durmi
 
     translations:
         inglez: I slept
         fransez: ''
         portugez: ''
         kasteyano: durmi
-        turko: ''
+        turko: uyudum
 
 
 conjugations: {}
