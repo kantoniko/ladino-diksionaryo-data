@@ -1,0 +1,33 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: tinta
+
+    gender: ''
+    number: singular
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko:
+        - mürekkep
+        - çok sarhoş
+
+  - ladino: tinta
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko:
+        - mürekkepler
+        - çok sarhoşlar
