@@ -13,8 +13,9 @@ versions:
         ebreo: ''
         portugez: ''
         kasteyano: ''
-        turko: mürekkep
-               çok sarhoş
+        turko:
+        - mürekkep
+        - çok sarhoş
 
   - ladino: tinta
 
@@ -27,5 +28,6 @@ versions:
         ebreo: ''
         portugez: ''
         kasteyano: ''
-        turko: mürekkepler
-               çok sarhoşlar
+        turko:
+        - mürekkepler
+        - çok sarhoşlar
