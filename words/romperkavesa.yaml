@@ -1,0 +1,29 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: romperkavesa
+
+    gender: feminine
+    number: singular
+
+    translations:
+        inglez: puzzle
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko:  yapboz
+               
+
+  - ladino: romperkavesas
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: yapbozlar
