@@ -1,10 +1,10 @@
-grammar: 
-orijen: 
+grammar: noun
+orijen: NA
 
 versions:
-  - ladino: 
+  - ladino: romperkavesa
 
-    gender: ''
+    gender: feminine
     number: singular
 
     translations:
@@ -16,9 +16,8 @@ versions:
         turko:  yapboz
                
 
-  - ladino:
-
-    gender: ''
+  - ladino: romperkavesas
+    gender: feminine
     number: plural
 
     translations:
