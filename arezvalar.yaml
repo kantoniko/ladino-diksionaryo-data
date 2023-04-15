@@ -1,0 +1,29 @@
+grammar: 
+orijen: 
+
+versions:
+  - ladino: arezvalar
+
+    gender: ''
+    number: 
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: kaymak
+
+  - ladino: 
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: kaymalar
