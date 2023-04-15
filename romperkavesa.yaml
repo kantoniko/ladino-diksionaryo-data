@@ -1,0 +1,30 @@
+grammar: 
+orijen: 
+
+versions:
+  - ladino: 
+
+    gender: ''
+    number: singular
+
+    translations:
+        inglez: puzzle
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko:  yapboz
+               
+
+  - ladino:
+
+    gender: ''
+    number: plural
+
+    translations:
+        inglez: ''
+        fransez: ''
+        ebreo: ''
+        portugez: ''
+        kasteyano: ''
+        turko: yapbozlar
