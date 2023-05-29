@@ -11,6 +11,7 @@ versions:
     translations:
         inglez: book
         fransez: livre
+        ebreo: ספר
         portugez: livro
         kasteyano: libro
         turko: kitap
@@ -24,6 +25,7 @@ versions:
     translations:
         inglez: books
         fransez: livre
+        ebreo: ספרים
         portugez: livros
         kasteyano: libros
         turko: kitap
