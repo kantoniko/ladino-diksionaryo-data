@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: friend
-        fransez: ''
-        portugez: ''
+        fransez: ami
+        ebreo: חבר
+        portugez: amigo
         kasteyano: amigo
         turko: arkadaş
 
@@ -22,8 +23,9 @@ versions:
 
     translations:
         inglez: friend
-        fransez: ''
-        portugez: ''
+        fransez: amie
+        ebreo: חברה
+        portugez: amiga
         kasteyano: amiga
         turko: arkadaş
 
@@ -34,8 +36,9 @@ versions:
 
     translations:
         inglez: friends
-        fransez: ''
-        portugez: ''
+        fransez: amis
+        ebreo: חברים
+        portugez: amigos
         kasteyano: amigos
         turko: arkadaş
 
@@ -46,8 +49,9 @@ versions:
 
     translations:
         inglez: friends
-        fransez: ''
-        portugez: ''
+        fransez: amies
+        ebreo: חברות
+        portugez: amigas
         kasteyano: amigas
         turko: arkadaş
 
