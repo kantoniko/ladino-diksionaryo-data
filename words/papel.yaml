@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: paper
-        fransez: ''
+        fransez: papier
+        ebreo: נייר
         portugez: ''
         kasteyano: papel
         turko: kâğıt
@@ -21,7 +22,8 @@ versions:
 
     translations:
         inglez: papers
-        fransez: ''
+        fransez: papiers
+        ebreo: ניירות
         portugez: ''
         kasteyano: papeles
         turko: kâğıt
