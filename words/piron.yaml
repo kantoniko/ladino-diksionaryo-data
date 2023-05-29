@@ -12,7 +12,8 @@ versions:
 
     translations:
         inglez: fork
-        fransez: ''
+        fransez: fourchette
+        ebreo: מזלג
         portugez: ''
         kasteyano: tenedor
         turko: çatal
@@ -24,7 +25,8 @@ versions:
 
     translations:
         inglez: forks
-        fransez: ''
+        fransez: fourchettes
+        ebreo: מזלגות
         portugez: ''
         kasteyano: tenedores
         turko: çatal
