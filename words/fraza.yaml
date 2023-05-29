@@ -11,7 +11,8 @@ versions:
         inglez:
         - sentence
         - phrase
-        fransez: ''
+        fransez: phrase
+        ebreo: משפט
         portugez: ''
         kasteyano: frase
         turko: cümle
@@ -25,7 +26,8 @@ versions:
         inglez:
         - sentences
         - phrases
-        fransez: ''
+        fransez: phrases
+        ebreo: משפטים
         portugez: ''
         kasteyano: frases
         turko: cümle
