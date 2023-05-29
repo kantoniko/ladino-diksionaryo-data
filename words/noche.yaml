@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: night
-        fransez: ''
-        portugez: ''
+        fransez: nuit
+        ebreo: לילה
+        portugez: noite
         kasteyano: noche
         turko: gece
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: nights
-        fransez: ''
-        portugez: ''
+        fransez: nuits
+        ebreo: לילות
+        portugez: noites
         kasteyano: noches
         turko: gece
 
