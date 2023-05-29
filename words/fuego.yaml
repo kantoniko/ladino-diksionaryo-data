@@ -14,8 +14,9 @@ versions:
 
     translations:
         inglez: fire
-        fransez: ''
-        portugez: ''
+        fransez: feu
+        ebreo: אש
+        portugez: fogo
         kasteyano: fuego
         turko:
         - ateş
