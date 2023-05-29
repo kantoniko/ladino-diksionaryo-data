@@ -11,7 +11,8 @@ versions:
 
     translations:
         inglez: table
-        fransez: ''
+        fransez: table
+        ebreo: שולחן
         portugez: ''
         kasteyano: mesa
         turko: masa
@@ -23,7 +24,8 @@ versions:
 
     translations:
         inglez: tables
-        fransez: ''
+        fransez: tables
+        ebreo: שולחנות
         portugez: ''
         kasteyano: mesas
         turko: masa
