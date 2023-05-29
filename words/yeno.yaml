@@ -10,6 +10,7 @@ versions:
     translations:
         inglez: full
         fransez: plein
+        ebreo: מלא
         portugez: ''
         kasteyano: lleno
         turko: dolu
@@ -22,6 +23,7 @@ versions:
     translations:
         inglez: full
         fransez: pleine
+        ebreo: מלאה
         portugez: ''
         kasteyano: llena
         turko: dolu
@@ -34,6 +36,7 @@ versions:
     translations:
         inglez: full
         fransez: pleins
+        ebreo: מלאים
         portugez: ''
         kasteyano: llenos
         turko: dolu
@@ -46,6 +49,7 @@ versions:
     translations:
         inglez: full
         fransez: pleines
+        ebreo: מלאות
         portugez: ''
         kasteyano: llenas
         turko: dolu
