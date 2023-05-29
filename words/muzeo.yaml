@@ -14,7 +14,8 @@ versions:
 
     translations:
         inglez: museum
-        fransez: ''
+        fransez: musée
+        ebreo: מוזיאון
         portugez: ''
         kasteyano: museo
         turko: müze
@@ -31,7 +32,8 @@ versions:
 
     translations:
         inglez: museums
-        fransez: ''
+        fransez: musées
+        ebreo: מוזיאונים
         portugez: ''
         kasteyano: museos
         turko: müze
