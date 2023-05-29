@@ -12,6 +12,7 @@ versions:
     translations:
         inglez: head
         fransez: tête
+        ebreo : ראש
         portugez: cabeça
         kasteyano: cabeza
         turko: baş
@@ -23,7 +24,8 @@ versions:
 
     translations:
         inglez: heads
-        fransez: ''
+        fransez: têtes
+        ebreo: ראשים
         portugez: ''
         kasteyano: cabezas
         turko: kafalar
