@@ -16,7 +16,12 @@ versions:
           - groom
           - fiancé
           - newly-wed
-        fransez: ''
+        fransez: 
+           - marié
+           - fiancé
+        ebreo:
+           - חתן
+           - ארוס
         portugez: ''
         kasteyano:
           - novio
@@ -36,9 +41,15 @@ versions:
 
     translations:
         inglez:
+          - bride
           - fiancée
           - newly-wed
-        fransez: ''
+        fransez: 
+           - mariée
+           - fiancée
+        ebreo: 
+           - כלה
+           - ארוסה
         portugez: ''
         kasteyano:
           - novia
@@ -59,9 +70,14 @@ versions:
     translations:
         inglez:
           - grooms
-          - fiancé
-          - newly-wed
-        fransez: ''
+          - fiancés
+          - newly-weds
+        fransez: 
+           - mariés
+           - fiancés
+        ebreo: 
+           - חתנים
+           - ארוסים
         portugez: ''
         kasteyano:
           - novios
@@ -81,9 +97,15 @@ versions:
 
     translations:
         inglez:
-          - fiancée
-          - newly-wed
-        fransez: ''
+          - brides
+          - fiancées
+          - newly-weds
+        fransez: 
+           - mariées
+           - fiancées
+        ebreo: 
+           - כלות
+           - ארוסות
         portugez: ''
         kasteyano:
           - novias
