@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: bridge
-        fransez: ''
+        fransez: pont
+        ebreo: גשר
         portugez: ''
         kasteyano: puente
         turko: köprü
@@ -21,7 +22,8 @@ versions:
 
     translations:
         inglez: bridges
-        fransez: ''
+        fransez: ponts
+        ebreo: גשרים
         portugez: ''
         kasteyano: puentes
         turko: köprü
