@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: rat
-        fransez: ''
-        portugez: ''
+        fransez: rat
+        ebreo: חוּלדָה
+        portugez: rato
         kasteyano: rata
         turko: fare
 
