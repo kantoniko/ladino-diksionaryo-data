@@ -11,6 +11,7 @@ versions:
     translations:
         inglez: year
         fransez: an
+        ebreo: שנה
         portugez: ''
         kasteyano: año
         turko:
@@ -26,6 +27,7 @@ versions:
     translations:
         inglez: years
         fransez: an
+        ebreo: שנים
         portugez: ''
         kasteyano: años
         turko:
