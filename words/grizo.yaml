@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: grey
-        fransez: ''
+        fransez: gris
+        ebreo: אפור
         portugez: ''
         kasteyano: gris
         turko: gri
@@ -21,7 +22,8 @@ versions:
 
     translations:
         inglez: grey
-        fransez: ''
+        fransez: grise
+        ebreo: אפורה
         portugez: ''
         kasteyano: grisa
         turko: gri
@@ -33,7 +35,8 @@ versions:
 
     translations:
         inglez: grey
-        fransez: ''
+        fransez: gris
+        ebreo: אפורים
         portugez: ''
         kasteyano: gris
         turko: gri
@@ -45,7 +48,8 @@ versions:
 
     translations:
         inglez: grey
-        fransez: ''
+        fransez: grises
+        ebreo: אפורות
         portugez: ''
         kasteyano: grisas
         turko: gri
