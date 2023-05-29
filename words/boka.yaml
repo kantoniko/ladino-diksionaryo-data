@@ -13,6 +13,7 @@ versions:
     translations:
         inglez: mouth
         fransez: bouche
+        ebreo: פה
         portugez: boca
         kasteyano: boca
         turko: ağız
@@ -25,7 +26,8 @@ versions:
 
     translations:
         inglez: mouthes
-        fransez: bouche
+        fransez: bouches
+        ebreo: פיות
         portugez: bocas
         kasteyano: bocas
         turko: ağızlar
