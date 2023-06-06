@@ -15,7 +15,9 @@ versions:
         fransez:
         - en haut
         - au dessus
-        portugez: ''
+        portugez:
+        - acima
+        - encima
         kasteyano: arriba
         turko:
         - üst
