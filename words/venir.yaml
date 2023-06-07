@@ -11,17 +11,16 @@ versions:
         inglez: come
         fransez: venir
         ebreo: להגיע
-        portugez: vir
         kasteyano: venir
+        portugez: vir
         turko: gelmek
 
 conjugations:
   pasado:
     el:
       ladino: vino
-      translations: veio
+      translations:
         inglez: came
         ebreo: הגיע
         kasteyano: vino
-
-
+        portugez: veio
