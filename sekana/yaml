@@ -1,0 +1,21 @@
+grammar: noun
+orijen: NA
+versions:
+  - ladino: sekana
+    gender: feminine
+    number: singular
+    translations:
+        inglez:
+          - danger
+          - threat
+        kasteyano: peligro
+        
+  - ladino: sekanas
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez:
+          - dangers
+          - threats
+        kasteyano: peligros
