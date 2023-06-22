@@ -1,0 +1,62 @@
+grammar: adjective
+orijen: NA
+versions:
+  - ladino: sagrudo
+    gender: masculine
+    number: singular
+    translations:
+      inglez:
+      - commical
+      - funny
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
+      - gracioso
+      - humoristico
+      turko: ''
+      
+  - ladino: sagruda
+    gender: feminine
+    number: singular
+    translations:
+      inglez:
+      - commical
+      - funny
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
+      - graciosa
+      - humoristica
+      turko: ''
+      
+  - ladino: sagrudos
+    gender: masculine
+    number: plural
+    translations:
+      inglez:
+      - commical
+      - funny
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
+      - graciosos
+      - humoristicos
+      turko: ''
+      
+  - ladino: sagrudas
+    gender: feminine
+    number: plural
+    translations:
+      inglez:
+      - commical
+      - funny
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano:
+      - graciosas
+      - humoristicas
+      turko: ''
