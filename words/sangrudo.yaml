@@ -1,7 +1,7 @@
 grammar: adjective
 orijen: NA
 versions:
-  - ladino: sagrudo
+  - ladino: sangrudo
     gender: masculine
     number: singular
     translations:
@@ -16,7 +16,7 @@ versions:
       - humoristico
       turko: ''
       
-  - ladino: sagruda
+  - ladino: sangruda
     gender: feminine
     number: singular
     translations:
@@ -31,7 +31,7 @@ versions:
       - humoristica
       turko: ''
       
-  - ladino: sagrudos
+  - ladino: sangrudos
     gender: masculine
     number: plural
     translations:
@@ -46,7 +46,7 @@ versions:
       - humoristicos
       turko: ''
       
-  - ladino: sagrudas
+  - ladino: sangrudas
     gender: feminine
     number: plural
     translations:
