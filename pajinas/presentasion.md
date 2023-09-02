@@ -13,14 +13,14 @@ Agora vo a partajar mi ekran i vo a amostrar komo yo uzo el sitio i komo vozotro
 El diksionaryo esta en la pajina sentral del sitio.
 
 * Amostrar komo yo uzo el sitio kuando meldo mesajes de [Ladinokomunita](https://ladinokomunita.groups.io/g/main/topics) kopiar - "paste".
-* Komo yo uzo para eskrivir en ladino. "Ay animales grandes en mi casa" (el diksionaryo va a amostrar ke "casa" es una palavra en kasteyano i la palavra korekta en ladino es kaza)
-* Ke pasa kuando no konosko una palavra en ladino? Yo puedo eskrivi en otra lingua i ver la traduksion. (casa, watermelon, no so komo eskrivir 'arrekojer' (yo todo el tiempo meto yerros is eskrivo 'arekojar') ama si yo eskrivo 'collect' yo puedo ver la traduksion)
-* Ke pasa kuando una palavra de ladino no eksiste en el diksionaryo? (Podemos ver este kuando meldamos los mesajes de Ladinokomunita)
+* Komo yo uzo para eskrivir en ladino. "Ay animales grandes en mi casa" (el diksionaryo va a amostrar ke "casa" es una palavra en kasteyano i la palavra djusta en ladino es kaza).
+* Ke pasa kuando no konosko una palavra en ladino? Yo puedo eskrivi en otra lingua i ver la traduksion. (casa, watermelon, no so komo eskrivir 'arrekojer' (yo todo el tiempo meto yerros i eskrivo 'arekojar') ama si yo eskrivo 'collect' yo puedo ver la traduksion).
+* Ke pasa kuando una palavra de ladino no eksiste en el diksionaryo? (Podemos ver este kuando meldamos los mesajes de Ladinokomunita).
 
 * Kuando yo kliko sovre una palavra yo puedo ver mas detailes - egzempios kon la palavra.
     Unas kuantas de las frazas tienen traduksiones a otras linguas.
 
-* Egzampios kon traduksiones:
+* Egzempios kon traduksiones:
     * [viernes](https://kantoniko.com/words/ladino/viernes)
     * [shofar](https://kantoniko.com/words/ladino/shofar)
     * [ni](https://kantoniko.com/words/ladino/ni)
@@ -28,7 +28,7 @@ El diksionaryo esta en la pajina sentral del sitio.
 
 ## Echar Lashon
 
-Echar Lashon es un klub and ladino avlantas pueden enkontran i pueden echar lashon (dar muabet? avlar una kon otro) en ladino.
+Echar Lashon es un klub ande ladino avlantes pueden enkontrar i pueden echar lashon (dar muabet? avlar una kon otro) en ladino.
 
 Mos tenemos dos grupos de WhatsApp. Uno para "remind" la djente sovre los enkontros. Otro para diskuyir kozas.
 
