@@ -30,11 +30,9 @@ El diksionaryo esta en la pajina sentral del sitio.
 
 Echar Lashon es un klub ande ladino avlantes pueden enkontrar i pueden echar lashon (dar muabet? avlar una kon otro) en ladino.
 
-Mos tenemos dos grupos de WhatsApp. Uno para "remind" la djente sovre los enkontros. Otro para diskuyir kozas.
+Mos tenemos dos grupos de WhatsApp. Uno para akodrar la djente sovre los enkontros. Otro para diskuyir kozas.
 
 Los enknotros estan en zoom.
-
-En la pajina de [echar lashon](https://kantoniko.com/echar-lashon) puedes ver el tiempo en tu zona de tiempo.
 
 
 ## Wordle
