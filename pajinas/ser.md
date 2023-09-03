@@ -6,7 +6,7 @@ El verbo ser
 
 Ladino                        | Inglez
 ----------------------------- | --------
-ser                           | (to) be
+[ser](/words/ladino/ser)      | (to) be
 
 
 ## Present indicativo:

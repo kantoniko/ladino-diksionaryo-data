@@ -2,7 +2,7 @@
 
 In Ladino there are two words for "to be": ser and estar
 
-* (to) be:     estar
+* (to) be:     [estar](/words/ladino/estar)
 
 * yo esto            (I) am
 * tu estas           (you) are
