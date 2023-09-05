@@ -7,10 +7,6 @@ versions:
     gender: masculine
     number: singular
 
-#    audio:
-#      - person: szabgab
-#        arkivo: egzempio.ogg
-
     alternative-spelling:
       - ladino: egzemplo
         audio:
