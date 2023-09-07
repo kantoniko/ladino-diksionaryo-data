@@ -1,0 +1,33 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: purifikar
+
+    translations:
+      inglez: purify
+      fransez: ''
+      ebreo:
+        - לטהר
+        - לנקות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations:
+  prezente:
+    yo:
+      ladino: purifiko
+      translations:
+        inglez: purify
+
+    tu:
+      ladino: purifikas
+      translations:
+        inglez: purify
+
+    el:
+      ladino: purifika
+      translations:
+        inglez: purifies
+
