@@ -1,0 +1,63 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: muerto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: dead
+      fransez: ''
+      ebreo:
+          - מת
+          - חלל
+          - נפטר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: muerta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: dead
+      fransez: ''
+      ebreo:
+          - מתה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: muertos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: dead
+      fransez: ''
+      ebreo:
+          - מתים
+          - חללים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: muertas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: dead
+      fransez: ''
+      ebreo:
+          - מתות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
