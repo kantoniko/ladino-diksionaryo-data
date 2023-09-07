@@ -1,0 +1,34 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - komidas
+
+versions:
+  - ladino: kastanya
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez: chestnut
+      fransez: ''
+      ebreo: ערמון
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: kastanyas
+
+    gender: feminine
+    number: plural
+
+
+    translations:
+      inglez: chestnuts
+      fransez: ''
+      ebreo: ערמוים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
