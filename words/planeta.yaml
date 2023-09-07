@@ -1,0 +1,34 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: planeta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: planet
+      fransez: ''
+      ebreo:
+          - פלנטה
+          - כוכב לכת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: planetas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: planets
+      fransez: ''
+      ebreo:
+          - פלנטות
+          - כוכבי לכת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
