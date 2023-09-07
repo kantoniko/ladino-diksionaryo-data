@@ -1,0 +1,33 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: espirito
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: spirit
+      fransez: ''
+      ebreo:
+        - רוח
+        - נפש
+      portugez: espirito
+      kasteyano: espíritu
+      turko: ''
+
+  - ladino: espiritos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: spirits
+      fransez: ''
+      ebreo:
+        - רוחות
+      portugez: espiritos
+      kasteyano: espíritus
+      turko: ''
+
