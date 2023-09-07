@@ -1,0 +1,19 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: akavidarse
+
+    translations:
+      inglez:
+        - be careful
+        - be cautious
+      fransez: ''
+      ebreo:
+        - נזהר
+        - נהג זהירות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}
