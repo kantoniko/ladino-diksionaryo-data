@@ -1,0 +1,38 @@
+grammar: adjective
+orijen: NA
+kategorias:
+  - animales
+linguas:
+  - ebreo
+
+versions:
+  - ladino: prenyada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: pregnant
+      fransez: ''
+      ebreo:
+          - הרה ללדת
+          - בהריון
+      portugez: ''
+      kasteyano: embarasada
+      turko: ''
+
+  - ladino: prenyadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: pregnant
+      fransez: ''
+      ebreo:
+          - הרה ללדת
+          - בהריון
+      portugez: ''
+      kasteyano: embarasadas
+      turko: ''
+
