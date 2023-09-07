@@ -1,0 +1,19 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: ajiko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: garlic clove
+      fransez: ''
+      ebreo: שן שום
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

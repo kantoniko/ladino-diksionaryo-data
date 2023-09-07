@@ -1,0 +1,19 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - zarzavates
+
+versions:
+  - ladino: ajo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: garlic
+      fransez: ''
+      ebreo: שום
+      portugez: ''
+      kasteyano: ajo
+      turko: ''
+
