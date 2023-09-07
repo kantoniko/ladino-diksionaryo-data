@@ -1,0 +1,34 @@
+grammar: NA
+orijen: NA
+linguas:
+  - turko
+
+versions:
+  - ladino: soba
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: heater
+      fransez: ''
+      ebreo:
+        - תנור חימום
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sobas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: heaters
+      fransez: ''
+      ebreo:
+        - תנורי חימום
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
