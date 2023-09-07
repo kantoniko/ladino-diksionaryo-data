@@ -1,0 +1,17 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: alfabeto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: alfa-beta
+      fransez: ''
+      ebreo: אלף-בית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
