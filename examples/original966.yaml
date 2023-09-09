@@ -1,6 +1,8 @@
-ladino: son ijos de dos ermanos
-inglez: they are sons of two brothers / they are children of two siblings
-kasteyano: son hijos de dos hermanos
+ladino: Son ijos de dos ermanos.
+inglez:
+  - They are sons of two brothers.
+  - They are children of two siblings.
+kasteyano: Son hijos de dos hermanos.
 words:
   - ijo
 
