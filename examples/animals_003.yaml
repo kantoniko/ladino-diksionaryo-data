@@ -1,3 +1,6 @@
-ladino: un perro i dos kulevras
-inglez: a dog and two snakes
-kasteyano: un perro y dos culebras / un perro y dos serpientes / un perro y dos víboras
+ladino: Un perro i dos kulevras.
+inglez: A dog and two snakes.
+kasteyano:
+  - Un perro y dos culebras.
+  - Un perro y dos serpientes.
+  - Un perro y dos víboras.
