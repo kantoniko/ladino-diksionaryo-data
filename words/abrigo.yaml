@@ -17,7 +17,9 @@ versions:
         - shelter
         - refuge
         fransez: abris
-        portugez: ''
+        portugez:
+        - abrigo
+        - refúgio
         kasteyano:
         - abrigo
         - refugio
@@ -40,7 +42,9 @@ versions:
         - shelters
         - refuges
         fransez: abris
-        portugez: ''
+        portugez:
+        - abrigos
+        - refúgios
         kasteyano:
         - abrigos
         - refugios
