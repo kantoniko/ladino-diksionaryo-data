@@ -1,5 +1,7 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - numeros
 
 versions:
   - ladino: diez
@@ -10,8 +12,11 @@ versions:
         accented: dyéz
 
     translations:
-        inglez: ten
+        inglez:
+          - ten
+          - '10'
         fransez: ''
+        hebrew: עשר
         portugez: ''
         kasteyano: diez
         turko: 'on'

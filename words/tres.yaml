@@ -9,6 +9,9 @@ versions:
     translations:
         inglez: three
         fransez: ''
+        ebreo:
+          - שלוש
+          - שלושה
         portugez: ''
         kasteyano: tres
         turko: üç

@@ -9,6 +9,9 @@ versions:
     translations:
         inglez: two
         fransez: deux
+        ebreo:
+          - שנים
+          - שתים
         portugez: ''
         kasteyano: dos
         turko: iki

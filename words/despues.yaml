@@ -1,18 +1,24 @@
-grammar: NA
+grammar: preposition
 orijen: Jeneral
 
 versions:
   - ladino: despues
+    accented: después
 
     alternative-spelling:
       - ladino: dempues
       - ladino: dospues
+      - ladino: denpues
+        accented: denpués
 
     translations:
         inglez:
           - after
           - later
         fransez: ''
+        ebreo:
+            - אחר כך
+            - אחרי
         portugez: ''
         kasteyano: después
         turko: sonra
