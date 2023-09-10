@@ -1,0 +1,20 @@
+grammar: verb
+orijen: NA
+linguas:
+  - ebreo
+
+versions:
+  - ladino: dezmazalar
+
+    translations:
+      inglez:
+        - to bring bad luck
+        - to cause bad luck
+      fransez: ''
+      ebreo:
+         - להביא מזל רע
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

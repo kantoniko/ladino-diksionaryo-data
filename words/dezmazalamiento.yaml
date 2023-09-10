@@ -1,0 +1,21 @@
+grammar: NA
+orijen: NA
+linguas:
+  - ebreo
+
+versions:
+  - ladino: dezmazalamiento
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: bad luck
+      fransez: ''
+      ebreo:
+          - ביש מזל
+          - מזל רע
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
