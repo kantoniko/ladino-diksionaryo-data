@@ -1,0 +1,17 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: vinagre
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: vinegar
+      fransez: ''
+      ebreo: חומץ
+      portugez: ''
+      kasteyano: vinagre
+      turko: ''
+
