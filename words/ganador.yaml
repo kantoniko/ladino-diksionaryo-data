@@ -2,61 +2,74 @@ grammar: adjective
 orijen: NA
 
 versions:
-  - ladino: sano
+  - ladino: ganador
 
     gender: masculine
     number: singular
 
     translations:
-      inglez: healthy
+      inglez:
+          - winner
+          - earner
       fransez: ''
       ebreo:
-        - בריא
+          - מרוויח
+          - זוכה
+          - מנצח
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sana
+  - ladino: ganadera
 
     gender: feminine
     number: singular
 
     translations:
-      inglez: healthy
+      inglez:
+          - winner
+          - earner
       fransez: ''
       ebreo:
-        - בריאה
+          - מרוויחה
+          - זוכה
+          - מנצחת
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sanos
+  - ladino: ganadores
 
     gender: masculine
     number: plural
 
-    alternative-spelling:
-      - ladino: sanoz
-
     translations:
-      inglez: healthy
+      inglez:
+          - winners
+          - earners
       fransez: ''
       ebreo:
-        - בריאים
+          - מרוויחים
+          - זוכים
+          - מנצחים
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sanas
+  - ladino: ganaderas
 
     gender: feminine
     number: plural
 
     translations:
-      inglez: healthy
+      inglez:
+          - winners
+          - earners
       fransez: ''
       ebreo:
-        - בריאות
+          - מרוויחות
+          - זוכות
+          - מנצחות
       portugez: ''
       kasteyano: ''
       turko: ''

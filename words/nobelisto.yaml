@@ -1,62 +1,56 @@
-grammar: adjective
+grammar: NA
 orijen: NA
 
 versions:
-  - ladino: sano
+  - ladino: nobelisto
 
     gender: masculine
     number: singular
 
     translations:
-      inglez: healthy
+      inglez: nobel prize winner
       fransez: ''
-      ebreo:
-        - בריא
+      ebreo: זוכה פרס נובל
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sana
+  - ladino: nobelista
 
     gender: feminine
     number: singular
 
     translations:
-      inglez: healthy
+      inglez: nobel prize winner
       fransez: ''
-      ebreo:
-        - בריאה
+      ebreo: זוכת פרס נובל
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sanos
+
+  - ladino: nobelistos
 
     gender: masculine
     number: plural
 
-    alternative-spelling:
-      - ladino: sanoz
-
     translations:
-      inglez: healthy
+      inglez: nobel prize winners
       fransez: ''
-      ebreo:
-        - בריאים
+      ebreo: זוכי פרס נובל
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sanas
+  - ladino: nobelistas
 
     gender: feminine
     number: plural
 
     translations:
-      inglez: healthy
+      inglez: nobel prize winners
       fransez: ''
-      ebreo:
-        - בריאות
+      ebreo: זוכות פרס נובל
       portugez: ''
       kasteyano: ''
       turko: ''

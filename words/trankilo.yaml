@@ -2,61 +2,70 @@ grammar: adjective
 orijen: NA
 
 versions:
-  - ladino: sano
+  - ladino: trankilo
 
     gender: masculine
     number: singular
 
     translations:
-      inglez: healthy
+      inglez: calm
       fransez: ''
       ebreo:
-        - בריא
+        - שקט
+        - שלו
+        - רגוע
+        - חסר דאגה
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sana
+  - ladino: trankila
 
     gender: feminine
     number: singular
 
     translations:
-      inglez: healthy
+      inglez: calm
       fransez: ''
       ebreo:
-        - בריאה
+        - שקטה
+        - שלוה
+        - רגועה
+        - חסרת דאגה
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sanos
+  - ladino: trankilos
 
     gender: masculine
     number: plural
 
-    alternative-spelling:
-      - ladino: sanoz
-
     translations:
-      inglez: healthy
+      inglez: calm
       fransez: ''
       ebreo:
-        - בריאים
+        - שקטים
+        - שלוים
+        - רגועים
+        - חסרי דאגה
       portugez: ''
       kasteyano: ''
       turko: ''
 
-  - ladino: sanas
+  - ladino: trankilas
 
     gender: feminine
     number: plural
 
     translations:
-      inglez: healthy
+      inglez: calm
       fransez: ''
       ebreo:
-        - בריאות
+        - שקטות
+        - שלוות
+        - רגועות
+        - חסרות דאגה
       portugez: ''
       kasteyano: ''
       turko: ''

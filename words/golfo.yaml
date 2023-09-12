@@ -1,0 +1,30 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: golfo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: gulf
+      fransez: ''
+      ebreo: מפרץ
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: golfos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: gulfs
+      fransez: ''
+      ebreo: מפרצים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

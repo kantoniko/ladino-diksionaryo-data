@@ -38,3 +38,39 @@ versions:
       kasteyano: matadera
       turko: ''
 
+  - ladino: matadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - killers
+        - murderers
+        - matador
+      fransez: ''
+      ebreo:
+        - רוצחים
+        - תליינים
+        - מטאדורים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: mataderas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - killers
+        - murderers
+      fransez: ''
+      ebreo:
+        - רוצחות
+        - תלייניות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
