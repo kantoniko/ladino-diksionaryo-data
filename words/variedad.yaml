@@ -1,0 +1,23 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: variedad
+
+    alternative-spelling:
+      - ladino: varieta
+        accented: varietá
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: variety
+      fransez: ''
+      ebreo:
+        - מגוון
+        - שונות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
