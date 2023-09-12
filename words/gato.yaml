@@ -14,7 +14,7 @@ versions:
         inglez: cat
         fransez: ''
         ebreo: חתול
-        portugez: ''
+        portugez: gato
         kasteyano: gato
         turko: kedi
 
@@ -27,7 +27,7 @@ versions:
         inglez: cats
         fransez: ''
         ebreo: חתולים
-        portugez: ''
+        portugez: gatos
         kasteyano: gatos
         turko: kediler
 
@@ -39,8 +39,8 @@ versions:
         inglez: small cat
         fransez: ''
         ebreo: ''
-        portugez: ''
-        kasteyano: ''
+        portugez: gatinho
+        kasteyano: gatito
         turko: yavru kedi
 
 
