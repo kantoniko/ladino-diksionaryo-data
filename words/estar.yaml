@@ -13,6 +13,18 @@ versions:
         - bulunmak
         - olmak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: estó
+      translations:
+        inglez: I am
+        kasteyano: ''
+
+    tu:
+      ladino: estás
+      translations:
+        inglez: you are
+        kasteyano: ''
 
 
