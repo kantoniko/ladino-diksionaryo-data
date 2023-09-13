@@ -1,0 +1,22 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - famiya
+linguas:
+  - fransez
+
+versions:
+  - ladino: tant
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez: aunt
+      fransez: ''
+      ebreo: דודה
+      portugez: ''
+      kasteyano: tía
+      turko: ''
+
