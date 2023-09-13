@@ -1,0 +1,22 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: definision
+    accented: definisión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - definition
+        - description
+      fransez: ''
+      ebreo:
+        - הגדרה
+        - תיאור
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
