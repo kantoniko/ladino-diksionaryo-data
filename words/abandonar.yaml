@@ -8,6 +8,10 @@ versions:
     translations:
         inglez: abandon
         fransez: abandonner
+        ebrewo:
+          - לעזוב
+          - לנטוש
+          - להזניח
         portugez: abandonar
         kasteyano: abandonar
         turko: terk etmek

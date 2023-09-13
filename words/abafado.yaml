@@ -10,6 +10,7 @@ versions:
     translations:
         inglez: stewed
         fransez: bouilli
+        ebreo: מאודה
         portugez: estufado
         kasteyano: estofado
         turko: buğulama
@@ -22,6 +23,7 @@ versions:
     translations:
         inglez: stewed
         fransez: bouillie
+        ebreo: מאודה
         portugez: estufada
         kasteyano: estofada
         turko: buğulama
@@ -34,6 +36,7 @@ versions:
     translations:
         inglez: stewed
         fransez: ''
+        ebreo: מאודים
         portugez: estufados
         kasteyano: estofados
         turko: buğulama
@@ -46,6 +49,7 @@ versions:
     translations:
         inglez: stewed
         fransez: ''
+        ebreo: מאודות
         portugez: estufadas
         kasteyano: estofadas
         turko: buğulama

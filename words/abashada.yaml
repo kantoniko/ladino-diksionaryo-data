@@ -10,6 +10,11 @@ versions:
         inglez: downhill
           # to go
         fransez: descente
+        ebreo:
+          - ירידה
+          - מורד
+          - מדרון
+          - שיפוע
         portugez: descida
         kasteyano:
           - cuesta abajo
@@ -24,6 +29,9 @@ versions:
         - cold
         - flu
         fransez: rhume
+        ebreo:
+          - נזלת
+          - הצטננות
         portugez: constipacão
         kasteyano:
         - resfriado
