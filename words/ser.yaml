@@ -247,7 +247,54 @@ conjugations:
         inglez: ''
         kasteyano: fueran
 
+  kondisional:
+    yo:
+      ladino: sería
+      translations:
+        inglez: ''
+        kasteyano: ''
 
+    tu:
+      ladino: serías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: serían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: seríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: serían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: seas
+      translations:
+        inglez: ''
+        kasteyano: ''
+    vozotros:
+      ladino: seásh
+      translations:
+        inglez: ''
+        kasteyano: ''
 
 # ser,,sed,thirst,susuzluk,Jeneral,987,,
 # ser (tener),,sediento,thirsty,susuz,Jeneral,2174,,
