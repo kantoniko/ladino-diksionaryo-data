@@ -1,0 +1,17 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: dokumentado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: documented
+      fransez: ''
+      ebreo: מתועד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
