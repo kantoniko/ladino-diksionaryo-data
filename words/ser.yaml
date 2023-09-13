@@ -296,5 +296,15 @@ conjugations:
         inglez: ''
         kasteyano: ''
 
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: ser
+#
+#  djerundivo:
+#    ladino: siendo
+#
+#  partisipio pasado:
+#    ladino: sido
+
 # ser,,sed,thirst,susuzluk,Jeneral,987,,
 # ser (tener),,sediento,thirsty,susuz,Jeneral,2174,,
