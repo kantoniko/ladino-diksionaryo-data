@@ -21,6 +21,290 @@ versions:
           - sezmek
           - duymak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: siento
+      translations:
+        inglez: ''
+        kasteyano: ''
 
+    tu:
+      ladino: sientes
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: siente
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sintimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintísh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sienten
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: sintí
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sintites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sintió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sintimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sintieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: sintía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sintías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sintía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sintíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sintían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: sintiré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sintirás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sintirá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sintiremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintirésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sintirán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: sienta
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sientas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sienta
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sientamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sientan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: sintiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sintieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sintiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sintiérmos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sintieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: sintiría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sintirías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sintiría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sintiríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintiríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sintirían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: siente
+        # no sientas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sintid
+        # no sintásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: sintir
+#
+#  djerundivo:
+#    ladino: sintiendo
+#
+#  partisipio pasado:
+#    ladino: sintido
+
+# TODO: verbos se konjugan lo mizmo: konsintir, arepintir
 
