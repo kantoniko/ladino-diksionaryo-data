@@ -50,3 +50,240 @@ conjugations:
         kasteyano: ven
 
 
+  pasado:
+    yo:
+      ladino: vide
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vido
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: vimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  imperfekto:
+    yo:
+      ladino: vía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: víamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: víash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  futuro:
+    yo:
+      ladino: veré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: verás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: verá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: veremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: verésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: verán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: vea
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: veas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vea
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: veamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: veásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vean
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: viera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: viera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: viéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: vería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: verías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: veríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: veríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: verían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+ # imperativo: (no egziste?)
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: ver
+#
+#  djerundivo:
+#    ladino: viendo
+#
+#  partisipio pasado:
+#    ladino: visto
+
+
