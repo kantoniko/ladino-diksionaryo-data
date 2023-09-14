@@ -16,6 +16,44 @@ versions:
         turko: gelmek
 
 conjugations:
+  prezente:
+    yo:
+      ladino: vengo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vienes
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: viene
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: vinimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vinísh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vienen
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
   pasado:
     el:
       ladino: vino
