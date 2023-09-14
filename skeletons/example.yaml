@@ -1,3 +1,4 @@
+source:
 ladino: |
   Teksto
 inglez: |
@@ -6,6 +7,5 @@ turko: Text
 audio:
   - person: eti-ojalvo
     arkivo: peyne.ogg
-source:
 
 
