@@ -6,11 +6,299 @@ versions:
 
     translations:
         inglez: smell
+        ebreo: להריח
         fransez: ''
         portugez: ''
         kasteyano: oler
         turko: kokmak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: golgo
+        # guelo
+      translations:
+        inglez: ''
+        kasteyano: ''
 
+    tu:
+      ladino: goles
+        # gueles
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: gole
+        # guele
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: golemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: golésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: golen
+        # guelen
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: golí
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: golites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: golió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: golimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: golitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: golieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: golía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: golías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: golía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: golíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: golíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: golían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: goleré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: golerás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: golerá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: goleramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: golerésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: goleran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: golga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: golgas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: golga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: golgamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: golgásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: golgan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: goleria
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: golerias
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: goleria
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: goliéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: golierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: golieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: golería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: golerías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: golería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: goleríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: goleríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: golerían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: gole
+        # no golgas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: goled
+        # no golgásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+          # TODO: tambien: guela, guelas, guela, golamos, golásh, guelan guele! no guelas! no golásh!
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: goler
+#
+#  djerundivo:
+#    ladino: goliendo
+#
+#  partisipio pasado:
+#    ladino: golido
 
