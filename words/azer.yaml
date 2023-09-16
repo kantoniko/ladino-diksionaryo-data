@@ -14,7 +14,8 @@ versions:
 conjugations:
   prezente:
     yo:
-      ladino: azo
+      ladino: ago
+        # azo ?
       translations:
         inglez: do
         kasteyano: hago
@@ -38,7 +39,7 @@ conjugations:
         kasteyano: hacemos
 
     vozotros:
-      ladino: azesh
+      ladino: azésh
       translations:
         inglez: do
         kasteyano: hacéis
@@ -48,6 +49,261 @@ conjugations:
       translations:
         inglez: do
         kasteyano: hacen
+
+  pasado:
+    yo:
+      ladino: ize
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: izites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: izo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: izimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: izitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: izieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: azía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: azías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: azía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: azíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: azíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: azían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: aré
+        # a(ze)ré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: arás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: ará
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: aremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: arésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: arán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: aga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: agas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: aga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: agamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: agásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: agan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: iziera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: izieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: iziera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: iziéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: izierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: izieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: aría
+        # a(ze)ría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: arías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: aría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: aríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: aríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: arían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: az
+        # aze
+        # no agas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: azed
+        # no agásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: azer
+#
+#  djerundivo:
+#    ladino: aziendo
+#
+#  partisipio pasado:
+#    ladino: echo
+
+
+
+
+
 
 
 
