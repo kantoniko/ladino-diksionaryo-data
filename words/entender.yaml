@@ -7,6 +7,7 @@ versions:
 
     translations:
         inglez: understand
+        ebreo: להבין
         fransez: ''
         portugez: ''
         kasteyano:
@@ -17,47 +18,294 @@ versions:
 conjugations:
   prezente:
     yo:
-      ladino: entyendo
-      # TODO: add entiendo
+      ladino: entiendo
+      # TODO: add entyendo
       translations:
         inglez: understand
         kasteyano: entiendo
 
     tu:
-      ladino: entyendes
+      ladino: entiendes
+        # entyendes
       translations:
         inglez: understand
         kasteyano: entiendes
 
     el:
-      ladino: entyende
+      ladino: entiende
+        # entyende
       translations:
         inglez: understands
         kasteyano: entiende
 
     mozotros:
-      ladino: entyendemos
+      ladino: entendemos
+        # entyendemos
       translations:
         inglez: understand
         kasteyano: entendemos
 
     vozotros:
-      ladino: entyendesh
+      ladino: entendésh
+        # entyendésh
       translations:
         inglez: understand
         kasteyano: entendéis
 
     eyos:
-      ladino: entyenden
+      ladino: entienden
+        # entyenden
       translations:
         inglez: understand
         kasteyano: entienden
 
   pasado:
     yo:
-      ladino: entendi
+      ladino: entendí
       translations:
         inglez: understood
         kasteyano: entendi
 
+    tu:
+      ladino: entendites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: entendió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: entendimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entenditesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: entendieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: entendía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: entendías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: entendía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: entendíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entendíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: entendían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: entenderé
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: entenderás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: entenderá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: entenderemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entenderésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: entenderán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: entienda
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: entiendas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: entienda
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: entendamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entendásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: entiendan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: entendiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: entendieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: entendiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: entendiéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entendierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: entendieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: entendería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: entederías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: entendería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: entenderíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entenderíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: entendería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: entiende
+        # no entiendas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: entended
+        # no entendásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: entender
+#
+#  djerundivo:
+#    ladino: entendiendo
+#
+#  partisipio pasado:
+#    ladino: entendido
+
+# konjugan lo mizmo: asender/ensender,  feder, pedrer, verter
 
