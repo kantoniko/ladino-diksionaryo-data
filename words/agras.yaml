@@ -5,14 +5,25 @@ kategorias:
 
 versions:
   - ladino: agras
+    accented: agrás
+
+    alternative-spelling:
+      - ladino: agraz
+        accented: agráz
 
     gender: feminine
     number: plural
 
     translations:
-      inglez: ''
+      inglez:
+        - unripe grapes
+        - sour grapes
+        - sour food
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - ענבי בוסר
+        - ענבים חמוצים
+        - אוכל חמוץ
       portugez: ''
       kasteyano: ''
       turko: koruk
