@@ -1,0 +1,40 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - frutas
+
+versions:
+  - ladino: azeituna
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: azetuna
+
+
+    translations:
+      inglez: olive
+      fransez: ''
+      ebreo: זית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: azeitunas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: azetunas
+
+
+    translations:
+      inglez: olives
+      fransez: ''
+      ebreo: זיתים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
