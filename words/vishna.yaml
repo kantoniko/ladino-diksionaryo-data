@@ -14,9 +14,11 @@ versions:
 
 
     translations:
-      inglez: ''
+      inglez:
+        - sour cherry
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - דובדבן חמוץ
       portugez: ''
       kasteyano: ''
       turko: ''
