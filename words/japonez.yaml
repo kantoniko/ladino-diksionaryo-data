@@ -1,0 +1,20 @@
+grammar: noun
+orijen: Ladinokomunita
+kategorias:
+  - linguas
+
+versions:
+  - ladino: japonez
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: Japanese
+      fransez: ''
+      ebreo: יפנית
+      portugez: ''
+      kasteyano: japonés
+      turko: ''
+
+
