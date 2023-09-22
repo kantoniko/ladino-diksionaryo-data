@@ -6,6 +6,9 @@ versions:
 
     translations:
         inglez: restore
+        ebreo:
+          - לשקם
+          - לשחזר
         fransez: ''
         portugez: ''
         kasteyano: restaurar
