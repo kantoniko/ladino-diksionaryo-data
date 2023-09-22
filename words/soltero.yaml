@@ -4,8 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: soltero
 
-    alternative-spelling:
-      - ladino: muchacho
+    gender: masculine
+    number: singular
 
     translations:
         inglez: bachelor
@@ -13,5 +13,43 @@ versions:
         portugez: ''
         kasteyano: soltero
         turko: bekâr
+
+
+  - ladino: soltera
+
+    gender: feminine
+    number: singular
+
+    translations:
+        inglez: single
+        fransez: ''
+        portugez: ''
+        kasteyano: soltera
+        turko: ''
+
+  - ladino: solteros
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: bachelor
+        fransez: ''
+        portugez: ''
+        kasteyano: solteros
+        turko: ''
+
+
+  - ladino: solteras
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: single
+        fransez: ''
+        portugez: ''
+        kasteyano: solteras
+        turko: ''
 
 
