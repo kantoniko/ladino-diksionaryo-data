@@ -1,0 +1,21 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: restorasion
+    accented: restorasión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - restoration
+      fransez: ''
+      ebreo:
+        - שיקום
+        - שחזור
+      portugez: ''
+      kasteyano: restauracion
+      turko: ''
+
