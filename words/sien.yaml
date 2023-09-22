@@ -4,16 +4,16 @@ kategorias:
   - numeros
 
 versions:
-  - ladino: mil
+  - ladino: sien
 
     translations:
         inglez:
-          - thousand
-          - '1000'
-        hebrew: אלף
+          - hundred
+          - '100'
         fransez: ''
+        hebrew: מאה
         portugez: ''
-        kasteyano: mil
-        turko: bin
+        kasteyano: cien
+        turko: ''
 
 
