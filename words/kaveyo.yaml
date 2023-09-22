@@ -17,3 +17,16 @@ versions:
         kasteyano: cabello
         turko: saç
 
+  - ladino: kaveyos
+    accented: kavéyos
+
+    gender: masculine
+    number: singular
+
+    translations:
+        inglez: hair
+        fransez: ''
+        portugez: ''
+        kasteyano: cabello
+        turko: saç
+
