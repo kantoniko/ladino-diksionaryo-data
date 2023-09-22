@@ -7,12 +7,29 @@ versions:
   - ladino: maron
     accented: marón
 
+    gender: masculine
+    number: singular
+
     translations:
       inglez: brown
       fransez: ''
       ebreo: ''
       portugez: ''
       kasteyano: marrón
+      turko: ''
+
+  - ladino: marones
+    accented: marónes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: brown
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: marrónes
       turko: ''
 
 
