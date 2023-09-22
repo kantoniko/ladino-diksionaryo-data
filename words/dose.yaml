@@ -4,16 +4,17 @@ kategorias:
   - numeros
 
 versions:
-  - ladino: siete
+  - ladino: dose
 
     translations:
         inglez:
-          - seven
-          - '7'
-        ebreo: שבע
+          - twelve
+          - '12'
         fransez: ''
+        hebrew:
+          - שניעשר
         portugez: ''
-        kasteyano: siete
+        kasteyano: doce
         turko: ''
 
 

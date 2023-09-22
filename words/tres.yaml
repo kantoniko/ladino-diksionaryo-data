@@ -7,7 +7,9 @@ versions:
   - ladino: tres
 
     translations:
-        inglez: three
+        inglez:
+          - three
+          - '3'
         fransez: ''
         ebreo:
           - שלוש

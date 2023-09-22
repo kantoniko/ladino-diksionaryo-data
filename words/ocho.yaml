@@ -1,15 +1,19 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - numeros
 
 versions:
   - ladino: ocho
 
     translations:
-        inglez: eight
+        inglez:
+          - eight
+          - '8'
         fransez: huit
         ebreo: שמונה
         portugez: oito
-        kasteyano: ''
+        kasteyano: ocho
         turko: ''
 
 

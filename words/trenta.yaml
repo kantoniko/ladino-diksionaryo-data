@@ -4,16 +4,13 @@ kategorias:
   - numeros
 
 versions:
-  - ladino: siete
+  - ladino: trenta
 
     translations:
-        inglez:
-          - seven
-          - '7'
-        ebreo: שבע
+        inglez: thirty
         fransez: ''
         portugez: ''
-        kasteyano: siete
+        kasteyano: treinta
         turko: ''
 
 

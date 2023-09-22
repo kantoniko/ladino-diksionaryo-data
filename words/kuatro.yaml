@@ -7,7 +7,9 @@ versions:
   - ladino: kuatro
 
     translations:
-        inglez: four
+        inglez:
+          - four
+          - '4'
         fransez: quatre
         ebreo: ארבע
         portugez: quatro

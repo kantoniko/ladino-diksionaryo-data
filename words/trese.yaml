@@ -4,16 +4,17 @@ kategorias:
   - numeros
 
 versions:
-  - ladino: siete
+  - ladino: trese
 
     translations:
         inglez:
-          - seven
-          - '7'
-        ebreo: שבע
+          - thirteen
+          - '13'
         fransez: ''
+        hebrew:
+          - שלושהעשר
         portugez: ''
-        kasteyano: siete
+        kasteyano: trece
         turko: ''
 
 

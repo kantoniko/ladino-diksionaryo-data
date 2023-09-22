@@ -7,7 +7,9 @@ versions:
   - ladino: dos
 
     translations:
-        inglez: two
+        inglez:
+          - two
+          - '2'
         fransez: deux
         ebreo:
           - שנים
