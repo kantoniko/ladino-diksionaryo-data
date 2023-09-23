@@ -5,11 +5,34 @@ versions:
   - ladino: alfinete
     accented: alfinéte
 
+    gender: masculine
+    number: singular
+
     translations:
         inglez: pin
+        ebreo:
+          - סיכה
+          - אטב
         fransez: épingle
         portugez: ''
         kasteyano: alfiler
         turko: toplu iğne
+
+  - ladino: alfinetes
+    accented: alfinétes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: pins
+        ebreo:
+          - סיכות
+          - אטבים
+        fransez: ''
+        portugez: ''
+        kasteyano: alfileres
+        turko: ''
+
 
 
