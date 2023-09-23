@@ -1,0 +1,22 @@
+grammar: NA
+orijen: NA
+linguas:
+  - ebreo
+
+versions:
+  - ladino: agada
+    accented: agadá
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: passover hagada
+      fransez: ''
+      ebreo:
+        - הגדה של פסח
+        - הגדה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
