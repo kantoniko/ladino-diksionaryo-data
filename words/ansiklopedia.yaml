@@ -5,13 +5,34 @@ versions:
   - ladino: ansiklopedia
     accented: ansiklopédia
 
+    alternative-spelling:
+      - ladino: ensiklopedia
+
     gender: feminine
     number: singular
 
     translations:
         inglez: encyclopaedia
+        ebreo: אנציקלופדיה
         fransez: encyclopédie
         portugez: ''
         kasteyano: enciclopedia
         turko: ansiklopedi
+
+  - ladino: ansiklopedias
+    accented: ansiklopédias
+
+    alternative-spelling:
+      - ladino: ensiklopedias
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: encyclopaedias
+        ebreo: אנציקלופדיות
+        fransez: ''
+        portugez: ''
+        kasteyano: enciclopedias
+        turko: ''
 
