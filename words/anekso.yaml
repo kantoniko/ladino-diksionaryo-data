@@ -17,3 +17,18 @@ versions:
       kasteyano: ''
       turko: ''
 
+  - ladino: aneksos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - annexes
+        - attachments
+      fransez: ''
+      ebreo: נספחים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
