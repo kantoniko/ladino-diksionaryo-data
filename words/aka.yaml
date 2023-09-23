@@ -1,0 +1,17 @@
+grammar: adverb
+orijen: NA
+
+versions:
+  - ladino: aka
+    accented: aká
+
+    translations:
+      inglez: here
+      fransez: ''
+      ebreo:
+        - פה
+        - כאן
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
