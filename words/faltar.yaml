@@ -2,7 +2,8 @@ grammar: NA
 orijen: Jeneral
 
 versions:
-  - ladino: mankar
+  - ladino: faltar
+    rashi: פﬞאלטאר
 
     translations:
         inglez: lack
