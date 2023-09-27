@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: tu
     accented: tú
+    rashi: טו
 
     number: singular
 
