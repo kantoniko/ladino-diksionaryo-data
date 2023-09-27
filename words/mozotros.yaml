@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: mozotros
     accented: mozótros
+    rashi: מוזוטרוס
+
     gender: masculine
     number: plural
 
@@ -16,6 +18,8 @@ versions:
 
   - ladino: mozotras
     accented: mozótras
+    rashi: מוזוטראס
+
     gender: feminine
     number: plural
 

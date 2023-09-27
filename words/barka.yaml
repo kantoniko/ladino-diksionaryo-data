@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: barka
     accented: bárka
+    rashi: בארקה
 
     gender: masculine
     number: singular

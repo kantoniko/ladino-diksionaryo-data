@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: eyos
     accented: éyos
+    rashi: אילייוס
+
     gender: masculine
     number: plural
 
@@ -16,6 +18,8 @@ versions:
 
   - ladino: eyas
     accented: éyas
+    rashi: אילייאס
+
     gender: feminine
     number: plural
 

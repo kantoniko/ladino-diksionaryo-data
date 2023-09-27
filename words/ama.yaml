@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: ama
     accented: áma
+    rashi: אמה
 
     alternative-spelling:
       - ladino: ma

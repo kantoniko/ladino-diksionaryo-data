@@ -3,6 +3,7 @@ orijen: NA
 
 versions:
   - ladino: altura
+    rashi: אלטורה
 
     gender: feminine
     number: singular

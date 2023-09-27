@@ -6,6 +6,8 @@ kategorias:
 versions:
   - ladino: baylador
     accented: bayladór
+    rashi: באיילאדור
+
     gender: masculine
     number: singular
 

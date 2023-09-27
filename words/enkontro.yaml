@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: enkontro
+    rashi: אינקונטרו
 
     gender: masculine
     number: singular
