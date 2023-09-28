@@ -20,6 +20,7 @@ versions:
         turko: kedi
 
   - ladino: gatos
+    rashi: גאטוס
 
     gender: masculine
     number: plural

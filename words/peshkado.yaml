@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: peshkado
     accented: peshkádo
+    rashi: פישקאדו
 
     alternative-spelling:
       - ladino: pishkado
@@ -16,6 +17,7 @@ versions:
 
     translations:
         inglez: fish
+        ebreo: דג
         fransez: poisson
         portugez: peixe
         kasteyano: pescado
@@ -23,6 +25,7 @@ versions:
 
   - ladino: peshkados
     accented: peshkádos
+    rashi: פישקאדוס
 
     alternative-spelling:
       - ladino: pishkados
@@ -33,6 +36,7 @@ versions:
 
     translations:
         inglez: fish
+        ebreo: דגים
         fransez: poisson
         portugez: peixe
         kasteyano: pescados

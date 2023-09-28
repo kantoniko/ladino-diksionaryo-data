@@ -6,6 +6,7 @@ kategorias:
 
 versions:
   - ladino: perro
+    rashi: פירו
 
     gender: masculine
     number: singular
@@ -19,6 +20,7 @@ versions:
         turko: köpek
 
   - ladino: perros
+    rashi: פירוס
 
     gender: masculine
     number: plural

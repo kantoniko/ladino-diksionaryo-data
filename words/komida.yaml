@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: komida
     accented: komída
+    rashi: קומידה
 
     gender: feminine
     number: singular
@@ -16,6 +17,11 @@ versions:
         inglez:
           - food
           - meal
+        ebreo:
+          - ארוחה
+          - אוכל
+          - סעודה
+          - מאכל
         fransez: ''
         portugez: ''
         kasteyano: comida
@@ -23,6 +29,7 @@ versions:
 
   - ladino: komidas
     accented: komídas
+    rashi: קומידאס
 
     gender: feminine
     number: plural
@@ -35,6 +42,10 @@ versions:
         inglez:
           - food
           - meals
+        ebreo:
+          - ארוחות
+          - סעודות
+          - מאכלים
         fransez: ''
         portugez: ''
         kasteyano: comidas
