@@ -9,6 +9,9 @@ versions:
 
     translations:
         inglez: good-bye
+        ebreo:
+          - שלום
+          - להתראות
         fransez: adieu
         portugez: adeus
         kasteyano: adiós

@@ -13,6 +13,9 @@ versions:
         inglez:
           - novice
           - inexperienced
+        ebreo:
+          - טירון
+          - ירוק
         fransez:
           - novice
           - inexpérimenté

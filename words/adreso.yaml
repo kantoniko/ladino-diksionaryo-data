@@ -10,6 +10,9 @@ versions:
 
     translations:
         inglez: address
+        ebreo:
+          - מען
+          - כתובת
         fransez: adresse
         portugez: endereço
         kasteyano: dirección
@@ -23,6 +26,9 @@ versions:
 
     translations:
         inglez: addresses
+        ebreo:
+          - מענים
+          - כתובות
         fransez: adresse
         portugez: endereços
         kasteyano: direcciónes

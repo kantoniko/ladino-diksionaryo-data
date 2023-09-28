@@ -10,6 +10,7 @@ versions:
 
     translations:
         inglez: island
+        ebreo: אי
         fransez: île
         portugez: ilha
         kasteyano: isla
@@ -23,6 +24,7 @@ versions:
 
     translations:
         inglez: islands
+        ebreo: איים
         fransez: île
         portugez: ilhas
         kasteyano: islas

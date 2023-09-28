@@ -14,8 +14,12 @@ versions:
 
     translations:
         inglez:
-        - shelter
-        - refuge
+          - shelter
+          - refuge
+          - hideout
+        ebreo:
+          - מקלט
+          - מחסה
         fransez: abris
         portugez:
         - abrigo
@@ -41,6 +45,9 @@ versions:
         inglez:
         - shelters
         - refuges
+        ebreo:
+          - מקלטים
+          - מחסות
         fransez: abris
         portugez:
         - abrigos
