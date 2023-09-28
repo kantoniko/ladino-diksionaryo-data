@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: en
+    rashi: אין
 
     translations:
         inglez:
