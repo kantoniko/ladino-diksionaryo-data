@@ -1,0 +1,20 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: menudo
+    rash: מינודו
+
+    translations:
+      inglez:
+        - small
+      fransez: ''
+      ebreo:
+        - זעיר
+        - קטן
+        - דק
+        - עדין
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
