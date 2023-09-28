@@ -6,6 +6,7 @@ linguas:
 versions:
   - ladino: zingano
     accented: zíngano
+    rashi: זינגאנו
 
     gender: masculine
     number: singular
@@ -20,6 +21,7 @@ versions:
 
   - ladino: zingana
     accented: zíngana
+    rashi: זינגאנה
 
     gender: feminine
     number: singular
@@ -34,6 +36,7 @@ versions:
 
   - ladino: zinganos
     accented: zínganos
+    rashi: זינגאנוס
 
     gender: masculine
     number: plural
@@ -46,8 +49,9 @@ versions:
       kasteyano: gitanos
       turko: ''
 
-  - ladino: zingana
-    accented: zíngana
+  - ladino: zinganas
+    accented: zínganas
+    rashi: זינגאנאס
 
     gender: feminine
     number: plural

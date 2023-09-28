@@ -4,6 +4,8 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: muncho
+    rashi: מונגﬞו
+
     gender: masculine
     #number: singular plural
 

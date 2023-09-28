@@ -3,9 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: zodiako
+    rashi: זודייאקו
+
+    gender: masculine
+    number: singular
+
 
     translations:
         inglez: zodiac
+        ebreo:
+          - גלגל המזלות
+          - זודיאק
         fransez: zodiaque
         portugez: ''
         kasteyano: zodíaco
