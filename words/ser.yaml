@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: ser
+    rashi: סיר
 
     translations:
         inglez: to be
@@ -15,18 +16,21 @@ conjugations:
   prezente:
     yo:
       ladino: so
+      rashi: סו
       translations:
         inglez: I am
         kasteyano: soy
 
     tu:
       ladino: sos
+      rashi: סוס
       translations:
         inglez: you are
         kasteyano: eres
 
     el:
       ladino: es
+      rashi: איס
       translations:
         inglez:
           - he is
@@ -36,18 +40,21 @@ conjugations:
 
     mozotros:
       ladino: semos
+      rashi: סימוס
       translations:
         inglez: we are
         kasteyano: somos
 
     vozotros:
       ladino: sosh
+      rashi: סוש
       translations:
         inglez: you are
         kasteyano: sois
 
     eyos:
       ladino: son
+      rashi: סון
       translations:
         inglez: they are
         kasteyano: son

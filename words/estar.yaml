@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: estar
+    rashi: איסטאר
 
     translations:
         inglez: to be
@@ -17,18 +18,21 @@ conjugations:
   prezente:
     yo:
       ladino: estó
+      rashi: איסטו
       translations:
         inglez: I am
         kasteyano: ''
 
     tu:
       ladino: estás
+      rashi: איסטאס
       translations:
         inglez: you are
         kasteyano: ''
 
     el:
       ladino: está
+      rashi: איסטה
       translations:
         inglez:
           - he is
@@ -38,18 +42,21 @@ conjugations:
 
     mozotros:
       ladino: estamos
+      rashi: איסטאמוס
       translations:
         inglez: we are
         kasteyano: ''
 
     vozotros:
       ladino: estásh
+      rashi: איסטאש
       translations:
         inglez: you are
         kasteyano: ''
 
     eyos:
       ladino: están
+      rashi: איסטאן
       translations:
         inglez: they are
         kasteyano: ''

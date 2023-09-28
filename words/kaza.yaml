@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: kaza
+    rashi: קאזה
 
     gender: feminine
     number: singular

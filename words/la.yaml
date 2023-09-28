@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: la
+    rashi: לה
 
     gender: feminine
     number: singular
@@ -20,6 +21,7 @@ versions:
         - o (dişi)
 
   - ladino: las
+    rashi: לאס
 
     gender: feminine
     number: plural
