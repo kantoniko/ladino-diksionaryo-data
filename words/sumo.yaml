@@ -5,9 +5,15 @@ kategorias:
 
 versions:
   - ladino: sumo
+    rashi: סומו
+
+    gender: masculine
+    number: singular
 
     translations:
         inglez: juice
+        ebreo:
+          - מיץ
         fransez: ''
         portugez: suco
         kasteyano:

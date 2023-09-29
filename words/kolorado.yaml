@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: kolorado
     accented: kolorádo
+    rashi: קולוראדו
 
     gender: masculine
     number: singular
@@ -19,6 +20,7 @@ versions:
 
   - ladino: kolorada
     accented: koloráda
+    rashi: קולוראדה
 
     gender: feminine
     number: singular

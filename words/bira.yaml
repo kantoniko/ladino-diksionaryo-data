@@ -5,9 +5,15 @@ kategorias:
 
 versions:
   - ladino: bira
+    rashi: בירה
+
+    gender: feminine
+    number: singular
 
     translations:
         inglez: beer
+        ebreo:
+          - בירה
         fransez: bière
         portugez: cerveja
         kasteyano: cerveza

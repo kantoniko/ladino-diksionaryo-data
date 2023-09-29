@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: kave
     accented: kavé
+    rashi: קאבﬞי
 
     alternative-spelling:
       - ladino: kafe
@@ -18,6 +19,7 @@ versions:
         inglez:
         - coffee
         - café
+        ebreo: קפה
         fransez: ''
         portugez: café
         kasteyano: café

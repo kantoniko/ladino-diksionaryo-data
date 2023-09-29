@@ -2,16 +2,22 @@ grammar: NA
 orijen: Jeneral
 kategorias:
   - bevidas
+linguas:
+  - turko
 
 versions:
   - ladino: chay
     rashi: גﬞאיי
 
+    gender: masculine
+    number: singular
+
     translations:
         inglez: tea
+        ebreo:
+          - תה
         fransez: thé
         portugez: chá
         kasteyano: te
         turko: çay
-
 
