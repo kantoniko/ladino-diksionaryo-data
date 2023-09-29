@@ -6,12 +6,18 @@ kategorias:
 versions:
   - ladino: alkol
     accented: alkól
+    rashi: אלקול
 
     gender: masculine
     number: singular
 
+    alternative-spelling:
+      - ladino: alkool
+        rashi: אלקואול
+
     translations:
         inglez: alcohol
+        ebreo: אלכוהול
         fransez: alcool
         portugez: álcool
         kasteyano: alcohol
