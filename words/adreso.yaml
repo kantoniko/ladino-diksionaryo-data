@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: adreso
     accented: adréso
+    rashi: אדריסו
 
     gender: masculine
     number: singular
@@ -20,6 +21,7 @@ versions:
 
   - ladino: adresos
     accented: adrésos
+    rashi: אדריסוס
 
     gender: masculine
     number: plural

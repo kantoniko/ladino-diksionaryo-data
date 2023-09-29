@@ -5,7 +5,8 @@ kategorias:
 
 versions:
   - ladino: Israel
-    rashi: איסראיל
+    rashi: ישראל
+      #rashi: איסראיל
 
     translations:
       inglez: Israel

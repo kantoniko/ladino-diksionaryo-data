@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: abrevar
     accented: abrevár
+    rashi: אבריבﬞאר
+
     translations:
         inglez:
           - water (animal)

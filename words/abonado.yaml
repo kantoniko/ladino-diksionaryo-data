@@ -4,6 +4,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: abonado
+    rashi: אבונאדו
 
     gender: masculine
     number: singular
@@ -17,6 +18,7 @@ versions:
       turko: ''
 
   - ladino: abonada
+    rashi: אבונאדה
 
     gender: feminine
     number: singular

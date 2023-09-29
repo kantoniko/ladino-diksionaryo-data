@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: abrigo
     accented: abrígo
+    rashi: אבריגו
 
     alternative-spelling:
       - ladino: avrigo
@@ -33,6 +34,7 @@ versions:
 
   - ladino: abrigos
     accented: abrígos
+    rashi: אבריגוס
 
     alternative-spelling:
       - ladino: avrigos

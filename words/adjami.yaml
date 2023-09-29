@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: adjami
     accented: adjamí
+    rashi: אגﬞאמי
 
     alternative-spelling:
       - ladino: adjamia

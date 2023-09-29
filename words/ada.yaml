@@ -4,6 +4,7 @@ orijen: Estanbol
 versions:
   - ladino: ada
     accented: adá
+    rashi: אדה
 
     gender: feminine
     number: singular

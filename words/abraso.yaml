@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: abraso
     accented: abráso
+    rashi: אבראסו
 
     gender: masculine
     number: singular
@@ -22,6 +23,7 @@ versions:
 
   - ladino: abrasos
     accented: abrásos
+    rashi: אבראסוס
 
     gender: masculine
     number: plural
