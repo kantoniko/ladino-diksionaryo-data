@@ -18,5 +18,30 @@ versions:
         - alışmak
         - öğrenmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: ambezarme
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: ambezarte
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: ambezarse
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: ambezarmos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
 
