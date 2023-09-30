@@ -1,0 +1,60 @@
+grammar: adverb
+orijen: NA
+
+versions:
+  - ladino: basho
+    rashi: באשו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: below
+      ebreo: מתחת ל
+      fransez: ''
+      portugez: ''
+      kasteyano: bajo
+      turko: ''
+
+  - ladino: basha
+    rashi: באשה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: below
+      ebreo: מתחת ל
+      fransez: ''
+      portugez: ''
+      kasteyano: baja
+      turko: ''
+
+  - ladino: bashos
+    rashi: באשוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: below
+      ebreo: מתחת ל
+      fransez: ''
+      portugez: ''
+      kasteyano: bajos
+      turko: ''
+
+  - ladino: bashas
+    rashi: באשאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: below
+      ebreo: מתחת ל
+      fransez: ''
+      portugez: ''
+      kasteyano: bajas
+      turko: ''
+
