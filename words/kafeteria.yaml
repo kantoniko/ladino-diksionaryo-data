@@ -1,0 +1,34 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: kafeteria
+    accented: kafetería
+    rashi: קאפﬞיטיריאה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: cafeteria
+      ebreo: קפטריה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: kafeterias
+    accented: kafeterías
+    rashi: קאפﬞיטיריאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: cafeteries
+      ebreo: קפטריות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
