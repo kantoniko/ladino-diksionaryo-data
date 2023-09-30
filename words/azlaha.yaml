@@ -1,9 +1,12 @@
 grammar: NA
 orijen: Jeneral
+linguas:
+  - ebreo
 
 versions:
   - ladino: azlaha
     accented: azlahá
+    rashi: הצלחה
 
     gender: feminine
     number: singular
@@ -12,6 +15,10 @@ versions:
         inglez:
         - success
         - abundance
+        ebreo:
+          - הצלחה
+          - שגשוג
+          - שפע
         fransez: ''
         portugez: ''
         kasteyano:

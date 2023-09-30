@@ -3,9 +3,13 @@ orijen: Jeneral
 
 versions:
   - ladino: azer
+    rashi: אזיר
 
     translations:
         inglez: do
+        ebreo:
+          - לעשות
+          - ליצור
         fransez: ''
         portugez: ''
         kasteyano: hacer

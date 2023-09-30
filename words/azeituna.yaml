@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: azeituna
+    rashi: אזייטונה
 
     gender: feminine
     number: singular
@@ -22,6 +23,7 @@ versions:
       turko: ''
 
   - ladino: azeitunas
+    rashi: אזייטונאס
 
     gender: feminine
     number: plural

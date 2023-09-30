@@ -1,11 +1,22 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - komidas
 
 versions:
   - ladino: azete
+    rashi: אזיטי
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: azeite
+        rashi: אזייטי
 
     translations:
         inglez: oil
+        ebreo: שמן
         fransez: huile
         portugez: ''
         kasteyano: aceite
