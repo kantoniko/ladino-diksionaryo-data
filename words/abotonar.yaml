@@ -3,6 +3,7 @@ orijen: NA
 
 versions:
   - ladino: abotonar
+    rashi: אבוטונאר
 
     translations:
       inglez: button

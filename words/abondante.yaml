@@ -4,11 +4,15 @@ orijen: Jeneral
 versions:
   - ladino: abondante
     accented: abondánte
+    rashi: אבונדאנטי
 
     translations:
         inglez:
         - abundant
         - plentiful
+        ebreo:
+          - שופע
+          - מצוי בשפע
         fransez: abondant
         portugez: ''
         kasteyano: abundante

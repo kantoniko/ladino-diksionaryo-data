@@ -4,8 +4,11 @@ orijen: Jeneral
 versions:
   - ladino: abashada
     accented: abasháda
+    rashi: אבאשאדה
+
     gender: feminine
     number: singular
+
     translations:
         inglez: downhill
           # to go
@@ -24,6 +27,7 @@ versions:
 
   - ladino: abashada
     accented: abasháda
+
     translations:
         inglez:
         - cold

@@ -3,6 +3,7 @@ orijen: Jeneral
 versions:
   - ladino: abastar
     accented: abastár
+    rashi: אבאסטאר
 
     alternative-spelling:
       - ladino: bastar
@@ -12,6 +13,8 @@ versions:
         inglez:
           - be sufficient
           - be enough
+        ebreo:
+          - להספיק
         fransez: ''
         portugez: ''
         kasteyano: bastar

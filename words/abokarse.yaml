@@ -4,11 +4,12 @@ orijen: Jeneral
 versions:
   - ladino: abokarse
     accented: abokárse
+    rashi: אבוקארסי
 
     translations:
         inglez: to lean forward
         fransez: s'incliner
-        portugez: ' inclinar-se'
+        portugez: 'inclinar-se'
         kasteyano: inclinarse
         turko: eğilmek
 
