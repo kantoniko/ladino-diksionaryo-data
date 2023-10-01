@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: aedado
     accented: aedádo
+    rashi: אאידאדו
+
     gender: masculine
     number: singular
 
@@ -21,6 +23,8 @@ versions:
 
   - ladino: aedada
     accented: aedáda
+    rashi: אאידאדה
+
     gender: feminine
     number: singular
 
@@ -38,6 +42,8 @@ versions:
 
   - ladino: aedados
     accented: aedádos
+    rashi: אאידאדוס
+
     gender: masculine
     number: plural
 
@@ -55,6 +61,8 @@ versions:
 
   - ladino: aedadas
     accented: aedádas
+    rashi: אאידאדאס
+
     gender: feminine
     number: plural
 

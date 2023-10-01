@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: afito
     accented: afíto
+    rashi:  אפﬞיטו
 
     gender: masculine
     number: singular
@@ -13,6 +14,9 @@ versions:
           - happening
           - event
           - constipation
+        ebreo:
+          - מקרה
+          - קלקול קיבה
         fransez: ''
         portugez: ''
         kasteyano:

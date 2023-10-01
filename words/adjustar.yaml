@@ -4,11 +4,16 @@ orijen: Jeneral
 versions:
   - ladino: adjustar
     accented: adjustár
+    rashi: אגﬞוסטאר
 
     translations:
         inglez: add
+        ebreo:
+          - להוסיף
+          - להשלים
+          - להגדיל
         fransez: ajouter
-        portugez: 
+        portugez:
            - acrescentar
            - adicionar
         kasteyano: añadir

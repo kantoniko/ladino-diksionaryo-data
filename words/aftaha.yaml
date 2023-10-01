@@ -6,6 +6,7 @@ linguas:
 versions:
   - ladino: aftaha
     accented: aftahá
+    rashi: אפﬞטאחה
 
     alternative-spelling:
       - ladino: avtaha
@@ -15,11 +16,12 @@ versions:
     number: singular
 
     translations:
-        inglez: hope
-        fransez: ''
-        portugez: esperança
-        kasteyano: esperansa
-        turko:
+      inglez: hope
+      ebreo: תקווה
+      fransez: ''
+      portugez: esperança
+      kasteyano: esperansa
+      turko:
         - ümit
         - umut
 

@@ -6,6 +6,7 @@ linguas:
 versions:
   - ladino: agada
     accented: agadá
+    rashi: אגדה
 
     gender: feminine
     number: singular

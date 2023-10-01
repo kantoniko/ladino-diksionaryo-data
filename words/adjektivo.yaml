@@ -4,12 +4,16 @@ orijen: Jeneral
 versions:
   - ladino: adjektivo
     accented: adjektívo
+    rashi: אגﬞיקטיבﬞו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: adjective
+        ebreo:
+          - תואר השם
+          - שם תואר
         fransez: ''
         portugez: adjetivo
         kasteyano: adjetivo
@@ -17,6 +21,7 @@ versions:
 
   - ladino: adjektivos
     accented: adjektívos
+    rashi: אגﬞיקטיבﬞוס
 
     gender: masculine
     number: plural

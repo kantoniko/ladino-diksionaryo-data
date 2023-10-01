@@ -9,11 +9,15 @@ versions:
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - haste
         - hurry
-        fransez: hâte
-        portugez: pressa
-        kasteyano: prisa
-        turko: acele
+      ebreo:
+        - חפזון
+        - פזיזות
+        - מהירות
+      fransez: hâte
+      portugez: pressa
+      kasteyano: prisa
+      turko: acele
 
