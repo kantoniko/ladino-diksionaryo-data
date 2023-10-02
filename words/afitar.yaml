@@ -4,18 +4,19 @@ orijen: Jeneral
 versions:
   - ladino: afitar
     accented: afitár
+    rashi: אפﬞיטאר
 
     translations:
-        inglez:
+      inglez:
         - happen
         - occur
-        fransez: survenir
-        portugez: ''
-        kasteyano:
+      fransez: survenir
+      portugez: ''
+      kasteyano:
         - ocurrir
         - acontecer
         - suceder
-        turko:
+      turko:
         - meydana gelmek
         - vuku bulmak
 

@@ -4,20 +4,27 @@ orijen: Jeneral
 versions:
   - ladino: aferrado
     accented: aferrádo
+    rashi: אפﬞיראדו
+
     gender: masculine
     number: singular
 
     translations:
         inglez: smitten
+        ebreo:
+          - תפוס
+          - נטרף מאהבה
         fransez:
-        - amouraché
-        - amourachée
+          - amouraché
+          - amourachée
         portugez: ''
         kasteyano: aficionado
         turko: tutkun
 
   - ladino: aferrada
     accented: aferráda
+    rashi: אפﬞיראדה
+
     gender: feminine
     number: singular
 
@@ -32,6 +39,8 @@ versions:
 
   - ladino: aferrados
     accented: aferrádos
+    rashi: אפﬞיראדוס
+
     gender: masculine
     number: plural
 
@@ -46,6 +55,8 @@ versions:
 
   - ladino: aferradas
     accented: aferrádas
+    rashi: אפﬞיראדאס
+
     gender: feminine
     number: plural
 

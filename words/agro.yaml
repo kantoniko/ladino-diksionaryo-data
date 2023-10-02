@@ -1,8 +1,9 @@
-grammar: NA
+grammar: adjective
 orijen: Ladinokomunita
 
 versions:
   - ladino: agro
+    rashi: אגרו
 
     gender: masculine
     number: singular
@@ -16,6 +17,7 @@ versions:
       turko: ''
 
   - ladino: agra
+    rashi: אגרה
 
     gender: feminine
     number: singular
@@ -29,6 +31,7 @@ versions:
       turko: ''
 
   - ladino: agros
+    rashi: אגרוס
 
     gender: masculine
     number: plual
@@ -42,6 +45,7 @@ versions:
       turko: ''
 
   - ladino: agras
+    rashi: אגראס
 
     gender: feminine
     number: plural

@@ -1,10 +1,12 @@
 grammar: NA
 orijen: Ladinokomunita
 kategorias:
+  - plantas
   - frutas
 
 versions:
   - ladino: harova
+    rashi: חארובﬞה
 
     gender: feminine
     number: singular

@@ -3,6 +3,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: afish
+    rashi: אפﬞיש
 
     gender: masculine
     number: singular
@@ -10,7 +11,10 @@ versions:
     translations:
       inglez: poster
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - שלט
+        - כרזה
+        - פוסטר
       portugez: ''
       kasteyano: afiche
       turko: afiş
@@ -23,7 +27,10 @@ versions:
     translations:
       inglez: posters
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - שלטים
+        - כרזות
+        - פוסטרים
       portugez: ''
       kasteyano: afiches
       turko: afişler
