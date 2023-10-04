@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: palavra
+    rashi: פאלאבﬞרה
 
     gender: feminine
     number: singular
@@ -16,6 +17,7 @@ versions:
         turko: kelime
 
   - ladino: palavras
+    rashi: פאלאבﬞראס
 
     gender: feminine
     number: plural

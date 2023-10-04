@@ -6,11 +6,12 @@ versions:
     rashi: מה
 
     translations:
-        inglez: but
-        fransez: ''
-        portugez: ''
-        kasteyano: mas
-        turko:
+      inglez: but
+      ebreo: אבל
+      fransez: ''
+      portugez: ''
+      kasteyano: mas
+      turko:
         - fakat
         - ama
 
