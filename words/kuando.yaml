@@ -5,9 +5,14 @@ kategorias:
 
 versions:
   - ladino: kuando
+    rashi: קואנדו
 
     translations:
         inglez: when
+        ebreo:
+          - מתי
+          - כאשר
+          - כש-
         fransez: ''
         portugez: ''
         kasteyano: cuando

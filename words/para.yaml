@@ -4,14 +4,20 @@ orijen: Jeneral
 versions:
   - ladino: para
     accented: pára
+    rashi: פארה
 
     translations:
-        inglez:
+      inglez:
         - for
         - to
-        fransez: ''
-        portugez: ''
-        kasteyano: para
-        turko: için
+      ebreo:
+        - בשביל
+        - למען
+        - כדי ש-
+        - ל-
+      fransez: ''
+      portugez: ''
+      kasteyano: para
+      turko: için
 
 
