@@ -1,18 +1,54 @@
 grammar: NA
 orijen: Jeneral
+linguas:
+  - fransez
 
 versions:
   - ladino: tablo
+    accented: tabló
+    rasho: טאבלו
+
+    gender: masculine
+    number: singular
+
 
     translations:
-        inglez:
+      inglez:
         - picture
         - painting
-        fransez: tableau
-        portugez: ''
-        kasteyano: pintura
-        turko:
+      ebreo:
+        - לוח
+        - מסגרת
+        - תמונה
+        - ציור
+      fransez: tableau
+      portugez: ''
+      kasteyano: pintura
+      turko:
         - resim
         - tablo
+
+  - ladino: tablos
+    accented: tablós
+    rasho: טאבלוס
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      inglez:
+        - pictures
+        - paintings
+      ebreo:
+        - לוחות
+        - מסגרות
+        - תמונות
+        - ציורים
+      fransez: ''
+      portugez: ''
+      kasteyano: pinturas
+      turko: ''
+
 
 

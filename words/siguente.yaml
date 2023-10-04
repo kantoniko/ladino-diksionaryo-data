@@ -1,0 +1,24 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: siguente
+    rashi: סיגואינטי
+
+    alternative-spelling:
+      - ladino: sigiente
+      - ladino: sigyente
+
+    translations:
+      inglez:
+        - next
+        - following
+      ebreo:
+        - העוקב
+        - הבא
+        - הבא אחרי
+      fransez: ''
+      portugez: ''
+      kasteyano: siguiente
+      turko: ''
+

@@ -3,6 +3,8 @@ orijen: Jeneral
 
 versions:
   - ladino: dia
+    accented: día
+    rashi: דיאה
 
     gender: masculine
     number: singular
@@ -19,6 +21,7 @@ versions:
         turko: gün
 
   - ladino: dias
+    rashi: דיאס
 
     gender: masculine
     number: plural

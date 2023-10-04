@@ -9,6 +9,11 @@ versions:
         inglez:
           - of
           - from
+        ebreo:
+          - מ
+          - מן
+          - של
+          - ב
         fransez: ''
         portugez: ''
         kasteyano: de

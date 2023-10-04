@@ -3,12 +3,38 @@ orijen: Jeneral
 
 versions:
   - ladino: entero
+    rashi: אינטירו
+
+    gender: masculine
+    number: singular
+
 
     translations:
         inglez: whole
+        ebreo:
+          - שלם
+          - מלא
         fransez: ''
         portugez: ''
         kasteyano: entero
         turko: bütün
+
+
+  - ladino: entera
+    rashi: אינטירה
+
+    gender: feminine 
+    number: singular
+
+
+    translations:
+        inglez: whole
+        ebreo:
+          - שלמה
+          - מלאה
+        fransez: ''
+        portugez: ''
+        kasteyano: entera
+        turko: ''
 
 

@@ -7,6 +7,9 @@ versions:
 
     translations:
         inglez: of the
+        ebreo:
+          - של
+          - מ
         fransez: ''
         portugez: ''
         kasteyano: del

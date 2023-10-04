@@ -10,6 +10,7 @@ versions:
 
     translations:
         inglez: he
+        ebreo: הוא
         fransez: il
         portugez: ele
         kasteyano: él
@@ -22,6 +23,7 @@ versions:
 
     translations:
         inglez: they
+        ebreo: הם
         fransez: ils
         portugez: eles
         kasteyano: ellos

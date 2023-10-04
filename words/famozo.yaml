@@ -8,11 +8,14 @@ versions:
     number: singular
 
     translations:
-        inglez: famous
-        fransez: ''
-        portugez: ''
-        kasteyano: famoso
-        turko: ünlü
+      inglez: famous
+      ebreo:
+        - ידוע
+        - מפורסם
+      fransez: ''
+      portugez: ''
+      kasteyano: famoso
+      turko: ünlü
 
   - ladino: famoza
     rashi: פﬞאמוזה
@@ -21,11 +24,14 @@ versions:
     number: singular
 
     translations:
-        inglez: famous
-        fransez: ''
-        portugez: ''
-        kasteyano: famosa
-        turko: ünlü
+      inglez: famous
+      ebreo:
+        - ידועה
+        - מפורמתם
+      fransez: ''
+      portugez: ''
+      kasteyano: famosa
+      turko: ünlü
 
   - ladino: famozos
 
@@ -33,11 +39,14 @@ versions:
     number: plural
 
     translations:
-        inglez: famous
-        fransez: ''
-        portugez: ''
-        kasteyano: famosos
-        turko: ünlü
+      inglez: famous
+      ebreo:
+        - ידועים
+        - מפורסמים
+      fransez: ''
+      portugez: ''
+      kasteyano: famosos
+      turko: ünlü
 
   - ladino: famozas
 
@@ -45,11 +54,14 @@ versions:
     number: plural
 
     translations:
-        inglez: famous
-        fransez: ''
-        portugez: ''
-        kasteyano: famosas
-        turko: ünlü
+      inglez: famous
+      ebreo:
+        - ידועות
+        - מפורסמות
+      fransez: ''
+      portugez: ''
+      kasteyano: famosas
+      turko: ünlü
 
 
 

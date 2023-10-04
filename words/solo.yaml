@@ -4,35 +4,45 @@ orijen: Jeneral
 versions:
   - ladino: solo
     accented: sólo
+    rashi: סולו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez:
-          - only
-          - alone
-        fransez: ''
-        portugez: ''
-        kasteyano: sólo
-        turko:
-          - sadece
-          - yalnız
+      inglez:
+        - only
+        - alone
+      ebreo:
+        - רק
+        - בלבד
+      fransez: ''
+      portugez: ''
+      kasteyano: sólo
+      turko:
+        - sadece
+        - yalnız
 
   - ladino: sola
     accented: sóla
+    rashi: סולה
+
     gender: feminine
     number: singular
 
     translations:
-        inglez:
-          - only
-          - alone
-        fransez: ''
-        portugez: ''
-        kasteyano: sóla
-        turko:
-          - sadece
-          - yalnız
+      inglez:
+        - only
+        - alone
+      ebreo:
+        - רק
+        - בלבד
+      fransez: ''
+      portugez: ''
+      kasteyano: sóla
+      turko:
+        - sadece
+        - yalnız
 
 
 

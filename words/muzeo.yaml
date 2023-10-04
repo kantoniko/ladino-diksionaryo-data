@@ -4,10 +4,13 @@ orijen: Jeneral
 versions:
   - ladino: muzeo
     accented: muzéo
+    rashi: מוזיאו
 
     alternative-spelling:
       - ladino: museo
         accented: muséo
+      - ladino: muzeum
+        rashi: מוזיאום
 
     gender: masculine
     number: singular

@@ -1,0 +1,68 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: serrado
+    rashi: סיראדו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: closed
+      ebreo:
+        - סגור
+        - נעול
+      fransez: ''
+      portugez: ''
+      kasteyano: cerrado
+      turko: ''
+
+  - ladino: serrada
+    rashi: סיראדה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: closed
+      ebreo:
+        - סגורה
+        - נעולה
+      fransez: ''
+      portugez: ''
+      kasteyano: cerrada
+      turko: ''
+
+  - ladino: serrados
+    rashi: סיראדוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: closed
+      ebreo:
+        - סגורים
+        - נעולים
+      fransez: ''
+      portugez: ''
+      kasteyano: cerrados
+      turko: ''
+
+  - ladino: serradas
+    rashi: סיראדאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: closed
+      ebreo:
+        - סגורות
+        - נעולות
+      fransez: ''
+      portugez: ''
+      kasteyano: cerradas
+      turko: ''
+

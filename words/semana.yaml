@@ -3,24 +3,28 @@ orijen: Jeneral
 
 versions:
   - ladino: semana
+    rashi: סימאנה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: week
+        ebreo: שבוע
         fransez: ''
         portugez: ''
         kasteyano: semana
         turko: hafta
 
   - ladino: semanas
+    rashi: סימאנאס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: weeks
+        ebreo: שבועות
         fransez: ''
         portugez: ''
         kasteyano: semanas

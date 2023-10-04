@@ -3,15 +3,23 @@ orijen: Jeneral
 
 versions:
   - ladino: polisiya
+    rashi: פוליסיאה
+
+    alternative-spelling:
+      - ladino: polisia
+        accented: polisía
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: police
-        fransez: ''
-        portugez: ''
-        kasteyano: policía
-        turko: polis
+      inglez: police
+      ebreo:
+        - משטרה
+        - תחנת משטרה
+      fransez: ''
+      portugez: ''
+      kasteyano: policía
+      turko: polis
 
 

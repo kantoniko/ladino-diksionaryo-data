@@ -4,12 +4,20 @@ orijen: Jeneral
 versions:
   - ladino: grande
     accented: gránde
+    rasho: גראנדי
 
     alternative-spelling:
       - ladino: gran
 
     translations:
-        inglez: big
+        inglez:
+          - big
+          - tall
+          - mature
+        ebreo:
+          - גדול
+          - גבוה
+          - מבוגר
         fransez: grand
         portugez: grande
         kasteyano: grande
