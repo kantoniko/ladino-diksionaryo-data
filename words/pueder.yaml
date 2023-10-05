@@ -20,6 +20,9 @@ conjugations:
       translations:
         inglez: can
         kasteyano: puedo
+        ebreo:
+          - יכול
+          - יכולה
 
     tu:
       ladino: puedes

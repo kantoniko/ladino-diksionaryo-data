@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: traduksion
     accented: traduksión
+    rashi: טראדוקסייון
 
     alternative-spelling:
       - ladino: traduksyon
@@ -14,6 +15,7 @@ versions:
 
     translations:
         inglez: translation
+        ebreo: תרגום
         fransez: ''
         portugez: ''
         kasteyano: traducción
@@ -21,6 +23,7 @@ versions:
 
   - ladino: traduksiones
     accented: traduksiónes
+    rashi: טראדוקסייוניס
 
     alternative-spelling:
       - ladino: traduksyones
@@ -31,6 +34,7 @@ versions:
 
     translations:
         inglez: translations
+        ebreo: תרגוםים
         fransez: ''
         portugez: ''
         kasteyano: traducciónes
