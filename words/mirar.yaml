@@ -3,9 +3,14 @@ orijen: Jeneral
 
 versions:
   - ladino: mirar
+    rashi: מיראר
 
     translations:
         inglez: look
+        ebreo:
+          - להסתכל
+          - להביט
+          - לצפות
         fransez: ''
         portugez: ''
         kasteyano: mirar

@@ -3,9 +3,13 @@ orijen: Jeneral
 
 versions:
   - ladino: ver
+    rashi: בﬞיר
 
     translations:
         inglez: see
+        ebreo:
+          - לראות
+          - להסתכל
         fransez: voir
         portugez: ''
         kasteyano: ver
@@ -15,6 +19,10 @@ conjugations:
   prezente:
     yo:
       ladino: veo
+      ebreo:
+        - רואה
+        - מסתכל
+        - מסתכלת
       translations:
         inglez: see
         kasteyano: veo

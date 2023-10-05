@@ -1,15 +1,19 @@
 grammar: NA
 orijen: Aki Yerushalayim
+linguas:
+  - ebreo
 
 versions:
   - ladino: rabino
     accented: rabíno
+    rashi: רבינו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: rabbi
+        ebreo: רב
         fransez: ''
         portugez: ''
         kasteyano: rabino
