@@ -23,7 +23,7 @@ versions:
   - ladino: entera
     rashi: אינטירה
 
-    gender: feminine 
+    gender: feminine
     number: singular
 
 
@@ -35,6 +35,39 @@ versions:
         fransez: ''
         portugez: ''
         kasteyano: entera
+        turko: ''
+
+  - ladino: enteros
+    rashi: אינטירוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: whole
+        ebreo:
+          - שלמי
+          - מלאים
+        fransez: ''
+        portugez: ''
+        kasteyano: enteros
+        turko: ''
+
+
+  - ladino: enteras
+    rashi: אינטיראס
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: whole
+        ebreo:
+          - שלמות
+          - מלאות
+        fransez: ''
+        portugez: ''
+        kasteyano: enteras
         turko: ''
 
 

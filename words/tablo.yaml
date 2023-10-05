@@ -6,7 +6,7 @@ linguas:
 versions:
   - ladino: tablo
     accented: tabló
-    rasho: טאבלו
+    rashi: טאבלו
 
     gender: masculine
     number: singular
@@ -30,7 +30,7 @@ versions:
 
   - ladino: tablos
     accented: tablós
-    rasho: טאבלוס
+    rashi: טאבלוס
 
     gender: masculine
     number: plural
