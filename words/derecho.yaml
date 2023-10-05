@@ -4,33 +4,41 @@ orijen: Jeneral
 versions:
   - ladino: derecho
     accented: derécho
+    rashi: דיריגﬞו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - right
         - straight
-        fransez: ''
-        portugez: ''
-        kasteyano: derecho
-        turko:
+      ebreo:
+        - ישר
+        - הגון
+      fransez: ''
+      portugez: ''
+      kasteyano: derecho
+      turko:
         - hak
         - yetki
         - doğru
 
   - ladino: derechos
     accented: deréchos
+    rashi: דיריגﬞוס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - rights
-        fransez: ''
-        portugez: ''
-        kasteyano: derechos
-        turko: ''
+      ebreo:
+        - ישרים
+        - הגונים
+      fransez: ''
+      portugez: ''
+      kasteyano: derechos
+      turko: ''
 

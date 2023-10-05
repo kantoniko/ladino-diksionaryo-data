@@ -1,0 +1,21 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: internasional
+    rashi: אינטירנאסייונאל
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: enternasional
+
+    translations:
+      inglez: international
+      ebreo: בינלאומי
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
