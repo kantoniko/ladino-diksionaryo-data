@@ -1,23 +1,32 @@
-comments: '(n+adj.)'
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
   - ladino: amigo
     accented: amígo
+    rashi: אמיגו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: friend
+        inglez:
+          - friend
+          - companion
+          - comrade
         fransez: ami
-        ebreo: חבר
+        ebreo:
+          - חבר
+          - עמית
+          - ידיד
         portugez: amigo
         kasteyano: amigo
         turko: arkadaş
 
   - ladino: amiga
     accented: amíga
+    rashi: אמיגה
+
     gender: feminine
     number: singular
 
@@ -31,6 +40,8 @@ versions:
 
   - ladino: amigos
     accented: amígos
+    rashi: אמיגוס
+
     gender: masculine
     number: plural
 
@@ -44,6 +55,8 @@ versions:
 
   - ladino: amigas
     accented: amígas
+    rashi: אמיגאס
+
     gender: feminine
     number: plural
 

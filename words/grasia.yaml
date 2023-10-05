@@ -3,12 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: grasia
+    rashi: גראסייה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: grace
+        ebreo:
+          - חן
+          - חסד
+          - קסם
         fransez: ''
         portugez: ''
         kasteyano: gracia

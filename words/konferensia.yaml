@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: konferensia
     accented: konferénsia
+    rashi: קונפﬞירינסייה
 
     alternative-spelling:
       - ladino: konferensya
@@ -13,6 +14,11 @@ versions:
 
     translations:
         inglez: conference
+        ebreo:
+          - הרצאה
+          - ועידה
+          - אסיפה
+          - כנס
         fransez: ''
         portugez: ''
         kasteyano: conferencia
@@ -20,6 +26,7 @@ versions:
 
   - ladino: konferensias
     accented: konferénsias
+    rashi: קונפﬞירינסייאס
 
     alternative-spelling:
       - ladino: konferensyas
@@ -29,6 +36,11 @@ versions:
 
     translations:
         inglez: conferences
+        ebreo:
+          - הרצאות
+          - ועידות
+          - אסיפות
+          - כנסים
         fransez: ''
         portugez: ''
         kasteyano: conferencias

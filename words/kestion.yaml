@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: kestion
     accented: kestión
+    rashi: קיסטייון
 
     alternative-spelling:
       - ladino: kestyon
@@ -14,6 +15,7 @@ versions:
 
     translations:
         inglez: question
+        ebreo: שאלה
         fransez: ''
         portugez: ''
         kasteyano:
@@ -23,6 +25,7 @@ versions:
 
   - ladino: kestiones
     accented: kestiónes
+    rashi: קיסטייונים
 
     alternative-spelling:
       - ladino: kestyones
@@ -33,6 +36,7 @@ versions:
 
     translations:
         inglez: questions
+        ebreo: שאלות
         fransez: ''
         portugez: ''
         kasteyano:

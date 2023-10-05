@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: lingua
     accented: língua
+    rashi: לינגואה
 
     alternative-spelling:
       - ladino: lengua
@@ -13,20 +14,24 @@ versions:
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - tongue
         - language
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - שפה
+        - לשון
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - lengua
         - lenguaje
-        turko:
+      turko:
         - dil
         - lisan
 
   - ladino: linguas
     accented: línguas
+    rashi: לינגואס
 
     alternative-spelling:
       - ladino: lenguas
@@ -36,15 +41,17 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - tongues
         - languages
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - שפות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - lenguas
         - lenguajes
-        turko:
+      turko:
         - dil
         - lisan
 

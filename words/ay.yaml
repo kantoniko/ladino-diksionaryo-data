@@ -4,15 +4,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: ay
-    #accented:
-
-    #gender: NA # masculine feminine
-    #number: singular plural
-
-    #alternative-spelling:
-    #  - ladino:
-    #    accented:
-
+    rashi: איי
 
     translations:
       inglez:

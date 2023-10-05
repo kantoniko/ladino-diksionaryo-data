@@ -4,16 +4,20 @@ orijen: Jeneral
 versions:
   - ladino: prensa
     accented: prénsa
+    rashi: פרינסה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: the press
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: the press
+      ebreo:
+        - עתונות
+        - אנשי העתונות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - prensa
         - imprenta
-        turko: basın
+      turko: basın
 

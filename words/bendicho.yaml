@@ -3,6 +3,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: bendicho
+    rashi: בינדיגﬞו
 
     alternative-spelling:
       - ladino: bindicho
@@ -13,12 +14,16 @@ versions:
     translations:
       inglez: blessed
       fransez: ''
-      ebreo: ''
-      portugez: bendito 
+      ebreo:
+        - ברוך
+        - מבורך
+        - מקודש
+      portugez: bendito
       kasteyano: bendecido
       turko: ''
 
   - ladino: bendicha
+    rashi: בינדיגﬞה
 
     alternative-spelling:
       - ladino: bindicha
@@ -29,12 +34,16 @@ versions:
     translations:
       inglez: blessed
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - ברוכה
+        - מבורכת
+        - מקודשת
       portugez: bendita
       kasteyano: bendecida
       turko: ''
 
   - ladino: bendichos
+    rashi: בינדיגﬞוס
 
     alternative-spelling:
       - ladino: bindichos
@@ -45,12 +54,16 @@ versions:
     translations:
       inglez: blessed
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - ברוכים
+        - מבורכים
+        - מקודשים
       portugez: benditos
       kasteyano: bendecidos
       turko: ''
 
   - ladino: bendichas
+    rashi: בינדיגﬞאס
 
     alternative-spelling:
       - ladino: bindichas
@@ -61,7 +74,10 @@ versions:
     translations:
       inglez: blessed
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - ברוכות
+        - מבורכות
+        - מקודשות
       portugez: benditas
       kasteyano: bendecidas
       turko: ''
