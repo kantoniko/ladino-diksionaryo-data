@@ -3,32 +3,41 @@ orijen: Jeneral
 
 versions:
   - ladino: forma
+    rashi: פﬞורמה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - form
         - shape
-        fransez: ''
-        portugez: ''
-        kasteyano: forma
-        turko: tarz
+      ebreo:
+        - צורה
+        - מראה
+        - תבנית
+        - אופן
+      fransez: ''
+      portugez: ''
+      kasteyano: forma
+      turko: tarz
 
   - ladino: formas
+    rashi: פﬞורמאס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - forms
         - shapes
-        fransez: ''
-        portugez: ''
-        kasteyano: formas
-        turko: tarz
+      ebreo:
+        - צורות
+      fransez: ''
+      portugez: ''
+      kasteyano: formas
+      turko: tarz
 
 
 
