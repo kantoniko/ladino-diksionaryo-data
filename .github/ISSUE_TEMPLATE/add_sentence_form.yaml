@@ -1,5 +1,5 @@
-name: Add Sentence
-description: Add a sample sentence in Ladino and in at least on other language.
+name: Adjustar fraza mueva
+description: Adjustar una fraza mueva en ladino kon su traduksion
 title: "Fraza mueva"
 labels: ["example"]
 assignees:
