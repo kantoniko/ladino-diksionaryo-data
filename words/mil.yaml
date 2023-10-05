@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: mil
+    rashi: מיל
 
     translations:
         inglez:
@@ -15,5 +16,18 @@ versions:
         portugez: ''
         kasteyano: mil
         turko: bin
+
+
+  - ladino: miles
+    rashi: מיליס
+
+    translations:
+        inglez:
+          - thousands
+        ebreo: אלפי
+        fransez: ''
+        portugez: ''
+        kasteyano: miles
+        turko: ''
 
 

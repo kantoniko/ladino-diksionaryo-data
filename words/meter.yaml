@@ -3,12 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: meter
+    rashi: מיטיר
 
     alternative-spelling:
       - ladino: pozar
 
     translations:
         inglez: put
+        ebreo:
+          - לשים
+          - להניח
+          - להציב
         fransez: ''
         portugez: ''
         kasteyano: poner

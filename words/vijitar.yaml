@@ -3,9 +3,11 @@ orijen: Jeneral
 
 versions:
   - ladino: vijitar
+    rashi: בﬞיזﬞיטאר
 
     translations:
         inglez: visit
+        ebreo: לבקר
         fransez: visiter
         portugez: ''
         kasteyano: visitar

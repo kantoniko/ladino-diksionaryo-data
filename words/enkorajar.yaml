@@ -3,11 +3,16 @@ orijen: Jeneral
 
 versions:
   - ladino: enkorajar
+    rashi: אינקוראזﬞאר
 
     translations:
         inglez:
           - encourage
           - urge on
+        ebreo:
+          - לעודד
+          - להמריץ
+          - לדרבן
         fransez: ''
         portugez: ''
         kasteyano:
