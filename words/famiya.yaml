@@ -4,12 +4,19 @@ orijen: Jeneral
 versions:
   - ladino: famiya
     accented: famíya
+    rashi: פﬞאמיאה
 
     gender: feminine
     number: singular
 
+    alternative-spelling:
+      - ladino: famia
+        accented: famía
+
     translations:
         inglez: family
+        ebreo:
+          - משפחה
         fransez: famille
         portugez: ''
         kasteyano: familia
@@ -17,12 +24,15 @@ versions:
 
   - ladino: famiyas
     accented: famíyas
+    rashi: פﬞאמיאס
 
     gender: feminine
     number: polural
 
     translations:
         inglez: families
+        ebreo:
+          - משפחות
         fransez: famille
         portugez: ''
         kasteyano: familias

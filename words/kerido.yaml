@@ -3,12 +3,19 @@ orijen: Jeneral
 
 versions:
   - ladino: kerido
+    rashi: קירידו
 
     gender: masculine
     number: singular
 
     translations:
-      inglez: dear
+      inglez:
+        - dear
+        - beloved
+      ebreo:
+        - יקיר
+        - יקר
+        - אהוב
       fransez: ''
       portugez: ''
       kasteyano: querido
@@ -17,12 +24,17 @@ versions:
         - sevgili
 
   - ladino: kerida
+    rashi: קירידה
 
     gender: feminine
     number: singular
 
     translations:
       inglez: dear
+      ebreo:
+        - יקירה
+        - יקרה
+        - אהובה
       fransez: ''
       portugez: ''
       kasteyano: querida
@@ -31,24 +43,34 @@ versions:
         - sevgili
 
   - ladino: keridos
+    rashi: קירידוס
 
     gender: masculine
     number: plural
 
     translations:
       inglez: dear
+      ebreo:
+        - יקירים
+        - יקרים
+        - אהובים
       fransez: ''
       portugez: ''
       kasteyano: queridos
       turko: idem
 
   - ladino: keridas
+    rashi: קירידאס
 
     gender: feminine
     number: plural
 
     translations:
       inglez: dear
+      ebreo:
+        - יקירות
+        - יקרות
+        - אהובות
       fransez: ''
       portugez: ''
       kasteyano: queridas

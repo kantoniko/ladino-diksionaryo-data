@@ -3,30 +3,36 @@ orijen: Jeneral
 
 versions:
   - ladino: programa
+    rashi: פרוגראמה
 
     alternative-spelling:
       - ladino: program
+        rashi: פרוגראם
 
     #gender: NA # masculine feminine both
     number: singular
 
     translations:
         inglez: program
+        ebreo: תכנית
         fransez: ''
         portugez: ''
         kasteyano: programa
         turko: program
 
   - ladino: programas
+    rashi: פרוגראמאס
 
     alternative-spelling:
       - ladino: programes
+        rashi: פרוגראמיס
 
     #gender: NA # masculine feminine both
     number: plural
 
     translations:
         inglez: programs
+        ebreo: תכניות
         fransez: ''
         portugez: ''
         kasteyano: programas

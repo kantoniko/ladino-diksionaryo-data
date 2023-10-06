@@ -13,18 +13,24 @@ versions:
 
     translations:
         inglez: father
+        ebreo:
+          - אב
+          - אבא
         fransez: ''
         portugez: ''
         kasteyano: padre
         turko: baba
 
   - ladino: padres
+    rashi: פאדריס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: fathers
+        ebreo:
+          - אבות
         fransez: ''
         portugez: ''
         kasteyano: padres

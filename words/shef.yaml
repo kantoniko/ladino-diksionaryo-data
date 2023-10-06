@@ -3,9 +3,13 @@ orijen: Jeneral
 
 versions:
   - ladino: shef
+    rashi: שיפﬞ
 
     gender: masculine
     number: singular
+
+    alternative-spelling:
+      - ladino: shefe
 
     translations:
         inglez: chief
