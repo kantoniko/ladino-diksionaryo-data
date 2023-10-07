@@ -4,39 +4,49 @@ orijen: Jeneral
 versions:
   - ladino: letra
     accented: létra
+    rashi: ליטרה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: letter
-        fransez: lettre
-        portugez:
+      inglez: letter
+      ebreo:
+        - מכתב
+        - איגרת
+        - אות
+      fransez: lettre
+      portugez:
         - letra
         - carta
-        kasteyano:
+      kasteyano:
         - carta
         - letra
-        turko:
+      turko:
         - mektup
         - harf
 
   - ladino: letras
     accented: létras
+    rashi: ליטראס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: letters
-        fransez: lettre
-        portugez:
+      inglez: letters
+      ebreo:
+        - מכתבים
+        - איגרות
+        - אותיות
+      fransez: lettre
+      portugez:
         - letras
         - cartas
-        kasteyano:
+      kasteyano:
         - cartas
         - letras
-        turko:
+      turko:
         - mektup
         - harf
 

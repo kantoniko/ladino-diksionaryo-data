@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: problema
     accented: probléma
+    rashi: פרובלימה
 
     gender: masculine
     number: singular
@@ -17,6 +18,7 @@ versions:
 
   - ladino: problemas
     accented: problémas
+    rashi: פרובלימאס
 
     gender: masculine
     number: plural
