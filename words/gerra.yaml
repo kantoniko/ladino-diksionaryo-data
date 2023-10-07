@@ -3,24 +3,32 @@ orijen: Jeneral
 
 versions:
   - ladino: gerra
+    rashi: גירה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: war
+        ebreo:
+          - מלחמה
+          - קרב
         fransez: ''
         portugez: ''
         kasteyano: guerra
         turko: harp
 
   - ladino: gerras
+    rashi: גיראס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: wars
+        ebreo:
+          - מלחמות
+          - קרבות
         fransez: ''
         portugez: ''
         kasteyano: guerras

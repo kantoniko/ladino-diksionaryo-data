@@ -6,9 +6,11 @@ kategorias:
 versions:
   - ladino: kuanto
     accented: kuánto
+    rashi: קואנטו
 
     translations:
         inglez: how much
+        ebreo: כמה
         fransez: ''
         portugez: ''
         kasteyano: cuanto

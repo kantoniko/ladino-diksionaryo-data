@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: dever
     accented: devér
+    rashi: דיבﬞיר
 
     translations:
         inglez: owe
@@ -18,12 +19,14 @@ conjugations:
   prezente:
     yo:
       ladino: devo
+      rashi: דיבﬞו
       translations:
         inglez: owe
         kasteyano: debo
 
     tu:
       ladino: deves
+      rashi: דיבﬞיס
       translations:
         inglez: ''
         kasteyano: ''

@@ -5,12 +5,14 @@ kategorias:
 
 versions:
   - ladino: sud
+    rashi: סוד
 
     gender: masculine
     number: singular
 
     translations:
         inglez: south
+        ebreo: דרום
         fransez: ''
         portugez: sul
         kasteyano: sur
