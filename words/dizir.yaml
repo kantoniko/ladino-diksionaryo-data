@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: dizir
     accented: dizír
+    rashi: דיזיר
 
     alternative-spelling:
       - ladino: dezir
@@ -11,6 +12,9 @@ versions:
 
     translations:
         inglez: say
+        ebreo:
+          - להגיד
+          - לבטא
         fransez: dire
         portugez: dizer
         kasteyano: decir

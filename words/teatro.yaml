@@ -3,24 +3,30 @@ orijen: Jeneral
 
 versions:
   - ladino: teatro
+    rashi: טיאטרו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: theatre
+        ebreo:
+          - תיאטרון
         fransez: théâtre
         portugez: ''
         kasteyano: teatro
         turko: tiyatro
 
   - ladino: teatros
+    rashi: טיאטרוס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: theaters
+        ebreo:
+          - תיאטרונים
         fransez: théâtres
         portugez: ''
         kasteyano: teatros

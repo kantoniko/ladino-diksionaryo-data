@@ -6,24 +6,28 @@ kategorias:
 
 versions:
   - ladino: mujer
+    rashi: מוזﬞיר
 
     gender: feminine
     number: singular
 
     translations:
         inglez: woman
+        ebreo: אשה
         fransez: ''
         portugez: ''
         kasteyano: mujer
         turko: kadın
 
   - ladino: mujeres
+    rashi: מוזﬞיריס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: women
+        ebreo: נשים
         fransez: ''
         portugez: ''
         kasteyano: mujeres
