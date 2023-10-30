@@ -11,7 +11,9 @@ versions:
       ebreo:
         - פה
         - כאן
-      portugez: ''
+      portugez:
+      - cá
+      - aqui
       kasteyano: ''
       turko: ''
 
