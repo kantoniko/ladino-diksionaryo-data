@@ -11,7 +11,7 @@ versions:
     translations:
         inglez: that
         fransez: ''
-        portugez: ''
+        portugez: aquilo
         kasteyano: aquello
         turko: o
 
@@ -24,7 +24,7 @@ versions:
     translations:
         inglez: that
         fransez: ''
-        portugez: ''
+        portugez: aquela
         kasteyano: aquella
         turko: o
 
@@ -37,7 +37,7 @@ versions:
     translations:
         inglez: those
         fransez: ''
-        portugez: ''
+        portugez: aqueles
         kasteyano: aquellos
         turko: o
 
@@ -50,7 +50,7 @@ versions:
     translations:
         inglez: those
         fransez: ''
-        portugez: ''
+        portugez: aquelas
         kasteyano: aquellas
         turko: o
 
