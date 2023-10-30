@@ -11,7 +11,10 @@ versions:
         - happen
         - occur
       fransez: survenir
-      portugez: ''
+      portugez:
+        - ocorrer
+        - acontecer
+        - suceder
       kasteyano:
         - ocurrir
         - acontecer
