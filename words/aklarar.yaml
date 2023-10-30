@@ -8,7 +8,9 @@ versions:
     translations:
         inglez: clear
         fransez: ''
-        portugez: ''
+        portugez:
+        - aclarar
+        - esclarecer
         kasteyano: despejar
         turko: aydınlatmak
 
