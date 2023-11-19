@@ -1,14 +1,22 @@
 grammar: NA
 orijen: Jeneral
+linguas:
+  - ebreo
 
 versions:
   - ladino: beraha
+    accented: berahá
+    rashi: ברכה
+
+    gender: feminine
+    number: singular
 
     alternative-spelling:
       - ladino: bendision
 
     translations:
         inglez: benediction
+        ebreo: ברכה
         fransez: ''
         portugez: ''
         kasteyano: bendición

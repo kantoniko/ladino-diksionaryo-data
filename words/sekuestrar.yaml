@@ -1,0 +1,20 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: sekuestrar
+    rashi: סיקואיסטראר
+
+    translations:
+      inglez:
+        - abduct
+      ebreo:
+        - לחטוף
+        - להחרים
+        - לעקל
+      fransez: ''
+      portugez: ''
+      kasteyano: secuestrar
+      turko: ''
+
+conjugations: {}

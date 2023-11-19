@@ -1,0 +1,40 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: bebe
+    accented: bebé
+    rashi: ביבי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - baby
+        - infant
+      ebreo:
+        - תינוק
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+  - ladino: bebes
+    accented: bebés
+    rashi: ביביס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - babies
+        - infants
+      ebreo:
+        - תינוקות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
