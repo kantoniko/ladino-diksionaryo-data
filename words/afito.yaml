@@ -27,3 +27,22 @@ versions:
           - olay
           - kabızlık
 
+  - ladino: afitos
+    accented: afítos
+    rashi:  אפﬞיטוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez:
+          - happenings
+          - events
+          - constipations
+        ebreo:
+          - מקרים
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
+
