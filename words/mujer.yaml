@@ -15,7 +15,9 @@ versions:
         inglez: woman
         ebreo: אשה
         fransez: ''
-        portugez: ''
+        portugez:
+        - mulher
+        - esposa
         kasteyano: mujer
         turko: kadın
 
@@ -29,7 +31,9 @@ versions:
         inglez: women
         ebreo: נשים
         fransez: ''
-        portugez: ''
+        portugez:
+        - mulheres
+        - esposas
         kasteyano: mujeres
         turko: kadın
 
