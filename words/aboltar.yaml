@@ -8,7 +8,9 @@ versions:
     translations:
         inglez: turn
         fransez: ''
-        portugez: ''
+        portugez:
+          - girar
+          - voltar
         kasteyano:
           - girar
           - volver
