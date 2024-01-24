@@ -14,7 +14,9 @@ versions:
       fransez: ''
       ebreo:
         - להדביק
-      portugez: ''
+      portugez: 
+        - colar
+        - grudar
       kasteyano: ''
       turko: ''
 
