@@ -15,7 +15,9 @@ versions:
         inglez: dog
         fransez: chien
         ebreo: כלב
-        portugez: ''
+        portugez:
+           - cão
+           - cachorro
         kasteyano: perro
         turko: köpek
 
@@ -29,7 +31,9 @@ versions:
         inglez: dogs
         ebreo: כלבים
         fransez: chiens
-        portugez: ''
+        portugez:
+           - cães
+           - cachorros
         kasteyano: perros
         turko: köpek
 
