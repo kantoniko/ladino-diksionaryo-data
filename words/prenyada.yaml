@@ -17,7 +17,9 @@ versions:
       ebreo:
           - הרה ללדת
           - בהריון
-      portugez: ''
+      portugez:
+          - grávida
+          - prenha
       kasteyano: embarasada
       turko: ''
 
@@ -32,7 +34,9 @@ versions:
       ebreo:
           - הרה ללדת
           - בהריון
-      portugez: ''
+      portugez:
+          - grávidas
+          - prenhas
       kasteyano: embarasadas
       turko: ''
 
