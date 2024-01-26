@@ -12,7 +12,9 @@ versions:
     translations:
         inglez: snake
         fransez: ''
-        portugez: ''
+        portugez:
+           - cobra
+           - serpente
         kasteyano: serpiente
         turko: yılan
 
@@ -24,7 +26,9 @@ versions:
     translations:
         inglez: snakes
         fransez: ''
-        portugez: ''
+        portugez:
+           - cobras
+           - serpentes
         kasteyano: serpientes
         turko: yılan
 
