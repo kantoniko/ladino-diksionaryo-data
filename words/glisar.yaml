@@ -10,7 +10,9 @@ versions:
       ebreo:
         - להחליק
         - לגלוש
-      portugez: ''
+      portugez:
+         - deslizar
+         - escorregar
       kasteyano: ''
       turko: ''
 
