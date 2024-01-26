@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Ladinokomunita
 kategorias:
   - veikolos
@@ -6,15 +6,15 @@ kategorias:
 versions:
   - ladino: kamion
     accented: kamión
+    rashi: קאמייון
 
     gender: masculine
     number: singular
 
-
     translations:
       inglez: truck
+      ebreo: משאית
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: camión
       turko: ''
@@ -25,11 +25,10 @@ versions:
     gender: masculine
     number: plural
 
-
     translations:
       inglez: trucks
+      ebreo: משאיות
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: camiones
       turko: ''

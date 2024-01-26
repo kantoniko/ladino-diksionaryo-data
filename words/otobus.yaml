@@ -1,24 +1,26 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - veikolos
 
 versions:
   - ladino: otobus
+    rashi: אוטובוס
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - bus
         - motor-coach
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: אוטובוס
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - autobús
         - autocar
-        turko: otobüs
+      turko: otobüs
 
   - ladino: otobuses
 
@@ -26,15 +28,14 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - buses
         - motor-coaches
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: אוטובוסים
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - autobúses
         - autocar
-        turko: otobüs
-
-
+      turko: otobüs
 

@@ -1,22 +1,27 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - veikolos
 
 versions:
   - ladino: avion
+    accented: avión
+    rashi: אבﬞייון
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - plane
         - airplane
-        fransez: avion
-        portugez: ''
-        kasteyano: avión
-        turko: uçak
+      ebreo:
+        - אווירון
+        - מטוס
+      fransez: avion
+      portugez: ''
+      kasteyano: avión
+      turko: uçak
 
   - ladino: aviones
 
@@ -24,13 +29,16 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - planes
         - airplanes
-        fransez: aviones
-        portugez: ''
-        kasteyano: aviónes
-        turko: uçak
+      ebreo:
+        - אווירונים
+        - מטוסים
+      fransez: aviones
+      portugez: ''
+      kasteyano: aviónes
+      turko: uçak
 
 
 

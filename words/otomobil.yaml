@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - veikolos
@@ -6,23 +6,29 @@ kategorias:
 versions:
   - ladino: otomobil
     accented: otomobíl
+    rashi: אוטומוביל
 
     alternative-spelling:
       - ladino: oto
+        rashi: אוטו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - car
         - automobile
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - מכונית
+        - אוטו
+
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - carro
         - automóvil
-        turko:
+      turko:
         - araba
         - otomobil
 
@@ -37,15 +43,17 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - cars
         - automobiles
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - מכוניות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - carros
         - automóviles
-        turko:
+      turko:
         - araba
         - otomobil
 

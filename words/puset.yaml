@@ -1,18 +1,19 @@
-grammar: NA
+grammar: noun
 orijen: Ladinokomunita
 kategorias:
   - veikolos
 
 versions:
   - ladino: puset
+    rashi: פוסיט
 
     gender: feminine
     number: singular
 
     translations:
       inglez: pram
+      ebreo: עגלת תינוק
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: cochecito
       turko: ''
@@ -24,8 +25,8 @@ versions:
 
     translations:
       inglez: prams
+      ebreo: עגלות תינוק
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: cochecitos
       turko: ''

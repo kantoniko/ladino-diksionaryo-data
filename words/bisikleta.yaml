@@ -1,31 +1,37 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - veikolos
 
 versions:
   - ladino: bisikleta
+    rashi: ביסיקליטה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: bicycle
-        fransez: ''
-        portugez: ''
-        kasteyano: bicicleta
-        turko: bisiklet
+      inglez:
+        - bicycle
+        - bikes
+      ebreo: אופניים
+      fransez: ''
+      portugez: ''
+      kasteyano: bicicleta
+      turko: bisiklet
 
   - ladino: bisikletas
+    rashi: ביסיקליטאס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: bicycles
-        fransez: ''
-        portugez: ''
-        kasteyano: bicicletas
-        turko: ''
+      inglez: bicycles
+      ebreo: אופניים
+      fransez: ''
+      portugez: ''
+      kasteyano: bicicletas
+      turko: ''
 
 

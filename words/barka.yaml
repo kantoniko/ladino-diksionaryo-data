@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Estanbol
 kategorias:
   - veikolos
@@ -12,10 +12,11 @@ versions:
     number: singular
 
     translations:
-        inglez: boat (small)
-        fransez: bateau
-        portugez: ''
-        kasteyano: barca
-        turko: kayık
+      inglez: boat (small)
+      ebreo: סירה
+      fransez: bateau
+      portugez: ''
+      kasteyano: barca
+      turko: kayık
 
 
