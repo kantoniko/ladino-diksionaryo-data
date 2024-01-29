@@ -9,7 +9,9 @@ versions:
     translations:
         inglez: here
         fransez: ''
-        portugez: ''
+        portugez: 
+           - aqui
+           - cá
         kasteyano: aquí
         turko: burada
 
