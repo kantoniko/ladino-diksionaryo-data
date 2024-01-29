@@ -12,7 +12,9 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוץ
-      portugez: ''
+      portugez:
+         - agro
+         - amargo
       kasteyano: agrio
       turko: ''
 
@@ -26,7 +28,9 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוצה
-      portugez: ''
+      portugez:
+         - agra
+         - amarga
       kasteyano: agria
       turko: ''
 
@@ -40,7 +44,9 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוצים
-      portugez: ''
+      portugez:
+         - agros
+         - amargos
       kasteyano: agrios
       turko: ''
 
@@ -54,7 +60,9 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוצות
-      portugez: ''
+      portugez:
+         - agras
+         - amargas
       kasteyano: agrias
       turko: ''
 
