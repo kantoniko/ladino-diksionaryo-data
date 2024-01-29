@@ -16,7 +16,10 @@ versions:
       fransez:
         - consoler
         - réconforter
-      portugez: ''
+      portugez:
+        - consolar
+        - confortar
+        - afagar
       kasteyano:
         - consolar
         - reconfortar
