@@ -15,7 +15,9 @@ versions:
         - שלט
         - כרזה
         - פוסטר
-      portugez: ''
+      portugez: 
+        - cartaz
+        - pôster
       kasteyano: afiche
       turko: afiş
 
@@ -31,7 +33,9 @@ versions:
         - שלטים
         - כרזות
         - פוסטרים
-      portugez: ''
+      portugez: 
+        - cartazes
+        - pôsteres
       kasteyano: afiches
       turko: afişler
 
