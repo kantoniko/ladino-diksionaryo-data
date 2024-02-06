@@ -13,7 +13,7 @@ versions:
       inglez: subscriber
       fransez: ''
       ebreo: מנוי
-      portugez: ''
+      portugez: inscrito
       kasteyano: abonado
       turko: ''
 
@@ -27,7 +27,7 @@ versions:
       inglez: subscriber
       fransez: ''
       ebreo: מנויה
-      portugez: ''
+      portugez: inscrita
       kasteyano: abonada
       turko: ''
 
@@ -37,10 +37,10 @@ versions:
     number: plural
 
     translations:
-      inglez: subscriber
+      inglez: subscribers
       fransez: ''
       ebreo: מנוים
-      portugez: ''
+      portugez: inscritos
       kasteyano: abonados
       turko: ''
 
@@ -50,10 +50,10 @@ versions:
     number: plural
 
     translations:
-      inglez: subscriber
+      inglez: subscribers
       fransez: ''
       ebreo: מנויות
-      portugez: ''
+      portugez: inscritas
       kasteyano: abonadas
       turko: ''
 
