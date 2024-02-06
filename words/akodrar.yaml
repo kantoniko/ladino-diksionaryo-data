@@ -8,7 +8,9 @@ versions:
     translations:
         inglez: remember
         fransez: ''
-        portugez: ''
+        portugez: 
+           - lembrar
+           - recordar
         kasteyano: recordar
         turko: hatırlamak
 
