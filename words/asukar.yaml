@@ -1,14 +1,17 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - polvos
 
 versions:
   - ladino: asukar
+    rashi: אסוקאר
 
     translations:
-        inglez: sugar
-        fransez: sucre
-        portugez: ''
-        kasteyano: azúcar
-        turko: şeker
-
+      inglez: sugar
+      ebreo: סוכר
+      fransez: sucre
+      portugez: ''
+      kasteyano: azúcar
+      turko: şeker
 

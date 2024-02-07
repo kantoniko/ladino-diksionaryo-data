@@ -1,21 +1,20 @@
 grammar: noun
-orijen: Jeneral
+orijen: NA
 kategorias:
-  - komidas
   - polvos
 
 versions:
-  - ladino: sal
-    rashi: סאל
+  - ladino: kanela
+    rashi: קאנילה
 
     gender: feminine
     number: singular
 
     translations:
-      inglez: salt
-      ebreo: מלח
+      inglez: cinnamon
+      ebreo: קינמון
       fransez: ''
       portugez: ''
-      kasteyano: sal
-      turko: tuz
+      kasteyano: ''
+      turko: ''
 
