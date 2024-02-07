@@ -6,7 +6,7 @@ kategorias:
 
 versions:
   - ladino: portokal
-    rashi: פירטוקאל
+    rashi: פורטוקאל
 
     gender: both
     number: singular
@@ -20,7 +20,7 @@ versions:
       turko: portakal
 
   - ladino: portokales
-    rashi: פירטוקאלאס
+    rashi: פורטוקאלאס
 
     gender: both
     number: plural
