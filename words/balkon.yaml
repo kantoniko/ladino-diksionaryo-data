@@ -6,17 +6,34 @@ kategorias:
 versions:
   - ladino: balkon
     accented: balkón
+    rashi: באלקון
 
     gender: masculine
     number: singular
 
     translations:
         inglez: balcony
+        ebreo: מרפסת
         fransez: balcon
         portugez: ''
         kasteyano:
         - balcón
         - palco
         turko: balkon
+
+
+  - ladino: balkones
+    accented: balkónes
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: balconies
+        ebreo: מרפסות
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 
 

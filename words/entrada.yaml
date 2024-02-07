@@ -6,15 +6,41 @@ kategorias:
 
 versions:
   - ladino: entrada
+    rashi: אינטראדה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: entrance
-        fransez: ''
-        portugez: ''
-        kasteyano: entrada
-        turko: giriş
+      inglez:
+        - entrance
+        - hallway
+      ebreo:
+        - כניסה
+        - פרוזדור
+        - חדר כניסה
+      fransez: ''
+      portugez: ''
+      kasteyano: entrada
+      turko: giriş
+
+
+  - ladino: entradas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - entrances
+        - hallways
+      ebreo:
+        - כניסות
+        - פרוזדורים
+        - חדרי כניסה
+      fransez: ''
+      portugez: ''
+      kasteyano: entrada
+      turko: giriş
 
 

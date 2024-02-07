@@ -6,14 +6,20 @@ kategorias:
 
 versions:
   - ladino: banyo
+    rashi: באנייו
 
     gender: masculine
     number: singular
 
     translations:
-      inglez: bathroom
+      inglez:
+        - bath
+        - bathroom
+      ebreo:
+        - חדר אמבטיה
+        - אמבטיה
+        - מרחץ
       fransez: bain
-      ebreo: חדר אמבטיה
       portugez: ''
       kasteyano: baño
       turko: ''
@@ -25,8 +31,10 @@ versions:
 
     translations:
       inglez: bathrooms
+      ebreo:
+        - חדרי אמבטיה
+        - אמבטיות
       fransez: bains
-      ebreo: חדרי אמבטיה
       portugez: ''
       kasteyano: baños
       turko: ''

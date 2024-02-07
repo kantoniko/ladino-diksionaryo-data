@@ -6,22 +6,22 @@ kategorias:
 
 versions:
   - ladino: dormitorio
-
-    alternative-spelling:
-      - ladino: kam. de echar
-        accented: kam. de echar
+    rashi: דורמיטורייו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - bedroom
         - dormitory
-        fransez: ''
-        portugez: ''
-        kasteyano: dormitorio
-        turko:
+      ebreo:
+        - חדר
+        - חדר שינה
+      fransez: ''
+      portugez: ''
+      kasteyano: dormitorio
+      turko:
         - yatak odası
         - yatakhane
 
@@ -31,12 +31,15 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - bedrooms
         - dormitories
-        fransez: ''
-        portugez: ''
-        kasteyano: dormitorios
-        turko: ''
+      ebreo:
+        - חדרים
+        - חדרי שינה
+      fransez: ''
+      portugez: ''
+      kasteyano: dormitorios
+      turko: ''
 
 
