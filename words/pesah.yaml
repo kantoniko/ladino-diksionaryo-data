@@ -10,7 +10,9 @@ versions:
       inglez: 'Pesach'
       fransez: ''
       ebreo: פסח
-      portugez: ''
+      portugez:
+         - Pessach
+         - Páscoa Judaica
       kasteyano: ''
       turko: Fısıh
 
