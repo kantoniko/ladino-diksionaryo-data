@@ -1,58 +1,64 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - kolores
 
 versions:
   - ladino: grizo
+    rashi: גריזו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: grey
-        fransez: gris
-        ebreo: אפור
-        portugez: ''
-        kasteyano: gris
-        turko: gri
+      inglez: grey
+      fransez: gris
+      ebreo: אפור
+      portugez: ''
+      kasteyano: gris
+      turko: gri
 
   - ladino: griza
+    rashi: גריזה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: grey
-        fransez: grise
-        ebreo: אפורה
-        portugez: ''
-        kasteyano: grisa
-        turko: gri
+      inglez: grey
+      fransez: grise
+      ebreo: אפורה
+      portugez: ''
+      kasteyano: grisa
+      turko: gri
 
   - ladino: grizos
+    rashi: גריזוס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: grey
-        fransez: gris
-        ebreo: אפורים
-        portugez: ''
-        kasteyano: gris
-        turko: gri
+      inglez: grey
+      fransez: gris
+      ebreo: אפורים
+      portugez: ''
+      kasteyano: gris
+      turko: gri
 
   - ladino: grizas
+    rashi: גריזס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: grey
-        fransez: grises
-        ebreo: אפורות
-        portugez: ''
-        kasteyano: grisas
-        turko: gri
+      inglez: grey
+      fransez: grises
+      ebreo: אפורות
+      portugez: ''
+      kasteyano: grisas
+      turko: gri
 
 
 

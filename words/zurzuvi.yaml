@@ -2,28 +2,23 @@ grammar: adjective
 orijen: Ladinokomunita
 kategorias:
   - kolores
-linguas:
-  - turko
 
 versions:
-  - ladino: mavi
-    accented: maví
-    rashi: מאבﬞי
+  - ladino: zurzuvi
+    rashi: זורזובﬞי
 
     gender: masculine
     number: singular
 
 
     translations:
-      inglez:
-        - blue
-        - light blue
+      inglez: ''
       ebreo:
-        - כחול
-        - תכלת
+        - רב גוני
+        - כחול זוהר
       fransez: ''
       portugez: ''
-      kasteyano: azul
+      kasteyano: ''
       turko: ''
 
 

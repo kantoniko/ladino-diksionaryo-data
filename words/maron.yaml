@@ -6,28 +6,51 @@ kategorias:
 versions:
   - ladino: maron
     accented: marón
+    rashi: מארון
 
     gender: masculine
     number: singular
 
     translations:
       inglez: brown
+      ebreo:
+        - חום
+        - ערמוני
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: marrón
       turko: ''
 
+  - ladino: marona
+    accented: maróna
+    rashi: מארונה
+
+    gender: masculine
+    number: feminine
+
+    translations:
+      inglez: brown
+      ebreo:
+        - חומה
+      fransez: ''
+      portugez: ''
+      kasteyano: marróna
+      turko: ''
+
+
   - ladino: marones
     accented: marónes
+    rashi: מארונאס
 
     gender: masculine
     number: plural
 
     translations:
       inglez: brown
+      ebreo:
+        - חומים
+        - ערמוניים
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: marrónes
       turko: ''

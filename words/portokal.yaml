@@ -6,30 +6,32 @@ kategorias:
 
 versions:
   - ladino: portokal
+    rashi: פירטוקאל
 
     gender: both
     number: singular
 
     translations:
-        inglez: orange
-        fransez: ''
-        ebreo: תפוז
-        portugez: laranja
-        kasteyano: naranja
-        turko: portakal
+      inglez: orange
+      fransez: ''
+      ebreo: תפוז
+      portugez: laranja
+      kasteyano: naranja
+      turko: portakal
 
   - ladino: portokales
+    rashi: פירטוקאלאס
 
     gender: both
     number: plural
 
     translations:
-        inglez: oranges
-        fransez: ''
-        ebreo: תפוזים
-        portugez: laranjas
-        kasteyano: naranjas
-        turko: portakal
+      inglez: oranges
+      ebreo: תפוזים
+      fransez: ''
+      portugez: laranjas
+      kasteyano: naranjas
+      turko: portakal
 
 
 

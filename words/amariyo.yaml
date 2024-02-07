@@ -6,29 +6,33 @@ kategorias:
 versions:
   - ladino: amariyo
     accented: amaríyo
+    rashi: אמארילייו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: yellow
-        fransez: jaune
-        portugez: amarelo
-        kasteyano: amarillo
-        turko: sarı
+      inglez: yellow
+      ebreo: צהוב
+      fransez: jaune
+      portugez: amarelo
+      kasteyano: amarillo
+      turko: sarı
 
   - ladino: amariya
     accented: amaríya
+    rashi: אמארילייה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: yellow
-        fransez: jaune
-        portugez: amarelo
-        kasteyano: amarilla
-        turko: sarı
+      inglez: yellow
+      ebreo: צהובה
+      fransez: jaune
+      portugez: amarelo
+      kasteyano: amarilla
+      turko: sarı
 
   - ladino: amariyos
     accented: amaríyos
@@ -37,11 +41,12 @@ versions:
     number: plural
 
     translations:
-        inglez: yellow
-        fransez: jaune
-        portugez: amarelos
-        kasteyano: amarillos
-        turko: sarı
+      inglez: yellow
+      ebreo: צהובים
+      fransez: jaune
+      portugez: amarelos
+      kasteyano: amarillos
+      turko: sarı
 
   - ladino: amariyas
     accented: amaríyas
@@ -50,10 +55,10 @@ versions:
     number: plural
 
     translations:
-        inglez: yellow
-        fransez: jaune
-        portugez: amarelas
-        kasteyano: amarillas
-        turko: sarı
-
+      inglez: yellow
+      ebreo: צהובות
+      fransez: jaune
+      portugez: amarelas
+      kasteyano: amarillas
+      turko: sarı
 

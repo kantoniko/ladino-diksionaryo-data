@@ -3,12 +3,11 @@ orijen: Ladinokomunita
 kategorias:
   - kolores
 linguas:
-  - turko
+  - fransez
 
 versions:
-  - ladino: mavi
-    accented: maví
-    rashi: מאבﬞי
+  - ladino: bej
+    rashi: ביזﬞ
 
     gender: masculine
     number: singular
@@ -16,14 +15,14 @@ versions:
 
     translations:
       inglez:
-        - blue
-        - light blue
+        - beige
+        - brown-gray
       ebreo:
-        - כחול
-        - תכלת
+        - צבע בז'
+        - חום-אפור
       fransez: ''
       portugez: ''
-      kasteyano: azul
+      kasteyano: ''
       turko: ''
 
 
