@@ -12,7 +12,11 @@ versions:
     translations:
         inglez: grieve
         fransez: ''
-        portugez: ''
+        portugez: 
+           - afligir-se
+           - compadecer-se
+           - ter pena
+           - ter dó
         kasteyano: afligirse
         turko: üzülmek
 
