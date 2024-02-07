@@ -11,6 +11,9 @@ versions:
     gender: masculine
     number: singular
 
+    alternative-spelling:
+      - ladino: korolado
+
     translations:
       inglez:
         - red
@@ -43,6 +46,9 @@ versions:
 
     gender: masculine
     number: plural
+
+    alternative-spelling:
+      - ladino: korolados
 
     translations:
       inglez: red
