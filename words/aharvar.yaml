@@ -13,7 +13,10 @@ versions:
       ebreo:
         - להכות
       fransez: frapper
-      portugez: ''
+      portugez:
+        - bater
+        - golpear
+        - acertar
       kasteyano:
         - golpear
         - pegar
