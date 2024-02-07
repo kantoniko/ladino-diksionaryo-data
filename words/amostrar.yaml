@@ -4,9 +4,15 @@ orijen: Jeneral
 versions:
   - ladino: amostrar
     accented: amostrár
+    rashi: אמוסטראר
 
     translations:
-        inglez: show
+        inglez:
+          - show
+          - prove
+        ebreo:
+          - להוכיח
+          - להראות
         fransez: ''
         portugez: mostrar
         kasteyano: mostrar

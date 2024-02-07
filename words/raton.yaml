@@ -6,6 +6,8 @@ kategorias:
 
 versions:
   - ladino: raton
+    accented: ratón
+    rashi: ראטון
 
     gender: masculine
     number: singular
@@ -13,9 +15,24 @@ versions:
     translations:
         inglez: rat
         fransez: rat
-        ebreo: חוּלדָה
+        ebreo: חולדה
         portugez: rato
         kasteyano: rata
         turko: fare
+
+  - ladino: ratones
+    accented: ratónes
+    rashi: ראטונאס
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: rats
+        fransez: ''
+        ebreo: חולדות
+        portugez: ''
+        kasteyano: ratas
+        turko: ''
 
 

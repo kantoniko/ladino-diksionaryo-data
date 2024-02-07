@@ -1,5 +1,7 @@
 grammar: noun
 orijen: Ladinadores
+kategorias:
+  - komputadora
 
 versions:
   - ladino: imprimadora
@@ -11,6 +13,19 @@ versions:
       inglez: printer
       fransez: ''
       ebreo: מדפסת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: imprimadoras
+
+    gender:  feminine
+    number: plural
+
+    translations:
+      inglez: printers
+      fransez: ''
+      ebreo: מדפסות
       portugez: ''
       kasteyano: ''
       turko: ''
