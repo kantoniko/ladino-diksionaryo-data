@@ -5,28 +5,32 @@ kategorias:
 
 versions:
   - ladino: mantel
+    rashi: מאנטיל
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: tablecloth
-        fransez: ''
-        portugez: ''
-        kasteyano: mantel
-        turko: masa örtüsü
+      inglez: tablecloth
+      ebreo: מפה
+      fransez: ''
+      portugez: ''
+      kasteyano: mantel
+      turko: masa örtüsü
 
   - ladino: manteles
+    rashi: מאנטיליס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: tableclothes
-        fransez: ''
-        portugez: ''
-        kasteyano: manteles
-        turko: masa örtüsü
+      inglez: tableclothes
+      ebreo: מפות
+      fransez: ''
+      portugez: ''
+      kasteyano: manteles
+      turko: masa örtüsü
 
 
 

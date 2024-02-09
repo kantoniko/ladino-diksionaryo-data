@@ -2,30 +2,47 @@ grammar: noun
 orijen: Jeneral
 kategorias:
   - servisio-de-meza
+  - kuzina
+linguas:
+  - turko
 
 versions:
   - ladino: chanaka
+    rashi: גﬞאנאקה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: pot
-        fransez: ''
-        portugez: ''
-        kasteyano: cáliz
-        turko: çanak
+      inglez:
+        - pot
+        - bowl
+      ebreo:
+        - אגן
+        - קערה שטוחה
+        - קערה
+        - סיר
+      fransez: ''
+      portugez: ''
+      kasteyano: cáliz
+      turko: çanak
 
   - ladino: chanakas
+    rashi: גﬞאנאקאס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: pots
-        fransez: ''
-        portugez: ''
-        kasteyano: cálizes
-        turko: ''
+      inglez:
+        - pots
+        - bowls
+      ebreo:
+        - קערות
+        - סירים
+      fransez: ''
+      portugez: ''
+      kasteyano: cálizes
+      turko: ''
 
 

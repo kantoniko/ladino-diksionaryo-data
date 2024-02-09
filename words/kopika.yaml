@@ -1,0 +1,21 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+
+versions:
+  - ladino: kopika
+    rashi: קופיקה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: small cup
+      ebreo: גביע קטן
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
