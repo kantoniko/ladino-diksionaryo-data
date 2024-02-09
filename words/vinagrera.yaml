@@ -1,0 +1,23 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+
+versions:
+  - ladino: vinagrera
+    rashi: בﬞינאגרירה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: ''
+      ebreo: צלוחית חומץ
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+
