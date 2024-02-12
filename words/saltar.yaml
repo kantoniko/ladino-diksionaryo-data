@@ -3,15 +3,22 @@ orijen: Jeneral
 
 versions:
   - ladino: saltar
+    rashi: סאלטאר
 
     translations:
-        inglez:
+      inglez:
         - leap
         - jump
-        fransez: ''
-        portugez: ''
-        kasteyano: saltar
-        turko:
+      ebreo:
+        - לקפוץ
+        - לדלג
+        - לנתר
+        - לזנק
+        - להתפרץ
+      fransez: ''
+      portugez: ''
+      kasteyano: saltar
+      turko:
         - atlamak
         - sıçramak
 

@@ -3,13 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: asentarse
+    rashi: אסינטארסי
 
     translations:
-        inglez: sit
-        fransez: ''
-        portugez: sentar
-        kasteyano: sentarse
-        turko: oturmak
+      inglez: sit
+      ebreo:
+        - להתישב
+        - לשבת
+      fransez: ''
+      portugez: sentar
+      kasteyano: sentarse
+      turko: oturmak
 
 conjugations: {}
 

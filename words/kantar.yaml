@@ -3,13 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: kantar
+    rashi: קאנטאר
 
     translations:
-        inglez: sing
-        fransez: ''
-        portugez: ''
-        kasteyano: cantar
-        turko: şarkı söylemek
+      inglez: sing
+      ebreo:
+        - לשיר
+        - לזמר
+      fransez: ''
+      portugez: ''
+      kasteyano: cantar
+      turko: şarkı söylemek
 
 conjugations:
   prezente:

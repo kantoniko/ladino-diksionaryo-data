@@ -1,12 +1,14 @@
 grammar: verb
 orijen: NA
+linguas:
+  - turko
 
 versions:
   - ladino: embinar
+    rashi: אימבינאר
 
     alternative-spelling:
       - ladino: embinear
-
 
     translations:
       inglez:

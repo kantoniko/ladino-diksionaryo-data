@@ -3,18 +3,22 @@ orijen: Jeneral
 
 versions:
   - ladino: fregar
+    rashi: פﬞריגאר
 
     translations:
-        inglez:
+      inglez:
         - scrub
         - wash
         - rub
-        fransez: ''
-        portugez: esfregar
-        kasteyano:
+      ebreo:
+        - לשפשף
+        - להבריק
+      fransez: ''
+      portugez: esfregar
+      kasteyano:
         - fregar
         - frotar
-        turko:
+      turko:
         - ovmak
         - bulaşık yıkamak
 

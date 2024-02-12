@@ -2,18 +2,17 @@ grammar: verb
 orijen: Jeneral
 
 versions:
-  - ladino: korrer
-    rashi: קוריר
+  - ladino: asentar
+    rashi: אסינטאר
 
     translations:
-      inglez: run
+      inglez: sit
       ebreo:
-        - לרוץ
+        - להושיב
       fransez: ''
       portugez: ''
-      kasteyano: correr
-      turko: koşmak
+      kasteyano: ''
+      turko: ''
 
 conjugations: {}
-
 

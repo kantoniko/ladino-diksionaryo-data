@@ -3,13 +3,15 @@ orijen: Jeneral
 
 versions:
   - ladino: kuzir
+    rashi: קוזיר
+
     translations:
-        inglez: sew
-        fransez: ''
-        ebreo: לתפור
-        portugez: ''
-        kasteyano: coser
-        turko: dıkış dikmek
+      inglez: sew
+      fransez: ''
+      ebreo: לתפור
+      portugez: ''
+      kasteyano: coser
+      turko: dıkış dikmek
 
 conjugations:
   prezente:
