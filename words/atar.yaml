@@ -3,13 +3,18 @@ orijen: Jeneral
 
 versions:
   - ladino: atar
+    rashi: אטאר
 
     translations:
-        inglez: tie
-        fransez: attacher
-        portugez: ''
-        kasteyano: atar
-        turko: bağlamak
+      inglez: tie
+      ebreo:
+        - לקשור
+        - לחבר
+        - לצרף
+      fransez: attacher
+      portugez: ''
+      kasteyano: atar
+      turko: bağlamak
 
 conjugations: {}
 

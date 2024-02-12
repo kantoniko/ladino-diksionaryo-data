@@ -3,6 +3,7 @@ orijen: Jeneral
 versions:
   - ladino: alimpiar
     accented: alimpiár
+    rashi: אלימפייאר
 
     alternative-spelling:
       - ladino: alimpyar
@@ -10,6 +11,9 @@ versions:
 
     translations:
         inglez: clean
+        ebreo:
+          - לנקות
+          - לטהר
         fransez: nettoyer
         portugez: limpar
         kasteyano: limpiar

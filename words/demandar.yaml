@@ -4,19 +4,25 @@ orijen: Jeneral
 versions:
   - ladino: demandar
     accented: demandár
+    rashi: דימאנדאר
 
     translations:
-        inglez:
-          - request
-          - ask
-        fransez: ''
-        portugez: ''
-        kasteyano:
-          - pedir
-          - preguntar
-        turko:
-          - istemek
-          - sormak
+      inglez:
+        - request
+        - ask
+      ebreo:
+        - לשאול
+        - לבקש
+        - לדרוש
+        - לתבוע
+      fransez: ''
+      portugez: ''
+      kasteyano:
+        - pedir
+        - preguntar
+      turko:
+        - istemek
+        - sormak
 
 conjugations: {}
 
