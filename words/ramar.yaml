@@ -1,0 +1,18 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: ramar
+
+    translations:
+      inglez:
+        - paddle
+        - row
+      ebreo:
+        - לשוט
+      fransez: ''
+      portugez: remar
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

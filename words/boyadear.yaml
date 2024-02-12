@@ -1,0 +1,16 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: boyadear
+
+    translations:
+      inglez: paint
+      ebreo:
+        - לצבוע
+      fransez: ''
+      portugez: pintar
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

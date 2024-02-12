@@ -1,0 +1,15 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: estar en pies
+
+    translations:
+      inglez: stand
+      ebreo: לעמוד
+      fransez: ''
+      portugez: estar em pé
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}
