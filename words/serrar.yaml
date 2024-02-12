@@ -3,13 +3,18 @@ orijen: Jeneral
 
 versions:
   - ladino: serrar
+    rashi: סיראר
 
     translations:
-        inglez: shut
-        fransez: ''
-        portugez: ''
-        kasteyano: cerrar
-        turko: kapamak
+      inglez: shut
+      ebreo:
+        - לסגור
+        - לנעול
+        - לחסום
+      fransez: ''
+      portugez: ''
+      kasteyano: cerrar
+      turko: kapamak
 
 conjugations: {}
 

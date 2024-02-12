@@ -4,15 +4,17 @@ orijen: Jeneral
 versions:
   - ladino: gizar
     accented: gizár
+    rashi: גיזאר
 
     translations:
-        inglez: cook
-        fransez: cuisiner
-        portugez: cozinhar
-        kasteyano:
-          - guisar
-          - cocinar
-        turko: yemek pişirmek
+      inglez: cook
+      ebreo: לבשל
+      fransez: cuisiner
+      portugez: cozinhar
+      kasteyano:
+        - guisar
+        - cocinar
+      turko: yemek pişirmek
 
 conjugations: {}
 

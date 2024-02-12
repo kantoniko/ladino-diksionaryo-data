@@ -3,13 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: eskrivir
+    rashi: איסקריבﬞיר
 
     translations:
-        inglez: write
-        fransez: ecrire
-        portugez: escrever
-        kasteyano: escribir
-        turko: yazmak
+      inglez: write
+      ebreo:
+        - לרשום
+        - לכתוב
+      fransez: ecrire
+      portugez: escrever
+      kasteyano: escribir
+      turko: yazmak
 
 conjugations:
   prezente:
@@ -17,6 +21,9 @@ conjugations:
       ladino: eskrivo
       translations:
         inglez: write
+        ebreo:
+          - כותב
+          - כותבת
         kasteyano: escribo
 
   pasado:
@@ -24,5 +31,6 @@ conjugations:
       ladino: eskrivi
       translations:
         inglez: writo
+        ebreo: כתבתי
         kasteyano: escribi
 

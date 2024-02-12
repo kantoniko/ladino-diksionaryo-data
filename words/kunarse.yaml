@@ -3,13 +3,20 @@ orijen: Jeneral
 
 versions:
   - ladino: kunarse
+    rashi: קונארסי
 
     translations:
-        inglez: swing oneself
-        fransez: ''
-        portugez: ''
-        kasteyano: columpiarse
-        turko: sallanmak
+      inglez:
+        - swing oneself
+        - sway
+        - wiggle
+      ebreo:
+        - להתנדנד
+        - להתנענע
+      fransez: ''
+      portugez: ''
+      kasteyano: columpiarse
+      turko: sallanmak
 
 conjugations: {}
 

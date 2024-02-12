@@ -4,17 +4,21 @@ orijen: Jeneral
 versions:
   - ladino: fraguar
     accented: fraguár
+    rashi: פﬞראגואר
 
     translations:
-        inglez:
-          - build
-          - construct
-        fransez:
-          - construire
-          - bâtir
-        portugez: ''
-        kasteyano: construir
-        turko: inşa etmek
+      inglez:
+        - build
+        - construct
+      ebreo:
+        - לבנות
+        - להקים
+      fransez:
+        - construire
+        - bâtir
+      portugez: ''
+      kasteyano: construir
+      turko: inşa etmek
 
 conjugations: {}
 
