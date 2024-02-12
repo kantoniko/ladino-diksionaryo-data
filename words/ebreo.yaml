@@ -5,16 +5,18 @@ kategorias:
 
 versions:
   - ladino: ebreo
+    rashi: איבריאו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: Hebrew
-        fransez: ''
-        portugez: ''
-        kasteyano: hebreo
-        turko: ıbranıce
+      inglez: Hebrew
+      ebreo: עברית
+      fransez: ''
+      portugez: ''
+      kasteyano: hebreo
+      turko: ıbranıce
 
   - ladino: ebrea
 
@@ -22,11 +24,11 @@ versions:
     number: singular
 
     translations:
-        inglez: Hebrew
-        fransez: ''
-        portugez: ''
-        kasteyano: hebrea
-        turko: ıbranıce
+      inglez: Hebrew
+      fransez: ''
+      portugez: ''
+      kasteyano: hebrea
+      turko: ıbranıce
 
   - ladino: ebreos
 
@@ -34,11 +36,11 @@ versions:
     number: plura
 
     translations:
-        inglez: Hebrew
-        fransez: ''
-        portugez: ''
-        kasteyano: hebreos
-        turko: ıbranıce
+      inglez: Hebrew
+      fransez: ''
+      portugez: ''
+      kasteyano: hebreos
+      turko: ıbranıce
 
   - ladino: ebreas
 
@@ -46,10 +48,10 @@ versions:
     number: plura
 
     translations:
-        inglez: Hebrew
-        fransez: ''
-        portugez: ''
-        kasteyano: hebreas
-        turko: ıbranıce
+      inglez: Hebrew
+      fransez: ''
+      portugez: ''
+      kasteyano: hebreas
+      turko: ıbranıce
 
 

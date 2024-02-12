@@ -3,20 +3,24 @@ orijen: Jeneral
 
 versions:
   - ladino: vos
+    rashi: בﬞוס
 
     number: plural
     gender: both
 
 
     translations:
-        inglez:
+      inglez:
         - you
         - to you
         - to yourselves
-        fransez: vous
-        portugez: ''
-        kasteyano: os
-        turko:
+      ebreo:
+        - אתם
+        - אתן
+      fransez: vous
+      portugez: ''
+      kasteyano: os
+      turko:
         - siz
         - size
         - kendinize
