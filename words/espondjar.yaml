@@ -1,0 +1,20 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: espondjar
+    rashi: איספונגﬞאר
+
+    translations:
+      inglez:
+        - absorb
+        - mop the floor
+      ebreo:
+        - לספוג
+        - לשטוף את הרצפה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}
