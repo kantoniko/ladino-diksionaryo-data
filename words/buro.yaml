@@ -18,7 +18,7 @@ versions:
         ebreo:
           - משרד
           - חדר עבודה
-        portugez: ''
+        portugez: escritório
         kasteyano:
           - oficina
           - buró
@@ -34,7 +34,7 @@ versions:
     translations:
         inglez: offices
         fransez: ''
-        portugez: ''
+        portugez: escritórios
         kasteyano:
           - oficinas
           - burós
