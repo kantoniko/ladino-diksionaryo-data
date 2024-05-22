@@ -14,7 +14,9 @@ versions:
     translations:
         inglez: (little) film
         fransez: ''
-        portugez: ''
+        portugez: 
+       - filminho
+       - filmezinho
         kasteyano: ''
         turko: ''
 
@@ -28,7 +30,9 @@ versions:
     translations:
         inglez: (little) films
         fransez: ''
-        portugez: ''
+        portugez:
+        - filminhos
+        - filmezinhos
         kasteyano: ''
         turko: ''
 
