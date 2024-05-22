@@ -14,7 +14,9 @@ versions:
       inglez: living room
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez:
+         - sala de estar
+         - sala
       kasteyano: salón
       turko: ''
 
