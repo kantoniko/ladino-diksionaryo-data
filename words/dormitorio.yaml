@@ -19,7 +19,9 @@ versions:
         - חדר
         - חדר שינה
       fransez: ''
-      portugez: ''
+      portugez:
+        - dormitório
+        - quarto
       kasteyano: dormitorio
       turko:
         - yatak odası
@@ -38,7 +40,9 @@ versions:
         - חדרים
         - חדרי שינה
       fransez: ''
-      portugez: ''
+      portugez:
+        - dormitórios
+        - quartos
       kasteyano: dormitorios
       turko: ''
 
