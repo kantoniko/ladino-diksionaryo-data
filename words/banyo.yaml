@@ -20,7 +20,9 @@ versions:
         - אמבטיה
         - מרחץ
       fransez: bain
-      portugez: ''
+      portugez:
+        - banheiro
+        - casa de banho
       kasteyano: baño
       turko: ''
 
@@ -35,7 +37,9 @@ versions:
         - חדרי אמבטיה
         - אמבטיות
       fransez: bains
-      portugez: ''
+      portugez:
+        - banheiros
+        - casas de banho
       kasteyano: baños
       turko: ''
 
