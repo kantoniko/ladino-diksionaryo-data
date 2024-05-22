@@ -15,8 +15,8 @@ versions:
         inglez: (little) film
         fransez: ''
         portugez: 
-       - filminho
-       - filmezinho
+          - filminho
+          - filmezinho
         kasteyano: ''
         turko: ''
 
@@ -31,8 +31,8 @@ versions:
         inglez: (little) films
         fransez: ''
         portugez:
-        - filminhos
-        - filmezinhos
+          - filminhos
+          - filmezinhos
         kasteyano: ''
         turko: ''
 
