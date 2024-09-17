@@ -1,0 +1,42 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: dirijir
+    rashi: דיריזﬞיר
+
+    alternative-spelling:
+      - ladino: dirijar
+
+    translations:
+      inglez:
+          - guide
+          - direct
+          - lead
+          - manage
+      fransez: ''
+      ebreo:
+        - להדריך
+        - להנחות
+        - לכוון
+        - להפנות
+        - להנהיג
+        - לנהל
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+conjugations:
+  prezente:
+    yo:
+      ladino: drijo
+      translations:
+        inglez: lead
+
+    el:
+      ladino: dirije
+      translations:
+        inglez: leads
+        kasteyano: ''
+
