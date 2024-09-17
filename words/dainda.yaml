@@ -1,16 +1,26 @@
 grammar: adverb
 orijen: Jeneral
+linguas:
+  - portugez
 
 versions:
   - ladino: dainda
     accented: daínda
+    rashi: דאאינדה
 
     alternative-spelling:
       - ladino: deynda
         accented: déynda
+      - ladino: daynda
 
     translations:
-        inglez: still
+        inglez:
+          - still
+          - even more
+        ebreo:
+          - עדיין
+          - עוד
+          - עוד יותר
         fransez: ''
         portugez: ''
         kasteyano: aún

@@ -1,0 +1,23 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: aparar
+    rashi: אפאראר
+
+    translations:
+      inglez:
+        - display
+        - show
+        - sharpen
+      fransez: ''
+      ebreo:
+        - להציג
+        - להראות
+        - לחדד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+conjugations: {}

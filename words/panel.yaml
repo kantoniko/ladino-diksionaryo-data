@@ -1,0 +1,19 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: panel
+    accented: pánel
+    rashi: פאניל
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: panel
+      ebreo: פאנל
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

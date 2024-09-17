@@ -1,0 +1,24 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: aplikar
+    accented: ''
+    rashi: אפליקאר
+
+    translations:
+      inglez:
+        - implement
+        - apply
+        - attach
+        - use
+      fransez: ''
+      ebreo:
+        - לישם
+        - להויא לפועל
+        - להצמיד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}
