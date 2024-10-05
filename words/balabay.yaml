@@ -1,4 +1,4 @@
-grammar: noun
+bigrammar: noun
 orijen: Ladinokomunita
 linguas:
   - ebreo
@@ -18,7 +18,7 @@ versions:
       ebreo: ''
       portugez: ''
       kasteyano: hospedador
-      turko: sahip
+      turko: ev sahibi
 
   - ladino: balabaya
 
@@ -31,7 +31,7 @@ versions:
       ebreo: ''
       portugez: ''
       kasteyano: hospedadora
-      turko: sahibe
+      turko: ev sahibesi
 
   - ladino: balabayes
 
@@ -45,7 +45,7 @@ versions:
       ebreo: ''
       portugez: ''
       kasteyano: hospedadores
-      turko: sahibeler
+      turko: ev sahipleri
 
   - ladino: balabayas
 
@@ -58,7 +58,7 @@ versions:
       ebreo: ''
       portugez: ''
       kasteyano: hospedadoras
-      turko: sahipler
+      turko: ev sahibeleri
 
 
 
