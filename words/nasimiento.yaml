@@ -9,11 +9,11 @@ versions:
 
     translations:
       inglez: birth
-      fransez: ''
+      fransez: naissance
       ebreo: ''
       portugez: ''
       kasteyano: nacimiento
-      turko: ''
+      turko: doğum
 
   - ladino: nasimientos
 
@@ -22,10 +22,10 @@ versions:
 
     translations:
       inglez: birthes
-      fransez: ''
+      fransez: naissances
       ebreo: ''
       portugez: ''
       kasteyano: nacimientos
-      turko: ''
+      turko: doğumlar
 
 
