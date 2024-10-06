@@ -3,6 +3,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: nasimiento
+    rashi: נאסימייוטו
 
     gender: masculine
     number: singular
