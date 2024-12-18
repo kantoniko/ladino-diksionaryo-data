@@ -50,15 +50,17 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - maids
         - servants
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - משרתים
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - criadas
         - mozos
-        turko: hizmetçi
+      turko: hizmetçi
 
   - ladino: mosas
 
@@ -66,15 +68,17 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - maids
         - servants
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - משרתות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - criadas
         - mozas
-        turko: hizmetçi
+      turko: hizmetçi
 
 
 
