@@ -12,27 +12,31 @@ versions:
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - dancer
         - ballet-dancer
-        fransez: danseur
-        portugez: ''
-        kasteyano: bailarín
-        turko: dansör
+      ebreo: רקדן
+      fransez: danseur
+      portugez: ''
+      kasteyano: bailarín
+      turko: dansör
 
   - ladino: bayladera
     accented: bayladéra
+    rashi: באיילאדירה
+
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - dancer
         - ballet-dancer
-        fransez: danseuse
-        portugez: ''
-        kasteyano: bailarina
-        turko: dansöz
+      ebreo: רקדנית
+      fransez: danseuse
+      portugez: ''
+      kasteyano: bailarina
+      turko: dansöz
 
   - ladino: bayladores
     accented: bayladóres
@@ -40,13 +44,14 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - dancers
         - ballet-dancers
-        fransez: danseurs
-        portugez: ''
-        kasteyano: bailarín
-        turko: dansör
+      ebreo: רקדנים
+      fransez: danseurs
+      portugez: ''
+      kasteyano: bailarín
+      turko: dansör
 
   - ladino: bayladeras
     accented: bayladéras
@@ -54,11 +59,12 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - dancers
         - ballet-dancers
-        fransez: danseuses
-        portugez: ''
-        kasteyano: bailarinas
-        turko: dansöz
+      ebreo: רקדניות
+      fransez: danseuses
+      portugez: ''
+      kasteyano: bailarinas
+      turko: dansöz
 

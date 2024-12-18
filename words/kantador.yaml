@@ -5,28 +5,32 @@ kategorias:
 
 versions:
   - ladino: kantador
+    rashi: קאנטאדור
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: singer
-        fransez: ''
-        portugez: ''
-        kasteyano: cantor
-        turko: şarkıcı
+      inglez: singer
+      ebreo: זמר
+      fransez: ''
+      portugez: ''
+      kasteyano: cantor
+      turko: şarkıcı
 
   - ladino: kantadera
+    rashi: קאנטאדירה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: singer
-        fransez: ''
-        portugez: ''
-        kasteyano: cantora
-        turko: şarkıcı
+      inglez: singer
+      ebreo: זמרת
+      fransez: ''
+      portugez: ''
+      kasteyano: cantora
+      turko: şarkıcı
 
   - ladino: kantadores
 
@@ -34,11 +38,11 @@ versions:
     number: plural
 
     translations:
-        inglez: singers
-        fransez: ''
-        portugez: ''
-        kasteyano: cantors
-        turko: şarkıcı
+      inglez: singers
+      fransez: ''
+      portugez: ''
+      kasteyano: cantors
+      turko: şarkıcı
 
   - ladino: kantaderas
 
@@ -46,10 +50,9 @@ versions:
     number: plural
 
     translations:
-        inglez: singers
-        fransez: ''
-        portugez: ''
-        kasteyano: cantoras
-        turko: şarkıcı
-
+      inglez: singers
+      fransez: ''
+      portugez: ''
+      kasteyano: cantoras
+      turko: şarkıcı
 

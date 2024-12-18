@@ -5,6 +5,10 @@ kategorias:
 
 versions:
   - ladino: enfermero
+    rashi: אינפﬞירמירו
+
+    alternative-spelling:
+      - ladino: enfermiero
 
     gender: masculine
     number: singular
@@ -12,12 +16,16 @@ versions:
     translations:
       inglez: nurse
       fransez: ''
-      ebreo: ''
+      ebreo: אח
       portugez: ''
       kasteyano: enfermero
       turko: hasta
 
   - ladino: enfermera
+    rashi: אינפﬞירמירה
+
+    alternative-spelling:
+      - ladino: enfermiera
 
     gender: feminine
     number: singular
@@ -25,7 +33,7 @@ versions:
     translations:
       inglez: nurse
       fransez: ''
-      ebreo: ''
+      ebreo: אחות
       portugez: ''
       kasteyano: enfermera
       turko: hasta
@@ -38,7 +46,7 @@ versions:
     translations:
       inglez: nurses
       fransez: ''
-      ebreo: ''
+      ebreo: אחים
       portugez: ''
       kasteyano: enfermeros
       turko: hastalar
@@ -51,10 +59,8 @@ versions:
     translations:
       inglez: nurses
       fransez: ''
-      ebreo: ''
+      ebreo: אחיות
       portugez: ''
       kasteyano: enfermeras
       turko: hastalar
-
-
 

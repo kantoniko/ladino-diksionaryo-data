@@ -4,6 +4,9 @@ orijen: Jeneral
 versions:
   - ladino: miembro
 
+    alternative-spelling:
+      - ladino: myembro
+
     gender: masculine
     number: singular
 
@@ -15,6 +18,9 @@ versions:
         turko: aza
 
   - ladino: miembra
+
+    alternative-spelling:
+      - ladino: myembra
 
     gender: feminine
     number: singular
@@ -28,6 +34,10 @@ versions:
 
   - ladino: miembros
 
+    alternative-spelling:
+      - ladino: myembros
+
+
     gender: masculine
     number: plural
 
@@ -39,6 +49,9 @@ versions:
         turko: aza
 
   - ladino: miembras
+
+    alternative-spelling:
+      - ladino: myembras
 
     gender: feminine
     number: plural

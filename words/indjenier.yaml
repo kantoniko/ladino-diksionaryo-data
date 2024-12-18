@@ -1,0 +1,34 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: indjenier
+    rashi: אינגﬞינייר
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: engineer
+      ebreo: מהנדס
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: indjeniera
+    rashi: אינגﬞיניירה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: engineer
+      ebreo: מהנדסת
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

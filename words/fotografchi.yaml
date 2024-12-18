@@ -1,0 +1,23 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+linguas:
+  - turko
+
+versions:
+  - ladino: fotografchi
+    accented: fotografchí
+    rashi: פﬞוטוגראפﬞגﬞי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: photographer
+      ebreo: צלם
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -9,11 +9,12 @@ versions:
     number: singular
 
     translations:
-        inglez: soldier
-        fransez: ''
-        portugez: ''
-        kasteyano: soldado
-        turko: asker
+      inglez: soldier
+      ebreo: חייל
+      fransez: ''
+      portugez: ''
+      kasteyano: soldado
+      turko: asker
 
   - ladino: soldada
     rashi: סולדאדה
@@ -22,11 +23,12 @@ versions:
     number: singular
 
     translations:
-        inglez: soldier
-        fransez: ''
-        portugez: ''
-        kasteyano: soldada
-        turko: asker
+      inglez: soldier
+      ebreo: חיילת
+      fransez: ''
+      portugez: ''
+      kasteyano: soldada
+      turko: asker
 
   - ladino: soldados
     rashi: סולדאדוס
@@ -35,11 +37,12 @@ versions:
     number: plural
 
     translations:
-        inglez: soldiers
-        fransez: ''
-        portugez: ''
-        kasteyano: soldados
-        turko: asker
+      inglez: soldiers
+      ebreo: חיילים
+      fransez: ''
+      portugez: ''
+      kasteyano: soldados
+      turko: asker
 
   - ladino: soldadas
     rashi: סולדאדאס
@@ -48,10 +51,11 @@ versions:
     number: plural
 
     translations:
-        inglez: soldiers
-        fransez: ''
-        portugez: ''
-        kasteyano: soldadas
-        turko: asker
+      inglez: soldiers
+      ebreo: חיילות
+      fransez: ''
+      portugez: ''
+      kasteyano: soldadas
+      turko: asker
 
 

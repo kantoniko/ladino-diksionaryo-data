@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: tanyedor
+    rashi: טאניידור
 
     gender: masculine
     number: singular
@@ -12,12 +13,15 @@ versions:
     translations:
       inglez: musician
       fransez: musicien
-      ebreo: ''
+      ebreo:
+        - נגן
+        - מוסיקאי
       portugez: ''
       kasteyano: músico
       turko: ''
 
   - ladino: tanyedora
+    rashi: טאניידירה
 
     gender: feminine
     number: singular
@@ -25,7 +29,9 @@ versions:
     translations:
       inglez: musician
       fransez: musicienne
-      ebreo: ''
+      ebreo:
+        - נגנית
+        - מוסיקאית
       portugez: ''
       kasteyano: música
       turko: ''
@@ -38,7 +44,9 @@ versions:
     translations:
       inglez: musicians
       fransez: musiciennes
-      ebreo: ''
+      ebreo:
+        - נגנים
+        - מוסיקאים
       portugez: ''
       kasteyano: músicos
       turko: ''
@@ -51,7 +59,9 @@ versions:
     translations:
       inglez: musicians
       fransez: musiciens
-      ebreo: ''
+      ebreo:
+        - נגניות
+        - מוסיקאיות
       portugez: ''
       kasteyano: músicas
       turko: ''
