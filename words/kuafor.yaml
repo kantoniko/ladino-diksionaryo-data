@@ -3,21 +3,25 @@ orijen: Jeneral
 
 versions:
   - ladino: kuafor
+    rashi: קואפﬞור
 
     gender: masculine
     number: singular
 
     alternative-spelling:
       - ladino: berber
+      - ladino: kuaför
 
     translations:
-        inglez:
+      inglez:
         - hairdresser
         - barber
-        fransez: ''
-        portugez: ''
-        kasteyano: peluquería
-        turko:
+      ebreo:
+        - ספר
+      fransez: ''
+      portugez: ''
+      kasteyano: peluquería
+      turko:
         - kuaför
         - berber
 

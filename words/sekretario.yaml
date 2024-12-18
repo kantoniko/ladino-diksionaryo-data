@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: sekretario
+    rashi: סיקריטארייו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: secretary
+      ebreo: מזכיר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

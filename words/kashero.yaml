@@ -1,0 +1,26 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: kashero
+    rashi: קאשירו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - cashier
+        - treasurer
+        - box maker
+      ebreo:
+        - קופאי
+        - גזבר
+        - יצרן קופסאות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

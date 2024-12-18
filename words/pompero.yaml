@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: pompero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: firefighter
+      ebreo:
+        - מכבי אש
+      fransez: ''
+      portugez: ''
+      kasteyano: bombero
+      turko: ''
+

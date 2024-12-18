@@ -25,7 +25,7 @@ versions:
     accented: bayladéra
     rashi: באיילאדירה
 
-    gender: masculine
+    gender: feminine
     number: singular
 
     translations:
@@ -55,7 +55,8 @@ versions:
 
   - ladino: bayladeras
     accented: bayladéras
-    gender: masculine
+
+    gender: feminine
     number: plural
 
     translations:
