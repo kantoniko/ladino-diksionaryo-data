@@ -8,11 +8,11 @@ versions:
       - ladino: deskarinyo
 
     translations:
-        inglez:
+      inglez:
         - longing
         - nostalgia
-        fransez: ''
-        portugez: ''
-        kasteyano: añoranza
-        turko: özlem
+      fransez: ''
+      portugez: ''
+      kasteyano: añoranza
+      turko: özlem
 

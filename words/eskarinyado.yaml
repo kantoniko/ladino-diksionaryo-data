@@ -1,0 +1,59 @@
+grammar: NA
+orijen: Jeneral
+
+# Ladino: tenemos eskarinyo
+# Spanish: te extrañamos
+
+versions:
+  - ladino: eskarinyado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: a person who is missing someone
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: eskarinyada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: a person who is missing someone
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: eskarinyados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: people who are missing someone
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: eskarinyada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: people who are missing someone
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
