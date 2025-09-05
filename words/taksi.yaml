@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: taksi
+    rashi: טאקסי
 
     gender: masculine
     number: singular
@@ -13,8 +14,10 @@ versions:
       inglez:
         - taxi
         - cab
+      ebreo:
+        - מונית
+        - טקסי
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: taxi
       turko: ''
@@ -28,8 +31,9 @@ versions:
       inglez:
         - taxis
         - cabs
+      ebreo:
+        - מוניות
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: taxis
       turko: ''

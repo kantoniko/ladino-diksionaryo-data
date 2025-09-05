@@ -4,11 +4,14 @@ orijen: Jeneral
 versions:
   - ladino: eyos
     accented: éyos
+    rashi: אילייוס
+
     gender: masculine
     number: plural
 
     translations:
         inglez: they
+        ebreo: הם
         fransez: ils
         portugez: eles
         kasteyano: ellos
@@ -16,11 +19,14 @@ versions:
 
   - ladino: eyas
     accented: éyas
+    rashi: אילייאס
+
     gender: feminine
     number: plural
 
     translations:
         inglez: they
+        ebreo: הן
         fransez: elles
         portugez: elas
         kasteyano: ellas

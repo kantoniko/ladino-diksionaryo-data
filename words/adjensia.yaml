@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: adjensia
     accented: adjénsia
+    rashi: אגﬞינסייה
 
     gender: feminine
     number: singular
@@ -17,6 +18,7 @@ versions:
 
   - ladino: adjensias
     accented: adjénsias
+    rashi: אגﬞינסייאס
 
     gender: feminine
     number: plural

@@ -42,7 +42,7 @@ conjugations:
         kasteyano: queremos
 
     vozotros:
-      ladino: keresh
+      ladino: kerésh
       translations:
         inglez: want
         kasteyano: querréis
@@ -60,7 +60,7 @@ conjugations:
         inglez: I wanted
 
     tu:
-      ladino: kijite
+      ladino: kijites
       translations:
         inglez: you wanted
 
@@ -84,5 +84,213 @@ conjugations:
       translations:
         inglez: wanted
 
+  imperfekto:
+    yo:
+      ladino: kreía
+      translations:
+        inglez: ''
+        kasteyano: ''
 
+    tu:
+      ladino: kerías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: keríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: keríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kerían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: kereré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kererás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kererá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kereremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kererésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kererán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: kera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: keras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: keramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kerásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: keran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: kijiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kijieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kijiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kijéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kijierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kijieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: kerería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kererías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kerería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kereríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kereríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kererían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: kere
+        # no keras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kered
+        # no kerásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: kerer
+#
+#  djerundivo:
+#    ladino: keriendo kijiendo
+#
+#  partisipio pasado:
+#    ladino: kerido
 

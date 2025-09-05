@@ -1,0 +1,52 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: linia
+    rashi: לינייה
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: linya
+
+    translations:
+      inglez:
+        - row
+        - line
+      ebreo:
+        - שורה
+        - קו
+        - תור
+      fransez: ''
+      portugez: ''
+      kasteyano:
+        - linea
+        - cola
+      turko: ''
+
+  - ladino: linias
+    rashi: לינייאס
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: linyas
+
+    translations:
+      inglez:
+        - rows
+        - lines
+      ebreo:
+        - שורות
+        - קוים
+        - תורים
+      fransez: ''
+      portugez: ''
+      kasteyano:
+        - lineas
+        - colas
+      turko: ''
+

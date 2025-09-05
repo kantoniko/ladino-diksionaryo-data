@@ -1,0 +1,23 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: bandido
+    rashi: באנדידו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - robber
+        - criminal
+      ebreo:
+        - שודד
+        - גזלן
+        - פושע
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

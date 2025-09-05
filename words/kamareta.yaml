@@ -12,7 +12,9 @@ versions:
     translations:
         inglez: room
         fransez: chambre
-        portugez: quarto
+        portugez: 
+           - cômodo
+           - quarto
         kasteyano: cuarto
         turko: oda
 
@@ -24,7 +26,9 @@ versions:
     translations:
         inglez: rooms
         fransez: chambre
-        portugez: quarto
+        portugez: 
+           - cômodos
+           - quarto
         kasteyano: cuartos
         turko: odalar
 

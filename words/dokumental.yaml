@@ -1,0 +1,19 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: dokumental
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: documentary
+      fransez: ''
+      ebreo:
+          - תעודי
+          - דוקומנטרי
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

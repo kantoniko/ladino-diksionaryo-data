@@ -8,7 +8,7 @@ versions:
     translations:
         inglez: accept
         fransez: ''
-        portugez: ''
+        portugez: aceitar
         kasteyano: aceptar
         turko: kabul etmek
 
@@ -18,36 +18,44 @@ conjugations:
       ladino: aksepto
       translations:
         inglez: accept
+        portugez: aceito
         kasteyano: acepto
 
     tu:
       ladino: akseptas
       translations:
         inglez: accept
+        portugez: aceitas
         kasteyano: aceptas
 
     el:
       ladino: aksepta
       translations:
         inglez: accepts
+        portugez: aceita
         kasteyano: acepta
 
     mozotros:
       ladino: akseptamos
       translations:
         inglez: accept
+        portugez: aceitamos
         kasteyano: aceptamos
 
     vozotros:
       ladino: akseptash
       translations:
         inglez: accept
+        portugez: 
+        - aceitais
+        - aceitam
         kasteyano: aceptáis
 
     eyos:
       ladino: akseptan
       translations:
         inglez: accept
+        portugez: aceitam
         kasteyano: aceptan
 
 

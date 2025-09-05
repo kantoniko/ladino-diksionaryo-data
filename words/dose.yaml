@@ -1,0 +1,20 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: dose
+
+    translations:
+        inglez:
+          - twelve
+          - '12'
+        fransez: ''
+        ebreo:
+          - שניעשר
+        portugez: ''
+        kasteyano: doce
+        turko: ''
+
+

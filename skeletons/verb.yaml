@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: yorar
     accented: ''
+    #rashi: בﬞ גﬞ דﬞ זﬞ טﬞ כﬞ פﬞ שﬞ
 
     translations:
       inglez: ''
@@ -13,42 +14,63 @@ versions:
       kasteyano: ''
       turko: ''
 
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino:
+#
+#  djerundivo:
+#    ladino:
+#
+#  partisipio pasado:
+#    ladino:
+
+
 conjugations:
   prezente:
+  pasado:
+  imperfekto:
+  futuro:
+  subjunktivo:
+  subjunktivo imperfekto:
+  kondisional:
+  imperativo:
+  djerundivo:
+  partisipio pasado:
     yo:
       ladino:
       translations:
-        inglez:
-        kasteyano:
+        inglez: ''
+        kasteyano: ''
 
     tu:
       ladino:
       translations:
-        inglez:
-        kasteyano:
+        inglez: ''
+        kasteyano: ''
 
     el:
       ladino:
       translations:
-        inglez:
-        kasteyano:
+        inglez: ''
+        kasteyano: ''
 
     mozotros:
       ladino:
       translations:
-        inglez:
-        kasteyano:
+        inglez: ''
+        kasteyano: ''
 
     vozotros:
       ladino:
       translations:
-        inglez:
-        kasteyano:
+        inglez: ''
+        kasteyano: ''
 
     eyos:
       ladino:
       translations:
-        inglez:
-        kasteyano:
+        inglez: ''
+        kasteyano: ''
 
 

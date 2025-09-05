@@ -9,9 +9,34 @@ versions:
     number: singular
 
     translations:
-        inglez: puddle
+        inglez:
+          - puddle
+          - pool
+        ebreo:
+          - שלולית
+          - מאגר
+          - בריכה
         fransez: flaque
         portugez: ''
         kasteyano: charco
         turko: su birikintisi
+
+  - ladino: balsas
+    accented: bálsas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez:
+          - puddles
+          - pools
+        ebreo:
+          - שלוליות
+          - מאגרים
+          - בריכות
+        fransez: ''
+        portugez: ''
+        kasteyano: charcos
+        turko: ''
 

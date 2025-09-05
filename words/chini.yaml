@@ -1,20 +1,50 @@
-grammar: NA
+grammar: noun
 orijen: Estanbol
 kategorias:
   - servisio-de-meza
   - kuzina
+linguas:
+  - turko
 
 versions:
   - ladino: chini
     accented: chiní
+    rashi: גﬞיני
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: plate
-        fransez: ''
-        portugez: ''
-        kasteyano: plato
-        turko: tabak
+      inglez:
+        - plate
+        - china
+        - porcelain
+      ebreo:
+        - חרסינה
+        - פורצלן
+        - צלחת
+      fransez: ''
+      portugez: ''
+      kasteyano: plato
+      turko: tabak
+
+  - ladino: chinis
+    accented: chinís
+    rashi: גﬞיניס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - plates
+        - porcelains
+      ebreo:
+        - חרסינות
+        - פורצלנים
+        - צלחות
+      fransez: ''
+      portugez: ''
+      kasteyano: platos
+      turko: ''
 

@@ -4,10 +4,15 @@ orijen: Jeneral
 versions:
   - ladino: adjuntar
     accented: adjuntár
+    rashi: אגﬞונטאר
+
     translations:
         inglez:
           - join
           - unite
+        ebreo:
+          - לחבר
+          - לצרף
         fransez:
           - joindre
           - unir

@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: eya
     accented: éya
+    rashi: אילייה
+
     gender: feminine
     number: singular
 

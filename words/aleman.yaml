@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: aleman
     accented: alemán
+    rashi: אלימאן
 
     gender: masculine
     number: singular

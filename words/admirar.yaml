@@ -4,9 +4,13 @@ orijen: Jeneral
 versions:
   - ladino: admirar
     accented: admirár
+    rashi: אדמיראר
 
     translations:
         inglez: admire
+        ebreo:
+          - להעריץ
+          - להתבונן
         fransez: admirer
         portugez: admirar
         kasteyano: admirar

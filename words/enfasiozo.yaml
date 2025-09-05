@@ -1,0 +1,74 @@
+grammar: adjective
+orijen: NA
+linguas:
+  - portugez
+
+versions:
+  - ladino: enfasiozo
+    rashi: אינפﬞאסייוזו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - boring
+        - tedious
+      ebreo:
+        - משעמם
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasioza
+    rashi: אינפﬞאסייוזה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - boring
+        - tedious
+      ebreo:
+        - משעממת
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasiozos
+    rashi: אינפﬞאסייוזוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - boring
+        - tedious
+      ebreo:
+        - משעמים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasiozas
+    rashi: אינפﬞאסייוזאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - boring
+        - tedious
+      ebreo:
+        - משעממות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

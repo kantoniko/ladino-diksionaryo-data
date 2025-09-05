@@ -1,0 +1,42 @@
+grammar: NA
+orijen: NA
+linguas:
+  - fransez
+
+versions:
+  - ladino: mezura
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: mesura
+
+    translations:
+      inglez: measure
+      fransez: ''
+      ebreo:
+        - מידה
+        - שיעור
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: mezuras
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: mesuras
+
+    translations:
+      inglez: measures
+      fransez: ''
+      ebreo:
+        - מידות
+        - שיעורים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

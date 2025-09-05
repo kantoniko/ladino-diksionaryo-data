@@ -1,0 +1,17 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: sintido
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: meaning
+      fransez: ''
+      ebreo: במובן
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,0 +1,23 @@
+grammar: preposition
+orijen: NA
+
+versions:
+  - ladino: asegun
+    accented: asegún
+    rashi: אסיגון
+
+    translations:
+      inglez:
+        - according to
+        - like
+        - just like
+        - just at the moment that
+      ebreo:
+        - לפי
+        - כמו
+        - בדיוק כמו
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,0 +1,27 @@
+grammar: noun
+orijen: Estanbol
+kategorias:
+  - servisio-de-meza
+  - kuzina
+linguas:
+  - turko
+
+versions:
+  - ladino: chiniko
+    rashi: גﬞיניקו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - small plate
+        - small bowl
+      ebreo:
+        - צלחת קטנה
+        - קערונת
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

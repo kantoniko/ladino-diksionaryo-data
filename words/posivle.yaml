@@ -1,14 +1,35 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: posivle
+    rashi: פוסיבﬞלי
+
+    #gender: NA # masculine feminine both
+    number: singular
+
 
     translations:
         inglez: possible
+        ebreo: אפשרי
         fransez: ''
         portugez: ''
         kasteyano: posible
         turko: mümkün
+
+  - ladino: posivles
+    rashi: פוסיבﬞליס
+
+    #gender: NA # masculine feminine both
+    number: plural
+
+
+    translations:
+        inglez: possible
+        ebreo: אפשריים
+        fransez: ''
+        portugez: ''
+        kasteyano: posibles
+        turko: ''
 
 

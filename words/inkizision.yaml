@@ -15,7 +15,9 @@ versions:
           - inquisition
           - inquiry
         fransez: ''
-        portugez: ''
+        portugez: 
+        - Inquisição
+        - Inquirição
         kasteyano: inquisición
         turko:
           - tahkikat

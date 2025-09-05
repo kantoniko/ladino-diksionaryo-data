@@ -20,6 +20,293 @@ versions:
         - ölmek
         - vefat etmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: muero
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: mueres
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: muere
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: murimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: murísh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: mueren
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: murí
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: murites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: murió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: murimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: muritesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: murieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: muría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: murías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: muría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: muríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: muríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: murían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: muriré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: murirás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: murirá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: muriremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: murirésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: murirán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: muera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: mueras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: muera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: muramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: murásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: mueran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: muriera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: murieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: muriera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: muriéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: murierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: murieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: muriría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: murirías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: muriría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: muriríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: muriríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: murirían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: muere
+        # no muearas
+      translations:
+        inglez: ''
+        kasteyano: ''
+    vozotros:
+      ladino: murid
+        # no murásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: murir
+#
+#  djerundivo:
+#    ladino: muriendo
+#
+#  partisipio pasado:
+#    ladino: muerto
+
+
+
+
+
 
 

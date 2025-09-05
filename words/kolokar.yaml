@@ -1,0 +1,24 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: kolokar
+    rashi: קולוקאר
+
+    translations:
+      inglez:
+        - put
+        - lay down
+        - set up
+      fransez: ''
+      ebreo:
+        - לשים
+        - להניח
+        - להעמיד
+        - לקבוע
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+conjugations: {}

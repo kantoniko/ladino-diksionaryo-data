@@ -1,0 +1,31 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+linguas:
+  - fransez
+
+versions:
+  - ladino: modelo
+    rashi: מודילו
+
+    alternative-spelling:
+      - ladino: model
+        rashi: מודיל
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: model
+      ebreo:
+        - דוגמא
+        - דגם
+        - מודל
+        - אב טיפוס
+        - דוגמן
+      fransez: ''
+      portugez: ''
+      kasteyano: model
+      turko: ''
+

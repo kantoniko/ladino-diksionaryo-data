@@ -12,7 +12,11 @@ versions:
         fransez:
         - saisir
         - attraper
-        portugez: ''
+        portugez:
+        - aferrar
+        - agarrar
+        - apegar
+        - prender
         kasteyano:
         - atrapar
         - agarrar

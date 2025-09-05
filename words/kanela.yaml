@@ -1,0 +1,20 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - polvos
+
+versions:
+  - ladino: kanela
+    rashi: קאנילה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: cinnamon
+      ebreo: קינמון
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

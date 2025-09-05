@@ -1,0 +1,25 @@
+grammar: adjective
+orijen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: zurzuvi
+    rashi: זורזובﬞי
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez: ''
+      ebreo:
+        - רב גוני
+        - כחול זוהר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+

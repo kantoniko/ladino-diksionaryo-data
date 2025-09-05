@@ -1,0 +1,42 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+linguas:
+  - portugez
+
+
+versions:
+  - ladino: kopo
+    rashi: קופו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: cup
+      ebreo:
+        - כוס
+        - גביע
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: kopos
+    rashi: קופוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: cups
+      ebreo:
+        - כוסות
+        - גביעים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

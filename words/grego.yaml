@@ -4,61 +4,73 @@ orijen: Jeneral
 versions:
   - ladino: grego
     accented: grégo
+    rashi: גריגו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: Greek
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: Greek
+      ebreo:
+        - יווני
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - griego
-        turko:
+      turko:
         - Rum
         - Yunanlı
 
   - ladino: grega
     accented: gréga
+    rashi: גריגה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: Greek
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: Greek
+      ebreo:
+        - יוונית
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - griega
-        turko:
+      turko:
         - Rum
         - Yunanlı
 
   - ladino: gregos
     accented: grégos
+    rashi: גריגוס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: Greek
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: Greek
+      ebreo:
+        - יוונים
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - griegos
-        turko: ''
+      turko: ''
 
   - ladino: gregas
     accented: grégas
+    rashi: גריגאס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: Greek
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: Greek
+      ebreo:
+        - יווניות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - griegas
-        turko: ''
+      turko: ''
 

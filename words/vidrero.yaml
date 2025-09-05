@@ -9,12 +9,61 @@ versions:
 
 
     translations:
-      inglez: ''
+      inglez:
+        - glazier
       fransez: ''
       ebreo:
         - זגג
         - מוכר כלי זכוכית
         - יצרן זכוכית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: vidrera
+
+    gender: feminine
+    number: singular
+
+
+    translations:
+      inglez:
+        - glazier
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: vidreros
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      inglez:
+        - glaziers
+      fransez: ''
+      ebreo:
+        - זגגים
+        - מוכרי כלי זכוכית
+        - יצרני זכוכית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: vidreras
+
+    gender: feminine
+    number: plural
+
+
+    translations:
+      inglez:
+        - glaziers
+      fransez: ''
+      ebreo: ''
       portugez: ''
       kasteyano: ''
       turko: ''

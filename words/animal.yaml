@@ -4,12 +4,14 @@ orijen: Jeneral
 versions:
   - ladino: animal
     accented: animál
+    rashi: אנימאל
 
     gender: masculine
     number: singular
 
     translations:
         inglez: animal
+        ebreo: חיה
         fransez: ''
         portugez: ''
         kasteyano: animal
@@ -17,12 +19,14 @@ versions:
 
   - ladino: animales
     accented: animáles
+    rashi: אנימאליס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: animals
+        ebreo: חיות
         fransez: ''
         portugez: ''
         kasteyano: animales

@@ -3,9 +3,12 @@ orijen: Jeneral
 
 versions:
   - ladino: resivir
+    rashi: ריסיבﬞיר
 
     translations:
         inglez: receive
+        ebreo:
+          - לקבל
         fransez: ''
         portugez: ''
         kasteyano: recibir
@@ -13,6 +16,13 @@ versions:
         - almak
         - kabul etmek
 
-conjugations: {}
+conjugations:
+  pasado:
+    yo:
+      ladino: resivi
+      translations:
+        inglez: received
+        ebreo: קיבלתי
+        kasteyano: ''
 
 

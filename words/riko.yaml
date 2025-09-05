@@ -1,54 +1,69 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: riko
+    rashi: ריקו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: rich
+        ebreo:
+          - עשיר
+          - מוצלח
         fransez: ''
         portugez: ''
         kasteyano: rico
         turko: zengin
 
   - ladino: rika
+    rashi: ריקה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: rich
+        ebreo:
+          - עשירה
+          - מוצלחת
         fransez: ''
         portugez: ''
         kasteyano: rica
         turko: zengin
 
   - ladino: rikos
+    rashi: ריקוס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: rich
+        ebreo:
+          - עשירים
+          - מוצלחים
         fransez: ''
         portugez: ''
         kasteyano: ricos
         turko: zengin
 
   - ladino: rikas
+    rashi: ריקאס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: rich
+        ebreo:
+          - עשירןת
+          - מוצלחות
         fransez: ''
         portugez: ''
         kasteyano: ricas
         turko: zengin
-
 
 

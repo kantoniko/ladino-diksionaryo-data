@@ -4,19 +4,23 @@ orijen: Jeneral
 versions:
   - ladino: poder
     accented: podér
+    rashi: פודיר
+
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - power
         - authority
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - יכולת
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - poder
         - potencia
-        turko:
+      turko:
         - güç
         - iktidar
         - kuvvet

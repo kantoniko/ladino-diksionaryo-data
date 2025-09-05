@@ -1,0 +1,17 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: alegrar
+    rashi: אליגראר
+
+
+    translations:
+      inglez: make happy
+      ebreo: לשמח
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

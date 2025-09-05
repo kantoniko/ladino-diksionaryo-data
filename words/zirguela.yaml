@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: zirguela
     accented: zirguéla
+    rashi: זירגואילה
 
     gender: feminine
     number: singular
@@ -20,6 +21,7 @@ versions:
 
   - ladino: zirguelas
     accented: zirguélas
+    rashi: זירגואילאס
 
     gender: feminine
     number: plural

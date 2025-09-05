@@ -1,0 +1,20 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: trese
+
+    translations:
+        inglez:
+          - thirteen
+          - '13'
+        fransez: ''
+        ebreo:
+          - שלושהעשר
+        portugez: ''
+        kasteyano: trece
+        turko: ''
+
+

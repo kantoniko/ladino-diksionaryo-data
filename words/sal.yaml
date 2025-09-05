@@ -1,17 +1,21 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - komidas
+  - polvos
 
 versions:
   - ladino: sal
+    rashi: סאל
 
     gender: feminine
     number: singular
+
     translations:
-        inglez: salt
-        fransez: ''
-        portugez: ''
-        kasteyano: sal
-        turko: tuz
+      inglez: salt
+      ebreo: מלח
+      fransez: ''
+      portugez: ''
+      kasteyano: sal
+      turko: tuz
 

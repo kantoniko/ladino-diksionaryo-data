@@ -1,0 +1,23 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+linguas:
+  - turko
+
+versions:
+  - ladino: boyadji
+    accented: boyadjí
+    rashi: בוייאגﬞי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: painter
+      ebreo: צבעי
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,4 +1,6 @@
-ladino: kolor roz
-inglez: pink color
-kasteyano: color rosa; color rosado
+ladino: Kolor roz.
+inglez: Pink color.
+kasteyano:
+  - Color rosa.
+  - Color rosado.
 

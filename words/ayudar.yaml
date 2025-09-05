@@ -4,9 +4,14 @@ orijen: Jeneral
 versions:
   - ladino: ayudar
     accented: ayudár
+    rashi: אייודאר
 
     translations:
         inglez: help
+        ebreo:
+          - לעזור
+          - לסייע
+          - לתמוך
         fransez: ''
         portugez: ''
         kasteyano: ayudar

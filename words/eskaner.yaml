@@ -1,5 +1,7 @@
 grammar: noun
 orijen: Ladinadores
+kategorias:
+  - komputadora
 
 versions:
   - ladino: eskaner
@@ -10,8 +12,8 @@ versions:
     translations:
       inglez: scanner
       fransez: ''
-      ebreo: ''
+      ebreo: סורק
       portugez: ''
-      kasteyano: ''
+      kasteyano: escáner
       turko: ''
 

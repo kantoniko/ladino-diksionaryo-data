@@ -1,0 +1,72 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: enfasiado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - tired
+        - bored
+      fransez: ''
+      ebreo:
+        - משועמם
+        - מיוגע
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasiada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - tired
+        - bored
+      fransez: ''
+      ebreo:
+        - משועממת
+        - מיוגעת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasiados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - tired
+        - bored
+      fransez: ''
+      ebreo:
+        - משועממים
+        - מיוגעים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasiadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - tired
+        - bored
+      fransez: ''
+      ebreo:
+        - משועממות
+        - מיוגעות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -2,6 +2,8 @@ grammar: noun
 orijen: Ladinadores
 kategorias:
   - kontenentes
+linguas:
+  - fransez
 
 versions:
   - ladino: bidon
@@ -11,9 +13,11 @@ versions:
     number: singular
 
     translations:
-      inglez: ''
-      fransez: ''
-      ebreo: ''
+      inglez: can
+      fransez: bidon
+      ebreo:
+        - פחית
+        - מכל
       portugez: ''
       kasteyano: ''
       turko: ''

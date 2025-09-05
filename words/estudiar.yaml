@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: estudiar
+    rashi: איסטודייאר
 
     translations:
         inglez: study
@@ -11,6 +12,47 @@ versions:
         kasteyano: estudiar
         turko: ders çalışmak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: estudio
+      rashi: איסטודייו
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: estudias
+      rashi: איסטודייס
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: estudia
+      rashi: איסטודייה
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: estudiamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: estudiash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: estudian
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
 
 

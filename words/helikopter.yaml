@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Ladinokomunita
 kategorias:
   - veikolos
@@ -12,7 +12,7 @@ versions:
     translations:
       inglez: helicopter
       fransez: ''
-      ebreo: ''
+      ebreo: מסוק
       portugez: ''
       kasteyano: helicóptero
       turko: ''
@@ -25,7 +25,7 @@ versions:
     translations:
       inglez: helicopters
       fransez: ''
-      ebreo: ''
+      ebreo: מסוקים
       portugez: ''
       kasteyano: helicópteros
       turko: ''

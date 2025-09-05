@@ -3,14 +3,304 @@ orijen: Jeneral
 
 versions:
   - ladino: traer
+    rashi: טראאיר
+
+    alternative-spelling:
+      - ladino: trayer
 
     translations:
         inglez: bring
+        ebreo:
+          - להביא
         fransez: ''
         portugez: ''
         kasteyano: traer
         turko: getirmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: traygo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: trayes
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: traye
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: trayemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trayésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: trayen
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: trushe
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: trushites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: trusho
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: trushimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trushitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: trusheron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: trayía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: trayías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: trayía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: trayíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trayíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: trayían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: trayeré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: trayerás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: trayerá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: trayeremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trayerésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: trayerán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: trayga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: traygas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: trayga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: traygamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: traygásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: traygan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: trushera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: trusheras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: trushera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: trushéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trusherash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: trusheran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: trayería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: trayerías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: trayería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: trayeríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trayeríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: trayerían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  imperativo:
+    tu:
+      ladino: traye
+        # no traygas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: trayed
+        # no traygásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: trayer
+#
+#  djerundivo:
+#    ladino: trayendo
+#
+#  partisipio pasado:
+#    ladino: trayido
 
 

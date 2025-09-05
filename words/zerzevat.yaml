@@ -1,5 +1,9 @@
 grammar: noun
 orijen: Estanbol
+kategorias:
+  - komidas
+linguas:
+  - turko
 
 versions:
   - ladino: zerzevat
@@ -11,6 +15,12 @@ versions:
     alternative-spelling:
       - ladino: zarzavat
         accented: zarzavát
+        rashi: זארזאבﬞאט
+
+    alternative-spelling:
+      - ladino: azarzava
+        accented: azarzavá
+        rashi: אזארזאבﬞה
 
     translations:
         inglez: vegetables

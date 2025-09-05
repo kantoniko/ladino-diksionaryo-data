@@ -40,7 +40,7 @@ conjugations:
         kasteyano: conocesmo
 
     vozotros:
-      ladino: konosesh
+      ladino: konosésh
       translations:
         inglez: know
         kasteyano: conoséis
@@ -51,11 +51,255 @@ conjugations:
         inglez: know
         kasteyano: conocen
 
-  #past:
-  #  el:
-  #    ladino: konosia
-  #    translations:
-  #      inglez: knew
+  pasado:
+    yo:
+      ladino: konosí
+      translations:
+        inglez: ''
+        kasteyano: ''
 
+    tu:
+      ladino: konosites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: konosió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: konosimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konositesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: konosieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: konosía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: konosías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: konosía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: konosíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konosíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: konosían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: konoseré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: konoserás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: konoserá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: konoseremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konoserésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: konoserán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: konoska
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: konoskas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: konoska
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: konoskamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konoskásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: konoskan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: konosiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: konosieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: konosiera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: konosiéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konosierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: konosieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: konosería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: konoserías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: konosería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: konoseríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konoseríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: konoserían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: konose
+        # no konoskas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: konosed
+        # no konoskásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: konoser
+#
+#  djerundivo:
+#    ladino: konosiendo
+#
+#  partisipio pasado:
+#    ladino: konosido
+
+# TODO: aborreser, amaneser, apareser, dezapareser
+# endureser, engrandeser, envejeser, estableser,
+# floreser, kreser, mereser, naser, pareser
 
 

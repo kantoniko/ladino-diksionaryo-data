@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: igual
+    rashi: איגואל
 
     gender: both
     number: singular

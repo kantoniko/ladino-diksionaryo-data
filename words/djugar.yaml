@@ -3,9 +3,12 @@ orijen: Jeneral
 
 versions:
   - ladino: djugar
+    rashi: גﬞוגאר
 
     translations:
         inglez: play
+        ebreo:
+          - לשחק
         fransez: jouer
         portugez: jogar
         kasteyano: jugar

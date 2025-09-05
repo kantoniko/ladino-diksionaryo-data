@@ -1,18 +1,21 @@
-grammar: NA
+grammar: noun
 orijen: Ladinokomunita
 kategorias:
   - veikolos
+linguas:
+  - bulgaro
 
 versions:
   - ladino: shayna
+    rashi: שאיינה
 
     gender: feminine
     number: singular
 
     translations:
       inglez: sled
+      ebreo: מזחלת
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: trineo
       turko: ''

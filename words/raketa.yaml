@@ -1,0 +1,23 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: raketa
+    rashi: ראקיטה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - racket
+        - rocket
+      ebreo:
+        - מחבט
+        - טיל
+        - רקיטה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

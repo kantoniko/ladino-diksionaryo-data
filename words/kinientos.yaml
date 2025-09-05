@@ -1,0 +1,18 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - numeros
+
+versions:
+  - ladino: kinientos
+
+    translations:
+      inglez:
+        - fivehundred
+        - '500'
+      fransez: ''
+      ebreo: חמשמאות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

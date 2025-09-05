@@ -4,17 +4,21 @@ orijen: Jeneral
 versions:
   - ladino: enshaguar
     accented: enshaguár
+    rashi: אינשאגואר
 
     translations:
-        inglez:
+      inglez:
         - rinse
         - wash
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - לשטוף
+        - להדיח
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - enjuagar
         - lavar
-        turko:
+      turko:
         - çalkalamak
         - yıkamak
 

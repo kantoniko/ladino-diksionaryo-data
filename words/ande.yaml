@@ -6,21 +6,26 @@ kategorias:
 versions:
   - ladino: ande
     accented: ánde
+    rashi: אנדי
 
     alternative-spelling:
       - ladino: onde
         accented: ónde
 
     translations:
-        inglez:
+      inglez:
         - where
         - where to
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - איפה
+        - היכן
+        - לאן
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - donde
         - a donde
-        turko:
+      turko:
         - neresi
         - nerede
         - nereye

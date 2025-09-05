@@ -3,14 +3,42 @@ orijen: Jeneral
 
 versions:
   - ladino: enterramiento
+    rashi: אינטיראמיינטו
+
+    gender: masculine
+    number: singular
+
 
     translations:
-        inglez:
+      inglez:
         - burial
         - funeral
-        fransez: ''
-        portugez: ''
-        kasteyano: entierro
-        turko: cenaze
+      ebreo:
+        - קבורה
+        - לוויה
+      fransez: ''
+      portugez: ''
+      kasteyano: entierro
+      turko: cenaze
+
+  - ladino: enterramientos
+    rashi: אינטיראמיינטוס
+
+    gender: masculine
+    number: plural
+
+
+    translations:
+      inglez:
+        - burials
+        - funerals
+      ebreo:
+        - קבורה
+        - לוויות
+      fransez: ''
+      portugez: ''
+      kasteyano: entierros
+      turko: ''
+
 
 

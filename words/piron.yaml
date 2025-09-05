@@ -1,35 +1,40 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - servisio-de-meza
   - kuzina
+linguas:
+  - grego
 
 versions:
   - ladino: piron
+    accented: pirón
+    rashi: פירון
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: fork
-        fransez: fourchette
-        ebreo: מזלג
-        portugez: ''
-        kasteyano: tenedor
-        turko: çatal
+      inglez: fork
+      fransez: fourchette
+      ebreo: מזלג
+      portugez: ''
+      kasteyano: tenedor
+      turko: çatal
 
   - ladino: pirones
+    rashi: פירוניס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: forks
-        fransez: fourchettes
-        ebreo: מזלגות
-        portugez: ''
-        kasteyano: tenedores
-        turko: çatal
+      inglez: forks
+      fransez: fourchettes
+      ebreo: מזלגות
+      portugez: ''
+      kasteyano: tenedores
+      turko: çatal
 
 
 

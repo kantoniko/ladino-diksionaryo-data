@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: dedo
+    rashi: דידו
 
     gender: masculine
     number: singular
@@ -17,6 +18,7 @@ versions:
         turko: parmak
 
   - ladino: dedos
+    rashi: דידוס
 
     gender: masculine
     number: plural

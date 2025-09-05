@@ -9,10 +9,12 @@ versions:
 
     translations:
         inglez: God
-        fransez: ''
+        fransez: Dieu
         portugez: Deus
         kasteyano: Dios
-        turko: Allah
+        turko:
+          - Allah
+          - Tanrı
 
   - ladino: Dios
 
@@ -20,11 +22,11 @@ versions:
     number: plural
 
     translations:
-        inglez: Gods
-        fransez: ''
-        portugez: Deuses
-        kasteyano: Dios
-        turko: Allah
+        inglez: gods
+        fransez: dieux
+        portugez: deuses
+        kasteyano: dioses
+        turko: tanrılar
 
 
 

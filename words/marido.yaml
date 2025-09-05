@@ -14,7 +14,9 @@ versions:
     translations:
         inglez: husband
         fransez: ''
-        portugez: ''
+        portugez: 
+        - marido
+        - esposo
         kasteyano: marido
         turko:
         - koca
@@ -29,7 +31,9 @@ versions:
     translations:
         inglez: husbands
         fransez: ''
-        portugez: ''
+        portugez:
+        - marido
+        - esposos
         kasteyano: maridos
         turko:
         - koca

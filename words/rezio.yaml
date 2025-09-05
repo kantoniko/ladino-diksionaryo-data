@@ -4,6 +4,9 @@ orijen: Jeneral
 versions:
   - ladino: rezio
 
+    alternative-spelling:
+      - ladino: rezyo
+
     gender: masculine
     number: singular
 
@@ -17,6 +20,9 @@ versions:
         turko: sağlam
 
   - ladino: rezia
+
+    alternative-spelling:
+      - ladino: rezya
 
     gender: feminine
     number: singular
@@ -32,6 +38,9 @@ versions:
 
   - ladino: rezios
 
+    alternative-spelling:
+      - ladino: rezyos
+
     gender: masculine
     number: plural
 
@@ -45,6 +54,9 @@ versions:
         turko: sağlam
 
   - ladino: rezias
+
+    alternative-spelling:
+      - ladino: rezyas
 
     gender: feminine
     number: plural

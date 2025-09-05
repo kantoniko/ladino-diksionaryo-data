@@ -1,0 +1,34 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: restorador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: restorer
+      fransez: ''
+      ebreo:
+        - משחזר
+      portugez: ''
+      kasteyano: restaurador
+      turko: ''
+
+  - ladino: restoradora
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: restorer
+      fransez: ''
+      ebreo:
+        - משחזרת
+      portugez: ''
+      kasteyano: restauradora
+      turko: ''
+

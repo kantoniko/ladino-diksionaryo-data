@@ -3,29 +3,32 @@ orijen: Jeneral
 
 versions:
   - ladino: tu
+    accented: tú
+    rashi: טו
 
     number: singular
-    
+
     gender: both
 
     translations:
         inglez:
           - you
           - your
-        fransez: 
+        fransez:
           - tu
           - a toi
-        portugez: 
+        portugez:
           - você
-          - teu, tua 
-        kasteyano: 
+          - teu
+          - tua
+        kasteyano:
           - tú
           - tu
-        turko: 
+        turko:
           - sen
           - senin
 
-  
+
   - ladino: tus
 
     translations:

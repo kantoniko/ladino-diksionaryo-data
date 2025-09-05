@@ -3,6 +3,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: bevida
+    rashi: ביבﬞידה
 
     gender: feminine
     number: singular
@@ -10,12 +11,15 @@ versions:
     translations:
       inglez: drink
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - משקה
+        - שתיה
       portugez: ''
       kasteyano: bebida
       turko:  içki
 
   - ladino: bevidas
+    rashi: ביבﬞידאס
 
     gender: feminine
     number: plural
@@ -23,10 +27,12 @@ versions:
     translations:
       inglez: drinks
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - משקאות
+        - שתיות
       portugez: ''
       kasteyano: bebidas
-      turko:  içkiler
+      turko: içkiler
 
 
 

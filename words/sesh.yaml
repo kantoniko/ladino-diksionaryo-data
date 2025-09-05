@@ -5,11 +5,14 @@ kategorias:
 
 versions:
   - ladino: sesh
+    rashi: סיש
 
     translations:
-      inglez: six
+      inglez:
+        - six
+        - '6'
+      ebreo: שש
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: seis
       turko: ''

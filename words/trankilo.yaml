@@ -1,0 +1,72 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: trankilo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: calm
+      fransez: ''
+      ebreo:
+        - שקט
+        - שלו
+        - רגוע
+        - חסר דאגה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: trankila
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: calm
+      fransez: ''
+      ebreo:
+        - שקטה
+        - שלוה
+        - רגועה
+        - חסרת דאגה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: trankilos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: calm
+      fransez: ''
+      ebreo:
+        - שקטים
+        - שלוים
+        - רגועים
+        - חסרי דאגה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: trankilas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: calm
+      fransez: ''
+      ebreo:
+        - שקטות
+        - שלוות
+        - רגועות
+        - חסרות דאגה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,15 +1,22 @@
 grammar: verb
 orijen: Jeneral
+linguas:
+  - fransez
 
 versions:
   - ladino: desinar
+    rashi: דיסינאר
 
     translations:
-        inglez: sketch
-        fransez: ''
-        portugez: ''
-        kasteyano: dibujar
-        turko: desen çizmek (skeç)
+      inglez: sketch
+      ebreo:
+        - לשרטט
+        - לרשום
+        - לצייר
+      fransez: ''
+      portugez: ''
+      kasteyano: dibujar
+      turko: desen çizmek (skeç)
 
 conjugations: {}
 

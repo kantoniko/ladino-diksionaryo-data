@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: adjami
     accented: adjamí
+    rashi: אגﬞאמי
 
     alternative-spelling:
       - ladino: adjamia
@@ -13,6 +14,9 @@ versions:
         inglez:
           - novice
           - inexperienced
+        ebreo:
+          - טירון
+          - ירוק
         fransez:
           - novice
           - inexpérimenté

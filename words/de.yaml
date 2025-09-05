@@ -3,11 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: de
+    rashi: די
 
     translations:
         inglez:
           - of
           - from
+        ebreo:
+          - מ
+          - מן
+          - של
+          - ב
         fransez: ''
         portugez: ''
         kasteyano: de

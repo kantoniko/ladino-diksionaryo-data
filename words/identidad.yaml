@@ -1,0 +1,18 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: identidad
+    rashi: אידינטידאד
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: identity
+      ebreo: זהות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

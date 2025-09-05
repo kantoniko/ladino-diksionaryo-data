@@ -3,12 +3,16 @@ orijen: Jeneral
 
 versions:
   - ladino: investigasion
+    rashi: אינבﬞיסטיגאסייון
 
     gender: feminine
     number: singular
 
     translations:
         inglez: investigation
+        ebreo:
+          - חקירה
+          - מחקר
         fransez: ''
         portugez: ''
         kasteyano: investigación

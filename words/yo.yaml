@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: yo
+    rashi: ייו
 
     number: singular
     gender: both

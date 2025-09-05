@@ -4,11 +4,56 @@ orijen: Jeneral
 versions:
   - ladino: bodre
 
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: borde
+
     translations:
-        inglez: edge
+        inglez:
+          - edge
+          - beach
+          - bank
+          - margin
+          - side
+        ebreo:
+          - חוף
+          - גדה
+          - שפה
+          - קצה
+          - שוליים
+          - צד
         fransez: ''
         portugez: ''
         kasteyano: borde
         turko: kenar
+
+  - ladino: bodres
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bordes
+
+    translations:
+        inglez:
+          - edges
+          - beaches
+          - banks
+          - margins
+          - sides
+        ebreo:
+          - חופים
+          - גדות
+          - שפות
+          - קצוות
+          - שוליים
+          - צדדים
+        fransez: ''
+        portugez: ''
+        kasteyano: bordes
+        turko: ''
 
 

@@ -3,13 +3,22 @@ orijen: Jeneral
 
 versions:
   - ladino: kortar
+    rashi: קורטאר
 
     translations:
-        inglez: cut
-        fransez: ''
-        portugez: ''
-        kasteyano: cortar
-        turko: kesmek
+      inglez: cut
+      ebreo:
+        - לגזור
+        - לחתוך
+        - לכרות
+        - לקצר
+        - לשבור
+        - להפסיק
+        - לאסור
+      fransez: ''
+      portugez: ''
+      kasteyano: cortar
+      turko: kesmek
 
 conjugations: {}
 

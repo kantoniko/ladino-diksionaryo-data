@@ -1,0 +1,34 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: estatua
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: statue
+      fransez: ''
+      ebreo:
+        - פסל
+        - אנדרטה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: estatuas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: statues
+      fransez: ''
+      ebreo:
+        - פסלים
+        - אנדרטאות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

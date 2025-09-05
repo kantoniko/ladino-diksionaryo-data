@@ -6,6 +6,7 @@ linguas:
 versions:
   - ladino: zingano
     accented: zíngano
+    rashi: זינגאנו
 
     gender: masculine
     number: singular
@@ -15,11 +16,12 @@ versions:
       fransez: ''
       ebreo: צועני
       portugez: ''
-      kasteyano: ''
+      kasteyano: gitano
       turko: ''
 
   - ladino: zingana
     accented: zíngana
+    rashi: זינגאנה
 
     gender: feminine
     number: singular
@@ -29,11 +31,12 @@ versions:
       fransez: ''
       ebreo: צועניה
       portugez: ''
-      kasteyano: ''
+      kasteyano: gitana
       turko: ''
 
   - ladino: zinganos
     accented: zínganos
+    rashi: זינגאנוס
 
     gender: masculine
     number: plural
@@ -43,11 +46,12 @@ versions:
       fransez: ''
       ebreo: צוענים
       portugez: ''
-      kasteyano: ''
+      kasteyano: gitanos
       turko: ''
 
-  - ladino: zingana
-    accented: zíngana
+  - ladino: zinganas
+    accented: zínganas
+    rashi: זינגאנאס
 
     gender: feminine
     number: plural
@@ -57,6 +61,6 @@ versions:
       fransez: ''
       ebreo: צועניות
       portugez: ''
-      kasteyano: ''
+      kasteyano: gitanas
       turko: ''
 

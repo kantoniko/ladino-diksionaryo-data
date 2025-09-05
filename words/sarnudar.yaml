@@ -4,17 +4,19 @@ orijen: Jeneral
 versions:
   - ladino: sarnudar
     accented: sarnudár
+    rashi: סארנודאר
 
     alternative-spelling:
       - ladino: estornudar
         accented: estornudár
 
     translations:
-        inglez: sneeze
-        fransez: ''
-        portugez: ''
-        kasteyano: estornudar
-        turko:
+      inglez: sneeze
+      ebreo: להתעטש
+      fransez: ''
+      portugez: ''
+      kasteyano: estornudar
+      turko:
         - aksırmak
         - hapşırmak
 

@@ -1,0 +1,305 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: servir
+
+    translations:
+      inglez: serve
+      fransez: ''
+      ebreo: לשרת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations:
+  prezente:
+    yo:
+      ladino: siervo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sierves
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sierve
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: servimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: servísh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sierven
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: serví
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: servites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: servió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: servimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: servitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: servieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: servía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: servías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: servía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: servíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: servíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: servían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: serviré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: servirás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: servirá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: serviremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: servirésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: servirán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: sierva
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: siervas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sierva
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sirvamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sirvásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: siervan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: sirviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: sirvieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: sirviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: sirviéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: sirvierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: sirvieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  kondisional:
+    yo:
+      ladino: serviría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: servirías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: serviría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: serviríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: serviríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: servirían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: sierve
+        # no siervas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: servid
+        # no sirváash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: servir
+#
+#  djerundivo:
+#    ladino: serviendo
+#
+#  partisipio pasado:
+#    ladino: servido
+
+
+
+
+
+

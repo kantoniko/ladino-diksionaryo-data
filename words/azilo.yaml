@@ -3,15 +3,21 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: azilo
+    rashi: אזילו
 
     gender: masculine
     number: singular
 
-
     translations:
-      inglez: asylum
+      inglez:
+        - asylum
+        - shelter
+        - kindergarten
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - מקלט
+        - בית מחסה
+        - גן ילדים
       portugez: ''
       kasteyano: ''
       turko: ''

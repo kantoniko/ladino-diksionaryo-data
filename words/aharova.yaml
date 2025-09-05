@@ -2,10 +2,12 @@ grammar: NA
 orijen: Jeneral
 kategorias:
   - plantas
+  - frutas
 
 versions:
   - ladino: aharova
     accented: aharóva
+    rashi: אחארובﬞה
 
     gender: feminine
     number: singular

@@ -1,0 +1,27 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+linguas:
+  - turko
+
+versions:
+  - ladino: arabadji
+    accented: arabadjí
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - carter
+        - wagon-driver
+        - wagon owner
+      fransez: ''
+      ebreo:
+        - עגלון
+        - בעל עגלה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

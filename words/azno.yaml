@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: azno
     accented: ázno
+    rashi: אזנו
 
     gender: masculine
     number: singular
@@ -18,10 +19,11 @@ versions:
         - asno
         - burro
         turko: eşek
-        ebreo: חֲמוֹר
+        ebreo: חמור
 
   - ladino: aznos
     accented: áznos
+    rashi: אזנוס
 
     gender: masculine
     number: plural

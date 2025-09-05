@@ -1,14 +1,19 @@
-grammar: NA
+grammar: preposition
 orijen: Jeneral
 
 versions:
   - ladino: sovre
+    rashi: סובﬞרי
 
     translations:
         inglez:
           - upon
           - 'on'
           - about
+        ebreo:
+          - על
+          - על גבי
+          - מעל
         fransez: ''
         portugez: ''
         kasteyano: sobre

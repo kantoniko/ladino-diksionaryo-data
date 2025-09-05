@@ -1,0 +1,42 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: rovo
+    rashi: רובﬞו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - theft
+        - robbery
+      ebreo:
+        - גניבה
+        - גזל
+        - חטיפה
+        - הונאה
+      fransez: ''
+      portugez: ''
+      kasteyano: robo
+      turko: ''
+
+  - ladino: rovos
+    rashi: רובﬞוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - thefts
+        - robberies
+      ebreo:
+        - גניבות
+        - הונאות
+      fransez: ''
+      portugez: ''
+      kasteyano: robos
+      turko: ''
+

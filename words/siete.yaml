@@ -1,14 +1,20 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - numeros
 
 versions:
   - ladino: siete
+    rashi: סייטי
 
     translations:
-        inglez: seven
+        inglez:
+          - seven
+          - '7'
+        ebreo: שבע
         fransez: ''
         portugez: ''
-        kasteyano: ''
+        kasteyano: siete
         turko: ''
 
 

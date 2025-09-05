@@ -1,0 +1,32 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: panaderia
+    accented: panadería
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: bakery
+      fransez: ''
+      ebreo: מאפיה
+      portugez: ''
+      kasteyano: panadería
+      turko: ''
+
+  - ladino: panaderias
+    accented: panaderías
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: bakeries
+      fransez: ''
+      ebreo: מאפיות
+      portugez: ''
+      kasteyano: panaderías
+      turko: ''
+

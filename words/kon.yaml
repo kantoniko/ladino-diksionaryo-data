@@ -3,9 +3,11 @@ orijen: Jeneral
 
 versions:
   - ladino: kon
+    rashi: קון
 
     translations:
         inglez: with
+        ebreo: עם
         fransez: ''
         portugez: ''
         kasteyano: con

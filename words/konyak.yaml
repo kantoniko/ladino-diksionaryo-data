@@ -7,6 +7,7 @@ linguas:
 
 versions:
   - ladino: konyak
+    rashi: קונייאק
 
     gender: masculine
     number: singular

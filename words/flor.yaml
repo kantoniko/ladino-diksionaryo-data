@@ -5,24 +5,30 @@ kategorias:
 
 versions:
   - ladino: flor
+    rashi: פﬞלור
 
     gender: feminine
     number: singular
 
     translations:
         inglez: flower
+        ebreo:
+          - פרח
         fransez: ''
         portugez: ''
         kasteyano: flor
         turko: çiçek
 
   - ladino: flores
+    rashi: פﬞלוריס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: flowers
+        ebreo:
+          - פרחים
         fransez: ''
         portugez: ''
         kasteyano: flores

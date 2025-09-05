@@ -2,19 +2,24 @@ grammar: NA
 orijen: Jeneral
 kategorias:
   - komidas
+  - polvos
 
 versions:
   - ladino: pimienta
     accented: pimiénta
+    rashi: פימיינטה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: black pepper
-        fransez: ''
-        portugez: ''
-        kasteyano: pimienta
-        turko: kara biber
+      inglez: black pepper
+      ebreo:
+        - פלפל
+        - פלפל שחור
+      fransez: ''
+      portugez: ''
+      kasteyano: pimienta
+      turko: kara biber
 
 

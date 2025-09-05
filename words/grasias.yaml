@@ -3,12 +3,15 @@ orijen: Jeneral
 
 versions:
   - ladino: grasias
+    rashi: גראסייאס
+
 
     alternative-spelling:
       - ladino: grasyas
 
     translations:
         inglez: thanks
+        ebreo: תודה
         fransez: ''
         portugez: ''
         kasteyano: gracias

@@ -1,50 +1,70 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: muevo
+    rashi: מואיבﬞו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: new
+        ebreo:
+          - חדש
+          - חדיש
+          - מתחיל
         fransez: ''
         portugez: ''
         kasteyano: nuevo
         turko: yeni
 
   - ladino: mueva
+    rashi: מואיבﬞה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: new
+        ebreo:
+          - חדשה
+          - חדישה
+          - מתחילה
         fransez: ''
         portugez: ''
         kasteyano: nueva
         turko: yeni
 
   - ladino: muevos
+    rashi: מואיבﬞוס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: new
+        ebreo:
+          - חדשים
+          - חדישים
+          - מתחילים
         fransez: ''
         portugez: ''
         kasteyano: nuevos
         turko: yeni
 
   - ladino: muevas
+    rashi: מואיבﬞאס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: new
+        ebreo:
+          - חדשות
+          - חדישות
+          - מתחילות
         fransez: ''
         portugez: ''
         kasteyano: nuevas

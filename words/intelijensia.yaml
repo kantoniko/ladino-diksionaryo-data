@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: intelijensia
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: intelligence
+      fransez: ''
+      ebreo:
+        - שכל
+        - בינה
+        - איטליגנציה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

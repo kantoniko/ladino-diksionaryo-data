@@ -1,0 +1,25 @@
+grammar: adverb
+orijen: NA
+linguas:
+  - turko
+
+versions:
+  - ladino: keshke
+    rashi: קישקי
+
+    alternative-spelling:
+      - ladino: keshki
+
+
+    translations:
+      inglez:
+        - at least if
+        - I wish that
+      ebreo:
+        - לו לפחות
+        - ולוואי ש-
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

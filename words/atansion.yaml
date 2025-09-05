@@ -4,21 +4,27 @@ orijen: Jeneral
 versions:
   - ladino: atansion
     accented: atansión
+    rashi: אטאנסייון
 
     alternative-spelling:
       - ladino: atansyon
         accented: atansyón
       - ladino: atension
         accented: atensión
+        rashi: אטינסייון
 
     translations:
-        inglez:
+      inglez:
         - attention
         - civility
-        fransez: attention
-        portugez: ''
-        kasteyano: atención
-        turko:
+        - consideration
+      ebreo:
+        - תשומת לב
+        - התחשבות
+      fransez: attention
+      portugez: ''
+      kasteyano: atención
+      turko:
         - dikkat
         - itina
 

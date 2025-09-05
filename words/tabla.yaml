@@ -1,0 +1,26 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+linguas:
+  - turko
+
+versions:
+  - ladino: tabla
+    accented: tablá
+    rashi:  טאבלה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: tray
+      ebreo:
+        - מגש
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

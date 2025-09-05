@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: abraso
     accented: abráso
+    rashi: אבראסו
 
     gender: masculine
     number: singular
@@ -12,6 +13,7 @@ versions:
         inglez:
           - embrace
           - hug
+        ebreo: חיבוק
         fransez: étreinte
         portugez: abraço
         kasteyano: abrazo
@@ -21,6 +23,7 @@ versions:
 
   - ladino: abrasos
     accented: abrásos
+    rashi: אבראסוס
 
     gender: masculine
     number: plural
@@ -29,6 +32,7 @@ versions:
         inglez:
           - embraces
           - hugs
+        ebreo: חיבוקים
         fransez: ''
         portugez: abraços
         kasteyano: abrazos

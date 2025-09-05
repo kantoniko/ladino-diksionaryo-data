@@ -13,7 +13,7 @@ versions:
     translations:
         inglez: grandchild
         fransez: ''
-        portugez: ''
+        portugez: neto
         kasteyano: nieto
         turko: torun
 
@@ -25,7 +25,7 @@ versions:
     translations:
         inglez: grandchild
         fransez: ''
-        portugez: ''
+        portugez: neta
         kasteyano: nieta
         turko: torun
 
@@ -37,7 +37,7 @@ versions:
     translations:
         inglez: grandchildren
         fransez: ''
-        portugez: ''
+        portugez: netos
         kasteyano: nietos
         turko: torun
 
@@ -49,7 +49,7 @@ versions:
     translations:
         inglez: grandchildren
         fransez: ''
-        portugez: ''
+        portugez: netas
         kasteyano: nietas
         turko: torun
 

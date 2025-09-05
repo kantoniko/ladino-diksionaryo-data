@@ -11,10 +11,10 @@ versions:
     number: singular
 
     translations:
-      inglez: tigre
+      inglez: tiger
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez: tigre
       kasteyano: ''
       turko: ''
 
@@ -24,10 +24,10 @@ versions:
     number: singular
 
     translations:
-      inglez: tigre
+      inglez: tigress
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez: tigresa
       kasteyano: ''
       turko: ''
 

@@ -1,0 +1,17 @@
+grammar: adverb
+orijen: NA
+
+versions:
+  - ladino: adientro
+    rashi: אדיינטרו
+
+    translations:
+      inglez: inside
+      fransez: ''
+      ebreo:
+        - בפנים
+        - בתוך
+      portugez: dentro
+      kasteyano: ''
+      turko: ''
+

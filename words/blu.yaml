@@ -5,11 +5,33 @@ kategorias:
 
 versions:
   - ladino: blu
+    rashi: בלו
+
+    gender: masculine
+    number: singular
 
     translations:
-        inglez: blue
-        fransez: bleu
-        portugez: azul
-        kasteyano: azul
-        turko: mavi
+      inglez: blue
+      ebreo:
+        - כחול
+        - תכלת
+      fransez: bleu
+      portugez: azul
+      kasteyano: azul
+      turko: mavi
+
+  - ladino: blus
+    rashi: בלוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: blue
+      ebreo:
+        - כחולים
+      fransez: ''
+      portugez: ''
+      kasteyano: azules
+      turko: ''
 

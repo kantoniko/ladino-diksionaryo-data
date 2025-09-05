@@ -4,6 +4,7 @@ orijen: Estanbol
 versions:
   - ladino: mersi
     accented: mersí
+    rashi: מירסי
 
     translations:
         inglez: thanks

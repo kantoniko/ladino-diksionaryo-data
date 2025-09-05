@@ -1,0 +1,23 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: kavakar
+    rashi: קאבﬞאקאר
+
+    translations:
+      inglez:
+        - dig
+        - shovel
+        - drill
+      ebreo:
+        - לחפור
+        - לעדר
+        - לכרות
+        - לקדוח
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

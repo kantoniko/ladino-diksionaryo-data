@@ -5,9 +5,12 @@ kategorias:
 
 versions:
   - ladino: sinko
+    rashi: סינקו
 
     translations:
-        inglez: five
+        inglez:
+          - five
+          - '5'
         fransez: cinq
         ebreo: חמש
         portugez: cinco

@@ -7,6 +7,8 @@ kategorias:
 versions:
   - ladino: tio
     accented: tío
+    rashi: טיאו
+
     alternative-spelling:
       - ladino: tiyo
         accented: tíyo
@@ -15,15 +17,19 @@ versions:
     number: singular
 
     translations:
-        inglez: uncle
-        fransez: ''
-        portugez: ''
-        kasteyano: tío
-        turko:
+      inglez: uncle
+      ebreo:
+        - דוד
+        - דוד גדול
+      fransez: ''
+      portugez: ''
+      kasteyano: tío
+      turko:
         - amca
         - dayı
 
   - ladino: tios
+    rashi: טיאוס
     accented: tíos
     alternative-spelling:
       - ladino: tiyos

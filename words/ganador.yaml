@@ -1,0 +1,76 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: ganador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+          - winner
+          - earner
+      fransez: ''
+      ebreo:
+          - מרוויח
+          - זוכה
+          - מנצח
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: ganadera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+          - winner
+          - earner
+      fransez: ''
+      ebreo:
+          - מרוויחה
+          - זוכה
+          - מנצחת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: ganadores
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+          - winners
+          - earners
+      fransez: ''
+      ebreo:
+          - מרוויחים
+          - זוכים
+          - מנצחים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: ganaderas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+          - winners
+          - earners
+      fransez: ''
+      ebreo:
+          - מרוויחות
+          - זוכות
+          - מנצחות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

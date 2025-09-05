@@ -1,0 +1,24 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: verguensa
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+          - shame
+          - embarrasment
+      fransez: ''
+      ebreo:
+        - בושה
+        - בושת
+        - בושת פנים
+        - חרפה
+        - בזיון
+      portugez: ''
+      kasteyano: vergüenza
+      turko: ''
+

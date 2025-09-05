@@ -1,0 +1,15 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: meter la meza
+
+    translations:
+      inglez: set the table
+      ebreo: לערוך את השולחן
+      fransez: ''
+      portugez: pôr a mesa
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

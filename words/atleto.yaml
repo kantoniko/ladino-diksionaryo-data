@@ -1,0 +1,19 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: atleto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: athlete
+      ebreo: ספורטאי
+      fransez: ''
+      portugez: ''
+      kasteyano: atleta
+      turko: ''
+

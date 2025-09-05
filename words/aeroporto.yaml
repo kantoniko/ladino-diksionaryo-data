@@ -3,6 +3,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: aeroporto
+    rashi: אאירופורטו
 
     gender: masculine
     number: singular
@@ -16,6 +17,7 @@ versions:
       turko: ''
 
   - ladino: aeroportos
+    rashi: אאירופורטוס
 
     gender: masculine
     number: plural

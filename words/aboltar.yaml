@@ -4,14 +4,20 @@ orijen: Jeneral
 versions:
   - ladino: aboltar
     accented: aboltár
+    rashi: אבולטאר
 
     translations:
-        inglez: turn
-        fransez: ''
-        portugez: ''
-        kasteyano:
-          - girar
-          - volver
-        turko: dönmek
+      inglez: turn
+      ebreo:
+        - להסתובב
+        - להקיף
+      fransez: ''
+      portugez:
+        - girar
+        - voltar
+      kasteyano:
+        - girar
+        - volver
+      turko: dönmek
 
 conjugations: {}

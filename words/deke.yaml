@@ -6,9 +6,13 @@ kategorias:
 versions:
   - ladino: deke
     accented: deké
+    rashi: דיקי
 
     translations:
         inglez: why
+        ebreo:
+          - למה
+          - מדוע
         fransez: ''
         portugez: ''
         kasteyano:

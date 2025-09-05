@@ -1,17 +1,27 @@
 grammar: noun
 orijen: Estanbol
+kategorias:
+  - frutas
+  - komidas
+linguas:
+  - turko
+
 
 versions:
   - ladino: zerdeli
     accented: zerdelí
+    rashi: זירדילי
+
     gender: masculine
     number: singular
 
     translations:
         inglez: small apricot
+        ebreo:
+          - משמש
+          - משמש בר
         fransez: safrané
         portugez: ''
         kasteyano: albericoque pequeño
         turko: zerdeli
-
 

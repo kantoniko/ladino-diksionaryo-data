@@ -1,0 +1,78 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: jurnalisto
+    rashi: זﬞורנאליסטו
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: djornalisto
+        rashi: גﬞורנאליסטו
+
+    translations:
+      inglez: journalist
+      ebreo: עתונאי
+      fransez: ''
+      portugez: ''
+      kasteyano: periodista
+      turko: ''
+
+  - ladino: jurnalista
+    rashi: זﬞורנאליסטה
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: djornalista
+        rashi: גﬞורנאליסטה
+
+    translations:
+      inglez: journalist
+      ebreo: עתונאית
+      fransez: ''
+      portugez: ''
+      kasteyano: periodista
+      turko: ''
+
+  - ladino: jurnalistos
+    rashi: זﬞורנאליסטוס
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: djornalistos
+        rashi: גﬞורנאליסטוס
+
+    translations:
+      inglez: journalists
+      ebreo: עתונאים
+      fransez: ''
+      portugez: ''
+      kasteyano: periodistas
+      turko: ''
+
+  - ladino: jurnalistas
+    rashi: זﬞורנאליסטאס
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: djornalistas
+        rashi: גﬞורנאליסטאס
+
+    translations:
+      inglez: journalists
+      ebreo: עתונאיות
+      fransez: ''
+      portugez: ''
+      kasteyano: periodistas
+      turko: ''
+

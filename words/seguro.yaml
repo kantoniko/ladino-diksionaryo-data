@@ -4,13 +4,58 @@ orijen: Jeneral
 versions:
   - ladino: seguro
 
+    gender: masculine
+    number: singular
+
     translations:
-        inglez:
+      inglez:
         - secure
         - safe
-        fransez: ''
-        portugez: ''
-        kasteyano: seguro
-        turko: emin
+      fransez: ''
+      portugez: ''
+      kasteyano: seguro
+      turko: emin
+
+  - ladino: segura
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - secure
+        - safe
+      fransez: ''
+      portugez: ''
+      kasteyano: segura
+      turko: ''
+
+  - ladino: seguros
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - secure
+        - safe
+      fransez: ''
+      portugez: ''
+      kasteyano: seguros
+      turko: ''
+
+  - ladino: seguras
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - secure
+        - safe
+      fransez: ''
+      portugez: ''
+      kasteyano: seguras
+      turko: ''
 
 

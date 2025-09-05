@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: universita
     accented: universitá
+    rashi: אוניב'ירסיטה
 
     alternative-spelling:
       - ladino: universidad

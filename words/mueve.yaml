@@ -1,15 +1,20 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - numeros
 
 versions:
   - ladino: mueve
+    rashi: מואיבﬞי
 
     translations:
-        inglez: nine
+        inglez:
+          - nine
+          - '9'
         fransez: neuf
         ebreo: תשע
         portugez: nove
-        kasteyano: ''
+        kasteyano: nueve
         turko: ''
 
 

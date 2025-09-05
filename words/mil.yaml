@@ -1,14 +1,33 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - numeros
 
 versions:
   - ladino: mil
+    rashi: מיל
 
     translations:
-        inglez: thousand
+        inglez:
+          - thousand
+          - '1000'
+        ebreo: אלף
         fransez: ''
         portugez: ''
         kasteyano: mil
         turko: bin
+
+
+  - ladino: miles
+    rashi: מיליס
+
+    translations:
+        inglez:
+          - thousands
+        ebreo: אלפי
+        fransez: ''
+        portugez: ''
+        kasteyano: miles
+        turko: ''
 
 

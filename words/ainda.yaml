@@ -4,6 +4,7 @@ orijen: Otros
 versions:
   - ladino: ainda
     accented: aínda
+    rashi: אאינדה
 
     alternative-spelling:
       - ladino: ayinda
@@ -13,17 +14,20 @@ versions:
         accented: daínda
 
     translations:
-        inglez:
+      inglez:
         - yet
         - still
-        fransez: ''
-        portugez: ainda
-        kasteyano:
+      ebreo:
+        - עוד
+        - עדיין
+        - בכל זאת
+      fransez: ''
+      portugez: ainda
+      kasteyano:
         - aún
         - todavía
-        turko:
+      turko:
         - henüz
         - hâlâ
         - hâlen
-
 

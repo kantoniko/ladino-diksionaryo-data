@@ -3,13 +3,16 @@ orijen: Jeneral
 
 versions:
   - ladino: korrer
+    rashi: קוריר
 
     translations:
-        inglez: run
-        fransez: ''
-        portugez: ''
-        kasteyano: correr
-        turko: koşmak
+      inglez: run
+      ebreo:
+        - לרוץ
+      fransez: ''
+      portugez: ''
+      kasteyano: correr
+      turko: koşmak
 
 conjugations: {}
 

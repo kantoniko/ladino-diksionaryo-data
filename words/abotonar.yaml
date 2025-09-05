@@ -3,12 +3,13 @@ orijen: NA
 
 versions:
   - ladino: abotonar
+    rashi: אבוטונאר
 
     translations:
       inglez: button
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez: abotoar
       kasteyano: abotonar
       turko: ''
 

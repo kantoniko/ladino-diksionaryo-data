@@ -1,0 +1,29 @@
+grammar: adjective
+orijen: Ladinokomunita
+kategorias:
+  - kolores
+linguas:
+  - fransez
+
+versions:
+  - ladino: bej
+    rashi: ביזﬞ
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez:
+        - beige
+        - brown-gray
+      ebreo:
+        - צבע בז'
+        - חום-אפור
+      fransez: beige
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+

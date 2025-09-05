@@ -3,6 +3,8 @@ orijen: Jeneral
 
 versions:
   - ladino: dia
+    accented: día
+    rashi: דיאה
 
     gender: masculine
     number: singular
@@ -14,11 +16,12 @@ versions:
         inglez: day
         ebreo: יום
         fransez: jour
-        portugez: ''
+        portugez: dia
         kasteyano: día
         turko: gün
 
   - ladino: dias
+    rashi: דיאס
 
     gender: masculine
     number: plural
@@ -30,7 +33,7 @@ versions:
         inglez: days
         ebreo: ימים
         fransez: jours
-        portugez: ''
+        portugez: dias
         kasteyano: días
         turko: günler
 

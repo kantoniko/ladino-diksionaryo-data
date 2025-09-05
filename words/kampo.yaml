@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: kampo
+    rashi: קאמפו
 
     alternative-spelling:
       - ladino: terreno
@@ -11,13 +12,20 @@ versions:
     number: singular
 
     translations:
-        inglez: field
+        inglez:
+          - field
+          - camp
+        ebreo:
+          - שדה
+          - אחו
+          - מחנה
         fransez: ''
         portugez: ''
         kasteyano: campo
         turko: saha
 
   - ladino: kampos
+    rashi: קאמפוס
 
     alternative-spelling:
       - ladino: terrenos
@@ -26,7 +34,12 @@ versions:
     number: plural
 
     translations:
-        inglez: fields
+        inglez:
+          - fields
+          - camps
+        ebreo:
+          - שדות
+          - מחנות
         fransez: ''
         portugez: ''
         kasteyano: campos

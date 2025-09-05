@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: manko
     accented: mánko
+    rashi: מאנקו
 
     gender: masculine
     #number: singular plural

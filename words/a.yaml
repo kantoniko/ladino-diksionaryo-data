@@ -3,15 +3,20 @@ orijen: Jeneral
 
 versions:
   - ladino: a
+    rashi: אה
 
     translations:
-        inglez:
+      inglez:
         - at
         - to
-        fransez: ''
-        portugez: ''
-        kasteyano: a
-        turko:
+      ebreo:
+        - אל
+        - ל-
+        - ב-
+      fransez: ''
+      portugez: ''
+      kasteyano: a
+      turko:
         - a
         - e
         - ya

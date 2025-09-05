@@ -1,0 +1,59 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: panadero
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: baker
+      fransez: ''
+      ebreo: אופה
+      portugez: ''
+      kasteyano: panadero
+      turko: ''
+
+  - ladino: panadera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: baker
+      fransez: ''
+      ebreo: אופה
+      portugez: ''
+      kasteyano: panadera
+      turko: ''
+
+  - ladino: panaderos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: bakers
+      fransez: ''
+      ebreo: אופים
+      portugez: ''
+      kasteyano: panaderos
+      turko: ''
+
+  - ladino: panaderas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: bakers
+      fransez: ''
+      ebreo: אופות
+      portugez: ''
+      kasteyano: panaderas
+      turko: ''
+
+

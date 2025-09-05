@@ -1,0 +1,17 @@
+grammar: NA
+orijen: Jeneral
+
+versions:
+  - ladino: faltar
+    rashi: פﬞאלטאר
+
+    translations:
+        inglez: lack
+        fransez: ''
+        portugez: ''
+        kasteyano: faltar
+        turko:
+        - eksik olmak
+        - yanılmak
+
+

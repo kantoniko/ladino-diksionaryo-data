@@ -1,0 +1,44 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: tratado
+    rashi: טראטאדו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - treaty
+        - agreement
+      ebreo:
+        - חוזה
+        - הסכם
+        - אמנה
+        - ברית
+      fransez: ''
+      portugez: ''
+      kasteyano: tratado
+      turko: ''
+
+  - ladino: tratados
+    rashi: טראטאדוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - treaties
+        - agreements
+      ebreo:
+        - חוזים
+        - הסכמים
+        - אמנות
+        - בריתות
+      fransez: ''
+      portugez: ''
+      kasteyano: tratados
+      turko: ''
+

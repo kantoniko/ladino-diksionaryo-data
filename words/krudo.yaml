@@ -4,11 +4,18 @@ orijen: Jeneral
 versions:
   - ladino: krudo
     accented: krúdo
+    rashi: קרודו
+
     gender: masculine
     number: singular
 
     translations:
         inglez: raw
+        ebreo:
+          - חי
+          - לא בשל
+          - נא
+          - בלתי מעובד
         fransez: ''
         portugez: ''
         kasteyano: crudo
@@ -16,6 +23,8 @@ versions:
 
   - ladino: kruda
     accented: krúda
+    rashi: קרודה
+
     gender: feminine
     number: singular
 
@@ -28,6 +37,8 @@ versions:
 
   - ladino: krudos
     accented: krúdos
+    rashi: קרודוס
+
     gender: masculine
     number: plural
 
@@ -40,6 +51,8 @@ versions:
 
   - ladino: krudas
     accented: krúdas
+    rashi: קרודאס
+
     gender: feminine
     number: plural
 

@@ -3,9 +3,10 @@ orijen: Jeneral
 
 versions:
   - ladino: estar
+    rashi: איסטאר
 
     translations:
-        inglez: 'na'
+        inglez: to be
         fransez: ''
         portugez: ''
         kasteyano: estar
@@ -13,6 +14,306 @@ versions:
         - bulunmak
         - olmak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: estó
+      rashi: איסטו
+      translations:
+        inglez: I am
+        kasteyano: ''
+
+    tu:
+      ladino: estás
+      rashi: איסטאס
+      translations:
+        inglez: you are
+        kasteyano: ''
+
+    el:
+      ladino: está
+      rashi: איסטה
+      translations:
+        inglez:
+          - he is
+          - she is
+          - it is
+        kasteyano: ''
+
+    mozotros:
+      ladino: estamos
+      rashi: איסטאמוס
+      translations:
+        inglez: we are
+        kasteyano: ''
+
+    vozotros:
+      ladino: estásh
+      rashi: איסטאש
+      translations:
+        inglez: you are
+        kasteyano: ''
+
+    eyos:
+      ladino: están
+      rashi: איסטאן
+      translations:
+        inglez: they are
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: estuve
+      translations:
+        inglez: I was
+        kasteyano: ''
+
+    tu:
+      ladino: estuvites
+      translations:
+        inglez: you were
+        kasteyano: ''
+
+    el:
+      ladino: estuvo
+      translations:
+        inglez:
+          - he was
+          - she was
+          - it was
+        kasteyano: ''
+
+    mozotros:
+      ladino: estuvimos
+      translations:
+        inglez: we were
+        kasteyano: ''
+
+    vozotros:
+      ladino: estuvitesh
+      translations:
+        inglez: you were
+        kasteyano: ''
+
+    eyos:
+      ladino: estuvieron
+      translations:
+        inglez: they were
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: estava
+      translations:
+        inglez: I was
+        kasteyano: ''
+
+    tu:
+      ladino: estavas
+      translations:
+        inglez: you were
+        kasteyano: ''
+
+    el:
+      ladino: estava
+      translations:
+        inglez:
+          - he was
+          - she was
+          - it was
+        kasteyano: ''
+
+    mozotros:
+      ladino: estávamos
+      translations:
+        inglez: we were
+        kasteyano: ''
+
+    vozotros:
+      ladino: estavash
+      translations:
+        inglez: you were
+        kasteyano: ''
+
+    eyos:
+      ladino: estavan
+      translations:
+        inglez: they were
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: estaré
+      translations:
+        inglez: I will
+        kasteyano: ''
+
+    tu:
+      ladino: estarás
+      translations:
+        inglez: you will
+        kasteyano: ''
+
+    el:
+      ladino: estará
+      translations:
+        inglez:
+          - he will
+          - she will
+          - it will
+        kasteyano: ''
+
+    mozotros:
+      ladino: estaremos
+      translations:
+        inglez: we will
+        kasteyano: ''
+
+    vozotros:
+      ladino: estarésh
+      translations:
+        inglez: you will
+        kasteyano: ''
+
+    eyos:
+      ladino: estarán
+      translations:
+        inglez: they will
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: esté
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: estés
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: esté
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: estemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: estésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: estén
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: estuviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: estuvieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: estuviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: estuviéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: estuvierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: estuvieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: estaría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: estarías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: estaría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: estaríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: estaríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: estarían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: está
+        # no estés
+      translations:
+        inglez: ''
+        kasteyano: ''
+    vozotros:
+      ladino: estad
+        # no estésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: estar
+#
+#  djerundivo:
+#    ladino: estando
+#
+#  partisipio pasado:
+#    ladino: estado
 
 

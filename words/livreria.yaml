@@ -1,0 +1,42 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: livreria
+    accented: livrería
+    rashi: ליבﬞריריאה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+          - book store
+          - library
+      ebreo:
+        - חנות ספרים
+        - ספריה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: livrerias
+    accented: livrerías
+    rashi: ליבﬞריריאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+          - book stores
+          - libraries
+      ebreo:
+        - חנויות ספרים
+        - ספריות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,52 +1,67 @@
 grammar: adjective
 orijen: Jeneral
+kategorias:
+  - kolores
 
 versions:
   - ladino: preto
     accented: préto
+    rashi: פריטו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: black
-        fransez: noir
-        portugez: preto
-        kasteyano: negro
-        turko: siyah
+      inglez: black
+      ebreo:
+        - שחור
+      fransez: noir
+      portugez: preto
+      kasteyano: negro
+      turko: siyah
 
   - ladino: preta
     accented: préta
+    rashi: פריטה
+
     gender: feminine
     number: singular
 
     translations:
-        inglez: black
-        fransez: noire
-        portugez: preta
-        kasteyano: negra
-        turko: siyah
+      inglez: black
+      ebreo: שחורה
+      fransez: noire
+      portugez: preta
+      kasteyano: negra
+      turko: siyah
 
   - ladino: pretos
     accented: prétos
+    rashi: פריטוס
+
     gender: masculine
     number: plural
 
     translations:
-        inglez: blacks
-        fransez: ''
-        portugez: pretos
-        kasteyano: negros
-        turko: siyah
+      inglez: blacks
+      ebreo: שחורים
+      fransez: ''
+      portugez: pretos
+      kasteyano: negros
+      turko: siyah
 
   - ladino: pretas
     accented: prétas
+    rashi: פריטאס
+
     gender: feminine
     number: plural
 
     translations:
-        inglez: blacks
-        fransez: ''
-        portugez: pretas
-        kasteyano: negras
-        turko: siyah
+      inglez: blacks
+      ebreo: שחורות
+      fransez: ''
+      portugez: pretas
+      kasteyano: negras
+      turko: siyah
 

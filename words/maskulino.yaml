@@ -1,0 +1,64 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: maskulino
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: masculine
+      fransez: ''
+      ebreo:
+        - זכר
+        - גברי
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: maskulina
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: masculine
+      fransez: ''
+      ebreo:
+        - זכרית
+        - גברית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: maskulino
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: masculine
+      fransez: ''
+      ebreo:
+        - זכרים
+        - גבריים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: maskulinas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: masculine
+      fransez: ''
+      ebreo:
+        - זכריות
+        - גבריות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

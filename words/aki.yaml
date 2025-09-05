@@ -4,11 +4,14 @@ orijen: Jeneral
 versions:
   - ladino: aki
     accented: akí
+    rashi: אקי
 
     translations:
         inglez: here
         fransez: ''
-        portugez: ''
+        portugez: 
+           - aqui
+           - cá
         kasteyano: aquí
         turko: burada
 

@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - servisio-de-meza
@@ -6,28 +6,37 @@ kategorias:
 
 versions:
   - ladino: kuchiyo
+    accented: kuchíyo
+    rashi: קוגﬞיאו
 
     gender: masculine
     number: singular
 
+    alternative-spelling:
+      - ladino: kuchio
+        accented: kuchío
+
     translations:
-        inglez: knife
-        fransez: ''
-        portugez: ''
-        kasteyano: cuchillo
-        turko: bıçak
+      inglez: knife
+      ebreo: סכין
+      fransez: ''
+      portugez: ''
+      kasteyano: cuchillo
+      turko: bıçak
 
   - ladino: kuchiyos
+    accented: kuchíyos
+    rashi: קוגﬞיאוס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: knifes
-        fransez: ''
-        portugez: ''
-        kasteyano: cuchillos
-        turko: bıçaklar
-
+      inglez: knifes
+      ebreo: סכינים
+      fransez: ''
+      portugez: ''
+      kasteyano: cuchillos
+      turko: bıçaklar
 
 

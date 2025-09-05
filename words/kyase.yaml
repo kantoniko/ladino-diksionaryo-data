@@ -1,0 +1,32 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+linguas:
+  - turko
+
+versions:
+  - ladino: kyase
+    accented: kyasé
+    rashi: קייאסי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - bowl
+        - basin
+        - mug
+      ebreo:
+        - קערה
+        - קערית
+        - אגן
+        - ספל
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

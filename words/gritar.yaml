@@ -3,15 +3,25 @@ orijen: Jeneral
 
 versions:
   - ladino: gritar
+    rashi: גריטאר
 
     translations:
-        inglez:
+      inglez:
+        - shout
+        - scream
         - roar
         - bellow
-        fransez: ''
-        portugez: ''
-        kasteyano: bramar
-        turko: haykırmak
+      ebreo:
+        - לצעוק
+        - לזעוק
+        - לצרוח
+      fransez: ''
+      portugez:
+        - gritar
+        - berrar
+        - bradar
+      kasteyano: bramar
+      turko: haykırmak
 
 conjugations: {}
 

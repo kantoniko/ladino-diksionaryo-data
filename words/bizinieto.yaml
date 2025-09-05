@@ -1,0 +1,70 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - famiya
+
+versions:
+  - ladino: bizinieto
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bizinyeto
+
+    translations:
+      inglez: great-grandson
+      fransez: ''
+      ebreo: נין
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: bizinieta
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bizinyeta
+
+    translations:
+      inglez: great-granddaughter
+      fransez: ''
+      ebreo: נינה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: bizinietos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bizinyetos
+
+    translations:
+      inglez: great-grandsons
+      fransez: ''
+      ebreo: נינים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: bizinietas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: bizinyetas
+
+    translations:
+      inglez: great-granddaughters
+      fransez: ''
+      ebreo: נינות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

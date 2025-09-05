@@ -1,6 +1,7 @@
 grammar: noun
 orijen: Ladinadores
 kategorias:
+  - kaza
   - kamaretas
 
 versions:
@@ -13,8 +14,22 @@ versions:
       inglez: bedroom
       fransez: ''
       ebreo: חדר שינה
-      portugez: ''
+      portugez: quarto
       kasteyano: dormitorio
       turko: ''
+
+  - ladino: kamaretas de echar
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: bedrooms
+      fransez: ''
+      ebreo: חדרי שינה
+      portugez: quartos
+      kasteyano: dormitorios
+      turko: ''
+
 
 

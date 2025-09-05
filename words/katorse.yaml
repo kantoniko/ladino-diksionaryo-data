@@ -1,0 +1,20 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: katorse
+
+    translations:
+        inglez:
+          - fourteen
+          - '14'
+        fransez: ''
+        ebreo:
+          - ארבעעשר
+        portugez: ''
+        kasteyano: catorce
+        turko: ''
+
+

@@ -3,12 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: introduksion
+    rashi: אינטרודוקסייון
 
     gender: feminine
     number: singular
 
     translations:
         inglez: introduction
+        ebreo:
+          - מבוא
+          - הקדמה
+          - פתיח
         fransez: ''
         portugez: ''
         kasteyano: introducción
@@ -23,6 +28,8 @@ versions:
 
     translations:
         inglez: introductions
+        ebreo:
+          - הקדמות
         fransez: ''
         portugez: ''
         kasteyano: introducciónes

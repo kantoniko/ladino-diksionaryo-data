@@ -1,0 +1,65 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: venerado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: respectable
+      fransez: ''
+      ebreo:
+          - מכובד
+          - נערץ
+      portugez: ''
+      kasteyano: respetable
+      turko: ''
+
+  - ladino: venerada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: respectable
+      fransez: ''
+      ebreo:
+          - מכובדת
+          - נערצת
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: venerados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: respectable
+      fransez: ''
+      ebreo:
+          - מכובדים
+          - נערצים
+      portugez: ''
+      kasteyano: respetables
+      turko: ''
+
+  - ladino: veneradas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: respectable
+      fransez: ''
+      ebreo:
+          - מכובדות
+          - נערצות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

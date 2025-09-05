@@ -3,15 +3,24 @@ orijen: Jeneral
 
 versions:
   - ladino: konduzir
+    rashi: קונדוזיר
+
     alternative-spelling:
       - ladino: konduzar
+      - ladino: konduizir
+        rashi: קונדואיזיר
+      - ladino: konduizar
 
     translations:
-        inglez: drive
-        fransez: ''
-        portugez: ''
-        kasteyano: conducir
-        turko: sürmek
+      inglez: drive
+      ebreo:
+        - להוביל
+        - להדריך
+        - לנהוג
+      fransez: ''
+      portugez: ''
+      kasteyano: conducir
+      turko: sürmek
 
 conjugations: {}
 

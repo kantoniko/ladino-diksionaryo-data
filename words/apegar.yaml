@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: apegar
+    rashi: אפיגאר
 
     translations:
       inglez:
@@ -14,7 +15,9 @@ versions:
       fransez: ''
       ebreo:
         - להדביק
-      portugez: ''
+      portugez:
+        - colar
+        - grudar
       kasteyano: ''
       turko: ''
 

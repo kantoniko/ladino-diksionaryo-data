@@ -3,13 +3,18 @@ orijen: Jeneral
 
 versions:
   - ladino: nadar
+    rashi: נאדאר
 
     translations:
-        inglez: swim
-        fransez: ''
-        portugez: ''
-        kasteyano: nadar
-        turko: yüzmek
+      inglez: swim
+      ebreo:
+        - לשחות
+        - לשוט
+        - לצוף
+      fransez: ''
+      portugez: ''
+      kasteyano: nadar
+      turko: yüzmek
 
 conjugations: {}
 

@@ -3,6 +3,7 @@ orijen: Ladinadores
 
 versions:
   - ladino: anekso
+    rashi: אניקסו
 
     gender: masculine
     number: singular
@@ -13,6 +14,22 @@ versions:
         - attachment
       fransez: ''
       ebreo: נספח
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: aneksos
+    rashi: אניקסוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - annexes
+        - attachments
+      fransez: ''
+      ebreo: נספחים
       portugez: ''
       kasteyano: ''
       turko: ''

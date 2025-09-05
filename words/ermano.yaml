@@ -6,6 +6,7 @@ kategorias:
 
 versions:
   - ladino: ermano
+    rashi: אירמאנו
 
     gender: masculine
     number: singular
@@ -13,7 +14,7 @@ versions:
     translations:
         inglez: brother
         fransez: ''
-        portugez: ''
+        portugez: irmão
         kasteyano: hermano
         turko: erkek kardeş
 
@@ -21,11 +22,12 @@ versions:
 
     gender: feminine
     number: singular
+    rashi: אירמאנה
 
     translations:
         inglez: sister
         fransez: ''
-        portugez: ''
+        portugez: irmã
         kasteyano: hermana
         turko: kızkardeş
 
@@ -37,7 +39,7 @@ versions:
     translations:
         inglez: brothers
         fransez: ''
-        portugez: ''
+        portugez: irmãos
         kasteyano: hermanos
         turko: erkek kardeş
 
@@ -49,7 +51,7 @@ versions:
     translations:
         inglez: sisters
         fransez: ''
-        portugez: ''
+        portugez: irmãs
         kasteyano: hermanas
         turko: kızkardeş
 

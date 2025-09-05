@@ -4,9 +4,16 @@ orijen: Jeneral
 versions:
   - ladino: antes
     accented: ántes
+    rashi: אנטיס
 
     translations:
-        inglez: before
+        inglez:
+          - before
+          - first
+        ebreo:
+          - קודם
+          - לפני כן
+          - לפני
         fransez: ''
         portugez: ''
         kasteyano: antes

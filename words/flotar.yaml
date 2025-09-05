@@ -1,0 +1,20 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: flotar
+    rashi: פﬞלוטאר
+
+    translations:
+      inglez:
+        - float
+        - sail
+      ebreo:
+        - לצוף
+        - לשוט
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

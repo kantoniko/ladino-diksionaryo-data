@@ -5,47 +5,67 @@ kategorias:
 
 versions:
   - ladino: profesor
+    rashi: פרופﬞיסור
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: teacher
-        fransez: ''
-        portugez: ''
-        kasteyano: profesor
-        turko: öğretmen
+      inglez: teacher
+      ebreo:
+        - מורה
+        - מרצה
+        - פרופסור
+      fransez: ''
+      portugez: ''
+      kasteyano: profesor
+      turko: öğretmen
 
   - ladino: profesora
+    rashi: פרופﬞיסורה
+
     gender: feminine
     number: singular
 
     translations:
-        inglez: teacher
-        fransez: ''
-        portugez: ''
-        kasteyano: profesora
-        turko: öğretmen
+      inglez: teacher
+      ebreo:
+        - מורה
+        - מרצה
+        - פרופסורה
+      fransez: ''
+      portugez: ''
+      kasteyano: profesora
+      turko: öğretmen
 
   - ladino: profesores
     gender: masculine
     number: plural
 
     translations:
-        inglez: teachers
-        fransez: ''
-        portugez: ''
-        kasteyano: profesores
-        turko: öğretmenler
+      inglez: teachers
+      ebreo:
+        - מורים
+        - מרצים
+        - פרופסורים
+      fransez: ''
+      portugez: ''
+      kasteyano: profesores
+      turko: öğretmenler
 
   - ladino: profesoras
     gender: feminine
     number: plural
 
     translations:
-        inglez: teachers
-        fransez: ''
-        portugez: ''
-        kasteyano: profesoras
-        turko: öğretmenler
+      inglez: teachers
+      ebreo:
+        - מורות
+        - מרצות
+        - פרופסורות
+      fransez: ''
+      portugez: ''
+      kasteyano: profesoras
+      turko: öğretmenler
 
 

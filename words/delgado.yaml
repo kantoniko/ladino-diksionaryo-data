@@ -1,0 +1,76 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: delgado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - thin
+        - slender
+        - delicate
+      fransez: ''
+      ebreo:
+        - דק
+        - רזה
+      portugez: ''
+      kasteyano: delgado
+      turko: ''
+
+  - ladino: delgada
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - thin
+        - slender
+        - delicate
+      fransez: ''
+      ebreo:
+        - דקה
+        - רזה
+      portugez: ''
+      kasteyano: delgada
+      turko: ''
+
+  - ladino: delgados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - thin
+        - slender
+        - delicate
+      fransez: ''
+      ebreo:
+        - דקים
+        - רזים
+      portugez: ''
+      kasteyano: delgados
+      turko: ''
+
+  - ladino: delgadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - thin
+        - slender
+        - delicate
+      fransez: ''
+      ebreo:
+        - דקות
+        - רזות
+      portugez: ''
+      kasteyano: delgadas
+      turko: ''
+

@@ -6,6 +6,8 @@ kategorias:
 versions:
   - ladino: poyo
     accented: póyo
+    rashi: פוייו
+
     gender: masculine
     number: singular
 
@@ -13,14 +15,19 @@ versions:
         inglez:
           - chicken
           - chick
+        ebreo:
+          - אפרוח
+          - תרנגול צעיר
+          - תרנגולת
         fransez: poulet
-        ebreo: תרנגולת
         portugez: frango
         kasteyano: pollo
         turko: piliç
 
   - ladino: poyos
     accented: póyos
+    rashi: פוייוס
+
     gender: masculine
     number: plural
 
@@ -29,8 +36,10 @@ versions:
           - chickens
           - chicks
         fransez: ''
-        ebreo: תרנגולות
-        portugez: ''
+        ebreo:
+          - אפרוחים
+          - תרנגולות
+        portugez: frangos
         kasteyano: pollos
         turko: civcivler
 

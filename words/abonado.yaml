@@ -4,6 +4,7 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: abonado
+    rashi: אבונאדו
 
     gender: masculine
     number: singular
@@ -11,12 +12,13 @@ versions:
     translations:
       inglez: subscriber
       fransez: ''
-      ebreo: ''
-      portugez: ''
+      ebreo: מנוי
+      portugez: inscrito
       kasteyano: abonado
       turko: ''
 
   - ladino: abonada
+    rashi: אבונאדה
 
     gender: feminine
     number: singular
@@ -24,8 +26,8 @@ versions:
     translations:
       inglez: subscriber
       fransez: ''
-      ebreo: ''
-      portugez: ''
+      ebreo: מנויה
+      portugez: inscrita
       kasteyano: abonada
       turko: ''
 
@@ -35,10 +37,10 @@ versions:
     number: plural
 
     translations:
-      inglez: subscriber
+      inglez: subscribers
       fransez: ''
-      ebreo: ''
-      portugez: ''
+      ebreo: מנוים
+      portugez: inscritos
       kasteyano: abonados
       turko: ''
 
@@ -48,10 +50,10 @@ versions:
     number: plural
 
     translations:
-      inglez: subscriber
+      inglez: subscribers
       fransez: ''
-      ebreo: ''
-      portugez: ''
+      ebreo: מנויות
+      portugez: inscritas
       kasteyano: abonadas
       turko: ''
 

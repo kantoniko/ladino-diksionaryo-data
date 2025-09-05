@@ -1,0 +1,39 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: polvo
+    rashi: פולבﬞו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+          - dust
+          - powder
+      ebreo:
+        - אבק
+        - עפר
+        - אבקה
+        - קמח
+      fransez: ''
+      portugez: ''
+      kasteyano: polvo
+
+  - ladino: polvos
+    rashi: פולבﬞוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+          - dust
+          - powder
+      ebreo:
+        - אבקות
+        - קמח
+      fransez: ''
+      portugez: ''
+      kasteyano: polvos

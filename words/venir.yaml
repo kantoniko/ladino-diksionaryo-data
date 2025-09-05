@@ -16,7 +16,56 @@ versions:
         turko: gelmek
 
 conjugations:
+  prezente:
+    yo:
+      ladino: vengo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vienes
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: viene
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: vinimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vinísh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vienen
+      translations:
+        inglez: ''
+        kasteyano: ''
+
   pasado:
+    yo:
+      ladino: vine
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vinites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
     el:
       ladino: vino
       translations:
@@ -24,3 +73,235 @@ conjugations:
         ebreo: הגיע
         kasteyano: vino
         portugez: veio
+
+    mozotros:
+      ladino: vinimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vinitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vinieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  imperfekto:
+    yo:
+      ladino: vinía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vinías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vinía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: viníamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: viníash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vinían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: vendré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vendrás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vendrá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: vendremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vendrésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vendrán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: venga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vengas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: venga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: vengamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vengásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vengan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: viniera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vinieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: viniera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: viniéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vinierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vinieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: vendría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: vendrías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: vendría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: vendríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vendríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: vendrían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  imperativo:
+    tu:
+      ladino: ven
+      # no vengas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: vinid
+      # no vengásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: vinir
+#
+#  djerundivo:
+#    ladino: viniendo
+#
+#  partisipio pasado:
+#    ladino: vinido
+
+

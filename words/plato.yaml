@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - servisio-de-meza
@@ -6,32 +6,42 @@ kategorias:
 
 versions:
   - ladino: plato
+    rashi: פלאטו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - plate
         - dish
-        fransez: ''
-        portugez: ''
-        kasteyano: plato
-        turko: tabak
+      ebreo:
+        - צלחת
+        - מגש
+        - מנה
+      fransez: ''
+      portugez: ''
+      kasteyano: plato
+      turko: tabak
 
   - ladino: platos
 
     gender: masculine
     number: plural
+    rashi: פלאטוס
 
     translations:
-        inglez:
+      inglez:
         - plates
         - dishes
-        fransez: ''
-        portugez: ''
-        kasteyano: platos
-        turko: tabak
+      ebreo:
+        - צלחות
+        - מגשים
+        - מנות
+      fransez: ''
+      portugez: ''
+      kasteyano: platos
+      turko: tabak
 
 
 

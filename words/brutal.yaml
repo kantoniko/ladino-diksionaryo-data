@@ -1,0 +1,40 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: brutal
+    rashi: ברוטאל
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - brutal
+        - cruel
+      ebreo:
+        - אכזרי
+        - ברוטלי
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: brutalos
+    rashi: ברוטאלוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - brutal
+        - cruel
+      ebreo:
+        - אכזריים
+        - ברוטלים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

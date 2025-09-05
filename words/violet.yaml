@@ -1,0 +1,25 @@
+grammar: adjective
+orijen: Ladinokomunita
+kategorias:
+  - kolores
+
+versions:
+  - ladino: violet
+    rashi: בﬞייוליט
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez:
+        - purple
+      ebreo:
+        - סגול
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+

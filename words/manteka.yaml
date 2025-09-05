@@ -1,0 +1,22 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - komidas
+
+versions:
+  - ladino: manteka
+    rashi: מאנטיקה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: butter
+      ebreo: חמאה
+      fransez: ''
+      portugez: ''
+      kasteyano:
+        - manteca
+        - mantequilla
+      turko: ''
+

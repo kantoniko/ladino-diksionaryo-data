@@ -3,13 +3,18 @@ orijen: Jeneral
 
 versions:
   - ladino: lavorar
+    rashi: לאבﬞוראר
 
     translations:
-        inglez: work
-        fransez: ''
-        portugez: ''
-        kasteyano: trabajar
-        turko: çalışmak
+      inglez: work
+      ebreo:
+        - לעבוד
+        - לתפקד
+        - לפעול
+      fransez: ''
+      portugez: ''
+      kasteyano: trabajar
+      turko: çalışmak
 
 conjugations: {}
 

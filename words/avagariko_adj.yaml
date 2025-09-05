@@ -8,7 +8,9 @@ versions:
         inglez: slow
         fransez: ''
         ebreo: אטי
-        portugez: ''
+        portugez: 
+         - devagarinho
+         - devagarzinho
         kasteyano: lento
         turko: ''
 

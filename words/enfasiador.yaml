@@ -1,0 +1,37 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: enfasiador
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - boring
+        - tedious
+      fransez: ''
+      ebreo:
+        - משעמם
+        - מייגע
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enfasiadera
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - boring
+        - tedious
+      fransez: ''
+      ebreo:
+        - משעממת
+        - מייגעת
+      portugez: ''
+      kasteyano: ''
+      turko: ''

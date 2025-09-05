@@ -1,0 +1,17 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: koordinar
+    rashi: קואורדינאר
+
+    translations:
+      inglez: coordinate
+      fransez: ''
+      ebreo: לתאם
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+conjugations: {}

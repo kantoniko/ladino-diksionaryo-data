@@ -5,36 +5,44 @@ kategorias:
 
 versions:
   - ladino: moso
+    rashi: מוסו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - maid
         - servant
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - משרת
+        - עלם
+        - בחור
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - criada
         - mozo
-        turko: hizmetçi
+      turko: hizmetçi
 
   - ladino: mosa
+    rashi: מוסה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - maid
         - servant
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - משרתת
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - criada
         - moza
-        turko: hizmetçi
+      turko: hizmetçi
 
   - ladino: mosos
 
@@ -42,15 +50,17 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - maids
         - servants
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - משרתים
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - criadas
         - mozos
-        turko: hizmetçi
+      turko: hizmetçi
 
   - ladino: mosas
 
@@ -58,15 +68,17 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - maids
         - servants
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - משרתות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - criadas
         - mozas
-        turko: hizmetçi
+      turko: hizmetçi
 
 
 

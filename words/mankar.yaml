@@ -4,9 +4,6 @@ orijen: Jeneral
 versions:
   - ladino: mankar
 
-    alternative-spelling:
-      - ladino: faltar
-
     translations:
         inglez: lack
         fransez: ''

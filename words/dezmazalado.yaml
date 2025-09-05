@@ -1,0 +1,24 @@
+grammar: adjective
+orijen: NA
+linguas:
+  - ebreo
+
+versions:
+  - ladino: dezmazalado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - unlucky
+        - miserable
+      fransez: ''
+      ebreo:
+        - חסר מזל
+        - אומלל
+        - מסכן
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

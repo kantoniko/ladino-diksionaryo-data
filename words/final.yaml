@@ -1,34 +1,61 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: final
+    rashi: פﬞינאל
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - final
         - end
-        fransez: ''
-        portugez: ''
-        kasteyano: final
-        turko: son
+      ebreo:
+        - סופי
+        - אחרון
+      fransez: ''
+      portugez: ''
+      kasteyano: final
+      turko: son
+
+  - ladino: finala
+    rashi: פﬞינאלה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - final
+        - end
+      ebreo:
+        - סופית
+        - אחרונה
+      fransez: ''
+      portugez: ''
+      kasteyano: final
+      turko: son
+
 
   - ladino: finales
+    rashi: פﬞינליס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - final
         - end
-        fransez: ''
-        portugez: ''
-        kasteyano: finales
-        turko: son
+      ebreo:
+        - סופיים
+        - אחרונים
+      fransez: ''
+      portugez: ''
+      kasteyano: finales
+      turko: son
 
 
 

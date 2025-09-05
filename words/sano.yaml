@@ -35,6 +35,9 @@ versions:
     gender: masculine
     number: plural
 
+    alternative-spelling:
+      - ladino: sanoz
+
     translations:
       inglez: healthy
       fransez: ''

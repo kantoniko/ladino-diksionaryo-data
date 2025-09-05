@@ -1,0 +1,18 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: dokumentasion
+    accented: dokumentasión
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: documentation
+      fransez: ''
+      ebreo: תיעוד
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -8,6 +8,7 @@ linguas:
 versions:
   - ladino:
     #accented:
+    #rashi: בﬞ גﬞ דﬞ זﬞ טﬞ כﬞ פﬞ שﬞ
 
     #gender: NA # masculine feminine both
     #number: singular plural
@@ -24,8 +25,8 @@ versions:
 
     translations:
       inglez: ''
-      fransez: ''
       ebreo: ''
+      fransez: ''
       portugez: ''
       kasteyano: ''
       turko: ''

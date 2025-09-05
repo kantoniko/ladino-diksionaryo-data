@@ -1,0 +1,65 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: manseviko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: boy
+      fransez: ''
+      ebreo:
+        - בחור
+        - נער
+      portugez: ''
+      kasteyano: chico
+      turko: ''
+
+  - ladino: mansevika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: girl
+      fransez: ''
+      ebreo:
+        - בחורה
+        - נערה
+      portugez: ''
+      kasteyano: chica
+      turko: ''
+
+  - ladino: mansevikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: boys
+      fransez: ''
+      ebreo:
+        - בחורים
+        - נערים
+      portugez: ''
+      kasteyano: chicos
+      turko: ''
+
+  - ladino: mansevikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: girls
+      fransez: ''
+      ebreo:
+        - בחורות
+        - נערות
+      portugez: ''
+      kasteyano: chicas
+      turko: ''
+
+

@@ -16,7 +16,7 @@ versions:
         - bed
         - bedding
         fransez: ''
-        portugez: ''
+        portugez: cama
         kasteyano: cama
         turko:
         - yatak
@@ -33,7 +33,7 @@ versions:
         - bed
         - bedding
         fransez: ''
-        portugez: ''
+        portugez: camas
         kasteyano: camas
         turko:
         - yataklar

@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: manken
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: mannequin
+      ebreo:
+        - מודל
+      fransez: ''
+      portugez: ''
+      kasteyano: model
+      turko: ''
+

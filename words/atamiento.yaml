@@ -1,30 +1,40 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - komputadora
 
 versions:
   - ladino: atamiento
+    rashi: אטאמיינטו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: attachment
-        fransez: attachement
-        portugez: ''
-        kasteyano: apego
-        turko: bağlılık
+      inglez: attachment
+      ebreo:
+        - חיבור
+        - הצמדה
+      fransez: attachement
+      portugez: ''
+      kasteyano: apego
+      turko: bağlılık
 
   - ladino: atamientos
 
     gender: masculine
     number: plural
+    rashi: אטאמיינטוס
 
     translations:
-        inglez: attachments
-        fransez: attachements
-        portugez: ''
-        kasteyano: apegos
-        turko: bağlılık
+      inglez: attachments
+      ebreo:
+        - חיבורים
+        - הצמדות
+      fransez: attachements
+      portugez: ''
+      kasteyano: apegos
+      turko: bağlılık
 
 
 

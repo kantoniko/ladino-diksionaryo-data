@@ -12,7 +12,7 @@ versions:
     translations:
         inglez: bull
         fransez: ''
-        portugez: ''
+        portugez: touro
         kasteyano: toro
         turko: boğa
 
@@ -24,7 +24,7 @@ versions:
     translations:
         inglez: bulls
         fransez: ''
-        portugez: ''
+        portugez: touros
         kasteyano: toros
         turko: boğa
 

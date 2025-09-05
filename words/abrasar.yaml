@@ -4,11 +4,12 @@ orijen: Jeneral
 versions:
   - ladino: abrasar
     accented: abrasár
+    rashi: אבראסאר
 
     translations:
         inglez: embrace
         fransez: étreindre
-        portugez: ''
+        portugez: abraçar
         kasteyano: abrazar
         turko:
           - sarılmak

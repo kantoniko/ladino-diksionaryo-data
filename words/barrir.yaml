@@ -4,13 +4,19 @@ orijen: Jeneral
 versions:
   - ladino: barrir
     accented: barrír
+    rashi: באריר
+
+    alternative-spelling:
+      - ladino: barrer
+        rashi: באריר
 
     translations:
-        inglez: sweep
-        fransez: balayer
-        portugez: varrer
-        kasteyano: barrer
-        turko: süpürmek
+      inglez: sweep
+      ebreo: לטאטא
+      fransez: balayer
+      portugez: varrer
+      kasteyano: barrer
+      turko: süpürmek
 
 conjugations: {}
 

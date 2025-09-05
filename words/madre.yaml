@@ -7,16 +7,20 @@ kategorias:
 versions:
   - ladino: madre
     accented: mádre
+    rashi: מאדרי
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: mother
-        fransez: ''
-        portugez: ''
-        kasteyano: madre
-        turko:
+      inglez: mother
+      ebreo:
+        - אם
+        - אמא
+      fransez: ''
+      portugez: mãe
+      kasteyano: madre
+      turko:
         - anne
         - ana
 
@@ -27,11 +31,12 @@ versions:
     number: plural
 
     translations:
-        inglez: mothers
-        fransez: ''
-        portugez: ''
-        kasteyano: madres
-        turko:
+      inglez: mothers
+      ebreo: אמהות
+      fransez: ''
+      portugez: mães
+      kasteyano: madres
+      turko:
         - anne
         - ana
 
