@@ -1,17 +1,23 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - numeros
 
 versions:
   - ladino: diez
     accented: diéz
+    rashi: דייז
 
     alternative-spelling:
       - ladino: dyez
         accented: dyéz
 
     translations:
-        inglez: ten
+        inglez:
+          - ten
+          - '10'
         fransez: ''
+        ebreo: עשר
         portugez: ''
         kasteyano: diez
         turko: 'on'

@@ -1,0 +1,52 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: atako
+    rashi: אטאקו
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: atake
+        rahsi: אטאקי
+
+
+    translations:
+      inglez:
+        - attack
+        - onslaught
+      ebreo:
+        - התקפה
+        - התנפלות
+        - מתקפה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: atakos
+    rashi: אטאקוס
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: atakes
+        rahsi: אטאקיס
+
+
+    translations:
+      inglez:
+        - attacks
+        - onslaughts
+      ebreo:
+        - התקפות
+        - התנפלויות
+        - מתקפות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

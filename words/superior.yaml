@@ -9,7 +9,9 @@ versions:
 
 
     translations:
-      inglez: ''
+      inglez:
+        - upper
+        - the highest
       fransez: ''
       ebreo:
         - עליון

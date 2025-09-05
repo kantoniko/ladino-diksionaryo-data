@@ -1,0 +1,76 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: meresido
+    rashi: מיריסידו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - deserved
+        - just
+      ebreo:
+        - ראוי
+        - שמגיע לו
+      fransez: ''
+      portugez: ''
+      kasteyano: merecido
+      turko: ''
+
+  - ladino: meresida
+    rashi: מיריסידה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - deserved
+        - just
+      ebreo:
+        - ראויה
+        - שמגיע לה
+      fransez: ''
+      portugez: ''
+      kasteyano: merecida
+      turko: ''
+
+  - ladino: meresidos
+    rashi: מיריסידוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - deserved
+        - just
+      ebreo:
+        - ראוים
+        - שמגיע להם
+      fransez: ''
+      portugez: ''
+      kasteyano: merecidos
+      turko: ''
+
+  - ladino: meresidas
+    rashi: מיריסידאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - deserved
+        - just
+      ebreo:
+        - ראויות
+        - שמגיע להן
+      fransez: ''
+      portugez: ''
+      kasteyano: merecidas
+      turko: ''
+

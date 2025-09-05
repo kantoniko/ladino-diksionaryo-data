@@ -3,13 +3,18 @@ orijen: Jeneral
 
 versions:
   - ladino: meldar
+    rashi: מילדאר
 
     translations:
-        inglez: read
-        fransez: lire
-        portugez: ler
-        kasteyano: leer
-        turko: okumak
+      inglez: read
+      ebreo:
+        - לקרוא
+        - ללמוד
+        - להתפלל
+      fransez: lire
+      portugez: ler
+      kasteyano: leer
+      turko: okumak
 
   - ladino: meldarlas
 

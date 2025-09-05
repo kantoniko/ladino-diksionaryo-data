@@ -3,12 +3,16 @@ orijen: Estanbol
 
 versions:
   - ladino: adio
+    rashi: אדייו
 
     alternative-spelling:
       - ladino: adiyo
 
     translations:
         inglez: good-bye
+        ebreo:
+          - שלום
+          - להתראות
         fransez: adieu
         portugez: adeus
         kasteyano: adiós

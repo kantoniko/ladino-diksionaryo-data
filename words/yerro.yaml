@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: yerro
+    rashi: יירו
 
     gender: masculine
     number: singular

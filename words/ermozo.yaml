@@ -1,60 +1,83 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: ermozo
+    rashi: אירמוזו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: beautiful
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez:
+        - beautiful
+        - handsome
+        - aesthetic
+      ebreo:
+        - יפה
+        - נאה
+        - אסטטי
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - hermoso
         - bello
-        turko: güzel
+      turko: güzel
 
   - ladino: ermoza
+    rashi: אירמוזה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: beautiful
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: beautiful
+      ebreo:
+        - יפה
+        - נאה
+        - אסטטית
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - hermosa
         - bella
-        turko: güzel
+      turko: güzel
 
   - ladino: ermozos
+    rashi: אירמוזוס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: beautiful
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: beautiful
+      ebreo:
+        - יפים
+        - נאים
+        - אסטטים
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - hermosos
         - bellos
-        turko: güzeller
+      turko: güzeller
 
   - ladino: ermozas
+    rashi: אירמוזאס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: beautiful
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez: beautiful
+      ebreo:
+        - יפות
+        - נאות
+        - אסטטיות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - hermosas
         - bellas
-        turko: güzeller
+      turko: güzeller
 

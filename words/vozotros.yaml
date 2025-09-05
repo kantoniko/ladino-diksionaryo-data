@@ -4,28 +4,34 @@ orijen: Jeneral
 versions:
   - ladino: vozotros
     accented: vozótros
+    rashi: בﬞוזוטרוס
+
     gender: masculine
     number: plural
 
     translations:
         inglez: you
+        ebreo: אתם
         fransez: vous
         portugez: vocês
-        kasteyano: 
+        kasteyano:
           - vosotros
           - ustedes
         turko: siz
 
   - ladino: vozotras
     accented: vozótras
+    rashi: בﬞוזוטראס
+
     gender: feminine
     number: plural
 
     translations:
         inglez: you
+        ebreo: אתן
         fransez: vous
         portugez: vocês
-        kasteyano: 
+        kasteyano:
           - vosotras
           - ustedes
         turko: siz

@@ -1,0 +1,57 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: nobelisto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: nobel prize winner
+      fransez: ''
+      ebreo: זוכה פרס נובל
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: nobelista
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: nobel prize winner
+      fransez: ''
+      ebreo: זוכת פרס נובל
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+  - ladino: nobelistos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: nobel prize winners
+      fransez: ''
+      ebreo: זוכי פרס נובל
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: nobelistas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: nobel prize winners
+      fransez: ''
+      ebreo: זוכות פרס נובל
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

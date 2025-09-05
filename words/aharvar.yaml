@@ -4,17 +4,23 @@ orijen: Jeneral
 versions:
   - ladino: aharvar
     accented: aharvár
+    rashi: אחארבﬞאר
 
     translations:
-        inglez:
+      inglez:
         - strike
         - beat
-        fransez: frapper
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - להכות
+      fransez: frapper
+      portugez:
+        - bater
+        - golpear
+        - acertar
+      kasteyano:
         - golpear
         - pegar
-        turko: vurmak
+      turko: vurmak
 
 conjugations: {}
 

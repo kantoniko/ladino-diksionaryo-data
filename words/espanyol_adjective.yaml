@@ -1,0 +1,56 @@
+grammar: adjective
+orijen: Jeneral
+
+versions:
+  - ladino: espanyol
+
+    gender: masculine
+    number: singular
+
+    translations:
+        inglez: spanish
+        fransez: ''
+        portugez: ''
+        kasteyano: español
+        turko: ''
+
+  - ladino: espanyola
+
+    gender: feminine
+    number: singular
+
+    translations:
+        inglez: spanish
+        fransez: ''
+        portugez: ''
+        kasteyano: española
+        turko: ''
+
+  - ladino: espanyoles
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: spanish
+        fransez: ''
+        portugez: ''
+        kasteyano: españoles
+        turko: ''
+
+  - ladino: espanyolas
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: spanish
+        fransez: ''
+        portugez: ''
+        kasteyano: españolas
+        turko: ''
+
+
+
+
+

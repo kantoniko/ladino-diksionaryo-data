@@ -4,12 +4,21 @@ orijen: Jeneral
 versions:
   - ladino: abondansa
     accented: abondánsa
+    rashi: אבונדאנסה
 
     gender: feminine
     number: singular
 
+    alternative-spelling:
+      - ladino: abondansia
+        rashi: אבונדאנסייה
+
     translations:
         inglez: abundance
+        ebreo:
+          - שפע
+          - שפעה
+          - ריבוי
         fransez: abondance
         portugez: abundância
         kasteyano: abundancia

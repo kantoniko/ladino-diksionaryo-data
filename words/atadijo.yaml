@@ -1,29 +1,37 @@
 grammar: NA
 orijen: Ladinokomunita
+kategorias:
+  - komputadora
 
 versions:
   - ladino: atadijo
+    rashi: אטאדיזﬞו
 
     gender: masculine
     number: singular
 
     translations:
       inglez: link
+      ebreo:
+        - קשר
+        - קישור
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: enlace
       turko: ''
 
   - ladino: atadijos
+    rashi: אטאדיזﬞוס
 
     gender: masculine
     number: plural
 
     translations:
       inglez: links
+      ebreo:
+        - קשרים
+        - קישורים
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: enlaces
       turko: ''

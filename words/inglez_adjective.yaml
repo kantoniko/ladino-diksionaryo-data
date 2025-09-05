@@ -1,0 +1,59 @@
+grammar: adjective
+orijen: Ladinokomunita
+
+versions:
+  - ladino: inglez
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: english
+      fransez: ''
+      ebreo: אנגלי
+      portugez: ''
+      kasteyano: inglés
+      turko: ''
+
+
+  - ladino: ingleza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: english
+      fransez: ''
+      ebreo: אנגליה
+      portugez: ''
+      kasteyano: inglésa
+      turko: ''
+
+  - ladino: inglezes
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: english
+      fransez: ''
+      ebreo: אנגלים
+      portugez: ''
+      kasteyano: ingléses
+      turko: ''
+
+
+  - ladino: inglezas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: english
+      fransez: ''
+      ebreo: אנגליות
+      portugez: ''
+      kasteyano: inglésas
+      turko: ''
+
+

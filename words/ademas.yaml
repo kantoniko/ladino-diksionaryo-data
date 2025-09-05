@@ -4,19 +4,24 @@ orijen: Jeneral
 versions:
   - ladino: ademas
     accented: además
+    rashi: אדימאס
 
     translations:
-        inglez:
+      inglez:
         - besides
         - moreover
-        fransez:
+      ebreo:
+        - חוץ מזה
+        - מלבד זאת
+        - יתר על כן
+      fransez:
         - en outre
         - d'autant plus
-        portugez:
+      portugez:
         - além do mais
         - ademais
-        kasteyano: además
-        turko:
+      kasteyano: además
+      turko:
         - keza
         - üstelik
 

@@ -3,24 +3,32 @@ orijen: Jeneral
 
 versions:
   - ladino: lugar
+    rashi: לוגאר
 
     gender: masculine
     number: singular
 
     translations:
         inglez: place
+        ebreo:
+          - מקום
+          - אתר
         fransez: ''
         portugez: ''
         kasteyano: lugar
         turko: yer
 
   - ladino: lugares
+    rashi: לוגאריס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: places
+        ebreo:
+          - מקוםות
+          - אתרים
         fransez: ''
         portugez: ''
         kasteyano: lugares

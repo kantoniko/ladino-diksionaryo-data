@@ -3,16 +3,19 @@ orijen: Jeneral
 
 versions:
   - ladino: 'no'
+    rashi: נו
 
     translations:
-        inglez:
+      inglez:
         - 'no'
         - not
         - don't
-        fransez: ''
-        portugez: ''
-        kasteyano: 'no'
-        turko:
+      ebreo:
+        - לא
+      fransez: ''
+      portugez: ''
+      kasteyano: 'no'
+      turko:
         - hayır
         - değil
 

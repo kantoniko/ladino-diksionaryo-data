@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: asker
+    rashi: אסקיר
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: soldier
+      ebreo: חייל
+      fransez: ''
+      portugez: ''
+      kasteyano: soldado
+      turko: ''
+

@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: este
+    rashi: איסטי
 
     gender: masculine
     number: singular
@@ -12,6 +13,7 @@ versions:
 
     translations:
         inglez: this
+        ebreo: זה
         fransez: ''
         portugez: ''
         kasteyano: este
@@ -19,18 +21,21 @@ versions:
 
   - ladino: esto
     accented: ésto
+    rashi: איסטו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: this
+        ebreo: זה
         fransez: ''
         portugez: ''
         kasteyano: esto
         turko: bu
 
   - ladino: esta
+    rashi: איסטה
 
     gender: feminine
     number: singular
@@ -40,6 +45,9 @@ versions:
 
     translations:
         inglez: this
+        ebreo:
+          - זאת
+          - זו
         fransez: ''
         portugez: ''
         kasteyano: esta

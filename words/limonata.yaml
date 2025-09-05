@@ -5,12 +5,14 @@ kategorias:
 
 versions:
   - ladino: limonata
+    rashi: לימונאטא
 
     gender: feminine
     number: singular
 
     alternative-spelling:
       - ladino: limonada
+        rashi: לימונאדה
 
 
     translations:

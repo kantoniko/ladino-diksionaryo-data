@@ -1,21 +1,27 @@
 grammar: NA
 orijen: Jeneral
+linguas:
+  - turko
 
 versions:
   - ladino: aga
     accented: agá
+    rashi: אגה
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - lord
         - master
-        fransez: personne riche et notable
-        portugez: patrão
-        kasteyano:
+      ebreo:
+        - אגא
+        - מנהיג
+      fransez: personne riche et notable
+      portugez: patrão
+      kasteyano:
         - señor
         - amo
-        turko: ağa
+      turko: ağa
 

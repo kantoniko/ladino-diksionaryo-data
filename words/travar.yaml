@@ -3,15 +3,21 @@ orijen: Jeneral
 
 versions:
   - ladino: travar
+    rashi: טראבﬞאר
 
     translations:
-        inglez:
+      inglez:
         - pull
         - shoot
-        fransez: ''
-        portugez: ''
-        kasteyano: tirar
-        turko:
+      ebreo:
+        - למשוך
+        - להוציא
+        - לגרור
+        - לסחוב
+      fransez: ''
+      portugez: ''
+      kasteyano: tirar
+      turko:
         - çekmek
         - ates etmek
 

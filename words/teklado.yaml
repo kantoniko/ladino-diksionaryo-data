@@ -1,0 +1,32 @@
+grammar: noun
+orijen: Ladinokomunita
+kategorias:
+  - komputadora
+
+versions:
+  - ladino: teklado
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: keyboard
+      ebreo: מקלדת
+      fransez: ''
+      portugez: ''
+      kasteyano: teclado
+      turko: ''
+
+  - ladino: teklados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: keyboards
+      ebreo: מקלדות
+      fransez: ''
+      portugez: ''
+      kasteyano: teclados
+      turko: ''
+

@@ -6,6 +6,7 @@ kategorias:
 
 versions:
   - ladino: chikolata
+    rashi: גﬞיקולאטה
 
     gender: feminine
     number: singular
@@ -15,6 +16,6 @@ versions:
       fransez: ''
       ebreo: שוקולד
       portugez: chocolate
-      kasteyano: ''
+      kasteyano: chocolate
       turko: ''
 

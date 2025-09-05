@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - kontenentes
@@ -7,32 +7,42 @@ kategorias:
 
 versions:
   - ladino: kupa
+    rashi: קופה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez:
+      inglez:
+        - cup
         - glass
         - tumbler
-        fransez: ''
-        portugez: ''
-        kasteyano: vaso
-        turko: bardak
+      ebreo:
+        - כוס
+        - גביע
+      fransez: ''
+      portugez: ''
+      kasteyano: vaso
+      turko: bardak
 
   - ladino: kupas
+    rashi: קופאס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez:
+      inglez:
+        - cups
         - glasses
         - tumblers
-        fransez: ''
-        portugez: ''
-        kasteyano: vasos
-        turko: bardaklar
+      ebreo:
+        - כוסות
+        - גביעים
+      fransez: ''
+      portugez: ''
+      kasteyano: vasos
+      turko: bardaklar
 
 
 

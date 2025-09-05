@@ -1,0 +1,84 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: eskojido
+    rashi: איסקוזﬞידו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - selected
+        - sorted
+        - fine
+      ebreo:
+        - נבחר
+        - ממויין
+        - משובח
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: eskojida
+    rashi: איסקוזﬞידה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - selected
+        - sorted
+        - fine
+      ebreo:
+        - נבחרת
+        - ממוינת
+        - משובחת
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: eskojidos
+    rashi: איסקוזﬞידוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - selected
+        - sorted
+        - fine
+      ebreo:
+        - נבחרים
+        - ממוייים
+        - משובחים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: eskojidas
+    rashi: איסקוזﬞידאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - selected
+        - sorted
+        - fine
+      ebreo:
+        - נבחרות
+        - ממוינות
+        - משובחות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

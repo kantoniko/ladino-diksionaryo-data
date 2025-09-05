@@ -6,16 +6,20 @@ kategorias:
 
 versions:
   - ladino: koridor
+    rashi: קורידור
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: corridor
-        fransez: ''
-        portugez: ''
-        kasteyano: pasillo
-        turko: koridor
+      inglez: corridor
+      ebreo:
+        - מסדרון
+        - פרוזדור
+      fransez: ''
+      portugez: corredor
+      kasteyano: pasillo
+      turko: koridor
 
   - ladino: koridores
 
@@ -23,11 +27,14 @@ versions:
     number: plural
 
     translations:
-        inglez: corridors
-        fransez: ''
-        portugez: ''
-        kasteyano: pasillos
-        turko: koridor
+      inglez: corridors
+      ebreo:
+        - מסדרונות
+        - פרוזדורים
+      fransez: ''
+      portugez: corredores
+      kasteyano: pasillos
+      turko: koridor
 
 
 

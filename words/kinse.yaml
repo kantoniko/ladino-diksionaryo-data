@@ -1,0 +1,20 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: kinse
+
+    translations:
+        inglez:
+          - fifteen
+          - '15'
+        fransez: ''
+        ebreo:
+          - חמישהעשר
+        portugez: ''
+        kasteyano: quinse
+        turko: ''
+
+

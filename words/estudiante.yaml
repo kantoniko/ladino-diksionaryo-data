@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: estudiante
+    rashi: איסטודייאנטי
 
     #gender: NA # masculine feminine both
     number: singular

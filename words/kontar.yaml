@@ -3,15 +3,20 @@ orijen: Jeneral
 
 versions:
   - ladino: kontar
+    rashi: קונטאר
 
     translations:
-        inglez:
+      inglez:
         - count
         - tell
-        fransez: ''
-        portugez: ''
-        kasteyano: contar
-        turko:
+      ebreo:
+        - לספור
+        - לספר
+        - לחשב
+      fransez: ''
+      portugez: ''
+      kasteyano: contar
+      turko:
         - saymak
         - anlatmak
 

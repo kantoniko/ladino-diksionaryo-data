@@ -1,0 +1,26 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: gizandero
+    rashi: גיזאנדירו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - cook
+        - professional cook
+        - chef
+      ebreo:
+        - טבח
+        - טבח מקצועי
+        - שף
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

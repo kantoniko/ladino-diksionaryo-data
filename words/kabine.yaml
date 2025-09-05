@@ -14,7 +14,9 @@ versions:
       inglez: toilets
       fransez: ''
       ebreo: שירותים
-      portugez: ''
+      portugez:
+         - privada
+         - vaso sanitário
       kasteyano: inodoro
       turko: ''
 

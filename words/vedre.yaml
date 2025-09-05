@@ -1,14 +1,19 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
+kategorias:
+  - kolores
+
 
 versions:
   - ladino: vedre
+    rashi: בﬞידרי
 
     translations:
-        inglez: green
-        fransez: vert
-        portugez: ''
-        kasteyano: verde
-        turko: yeşil
+      inglez: green
+      ebreo: ירוק
+      fransez: vert
+      portugez: ''
+      kasteyano: verde
+      turko: yeşil
 
 

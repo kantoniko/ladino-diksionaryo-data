@@ -1,51 +1,67 @@
 grammar: adjective
 orijen: Jeneral
+linguas:
+  - portugez
 
 versions:
   - ladino: abafado
     accented: abafádo
+    rashi: אבאפﬞאדו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: stewed
+        inglez:
+          - stewed
+          - steamed
         fransez: bouilli
+        ebreo: מאודה
         portugez: estufado
         kasteyano: estofado
         turko: buğulama
 
   - ladino: abafada
     accented: abafáda
+    rashi: אבאפﬞאדה
+
     gender: feminine
     number: singular
 
     translations:
         inglez: stewed
         fransez: bouillie
+        ebreo: מאודה
         portugez: estufada
         kasteyano: estofada
         turko: buğulama
 
   - ladino: abafados
     accented: abafádos
+    rashi: אבאפﬞאדוס
+
     gender: masculine
     number: plural
 
     translations:
         inglez: stewed
         fransez: ''
+        ebreo: מאודים
         portugez: estufados
         kasteyano: estofados
         turko: buğulama
 
   - ladino: abafadas
     accented: abafádas
+    rashi: אבאפﬞאדאס
+
     gender: feminine
     number: plural
 
     translations:
         inglez: stewed
         fransez: ''
+        ebreo: מאודות
         portugez: estufadas
         kasteyano: estofadas
         turko: buğulama

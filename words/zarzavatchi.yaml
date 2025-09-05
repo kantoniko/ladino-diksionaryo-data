@@ -1,0 +1,39 @@
+grammar: NA
+orijen: Estanbol
+kategorias:
+  - profesion
+linguas:
+  - turko
+
+versions:
+  - ladino: zarzavatchi
+    rashi: זארזאבﬞאטגﬞי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - ירקן
+        - מוכר ירקות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: zarzavatchis
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+        - ירקני
+        - מוכרי ירקות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

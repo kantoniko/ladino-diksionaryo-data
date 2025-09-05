@@ -4,6 +4,7 @@ orijen: Ladinokomunita
 versions:
   - ladino: charshi
     accented: charshí
+    rashi: גארשי
 
     gender: masculine
     number: singular

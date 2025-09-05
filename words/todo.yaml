@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: todo
+    rashi: טודו
 
     gender: masculine
     number: singular
@@ -11,6 +12,9 @@ versions:
         inglez:
           - all
           - everything
+        ebreo:
+          - כל-
+          - הכל
         fransez: ''
         portugez: ''
         kasteyano: todo
@@ -19,6 +23,7 @@ versions:
         - hepsi
 
   - ladino: toda
+    rashi: טודה
 
     gender: feminine
     number: singular
@@ -27,6 +32,9 @@ versions:
         inglez:
           - all
           - everything
+        ebreo:
+          - כל-
+          - הכל
         fransez: ''
         portugez: ''
         kasteyano: toda
@@ -35,6 +43,7 @@ versions:
         - hepsi
 
   - ladino: todos
+    rashi: טודוס
 
     gender: masculine
     number: plural
@@ -43,18 +52,25 @@ versions:
         inglez:
           - all
           - everyone
+        ebreo:
+          - כל-
+          - הכל
         fransez: ''
         portugez: ''
         kasteyano: todos
         turko: hepsi
 
   - ladino: todas
+    rashi: טודאס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: all
+        ebreo:
+          - כל-
+          - הכל
         fransez: ''
         portugez: ''
         kasteyano: todas

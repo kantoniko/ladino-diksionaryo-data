@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: autor
     accented: autór
+    rashi: אאוטור
 
     alternative-spelling:
       - ladino: otor
@@ -13,11 +14,14 @@ versions:
     number: singular
 
     translations:
-        inglez: author
-        fransez: auteur
-        portugez: autor
-        kasteyano: autor
-        turko:
+      inglez: author
+      ebreo:
+        - מחבר
+        - סופר
+      fransez: auteur
+      portugez: autor
+      kasteyano: autor
+      turko:
         - yazar
         - edip
 
@@ -32,11 +36,14 @@ versions:
     number: plural
 
     translations:
-        inglez: authors
-        fransez: auteur
-        portugez: autores
-        kasteyano: autores
-        turko:
+      inglez: authors
+      ebreo:
+        - מחברים
+        - סופרים
+      fransez: auteur
+      portugez: autores
+      kasteyano: autores
+      turko:
         - yazar
         - edip
 

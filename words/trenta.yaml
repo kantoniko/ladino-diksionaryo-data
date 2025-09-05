@@ -1,0 +1,16 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: trenta
+
+    translations:
+        inglez: thirty
+        fransez: ''
+        portugez: ''
+        kasteyano: treinta
+        turko: ''
+
+

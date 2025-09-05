@@ -1,20 +1,28 @@
-grammar: NA
+grammar: preposition
 orijen: Jeneral
 
 versions:
   - ladino: detras
+    accented: detrás
+    rashi: דיטראס
 
     alternative-spelling:
       - ladino: despues
 
     translations:
-        inglez:
+      inglez:
+        - after
+        - behind
         - posterior
         - subsequent
-        fransez: ''
-        portugez: ''
-        kasteyano: posterior
-        turko:
+      ebreo:
+        - אחרי
+        - מאחורי
+        - לפי
+      fransez: ''
+      portugez: ''
+      kasteyano: posterior
+      turko:
         - arka
         - sonra
 

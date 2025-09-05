@@ -1,0 +1,18 @@
+grammar: verb
+orijen: Jeneral
+
+versions:
+  - ladino: asentar
+    rashi: אסינטאר
+
+    translations:
+      inglez: sit
+      ebreo:
+        - להושיב
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}
+

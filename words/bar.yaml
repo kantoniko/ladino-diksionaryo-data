@@ -3,11 +3,30 @@ orijen: Jeneral
 
 versions:
   - ladino: bar
+    rashi: באר
+
+    gender: masculine
+    number: singular
 
     translations:
         inglez: bar
+        ebreo: בר
         fransez: bar
         portugez: ''
         kasteyano: bar
         turko: bar
+
+  - ladino: bares
+    rashi: באריס
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: bars
+        ebreo: ברים
+        fransez: ''
+        portugez: ''
+        kasteyano: bares
+        turko: ''
 

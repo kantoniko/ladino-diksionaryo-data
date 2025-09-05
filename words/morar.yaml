@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: morar
     accented: morár
+    rashi: מוראר
 
     translations:
         inglez:
@@ -23,16 +24,19 @@ conjugations:
   prezente:
     yo:
       ladino: moro
+      rashi: מורו
       translations:
         inglez: live
 
     tu:
       ladino: moras
+      rashi: מוראס
       translations:
         inglez: live
 
     el:
       ladino: mora
+      rashi: מורה
       translations:
         inglez: lives
 

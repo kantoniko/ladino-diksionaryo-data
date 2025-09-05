@@ -3,9 +3,13 @@ orijen: Jeneral
 
 versions:
   - ladino: mas
+    rashi: מאס
 
     translations:
         inglez: more
+        ebreo:
+          - יותר
+          - עוד
         fransez: ''
         portugez: ''
         kasteyano: más

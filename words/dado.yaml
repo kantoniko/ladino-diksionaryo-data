@@ -3,9 +3,15 @@ orijen: Jeneral
 
 versions:
   - ladino: dado
+    rashi: דאדו
+
+    gender: masculine
+    number: singular
 
     translations:
         inglez: dice
+        ebreo:
+          - קוביה
         fransez: ''
         portugez: ''
         kasteyano: dado

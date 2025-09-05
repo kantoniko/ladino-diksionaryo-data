@@ -3,19 +3,28 @@ orijen: Jeneral
 
 versions:
   - ladino: doblar
+    rashi: דובלאר
+
+    alternative-spelling:
+      - ladino: dublar
+      - ladino: duvlar
+        rashi: דובﬞלאר
 
     translations:
-        inglez:
+      inglez:
         - double
+        - fold
         - fold up
-        fransez: ''
-        portugez: ''
-        kasteyano: doblar
-        turko:
+        - multiply
+      ebreo:
+        - לקפל
+        - להכפיל
+      fransez: ''
+      portugez: ''
+      kasteyano: doblar
+      turko:
         - çiftlemek
         - katlamak
 
 conjugations: {}
-
-
 

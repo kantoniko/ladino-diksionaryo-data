@@ -5,44 +5,54 @@ kategorias:
 
 versions:
   - ladino: pintador
-    gender: masculine
-    number: singular
+    rashi: פינטאדור
+
     alternative-spelling:
       - ladino: pintor
 
+    gender: masculine
+    number: singular
+
     translations:
-        inglez: painter
-        fransez: ''
-        portugez: ''
-        kasteyano: pintor
-        turko: ressam
+      inglez: painter
+      ebreo: צייר
+      fransez: ''
+      portugez: ''
+      kasteyano: pintor
+      turko: ressam
 
   - ladino: pintadora
-    gender: feminine
-    number: singular
+    rashi: פינטאדירה
 
     alternative-spelling:
       - ladino: pintora
 
+    gender: feminine
+    number: singular
+
     translations:
-        inglez: painter
-        fransez: ''
-        portugez: ''
-        kasteyano: pintora
-        turko: ressam
+      inglez: painter
+      ebreo: ציירת
+      fransez: ''
+      portugez: ''
+      kasteyano: pintora
+      turko: ressam
 
   - ladino: pintadores
-    gender: masculine
-    number: plural
+
     alternative-spelling:
       - ladino: pintores
 
+    gender: masculine
+    number: plural
+
     translations:
-        inglez: painters
-        fransez: ''
-        portugez: ''
-        kasteyano: pintores
-        turko: ''
+      inglez: painters
+      ebreo: ציירים
+      fransez: ''
+      portugez: ''
+      kasteyano: pintores
+      turko: ''
 
   - ladino: pintadoras
     gender: feminine
@@ -53,11 +63,12 @@ versions:
 
 
     translations:
-        inglez: painters
-        fransez: ''
-        portugez: ''
-        kasteyano: pintoras
-        turko: ''
+      inglez: painters
+      ebreo: ציירות
+      fransez: ''
+      portugez: ''
+      kasteyano: pintoras
+      turko: ''
 
 
 

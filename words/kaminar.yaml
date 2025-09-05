@@ -3,14 +3,19 @@ orijen: Jeneral
 
 versions:
   - ladino: kaminar
+    rashi: קאמינאר
 
     translations:
-        inglez: walk
-        fransez: marcher
-        ebreo: ללכת
-        portugez: ''
-        kasteyano: caminar
-        turko: yürümek
+      inglez: walk
+      fransez: marcher
+      ebreo:
+        - ללכת
+        - לצעוד
+        - לפסוע
+        - לטייל
+      portugez: ''
+      kasteyano: caminar
+      turko: yürümek
 
 conjugations: {}
 

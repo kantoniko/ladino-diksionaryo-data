@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: yano
     accented: yáno
+    rashi: ייאנו
+
     gender: masculine
     number: singular
 
@@ -25,6 +27,7 @@ versions:
 
   - ladino: yana
     accented: yána
+
     gender: feminine
     number: singular
 
@@ -46,6 +49,7 @@ versions:
 
   - ladino: yanos
     accented: yános
+
     gender: masculine
     number: plural
 
@@ -67,6 +71,7 @@ versions:
 
   - ladino: yanas
     accented: yánas
+
     gender: feminine
     number: plural
 

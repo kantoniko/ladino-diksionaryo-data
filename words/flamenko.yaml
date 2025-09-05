@@ -1,0 +1,17 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: flamenko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: flamenco
+      fransez: flamenco
+      ebreo: פלמנקו
+      portugez: flamenco
+      kasteyano: flamenco
+      turko: flamenko
+

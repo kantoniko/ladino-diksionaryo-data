@@ -10,9 +10,15 @@ versions:
     number: singular
 
     translations:
-      inglez: ''
+      inglez:
+        - bottle
+        - jar
+        - jug
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - בקבוק
+        - צנצנת
+        - קנקן
       portugez: ''
       kasteyano: ''
       turko: ''
@@ -23,9 +29,15 @@ versions:
     number: plural
 
     translations:
-      inglez: ''
+      inglez:
+        - bottles
+        - jars
+        - jugs
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - בקבוקים
+        - צנצנות
+        - קנקנים
       portugez: ''
       kasteyano: ''
       turko: ''

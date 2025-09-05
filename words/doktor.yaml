@@ -5,28 +5,32 @@ kategorias:
 
 versions:
   - ladino: doktor
+    rashi: דוקטור
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: doctor
-        fransez: ''
-        portugez: ''
-        kasteyano: doctor
-        turko: doktor
+      inglez: doctor
+      ebreo: רופא
+      fransez: ''
+      portugez: ''
+      kasteyano: doctor
+      turko: doktor
 
   - ladino: doktora
+    rashi: דוקטורה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: doctor
-        fransez: ''
-        portugez: ''
-        kasteyano: doctora
-        turko: doktor
+      inglez: doctor
+      ebreo: רופאה
+      fransez: ''
+      portugez: ''
+      kasteyano: doctora
+      turko: doktor
 
   - ladino: doktores
 
@@ -34,11 +38,12 @@ versions:
     number: plural
 
     translations:
-        inglez: doctors
-        fransez: ''
-        portugez: ''
-        kasteyano: doctores
-        turko: doktorlar
+      inglez: doctors
+      ebreo: רופאים
+      fransez: ''
+      portugez: ''
+      kasteyano: doctores
+      turko: doktorlar
 
   - ladino: doktoras
 
@@ -46,10 +51,11 @@ versions:
     number: plural
 
     translations:
-        inglez: doctors
-        fransez: ''
-        portugez: ''
-        kasteyano: doctoras
-        turko: doktorlar
+      inglez: doctors
+      ebreo: רופאות
+      fransez: ''
+      portugez: ''
+      kasteyano: doctoras
+      turko: doktorlar
 
 

@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: memoria
+    rashi: מימורייה
 
     gender: feminine
     number: singular
@@ -12,12 +13,16 @@ versions:
 
     translations:
         inglez: memory
+        ebreo:
+          - זכרון
+          - זכר
         fransez: ''
         portugez: ''
         kasteyano: memoria
         turko: hafıza
 
   - ladino: memorias
+    rashi: מימורייאס
 
     gender: feminine
     number: plural
@@ -27,6 +32,8 @@ versions:
 
     translations:
         inglez: memories
+        ebreo:
+          - זכרונות
         fransez: ''
         portugez: ''
         kasteyano: memorias

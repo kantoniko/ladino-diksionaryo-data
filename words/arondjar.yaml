@@ -1,0 +1,16 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: arondjar
+
+    translations:
+      inglez: push
+      ebreo:
+        - לדחוף
+      fransez: ''
+      portugez: empurrar
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

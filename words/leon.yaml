@@ -7,12 +7,14 @@ kategorias:
 versions:
   - ladino: leon
     accented: león
+    rashi: ליאון
 
     gender: masculine
     number: singular
 
     translations:
         inglez: lion
+        ebreo: אריה
         fransez: léon
         portugez: leão
         kasteyano: león
@@ -25,21 +27,25 @@ versions:
 
     translations:
         inglez: lioness
+        ebreo: לביאה
         fransez: ''
-        portugez: ''
+        portugez: leoa
         kasteyano: ''
         turko: ''
 
 
   - ladino: leones
     accented: leónes
+    rashi: ליאוניס
+
     gender: masculine
     number: plural
 
     translations:
         inglez: lions
+        ebreo: אריות
         fransez: ''
-        portugez: ''
+        portugez: leões
         kasteyano: leónes
         turko: aslanlar
 
@@ -50,8 +56,9 @@ versions:
 
     translations:
         inglez: lionesses
+        ebreo: לביאות
         fransez: ''
-        portugez: ''
+        portugez: leoas
         kasteyano: ''
         turko: ''
 

@@ -1,0 +1,16 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: aretarse
+
+    translations:
+      inglez: stop
+      ebreo:
+        - לעצור
+      fransez: ''
+      portugez: parar
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

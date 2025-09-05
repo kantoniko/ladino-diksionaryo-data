@@ -4,44 +4,54 @@ orijen: Jeneral
 versions:
   - ladino: alguno
     accented: algúno
+    rashi: אלגונו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - someone
         - some
         - any
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - מישהו
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - alguien
         - alguno
-        turko:
+      turko:
         - birisi
         - herhangi biri
 
   - ladino: alguna
     accented: algúna
+    rashi: אלגונה
+
     gender: feminine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - someone
         - some
         - any
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo:
+        - מישהי
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - alguien
         - alguna
-        turko:
+      turko:
         - birisi
         - herhangi biri
 
   - ladino: algunos
     accented: algúnos
+    rashi: אלגונוס
+
     gender: masculine
     number: plural
 
@@ -61,6 +71,8 @@ versions:
 
   - ladino: algunas
     accented: algúnas
+    rashi: אלגונאס
+
     gender: feminine
     number: plural
 

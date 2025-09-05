@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: pared
+    rashi: פאריד
 
     gender: feminine
     number: singular
@@ -16,6 +17,7 @@ versions:
         turko: duvar
 
   - ladino: paredes
+    rashi: פארידיס
 
     gender: feminine
     number: plural

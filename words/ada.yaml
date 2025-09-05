@@ -4,12 +4,14 @@ orijen: Estanbol
 versions:
   - ladino: ada
     accented: adá
+    rashi: אדה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: island
+        ebreo: אי
         fransez: île
         portugez: ilha
         kasteyano: isla
@@ -23,6 +25,7 @@ versions:
 
     translations:
         inglez: islands
+        ebreo: איים
         fransez: île
         portugez: ilhas
         kasteyano: islas

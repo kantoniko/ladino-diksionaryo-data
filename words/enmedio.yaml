@@ -1,0 +1,16 @@
+grammar: adverb
+orijen: NA
+
+versions:
+  - ladino: enmedio
+
+    alternative-spelling:
+      - ladino: enmedyo
+
+    translations:
+      inglez: in the middle of
+      fransez: ''
+      ebreo: באמצע
+      portugez: ''
+      kasteyano: ''
+      turko: ''

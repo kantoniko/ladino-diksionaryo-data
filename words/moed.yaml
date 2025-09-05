@@ -1,0 +1,43 @@
+grammar: noun
+orijen: NA
+linguas:
+  - ebreo
+
+versions:
+  - ladino: moed
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: mued
+
+    translations:
+      inglez: holiday
+      fransez: ''
+      ebreo:
+          - מועד
+          - חג
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: moedes
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: moadim
+      - ladino: muedes
+
+    translations:
+      inglez: holiday
+      fransez: ''
+      ebreo:
+          - מועדים
+          - חגים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

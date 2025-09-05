@@ -4,17 +4,19 @@ orijen: Jeneral
 versions:
   - ladino: komer
     accented: komér
-
-    translations:
-      inglez: eat
-      fransez: manger
-      portugez: ''
-      kasteyano: comer
-      turko: yemek yemek
+    rashi: קומיר
 
     alternative-spelling:
       - ladino: kumer
         accented: kumér
+
+    translations:
+      inglez: eat
+      ebreo: לאכול
+      fransez: manger
+      portugez: ''
+      kasteyano: comer
+      turko: yemek yemek
 
 conjugations:
   prezente:

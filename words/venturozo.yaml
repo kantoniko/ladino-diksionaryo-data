@@ -1,0 +1,61 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: venturozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: happy
+      fransez: ''
+      ebreo:
+        - מאושר
+        - בר מזל
+      portugez: ''
+      kasteyano: venturoso
+      turko: ''
+
+  - ladino: venturoza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: happy
+      fransez: ''
+      ebreo:
+        - מאושרת
+      portugez: ''
+      kasteyano: venturosa
+      turko: ''
+
+  - ladino: venturozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: happy
+      fransez: ''
+      ebreo:
+        - מאושרים
+      portugez: ''
+      kasteyano: venturosos
+      turko: ''
+
+  - ladino: venturozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: happy
+      fransez: ''
+      ebreo:
+        - מאושרות
+      portugez: ''
+      kasteyano: venturosas
+      turko: ''
+

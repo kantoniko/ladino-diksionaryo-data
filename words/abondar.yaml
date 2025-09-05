@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: abondar
     accented: abondár
+    rashi: אבונדאר
+
     translations:
         inglez: abound
         fransez: abonder

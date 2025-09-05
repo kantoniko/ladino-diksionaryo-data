@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: polis
+    rashi: פוליס
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: policeman
+      ebreo: שוטר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

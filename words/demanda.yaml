@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: demanda
     accented: demánda
+    rashi: דימאנדה
 
     gender: feminine
     number: singular
@@ -12,6 +13,9 @@ versions:
         inglez:
         - question
         - request
+        ebreo:
+          - בקשה
+          - שאלה
         fransez: ''
         portugez: ''
         kasteyano: pregunta
@@ -22,6 +26,7 @@ versions:
 
   - ladino: demandas
     accented: demándas
+    rashi: דימאנדאס
 
     gender: feminine
     number: plural
@@ -30,6 +35,9 @@ versions:
         inglez:
         - questions
         - requests
+        ebreo:
+          - בקשות
+          - שאלות
         fransez: ''
         portugez: ''
         kasteyano: preguntas

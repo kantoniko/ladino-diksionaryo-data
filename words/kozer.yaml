@@ -7,10 +7,298 @@ versions:
     translations:
         inglez: cook
         fransez: ''
+        ebreo:
+          - לבשל
+          - לאפות
         portugez: ''
         kasteyano: cocinar
         turko: pişirmek
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: kozgo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozes
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: koze
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kozemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozen
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: kozí
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kozió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kozimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  imperfekto:
+    yo:
+      ladino: kozía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kozía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kozíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: kozeré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozerás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kozerá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kozeremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozerésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozerán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: kozga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozgas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kozga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kozgamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozgásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozgan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: koziera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: koziera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: koziéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: kozería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kozerías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kozería
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kozeríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kozeríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kozerían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: koze
+        # no kozgas
+      translations:
+        inglez: ''
+        kasteyano: ''
+    vozotros:
+      ladino: kozed
+        # no kozgásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: kozer
+#
+#  djerundivo:
+#    ladino: koziendo
+#
+#  partisipio pasado:
+#    ladino: kozido  kocho(adj)
+
+
 
 

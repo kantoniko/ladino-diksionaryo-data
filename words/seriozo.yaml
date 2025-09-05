@@ -1,0 +1,56 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: seriozo
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: serious
+      fransez: ''
+      ebreo: רציני
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: serioza
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: serious
+      fransez: ''
+      ebreo: רצינית
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: seriozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: serious
+      fransez: ''
+      ebreo: רציניים
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: seriozas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: serious
+      fransez: ''
+      ebreo: רציניות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

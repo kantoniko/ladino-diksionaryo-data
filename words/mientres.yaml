@@ -4,17 +4,22 @@ orijen: Jeneral
 versions:
   - ladino: mientres
     accented: miéntres
+    rashi: מיינטריס
 
     alternative-spelling:
       - ladino: myentres
         accented: myéntres
 
     translations:
-        inglez: while
-        fransez: ''
-        portugez: ''
-        kasteyano: mientras
-        turko:
+      inglez: while
+      ebreo:
+        - בעת
+        - במשך
+        - בעוד
+      fransez: ''
+      portugez: ''
+      kasteyano: mientras
+      turko:
         - iken
         - süresince
 

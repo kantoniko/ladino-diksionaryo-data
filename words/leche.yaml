@@ -6,12 +6,14 @@ kategorias:
 versions:
   - ladino: leche
     accented: léche
+    rashi: ליגﬞי
 
     gender: feminine
     number: singular
 
     translations:
         inglez: milk
+        ebreo: חלב
         fransez: lait
         portugez: leite
         kasteyano: leche

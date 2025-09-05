@@ -4,12 +4,18 @@ orijen: Jeneral
 versions:
   - ladino: adolesensia
     accented: adolesénsia
+    rashi: אדוליסינסייה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: adolescence
+        inglez:
+          - adolescence
+          - adulthood
+        ebreo:
+          - התבגרות
+          - בגרות
         fransez: adolescence
         portugez: adolescência
         kasteyano: adolescencia

@@ -1,0 +1,26 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: lavorante
+    rashi: לאבﬞוראנטי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - worker
+        - laborer
+        - craftsman
+      ebreo:
+        - עובד
+        - פועל
+        - אומן
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

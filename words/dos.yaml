@@ -5,10 +5,16 @@ kategorias:
 
 versions:
   - ladino: dos
+    rashi: דוס
 
     translations:
-        inglez: two
+        inglez:
+          - two
+          - '2'
         fransez: deux
+        ebreo:
+          - שנים
+          - שתים
         portugez: ''
         kasteyano: dos
         turko: iki

@@ -6,20 +6,27 @@ linguas:
 versions:
   - ladino: afilu
     accented: afilú
+    rashi: אפילו
 
     translations:
-        inglez:
-          - though
-          - even
-        fransez:
+      inglez:
+        - though
+        - even
+      ebreo:
+        - אפילו
+      fransez:
         - même
         - bien que
         - quoique
-        portugez: ''
-        kasteyano:
+      portugez:
+        - mesmo que
+        - até mesmo
+        - embora
+        - ainda que
+      kasteyano:
         - aunque
         - mismo
-        turko:
+      turko:
         - bile
         - hatta
 

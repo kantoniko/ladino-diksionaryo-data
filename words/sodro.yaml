@@ -1,0 +1,80 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: sodro
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: sordo
+
+
+    translations:
+      inglez: deaf
+      fransez: ''
+      ebreo:
+        - חרש
+        - מטושטש
+      portugez: ''
+      kasteyano: sordo
+      turko: ''
+
+  - ladino: sodra
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: sorda
+
+
+    translations:
+      inglez: deaf
+      fransez: ''
+      ebreo:
+        - חרשת
+        - מטושטשת
+      portugez: ''
+      kasteyano: sorda
+      turko: ''
+
+  - ladino: sodros
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: sordos
+
+
+    translations:
+      inglez: deaf
+      fransez: ''
+      ebreo:
+        - חרשים
+        - מטושטשים
+      portugez: ''
+      kasteyano: sordos
+      turko: ''
+
+  - ladino: sodras
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: sordas
+
+
+    translations:
+      inglez: deaf
+      fransez: ''
+      ebreo:
+        - חרשות
+        - מטושטשות
+      portugez: ''
+      kasteyano: sordas
+      turko: ''
+

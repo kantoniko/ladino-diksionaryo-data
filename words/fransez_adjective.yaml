@@ -1,0 +1,60 @@
+grammar: adjective
+orijen: Jeneral
+
+versions:
+  - ladino: fransez
+    rashi: פﬞראנסיז
+
+    gender: masculine
+    number: singular
+
+    translations:
+        inglez: French
+        ebreo: צרפתי
+        fransez: ''
+        portugez: ''
+        kasteyano: francés
+        turko: fransız
+
+  - ladino: franseza
+    rashi: פﬞראנסיזה
+
+    gender: feminine
+    number: singular
+
+    translations:
+        inglez: French
+        ebreo: צרפתית
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
+
+  - ladino: fransezes
+    rashi: פﬞראנסיזיס
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: French
+        ebreo: צרפתים
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
+
+  - ladino: fransezas
+    rashi: פﬞראנסיזאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez: French
+        ebreo: צרפתיות
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
+

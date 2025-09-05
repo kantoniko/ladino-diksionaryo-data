@@ -4,13 +4,18 @@ orijen: Jeneral
 versions:
   - ladino: apanyar
     accented: apanyár
+    rashi: אפאנייאר
 
     translations:
-        inglez: seize
-        fransez: saisir
-        portugez: ''
-        kasteyano: embargar
-        turko: ele geçirmek
+      inglez: seize
+      ebreo:
+        - לתפוס
+        - לאחוז
+        - להחזיק
+      fransez: saisir
+      portugez: ''
+      kasteyano: embargar
+      turko: ele geçirmek
 
 conjugations: {}
 

@@ -4,9 +4,11 @@ orijen: Jeneral
 versions:
   - ladino: absoluto
     accented: absolúto
+    rashi: אבסולוטו
 
     translations:
         inglez: absolute
+        ebreo: מוחלט
         fransez: absolu
         portugez: absoluto
         kasteyano: absoluto

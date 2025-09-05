@@ -3,18 +3,22 @@ orijen: Jeneral
 
 versions:
   - ladino: en
+    rashi: אין
 
     translations:
-        inglez:
+      inglez:
         - in
         - into
         - upon
         - at
         - by
-        fransez: ''
-        portugez: ''
-        kasteyano: en
-        turko:
+      ebreo:
+        - ב
+        - בתוך
+      fransez: ''
+      portugez: ''
+      kasteyano: en
+      turko:
         - içinde
         - da
         - de

@@ -8,7 +8,7 @@ versions:
     translations:
         inglez: like
         fransez: ''
-        portugez: ''
+        portugez: gostar
         kasteyano: gustar
         turko: hoşlanmak
 
@@ -20,7 +20,9 @@ versions:
     translations:
         inglez: be pleasing to
         fransez: ''
-        portugez: ''
+        portugez:
+        - agradar a...
+        - aprazer a...
         kasteyano: gustar a...
         turko: hoşuna gitmek
 
@@ -30,6 +32,7 @@ conjugations:
       ladino: agrado
       translations:
         inglez: like
+        portugez: gosto
         kasteyano: gusto
         turko: beğenildi
 
@@ -37,6 +40,7 @@ conjugations:
       ladino: agradas
       translations:
         inglez: like
+        portugez: gostas
         kasteyano: gustas
         turko: beğenildi
 
@@ -44,6 +48,7 @@ conjugations:
       ladino: agrada
       translations:
         inglez: likes
+        portugez: gosta
         kasteyano: gusta
         turko:
           - beğeniyorum
@@ -54,6 +59,7 @@ conjugations:
       ladino: agradamos
       translations:
         inglez: like
+        portugez: gostamos
         kasteyano: gustamos
         turko: beğeniyoruz
 
@@ -61,6 +67,9 @@ conjugations:
       ladino: agradash
       translations:
         inglez: like
+        portugez:
+        - gostais
+        - gostam
         kasteyano: gustáis
         turko: beğenildiniz
 
@@ -68,6 +77,7 @@ conjugations:
       ladino: agradan
       translations:
         inglez: like
+        portugez: gostam
         kasteyano: gustan
         turko: beğenilir
 

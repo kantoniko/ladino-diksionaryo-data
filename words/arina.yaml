@@ -1,14 +1,21 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
+kategorias:
+  - polvos
 
 versions:
   - ladino: arina
+    rashi: ארינה
+
+    gender: feminine
+    number: singular
 
     translations:
-        inglez: flour
-        fransez: ''
-        portugez: ''
-        kasteyano: harina
-        turko: un
+      inglez: flour
+      ebreo: קמח
+      fransez: ''
+      portugez: ''
+      kasteyano: harina
+      turko: un
 
 

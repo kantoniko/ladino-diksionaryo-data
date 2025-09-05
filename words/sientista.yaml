@@ -12,7 +12,9 @@ versions:
     translations:
       inglez: scientist
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - מדען
+        - מדענית
       portugez: ''
       kasteyano:
         - científico
@@ -27,12 +29,13 @@ versions:
     translations:
       inglez: scientists
       fransez: ''
-      ebreo: ''
+      ebreo:
+        - מדענים
+        - מדעניות
       portugez: ''
       kasteyano:
         - científicos
         - científicas
       turko: ''
-
 
 

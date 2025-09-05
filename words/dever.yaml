@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: dever
     accented: devér
+    rashi: דיבﬞיר
 
     translations:
         inglez: owe
@@ -18,8 +19,292 @@ conjugations:
   prezente:
     yo:
       ladino: devo
+      rashi: דיבﬞו
       translations:
         inglez: owe
         kasteyano: debo
+
+    tu:
+      ladino: deves
+      rashi: דיבﬞיס
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: deve
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: devemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: devésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: deven
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+
+  pasado:
+    yo:
+      ladino: duve
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: duvites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: duvo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: duvimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: duvitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: duvieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: devía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: devías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: devía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: devíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: devíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: devían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: devré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: devrás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: devrá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: devremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: devrésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: devrán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: deva
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: devas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: deva
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: devamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: devásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: devan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: deviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: devieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: deviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: deviéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: devierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: devieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: devría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: devrías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: devría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: devríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: devríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: devrían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: deve
+        # no devas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: deved
+        # no devásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: dever
+#
+#  djerundivo:
+#    ladino: deviendo
+#
+#  partisipio pasado:
+#    ladino: devido
+
+
+
+
 
 

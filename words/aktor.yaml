@@ -11,11 +11,26 @@ versions:
     number: singular
 
     translations:
-        inglez: actor
-        fransez: ''
-        portugez: ''
-        kasteyano: actor
-        turko: aktör
+      inglez: actor
+      ebreo: שחקן
+      fransez: ''
+      portugez: ''
+      kasteyano: actor
+      turko: aktör
+
+  - ladino: aktrisa
+    rashi: אקטריסה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: actress
+      ebreo: שחקנית
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
   - ladino: aktores
     accented: aktóres
@@ -24,11 +39,24 @@ versions:
     number: plural
 
     translations:
-        inglez: actors
-        fransez: ''
-        portugez: ''
-        kasteyano: actores
-        turko: aktör
+      inglez: actors
+      fransez: ''
+      portugez: ''
+      kasteyano: actores
+      turko: aktör
+
+  - ladino: aktrisas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: actresses
+      ebreo: שחקניות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 
 
 

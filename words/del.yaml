@@ -3,9 +3,13 @@ orijen: Jeneral
 
 versions:
   - ladino: del
+    rashi: דיל
 
     translations:
         inglez: of the
+        ebreo:
+          - של
+          - מ
         fransez: ''
         portugez: ''
         kasteyano: del

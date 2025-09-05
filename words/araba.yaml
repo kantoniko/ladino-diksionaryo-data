@@ -6,6 +6,7 @@ kategorias:
 versions:
   - ladino: araba
     accented: arabá
+    rashi: אראבה
 
     gender: feminine
     number: singular
@@ -14,6 +15,9 @@ versions:
         inglez:
           - carriage
           - car
+        ebreo:
+          - עגלה
+          - מרכבה
         fransez: ''
         portugez: ''
         kasteyano:
@@ -23,6 +27,7 @@ versions:
 
   - ladino: arabas
     accented: arabás
+    rashi: אראבאס
 
     gender: feminine
     number: plural
@@ -31,6 +36,9 @@ versions:
         inglez:
           - carriages
           - cars
+        ebreo:
+          - עגלות
+          - מרכבות
         fransez: ''
         portugez: ''
         kasteyano:

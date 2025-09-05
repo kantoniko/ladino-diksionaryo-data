@@ -20,7 +20,7 @@ versions:
     translations:
         inglez: kitchen
         fransez: ''
-        portugez: ''
+        portugez: cozinha
         kasteyano: cocina
         turko: mutfak
 
@@ -40,7 +40,7 @@ versions:
     translations:
         inglez: kitchens
         fransez: ''
-        portugez: ''
+        portugez: cozinhas
         kasteyano: cocinas
         turko: mutfak
 

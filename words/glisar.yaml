@@ -3,6 +3,7 @@ orijen: NA
 
 versions:
   - ladino: glisar
+    rashi: גליסאר
 
     translations:
       inglez: slide
@@ -10,7 +11,9 @@ versions:
       ebreo:
         - להחליק
         - לגלוש
-      portugez: ''
+      portugez:
+         - deslizar
+         - escorregar
       kasteyano: ''
       turko: ''
 

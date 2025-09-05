@@ -1,0 +1,15 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: azer la validja
+
+    translations:
+      inglez: packing
+      ebreo: לערוז
+      fransez: ''
+      portugez: fazer as malas
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

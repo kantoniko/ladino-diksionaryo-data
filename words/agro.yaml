@@ -1,8 +1,9 @@
-grammar: NA
+grammar: adjective
 orijen: Ladinokomunita
 
 versions:
   - ladino: agro
+    rashi: אגרו
 
     gender: masculine
     number: singular
@@ -11,11 +12,14 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוץ
-      portugez: ''
+      portugez:
+         - agro
+         - amargo
       kasteyano: agrio
       turko: ''
 
   - ladino: agra
+    rashi: אגרה
 
     gender: feminine
     number: singular
@@ -24,11 +28,14 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוצה
-      portugez: ''
+      portugez:
+         - agra
+         - amarga
       kasteyano: agria
       turko: ''
 
   - ladino: agros
+    rashi: אגרוס
 
     gender: masculine
     number: plual
@@ -37,11 +44,14 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוצים
-      portugez: ''
+      portugez:
+         - agros
+         - amargos
       kasteyano: agrios
       turko: ''
 
   - ladino: agras
+    rashi: אגראס
 
     gender: feminine
     number: plural
@@ -50,7 +60,9 @@ versions:
       inglez: sour
       fransez: ''
       ebreo: חמוצות
-      portugez: ''
+      portugez:
+         - agras
+         - amargas
       kasteyano: agrias
       turko: ''
 

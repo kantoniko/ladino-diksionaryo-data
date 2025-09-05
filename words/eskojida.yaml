@@ -1,0 +1,24 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: eskojida
+    rashi: איסקוזﬞידה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - selection
+        - sorting
+        - what is chosen
+      ebreo:
+        - בהירה
+        - מיון
+        - מה שנבחר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

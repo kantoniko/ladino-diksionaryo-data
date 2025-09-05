@@ -3,26 +3,32 @@ orijen: Jeneral
 
 versions:
   - ladino: durmir
+    rashi: דורמיר
+
+    alternative-spelling:
+      - ladino: dormir
 
     translations:
-        inglez: sleep
-        fransez: dormir
-        portugez: dormir
-        kasteyano: dormir
-        turko: uyumak
+      inglez: sleep
+      ebreo:
+        - לישון
+        - לנמנם
+      fransez: dormir
+      portugez: dormir
+      kasteyano: dormir
+      turko: uyumak
 
-
-
-  - ladino: durmi
-
-    translations:
+conjugations:
+  pasado:
+    yo:
+      ladino: durmi
+      translations:
         inglez: I slept
+        ebreo: ישנתי
         fransez: ''
         portugez: ''
         kasteyano: durmi
         turko: uyudum
 
-
-conjugations: {}
 
 

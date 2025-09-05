@@ -1,0 +1,23 @@
+grammar: adjective
+orijen: NA
+linguas:
+  - turko
+
+versions:
+  - ladino: tuhaf
+    accented: tuháf
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: ''
+      fransez: ''
+      ebreo:
+          - הפכפך
+          - משונה
+          - מוזר
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

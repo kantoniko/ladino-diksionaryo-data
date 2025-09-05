@@ -15,6 +15,7 @@ kategorias:
   - kestiones
   - kolores
   - komidas
+  - komputadora
   - kontenentes
   - kontinentes
   - kuzina
@@ -27,6 +28,7 @@ kategorias:
   - numeros
   - paises
   - plantas
+  - polvos
   - profesion
   - puerpo
   - relijiones
@@ -53,10 +55,12 @@ orijenes:
   - NA
 linguas:
   - arabo
+  - bulgaro
   - ebreo
   - fransez
   - grego
   - italiano
+  - portugez
   - turko
 gramatika:
   - adjective
@@ -87,6 +91,7 @@ verbos-iregolares:
   - fuyir
   - goler
   - inchir
+  - introdusir
   - ir
   - kaver
   - kayer
@@ -253,6 +258,15 @@ listas:
     - ocho
     - mueve
     - diez
+    - onse
+    - dose
+    - trese
+    - katorse
+    - kinse
+    - vente
+    - trenta
+    - sien
+    - mil
 tiempos:
   - prezente
   - pasado

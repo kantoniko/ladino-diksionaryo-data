@@ -1,11 +1,26 @@
 grammar: NA
 orijen: Jeneral
+linguas:
+  - fransez
 
 versions:
   - ladino: bagaje
+    rashi: באגאזﬞי
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: bagaj
 
     translations:
-        inglez: luggage
+        inglez:
+          - luggage
+          - cargo
+          - equipment
+        ebreo:
+          - מטען
+          - ציוד
         fransez: bagage
         portugez: ''
         kasteyano: equipaje

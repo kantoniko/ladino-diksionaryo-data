@@ -1,17 +1,23 @@
-grammar: NA
+grammar: adverb
 orijen: Jeneral
 
 versions:
   - ladino: finalmente
+    rashi: פﬞינאלמינטי
 
     translations:
-        inglez: finally
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      inglez:
+        - finally
+        - completely
+      ebreo:
+        - לבסוף
+        - לגמרי
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - finalmente
         - por fin
-        turko:
+      turko:
         - nihayet
         - sonunda
 

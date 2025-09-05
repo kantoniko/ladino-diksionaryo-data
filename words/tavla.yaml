@@ -1,0 +1,42 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: tavla
+    rashi: טאבﬞלה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - board
+      ebreo:
+        - לוח
+        - קרש
+        - עץ
+        - מגש
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: tavlas
+    rashi: טאבﬞלאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - boards
+      ebreo:
+        - לוחות
+        - קרשים
+        - עצים
+        - מגשים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

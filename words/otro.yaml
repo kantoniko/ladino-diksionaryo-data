@@ -1,60 +1,76 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: otro
+    rashi: אוטרו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: other
-        fransez: ''
-        portugez: ''
-        kasteyano: otro
-        turko:
+      inglez: other
+      ebreo:
+        - אחר
+        - שונה
+      fransez: ''
+      portugez: ''
+      kasteyano: otro
+      turko:
         - sair
         - diğer
 
   - ladino: otra
+    rashi: אוטרה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: other
-        fransez: ''
-        portugez: ''
-        kasteyano: otra
-        turko:
+      inglez: other
+      ebreo:
+        - אחרת
+        - שונה
+      fransez: ''
+      portugez: ''
+      kasteyano: otra
+      turko:
         - sair
         - diğer
 
   - ladino: otros
+    rashi: אוטרוס
 
     gender: masculine
     number: plural
 
     translations:
-        inglez: other
-        fransez: ''
-        portugez: ''
-        kasteyano: otros
-        turko:
+      inglez: other
+      ebreo:
+        - אחרים
+        - שונים
+      fransez: ''
+      portugez: ''
+      kasteyano: otros
+      turko:
         - sair
         - diğer
 
   - ladino: otras
+    rashi: אוטראס
 
     gender: feminine
     number: plural
 
     translations:
-        inglez: other
-        fransez: ''
-        portugez: ''
-        kasteyano: otras
-        turko:
+      inglez: other
+      ebreo:
+        - אחרות
+        - שונות
+      fransez: ''
+      portugez: ''
+      kasteyano: otras
+      turko:
         - sair
         - diğer
 

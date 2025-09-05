@@ -11,7 +11,7 @@ versions:
     translations:
         inglez: action
         fransez: ''
-        portugez: ''
+        portugez: ação
         kasteyano: acción
         turko:
         - hareket
@@ -27,7 +27,7 @@ versions:
     translations:
         inglez: actions
         fransez: ''
-        portugez: ''
+        portugez: ações
         kasteyano: acciónes
         turko:
         - hareket

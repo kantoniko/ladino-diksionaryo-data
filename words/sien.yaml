@@ -1,0 +1,19 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: sien
+
+    translations:
+        inglez:
+          - hundred
+          - '100'
+        fransez: ''
+        ebreo: מאה
+        portugez: ''
+        kasteyano: cien
+        turko: ''
+
+

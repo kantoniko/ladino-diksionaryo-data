@@ -5,12 +5,19 @@ kategorias:
 
 versions:
   - ladino: kafe
+    accented: kafé
+    rashi: קאפﬞי
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: coffee
+        inglez:
+          - coffee
+          - coffee shop
+        ebreo:
+          - קפה
+          - בית קפה
         fransez: ''
         portugez: ''
         kasteyano: café

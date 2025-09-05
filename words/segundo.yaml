@@ -3,30 +3,35 @@ orijen: Jeneral
 
 versions:
   - ladino: segundo
+    rashi: סיגונדו
 
     gender: masculine
     number: singular
 
     translations:
         inglez: second
+        ebreo: שני
         fransez: ''
         portugez: ''
         kasteyano: segundo
         turko: ikinci
 
   - ladino: segunda
+    rashi: סיגונדה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: second
+        ebreo: שניה
         fransez: ''
         portugez: ''
         kasteyano: segunda
         turko: ikinci
 
   - ladino: segundos
+    rashi: סיגונדוס
 
     gender: masculine
     number: plural
@@ -39,6 +44,7 @@ versions:
         turko: ikinci
 
   - ladino: segundas
+    rashi: סיגונדאס
 
     gender: feminine
     number: plural

@@ -1,0 +1,34 @@
+grammar: NA
+orijen: NA
+linguas:
+  - fransez
+
+versions:
+  - ladino: buketo
+    rashi: בוקיטו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: bouquet
+      ebreo: זר פרחים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: buketos
+    rashi: בוקיטוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: bouquets
+      ebreo: זרי פרחים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

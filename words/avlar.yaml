@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: avlar
+    rashi: אבﬞלאר
 
     translations:
         inglez: speak
@@ -16,18 +17,21 @@ conjugations:
   prezente:
     yo:
       ladino: avlo
+      rashi: אבﬞלו
       translations:
         inglez: speak
         fransez: parle
         turko: konuştu
     tu:
       ladino: avlas
+      rashi: אבﬞלאס
       translations:
         inglez: speak
         fransez: parle
         turko: konuşursun
     el:
       ladino: avla
+      rashi: אבﬞלה
       translations:
         inglez: speaks
         fransez: parle

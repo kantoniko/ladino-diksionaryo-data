@@ -6,6 +6,8 @@ kategorias:
 versions:
   - ladino: uno
     accented: úno
+    rashi: אונו
+
     gender: masculine
     number: singular
 
@@ -14,6 +16,9 @@ versions:
           - one
           - identical
         fransez: un
+        ebreo:
+          - אחד
+          - אחת
         portugez: ''
         kasteyano: uno
         turko:
@@ -23,6 +28,8 @@ versions:
 
   - ladino: una
     accented: úna
+    rashi: אונה
+
     gender: feminine
     number: singular
 

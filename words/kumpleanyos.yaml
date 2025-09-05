@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: kumpleanyos
+    rashi: קומפליאנייוס
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - anniversary
+        - birthday
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: cumpleaños
+      turko: ''
+

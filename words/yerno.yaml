@@ -13,7 +13,7 @@ versions:
     translations:
         inglez: son-in-law
         fransez: gendre
-        portugez: ''
+        portugez: genro
         kasteyano: yerno
         turko: damat
 
@@ -25,7 +25,7 @@ versions:
     translations:
         inglez: sons-in-law
         fransez: gendres
-        portugez: ''
+        portugez: genros
         kasteyano: yernos
         turko: damatlar
 

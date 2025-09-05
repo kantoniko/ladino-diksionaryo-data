@@ -15,7 +15,9 @@ versions:
     translations:
         inglez: (little) boy
         fransez: ''
-        portugez: ''
+        portugez:
+        - filhinho
+        - menininho
         kasteyano: ''
         turko: ''
 

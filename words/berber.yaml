@@ -1,0 +1,22 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+linguas:
+  - turko
+
+versions:
+  - ladino: berber
+    rashi: בירביר
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: barber
+      ebreo: ספר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

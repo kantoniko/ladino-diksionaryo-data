@@ -1,0 +1,19 @@
+grammar: NA
+orijen: Jeneral
+kategorias:
+  - numeros
+
+versions:
+  - ladino: onse
+
+    translations:
+        inglez:
+          - eleven
+          - '11'
+        fransez: ''
+        ebreo: אחדעשר
+        portugez: ''
+        kasteyano: once
+        turko: ''
+
+

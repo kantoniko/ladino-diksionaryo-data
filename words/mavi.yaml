@@ -1,16 +1,27 @@
-grammar: NA
+grammar: adjective
 orijen: Ladinokomunita
 kategorias:
   - kolores
+linguas:
+  - turko
 
 versions:
   - ladino: mavi
     accented: maví
+    rashi: מאבﬞי
+
+    gender: masculine
+    number: singular
+
 
     translations:
-      inglez: blue
+      inglez:
+        - blue
+        - light blue
+      ebreo:
+        - כחול
+        - תכלת
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: azul
       turko: ''

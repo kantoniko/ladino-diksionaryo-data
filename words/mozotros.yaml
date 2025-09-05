@@ -4,11 +4,14 @@ orijen: Jeneral
 versions:
   - ladino: mozotros
     accented: mozótros
+    rashi: מוזוטרוס
+
     gender: masculine
     number: plural
 
     translations:
         inglez: we
+        ebreo: אנחנו
         fransez: nous
         portugez: nós
         kasteyano: nosotros
@@ -16,11 +19,14 @@ versions:
 
   - ladino: mozotras
     accented: mozótras
+    rashi: מוזוטראס
+
     gender: feminine
     number: plural
 
     translations:
         inglez: we
+        ebreo: אנחנו
         fransez: nous
         portugez: nós
         kasteyano: nosotras

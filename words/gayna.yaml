@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: gayna
+    rashi: גאיינה
 
     gender: feminine
     number: singular
@@ -20,6 +21,7 @@ versions:
         turko: piliç
 
   - ladino: gaynas
+    rashi: גאיינאס
 
     gender: feminine
     number: plural

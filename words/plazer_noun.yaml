@@ -1,0 +1,22 @@
+grammar: noun
+orijen: Jeneral
+
+versions:
+  - ladino: plazer
+    accented: plazér
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+        inglez: pleasure
+        ebreo:
+          - עונג
+          - תענוג
+          - הנאה
+        fransez: ''
+        portugez: ''
+        kasteyano: placer
+        turko: memnuniyet
+

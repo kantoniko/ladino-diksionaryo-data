@@ -4,20 +4,23 @@ orijen: Jeneral
 versions:
   - ladino: si
     accented: sí
+    rashi: סי
 
     translations:
-        inglez:
-          - 'yes'
-          - if
-          - himself
-          - herself
-          - it
-        fransez: ''
-        portugez: ''
-        kasteyano: sí
-        turko:
-          - evet
-          - eğer
-          - kendi
+     inglez:
+       - 'yes'
+       - if
+       - himself
+       - herself
+       - it
+     ebreo:
+       - כן
+     fransez: ''
+     portugez: ''
+     kasteyano: sí
+     turko:
+       - evet
+       - eğer
+       - kendi
 
 

@@ -6,49 +6,67 @@ kategorias:
 versions:
   - ladino: blanko
     accented: blánko
+    rashi: בלאנקו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: white
-        fransez: blanc
-        portugez: branco
-        kasteyano: blanco
-        turko: beyaz
+      inglez: white
+      ebreo:
+        - לבן
+        - צח
+        - צחור
+      fransez: blanc
+      portugez: branco
+      kasteyano: blanco
+      turko: beyaz
 
   - ladino: blanka
     accented: blánka
+    rashi: בלאנקה
+
     gender: feminine
     number: singular
 
     translations:
-        inglez: white
-        fransez: blanc
-        portugez: branca
-        kasteyano: blanca
-        turko: beyaz
+      inglez: white
+      ebreo:
+       - לבנה
+      fransez: blanc
+      portugez: branca
+      kasteyano: blanca
+      turko: beyaz
 
   - ladino: blankos
     accented: blánkos
+    rashi: בלאנקוס
+
     gender: masculine
     number: plural
 
     translations:
-        inglez: white
-        fransez: blanc
-        portugez: branco
-        kasteyano: blancos
-        turko: beyaz
+      inglez: white
+      ebreo:
+        - לבנים
+      fransez: blanc
+      portugez: branco
+      kasteyano: blancos
+      turko: beyaz
 
   - ladino: blankas
     accented: blánkas
+    rashi: בלאנקאס
+
     gender: feminine
     number: plural
 
     translations:
-        inglez: white
-        fransez: blanc
-        portugez: branca
-        kasteyano: blancas
-        turko: beyaz
+      inglez: white
+      ebreo:
+        - לבנות
+      fransez: blanc
+      portugez: branca
+      kasteyano: blancas
+      turko: beyaz
 

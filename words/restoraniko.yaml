@@ -1,0 +1,36 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: restoraniko
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - buffet
+      fransez: ''
+      ebreo:
+        - מזנון
+        - מסעדה קטנה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: restoranikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - buffets
+      fransez: ''
+      ebreo:
+        - מזנונים
+        - מסעדות קטנות
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

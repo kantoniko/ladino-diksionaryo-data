@@ -1,0 +1,36 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: pintura
+    rashi: פינטורה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: painting
+      ebreo:
+        - תמונה
+        - ציור
+      fransez: ''
+      portugez: ''
+      kasteyano: pintura
+      turko: ''
+
+  - ladino: pinturas
+    rashi: פינטוראס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: paintings
+      ebreo:
+        - תמונות
+        - ציורים
+      fransez: ''
+      portugez: ''
+      kasteyano: pinturas
+      turko: ''
+

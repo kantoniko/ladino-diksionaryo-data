@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: pais
     accented: país
+    rashi: פאאיס
 
     alternative-spelling:
       - ladino: paez
@@ -21,6 +22,8 @@ versions:
 
     translations:
         inglez: country
+        ebreo:
+          - מדינה
         fransez: pays
         portugez: país
         kasteyano: país
@@ -28,6 +31,7 @@ versions:
 
   - ladino: paises
     accented: países
+    rashi: פאאיסיס
 
     alternative-spelling:
       - ladino: paezes
@@ -40,6 +44,8 @@ versions:
 
     translations:
         inglez: countries
+        ebreo:
+          - מדינות
         fransez: pays
         portugez: país
         kasteyano: países

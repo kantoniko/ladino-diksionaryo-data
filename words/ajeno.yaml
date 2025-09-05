@@ -4,25 +4,40 @@ orijen: Jeneral
 versions:
   - ladino: ajeno
     accented: ajéno
+    rashi: אזﬞינו
+
     gender: masculine
     number: singular
 
     translations:
-        inglez: stranger
+        inglez:
+          - stranger
+          - alien
+          - foreign
+        ebreo:
+          - זר
         fransez: ''
-        portugez: ''
+        portugez:
+        - alheio
+        - estrangeiro
         kasteyano: extranjero
         turko: yabancı
 
   - ladino: ajena
     accented: ajéna
+    rashi: אזﬞינה
+
     gender: feminine
     number: singular
 
     translations:
         inglez: stranger
+        ebreo:
+          - זרה
         fransez: ''
-        portugez: ''
+        portugez:
+        - alheia
+        - estrangeira
         kasteyano: extranjera
         turko: yabancı
 
@@ -34,7 +49,9 @@ versions:
     translations:
         inglez: stranger
         fransez: ''
-        portugez: ''
+        portugez:
+        - alheios
+        - estrangeiros
         kasteyano: extranjeros
         turko: yabancı
 
@@ -46,7 +63,9 @@ versions:
     translations:
         inglez: stranger
         fransez: ''
-        portugez: ''
+        portugez:
+        - alheias
+        - estrangeiras
         kasteyano: extranjeras
         turko: yabancı
 

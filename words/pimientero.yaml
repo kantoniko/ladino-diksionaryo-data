@@ -1,0 +1,22 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+
+versions:
+  - ladino: pimientero
+    rashi: פימיינטירו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: ''
+      ebreo:
+        - עץ פלפל
+        - מוכר פלפלים ותבלינים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''

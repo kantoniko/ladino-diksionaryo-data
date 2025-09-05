@@ -3,12 +3,14 @@ orijen: Jeneral
 
 versions:
   - ladino: problem
+    rashi: פרובלים
 
     translations:
         inglez: problem
+        ebreo: בעיה
         fransez: ''
         portugez: ''
-        kasteyano: problema (el)
+        kasteyano: problema
         turko: problem
 
 

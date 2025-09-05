@@ -13,7 +13,7 @@ versions:
     translations:
         inglez: cousin
         fransez: ''
-        portugez: ''
+        portugez: primo
         kasteyano: primo
         turko: kuzen
 
@@ -25,7 +25,7 @@ versions:
     translations:
         inglez: cousin
         fransez: ''
-        portugez: ''
+        portugez: prima
         kasteyano: prima
         turko: kuzen
 
@@ -37,7 +37,7 @@ versions:
     translations:
         inglez: cousins
         fransez: ''
-        portugez: ''
+        portugez: primos
         kasteyano: primos
         turko: kuzen
 
@@ -49,7 +49,7 @@ versions:
     translations:
         inglez: cousins
         fransez: ''
-        portugez: ''
+        portugez: primas
         kasteyano: primas
         turko: kuzen
 

@@ -4,6 +4,7 @@ orijen: Estanbol
 versions:
   - ladino: kolay
     accented: koláy
+    rashi: קולאיי
 
     #gender: NA # masculine feminine
     number: singular
@@ -24,6 +25,7 @@ versions:
 
     translations:
         inglez: easy
+        ebreo: קלים
         fransez: facile
         portugez: fácil
         kasteyano: fáciles

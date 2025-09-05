@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: te
+    rashi: טי
 
     number: singular
     gender: both

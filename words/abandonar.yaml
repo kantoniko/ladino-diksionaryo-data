@@ -4,10 +4,15 @@ orijen: Jeneral
 versions:
   - ladino: abandonar
     accented: abandonár
+    rashi: אבאנדונאר
 
     translations:
         inglez: abandon
         fransez: abandonner
+        ebreo:
+          - לעזוב
+          - לנטוש
+          - להזניח
         portugez: abandonar
         kasteyano: abandonar
         turko: terk etmek

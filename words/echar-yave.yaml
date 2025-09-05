@@ -1,0 +1,16 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: echar yave
+
+    translations:
+      inglez: lock
+      ebreo:
+        - לנעול
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

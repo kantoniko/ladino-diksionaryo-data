@@ -3,23 +3,27 @@ orijen: NA
 
 versions:
   - ladino: unos
+    rashi: אונוס
 
     gender: masculine
     number: plural
 
     translations:
       inglez: some
+      ebreo: אחדים
       fransez: ''
       kasteyano: unos
       turko: biriler
 
   - ladino: unas
+    rashi: אונאס
 
     gender: feminine
     number: plural
 
     translations:
       inglez: some
+      ebreo: אחדות
       fransez: ''
       kasteyano: unas
       turko: biriler

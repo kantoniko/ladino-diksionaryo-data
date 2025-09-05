@@ -1,0 +1,20 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: pintor
+    rashi: פינטור
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:  painter
+      ebreo: צייר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

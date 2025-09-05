@@ -1,0 +1,18 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: oferta
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: offer
+      fransez: ''
+      ebreo:
+        - הצעה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

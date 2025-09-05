@@ -4,6 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: zaten
     accented: zatén
+    rashi: זאטין
 
     translations:
         inglez:

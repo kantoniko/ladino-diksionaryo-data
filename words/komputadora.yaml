@@ -1,5 +1,7 @@
 grammar: NA
 orijen: Jeneral
+kategorias:
+  - komputadora
 
 versions:
   - ladino: komputadora
@@ -9,11 +11,12 @@ versions:
     number: singular
 
     translations:
-        inglez: computer
-        fransez: ''
-        portugez: ''
-        kasteyano: ordenador
-        turko: bilgisayar
+      inglez: computer
+      ebreo: מחשב
+      fransez: ''
+      portugez: ''
+      kasteyano: ordenador
+      turko: bilgisayar
 
   - ladino: komputadoras
     accented: komputadóras
@@ -22,9 +25,10 @@ versions:
     number: plural
 
     translations:
-        inglez: computers
-        fransez: ''
-        portugez: ''
-        kasteyano: ordenadores
-        turko: bilgisayar
+      inglez: computers
+      ebreo: מחשבים
+      fransez: ''
+      portugez: ''
+      kasteyano: ordenadores
+      turko: bilgisayar
 

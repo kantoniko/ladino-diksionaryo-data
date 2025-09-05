@@ -4,6 +4,8 @@ orijen: Jeneral
 versions:
   - ladino: abatido
     accented: abatído
+    rashi: אבאטידו
+
     gender: masculine
     number: singular
 
@@ -11,6 +13,9 @@ versions:
         inglez:
         - depressed
         - distressed
+        ebreo:
+          - מדוכא
+          - קודר
         fransez: affligé
         portugez: deprimido
         kasteyano:
@@ -20,6 +25,8 @@ versions:
 
   - ladino: abatida
     accented: abatída
+    rashi: אבאטידה
+
     gender: feminine
     number: singular
 
@@ -36,6 +43,8 @@ versions:
 
   - ladino: abatidos
     accented: abatídos
+    rashi: אבאטידוס
+
     gender: masculine
     number: plural
 
@@ -52,6 +61,8 @@ versions:
 
   - ladino: abatidas
     accented: abatídas
+    rashi: אבאטידאס
+
     gender: feminine
     number: plural
 

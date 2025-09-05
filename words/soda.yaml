@@ -5,6 +5,7 @@ kategorias:
 
 versions:
   - ladino: soda
+    rashi: סודה
 
     gender: feminine
     number: singular
@@ -15,6 +16,7 @@ versions:
       ebreo:
         - סודה
         - מים מוגזים
+        - נתרן
       portugez: refrigerante
-      kasteyano: ''
+      kasteyano: soda
       turko: ''

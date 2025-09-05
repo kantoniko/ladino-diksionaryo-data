@@ -14,16 +14,6 @@ versions:
 
   - ladino: plazer
     accented: plazér
-    grammar: noun
-    translations:
-        inglez: pleasure
-        fransez: ''
-        portugez: ''
-        kasteyano: placer
-        turko: memnuniyet
-
-  - ladino: plazer
-    accented: plazér
     translations:
         inglez:
           - please

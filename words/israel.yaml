@@ -5,13 +5,15 @@ kategorias:
 
 versions:
   - ladino: Israel
+    rashi: ישראל
+      #rashi: איסראיל
 
     translations:
       inglez: Israel
+      ebreo: ישראל
       fransez: ''
-      ebreo: ''
-      portugez: ''
-      kasteyano: ''
+      portugez: Israel
+      kasteyano: Israel
       turko: İsrail
 
 

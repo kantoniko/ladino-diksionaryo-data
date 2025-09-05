@@ -3,14 +3,19 @@ orijen: Jeneral
 
 versions:
   - ladino: por
+    rashi: por
 
     translations:
-        inglez:
+      inglez:
         - by
         - for
-        fransez: ''
-        portugez: ''
-        kasteyano: por
-        turko: için
+      ebreo:
+        - בתור
+        - בגלל
+        - כדי
+      fransez: ''
+      portugez: ''
+      kasteyano: por
+      turko: için
 
 

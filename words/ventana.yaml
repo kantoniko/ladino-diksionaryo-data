@@ -5,16 +5,19 @@ kategorias:
 
 versions:
   - ladino: ventana
+    rashi: בﬞינטאנה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez: window
-        fransez: fenêtre
-        portugez: ''
-        kasteyano: ventana
-        turko: pencere
+      inglez: window
+      ebreo:
+        - חלון
+      fransez: fenêtre
+      portugez: ''
+      kasteyano: ventana
+      turko: pencere
 
   - ladino: ventanas
 
@@ -22,11 +25,13 @@ versions:
     number: plural
 
     translations:
-        inglez: windows
-        fransez: fenetrês
-        portugez: ''
-        kasteyano: ventanas
-        turko: pencereler
+      inglez: windows
+      ebreo:
+        - חלונות
+      fransez: fenetrês
+      portugez: ''
+      kasteyano: ventanas
+      turko: pencereler
 
 
 

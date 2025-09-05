@@ -1,3 +1,5 @@
-ladino: Yo so un ombre
-inglez: I am a man
-kasteyano: (Yo) soy hombre / (Yo) soy un hombre
+ladino: Yo so un ombre.
+inglez: I am a man.
+kasteyano:
+  - Yo soy hombre.
+  - Yo soy un hombre.

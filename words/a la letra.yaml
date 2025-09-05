@@ -10,7 +10,9 @@ versions:
         - to the letter
         - literally
         fransez: à la lettre
-        portugez: ''
+        portugez:
+        - ao pé da letra
+        - literalmente
         kasteyano: a rajatabla
         turko: harfiyen
 

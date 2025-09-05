@@ -5,9 +5,13 @@ kategorias:
 
 versions:
   - ladino: ke
+    rashi: קי
 
     translations:
         inglez: what
+        ebreo:
+          - מה
+          - איזה
         fransez: ''
         portugez: ''
         kasteyano: qué
@@ -17,6 +21,9 @@ versions:
 
     translations:
         inglez: that
+        ebreo:
+          - ש-
+          - אשר
         fransez: ''
         portugez: ''
         kasteyano: que

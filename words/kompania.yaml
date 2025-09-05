@@ -1,0 +1,32 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - animales
+linguas:
+  - ebreo
+
+versions:
+  - ladino: kompania
+    accented: kompanía
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: kompanya
+
+    translations:
+      inglez:
+          - community
+          - congregation
+          - fellowship
+      fransez: ''
+      ebreo:
+        - קהל
+        - קהילה
+        - עדה
+        - חברותא
+      portugez: companhia
+      kasteyano: ''
+      turko: ''
+

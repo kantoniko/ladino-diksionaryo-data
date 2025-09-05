@@ -4,7 +4,8 @@ kategorias:
   - linguas
 
 versions:
-  - ladino: Inglez
+  - ladino: inglez
+    rashi: אינגליז
 
     gender: masculine
     number: singular

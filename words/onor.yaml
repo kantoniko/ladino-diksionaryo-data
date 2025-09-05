@@ -3,24 +3,28 @@ orijen: Jeneral
 
 versions:
   - ladino: onor
+    rashi: אונור
 
     gender: masculine
     number: singular
 
     translations:
         inglez: honour
+        ebreo: כבוד
         fransez: ''
         portugez: ''
         kasteyano: honor
         turko: şeref
 
   - ladino: onores
+    rashi: אונוריס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: honour
+        ebreo: כבוד
         fransez: ''
         portugez: ''
         kasteyano: honores

@@ -4,12 +4,22 @@ orijen: Jeneral
 versions:
   - ladino: debate
     accented: debáte
+    rashi: דיבאטי
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: debate
+        inglez:
+          - debate
+          - argument
+          - confrontation
+          - dialogue
+        ebreo:
+          - ויכוח
+          - עימות
+          - פולמוס
+          - דיון
         fransez: ''
         portugez: ''
         kasteyano: debate

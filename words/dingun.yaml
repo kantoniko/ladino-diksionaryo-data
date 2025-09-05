@@ -4,17 +4,20 @@ orijen: Jeneral
 versions:
   - ladino: dingun
     accented: dingún
+    rashi: דינגון
 
     alternative-spelling:
       - ladino: ningun
         accented: ningún
 
     translations:
-        inglez:
+      inglez:
         - 'no'
         - none
-        fransez: ''
-        portugez: ''
-        kasteyano: ninguno
-        turko: hiçbir
+        - nobody
+      ebreo: אף אחד
+      fransez: ''
+      portugez: ''
+      kasteyano: ninguno
+      turko: hiçbir
 

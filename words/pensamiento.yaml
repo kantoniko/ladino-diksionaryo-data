@@ -1,0 +1,32 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: pensamiento
+    rashi: פינסאמיינטו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: thought
+      ebreo: מחשבה
+      fransez: ''
+      portugez: ''
+      kasteyano: pensamiento
+      turko: ''
+
+  - ladino: pensamientos
+    rashi: פינסאמיינטוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: thoughts
+      ebreo: מחשבות
+      fransez: ''
+      portugez: ''
+      kasteyano: pensamientos
+      turko: ''
+

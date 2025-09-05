@@ -4,12 +4,20 @@ orijen: Jeneral
 versions:
   - ladino: abashada
     accented: abasháda
+    rashi: אבאשאדה
+
     gender: feminine
     number: singular
+
     translations:
         inglez: downhill
           # to go
         fransez: descente
+        ebreo:
+          - ירידה
+          - מורד
+          - מדרון
+          - שיפוע
         portugez: descida
         kasteyano:
           - cuesta abajo
@@ -19,11 +27,15 @@ versions:
 
   - ladino: abashada
     accented: abasháda
+
     translations:
         inglez:
         - cold
         - flu
         fransez: rhume
+        ebreo:
+          - נזלת
+          - הצטננות
         portugez: constipacão
         kasteyano:
         - resfriado

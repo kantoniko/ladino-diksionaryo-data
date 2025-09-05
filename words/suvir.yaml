@@ -3,14 +3,20 @@ orijen: Jeneral
 
 versions:
   - ladino: suvir
+    rashi: סובﬞיר
+
     translations:
-        inglez:
+      inglez:
         - mount
         - get up on
-        fransez: ''
-        portugez: ''
-        kasteyano: montar
-        turko: binmek
+      ebreo:
+        - לעלות
+        - לטפס
+        - להעלות
+      fransez: ''
+      portugez: ''
+      kasteyano: montar
+      turko: binmek
 
 conjugations: {}
 

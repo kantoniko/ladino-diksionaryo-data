@@ -5,16 +5,18 @@ kategorias:
 
 versions:
   - ladino: tramvay
+    rashi: טראמבﬞאיי
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: streetcar
-        fransez: ''
-        portugez: ''
-        kasteyano: tranvía
-        turko: tramvay
+      inglez: streetcar
+      ebreo: חשמלית
+      fransez: ''
+      portugez: ''
+      kasteyano: tranvía
+      turko: tramvay
 
   - ladino: tramvayes
 
@@ -22,11 +24,12 @@ versions:
     number: plural
 
     translations:
-        inglez: streetcars
-        fransez: ''
-        portugez: ''
-        kasteyano: tranvías
-        turko: tramvay
+      inglez: streetcars
+      ebreo: חשמליות
+      fransez: ''
+      portugez: ''
+      kasteyano: tranvías
+      turko: tramvay
 
 
 

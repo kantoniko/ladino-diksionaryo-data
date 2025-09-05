@@ -1,50 +1,73 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: largo
+    rashi: לארגו
 
     gender: masculine
     number: singular
 
     translations:
-        inglez: long
+        inglez:
+          - long
+          - far away
+          - generous
+        ebreo:
+          - ארוך
+          - רחוק
+          - נדיב לב
         fransez: ''
         portugez: ''
         kasteyano: largo
         turko: uzun
 
   - ladino: larga
+    rashi: לארגה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: long
+        ebreo:
+          - ארוכה
+          - רחוקה
+          - נדיתב לב
         fransez: ''
         portugez: ''
         kasteyano: larga
         turko: uzun
 
   - ladino: largos
+    rashi: לארגוס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: long
+        ebreo:
+          - ארוכים
+          - רחוקים
+          - נדיבי לב
         fransez: ''
         portugez: ''
         kasteyano: largos
         turko: uzun
 
   - ladino: largas
+    rashi: לארגאס
 
     gender: feminine
     number: plural
 
     translations:
         inglez: long
+        ebreo:
+          - ארוכות
+          - רחוקות
+          - נדיבות לב
         fransez: ''
         portugez: ''
         kasteyano: largas

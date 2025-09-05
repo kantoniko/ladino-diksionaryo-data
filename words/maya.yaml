@@ -1,0 +1,25 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - polvos
+linguas:
+  - turko
+
+versions:
+  - ladino: maya
+    accented: mayá
+    rashi: מאייה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - yeast
+      ebreo:
+        - שאור
+        - שמרים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''

@@ -6,12 +6,14 @@ kategorias:
 versions:
   - ladino: agua
     accented: água
+    rashi: אגואה
 
     gender: feminine
     number: singular
 
     translations:
         inglez: water
+        ebreo: מים
         fransez: ''
         portugez: água
         kasteyano: agua

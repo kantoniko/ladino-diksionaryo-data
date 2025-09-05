@@ -1,0 +1,25 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - famiya
+
+versions:
+  - ladino: elmuera
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: almuera
+
+
+    translations:
+      inglez: daughter-in-law
+      fransez: ''
+      ebreo:
+        - כלה
+        - אשת הבן
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

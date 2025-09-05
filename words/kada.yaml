@@ -1,11 +1,14 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
   - ladino: kada
+    rashi: קאדה
 
     translations:
         inglez: every
+        ebreo:
+          - כל-
         fransez: ''
         portugez: ''
         kasteyano: cada

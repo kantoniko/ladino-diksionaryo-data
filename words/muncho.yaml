@@ -4,6 +4,8 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: muncho
+    rashi: מונגﬞו
+
     gender: masculine
     #number: singular plural
 
@@ -18,6 +20,8 @@ versions:
       turko: çok
 
   - ladino: muncha
+    rashi: מונגﬞה
+
     gender: feminine
     #number: singular plural
 
@@ -30,6 +34,8 @@ versions:
       turko: çok
 
   - ladino: munchos
+    rashi: מונגﬞוס
+
     gender: masculine
     #number: singular plural
 
@@ -42,6 +48,8 @@ versions:
       turko: birçok
 
   - ladino: munchas
+    rashi: מונגﬞאס
+
     gender: feminine
     #number: singular plural
 

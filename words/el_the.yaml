@@ -3,6 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: el
+    rashi: איל
 
     gender: masculine
     number: singular
@@ -15,6 +16,7 @@ versions:
         turko: ''
 
   - ladino: los
+    rashi: לוס
 
     gender: masculine
     number: plural

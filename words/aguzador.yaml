@@ -4,14 +4,36 @@ orijen: Jeneral
 versions:
   - ladino: aguzador
     accented: aguzadór
+    rashi: אגוזאדור
+
+    alternative-spelling:
+      - ladino: agizador
+        rashi: אגיזאדור
 
     gender: masculine
     number: singular
 
     translations:
         inglez: sharpener
+        ebreo: משחיז סכינים
         fransez: aiguiseur
         portugez: afiador
         kasteyano: afilador
         turko: bileyici
+
+  - ladino: aguzadera
+
+    alternative-spelling:
+      - ladino: agizadera
+
+    gender: feminine
+    number: singular
+
+    translations:
+        inglez: sharpener
+        ebreo: משחיז סכינים
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
 

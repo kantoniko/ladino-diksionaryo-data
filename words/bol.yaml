@@ -1,0 +1,21 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+
+versions:
+  - ladino: bol
+    rashi: בול
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: deep bowl
+      ebreo: קערה עמוקה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

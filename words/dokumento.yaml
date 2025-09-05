@@ -13,6 +13,9 @@ versions:
         - document
         - certificate
         fransez: ''
+        ebreo:
+          - מסמך
+          - תעודה
         portugez: ''
         kasteyano:
         - documento
@@ -22,4 +25,24 @@ versions:
         - evrak
         - vesika
         - doküman
+
+
+  - ladino: dokumentos
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez:
+        - documents
+        - certificates
+        fransez: ''
+        ebreo:
+          - מסמfho
+          - תעודu,
+        portugez: ''
+        kasteyano:
+        - documentos
+        - cédulas
+        turko: ''
 

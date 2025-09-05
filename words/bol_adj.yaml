@@ -1,0 +1,28 @@
+grammar: adjective
+orijen: NA
+kategorias:
+  - servisio-de-meza
+  - kuzina
+linguas:
+  - turko
+
+versions:
+  - ladino: bol
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - wide
+        - abundant
+        - enough
+      ebreo:
+        - רחב
+        - שופע
+        - מספיק
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

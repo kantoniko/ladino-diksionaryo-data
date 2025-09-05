@@ -3,13 +3,19 @@ orijen: Jeneral
 
 versions:
   - ladino: baylar
+    rashi: באיילאר
+
+    alternative-spelling:
+      - ladino: bailar
 
     translations:
-        inglez: dance
-        fransez: danser
-        portugez: dançar
-        kasteyano: bailar
-        turko: dansetmek
+      inglez: dance
+      ebreo:
+        - לרקוד
+      fransez: danser
+      portugez: dançar
+      kasteyano: bailar
+      turko: dansetmek
 
 conjugations: {}
 

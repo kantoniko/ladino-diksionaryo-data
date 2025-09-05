@@ -5,6 +5,8 @@ kategorias:
 
 versions:
   - ladino: Yerushalayim
+    rashi: ירושלים
+      #rashi: יירושאלאים
 
     translations:
       inglez: Jerusalem

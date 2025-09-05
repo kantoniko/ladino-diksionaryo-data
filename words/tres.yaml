@@ -5,10 +5,16 @@ kategorias:
 
 versions:
   - ladino: tres
+    rashi: טריס
 
     translations:
-        inglez: three
+        inglez:
+          - three
+          - '3'
         fransez: ''
+        ebreo:
+          - שלוש
+          - שלושה
         portugez: ''
         kasteyano: tres
         turko: üç

@@ -12,7 +12,9 @@ versions:
       inglez: Ladino community
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez:
+      - "Ladinocomunidade"
+      - Comunidade do Ladino
       kasteyano: ''
       turko: ''
 

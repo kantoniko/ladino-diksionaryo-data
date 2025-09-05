@@ -1,0 +1,41 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: enorme
+    rashi: אינורמי
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - huge
+        - immense
+      ebreo:
+        - ענק
+        - ענקי
+        - עצום
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: enormes
+    rashi: אינורמיס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - huge
+        - immense
+      ebreo:
+        - ענקים
+        - עצומים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

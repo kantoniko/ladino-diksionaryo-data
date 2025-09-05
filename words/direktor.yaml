@@ -6,40 +6,44 @@ kategorias:
 versions:
   - ladino: direktor
     accented: direktór
+    rashi: דיריקטור
 
     gender: masculine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - director
         - manager
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: מנהל
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - director
         - empresario
-        turko:
+      turko:
         - yönetici
         - müdür
         - direktör
 
   - ladino: direktora
     accented: direktóra
+    rashi: דיריקטורה
 
     gender: feminine
     number: singular
 
     translations:
-        inglez:
+      inglez:
         - director
         - manager
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: מנהלת
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - directora
         - empresaria
-        turko:
+      turko:
         - yönetici
         - müdür
         - direktör
@@ -51,15 +55,16 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - directors
         - managers
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: מנהלים
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - directores
         - empresarios
-        turko:
+      turko:
         - yönetici
         - müdür
         - direktör
@@ -71,15 +76,16 @@ versions:
     number: plural
 
     translations:
-        inglez:
+      inglez:
         - directors
         - managers
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: מנהלות
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - directoras
         - empresarias
-        turko:
+      turko:
         - yönetici
         - müdür
         - direktör

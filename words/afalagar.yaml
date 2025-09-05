@@ -4,19 +4,26 @@ orijen: Otros
 versions:
   - ladino: afalagar
     accented: afalagár
+    rashi: אפﬞאלאגאר
 
     translations:
-        inglez:
+      inglez:
         - console
         - comfort
-        fransez:
+      ebreo:
+        - להרגיע
+        - לנחם
+      fransez:
         - consoler
         - réconforter
-        portugez: ''
-        kasteyano:
+      portugez:
+        - consolar
+        - confortar
+        - afagar
+      kasteyano:
         - consolar
         - reconfortar
-        turko:
+      turko:
         - avutmak
         - teselli etmek
 

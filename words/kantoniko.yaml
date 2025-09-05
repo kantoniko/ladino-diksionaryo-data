@@ -3,6 +3,7 @@ orijen: NA
 
 versions:
   - ladino: kantoniko
+    rashi: קאנטוניקו
 
     gender: masculine
     number: singular
@@ -13,7 +14,7 @@ versions:
       ebreo: פינה נסתרת
       portugez: ''
       kasteyano: ''
-      turko: ''
+      turko: köşecik
 
   - ladino: kantonikos
 
@@ -26,6 +27,6 @@ versions:
       ebreo: פינות נסתרות
       portugez: ''
       kasteyano: ''
-      turko: ''
+      turko: köşecikler
 
 

@@ -6,26 +6,33 @@ kategorias:
 
 versions:
   - ladino: padre
+    rashi: פאדרי
 
     gender: masculine
     number: singular
 
     translations:
         inglez: father
+        ebreo:
+          - אב
+          - אבא
         fransez: ''
-        portugez: ''
+        portugez: pai
         kasteyano: padre
         turko: baba
 
   - ladino: padres
+    rashi: פאדריס
 
     gender: masculine
     number: plural
 
     translations:
         inglez: fathers
+        ebreo:
+          - אבות
         fransez: ''
-        portugez: ''
+        portugez: pais
         kasteyano: padres
         turko: baba
 

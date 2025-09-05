@@ -1,0 +1,36 @@
+grammar: noun
+orijen: NA
+
+versions:
+  - ladino: reklam
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: advertisement
+      fransez: ''
+      ebreo:
+        - פרסום
+        - פרסומת
+        - תעמולה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: reklama
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: advertisement
+      fransez: ''
+      ebreo:
+        - פרסום
+        - פרסומת
+        - תעמולה
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

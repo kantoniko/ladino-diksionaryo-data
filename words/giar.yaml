@@ -1,0 +1,23 @@
+grammar: verb
+orijen: NA
+
+versions:
+  - ladino: giar
+    rashi: גיאר
+
+    translations:
+      inglez:
+        - guide
+        - lead
+        - manage
+      ebreo:
+        - להדריך
+        - להנחות
+        - להוביל
+        - לנהל
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+conjugations: {}

@@ -6,28 +6,34 @@ kategorias:
 
 versions:
   - ladino: kuchara
+    rashi: קוגﬞארה
 
     gender:  feminine
     number: singular
 
     translations:
-        inglez: spoon
-        fransez: ''
-        portugez: ''
-        kasteyano: cuchara
-        turko: kaşık
+      inglez:
+        - spoon
+        - tablespoon
+      ebreo: כף
+      fransez: ''
+      portugez: ''
+      kasteyano: cuchara
+      turko: kaşık
 
   - ladino: kucharas
+    rashi: קוגﬞאראס
 
     gender:  feminine
     number: plural
 
     translations:
-        inglez: spoons
-        fransez: ''
-        portugez: ''
-        kasteyano: cucharas
-        turko: kaşıklar
+      inglez: spoons
+      ebreo: כפות
+      fransez: ''
+      portugez: ''
+      kasteyano: cucharas
+      turko: kaşıklar
 
 
 

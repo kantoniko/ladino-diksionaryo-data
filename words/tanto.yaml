@@ -4,9 +4,10 @@ orijen: Jeneral
 versions:
   - ladino: tanto
     accented: tánto
+    rashi: טאנטו
 
     gender: masculine
-    #number: singular plural
+    number: singular
 
     translations:
         inglez:
@@ -20,9 +21,10 @@ versions:
 
   - ladino: tanta
     accented: tánta
+    rashi: טאנטה
 
     gender: feminine
-    #number: singular plural
+    number: singular
 
     translations:
         inglez:
@@ -34,5 +36,37 @@ versions:
         - tanta
         turko: o kadar
 
+  - ladino: tantos
+    accented: tántos
+    rashi: טאנטוס
 
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez:
+        - so much
+        - so many
+        fransez: ''
+        portugez: ''
+        kasteyano:
+        - tantos
+        turko: ''
+
+  - ladino: tantas
+    accented: tántas
+    rashi: טאנטאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+        inglez:
+        - so much
+        - so many
+        fransez: ''
+        portugez: ''
+        kasteyano:
+        - tantas
+        turko: ''
 

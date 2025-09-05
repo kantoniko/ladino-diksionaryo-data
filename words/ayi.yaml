@@ -3,11 +3,16 @@ orijen: Jeneral
 
 versions:
   - ladino: ayi
+    accented: ayí
+    rashi: אליי
 
     translations:
         inglez:
           - there
           - just there
+        ebreo:
+          - שם
+          - שמה
         fransez: ''
         portugez: ''
         kasteyano: ahí

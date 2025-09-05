@@ -27,5 +27,27 @@ versions:
       kasteyano: ''
       turko: dişiller
 
+  - ladino: feminina
+    gender: feminine
+    number: singular
 
+    translations:
+      inglez: feminine
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: femininas
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: feminines
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

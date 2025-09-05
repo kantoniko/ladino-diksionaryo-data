@@ -5,12 +5,14 @@ kategorias:
 
 versions:
   - ladino: azul
+    rashi: אזול
 
     translations:
         inglez: blue
+        ebreo:
+          - כחול
         fransez: ''
         portugez: ''
         kasteyano: azul
         turko: ''
-
 

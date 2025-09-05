@@ -7,9 +7,295 @@ versions:
     translations:
         inglez: fit
         fransez: ''
+        ebreo: להתאים
         portugez: ''
         kasteyano: caber
         turko: sığmak
 
-conjugations: {}
+conjugations:
+  prezente:
+    yo:
+      ladino: kavo
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kaves
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kave
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kavemos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: keven
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  pasado:
+    yo:
+      ladino: kaví
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kavites
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kavió
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kavimos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavitesh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kavieron
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperfekto:
+    yo:
+      ladino: kavía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kavías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kavía
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kavíamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavíash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kavían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  futuro:
+    yo:
+      ladino: kavré
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kavrás
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kavrá
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kavremos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavrésh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kavrán
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo:
+    yo:
+      ladino: kavga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kavgas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kavga
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kavgamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavgásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kavgan
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  subjunktivo imperfekto:
+    yo:
+      ladino: kaviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kavieras
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kaviera
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kaviéramos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavierash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kavieran
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  kondisional:
+    yo:
+      ladino: kavría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    tu:
+      ladino: kavrías
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    el:
+      ladino: kavría
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    mozotros:
+      ladino: kavríamos
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kavríash
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    eyos:
+      ladino: kavrían
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+  imperativo:
+    tu:
+      ladino: kave
+        # no kavgas
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+    vozotros:
+      ladino: kaved
+        # no kavgásh
+      translations:
+        inglez: ''
+        kasteyano: ''
+
+# TODO do we need infinitivo here?
+#  infinitivo:
+#    ladino: kaver
+#
+#  djerundivo:
+#    ladino: kaviendo
+#
+#  partisipio pasado:
+#    ladino: kavido
+
+
 

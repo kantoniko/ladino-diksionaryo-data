@@ -1,5 +1,7 @@
 grammar: noun
 orijen: Ladinokomunita
+kategorias:
+  - komputadora
 
 versions:
   - ladino: ekran
@@ -9,8 +11,8 @@ versions:
 
     translations:
       inglez: screen
+      ebreo: מסך
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: pantalla
       turko: ekran
@@ -22,8 +24,8 @@ versions:
 
     translations:
       inglez: screens
+      ebreo: מסכים
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: pantallas
       turko: ekranlar

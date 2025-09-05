@@ -1,11 +1,15 @@
-grammar: NA
+grammar: adverb
 orijen: Jeneral
 
 versions:
   - ladino: muy
+    rashi: מויי
 
     translations:
         inglez: very
+        ebreo:
+          - מאוד
+          - ביותר
         fransez: ''
         portugez: ''
         kasteyano: muy

@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 kategorias:
   - kestiones
@@ -6,37 +6,41 @@ kategorias:
 versions:
   - ladino: kuantos
     accented: kuántos
+    rashi: קואנטוס
 
     gender: masculine
     #number: singular plural
 
     translations:
-        inglez:
+      inglez:
         - how many
         - all those
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: כמה
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - cuantos
-        turko:
+      turko:
         - kaç tane
         - hepsi
 
   - ladino: kuantas
     accented: kuántas
+    rashi: קואנטאס
 
     gender: feminine
     #number: singular plural
 
     translations:
-        inglez:
+      inglez:
         - how many
         - all those
-        fransez: ''
-        portugez: ''
-        kasteyano:
+      ebreo: כמה
+      fransez: ''
+      portugez: ''
+      kasteyano:
         - cuantas
-        turko:
+      turko:
         - kaç tane
         - hepsi
 
