@@ -3,16 +3,46 @@ orijen: Ladinokomunita
 
 versions:
   - ladino: arte
+    rashi: ארטי
 
     gender: masculine
     number: singular
 
     translations:
-      inglez: art
+      inglez:
+        - art
+        - craftsmanship
+        - scam
+        - fraud
+        - deception
+      ebreo:
+        - אמנות
+        - נכל
+        - הונאה
       fransez: ''
-      ebreo: ''
       portugez: ''
       kasteyano: arte
       turko: ''
 
+  - ladino: artes
+    rashi: ארטיס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - arts
+        - craftsmanships
+        - scams
+        - frauds
+        - deceptions
+      ebreo:
+        - אמנות
+        - נכל
+        - הונאה
+      fransez: artes
+      portugez: ''
+      kasteyano: ''
+      turko: ''
 

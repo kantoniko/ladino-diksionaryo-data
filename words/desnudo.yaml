@@ -1,0 +1,102 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: desnudo
+    rashi: דיסנודו
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: desmudo
+        rashi: דיסמודו
+
+    translations:
+      inglez:
+        - naked
+        - exposed
+        - poor
+        - resourceless
+      ebreo:
+        - ערום
+        - חשוף
+        - חסר אמצעים
+      fransez: ''
+      portugez: ''
+      kasteyano: desnudo
+      turko: ''
+
+  - ladino: desnuda
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: desmuda
+
+    translations:
+      inglez:
+        - naked
+        - exposed
+        - poor
+        - resourceless
+      ebreo:
+        - ערומה
+        - חשופה
+        - חסרת אמצעים
+      fransez: ''
+      portugez: ''
+      kasteyano: desnuda
+      turko: ''
+
+
+  - ladino: desnudos
+    rashi: דיסנודוס
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: desmudos
+        rashi: דיסמודוס
+
+    translations:
+      inglez:
+        - naked
+        - exposed
+        - poor
+        - resourceless
+      ebreo:
+        - ערוים
+        - חשופים
+        - חסרי אמצעים
+      fransez: ''
+      portugez: ''
+      kasteyano: desnudos
+      turko: ''
+
+  - ladino: desnudas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: desmudas
+
+    translations:
+      inglez:
+        - naked
+        - exposed
+        - poor
+        - resourceless
+      ebreo:
+        - ערומות
+        - חשופות
+        - חסרות אמצעים
+      fransez: ''
+      portugez: ''
+      kasteyano: desnudas
+      turko: ''
+
+

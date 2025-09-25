@@ -1,0 +1,58 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: beyo
+    rashi: בילייו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: beautiful
+      ebreo: יפה
+      fransez: ''
+      portugez: ''
+      kasteyano: bello
+      turko: ''
+
+  - ladino: beya
+    rashi: בילייה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: beautiful
+      ebreo: יפה
+      fransez: ''
+      portugez: ''
+      kasteyano: bella
+      turko: ''
+
+  - ladino: beyos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: beautiful
+      ebreo: יפים
+      fransez: ''
+      portugez: ''
+      kasteyano: bellos
+      turko: ''
+
+  - ladino: beyas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: beautiful
+      ebreo: יפות
+      fransez: ''
+      portugez: ''
+      kasteyano: bellas
+      turko: ''
+

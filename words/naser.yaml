@@ -11,6 +11,17 @@ versions:
         kasteyano: nacer
         turko: doğmak
 
+
+
+  - ladino: nasyo
+    translations:
+        inglez: was born
+        fransez: ''
+        portugez: ''
+        kasteyano: ''
+        turko: ''
+
+
 conjugations: {}
 
 

@@ -1,0 +1,84 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: desbragado
+    rashi: דיסבראגאדו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - without pants
+        - naked
+        - barefoot
+      ebreo:
+        - בלי מכנסים
+        - ערום
+        - יחף
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: desbragada
+    rashi: דיסבראגאדה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - without pants
+        - naked
+        - barefoot
+      ebreo:
+        - בלי מכנסים
+        - ערומה
+        - יחפה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: desbragados
+    rashi: דיסבראגאדוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - without pants
+        - naked
+        - barefoot
+      ebreo:
+        - בלי מכנסים
+        - ערומים
+        - יחפים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: desbragadas
+    rashi: דיסבראגאדאס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - without pants
+        - naked
+        - barefoot
+      ebreo:
+        - בלי מכנסים
+        - ערומות
+        - יחפות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

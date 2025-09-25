@@ -1,0 +1,86 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: artistiko
+    accented: artístiko
+    rashi: ארטיסטיקו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - artistic
+        - sophisticated
+        - refined
+      ebreo:
+        - אמנותי
+        - מתוחכם
+        - מעודן
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: artistika
+    accented: artístika
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - artistic
+        - sophisticated
+        - refined
+      ebreo:
+        - אמנותית
+        - מתוחכמת
+        - מעודנת
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: artistikos
+    accented: artístikos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - artistic
+        - sophisticated
+        - refined
+      ebreo:
+        - אמנותיים
+        - מתוחכמים
+        - מעודנים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: artistikas
+    accented: artístikas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - artistic
+        - sophisticated
+        - refined
+      ebreo:
+        - אמנותיות
+        - מתוחכמות
+        - מעודנות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+

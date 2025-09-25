@@ -5,6 +5,8 @@ kategorias:
 
 versions:
   - ladino: Fransia
+    alternative-spelling:
+      - ladino: Fransya
 
     translations:
       inglez: France
