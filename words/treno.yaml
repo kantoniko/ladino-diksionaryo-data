@@ -15,7 +15,7 @@ versions:
 
     translations:
         inglez: train
-        fransez: ''
+        fransez: train
         portugez: ''
         kasteyano: tren
         turko: tren
@@ -31,7 +31,7 @@ versions:
 
     translations:
         inglez: trains
-        fransez: ''
+        fransez: trains
         portugez: ''
         kasteyano: trenes
         turko: tren

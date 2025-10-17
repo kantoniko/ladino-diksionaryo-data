@@ -9,7 +9,7 @@ versions:
 
     translations:
         inglez: traitor
-        fransez: ''
+        fransez: traître
         portugez: ''
         kasteyano: traidor
         turko: hain
@@ -21,7 +21,7 @@ versions:
 
     translations:
         inglez: traitor
-        fransez: ''
+        fransez: traîtresse
         portugez: ''
         kasteyano: traidora
         turko: hain
@@ -33,7 +33,7 @@ versions:
 
     translations:
         inglez: traitors
-        fransez: ''
+        fransez: traîtres
         portugez: ''
         kasteyano: traidores
         turko: hain
@@ -45,7 +45,7 @@ versions:
 
     translations:
         inglez: traitors
-        fransez: ''
+        fransez: traîtresses
         portugez: ''
         kasteyano: traidoras
         turko: hain

@@ -3,25 +3,26 @@ orijen: Jeneral
 
 versions:
   - ladino: tronko
-
+# Troncho
     gender: masculine
     number: singular
 
     translations:
         inglez: trunk
-        fransez: ''
+        fransez: tronc
         portugez: ''
         kasteyano: tronco
         turko: kütük
 
   - ladino: tronkos
+# Tronchos
 
     gender: masculine
     number: plural
 
     translations:
         inglez: trunks
-        fransez: ''
+        fransez: troncs
         portugez: ''
         kasteyano: troncos
         turko: kütük

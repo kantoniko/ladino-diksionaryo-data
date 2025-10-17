@@ -16,7 +16,7 @@ versions:
         inglez:
         - jersey
         - sweater
-        fransez: ''
+        fransez: pull
         portugez: ''
         kasteyano: jersey
         turko: kazak
