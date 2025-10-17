@@ -3,15 +3,17 @@ orijen: Jeneral
 
 versions:
   - ladino: yevar
+    rashi: ייבﬞאר
 
     translations:
-        inglez:
+      inglez:
         - carry
         - take
-        fransez: porter
-        portugez: ''
-        kasteyano: llevar
-        turko:
+      ebreo: לקחת
+      fransez: porter
+      portugez: ''
+      kasteyano: llevar
+      turko:
         - götürmek
         - taşımak
 

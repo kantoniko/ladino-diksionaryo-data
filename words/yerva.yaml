@@ -3,11 +3,20 @@ orijen: Jeneral
 
 versions:
   - ladino: yerva
+    rashi:  יירבﬞה
+
+    gender: feminine
+    number: singular
 
     translations:
         inglez:
           - grass
           - turf
+          - moss
+        ebreo:
+          - עשב
+          - דשא
+          - טחב
         fransez: herbe
         portugez: ''
         kasteyano:
