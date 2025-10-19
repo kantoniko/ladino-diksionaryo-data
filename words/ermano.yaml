@@ -13,7 +13,8 @@ versions:
 
     translations:
         inglez: brother
-        fransez: ''
+        fransez: frere
+        ebreo: אח
         portugez: irmão
         kasteyano: hermano
         turko: erkek kardeş
@@ -26,7 +27,8 @@ versions:
 
     translations:
         inglez: sister
-        fransez: ''
+        fransez: soeur
+        ebreo: אחות
         portugez: irmã
         kasteyano: hermana
         turko: kızkardeş
@@ -38,7 +40,8 @@ versions:
 
     translations:
         inglez: brothers
-        fransez: ''
+        fransez: freres
+        ebreo: אחים
         portugez: irmãos
         kasteyano: hermanos
         turko: erkek kardeş
@@ -50,7 +53,8 @@ versions:
 
     translations:
         inglez: sisters
-        fransez: ''
+        fransez: soeurs
+        ebreo: אחיות
         portugez: irmãs
         kasteyano: hermanas
         turko: kızkardeş
