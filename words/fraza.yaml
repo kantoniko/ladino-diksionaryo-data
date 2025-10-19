@@ -13,7 +13,7 @@ versions:
         - phrase
         fransez: phrase
         ebreo: משפט
-        portugez: ''
+        portugez: frase
         kasteyano: frase
         turko: cümle
 
@@ -28,7 +28,7 @@ versions:
         - phrases
         fransez: phrases
         ebreo: משפטים
-        portugez: ''
+        portugez: frases
         kasteyano: frases
         turko: cümle
 
