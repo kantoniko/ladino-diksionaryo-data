@@ -13,6 +13,7 @@ versions:
     translations:
         inglez: arm
         fransez: bras
+        ebreo: זרוע
         portugez: braço
         kasteyano: brazo
         turko: kol
@@ -26,6 +27,7 @@ versions:
     translations:
         inglez: arms
         fransez: bras
+        ebreo: זרועות
         portugez: braços
         kasteyano: brazos
         turko: kol
