@@ -14,7 +14,7 @@ versions:
     translations:
         inglez: woman
         ebreo: אשה
-        fransez: ''
+        fransez: femme
         portugez:
         - mulher
         - esposa
@@ -30,7 +30,7 @@ versions:
     translations:
         inglez: women
         ebreo: נשים
-        fransez: ''
+        fransez: femmes
         portugez:
         - mulheres
         - esposas
