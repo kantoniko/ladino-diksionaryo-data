@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: chair
-        fransez: ''
-        portugez: ''
+        fransez: chaise
+        ebreo: כסא
+        portugez: cadeira
         kasteyano: silla
         turko:
           - sandalye
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: chairs
-        fransez: ''
-        portugez: ''
+        fransez: chaises
+        ebreo: כסאות
+        portugez: cadeiras
         kasteyano: sillas
         turko:
           - sandalyeler
