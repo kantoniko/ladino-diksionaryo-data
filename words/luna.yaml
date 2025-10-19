@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: moon
-        fransez: ''
-        portugez: ''
+        fransez: lune
+        ebreo: ירח
+        portugez: lua
         kasteyano: luna
         turko: ay
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: moons
-        fransez: ''
-        portugez: ''
+        fransez: lunes
+        ebreo: ירחים
+        portugez: luas
         kasteyano: lunas
         turko: aylar
 
