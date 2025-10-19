@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: shoe
-        fransez: ''
-        portugez: ''
+        fransez: chaussure
+        ebreo: נעל
+        portugez: sapato
         kasteyano: zapato
         turko: ayakkabı
 
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: shoes
-        fransez: ''
-        portugez: ''
+        fransez: chaussures
+        ebreo: נעלים
+        portugez: sapatos
         kasteyano: zapatos
         turko: ayakkabı
 
