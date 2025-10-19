@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: shirt
-        fransez: ''
-        portugez: ''
+        fransez: chemise
+        ebreo: חולצה
+        portugez: camisa
         kasteyano: camisa
         turko: gömlek
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: shirts
-        fransez: ''
-        portugez: ''
+        fransez: chemises
+        ebreo: חולצות
+        portugez: camisas
         kasteyano: camisas
         turko: gömlekler
 
