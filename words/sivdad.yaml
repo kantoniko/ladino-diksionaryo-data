@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: city
-        fransez: ''
-        portugez: ''
+        fransez: ville
+        ebreo: עיר
+        portugez: cidade
         kasteyano: ciudad
         turko: şehir
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: cities
-        fransez: ''
-        portugez: ''
+        fransez: ville
+        ebreo: ערים
+        portugez: cidades
         kasteyano: ciudades
         turko: şehir
 
