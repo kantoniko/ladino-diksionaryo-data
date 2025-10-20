@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: word
-        fransez: ''
-        portugez: ''
+        fransez: mot
+        ebreo: מילה
+        portugez: palavra
         kasteyano: palabra
         turko: kelime
 
@@ -27,8 +28,9 @@ versions:
 
     translations:
         inglez: words
-        fransez: ''
-        portugez: ''
+        fransez: mots
+        ebreo: מילים
+        portugez: palavras
         kasteyano: palabras
         turko: kelime
 
