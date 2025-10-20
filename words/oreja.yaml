@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: ear
-        fransez: ''
-        portugez: ''
+        fransez: oreille
+        ebreo: אוזן
+        portugez: orelha
         kasteyano: oreja
         turko: kulak
 
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: ears
-        fransez: ''
-        portugez: ''
+        fransez: oreilles
+        ebreo: אוזניים
+        portugez: orelha
         kasteyano: orejas
         turko: kulaklar
 
