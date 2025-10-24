@@ -14,8 +14,9 @@ versions:
 
     translations:
         inglez: hat
-        fransez: ''
-        portugez: ''
+        fransez: chapeau
+        ebreo: כובע
+        portugez: chapéu
         kasteyano: sombrero
         turko: şapka
 
@@ -31,8 +32,9 @@ versions:
 
     translations:
         inglez: hats
-        fransez: ''
-        portugez: ''
+        fransez: chapeaux
+        ebreo: כובעים
+        portugez: chapéus
         kasteyano: sombreros
         turko: şapka
 
