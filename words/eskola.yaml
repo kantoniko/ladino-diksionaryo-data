@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: school
-        fransez: ''
-        portugez: ''
+        fransez: école
+        ebreo: בית ספר
+        portugez: escola
         kasteyano: escuela
         turko: okul
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: schools
-        fransez: ''
-        portugez: ''
+        fransez: écoles
+        ebreo: בתי ספר
+        portugez: escolas
         kasteyano: escuelas
         turko: okul
 
