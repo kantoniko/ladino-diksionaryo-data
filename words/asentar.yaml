@@ -8,10 +8,10 @@ versions:
     translations:
       inglez: sit
       ebreo:
-        - להושיב
-      fransez: ''
-      portugez: ''
-      kasteyano: ''
+        - לשבת
+      fransez: s'asseoir
+      portugez: sentar
+      kasteyano: sentarse
       turko: ''
 
 conjugations: {}
