@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: teach
-        fransez: ''
-        portugez: ''
+        fransez: enseigner
+        ebreo: ללמד
+        portugez: ensinar
         kasteyano: enseñar
         turko: öğretmek
 
