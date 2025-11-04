@@ -12,8 +12,9 @@ versions:
           - ballpoint pen
           - fountain pen
           - pen
-        fransez: ''
-        portugez: ''
+        fransez: stylo
+        ebreo: עט
+        portugez: caneta
         kasteyano: bolígrafo
         turko: tükenmez kalem
 
@@ -27,8 +28,9 @@ versions:
           - ballpoint pens
           - fountain pens
           - pens
-        fransez: ''
-        portugez: ''
+        fransez: stylos
+        ebreo: עטים
+        portugez: canetas
         kasteyano: bolígrafos
         turko: tükenmez kalem
 
