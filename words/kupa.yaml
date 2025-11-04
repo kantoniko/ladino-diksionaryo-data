@@ -20,8 +20,8 @@ versions:
       ebreo:
         - כוס
         - גביע
-      fransez: ''
-      portugez: ''
+      fransez: tasse
+      portugez: taça
       kasteyano: vaso
       turko: bardak
 
@@ -39,8 +39,8 @@ versions:
       ebreo:
         - כוסות
         - גביעים
-      fransez: ''
-      portugez: ''
+      fransez: tasses
+      portugez: xícaras
       kasteyano: vasos
       turko: bardaklar
 
