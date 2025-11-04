@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: hand
-        fransez: ''
-        portugez: ''
+        fransez: main
+        ebreo: יד
+        portugez: mão
         kasteyano: mano
         turko: el
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: hands
-        fransez: ''
-        portugez: ''
+        fransez: mains
+        ebreo: ידיים
+        portugez: mãos
         kasteyano: manos
         turko: el
 
