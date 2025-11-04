@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: horse
-        fransez: ''
-        portugez: ''
+        fransez: cheval
+        ebreo: סוס
+        portugez: cavalo
         kasteyano: caballo
         turko: at
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: horses
-        fransez: ''
-        portugez: ''
+        fransez: chevaux
+        ebreo: סוסים
+        portugez: cavalos
         kasteyano: caballos
         turko: at
 
