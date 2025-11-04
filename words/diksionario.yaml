@@ -14,8 +14,9 @@ versions:
 
     translations:
         inglez: dictionary
-        fransez: ''
-        portugez: ''
+        fransez: dictionnaire
+        ebreo: מילון
+        portugez: dicionário
         kasteyano: diccionario
         turko:
         - lugat
@@ -33,8 +34,9 @@ versions:
 
     translations:
         inglez: dictionaries
-        fransez: ''
-        portugez: ''
+        fransez: dictionnaires
+        ebreo: מילונים
+        portugez: dicionários
         kasteyano: diccionarios
         turko:
         - lugat
