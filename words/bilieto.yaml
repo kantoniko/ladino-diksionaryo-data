@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: ticket
-        fransez: ''
-        portugez: ''
+        fransez: billet
+        ebreo: כרטיס
+        portugez: bilhete
         kasteyano: billete
         turko: bilet
 
@@ -27,8 +28,9 @@ versions:
 
     translations:
         inglez: tickets
-        fransez: ''
-        portugez: ''
+        fransez: billets
+        ebreo: כרטיסים
+        portugez: bilhetes
         kasteyano: billetes
         turko: bilet
 
