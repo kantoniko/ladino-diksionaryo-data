@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: buy
-        fransez: ''
-        portugez: ''
+        fransez: acheter
+        ebreo: לקנות
+        portugez: comprar
         kasteyano: comprar
         turko: satın almak
 
