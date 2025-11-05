@@ -11,7 +11,8 @@ versions:
     translations:
         inglez: page
         fransez: page
-        portugez: ''
+        ebreo: דף
+        portugez: página
         kasteyano: página
         turko: sayfa
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: pagees
-        fransez: page
-        portugez: ''
+        fransez: pages
+        ebreo: דפים
+        portugez: páginas
         kasteyano: páginas
         turko: sayfa
 
