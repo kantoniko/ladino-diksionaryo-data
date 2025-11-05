@@ -20,8 +20,8 @@ versions:
       ebreo:
         - שפה
         - לשון
-      fransez: ''
-      portugez: ''
+      fransez: langue
+      portugez: linguagem
       kasteyano:
         - lengua
         - lenguaje
@@ -46,7 +46,7 @@ versions:
         - languages
       ebreo:
         - שפות
-      fransez: ''
+      fransez: langues
       portugez: ''
       kasteyano:
         - lenguas
