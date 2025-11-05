@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: potato
-        fransez: ''
-        portugez: ''
+        fransez: pomme de terre
+        ebreo: תפוח אדמה
+        portugez: batata
         kasteyano:
         - papa
         - patata
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: potatoes
-        fransez: ''
-        portugez: ''
+        fransez: pommes de terre
+        ebreo: תפוחי אדמה
+        portugez: batatas
         kasteyano:
         - papas
         - patatas
