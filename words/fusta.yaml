@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: skirt
-        fransez: ''
-        portugez: ''
+        fransez: jupe
+        ebreo: חצאית
+        portugez: saia
         kasteyano: falda
         turko: etek
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: skirts
-        fransez: ''
-        portugez: ''
+        fransez: jupes
+        ebreo: חצאיות
+        portugez: saias
         kasteyano: faldas
         turko: etek
 
