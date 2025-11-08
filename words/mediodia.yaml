@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: noon
-        fransez: ''
-        portugez: ''
+        fransez: midi
+        ebreo: צהריים
+        portugez: meio-dia
         kasteyano: mediodía
         turko: öğle
 
