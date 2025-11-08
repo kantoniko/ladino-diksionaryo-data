@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: morning
-        fransez: ''
-        portugez: ''
+        fransez: matin
+        ebreo: בוקר
+        portugez: manhã
         kasteyano: mañana
         turko: sabah
 
