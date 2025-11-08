@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: egg
-        fransez: ''
-        portugez: ''
+        fransez: œuf
+        ebreo: ביצה
+        portugez: ovo
         kasteyano: huevo
         turko: yumurta
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: eggs
-        fransez: ''
-        portugez: ''
+        fransez: œufs
+        ebreo: ביצים
+        portugez: ovos
         kasteyano: huevos
         turko: yumurta
 
