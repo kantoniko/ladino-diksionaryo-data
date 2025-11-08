@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: boil
-        fransez: ''
-        portugez: ''
+        fransez: bouillir
+        ebreo: להרתיח
+        portugez: ferver
         kasteyano: hervir
         turko: kaynatmak
 
