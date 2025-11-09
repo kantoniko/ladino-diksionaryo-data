@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: expression
-        fransez: ''
-        portugez: ''
+        fransez: expression
+        ebreo: ביטויי
+        portugez: expressão
         kasteyano: expresión
         turko: ifade
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: expressions
-        fransez: ''
-        portugez: ''
+        fransez: expressions
+        ebreo: ביטויים
+        portugez: expressões
         kasteyano: expresiónes
         turko: ifade
 
