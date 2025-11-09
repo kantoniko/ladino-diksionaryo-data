@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: game
-        fransez: ''
-        portugez: ''
+        fransez: jeu
+        ebreo: משחק
+        portugez: jogo
         kasteyano: juego
         turko: oyun
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: games
-        fransez: ''
-        portugez: ''
+        fransez: jeux
+        ebreo: משחקים
+        portugez: jogos
         kasteyano: juegos
         turko: oyunlar
 
