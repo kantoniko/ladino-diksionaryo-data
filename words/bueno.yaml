@@ -11,8 +11,9 @@ versions:
         inglez:
         - good
         - OK
-        fransez: ''
-        portugez: ''
+        fransez: bon
+        ebreo: טוב
+        portugez: bom
         kasteyano: bueno
         turko:
         - peki
@@ -27,8 +28,9 @@ versions:
         inglez:
         - good
         - OK
-        fransez: ''
-        portugez: ''
+        fransez: bonne 
+        ebreo: טובה
+        portugez: boa
         kasteyano: buena
         turko:
         - peki
@@ -43,8 +45,9 @@ versions:
         inglez:
         - good
         - OK
-        fransez: ''
-        portugez: ''
+        fransez: bons
+        ebreo: טובים
+        portugez: bons
         kasteyano: buenos
         turko:
         - peki
@@ -59,8 +62,9 @@ versions:
         inglez:
         - good
         - OK
-        fransez: ''
-        portugez: ''
+        fransez: bonnes
+        ebreo: טובות
+        portugez: boas
         kasteyano: buenas
         turko:
         - peki
