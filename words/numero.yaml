@@ -14,8 +14,9 @@ versions:
           - item
           - turn
           - edition
-        fransez: ''
-        portugez: ''
+        fransez: nombre
+        ebreo: מספר
+        portugez: número
         kasteyano: número
         turko:
           - numara
@@ -34,8 +35,9 @@ versions:
           - items
           - turns
           - editions
-        fransez: ''
-        portugez: ''
+        fransez: nombres
+        ebreo: מספרים
+        portugez: números
         kasteyano: números
         turko:
           - numara
