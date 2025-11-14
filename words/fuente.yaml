@@ -1,0 +1,27 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: fuente
+    rashi: פﬞואינטי
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - spring
+        - source
+        - fountain
+        - tap
+      ebreo:
+        - מעיין
+        - מקור
+        - עין
+        - מזרקה
+        - ברז
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
