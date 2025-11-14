@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: memory
-        fransez: ''
-        portugez: ''
+        fransez: mémoire
+        ebreo: זכרון
+        portugez: memória
         kasteyano: memoria
         turko: hafıza
 
