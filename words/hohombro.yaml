@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: cucumber
-        fransez: ''
-        portugez: ''
+        fransez: concombre
+        ebreo: מלפפון
+        portugez: pepino
         kasteyano: cohombre
         turko:
         - hıyar
