@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: floor
-        fransez: ''
-        portugez: ''
+        fransez: plancher
+        ebreo: רצפה
+        portugez: chão
         kasteyano: suelo
         turko: taban
 
