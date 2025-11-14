@@ -9,8 +9,8 @@ versions:
       inglez: run
       ebreo:
         - לרוץ
-      fransez: ''
-      portugez: ''
+      fransez: courir
+      portugez: correr
       kasteyano: correr
       turko: koşmak
 
