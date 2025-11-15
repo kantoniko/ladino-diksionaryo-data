@@ -1,0 +1,76 @@
+grammar: adjective
+orijen: NA
+linguas:
+  - fransez
+
+versions:
+  - ladino: renomado
+    rashi: רינומאדו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - known
+        - well known
+      ebreo:
+        - מפורסם
+        - ידוע
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: renomada
+    rashi: רינומאדה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - known
+        - well known
+      ebreo:
+        - מפורסמת
+        - ידועה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: renomados
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - known
+        - well known
+      ebreo:
+        - מפורסמים
+        - ידועים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: renomadas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - known
+        - well known
+      ebreo:
+        - מפורסמות
+        - ידועות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

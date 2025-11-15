@@ -3,10 +3,14 @@ orijen: Jeneral
 
 versions:
   - ladino: investigasion
+    accented: investigasión
     rashi: אינבﬞיסטיגאסייון
 
     gender: feminine
     number: singular
+
+    alternative-spelling:
+      - ladino: investigasyon
 
     translations:
         inglez: investigation
@@ -17,7 +21,28 @@ versions:
         portugez: ''
         kasteyano: investigación
         turko:
-        - araştırma
-        - tahkik
+          - araştırma
+          - tahkik
+
+  - ladino: investigasiones
+    accented: investigasiónes
+    rashi: אינבﬞיסטיגאסייואס
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: investigasyones
+
+    translations:
+        inglez: investigations
+        ebreo:
+          - חקירות
+          - מחקרים
+        fransez: ''
+        portugez: ''
+        kasteyano: investigaciónes
+        turko: ''
+
 
 

@@ -1,0 +1,74 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: fizisiano
+    rashi: פﬞיזיסייאנו
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: fizisyano
+
+    translations:
+      inglez: physicist
+      ebreo: פיזיקאי
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: fizisiana
+    rashi: פﬞיזיסייאנה
+
+    gender: feminine
+    number: singular
+
+    alternative-spelling:
+      - ladino: fizisyana
+
+    translations:
+      inglez: physicist
+      ebreo: פיזיקאית
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: fizisianos
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: fizisyanos
+
+    translations:
+      inglez: physicists
+      ebreo: פיזיקאיים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: fizisianas
+
+    gender: feminine
+    number: plural
+
+    alternative-spelling:
+      - ladino: fizisyanas
+
+    translations:
+      inglez: physicists
+      ebreo: פיזיקאיות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+
+

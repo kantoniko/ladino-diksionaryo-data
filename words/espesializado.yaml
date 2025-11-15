@@ -1,0 +1,40 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: espesializado
+
+    gender: masculine
+    number: singular
+
+
+    alternative-spelling:
+      - ladino: espesyalizado
+
+
+    translations:
+      inglez: specialized
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: espesializada
+
+    gender: feminine
+    number: singular
+
+
+    alternative-spelling:
+      - ladino: espesyalizada
+
+
+    translations:
+      inglez: specialized
+      ebreo: ''
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

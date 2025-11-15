@@ -1,0 +1,34 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: kimisto
+    rashi: קימיסטו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: chemist
+      ebreo: כימאי
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: kimista
+    rashi: קימיסטה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: chemist
+      ebreo: כימאית
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,0 +1,20 @@
+grammar: noun
+orijen: NA
+kategorias:
+  - sports
+
+versions:
+  - ladino: santrach
+
+    gender: masculine
+    number: singular
+
+
+    translations:
+      inglez: chess
+      ebreo: שח
+      fransez: ''
+      portugez: ''
+      kasteyano: ajedrez
+      turko: ''
+
