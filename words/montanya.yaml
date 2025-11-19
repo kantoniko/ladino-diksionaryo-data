@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: mountain
-        fransez: ''
-        portugez: ''
+        fransez: montagne
+        ebreo: הר
+        portugez: montanha
         kasteyano: montaña
         turko: dag
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: mountains
-        fransez: ''
-        portugez: ''
+        fransez: montagnes
+        ebreo: הרים
+        portugez: montanhas
         kasteyano: montañas
         turko: dag
 
