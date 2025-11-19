@@ -1,0 +1,19 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: perezidente
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: president
+      ebreo: נשיא
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

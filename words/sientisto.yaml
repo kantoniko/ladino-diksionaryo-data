@@ -1,0 +1,58 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: sientisto
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: scientist
+      ebreo: מדען
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sientista
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: scientist
+      ebreo: מדענית
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sientistos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: scientists
+      ebreo: מדענים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: sientistas
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: scientists
+      ebreo: מדעניות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

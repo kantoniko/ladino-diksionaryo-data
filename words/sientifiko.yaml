@@ -1,0 +1,19 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: sientifiko
+    accented: sientífiko
+    rashi: סיינטיפﬞיקו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez: scientific
+      ebreo: מדעי
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

@@ -1,0 +1,44 @@
+grammar: NA
+orijen: NA
+kategorias:
+  - profesion
+
+versions:
+  - ladino: espion
+    accented: espión
+    rashi: איספייון
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: eshpion
+        accented: eshpión
+        rashi: אישפייון
+
+    translations:
+      inglez: spy
+      ebreo: מרגל
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: espiones
+    accented: espiónes
+
+    gender: masculine
+    number: plural
+
+    alternative-spelling:
+      - ladino: eshpiones
+        accented: eshpiónes
+
+    translations:
+      inglez: spies
+      ebreo: מרגלים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

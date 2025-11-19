@@ -1,0 +1,32 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: seria
+    accented: sería
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez: series
+      ebreo: סדרה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: serias
+    accented: serías
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez: series
+      ebreo: סדרות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

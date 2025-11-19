@@ -1,0 +1,69 @@
+grammar: adjective
+orijen: NA
+linguas:
+  - fransez
+
+versions:
+  - ladino: danjerozo
+    rashi: דאנזﬞירוזו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - dangerous
+      ebreo:
+        - מסוכן
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: danjeroza
+    rashi: דאנזﬞירוזה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - dangerous
+      ebreo:
+        - מסוכנת
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: danjerozos
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - dangerous
+      ebreo:
+        - מסוכנים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: danjerozas
+    rashi: דאנזﬞירוזס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - dangerous
+      ebreo:
+        - מסוכנות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+

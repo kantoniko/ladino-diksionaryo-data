@@ -1,0 +1,25 @@
+grammar: NA
+orijen: NA
+
+versions:
+  - ladino: bomba
+    rashi: בומבה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - bomb
+        - a surprise
+        - lie
+        - deception
+      ebreo:
+        - פצצה
+        - הפתעה
+        - שקר
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
