@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: yesterday
-        fransez: ''
-        portugez: ''
+        fransez: hier
+        ebreo: אתמול
+        portugez: ontem
         kasteyano: ayer
         turko: dün
 
