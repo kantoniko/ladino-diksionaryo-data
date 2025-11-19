@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: river
-        fransez: ''
-        portugez: ''
+        fransez: rivière
+        ebreo: נהר
+        portugez: rio
         kasteyano: río
         turko: nehir
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: rivers
-        fransez: ''
-        portugez: ''
+        fransez: rivières
+        ebreo: נהרות
+        portugez: rios
         kasteyano: ríos
         turko: nehirler
 
