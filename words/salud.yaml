@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: health
-        fransez: ''
-        portugez: ''
+        fransez: santé
+        ebreo: בריאות
+        portugez: saúde
         kasteyano: salud
         turko: sıhhat
 
