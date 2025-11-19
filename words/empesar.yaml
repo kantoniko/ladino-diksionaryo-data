@@ -5,9 +5,12 @@ versions:
   - ladino: empesar
 
     translations:
-        inglez: begin
-        fransez: ''
-        portugez: ''
+        inglez: 
+        - begin
+        - start
+        ebreo: להתחיל
+        fransez: commencer
+        portugez: começar
         kasteyano: empezar
         turko: başlamak
 
