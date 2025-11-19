@@ -1,0 +1,27 @@
+grammar: NA
+orijen: NA
+linguas:
+  - fransez
+
+versions:
+  - ladino: rejim
+    rashi: ריזﬞים
+
+    gender: masculine
+    number: singular
+
+    alternative-spelling:
+      - ladino: rejimen
+        rashi: ריזﬞימין
+
+    translations:
+      inglez:
+        - regime
+      ebreo:
+        - משטר
+        - שלטון
+      fransez: ''
+      portugez: ''
+      kasteyano: régimen
+      turko: ''
+

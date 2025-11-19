@@ -1,0 +1,104 @@
+grammar: adjective
+orijen: NA
+
+versions:
+  - ladino: delikado
+    rashi: דיליקאדו
+
+    gender: masculine
+    number: singular
+
+    translations:
+      inglez:
+        - delicate
+        - sensitive
+        - fragile
+        - loose
+        - kind
+        - thin
+        - skinny
+      ebreo:
+        - עדין
+        - רגיש
+        - שביר
+        - רזה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: delikada
+    rashi: דיליקאדה
+
+    gender: feminine
+    number: singular
+
+    translations:
+      inglez:
+        - delicate
+        - sensitive
+        - fragile
+        - loose
+        - kind
+        - thin
+        - skinny
+      ebreo:
+        - עדינה
+        - רגישה
+        - שבירה
+        - רזה
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: delikados
+    rashi: דיליקאדוס
+
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez:
+        - delicate
+        - sensitive
+        - fragile
+        - loose
+        - kind
+        - thin
+        - skinny
+      ebreo:
+        - עדינים
+        - רגישים
+        - שבירים
+        - רזים
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
+  - ladino: delikadas
+    rashi: דיליקאדס
+
+    gender: feminine
+    number: plural
+
+    translations:
+      inglez:
+        - delicate
+        - sensitive
+        - fragile
+        - loose
+        - kind
+        - thin
+        - skinny
+      ebreo:
+        - עדינות
+        - רגישות
+        - שבירות
+        - רזות
+      fransez: ''
+      portugez: ''
+      kasteyano: ''
+      turko: ''
+
