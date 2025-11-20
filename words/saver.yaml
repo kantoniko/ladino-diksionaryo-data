@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: know
-        fransez: ''
-        portugez: ''
+        ebreo: לדעת
+        fransez: savoir
+        portugez: saber
         kasteyano: saber
         turko: bilmek
 
@@ -53,7 +54,7 @@ conjugations:
     yo:
       ladino: supe
       translations:
-        inglez: ''
+        inglez: knew
         kasteyano: ''
 
     tu:
