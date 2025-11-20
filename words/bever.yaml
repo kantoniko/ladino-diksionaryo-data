@@ -5,9 +5,10 @@ versions:
   - ladino: bever
 
     translations:
-        inglez: drink
-        fransez: ''
-        portugez: ''
+        inglez: to drink
+        fransez: boire
+        ebreo: לשתות
+        portugez: beber
         kasteyano: beber
         turko: içmek
 
