@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: hair
-        fransez: ''
-        portugez: ''
+        fransez: cheveux
+        ebreo: שער
+        portugez: cabelo
         kasteyano: cabello
         turko: saç
 
@@ -21,12 +22,13 @@ versions:
     accented: kavéyos
 
     gender: masculine
-    number: singular
+    number: plural
 
     translations:
-        inglez: hair
-        fransez: ''
-        portugez: ''
+        inglez: hairs
+        fransez: cheveux
+        ebreo: שערות
+        portugez: cabelos
         kasteyano: cabello
         turko: saç
 
