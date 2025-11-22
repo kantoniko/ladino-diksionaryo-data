@@ -8,8 +8,11 @@ versions:
         inglez:
         - leave
         - abandon
-        fransez: ''
-        portugez: ''
+        ebreo: לעזוב 
+        fransez:
+        - partir
+        - laisser
+        portugez: deixar
         kasteyano: dejar
         turko: bırakmak
 
