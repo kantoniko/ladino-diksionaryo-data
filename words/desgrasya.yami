@@ -1,0 +1,14 @@
+grammar: noun
+orijen: Jeneral
+
+versions:
+  - ladino: desgrasya
+    accented: ''
+    
+    translations:
+      inglez: disgrace
+      fransez: disgrâce
+      ebreo: חרפה
+      portugez: desgraça
+      kasteyano: ''
+      turko: ''
