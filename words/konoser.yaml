@@ -8,8 +8,11 @@ versions:
         inglez:
         - know
         - recognize
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - לדעת
+        - להכיר
+        fransez: savoir
+        portugez: aaber
         kasteyano: conocer
         turko: tanımak
 
