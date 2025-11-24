@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: heart
-        fransez: ''
-        portugez: ''
+        ebreo: לב
+        fransez: cœur
+        portugez: coração
         kasteyano: corazón
         turko: kalp
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: hearts
-        fransez: ''
-        portugez: ''
+        ebreo: לבבות
+        fransez: cœurs
+        portugez: corações
         kasteyano: corazónes
         turko: kalp
 
