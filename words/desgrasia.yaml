@@ -3,7 +3,7 @@ orijen: Jeneral
 
 versions:
   - ladino: desgrasia
-   alternative-spelling:
+    alternative-spelling:
       - ladino: desgrasya
     gender: feminine
     number: singular
