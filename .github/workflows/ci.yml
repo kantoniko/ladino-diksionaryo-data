@@ -13,13 +13,13 @@ jobs:
     name: Test code
     steps:
     - name: Checkout ladino-diksionaryo-code
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         repository: 'kantoniko/ladino-diksionaryo-code'
         path: .
 
     - name: Checkout ladino-diksionaryo-data
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
       with:
         repository: 'kantoniko/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
