@@ -16,8 +16,9 @@ versions:
 
     translations:
         inglez: song
-        fransez: ''
-        portugez: ''
+        ebreo: שיר
+        fransez: chanson
+        portugez: canção
         kasteyano: canción
         turko: şarkı
 
@@ -35,8 +36,9 @@ versions:
 
     translations:
         inglez: songs
-        fransez: ''
-        portugez: ''
+        ebreo: שירים
+        fransez: chansons
+        portugez: canções
         kasteyano: canciónes
         turko: şarkı
 
