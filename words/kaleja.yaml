@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: street
-        fransez: ''
-        portugez: ''
+        ebreo: רחוב
+        fransez: rue
+        portugez: rua
         kasteyano: calleja
         turko: sokak
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: streets
-        fransez: ''
-        portugez: ''
+        ebreo: רחובות
+        fransez: rues
+        portugez: ruas
         kasteyano: callejas
         turko: sokak
 
