@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: body
-        fransez: ''
-        portugez: ''
+        ebreo: גוף
+        fransez: corps
+        portugez: corpo
         kasteyano: cuerpo
         turko: vücut
 
@@ -27,8 +28,9 @@ versions:
 
     translations:
         inglez: bodies
-        fransez: ''
-        portugez: ''
+        ebreo: גופים
+        fransez: corps
+        portugez: corpos
         kasteyano: cuerpos
         turko: vücut
 
