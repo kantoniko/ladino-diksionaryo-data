@@ -16,7 +16,8 @@ versions:
         inglez:
         - out
         - outside
-        fransez: ''
+        ebreo: בחוץ
+        fransez: dehors
         portugez: fora
         kasteyano:
         - afuera
