@@ -9,8 +9,9 @@ versions:
         inglez:
           - work
           - job
-        fransez: ''
-        portugez: ''
+        ebreo: עבודה
+        fransez: travail
+        portugez: trabalhar
         kasteyano:
           - labor
           - trabajo
