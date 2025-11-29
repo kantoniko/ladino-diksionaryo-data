@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: kiss
-        fransez: ''
-        portugez: ''
+        ebreo: נשיקה
+        fransez: baiser
+        portugez: beijo
         kasteyano: beso
         turko:
         - buse
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: kisses
-        fransez: ''
-        portugez: ''
+        ebreo: נשיקות
+        fransez: bisous
+        portugez: beijos
         kasteyano: besos
         turko: ''
 
