@@ -16,8 +16,9 @@ versions:
         inglez:
         - force
         - strength
-        fransez: ''
-        portugez: ''
+        ebreo: כוח
+        fransez: force
+        portugez: força
         kasteyano: fuerza
         turko:
         - güç
