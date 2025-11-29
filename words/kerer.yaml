@@ -8,8 +8,9 @@ versions:
         inglez:
         - want
         - love
-        fransez: ''
-        portugez: ''
+        ebreo: לרצות
+        fransez: vouloir
+        portugez: querer
         kasteyano: querer
         turko:
         - istemek
