@@ -16,8 +16,9 @@ versions:
 
     translations:
         inglez: tongue
-        fransez: ''
-        portugez: ''
+        ebreo: לשון
+        fransez: langue
+        portugez: língua
         kasteyano: luenga
         turko: dil
 
@@ -33,8 +34,9 @@ versions:
 
     translations:
         inglez: tongues
-        fransez: ''
-        portugez: ''
+        ebreo: לשונות
+        fransez: langues
+        portugez: línguas
         kasteyano: luengas
         turko: dil
 
