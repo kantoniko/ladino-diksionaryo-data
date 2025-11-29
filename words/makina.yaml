@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: machine
-        fransez: ''
-        portugez: ''
+        ebreo: מכונה
+        fransez: machine
+        portugez: máquina
         kasteyano: máquina
         turko: makine
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: machines
-        fransez: ''
-        portugez: ''
+        ebreo: מכונות
+        fransez: machines
+        portugez: máquinas
         kasteyano: máquinas
         turko: makine
 
