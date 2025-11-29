@@ -14,8 +14,9 @@ versions:
 
     translations:
         inglez: hospital
-        fransez: ''
-        portugez: ''
+        ebreo: בית חולים
+        fransez: hôpital
+        portugez: hospital
         kasteyano: hospital
         turko: hastane
 
@@ -31,8 +32,9 @@ versions:
 
     translations:
         inglez: hospitals
-        fransez: ''
-        portugez: ''
+        ebreo: בתי חולים
+        fransez: hôpitaux
+        portugez: hospitais
         kasteyano: hospitales
         turko: ''
 
