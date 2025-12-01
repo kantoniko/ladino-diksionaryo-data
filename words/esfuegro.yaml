@@ -12,8 +12,11 @@ versions:
 
     translations:
         inglez: father-in-law
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - חם
+        - חותן
+        fransez: beau-père
+        portugez: sogro
         kasteyano: suegro
         turko:
         - kayınpeder
@@ -26,8 +29,9 @@ versions:
 
     translations:
         inglez: mother-in-law
-        fransez: ''
-        portugez: ''
+        ebreo: חמות
+        fransez: belle-mère
+        portugez: sogra
         kasteyano: suegra
         turko:
         - kayınpeder
@@ -39,9 +43,9 @@ versions:
     number: plural
 
     translations:
-        inglez: father-in-law
-        fransez: ''
-        portugez: ''
+        inglez: father-in-laws
+        fransez: beaux-pères
+        portugez: sogros
         kasteyano: suegros
         turko:
         - kayınpeder
@@ -53,9 +57,10 @@ versions:
     number: plural
 
     translations:
-        inglez: mother-in-law
-        fransez: ''
-        portugez: ''
+        inglez: mother-in-laws
+        ebreo: חמות
+        fransez: belles-mères
+        portugez: sogras
         kasteyano: suegras
         turko:
         - kayınpeder
