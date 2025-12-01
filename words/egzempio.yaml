@@ -17,8 +17,9 @@ versions:
 
     translations:
         inglez: example
-        fransez: ''
-        portugez: ''
+        ebreo: דוגמה
+        fransez: exemple
+        portugez: exemplo
         kasteyano: ejemplo
         turko: misâl
 
@@ -34,8 +35,9 @@ versions:
 
     translations:
         inglez: examples
-        fransez: ''
-        portugez: ''
+        ebreo: דוגמאות
+        fransez: exemples
+        portugez: exemplos
         kasteyano: ejemplos
         turko: misâl
 
