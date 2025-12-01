@@ -11,8 +11,9 @@ versions:
         inglez:
         - recipe
         - prescription
-        fransez: ''
-        portugez: ''
+        ebreo: מתכון
+        fransez: recette
+        portugez: receita
         kasteyano: receta
         turko: reçete
 
@@ -25,8 +26,9 @@ versions:
         inglez:
         - recipes
         - prescriptions
-        fransez: ''
-        portugez: ''
+        ebreo: מתכונים
+        fransez: recettes
+        portugez: receitas
         kasteyano: recetas
         turko: reçete
 
