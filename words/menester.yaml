@@ -7,8 +7,13 @@ versions:
 
     translations:
         inglez: necessary
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - הכרחי
+        - נחוץ
+        fransez: nécessaire
+        portugez: 
+        - necessário
+        - necessária
         kasteyano:
         - menester
         - necesidad
