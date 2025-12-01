@@ -11,8 +11,9 @@ versions:
         inglez:
         - ill
         - sick
-        fransez: ''
-        portugez: ''
+        ebreo: חולה
+        fransez: malade
+        portugez: doente
         kasteyano: enfermo
         turko: hasta
 
@@ -25,8 +26,9 @@ versions:
         inglez:
         - ill
         - sick
-        fransez: ''
-        portugez: ''
+        ebreo: חולה
+        fransez: malade
+        portugez: doente
         kasteyano: enferma
         turko: hasta
 
@@ -39,8 +41,9 @@ versions:
         inglez:
         - ill
         - sick
-        fransez: ''
-        portugez: ''
+        ebreo: חולים
+        fransez: malades
+        portugez: doentes
         kasteyano: enfermos
         turko: hastalar
 
@@ -53,8 +56,9 @@ versions:
         inglez:
         - ill
         - sick
-        fransez: ''
-        portugez: ''
+        ebreo: חולות
+        fransez: malades
+        portugez: doentes
         kasteyano: enfermas
         turko: hastalar
 
