@@ -8,8 +8,11 @@ versions:
         inglez:
         - near
         - close
-        fransez: ''
-        portugez: ''
+        ebreo: קרוב
+        fransez: près
+        portugez: 
+        - perto
+        - próximo
         kasteyano:
         - cerca
         - próxima
