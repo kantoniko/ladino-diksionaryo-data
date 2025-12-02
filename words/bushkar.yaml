@@ -7,8 +7,9 @@ versions:
 
     translations:
         inglez: search
-        fransez: ''
-        portugez: ''
+        ebreo: לחפש
+        fransez: chercher
+        portugez: procurar
         kasteyano: buscar
         turko: aramak
 
@@ -18,8 +19,11 @@ versions:
 
     translations:
         inglez: search
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - חפש
+        - חפשי
+        fransez: cherche
+        portugez: procure 
         kasteyano: busca
         turko: ''
 
