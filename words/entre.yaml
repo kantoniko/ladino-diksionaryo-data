@@ -8,8 +8,11 @@ versions:
         inglez:
         - between
         - among
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - בין
+        - בקרב
+        fransez: parmi
+        portugez: entre
         kasteyano: entre
         turko: arasında
 
