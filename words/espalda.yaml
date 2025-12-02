@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: back
-        fransez: ''
-        portugez: ''
+        ebreo: גב
+        fransez: dos
+        portugez: dorso
         kasteyano: espalda
         turko: sırt
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: backs
-        fransez: ''
-        portugez: ''
+        ebreo: גב
+        fransez: dos
+        portugez: dorsos
         kasteyano: espaldas
         turko: sırt
 
