@@ -11,8 +11,11 @@ versions:
         inglez:
         - sorrow
         - trouble
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - צרה
+        - טרחה
+        fransez: peine 
+        portugez: pena 
         kasteyano: pena
         turko:
         - zahmet
