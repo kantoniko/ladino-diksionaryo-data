@@ -17,8 +17,11 @@ versions:
         - while
         - time
         - weather
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - זמן
+        - מזג אווויר
+        fransez: temps
+        portugez: tempo
         kasteyano:
         - tiempo
         - rato
@@ -39,8 +42,9 @@ versions:
 
     translations:
         inglez: times
-        fransez: ''
-        portugez: ''
+        ebreo: זמנים
+        fransez: temps
+        portugez: tempos
         kasteyano: tiempos
         turko: ''
 
