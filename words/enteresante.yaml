@@ -14,8 +14,9 @@ versions:
 
     translations:
         inglez: interesting
-        fransez: ''
-        portugez: ''
+        ebreo: מעניין
+        fransez: intéressant
+        portugez: interessante
         kasteyano: interesante
         turko: ilginç
 
@@ -31,8 +32,9 @@ versions:
 
     translations:
         inglez: interesting
-        fransez: ''
-        portugez: ''
+        ebreo: מעניינים
+        fransez: intéressants
+        portugez: interessantes
         kasteyano: interesantes
         turko: ilginç
 
