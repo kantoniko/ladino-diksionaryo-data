@@ -16,8 +16,9 @@ versions:
 
     translations:
         inglez: cupboard
-        fransez: ''
-        portugez: ''
+        ebreo: ארון
+        fransez: placard
+        portugez: armário
         kasteyano: armario
         turko: dolap
 
@@ -33,8 +34,9 @@ versions:
 
     translations:
         inglez: cupboards
-        fransez: ''
-        portugez: ''
+        ebreo: ארונות
+        fransez: placards
+        portugez: armários
         kasteyano: armarios
         turko: dolaplar
 
