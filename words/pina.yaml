@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: stone
-        fransez: ''
-        portugez: ''
+        ebreo: אבן
+        fransez: pierre
+        portugez: pedra
         kasteyano: piedra
         turko: taş
 
@@ -27,8 +28,9 @@ versions:
 
     translations:
         inglez: stones
-        fransez: ''
-        portugez: ''
+        ebreo: אבנים
+        fransez: pierres
+        portugez: pedras
         kasteyano: piedras
         turko: taş
 
