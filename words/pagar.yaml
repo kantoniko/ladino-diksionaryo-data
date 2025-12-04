@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: pay
-        fransez: ''
-        portugez: ''
+        ebreo: לשלם
+        fransez: payer
+        portugez: pagar
         kasteyano: pagar
         turko: ödemek
 
