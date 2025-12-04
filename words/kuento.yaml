@@ -13,8 +13,16 @@ versions:
           - account
           - bill
           - story
-        fransez: ''
-        portugez: ''
+        ebreo:
+          - חשבון
+          - חשבונית
+          - סיפור
+        fransez: 
+          - facture
+          - histoire
+        portugez: 
+          - conta
+          - história
         kasteyano:
           - cuenta
           - cuento
@@ -32,8 +40,16 @@ versions:
           - accounts
           - bills
           - stories
-        fransez: ''
-        portugez: ''
+        ebreo:
+          - חשבונות
+          - חשבוניות
+          - סיפורים
+        fransez: 
+          - factures
+          - histoires
+        portugez: 
+          - contas
+          - histórias
         kasteyano:
           - cuentas
           - cuentos
