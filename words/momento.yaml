@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: moment
-        fransez: ''
-        portugez: ''
+        ebreo: רגע
+        fransez: moment
+        portugez: momento
         kasteyano: momento
         turko: an
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: moments
-        fransez: ''
-        portugez: ''
+        ebreo: רגעים
+        fransez: moments
+        portugez: momentos
         kasteyano: momentos
         turko: an
 
