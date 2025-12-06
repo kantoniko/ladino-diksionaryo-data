@@ -12,8 +12,15 @@ versions:
         inglez:
         - custom
         - habit
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - מסורת
+        - מנהג
+        fransez:
+        - coutume
+        - habitude
+        portugez: 
+        - costume
+        - hábito
         kasteyano: costumbre
         turko:
         - örf
@@ -32,8 +39,15 @@ versions:
         inglez:
         - customs
         - habits
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - מסורות
+        - מנהגים
+        fransez: 
+        - coutumes
+        - habitudes
+        portugez: 
+        - costume
+        - hábitos
         kasteyano: costumbres
         turko:
         - örf
