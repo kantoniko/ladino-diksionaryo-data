@@ -10,7 +10,8 @@ versions:
 
     translations:
         inglez: that
-        fransez: ''
+        ebreo: ההוא
+        fransez: ce
         portugez: aquilo
         kasteyano: aquello
         turko: o
@@ -23,7 +24,8 @@ versions:
 
     translations:
         inglez: that
-        fransez: ''
+        ebreo: ההיא
+        fransez: cette
         portugez: aquela
         kasteyano: aquella
         turko: o
@@ -36,7 +38,8 @@ versions:
 
     translations:
         inglez: those
-        fransez: ''
+        ebreo: ההם
+        fransez: ces
         portugez: aqueles
         kasteyano: aquellos
         turko: o
@@ -49,7 +52,8 @@ versions:
 
     translations:
         inglez: those
-        fransez: ''
+        ebreo: ההן
+        fransez: cettes
         portugez: aquelas
         kasteyano: aquellas
         turko: o
