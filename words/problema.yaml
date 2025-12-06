@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: problem
-        fransez: ''
-        portugez: ''
+        ebreo: בעיה
+        fransez: problème
+        portugez: problema
         kasteyano: problema
         turko: problem
 
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: problems
-        fransez: ''
-        portugez: ''
+        ebreo: בעיות
+        fransez: problèmes
+        portugez: problemas
         kasteyano: problemas
         turko: problem
 
