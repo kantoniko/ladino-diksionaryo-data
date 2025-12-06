@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: slowly
+        ebreo: לאט
         fransez: lentement
-        portugez: ''
+        portugez: devagar
         kasteyano:
           - despacio
           - lentamente
