@@ -13,12 +13,31 @@ versions:
         - use
         - usage
         - custom
+        ebreo: הרגל
         fransez: usage
-        portugez: ''
+        portugez: USO
         kasteyano: uso
         turko:
         - âdet
         - alışkanlık
         - örf
 
+  - ladino: uzos
+    accented: úzos
 
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez:
+        - uses
+        - usages
+        - customs
+        ebreo: הרגלים
+        fransez: usages
+        portugez: usos
+        kasteyano: usos
+        turko: ""
+        
+        
+      
