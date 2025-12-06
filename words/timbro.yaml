@@ -14,8 +14,13 @@ versions:
         inglez:
         - stamp
         - seal
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - בול
+        - חותמת
+        fransez: timbre
+        portugez: 
+        - selo
+        - carimbo
         kasteyano: sello
         turko:
         - pul
@@ -33,8 +38,13 @@ versions:
         inglez:
         - stamps
         - seals
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - בולים
+        - חותמות
+        fransez: timbres
+        portugez: 
+        - selos
+        - carimbos
         kasteyano: sellos
         turko:
         - pul
