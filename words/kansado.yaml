@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: tired
-        fransez: ''
-        portugez: ''
+        ebreo: עייף
+        fransez: fatigué
+        portugez: cansado
         kasteyano: cansado
         turko: yorgun
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: tired
-        fransez: ''
-        portugez: ''
+        ebreo: עייפה
+        fransez: fatiguée
+        portugez: cansada
         kasteyano: cansada
         turko: yorgun
 
@@ -33,8 +35,9 @@ versions:
 
     translations:
         inglez: tired
-        fransez: ''
-        portugez: ''
+        ebreo: עייפים
+        fransez: fatigués
+        portugez: cansados
         kasteyano: cansados
         turko: yorgun
 
@@ -45,8 +48,9 @@ versions:
 
     translations:
         inglez: tired
-        fransez: ''
-        portugez: ''
+        ebreo: עייפות
+        fransez: fatiguées
+        portugez: cansadas
         kasteyano: cansadas
         turko: yorgun
 
