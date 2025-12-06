@@ -6,8 +6,11 @@ versions:
 
     translations:
         inglez: never
-        fransez: ''
-        portugez: ''
+        ebreo: 
+          - אף פעם
+          - לעולם לא
+        fransez: jamais
+        portugez: nunca
         kasteyano: jamás
         turko: hiçbir zaman
 
