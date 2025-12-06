@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: inheritance
-        fransez: ''
-        portugez: ''
+        ebreo: ירושה
+        fransez: héritage
+        portugez: herança
         kasteyano: herencia
         turko:
         - miras
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: inheritances
-        fransez: ''
-        portugez: ''
+        ebreo: ירושות
+        fransez: héritages
+        portugez: heranças
         kasteyano: herencias
         turko:
         - miras
