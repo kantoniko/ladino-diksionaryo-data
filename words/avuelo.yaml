@@ -13,8 +13,11 @@ versions:
     translations:
         inglez:
         - grandfather
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - סב
+        - סבא
+        fransez: grand-père
+        portugez: avô
         kasteyano:
         - abuelo
         turko:
@@ -29,8 +32,9 @@ versions:
     translations:
         inglez:
         - grandmother
-        fransez: ''
-        portugez: ''
+        ebreo: סבתא
+        fransez: grand-mère
+        portugez: avó
         kasteyano:
         - abuela
         turko:
@@ -44,8 +48,9 @@ versions:
     translations:
         inglez:
         - grandfathers
-        fransez: ''
-        portugez: ''
+        ebreo: סבים
+        fransez: grand-pères
+        portugez: avôs
         kasteyano:
         - abuelos
         turko:
@@ -60,8 +65,9 @@ versions:
     translations:
         inglez:
         - grandmothers
-        fransez: ''
-        portugez: ''
+        ebreo: סבתות
+        fransez: grand-mères
+        portugez: avós
         kasteyano:
         - abuelas
         turko:
