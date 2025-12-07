@@ -13,8 +13,9 @@ versions:
 
     translations:
         inglez: same
-        fransez: ''
-        portugez: ''
+        ebreo: אותו
+        fransez: même
+        portugez: mesmo
         kasteyano: mismo
         turko: aynı
 
@@ -29,8 +30,9 @@ versions:
 
     translations:
         inglez: same
-        fransez: ''
-        portugez: ''
+        ebreo: אותה
+        fransez: même
+        portugez: mesma 
         kasteyano: misma
         turko: aynı
 
@@ -45,8 +47,9 @@ versions:
 
     translations:
         inglez: same
-        fransez: ''
-        portugez: ''
+        ebreo: אותם
+        fransez: mêmes 
+        portugez: mesmos 
         kasteyano: mismos
         turko: aynı
 
@@ -61,8 +64,9 @@ versions:
 
     translations:
         inglez: same
-        fransez: ''
-        portugez: ''
+        ebreo: אותן
+        fransez: mêmes
+        portugez: mesmas 
         kasteyano: mismas
         turko: aynı
 
