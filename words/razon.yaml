@@ -13,8 +13,11 @@ versions:
         - reason
         - right
         - justice
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - סיבה
+        - תבונה
+        fransez: raison
+        portugez: razão
         kasteyano: razón
         turko:
         - sebep
