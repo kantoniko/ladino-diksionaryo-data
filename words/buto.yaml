@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: goal
-        fransez: ''
-        portugez: ''
+        ebreo: מטרה
+        fransez: but
+        portugez: objectivo
         kasteyano: meta
         turko:
         - amaç
@@ -26,8 +27,9 @@ versions:
 
     translations:
         inglez: goals
-        fransez: ''
-        portugez: ''
+        ebreo: מטרות
+        fransez: buts
+        portugez: objectivos
         kasteyano: metas
         turko:
         - amaç
