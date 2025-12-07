@@ -10,9 +10,9 @@ versions:
 
     translations:
       inglez: content
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: contenu
+      ebreo: תוכן
+      portugez: conteúdo
       kasteyano: contenido
       turko: içerik
 
@@ -23,9 +23,9 @@ versions:
 
     translations:
       inglez: contents
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: contenu
+      ebreo: תוכן
+      portugez: conteúdo
       kasteyano: contenidos
       turko: içerikler
 
