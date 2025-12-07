@@ -8,9 +8,10 @@ versions:
     number: singular
 
     translations:
-        inglez: feast
-        fransez: ''
-        portugez: ''
+        inglez: holiday
+        ebreo: חג
+        fransez: fête
+        portugez: feriado
         kasteyano: fiesta
         turko: bayram
 
@@ -20,9 +21,10 @@ versions:
     number: plural
 
     translations:
-        inglez: feasts
-        fransez: ''
-        portugez: ''
+        inglez: holidays
+        ebreo: חגים
+        fransez: fêtes
+        portugez: feriados
         kasteyano: fiestas
         turko: bayram
 
