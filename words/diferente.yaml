@@ -11,9 +11,12 @@ versions:
     translations:
         inglez:
           - different
-          - un like
-        fransez: ''
-        portugez: ''
+          - unlike
+        ebreo: שונה
+        fransez:
+          - différent
+          - différente
+        portugez: diferente
         kasteyano: diferente
         turko:
           - değişik
@@ -28,9 +31,14 @@ versions:
     translations:
         inglez:
           - different
-          - un like
-        fransez: ''
-        portugez: ''
+          - unlike
+        ebreo:
+          - שונים
+          - שונות
+        fransez:
+          - différents
+          - différentes 
+        portugez: diferentes
         kasteyano: diferentes
         turko:
           - değişik
