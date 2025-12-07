@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: share
-        fransez: ''
-        portugez: ''
+        ebreo: לשתף
+        fransez: partager
+        portugez: compartilhar
         kasteyano: compartir
         turko: paylaşmak
 
@@ -15,8 +16,9 @@ versions:
 
     translations:
         inglez: share with you
-        fransez: ''
-        portugez: ''
+        ebreo: לשתף אתכם
+        fransez: partager avec vous
+        portugez: compartilhar com você
         kasteyano: ''
         turko: ''
 
