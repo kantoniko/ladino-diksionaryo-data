@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: group
-        fransez: ''
-        portugez: ''
+        ebreo: קבוצה
+        fransez: groupe
+        portugez: grupo
         kasteyano: grupo
         turko: grup
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: groups
-        fransez: ''
-        portugez: ''
+        ebreo: קבוצות
+        fransez: groupes
+        portugez: grupos
         kasteyano: grupos
         turko: grup
 
