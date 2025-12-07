@@ -13,8 +13,13 @@ versions:
         - rest
         - remainder
         - leftover
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - שארית
+        - יתרה
+        fransez: reste
+        portugez: 
+        - resto
+        - restante
         kasteyano: resto
         turko:
         - kalan
