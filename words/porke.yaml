@@ -7,8 +7,11 @@ versions:
 
     translations:
         inglez: because
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - מפני ש
+        - כי
+        fransez: parce que
+        portugez: porque
         kasteyano: porque
         turko: çünkü
 
