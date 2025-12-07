@@ -7,8 +7,9 @@ versions:
 
     translations:
         inglez: to be
-        fransez: ''
-        portugez: ''
+        ebreo: להיות
+        fransez: être
+        portugez: ser
         kasteyano: estar
         turko:
         - bulunmak
@@ -21,6 +22,7 @@ conjugations:
       rashi: איסטו
       translations:
         inglez: I am
+        fransez: je suis
         kasteyano: ''
 
     tu:
@@ -28,6 +30,7 @@ conjugations:
       rashi: איסטאס
       translations:
         inglez: you are
+        fransez: tu es
         kasteyano: ''
 
     el:
@@ -38,6 +41,9 @@ conjugations:
           - he is
           - she is
           - it is
+        fransez:
+          - il est
+          - elle est
         kasteyano: ''
 
     mozotros:
@@ -45,6 +51,7 @@ conjugations:
       rashi: איסטאמוס
       translations:
         inglez: we are
+        fransez: nous sommes
         kasteyano: ''
 
     vozotros:
@@ -52,6 +59,7 @@ conjugations:
       rashi: איסטאש
       translations:
         inglez: you are
+        fransez: vous êtes
         kasteyano: ''
 
     eyos:
@@ -59,6 +67,7 @@ conjugations:
       rashi: איסטאן
       translations:
         inglez: they are
+        fransez: ils sont
         kasteyano: ''
 
   pasado:
