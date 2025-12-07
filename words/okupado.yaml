@@ -8,9 +8,12 @@ versions:
     number: singular
 
     translations:
-        inglez: busy
-        fransez: ''
-        portugez: ''
+        inglez: 
+        - busy
+        - occupied
+        ebreo: עסוק
+        fransez: occupé
+        portugez: ocupado
         kasteyano: ocupado
         turko: meşgul
 
@@ -20,9 +23,12 @@ versions:
     number: singular
 
     translations:
-        inglez: busy
-        fransez: ''
-        portugez: ''
+        inglez: 
+        - busy
+        - occupied
+        ebreo: עסוקה
+        fransez: occupée
+        portugez: ocupada
         kasteyano: ocupada
         turko: meşgul
 
@@ -32,9 +38,12 @@ versions:
     number: plural
 
     translations:
-        inglez: busy
-        fransez: ''
-        portugez: ''
+        inglez: 
+        - busy
+        - occupied
+        ebreo: עסוקים
+        fransez: occupés
+        portugez: ocupados
         kasteyano: ocupados
         turko: meşgul
 
@@ -44,9 +53,12 @@ versions:
     number: plural
 
     translations:
-        inglez: busy
-        fransez: ''
-        portugez: ''
+        inglez: 
+        - busy
+        - occupied
+        ebreo: עסוקות
+        fransez: occupéess
+        portugez: ocupada
         kasteyano: ocupadas
         turko: meşgul
 
