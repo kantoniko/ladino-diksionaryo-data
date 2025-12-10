@@ -1,4 +1,4 @@
-grammar: NA
+grammar: Noun
 orijen: Jeneral
 kategorias:
   - famiya
@@ -11,8 +11,9 @@ versions:
     number: singular
 
     translations:
-        inglez: grandchild
-        fransez: ''
+        inglez: grandson
+        ebreo: נכד
+        fransez: petit fils
         portugez: neto
         kasteyano: nieto
         turko: torun
@@ -23,8 +24,9 @@ versions:
     number: singular
 
     translations:
-        inglez: grandchild
-        fransez: ''
+        inglez: granddaughter
+        ebreo: נכדה
+        fransez: petite fille
         portugez: neta
         kasteyano: nieta
         turko: torun
@@ -35,8 +37,9 @@ versions:
     number: plural
 
     translations:
-        inglez: grandchildren
-        fransez: ''
+        inglez: grandsons
+        ebreo: נכדים
+        fransez: petits-fils
         portugez: netos
         kasteyano: nietos
         turko: torun
@@ -47,8 +50,9 @@ versions:
     number: plural
 
     translations:
-        inglez: grandchildren
-        fransez: ''
+        inglez: granddaughters
+        ebreo: נכדות
+        fransez: petites-filles
         portugez: netas
         kasteyano: nietas
         turko: torun
