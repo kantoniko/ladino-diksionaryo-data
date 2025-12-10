@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: scissors
-        fransez: ''
-        portugez: ''
+        ebreo: מספריים
+        fransez: ciseaux
+        portugez: tesouras
         kasteyano: tijeras
         turko: makas
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: scissors
-        fransez: ''
-        portugez: ''
+        ebreo: מספריים
+        fransez: ciseaux
+        portugez: tesouras
         kasteyano: tijeras
         turko: makaslar
 
