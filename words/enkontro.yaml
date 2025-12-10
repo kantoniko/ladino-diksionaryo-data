@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: meeting
-        fransez: ''
-        portugez: ''
+        ebreo: פגישה
+        fransez: rencontre
+        portugez: encontro
         kasteyano: encuentro
         turko: karşilaşma
 
@@ -22,8 +23,9 @@ versions:
 
     translations:
         inglez: meetings
-        fransez: ''
-        portugez: ''
+        ebreo: פגישות
+        fransez: rencontres
+        portugez: encontros
         kasteyano: encuentros
         turko: karşilaşma
 
