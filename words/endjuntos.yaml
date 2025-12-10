@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adverb
 orijen: Jeneral
 
 versions:
@@ -8,8 +8,9 @@ versions:
         inglez:
         - together
         - at the same time
-        fransez: ''
-        portugez: ''
+        ebreo: ביחד
+        fransez: ensemble
+        portugez: junto
         kasteyano:
         - junto
         - juntamente
