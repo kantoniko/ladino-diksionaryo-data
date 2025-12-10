@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: side
-        fransez: ''
-        portugez: ''
+        ebreo: צד
+        fransez: côté
+        portugez: lado
         kasteyano: lado
         turko: yan
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: sides
-        fransez: ''
-        portugez: ''
+        ebreo: צדדים
+        fransez: côtés
+        portugez: lados
         kasteyano: lados
         turko: yan
 
