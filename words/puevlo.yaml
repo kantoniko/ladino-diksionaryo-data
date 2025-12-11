@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: people
-        fransez: ''
-        portugez: ''
+        ebreo: עם
+        fransez: peuple
+        portugez: povo
         kasteyano: pueblo
         turko: halk
 
