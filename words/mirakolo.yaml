@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -12,8 +12,9 @@ versions:
 
     translations:
         inglez: miracle
-        fransez: ''
-        portugez: ''
+        ebreo: נס
+        fransez: miracle
+        portugez: milagre
         kasteyano: milagro
         turko: mucize
 
@@ -27,8 +28,9 @@ versions:
 
     translations:
         inglez: miracles
-        fransez: ''
-        portugez: ''
+        ebreo: ניסים
+        fransez: miracles
+        portugez: milagres
         kasteyano: milagros
         turko: mucize
 
