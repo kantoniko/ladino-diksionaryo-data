@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: find
-        fransez: ''
-        portugez: ''
+        ebreo: למצוא
+        fransez: trouver
+        portugez: encontrar
         kasteyano:
           - hallar
           - encontrar
@@ -19,7 +20,7 @@ versions:
 
     translations:
         inglez: was found
-        fransez: ''
+        fransez: été trouvé
         portugez: ''
         kasteyano: ''
         turko: ''
