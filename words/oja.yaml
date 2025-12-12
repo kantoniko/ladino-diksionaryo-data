@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 versions:
   - ladino: oja
@@ -14,8 +14,13 @@ versions:
         inglez:
         - leaf
         - page (of book)
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - עלה
+        - דף
+        fransez: 
+        - feuille
+        - page
+        portugez: folha
         kasteyano: hoja
         turko:
         - yaprak
