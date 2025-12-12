@@ -8,8 +8,9 @@ versions:
         inglez:
         - light
         - ignite
-        fransez: ''
-        portugez: ''
+        ebreo: להדליק
+        fransez: allumer
+        portugez: acender
         kasteyano: encender
         turko: yakmak
 
