@@ -22,8 +22,11 @@ versions:
         inglez:
         - story
         - history
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - סיפור
+        - היסטוריה
+        fransez: histoire
+        portugez: história
         kasteyano: historia
         turko:
         - hıkâye
