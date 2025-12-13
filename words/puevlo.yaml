@@ -4,6 +4,9 @@ orijen: Jeneral
 versions:
   - ladino: puevlo
 
+    gender: masculine
+    number: singular
+
     translations:
         inglez: people
         ebreo: עם
