@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: bone
-        fransez: ''
-        portugez: ''
+        ebreo: עצם
+        fransez: os
+        portugez: osso
         kasteyano: hueso
         turko: kemık
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: bones
-        fransez: ''
-        portugez: ''
+        ebreo: עצמות
+        fransez: os
+        portugez: ossos
         kasteyano: huesos
         turko: kemık
 
