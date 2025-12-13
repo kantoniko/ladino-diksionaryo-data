@@ -9,8 +9,15 @@ versions:
         inglez:
         - news
         - information
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - בשורה
+        - ידיעה
+        fransez: 
+        - nouvelles
+        - information 
+        portugez:
+        - notícia
+        - informação
         kasteyano:
         - noticia
         - información
