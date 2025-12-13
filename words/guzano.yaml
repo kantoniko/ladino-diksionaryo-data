@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: worm
-        fransez: ''
-        portugez: ''
+        ebreo: תולעת
+        fransez: ver
+        portugez: verme
         kasteyano: gusano
         turko: solucan
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: worms
-        fransez: ''
-        portugez: ''
+        ebreo: תולעים
+        fransez: vers
+        portugez: vermes
         kasteyano: gusanos
         turko: solucan
 
