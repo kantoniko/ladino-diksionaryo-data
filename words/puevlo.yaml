@@ -1,13 +1,17 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
   - ladino: puevlo
 
+    gender: masculine
+    number: singular
+
     translations:
         inglez: people
-        fransez: ''
-        portugez: ''
+        ebreo: עם
+        fransez: peuple
+        portugez: povo
         kasteyano: pueblo
         turko: halk
 
