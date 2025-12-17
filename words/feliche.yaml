@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,13 @@ versions:
 
     translations:
         inglez: happy
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - מאושר
+        - מאושרת
+        fransez: 
+        -  heureux
+        -  heureuse
+        portugez: feliz
         kasteyano: feliz
         turko: mutlu
 
@@ -21,8 +26,13 @@ versions:
 
     translations:
         inglez: happy
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - מאושרים
+        - מאושרות
+        fransez: 
+        -  heureux
+        -  heureuses
+        portugez: felizes
         kasteyano: felizes
         turko: mutlu
 
