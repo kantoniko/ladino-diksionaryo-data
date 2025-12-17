@@ -6,8 +6,11 @@ versions:
 
     translations:
         inglez: nothing
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - מאומה
+        - שום דבר
+        fransez: rien
+        portugez: nada
         kasteyano: nada
         turko: hiçbir şey
 
