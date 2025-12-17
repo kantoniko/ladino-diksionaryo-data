@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: minute
-        fransez: ''
-        portugez: ''
+        ebreo: דקה
+        fransez: minute
+        portugez: minuto
         kasteyano: minuto
         turko: dakika
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: minutes
-        fransez: ''
-        portugez: ''
+        ebreo: דקות
+        fransez: minutes
+        portugez: minutos
         kasteyano: minutos
         turko: dakika
 
