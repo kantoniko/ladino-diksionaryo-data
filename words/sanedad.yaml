@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: health
-        fransez: ''
-        portugez: ''
+        ebreo: בריאות
+        fransez: santé
+        portugez: saúde
         kasteyano:
         - sanıdad
         - salud
