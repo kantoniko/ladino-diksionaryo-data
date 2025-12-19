@@ -9,8 +9,15 @@ versions:
 
     translations:
         inglez: guest
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - אורח
+        - אורחת
+        fransez:
+        - invité
+        - invitée
+        portugez: 
+        - convidado
+        - convidada
         kasteyano:
         - huésped
         - convidado
@@ -25,8 +32,15 @@ versions:
 
     translations:
         inglez: guests
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - אורחים
+        - אורחות
+        fransez:
+        - invités
+        - invitées
+        portugez:
+        - convidados
+        - convidadas
         kasteyano:
         - huéspedes
         - convidados
