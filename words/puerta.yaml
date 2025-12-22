@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: door
-        fransez: ''
-        portugez: ''
+        ebreo: דלת
+        fransez: porte
+        portugez: potas
         kasteyano: puerta
         turko: kapı
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: doors
-        fransez: ''
-        portugez: ''
+        ebreo: דלתות
+        fransez: portes
+        portugez: portas
         kasteyano: puertas
         turko: kapılar
 
