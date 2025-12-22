@@ -13,8 +13,8 @@ versions:
     translations:
       inglez: open
       fransez: ouvert
-      ebreo: ''
-      portugez: ''
+      ebreo: פתוח
+      portugez: aberto
       kasteyano: abierto
       turko: açık
 
@@ -29,8 +29,8 @@ versions:
     translations:
       inglez: open
       fransez: ouverte
-      ebreo: ''
-      portugez: ''
+      ebreo: פתוחה
+      portugez: aberta
       kasteyano: abierta
       turko: açık
 
@@ -45,8 +45,8 @@ versions:
     translations:
       inglez: open
       fransez: ouverts
-      ebreo: ''
-      portugez: ''
+      ebreo: פתוחים
+      portugez: aberto
       kasteyano: abiertos
       turko: açıklar
 
@@ -61,8 +61,8 @@ versions:
     translations:
       inglez: open
       fransez: ouvertes
-      ebreo: ''
-      portugez: ''
+      ebreo: פתוחות
+      portugez: abertas
       kasteyano: abiertas
       turko: açıklar
 
