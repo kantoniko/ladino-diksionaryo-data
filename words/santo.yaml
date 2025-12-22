@@ -12,8 +12,9 @@ versions:
         inglez:
         - saint
         - holy
-        fransez: ''
-        portugez: ''
+        ebreo: קדוש
+        fransez: saint
+        portugez: santo
         kasteyano:
         - santo
         turko:
@@ -31,8 +32,9 @@ versions:
         inglez:
         - saint
         - holy
-        fransez: ''
-        portugez: ''
+        ebreo: קדושה
+        fransez: sainte
+        portugez: santa
         kasteyano:
         - santa
         turko:
@@ -50,8 +52,9 @@ versions:
         inglez:
         - saint
         - holy
-        fransez: ''
-        portugez: ''
+        ebreo: קדושים
+        fransez: saints
+        portugez: santos
         kasteyano:
         - santos
         turko:
@@ -69,9 +72,10 @@ versions:
         inglez:
         - saint
         - holy
-        fransez: ''
-        portugez: ''
-        kasteyano:
+        ebreo: קדושות
+        fransez: saintes
+        portugez: santas
+        kasteyano: 
         - santas
         turko:
         - aziz
