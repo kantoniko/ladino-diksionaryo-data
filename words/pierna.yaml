@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - puerpo
@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: thigh
-        fransez: ''
-        portugez: ''
+        ebreo: ירך
+        fransez: cuisse
+        portugez: coxa
         kasteyano: muslo
         turko: baldır
 
@@ -22,9 +23,10 @@ versions:
     number: plural
 
     translations:
-        inglez: thigh
-        fransez: ''
-        portugez: ''
+        inglez: thighs
+        ebreo: ירכיים
+        fransez: cuisses
+        portugez: coxas
         kasteyano: muslos
         turko: baldır
 
