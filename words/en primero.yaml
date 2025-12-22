@@ -3,6 +3,9 @@ orijen: Jeneral
 versions:
   - ladino: en primero
 
+    gender: masculine
+    number: singular
+
     alternative-spelling:
       - ladino: empesijo
 
