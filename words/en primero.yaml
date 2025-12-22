@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 versions:
   - ladino: en primero
@@ -8,8 +8,9 @@ versions:
 
     translations:
         inglez: beginning
-        fransez: ''
-        portugez: ''
+        ebreo: התחלה
+        fransez: début
+        portugez: começo
         kasteyano: principio
         turko:
         - önce
