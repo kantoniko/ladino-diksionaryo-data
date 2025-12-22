@@ -5,9 +5,10 @@ versions:
   - ladino: romper
 
     translations:
-        inglez: break
-        fransez: ''
-        portugez: ''
+        inglez: to break
+        ebreo: לשבור
+        fransez: casser
+        portugez: quebrar
         kasteyano: romper
         turko: kırmak
 
