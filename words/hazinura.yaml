@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -11,8 +11,9 @@ versions:
         inglez:
         - illness
         - sickness
-        fransez: ''
-        portugez: ''
+        ebreo: מחלה
+        fransez: maladie
+        portugez: doença
         kasteyano: enfermedad
         turko: hastalık
 
@@ -25,8 +26,9 @@ versions:
         inglez:
         - illnesses
         - sicknesses
-        fransez: ''
-        portugez: ''
+        ebreo: מחלות
+        fransez: maladies
+        portugez: doenças
         kasteyano: enfermedades
         turko: hastalık
 
