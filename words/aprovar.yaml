@@ -7,8 +7,9 @@ versions:
 
     translations:
         inglez: try
-        fransez: ''
-        portugez: ''
+        ebreo: לנסות
+        fransez: essayer
+        portugez: tentar
         kasteyano:
         - intentar
         - probar
