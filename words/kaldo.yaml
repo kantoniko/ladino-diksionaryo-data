@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: gravy
-        fransez: ''
-        portugez: ''
+        ebreo: רוטב
+        fransez: sauce
+        portugez: molho
         kasteyano: caldo
         turko:
         - et
