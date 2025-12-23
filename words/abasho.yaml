@@ -12,7 +12,14 @@ versions:
           - down
           - downwards
           - below
-        fransez: ''
+        ebreo:
+          - מטה
+          - למטה
+          - תחת
+        fransez:
+          - en bas
+          - vers le bas
+          - dessous
         portugez: 
           - abaixo
           - embaixo
