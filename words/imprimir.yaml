@@ -10,9 +10,10 @@ versions:
         accented: emprimír
 
     translations:
-        inglez: print
-        fransez: ''
-        portugez: ''
+        inglez: to print
+        ebreo: להדפיס
+        fransez: imprimer
+        portugez: imprimir
         kasteyano: imprimir
         turko: basmak
 
