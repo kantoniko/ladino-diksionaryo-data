@@ -5,9 +5,10 @@ versions:
   - ladino: avrir
 
     translations:
-        inglez: open
-        fransez: ''
-        portugez: ''
+        inglez: to open
+        ebreo: לפתוח
+        fransez: ouvrir
+        portugez: abrir
         kasteyano: abrir
         turko: açmak
 
