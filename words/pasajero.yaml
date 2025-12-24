@@ -8,8 +8,9 @@ versions:
 
     translations:
         inglez: passenger
-        fransez: ''
-        portugez: ''
+        ebreo: נוסע
+        fransez: passager
+        portugez: passageiro
         kasteyano: pasajero
         turko: yolcu
 
@@ -20,8 +21,9 @@ versions:
 
     translations:
         inglez: passenger
-        fransez: ''
-        portugez: ''
+        ebreo: נוסעת
+        fransez: passagère
+        portugez: passageira
         kasteyano: pasajera
         turko: yolcu
 
@@ -32,8 +34,9 @@ versions:
 
     translations:
         inglez: passengers
-        fransez: ''
-        portugez: ''
+        ebreo: נוסעים
+        fransez: passagers
+        portugez: passageiros
         kasteyano: pasajeros
         turko: yolcu
 
@@ -44,8 +47,9 @@ versions:
 
     translations:
         inglez: passengers
-        fransez: ''
-        portugez: ''
+        ebreo: נוסעות
+        fransez: passagères
+        portugez: passageiras
         kasteyano: pasajeras
         turko: yolcu
 
