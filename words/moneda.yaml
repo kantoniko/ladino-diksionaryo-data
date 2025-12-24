@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: money
-        fransez: ''
-        portugez: ''
+        ebreo: כסף
+        fransez: argent
+        portugez: dinheiro
         kasteyano: dinero
         turko: para
 
