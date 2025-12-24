@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: fat
-        fransez: ''
-        portugez: ''
+        ebreo: שמן
+        fransez: gros
+        portugez: gordo
         kasteyano: gordo
         turko: şişman 
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: fat
-        fransez: ''
-        portugez: ''
+        ebreo: שמנה
+        fransez: grosse
+        portugez: gorda
         kasteyano: gorda
         turko: şişman 
 
@@ -33,8 +35,9 @@ versions:
 
     translations:
         inglez: fat
-        fransez: ''
-        portugez: ''
+        ebreo: שמנים
+        fransez: gros
+        portugez: gordos
         kasteyano: gordos
         turko: şişmanlar 
 
@@ -45,8 +48,9 @@ versions:
 
     translations:
         inglez: fat
-        fransez: ''
-        portugez: ''
+        ebreo: שמנות
+        fransez: grosses
+        portugez: gordas
         kasteyano: gordas
         turko: şişmanlar 
 
