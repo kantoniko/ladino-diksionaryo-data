@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adverb
 orijen: Jeneral
 
 versions:
@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: across
-        fransez: ''
-        portugez: ''
+        ebreo: ממול
+        fransez: en face de
+        portugez: oposto
         kasteyano: enfrente
         turko: karşısında
 
