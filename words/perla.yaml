@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: pearl
-        fransez: ''
-        portugez: ''
+        ebreo: פנינה
+        fransez: perle
+        portugez: pérola
         kasteyano: perla
         turko: inci
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: pearls
-        fransez: ''
-        portugez: ''
+        ebreo: פנינים
+        fransez: perles
+        portugez: pérolsa
         kasteyano: perlas
         turko: inci
 
