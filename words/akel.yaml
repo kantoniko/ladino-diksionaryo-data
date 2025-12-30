@@ -10,7 +10,8 @@ versions:
 
     translations:
         inglez: that
-        fransez: ''
+        ebreo: ההוא
+        fransez: ce
         portugez: aquele
         kasteyano:
         - aquel
@@ -24,7 +25,8 @@ versions:
 
     translations:
         inglez: that
-        fransez: ''
+        ebreo: ההיא
+        fransez: cette
         portugez: aquela
         kasteyano:
         - aquella
