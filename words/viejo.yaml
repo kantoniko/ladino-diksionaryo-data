@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adjective
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: old
+        ebreo: ישן
         fransez: vieil
-        portugez: ''
+        portugez: velho
         kasteyano: antiguo
         turko: eski
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: old
+        ebreo: ישנה
         fransez: vieille
-        portugez: ''
+        portugez: velha
         kasteyano: antigua
         turko: eski
 
@@ -33,8 +35,9 @@ versions:
 
     translations:
         inglez: old
+        ebreo: ישנים
         fransez: vieux
-        portugez: ''
+        portugez: velhos
         kasteyano: antiguos
         turko: eski
 
@@ -45,8 +48,9 @@ versions:
 
     translations:
         inglez: old
+        ebreo: ישנות
         fransez:  vieilles
-        portugez: ''
+        portugez: velhas
         kasteyano: antiguas
         turko: eski
 
