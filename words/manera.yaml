@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: manner
-        fransez: ''
-        portugez: ''
+        ebreo: אופן
+        fransez: manière
+        portugez: forma
         kasteyano: manera
         turko:
         - tarz
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: manners
-        fransez: ''
-        portugez: ''
+        ebreo: אופנים
+        fransez: manières
+        portugez: formas
         kasteyano: maneras
         turko:
         - tarz
