@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: fly
-        fransez: ''
-        portugez: ''
+        ebreo: זבוב
+        fransez: mouche
+        portugez: mosca
         kasteyano: mosca
         turko: sinek
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: flies
-        fransez: ''
-        portugez: ''
+        ebreo: זבובים
+        fransez: mouches
+        portugez: moscas
         kasteyano: moscas
         turko: sinek
 
