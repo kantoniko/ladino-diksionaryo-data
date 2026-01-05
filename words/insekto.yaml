@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Ladinokomunita
 kategorias:
   - animales
@@ -12,8 +12,8 @@ versions:
 
     translations:
       inglez: insect
-      fransez: ''
-      ebreo: ''
+      fransez: insecte
+      ebreo: חרק
       portugez: inseto
       kasteyano: insecto
       turko: ''
@@ -25,8 +25,8 @@ versions:
 
     translations:
       inglez: insects
-      fransez: ''
-      ebreo: ''
+      fransez: insectes
+      ebreo: חרקים
       portugez: insetos
       kasteyano: insectos
       turko: ''
