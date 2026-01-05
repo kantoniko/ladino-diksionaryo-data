@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: mad
+        ebreo: משוגע
         fransez: fou
-        portugez: ''
+        portugez: louco
         kasteyano: loco
         turko: deli
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: mad
+        ebreo: משוגעת
         fransez: folle
-        portugez: ''
+        portugez: louca
         kasteyano: loca
         turko: deli
 
@@ -33,8 +35,9 @@ versions:
 
     translations:
         inglez: mad
-        fransez: fou
-        portugez: ''
+        ebreo: משוגעים
+        fransez: fous
+        portugez: loucos
         kasteyano: locos
         turko: deli
 
@@ -45,8 +48,9 @@ versions:
 
     translations:
         inglez: mad
-        fransez: folle
-        portugez: ''
+        ebreo: משוגעות
+        fransez: folles
+        portugez: loucas
         kasteyano: locas
         turko: deli
 
