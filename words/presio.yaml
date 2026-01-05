@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: price
-        fransez: ''
-        portugez: ''
+        ebreo: מחיר
+        fransez: prix
+        portugez: preço
         kasteyano: precio
         turko: fiyat
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: prices
-        fransez: ''
-        portugez: ''
+        ebreo: מחירים
+        fransez: prix
+        portugez: preços
         kasteyano: precios
         turko: fiyat
 
