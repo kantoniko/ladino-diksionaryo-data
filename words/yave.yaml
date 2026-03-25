@@ -4,6 +4,9 @@ orijen: Jeneral
 versions:
   - ladino: yave
 
+    gender: feminine
+    number: singular
+
     translations:
         inglez: key
         ebreo: מפתח
