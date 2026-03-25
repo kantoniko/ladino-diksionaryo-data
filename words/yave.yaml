@@ -1,15 +1,19 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
   - ladino: yave
 
+    gender: feminine
+    number: singular
+
     translations:
         inglez: key
+        ebreo: מפתח
         fransez:
           - clé
           - clef
-        portugez: ''
+        portugez: chave
         kasteyano: llave
         turko: anahtar
 
