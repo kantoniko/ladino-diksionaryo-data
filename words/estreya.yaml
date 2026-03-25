@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: star
-        fransez: ''
-        portugez: ''
+        ebreo: כוכב
+        fransez: étoile
+        portugez: estrela
         kasteyano: estrella
         turko: yıldız
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: stars
-        fransez: ''
-        portugez: ''
+        ebreo: כוכבים
+        fransez: étoiles
+        portugez: estrelas
         kasteyano: estrellas
         turko: yıldızlar
 
