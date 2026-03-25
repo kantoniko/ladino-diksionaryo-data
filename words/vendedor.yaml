@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Ladinokomunita
 kategorias:
   - profesion
@@ -11,9 +11,9 @@ versions:
 
     translations:
       inglez: salesman
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: vendeur
+      ebreo: מוכר
+      portugez: vendedor
       kasteyano: vendedor
       turko: ''
 
@@ -24,9 +24,9 @@ versions:
 
     translations:
       inglez: saleswoman
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: vendeuse
+      ebreo: מוכרת
+      portugez: vendedora
       kasteyano: vendedora
       turko: ''
 
@@ -37,9 +37,9 @@ versions:
 
     translations:
       inglez: salesmen
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: vendeurs
+      ebreo: מוכרים
+      portugez: vendedores
       kasteyano: vendedores
       turko: ''
 
@@ -50,9 +50,9 @@ versions:
 
     translations:
       inglez: saleswomen
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: vendeuses
+      ebreo: מוכרות
+      portugez: vendedoras
       kasteyano: vendedoras
       turko: ''
 
