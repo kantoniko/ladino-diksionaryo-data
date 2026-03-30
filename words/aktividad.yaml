@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: activity
-        fransez: ''
-        portugez: ''
+        ebreo: פעילות
+        fransez: activité
+        portugez: atividade
         kasteyano: actividad
         turko:
           - faaliyet
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: activities
-        fransez: ''
-        portugez: ''
+        ebreo: פעילויות
+        fransez: activités
+        portugez: atividades
         kasteyano: actividades
         turko:
           - faaliyet
