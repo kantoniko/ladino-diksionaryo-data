@@ -5,9 +5,12 @@ versions:
   - ladino: tadre
 
     translations:
-        inglez: late
+        inglez: 
+        - evening
+        - late
+        ebreo: ערב
         fransez: soir
-        portugez: ''
+        portugez: noite
         kasteyano: tarde
         turko: geç
 
