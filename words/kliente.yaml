@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: client
-        fransez: ''
-        portugez: ''
+        ebreo: לקוח
+        fransez: client
+        portugez: cliente
         kasteyano: cliente
         turko: müşteri
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: clients
-        fransez: ''
-        portugez: ''
+        ebreo: לקוחות
+        fransez: clients
+        portugez: clientes
         kasteyano: clientes
         turko: müşteri
 
