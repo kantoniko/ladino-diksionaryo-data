@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: silver
-        fransez: ''
-        portugez: ''
+        ebreo: כסף
+        fransez: argent
+        portugez: prata
         kasteyano: plata
         turko: gümüş
 
