@@ -14,8 +14,9 @@ versions:
 
     translations:
         inglez: clean
-        fransez: ''
-        portugez: ''
+        ebreo: נקי
+        fransez: propre
+        portugez: limpo
         kasteyano: limpio
         turko: temiz
 
@@ -31,8 +32,9 @@ versions:
 
     translations:
         inglez: clean
-        fransez: ''
-        portugez: ''
+        ebreo: נקיה
+        fransez: propre
+        portugez: limpa
         kasteyano: limpia
         turko: temiz
 
@@ -48,8 +50,9 @@ versions:
 
     translations:
         inglez: clean
-        fransez: ''
-        portugez: ''
+        ebreo: נקיים
+        fransez: propres
+        portugez: limpos
         kasteyano: limpios
         turko: temiz
 
@@ -65,8 +68,9 @@ versions:
 
     translations:
         inglez: clean
-        fransez: ''
-        portugez: ''
+        ebreo: נקיות
+        fransez: propres
+        portugez: limpas
         kasteyano: limpias
         turko: temiz
 
