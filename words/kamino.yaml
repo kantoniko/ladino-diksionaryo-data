@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -12,8 +12,9 @@ versions:
         inglez:
         - road
         - way
-        fransez: ''
-        portugez: ''
+        ebreo: דרך
+        fransez: route
+        portugez: caminho
         kasteyano: camino
         turko: yol
 
@@ -27,8 +28,9 @@ versions:
         inglez:
         - roads
         - ways
-        fransez: ''
-        portugez: ''
+        ebreo: דרכים
+        fransez: routes
+        portugez: caminhos
         kasteyano: caminos
         turko: yol
 
