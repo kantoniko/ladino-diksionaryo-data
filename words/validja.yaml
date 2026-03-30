@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: suitcase
+        ebreo: מזוודה
         fransez: valise
-        portugez: ''
+        portugez: mala
         kasteyano: maleta
         turko: valiz
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: suitcases
+        ebreo: מזוודות
         fransez: valises
-        portugez: ''
+        portugez: malas
         kasteyano: maletas
         turko: valiz
 
