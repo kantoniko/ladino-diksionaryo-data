@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - kontenentes
@@ -14,8 +14,15 @@ versions:
         inglez:
           - vase
           - glass
-        fransez: vase
-        portugez: ''
+        ebreo: 
+          - אגרטל
+          - כוס
+        fransez: 
+          - vase
+          - verre
+        portugez:
+          - vaso
+          - copo 
         kasteyano: florero
         turko: vazo
 
@@ -28,8 +35,15 @@ versions:
         inglez:
           - vases
           - glasses
-        fransez: ''
-        portugez: ''
+        ebreo: 
+          - אגרטלים
+          - כוסות 
+        fransez:
+          - vases
+          - verres
+        portugez:
+          - vasos 
+          - copos
         kasteyano: floreros
         turko: vazolar
 
