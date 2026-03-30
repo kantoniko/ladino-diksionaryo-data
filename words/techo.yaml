@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -11,8 +11,9 @@ versions:
         inglez:
         - roof
         - ceiling
+        ebreo: גג
         fransez: toit
-        portugez: ''
+        portugez: telhado
         kasteyano: techo
         turko: tavan
 
@@ -25,8 +26,9 @@ versions:
         inglez:
         - roofs
         - ceilings
+        ebreo: גגות
         fransez: toits
-        portugez: ''
+        portugez: telhados
         kasteyano: techos
         turko: tavan
 
