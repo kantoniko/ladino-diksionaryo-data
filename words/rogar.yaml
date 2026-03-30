@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: request
-        fransez: ''
-        portugez: ''
+        ebreo: לבקש
+        fransez: demander
+        portugez: perguntar
         kasteyano: pedir
         turko: rica etmek
 
