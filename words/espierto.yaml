@@ -11,8 +11,9 @@ versions:
         inglez:
         - awake
         - smart
-        fransez: ''
-        portugez: ''
+        ebreo: ער
+        fransez: réveillé
+        portugez: acordado
         kasteyano:
         - despierto
         - listo
@@ -29,8 +30,9 @@ versions:
         inglez:
         - awake
         - smart
-        fransez: ''
-        portugez: ''
+        ebreo: ערה
+        fransez: réveillée
+        portugez: acordada
         kasteyano:
         - despierta
         - lista
@@ -47,8 +49,9 @@ versions:
         inglez:
         - awake
         - smart
-        fransez: ''
-        portugez: ''
+        ebreo: ערים
+        fransez: réveillés
+        portugez: acordados
         kasteyano:
         - despiertos
         - listos
@@ -63,8 +66,9 @@ versions:
         inglez:
         - awake
         - smart
-        fransez: ''
-        portugez: ''
+        ebreo: ערות
+        fransez: réveillées
+        portugez: acordadas
         kasteyano:
         - despiertas
         - listas
