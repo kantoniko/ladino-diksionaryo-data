@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: cigarette
-        fransez: ''
-        portugez: ''
+        ebreo: סיגריה
+        fransez: cigarette
+        portugez: cigarro
         kasteyano: cigarrillo
         turko: sigara
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: cigarettes
-        fransez: ''
-        portugez: ''
+        ebreo: סיגריות
+        fransez: cigarettes
+        portugez: cigarros
         kasteyano: cigarrillos
         turko: sigara
 
