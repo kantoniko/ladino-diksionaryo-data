@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 kategorias:
   - puerpo
@@ -16,8 +16,9 @@ versions:
 
     translations:
         inglez: liver
-        fransez: ''
-        portugez: ''
+        ebreo: כבד
+        fransez: foie
+        portugez: fígado
         kasteyano: hígado
         turko:
         - ciğer
@@ -35,8 +36,9 @@ versions:
 
     translations:
         inglez: livers
-        fransez: ''
-        portugez: ''
+        ebreo: כבדים
+        fransez: foies
+        portugez: fígados
         kasteyano: hígados
         turko:
         - ciğer
