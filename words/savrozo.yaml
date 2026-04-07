@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: tasty
-        fransez: ''
-        portugez: ''
+        ebreo: טעים
+        fransez: savoureux
+        portugez: saboroso
         kasteyano: sabroso
         turko: lezzetli
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: tasty
-        fransez: ''
-        portugez: ''
+        ebreo: טעימה
+        fransez: savoureuse
+        portugez: saborosa
         kasteyano: sabrosa
         turko: lezzetli
 
@@ -33,8 +35,9 @@ versions:
 
     translations:
         inglez: tasty
-        fransez: ''
-        portugez: ''
+        ebreo: טעימים
+        fransez: savoureux
+        portugez: saborosos
         kasteyano: sabrosos
         turko: lezzetli
 
@@ -45,8 +48,9 @@ versions:
 
     translations:
         inglez: tasty
-        fransez: ''
-        portugez: ''
+        ebreo: טעימות
+        fransez: savoureuses
+        portugez: saborosas
         kasteyano: sabrosas
         turko: lezzetli
 
