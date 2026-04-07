@@ -1,4 +1,4 @@
-grammar: NA
+grammar: מםומ
 orijen: Estanbol
 kategorias:
   - kontenentes
@@ -20,8 +20,9 @@ versions:
 
     translations:
         inglez: cup
-        fransez: ''
-        portugez: ''
+        ebreo: ספל
+        fransez: tasse
+        portugez: xícara
         kasteyano: taza
         turko: fincan
 
@@ -39,8 +40,9 @@ versions:
 
     translations:
         inglez: cups
-        fransez: ''
-        portugez: ''
+        ebreo: ספלים
+        fransez: tasses
+        portugez: xícaras
         kasteyano: tazas
         turko: fincan
 
