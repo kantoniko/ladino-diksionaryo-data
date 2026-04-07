@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -6,8 +6,9 @@ versions:
 
     translations:
         inglez: favour
-        fransez: ''
-        portugez: ''
+        ebreo: טובה
+        fransez: faveur
+        portugez: favor
         kasteyano: favor
         turko: lütuf
 
