@@ -8,8 +8,11 @@ versions:
         inglez:
         - stay
         - remain
-        fransez: ''
-        portugez: ''
+        ebreo: להישאר
+        fransez: rester
+        portugez: 
+        - restar
+        - permanecer
         kasteyano:
         - quedar
         - permanecer
