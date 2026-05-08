@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: thing
-        fransez: ''
-        portugez: ''
+        ebreo: דבר
+        fransez: chose
+        portugez: coisa
         kasteyano: cosa
         turko: şey
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: things
-        fransez: ''
-        portugez: ''
+        ebreo: דברים
+        fransez: choses
+        portugez: coisas
         kasteyano: cosas
         turko: şey
 
