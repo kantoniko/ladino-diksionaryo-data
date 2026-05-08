@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: nature
-        fransez: ''
-        portugez: ''
+        ebreo: טבע
+        fransez: nature
+        portugez: natureza
         kasteyano: naturaleza
         turko:
         - tabiat
