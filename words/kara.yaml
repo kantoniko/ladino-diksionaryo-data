@@ -15,8 +15,9 @@ versions:
           - cheek
           - face
           - side
-        fransez: ''
-        portugez: ''
+        ebreo: פנים
+        fransez: face
+        portugez: face
         kasteyano:
           - mejilla
           - cara
