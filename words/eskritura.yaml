@@ -1,4 +1,4 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
@@ -13,8 +13,11 @@ versions:
         - writing
         - script
         - handwriting
-        fransez: ''
-        portugez: ''
+        ebreo: 
+        - כתיבה
+        - כתב יד
+        fransez: écriture
+        portugez: escrita
         kasteyano: escritura
         turko:
         - yazı
