@@ -1,4 +1,4 @@
-grammar: NA
+grammar: 
 orijen: Jeneral
 
 versions:
@@ -8,8 +8,11 @@ versions:
         inglez:
         - luck
         - fortune
-        fransez: ''
-        portugez: ''
+        ebreo:
+        - מזל
+        - גורל
+        fransez: chance
+        portugez: sorte
         kasteyano: suerte
         turko:
         - şans
