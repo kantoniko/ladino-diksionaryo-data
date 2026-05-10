@@ -1,8 +1,11 @@
-grammar: 
+grammar: noun
 orijen: Jeneral
 
 versions:
   - ladino: suerte
+  
+    gender: masculine
+    number: singular
 
     translations:
         inglez:
