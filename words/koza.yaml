@@ -4,7 +4,7 @@ orijen: Jeneral
 versions:
   - ladino: koza
 
-    #gender: NA # masculine feminine
+    gender: feminine
     number: singular
 
     translations:
