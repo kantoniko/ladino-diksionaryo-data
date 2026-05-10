@@ -17,7 +17,7 @@ versions:
 
   - ladino: kozas
 
-    #gender: NA # masculine feminine
+    gender: feminine
     number: plural
 
     translations:
