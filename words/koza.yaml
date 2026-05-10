@@ -1,28 +1,30 @@
-grammar: NA
+grammar: noun
 orijen: Jeneral
 
 versions:
   - ladino: koza
 
-    #gender: NA # masculine feminine
+    gender: feminine
     number: singular
 
     translations:
         inglez: thing
-        fransez: ''
-        portugez: ''
+        ebreo: דבר
+        fransez: chose
+        portugez: coisa
         kasteyano: cosa
         turko: şey
 
   - ladino: kozas
 
-    #gender: NA # masculine feminine
+    gender: feminine
     number: plural
 
     translations:
         inglez: things
-        fransez: ''
-        portugez: ''
+        ebreo: דברים
+        fransez: choses
+        portugez: coisas
         kasteyano: cosas
         turko: şey
 
